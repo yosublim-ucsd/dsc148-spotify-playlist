@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Bunkers",
-  "num_followers": 200221,
+  "num_followers": 200222,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjJhNDcxMDRlNzM0ZWQ1NzYwNTE0YjI0ZDRhMjZiOTJkMzQwODA2",
+  "snapshot_id": "MCw0ZTFlZjA4MjRiYzM5YjEwMjUwMWNkNDljMGZhYjFkN2RiYzEwZGJi",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "R\u00e1pida Comida",
-        "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
-      },
-      "artists": [
-        {
-          "name": "Conf\u00edo en tus amigos",
-          "url": "https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4"
-        }
-      ],
-      "duration_ms": 124552,
-      "name": "Surfing caracol",
-      "url": "https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Reversiones, Vol. 1",
         "url": "https://open.spotify.com/album/25Fry1roXU1jvvQOsOUgof"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 315241,
       "name": "Volver",
       "url": "https://open.spotify.com/track/69IG0p2mNwmnh6EtbwrUa5"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "R\u00e1pida Comida",
+        "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
+      },
+      "artists": [
+        {
+          "name": "Conf\u00edo en tus amigos",
+          "url": "https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4"
+        }
+      ],
+      "duration_ms": 124552,
+      "name": "Surfing caracol",
+      "url": "https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd"
     },
     {
       "added_at": "2023-04-28 04:01:00",

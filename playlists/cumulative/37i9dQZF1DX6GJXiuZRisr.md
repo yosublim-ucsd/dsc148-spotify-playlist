@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-359 songs - 1 day 2 hr 41 min
+360 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Feel Again](https://open.spotify.com/track/4I6JwM7pS6Uo705qqyM2su) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Feel Again](https://open.spotify.com/album/0TTJ1Qk8jND6NF4TlSAJNA) | 2:58 | 2022-05-27 | 2022-08-13 |
 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 | 2021-05-07 |  |
 | [Figo](https://open.spotify.com/track/7DvqpuTIUSmEXZZLDRRfgi) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8), [Fuenka](https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK), [Schieber](https://open.spotify.com/artist/4HbpVjA45uVRTXkx7B1AKB) | [Figo](https://open.spotify.com/album/0OYKeYzbn1qX7ZqpcMXxHT) | 3:38 | 2022-01-14 | 2022-04-20 |
+| [Fire With Fire](https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fire With Fire](https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB) | 3:08 | 2023-05-12 |  |
 | [Fix Your Problems](https://open.spotify.com/track/3dazx4jjnVEfwoHcSQocxj) | [Boye & Sigvardt](https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR) | [Fix Your Problems](https://open.spotify.com/album/7tl7WUBPATfLpjgxh73qLS) | 2:16 | 2021-05-07 | 2022-05-30 |
 | [Flame](https://open.spotify.com/track/5LMVpehrEBygZ7z3aIK9Lf) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk), [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Flame](https://open.spotify.com/album/0SEyeOfZyqZjVqreACEk6D) | 3:37 | 2022-05-27 | 2022-08-13 |
 | [Flame \- Edit](https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Flame](https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0) | 5:26 | 2021-09-10 |  |
@@ -181,7 +182,7 @@
 | [LINE IN THE SAND](https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO) | [KILL SCRIPT](https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [LINE IN THE SAND](https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk) | 5:05 | 2022-06-03 |  |
 | [Little Darling \- Joris Voorn Remix](https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Little Darling \(Joris Voorn Remix\)](https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU) | 3:20 | 2023-03-31 |  |
 | [Lose Control](https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Deep State](https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo) | 5:37 | 2021-05-07 |  |
-| [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 | 2021-05-07 |  |
+| [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 | 2021-05-07 | 2023-05-14 |
 | [Lost at Sea](https://open.spotify.com/track/6DUiSnyXWYiNXSsRe6FJPc) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul / Lost at Sea](https://open.spotify.com/album/39S4MhNoCznHiI7csqfu7j) | 4:42 | 2022-06-10 | 2022-07-23 |
 | [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 | 2021-05-18 | 2022-10-05 |
 | [Lost In Space](https://open.spotify.com/track/3IJRNwpqZU7uJhQ5qFvy5D) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Lost In Space](https://open.spotify.com/album/3XmOP8oV0J57PrPYAOm63G) | 7:31 | 2023-05-05 |  |

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,215 songs - 5 day 7 hr 13 min
+2,216 songs - 5 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,6 +669,7 @@
 | [Feels Like](https://open.spotify.com/track/24Ocvau6Grw8PuMNF7sYRs) | [NORA](https://open.spotify.com/artist/1iWuFQRnNn5tGXpADvlJ4T) | [Feels Like](https://open.spotify.com/album/11zIONkstbfuL2PNQkfjEJ) | 2:28 | 2022-08-26 | 2022-09-11 |
 | [Feels So Good](https://open.spotify.com/track/3M9iXTsLrNf0eYEVyJDr7k) | [Rachel Huggins](https://open.spotify.com/artist/7zrvyajXkaIpiSK5KfyoAO) | [KEEP DREAMING](https://open.spotify.com/album/6Zx9n9TbW981AHHV5AU3K3) | 3:40 | 2022-03-23 | 2022-04-09 |
 | [Feels So Good](https://open.spotify.com/track/1X0GH4jrFy1tDUcMXMfhLP) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Feels So Good](https://open.spotify.com/album/653ugBySrH6gPqqAu9tIK0) | 3:15 | 2023-01-14 | 2023-02-12 |
+| [Feels So Good \- Swedish Red Elephant Remix](https://open.spotify.com/track/4ICWb7UFalbnma7FfIScG2) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn), [Swedish Red Elephant](https://open.spotify.com/artist/6fT9phXpEYVm2zB0QzGqDJ) | [Feels So Good \(Swedish Red Elephant Remix\)](https://open.spotify.com/album/7xjodj8r3DFOXkUN61mLlY) | 2:46 | 2023-05-13 |  |
 | [Feet First](https://open.spotify.com/track/55HoXe0AYxlZUx1xCVI74T) | [Stevie Cornell](https://open.spotify.com/artist/5hQZtP9bauCgRV2APn1goP) | [Stevie Cornell](https://open.spotify.com/album/3btTL1oBU80wYM8jrLKGsq) | 4:03 | 2022-04-22 | 2022-05-08 |
 | [Fever in the Night](https://open.spotify.com/track/4m5z1TxUgeTDXK73m0BwqN) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Fever in the Night](https://open.spotify.com/album/2GdQHLYpmdJxCNVBovkvxj) | 2:58 | 2021-06-19 | 2021-07-04 |
 | [Fields](https://open.spotify.com/track/2UmGUIyLSbV4oedZ5vhv6q) | [Organic Mood](https://open.spotify.com/artist/62ucDYhjm8ea5wAm4dcVzU), [Alexander P.](https://open.spotify.com/artist/5aodksoV5YU225ZjvisiZV) | [Fields](https://open.spotify.com/album/1OuIiaN5Tj7qBOJKwZBLGH) | 5:26 | 2022-07-01 | 2022-07-19 |

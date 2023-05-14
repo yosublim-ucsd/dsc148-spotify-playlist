@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 
 > The biggest party hits of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,250 likes - 150 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,657 likes - 150 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 36 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 37 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 | 38 | [Danger Zone \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:35 |
-| 39 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:17 |
+| 39 | [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 |
 | 40 | [Maneater](https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 4:33 |
 | 41 | [Eye of the Tiger](https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 4:03 |
 | 42 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 45 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:38 |
 | 46 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
 | 47 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
-| 48 | [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 |
+| 48 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:17 |
 | 49 | [Got My Mind Set On You](https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc) | 3:54 |
 | 50 | [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 |
 | 51 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 |
@@ -129,16 +129,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 119 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
 | 120 | [Like a Prayer](https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 5:40 |
 | 121 | [Give It To Me Baby](https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 4:08 |
-| 122 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
-| 123 | [Baby Jane \- 2008 Remaster](https://open.spotify.com/track/1wrT33b6HuKlpk9ziscEUY) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Body Wishes](https://open.spotify.com/album/065Q5LxNZPSjmqcZmGeRGc) | 4:43 |
+| 122 | [Forget Me Nots \- Remastered](https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:44 |
+| 123 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
 | 124 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
-| 125 | [Forget Me Nots \- Remastered](https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:44 |
+| 125 | [Baby Jane \- 2008 Remaster](https://open.spotify.com/track/1wrT33b6HuKlpk9ziscEUY) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Body Wishes](https://open.spotify.com/album/065Q5LxNZPSjmqcZmGeRGc) | 4:43 |
 | 126 | [Good Thing](https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:21 |
 | 127 | [The Heat Is On \- From "Beverly Hills Cop" Soundtrack](https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Above The Clouds \- The Collection \(Deluxe\)](https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ) | 3:47 |
 | 128 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 |
 | 129 | [Don't Get Me Wrong \- 2007 Remaster](https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Get Close \(Expanded & Remastered\)](https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3) | 3:47 |
-| 130 | [One Night In Bangkok \- Radio Edit / From “Chess” / Remastered 2016](https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [One Night In Bangkok \(Radio Edit / From “Chess” / Remastered 2016\)](https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g) | 3:13 |
-| 131 | [A Little Respect](https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:33 |
+| 130 | [A Little Respect](https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:33 |
+| 131 | [One Night In Bangkok \- Radio Edit / From “Chess” / Remastered 2016](https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [One Night In Bangkok \(Radio Edit / From “Chess” / Remastered 2016\)](https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g) | 3:13 |
 | 132 | [Walk of Life](https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 4:12 |
 | 133 | [Two Hearts](https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Love Songs \(A Compilation Old and New\)](https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF) | 3:24 |
 | 134 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 149 | [Invisible Touch \- 2007 Remaster](https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 3:28 |
 | 150 | [Let My Love Open The Door](https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg) | [Pete Townshend](https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p) | [Empty Glass](https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h) | 2:44 |
 
-Snapshot ID: `MCxlYTBiN2ExMjBiNmQ4YTEwOGYwMzk5MTM5OGJmM2MzMzg2ZDhmMjg4`
+Snapshot ID: `MCwwOTkzMTJlOGRlNmQ3NGM5OGQzN2I3OTM0ZDdiNjFkZGU3MzA5MDI4`

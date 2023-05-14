@@ -1,12 +1,12 @@
 {
   "description": "Siempre espectaculares. Foto: Vicente Fern\u00e1ndez",
-  "num_followers": 72568,
+  "num_followers": 72708,
   "original_name": "Las Estrellas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTVjMDY0MjdlZGI1NjFiZjMzOTIyZTA1YThiMTU2MDQ4NjFiMGQ3",
+  "snapshot_id": "MCwzNTY1MTRlOGRiZjRkYzU5YWYwMzJhZmUwNjZmYmY5YTk0NDA2ZDAz",
   "tracks": [
     {
       "added_at": "2021-12-21 16:52:55",
@@ -115,22 +115,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u00bfY c\u00f3mo es \u00e9l?",
-      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 174946,
       "name": "Me cuesta tanto olvidarte",
       "url": "https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u00bfY c\u00f3mo es \u00e9l?",
+      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -391,22 +391,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "A Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 254600,
-      "name": "Canta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3npbtkmTdUlRxGFxViDD0K"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Alejandro Sanz 3",
         "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 299840,
       "name": "Mi soledad y yo",
       "url": "https://open.spotify.com/track/3GFLbBgMuY2RELNo6tMqOS"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 254600,
+      "name": "Canta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3npbtkmTdUlRxGFxViDD0K"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -567,18 +567,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Flor De Piel",
-        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
       "artists": [
         {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 283133,
-      "name": "Hacer El Amor Con Otro",
-      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+      "duration_ms": 219960,
+      "name": "Lo Dudo",
+      "url": "https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -599,18 +599,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+        "name": "Flor De Piel",
+        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 219960,
-      "name": "Lo Dudo",
-      "url": "https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH"
+      "duration_ms": 283133,
+      "name": "Hacer El Amor Con Otro",
+      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -647,54 +647,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Desde Andalucia",
-        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 325466,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 327240,
-      "name": "Otro D\u00eda M\u00e1s Sin Verte",
-      "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "De Piel Negra",
-        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Eternamente Bella",
-      "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Recuerdos II",
         "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
       },
@@ -723,6 +675,38 @@
       "duration_ms": 209160,
       "name": "Muchachita",
       "url": "https://open.spotify.com/track/3PyTaC8BN0de4KfYaQDtBs"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 327240,
+      "name": "Otro D\u00eda M\u00e1s Sin Verte",
+      "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Desde Andalucia",
+        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 325466,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -771,6 +755,22 @@
       "duration_ms": 241226,
       "name": "Quiero Dormir Cansado",
       "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "De Piel Negra",
+        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Eternamente Bella",
+      "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "El Sonido Vol. 2",
-        "url": "https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 261982,
-      "name": "Castillos",
-      "url": "https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 257453,
       "name": "Cosas del Amor (with Vikki Carr)",
       "url": "https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "El Sonido Vol. 2",
+        "url": "https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 261982,
+      "name": "Castillos",
+      "url": "https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Timbiriche 8",
-        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "T\u00fa Y Yo Somos Uno Mismo",
-      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 276600,
       "name": "Con los A\u00f1os Que Me Quedan",
       "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Timbiriche 8",
+        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "T\u00fa Y Yo Somos Uno Mismo",
+      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Historia de Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/59pr3xNucyjk4dfiHpX5B3"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Maria Napole\u00f3n",
-          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
-        }
-      ],
-      "duration_ms": 186435,
-      "name": "Ella Se Llamaba Martha",
-      "url": "https://open.spotify.com/track/43szVuShTNUEhIdVT3MfrD"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Monica Naranjo",
         "url": "https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 253266,
       "name": "Solo Se Vive una Vez",
       "url": "https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Historia de Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/59pr3xNucyjk4dfiHpX5B3"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        }
+      ],
+      "duration_ms": 186435,
+      "name": "Ella Se Llamaba Martha",
+      "url": "https://open.spotify.com/track/43szVuShTNUEhIdVT3MfrD"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "Baladas 80's 90's",
+        "url": "https://open.spotify.com/album/41wjuEye85NHNrEhVn02H7"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Cuando Baja La Marea",
+      "url": "https://open.spotify.com/track/0HgwO0T0c6PKrog2ENJN2y"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "La Historia De Magneto",
         "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
       },
@@ -2327,22 +2343,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Baladas 80's 90's",
-        "url": "https://open.spotify.com/album/41wjuEye85NHNrEhVn02H7"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Cuando Baja La Marea",
-      "url": "https://open.spotify.com/track/0HgwO0T0c6PKrog2ENJN2y"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Que Hago Aqu\u00ed?",
         "url": "https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6"
       },
@@ -2359,18 +2359,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Heridas",
-        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/6O1uu6IBrLPZqax4yCisSt"
       },
       "artists": [
         {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         }
       ],
-      "duration_ms": 263320,
-      "name": "D\u00e9jame Volver Contigo",
-      "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
+      "duration_ms": 245933,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/4rh6NUKzdzOenErCBd9AJO"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2391,18 +2391,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/6O1uu6IBrLPZqax4yCisSt"
+        "name": "Heridas",
+        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
       },
       "artists": [
         {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
         }
       ],
-      "duration_ms": 245933,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/4rh6NUKzdzOenErCBd9AJO"
+      "duration_ms": 263320,
+      "name": "D\u00e9jame Volver Contigo",
+      "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Si Quieres Verme Llorar",
-        "url": "https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lopez",
-          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
-        }
-      ],
-      "duration_ms": 190807,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Amor Infinito",
         "url": "https://open.spotify.com/album/7JOaaaN8g6NnPUcDSGsHxZ"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 242840,
       "name": "Gracias A Dios",
       "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Si Quieres Verme Llorar",
+        "url": "https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lopez",
+          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
+        }
+      ],
+      "duration_ms": 190807,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Lo M\u00e1s Rom\u00e1ntico De",
-        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/1wc5way7a45biOnobQUHJm"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5SLdkbTxNK4lMPtEhmU3Jw"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 218533,
       "name": "Insoportablemente Bella",
       "url": "https://open.spotify.com/track/5OAGFH0ezPr3jXSfQbMUpJ"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Lo M\u00e1s Rom\u00e1ntico De",
+        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/1wc5way7a45biOnobQUHJm"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -3027,8 +3027,8 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "La Historia De Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/7ITWVrFjMOo5eVT31GY314"
+        "name": "Timbiriche Rock Show",
+        "url": "https://open.spotify.com/album/4dFAq4e42viE6FcvnQfxzy"
       },
       "artists": [
         {
@@ -3036,9 +3036,9 @@
           "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
         }
       ],
-      "duration_ms": 178866,
-      "name": "Quincea\u00f1era",
-      "url": "https://open.spotify.com/track/2Sqg5VH7diEdBoQwJH7ryb"
+      "duration_ms": 259000,
+      "name": "Tel\u00e9fono",
+      "url": "https://open.spotify.com/track/23ho3p5SaJNC66vFBxR6Nt"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -3123,22 +3123,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Isla Del Sol",
-        "url": "https://open.spotify.com/album/5mbOkwRAd2mx7TCMaeJva3"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "No Puedo M\u00e1s",
-      "url": "https://open.spotify.com/track/2GE8RKcdkYiATbAZMGCz5b"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "La Historia del Puma",
         "url": "https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY"
       },
@@ -3151,6 +3135,22 @@
       "duration_ms": 313146,
       "name": "Due\u00f1o de Nada",
       "url": "https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Isla Del Sol",
+        "url": "https://open.spotify.com/album/5mbOkwRAd2mx7TCMaeJva3"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/2GE8RKcdkYiATbAZMGCz5b"
     },
     {
       "added_at": "2021-12-21 16:52:55",

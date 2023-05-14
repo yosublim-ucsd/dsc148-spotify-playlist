@@ -1,12 +1,12 @@
 {
   "description": "All the hits you'll need to make your summer sizzle.",
-  "num_followers": 1240062,
+  "num_followers": 1240738,
   "original_name": "Summer Hits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDA1YzA4YThhYzM5MDBmZGQxMjU3ZmM3OTNkZGMzMGEwMTgyY2Fh",
+  "snapshot_id": "MCxmMjk4Y2I5ZWIxMjM5YjEwNzYyYTMzMmM0OWRjZDEwZTk2YzczNTM4",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "3 Songs At A Time Sampler",
-        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 163854,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+        "name": "3 Songs At A Time Sampler",
+        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -963,30 +963,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Better Days (NEIKED x Mae Muller x Polo G)",
-        "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Mae Muller",
-          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 160656,
-      "name": "Better Days (NEIKED x Mae Muller x Polo G)",
-      "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema and Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Better Days (NEIKED x Mae Muller x Polo G)",
+        "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 160656,
+      "name": "Better Days (NEIKED x Mae Muller x Polo G)",
+      "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 201145,
       "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
       "added_at": "2023-05-12 04:01:00",

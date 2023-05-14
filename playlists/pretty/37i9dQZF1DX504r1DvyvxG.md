@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,587,259 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,587,630 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 12 | [Take the World Apart](https://open.spotify.com/track/4qqUsutDnU3ZSZbZiLrzNB) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Take the World Apart](https://open.spotify.com/album/3rXiySdCNMOD2mB55SpNUd) | 2:44 |
 | 13 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 |
 | 14 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 |
-| 15 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 |
-| 16 | [Ordinary World](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 5:40 |
-| 17 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
-| 18 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
+| 15 | [Ordinary World](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 5:40 |
+| 16 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 |
+| 17 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
+| 18 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
 | 19 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 |
 | 20 | [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 |
 | 21 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 78 | [Here Comes The Sun](https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw) | [Richie Havens](https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p) | [Live At The Cellar Door and at the Santa Monica Civic Auditorium](https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2) | 4:14 |
 | 79 | [Forever Young \- From NBC's Parenthood](https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Forever Young \(From NBC's Parenthood\)](https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN) | 4:21 |
 | 80 | [The Watchman's Gone](https://open.spotify.com/track/2aWxDsPrW9boRYyWLF6sst) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 4:18 |
-| 81 | [The Book of Love](https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:42 |
+| 81 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/4Vn7TykT27PIygBiZjTR2s) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 6:31 |
 | 82 | [That's the Way That the World Goes 'Round](https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 3:20 |
-| 83 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/4Vn7TykT27PIygBiZjTR2s) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 6:31 |
+| 83 | [The Book of Love](https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:42 |
 | 84 | [1952 Vincent Black Lightning](https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rumor And Sigh](https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ) | 4:43 |
 | 85 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
 | 86 | [Long Time Comin'](https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Terms of My Surrender](https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m) | 4:12 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 95 | [Mercy Now](https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Mercy Now](https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW) | 5:50 |
 | 96 | [Angie \- 2015 Remaster](https://open.spotify.com/track/4QTV3dLUyYu5vFPEFvA1jg) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Bert Jansch](https://open.spotify.com/album/2Fqo2YzPayuwaiUJEqUMGy) | 3:09 |
 | 97 | [Let Him Fly](https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Living With Ghosts](https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF) | 3:11 |
-| 98 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
-| 99 | [Wicked Game](https://open.spotify.com/track/0HKLzcztfHW7o9b2i0PwtV) | [Gemma Hayes](https://open.spotify.com/artist/1blgL26JbtaUUKUEMR6Hs2) | [Wicked Game](https://open.spotify.com/album/0Z1S7FjbZJ6OQ9hBo25dLa) | 4:05 |
-| 100 | [900 Miles](https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 5:07 |
+| 98 | [Souvenirs](https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Souvenirs](https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE) | 3:42 |
+| 99 | [Angeles](https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:56 |
+| 100 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
 
-Snapshot ID: `MCxlYmQ3NTUwYWI5Zjc0NGU4NTMzNjM5NTFmNmNlZmEzOWZmOTgyMTZm`
+Snapshot ID: `MCwzNmNmZjEyNzgxNGQyZGMxYTE4Y2RhMzczOGE2NWJmNjkwY2ExY2Y5`

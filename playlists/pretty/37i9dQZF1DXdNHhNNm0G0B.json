@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70767,
+  "num_followers": 70782,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzRlNDhiNzk0NWJmMzQyNTAxM2E3NGVlZWMzMDQ5ZGZlNWY0NmVl",
+  "snapshot_id": "MCxjYWNlMTc0YTljMzM4MDcyN2Y5OGYzYTUzOTBmNmFjZTljODdjNTk0",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -357,20 +357,20 @@
       "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
-      "added_at": "2023-05-13 01:35:19",
+      "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Blues Jumped a Rabbit",
-        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
+        "name": "Presenting Blind Willie McTell",
+        "url": "https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z"
       },
       "artists": [
         {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
         }
       ],
-      "duration_ms": 235040,
-      "name": "Blues Jumped a Rabbit",
-      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
+      "duration_ms": 152853,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -389,20 +389,20 @@
       "url": "https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN"
     },
     {
-      "added_at": "2023-04-07 00:01:00",
+      "added_at": "2023-05-14 01:08:44",
       "album": {
-        "name": "Presenting Blind Willie McTell",
-        "url": "https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z"
+        "name": "Blues Jumped a Rabbit",
+        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
       },
       "artists": [
         {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
         }
       ],
-      "duration_ms": 152853,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu"
+      "duration_ms": 235040,
+      "name": "Blues Jumped a Rabbit",
+      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -551,38 +551,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Live in Forl\u00ec, Italy 1982",
-        "url": "https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ"
-      },
-      "artists": [
-        {
-          "name": "Robbie Basho",
-          "url": "https://open.spotify.com/artist/1bB0hKohfWkczaTMQLQdlR"
-        }
-      ],
-      "duration_ms": 282981,
-      "name": "Clair de lune (For Twelve-String) [Live]",
-      "url": "https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "The Cause of It All",
-        "url": "https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh"
-      },
-      "artists": [
-        {
-          "name": "The Reverend Shawn Amos",
-          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
-        }
-      ],
-      "duration_ms": 137186,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -599,6 +567,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Live in Forl\u00ec, Italy 1982",
+        "url": "https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ"
+      },
+      "artists": [
+        {
+          "name": "Robbie Basho",
+          "url": "https://open.spotify.com/artist/1bB0hKohfWkczaTMQLQdlR"
+        }
+      ],
+      "duration_ms": 282981,
+      "name": "Clair de lune (For Twelve-String) [Live]",
+      "url": "https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 154924,
       "name": "New Anthem",
       "url": "https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "The Cause of It All",
+        "url": "https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        }
+      ],
+      "duration_ms": 137186,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/1ymBUTnXZpFaefVJxvoDjL"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Fountain",
         "url": "https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 303946,
       "name": "Natural West",
       "url": "https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/1ymBUTnXZpFaefVJxvoDjL"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "A Savage Life",
-        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
-      },
-      "artists": [
-        {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
-        }
-      ],
-      "duration_ms": 186591,
-      "name": "The Man From Nowhere",
-      "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Bootleg USA",
         "url": "https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 339320,
       "name": "Plains of Waterloo / James Connolly",
       "url": "https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "A Savage Life",
+        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "duration_ms": 186591,
+      "name": "The Man From Nowhere",
+      "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5fPjBAFjqX4Cf0XAPhGVcf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4Y4P44bLQ7tz5qy8XJmQtg"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "The Blues Never End",
         "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 192946,
       "name": "Way Down Yonder Blues",
       "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5fPjBAFjqX4Cf0XAPhGVcf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4Y4P44bLQ7tz5qy8XJmQtg"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5fPjBAFjqX4Cf0XAPhGVcf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Orange County Serenade",
+      "url": "https://open.spotify.com/track/1ch5qYv75SfJyOaZJEcNzs"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Black Dog Blues",
         "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 207640,
       "name": "Lonesome Blues",
       "url": "https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Golden Selection (Remastered)",
-        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
-      },
-      "artists": [
-        {
-          "name": "Sunnyland Slim",
-          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
-        }
-      ],
-      "duration_ms": 169214,
-      "name": "She Ain't Nowhere - Remastered",
-      "url": "https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS"
     }
   ],
   "unique_name": "Rockin' Chair Blues",

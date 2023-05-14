@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,166 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,179 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,18 +33,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 23 | [Someone To You](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Where The Shadow Ends](https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD) | 3:39 |
 | 24 | [Superheroes](https://open.spotify.com/track/37sINbJZcFdHFAsVNsPq1i) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [No Sound Without Silence](https://open.spotify.com/album/6yd9yk8nFcHalXzy7mgaDx) | 4:05 |
 | 25 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 |
-| 26 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 |
-| 27 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
-| 28 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
-| 29 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 |
+| 26 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
+| 27 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 |
+| 28 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 |
+| 29 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
 | 30 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
 | 31 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 |
 | 32 | [More the Victim](https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 2:41 |
-| 33 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 |
-| 34 | [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 |
-| 35 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
-| 36 | [So Am I](https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:03 |
-| 37 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 |
+| 33 | [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 |
+| 34 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
+| 35 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 |
+| 36 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 |
+| 37 | [So Am I](https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:03 |
 | 38 | [Look What God Gave Her](https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 2:48 |
 | 39 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
 | 40 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 49 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
 | 50 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 |
 
-Snapshot ID: `MCw1YWU1MDlmNzg5OGM0MjJmNzNhMjFmN2NmNGU3MzE2MGRlYTk4ZmJh`
+Snapshot ID: `MCw2OWE2MzYwMGQyNjhhYWNhZmVhODgwOTk2ZmJhMmExMzdjMTlkOWNl`

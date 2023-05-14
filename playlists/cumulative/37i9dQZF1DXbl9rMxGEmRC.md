@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-393 songs - 1 day 10 hr 4 min
+394 songs - 1 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [K.I.N.G](https://open.spotify.com/track/6IvxXL0dqXJlgIoIFfMqFA) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Now, Diabolical](https://open.spotify.com/album/5t5tP8dVwdyI8yTShWcIzX) | 3:36 | 2022-07-13 |  |
 | [Kagutsuchi](https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU) | [Rashomon](https://open.spotify.com/album/3iErNnoi1sc1pqKntalRN2) | 7:34 | 2022-05-06 |  |
 | [Kernos Crown](https://open.spotify.com/track/0VOQukpxqz5osddw7ksJWq) | [Abduction](https://open.spotify.com/artist/0giVCDcrvEldaPK8aCF1vp) | [Kernos Crown](https://open.spotify.com/album/0Z8HBHHTiuLkKqxQteBDZx) | 6:03 | 2022-08-12 | 2022-10-12 |
-| [Kill for Satan](https://open.spotify.com/track/3WdwfxDcyAe6m25InJuW91) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Kill for Satan](https://open.spotify.com/album/0t5fnWqUexdwd0fD5Ju4Bj) | 4:54 | 2022-07-13 |  |
+| [Kill for Satan](https://open.spotify.com/track/3WdwfxDcyAe6m25InJuW91) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Kill for Satan](https://open.spotify.com/album/0t5fnWqUexdwd0fD5Ju4Bj) | 4:54 | 2022-07-13 | 2023-05-14 |
 | [Kill for Satan](https://open.spotify.com/track/6iaN2Q0DOxOIAPPrI3R3KZ) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Kill for Satan](https://open.spotify.com/album/46ecBgtPpQZZsAdFaeuFn0) | 4:54 | 2022-07-13 | 2022-07-28 |
 | [KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET](https://open.spotify.com/track/2KIFDLjfHIIkRum4fNmonY) | [Cxrpse](https://open.spotify.com/artist/69B0S7YBt4xKC2HCJMISyv) | [KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET](https://open.spotify.com/album/0pOdTGdqc1p8iizWzoE64G) | 1:54 | 2022-11-25 | 2023-02-04 |
 | [Kingdom](https://open.spotify.com/track/0DfUFmR3IAi6qqXyStk0y9) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Kingdom](https://open.spotify.com/album/0YWKSnXJ6VUlc0rCGdfmZW) | 5:51 | 2022-08-26 | 2022-12-01 |
@@ -230,6 +230,7 @@
 | [Momentary Trails](https://open.spotify.com/track/2KAnVNkix64ZZwDQSQ6Xuy) | [Shadecrown](https://open.spotify.com/artist/27vaCCevKMJ2eS6UBxzqJQ) | [Solitarian](https://open.spotify.com/album/66xupchKxjGI4LcE8dOMG5) | 5:14 | 2021-12-17 | 2022-04-09 |
 | [Mono No Aware](https://open.spotify.com/track/2gsV4pyZk0hTkZKOGISkcF) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Mono No Aware](https://open.spotify.com/album/5sBYlEpYJG7XDEj4BECS9P) | 9:43 | 2022-01-14 | 2022-02-11 |
 | [Moonflowers Bloom in Misery](https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Moonflowers \(Deluxe Edition\)](https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek) | 6:19 | 2021-12-17 |  |
+| [Morbid Visions \- Re\-Recorded](https://open.spotify.com/track/3HS94Y8gl2Tly3fBmjgu69) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Morbid Visions \(Re\-Recorded\)](https://open.spotify.com/album/4ZKPVKY1AOOL1Mm0a5idjH) | 3:37 | 2023-05-12 |  |
 | [Moribunda](https://open.spotify.com/track/0jy5t9s6Ooqx08G7keyS6F) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Triade III : Nyx](https://open.spotify.com/album/4XuMfuiIXtS6yPc9nE6Zp0) | 7:36 | 2023-04-07 | 2023-05-08 |
 | [Mother North](https://open.spotify.com/track/79iREiH6mrODItQGLaidt8) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Nemesis Divina](https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb) | 6:25 | 2022-07-13 |  |
 | [Mother North \- Remastered 2016](https://open.spotify.com/track/2kBBRk0vuVdQjA1LH494Qz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Nemesis Divina](https://open.spotify.com/album/6K0rkORxLaVvOC72xW9ZgB) | 6:25 | 2022-07-13 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: El Mató a un Policía Motorizado
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,437 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,497 likes - 75 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 15 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 |
 | 16 | [Tan Lejos](https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Juan Casanova](https://open.spotify.com/artist/6AvKcjNtR1AYU8wN72MvNK) | [El Camino Más Largo](https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX) | 4:58 |
 | 17 | [Te quiero igual](https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 3:55 |
-| 18 | [Ella Dijo](https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Sistema Nervioso Central](https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4) | 4:44 |
+| 18 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
 | 19 | [Mírenla](https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:16 |
-| 20 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
+| 20 | [Ella Dijo](https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Sistema Nervioso Central](https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4) | 4:44 |
 | 21 | [Arrancacorazones](https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:19 |
 | 22 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 |
 | 23 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 40 | [Tan Distintos](https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Carlos Tarque](https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR) | [Locales Calientes](https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC) | 4:07 |
 | 41 | [Amanece En La Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 |
 | 42 | [Oda a la Sin Nombre](https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [A Través del Mar de los Sargazos](https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ) | 4:32 |
-| 43 | [Cuando Estés Acá](https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 4:55 |
-| 44 | [Chipi\-Chipi](https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Hija De La Lagrima](https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA) | 3:06 |
+| 43 | [Chipi\-Chipi](https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Hija De La Lagrima](https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA) | 3:06 |
+| 44 | [Cuando Estés Acá](https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 4:55 |
 | 45 | [Ando Ganas \(Llora Llora\)](https://open.spotify.com/track/3JE8qYm4luylvVnhVuUfvC) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ay Ay Ay](https://open.spotify.com/album/7DApDgESPxFvCUbZWVXVHB) | 5:30 |
 | 46 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 |
 | 47 | [Desconexión Sideral](https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:51 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 63 | [Te Encontré \(Acústico\)](https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 3:14 |
 | 64 | [Como un Cuento](https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 4:46 |
 | 65 | [Etiqueta Negra](https://open.spotify.com/track/6XaH8Mw8EvzVrFQ5ww5rLm) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Cordero Atado](https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk) | 5:36 |
-| 66 | [Josefina](https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 2:40 |
-| 67 | [Heroína](https://open.spotify.com/track/7ERzS9KIggtCp9oslPzEc0) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 5:41 |
+| 66 | [Heroína](https://open.spotify.com/track/7ERzS9KIggtCp9oslPzEc0) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 5:41 |
+| 67 | [Josefina](https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 2:40 |
 | 68 | [Va a Ser Difícil Olvidar](https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
 | 69 | [Otro Jueves Cobarde](https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 5:20 |
 | 70 | [Olivia](https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Intemperie](https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f) | 3:42 |
 | 71 | [Encuentros Cercanos](https://open.spotify.com/track/2Yqe9TulIPXUESIoMTr3pX) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Los Años Salvajes](https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y) | 4:26 |
 | 72 | [Cielo Todo Gris](https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [La Sed](https://open.spotify.com/album/5bOQcSrMniUTGZq4Np1zjT) | 3:39 |
-| 73 | [Dejo Atrás](https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Dejo Atrás](https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb) | 3:41 |
+| 73 | [Inconsciente Colectivo](https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En La Vereda Del Sol](https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U) | 2:53 |
 | 74 | [Siguiendo la Luna](https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Rock Nacional](https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK) | 4:39 |
-| 75 | [Inconsciente Colectivo](https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En La Vereda Del Sol](https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U) | 2:53 |
+| 75 | [Dejo Atrás](https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Dejo Atrás](https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb) | 3:41 |
 
-Snapshot ID: `MCxmNjYwY2EyY2MwY2YwMDRjYWU1Yjc4MDFkMTU1OTJhNWZmZmQwMmNm`
+Snapshot ID: `MCxlMGY1MzJmNDk2ZDI5MjA2ZTdiMmQ2NGZhYjE3MGVkMDZkMDkxN2Nh`

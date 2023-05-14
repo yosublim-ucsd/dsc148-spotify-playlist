@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,660 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,868 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 7 | [Arrive On St\. Patrick's Day](https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [SIR REG](https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE) | 3:16 |
 | 8 | [Devil's Dance Floor](https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 3:59 |
 | 9 | [Fight Song](https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz) | [The Stanfields](https://open.spotify.com/artist/0w8r7Pn1wm1SCegYhVIQtJ) | [Modem Operandi](https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg) | 2:47 |
-| 10 | [The Foggy Dew](https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:11 |
+| 10 | [Yesterday's Rebel](https://open.spotify.com/track/3rldsE7VbNG5jXv2LGNKF8) | [The O'Reillys and the Paddyhats](https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ) | [Green Blood](https://open.spotify.com/album/4AAQCgvQvR3RRpJdxRvNCl) | 2:54 |
 | 11 | [Sleep Is for the Weak](https://open.spotify.com/track/3tkXg3freIdvTxN58YUPaG) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Polka's Not Dead](https://open.spotify.com/album/5V7rg6LPNl4TgqiGzA4kZH) | 3:09 |
-| 12 | [Yesterday's Rebel](https://open.spotify.com/track/3rldsE7VbNG5jXv2LGNKF8) | [The O'Reillys and the Paddyhats](https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ) | [Green Blood](https://open.spotify.com/album/4AAQCgvQvR3RRpJdxRvNCl) | 2:54 |
+| 12 | [The Foggy Dew](https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:11 |
 | 13 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 |
 | 14 | [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 |
 | 15 | [Drunken Sailor](https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 49 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 |
 | 50 | [Haul Away, Joe](https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [3 Cheers for 30 Years](https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh) | 3:21 |
 
-Snapshot ID: `MCw4MjYxMjAxNzllZTJjYjQwNDQ0NjBiZDkxOTQ0ZDU4NWZkMTIwYmEy`
+Snapshot ID: `MCwyNGZmZTU4NWNjM2M3YTQ0ZWQ2NTQyZTBhOTk4MWU3OWE0YTlmZDI4`

@@ -323,6 +323,28 @@
     },
     {
       "album": {
+        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
+        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Brook Benton",
+          "url": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Baby, You\u2019ve Got What It Takes",
+      "url": "https://open.spotify.com/track/1kxk1MnNnKBEQZdTrByDic"
+    },
+    {
+      "album": {
         "name": "Calypso",
         "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
       },
@@ -890,7 +912,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 141306,
       "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
       "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"

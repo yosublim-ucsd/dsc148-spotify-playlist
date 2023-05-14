@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Paris Paloma
 
-491 songs - 1 day 6 hr 44 min
+492 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Civilian](https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS) | 3:40 | 2022-06-24 | 2023-03-11 |
 | [Civilian](https://open.spotify.com/track/7630alXL5HfQAHQhBam5pJ) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2IWn2PFFPhYexWP8fBDNp9) | 3:40 | 2021-10-22 | 2022-07-29 |
 | [Colors](https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Colors](https://open.spotify.com/album/0VfWB085G8pwOy6kpUhd0F) | 1:56 | 2022-01-14 |  |
-| [colour in life](https://open.spotify.com/track/6MKw0vVRAtO5gs8G96IkQZ) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [colour in life](https://open.spotify.com/album/1NqI2jWZ4Mbi9vFHlxiz2A) | 4:48 | 2023-04-21 |  |
+| [colour in life](https://open.spotify.com/track/6MKw0vVRAtO5gs8G96IkQZ) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [colour in life](https://open.spotify.com/album/1NqI2jWZ4Mbi9vFHlxiz2A) | 4:48 | 2023-04-21 | 2023-05-14 |
 | [Complex](https://open.spotify.com/track/0mMLaYnvYOMMHxgqU0DxX0) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Complex](https://open.spotify.com/album/0Cc8YFUkcxQXuDOO1CfSO8) | 3:48 | 2021-10-22 | 2022-07-29 |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-26 |  |
 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 | 2022-06-24 |  |
@@ -142,6 +142,7 @@
 | [Ether Garden](https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 2:47 | 2022-04-13 | 2022-10-15 |
 | [Even the Darkness Has Arms](https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 3:50 | 2022-06-24 |  |
 | [Even The Darkness Has Arms](https://open.spotify.com/track/6Wu4c7dHTsO42UG4D3IFyx) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Even The Darkness Has Arms](https://open.spotify.com/album/5jPNYtypqCu2vPNzb16Sm7) | 3:50 | 2022-04-13 | 2022-04-20 |
+| [Even When I Don't](https://open.spotify.com/track/19IAe1UyxcjV3HzCt1dohV) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Even When I Don't](https://open.spotify.com/album/6cQifdE6nX2H50SCJJi5N0) | 3:12 | 2023-05-12 |  |
 | [Ever New \- Reworked by Bon Iver & Flock of Dimes](https://open.spotify.com/track/2DRr5wyIo7Fs4ziuIppSeB) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Ever New \(Reworked by Bon Iver & Flock Of Dimes\)](https://open.spotify.com/album/6YBMppvgwzEQ1WluBwDVBE) | 6:24 | 2022-01-14 |  |
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-10-22 |  |
 | [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 | 2023-03-24 |  |

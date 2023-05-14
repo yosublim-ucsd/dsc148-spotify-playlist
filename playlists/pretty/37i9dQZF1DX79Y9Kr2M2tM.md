@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,280 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,351 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 49 | [Howl](https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ) | 3:38 |
 | 50 | [Old Now](https://open.spotify.com/track/3IVALWwWuGL5p3W6cPtjDH) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [The Kingfisher](https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf) | 4:49 |
 | 51 | [Godzilla](https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Godzilla](https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al) | 4:49 |
-| 52 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
-| 53 | [You](https://open.spotify.com/track/6mwHS78L18Da6HRO4HNo0i) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 3:56 |
-| 54 | [July Bones](https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [A.M.](https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc) | 3:59 |
+| 52 | [You](https://open.spotify.com/track/6mwHS78L18Da6HRO4HNo0i) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 3:56 |
+| 53 | [July Bones](https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [A.M.](https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc) | 3:59 |
+| 54 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
 | 55 | [To Each His Own](https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:10 |
 | 56 | [Spirit Cold](https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:38 |
 | 57 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 60 | [Motives](https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl) | [Davis John Patton](https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl) | [Forest Park](https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR) | 4:03 |
 | 61 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
 | 62 | [The Fold](https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK) | [Wickerbird](https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti) | [The Crow Mother](https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD) | 3:36 |
-| 63 | [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 |
-| 64 | [Do It All Again](https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Do It All Again](https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1) | 3:19 |
+| 63 | [Do It All Again](https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Do It All Again](https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1) | 3:19 |
+| 64 | [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 |
 | 65 | [Afterglow](https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Afterglow](https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy) | 3:10 |
 | 66 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
 | 67 | [Bridge](https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [Open Season \(Deluxe Edition\)](https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw) | 2:30 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 87 | [Golden](https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden](https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z) | 3:19 |
 | 88 | [Lost](https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Two](https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ) | 3:56 |
 | 89 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
-| 90 | [Lost Boy](https://open.spotify.com/track/0VSd1i7BKn1dI5cTmpqyEV) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Fall Down \- EP](https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv) | 0:53 |
-| 91 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
+| 90 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
+| 91 | [Lost Boy](https://open.spotify.com/track/0VSd1i7BKn1dI5cTmpqyEV) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Fall Down \- EP](https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv) | 0:53 |
 | 92 | [Society](https://open.spotify.com/track/5BQZpjCcPmFSeLzTh48Zfc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Orbit](https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u) | 3:53 |
 | 93 | [Arc \- Stripped](https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Arc \- Stripped](https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ) | 3:26 |
 | 94 | [I Still Remain](https://open.spotify.com/track/4PRgUvIwL0u3fSe5Eyg7oS) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/6IY3dzTK8UZCJpzMO3TqyH) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 99 | [Saving Us a Riot](https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Saving Us a Riot](https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz) | 4:16 |
 | 100 | [Bombs](https://open.spotify.com/track/5h9kCImRSHs7xabbDOYCYC) | [Sami Simon](https://open.spotify.com/artist/0QNjXIQx37k8fIIzO4g71q) | [Bombs](https://open.spotify.com/album/0uEl2CeXpVSKVeaZL1upw5) | 4:26 |
 
-Snapshot ID: `MCwyOTNkNDNjZjdkNmU0M2Y3MTZmMWZiYjg1Nzk1NmQwMzlmODZhOGY4`
+Snapshot ID: `MCw4ZGIzMzA2ZTc4Zjg0MjUyMzhhMzhiMDljMjJiYTUyMWQ2ODIzM2I3`

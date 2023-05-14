@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,239 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,266 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 42 | [Desperte Sin Ti \(Remix\)](https://open.spotify.com/track/4QYQgJhBryglC2hEpVGrZU) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Desperte Sin Ti \(Remix\)](https://open.spotify.com/album/5ddbBmQN5yZ1wVsL9VCVFh) | 5:19 |
 | 43 | [Vamos Hacerlo](https://open.spotify.com/track/4qZEe7OrbYFWUCFrnCOP0O) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 2:48 |
 | 44 | [1+1 \(feat\. Yandel & Sofía Reyes\) \- Banx & Ranx Remix](https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [1+1 \(feat\. Yandel & Sofía Reyes\) \[Banx & Ranx Remix\]](https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz) | 3:24 |
-| 45 | [Poropopompon](https://open.spotify.com/track/6taOZoNSjPLewGblEv0p0u) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:35 |
-| 46 | [Por Mi Reggae Muero 2020](https://open.spotify.com/track/09yuQ2v1mHGWZVrpQB1Oj4) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 3:34 |
+| 45 | [Por Mi Reggae Muero 2020](https://open.spotify.com/track/09yuQ2v1mHGWZVrpQB1Oj4) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 3:34 |
+| 46 | [Poropopompon](https://open.spotify.com/track/6taOZoNSjPLewGblEv0p0u) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:35 |
 | 47 | [Plakito \(feat\. El General Gadiel & Farruko\) \- Remix](https://open.spotify.com/track/1WmiclR92NBBRbgqS4hXsQ) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [El General Gadiel](https://open.spotify.com/artist/7tETQjUDr6hqeJVd0WyuhH), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Legacy \- De Líder a Leyenda Tour \(Deluxe Edition\)](https://open.spotify.com/album/0kEZti5UKQ2Dgc5o5ts5TQ) | 3:26 |
 | 48 | [Sólo Mía \(feat\. Maluma\)](https://open.spotify.com/track/1ei3g2hMYh1VKvik9FoUQR) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:23 |
-| 49 | [Invencible](https://open.spotify.com/track/70iFZwMfjDJBlObBLWFywd) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 2:14 |
-| 50 | [Ponme al Dia](https://open.spotify.com/track/2pPUUM4NPWT4KV7Jf0Mnmb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 4:14 |
+| 49 | [Ponme al Dia](https://open.spotify.com/track/2pPUUM4NPWT4KV7Jf0Mnmb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 4:14 |
+| 50 | [Invencible](https://open.spotify.com/track/70iFZwMfjDJBlObBLWFywd) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 2:14 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDBkYWNmZjBiNjBlN2EwNWMwZDAyMTBhNzBjZmEwNTVjZg==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA0YWI1Nzg4OGY0ODRlMDlmZWM4OWU2ODYzYmMzOTBlYQ==`

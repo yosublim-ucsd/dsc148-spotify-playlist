@@ -1,12 +1,12 @@
 {
   "description": "Saca la estrella que llevas dentro.",
-  "num_followers": 687852,
+  "num_followers": 688036,
   "original_name": "Karaoke en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGUxNGFiMjFhNjNhYWY2OTU0ZWUwZDVkZDIyYjJjZWYwYTQzMzRj",
+  "snapshot_id": "MCw0NGU1NDNhZWQzYzBhM2IzYTFlYTg3ZjQxZTk2ZGRhNjA2ZDMzYmI2",
   "tracks": [
     {
       "added_at": "2023-04-21 02:31:06",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Reggaet\u00f3n Lento (Bailemos)",
-      "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 228680,
       "name": "Te Mando Flores",
       "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Reggaet\u00f3n Lento (Bailemos)",
+      "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
-      },
-      "artists": [
-        {
-          "name": "Wolfine",
-          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Marco Antonio Solis",
         "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 239400,
       "name": "No Me Doy Por Vencido",
       "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
+      },
+      "artists": [
+        {
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Hijo de la luna",
+      "url": "https://open.spotify.com/track/2LmlZvAmT1L0O3iPVSQWOX"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 259146,
-      "name": "Hijo de la luna",
-      "url": "https://open.spotify.com/track/2LmlZvAmT1L0O3iPVSQWOX"
+      "duration_ms": 302946,
+      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
+      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -1615,22 +1631,6 @@
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 302946,
-      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
-      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "La Melodia de la Calle \"Updated\"",
-        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "El Doctorado",
-      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
         "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 271813,
       "name": "El Ni\u00e1gra En Bicicleta - Live - Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
       "url": "https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "La Melodia de la Calle \"Updated\"",
+        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 264146,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
     },
     {
       "added_at": "2023-04-21 02:31:06",

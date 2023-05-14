@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Eyshila
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,453 likes - 75 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,557 likes - 75 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 34 | [Me Deixe Aqui / Tudo Entregarei \- Ao Vivo](https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Me Deixe Aqui / Tudo Entregarei \(Ao Vivo\)](https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh) | 4:53 |
 | 35 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA) | 3:54 |
 | 36 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 |
-| 37 | [Dependente](https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Dependente](https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI) | 5:01 |
-| 38 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 |
-| 39 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 |
-| 40 | [Vinde A Mim](https://open.spotify.com/track/74x0zAixJTR1kaXQRzO9uJ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Vinde A Mim](https://open.spotify.com/album/7bOk8D9ftAplKwunRQamun) | 5:29 |
+| 37 | [Jesus Vive \- Ao Vivo](https://open.spotify.com/track/0KlZvag6ts0IiBKB3eADYC) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Jesus Vive \(Ao Vivo\)](https://open.spotify.com/album/4peKjX1TTlUZXO9hR4SnRg) | 7:17 |
+| 38 | [Dependente](https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Dependente](https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI) | 5:01 |
+| 39 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 |
+| 40 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 |
 | 41 | [Rei do Meu Coração](https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rei do Meu Coração](https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT) | 6:00 |
 | 42 | [O Segredo \(Ao Vivo\)](https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Segredo \(Ao Vivo\)](https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd) | 5:06 |
-| 43 | [Jesus Vive \- Ao Vivo](https://open.spotify.com/track/0KlZvag6ts0IiBKB3eADYC) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Jesus Vive \(Ao Vivo\)](https://open.spotify.com/album/4peKjX1TTlUZXO9hR4SnRg) | 7:17 |
+| 43 | [Vinde A Mim](https://open.spotify.com/track/74x0zAixJTR1kaXQRzO9uJ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Vinde A Mim](https://open.spotify.com/album/7bOk8D9ftAplKwunRQamun) | 5:29 |
 | 44 | [Jesus](https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Jesus](https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc) | 5:10 |
 | 45 | [Tá Chorando Por Quê?](https://open.spotify.com/track/2jHJlzo6TYxqmMufgMDWBl) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Tá Chorando Por Quê?](https://open.spotify.com/album/6skA7SfyH0VWa78KOFwNGU) | 4:08 |
 | 46 | [Grande é o Nosso Deus \- Ao Vivo](https://open.spotify.com/track/08oVsSKDOUS7hctEGBR43L) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus \(Ao Vivo\)](https://open.spotify.com/album/2d0vpD8e9BH5cSCRLHriUH) | 5:23 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 48 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
 | 49 | [Ora Um Pouco Mais](https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ora Um Pouco Mais](https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702) | 4:38 |
 | 50 | [Porque Ele Vive](https://open.spotify.com/track/1UxXYjUoBikUHg85ij9sIk) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Porque Ele Vive](https://open.spotify.com/album/4YaBiCeYejEfV6gPDx0r6Z) | 5:41 |
-| 51 | [Vem, Espírito de Deus \- Ao Vivo](https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Vem, Espírito de Deus \(Ao Vivo\)](https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV) | 4:24 |
-| 52 | [Cristo / Face a Face \(Agnus Dei\) \- Ensaio Aberto](https://open.spotify.com/track/4tWplPdR7JPZrNO8WpXKCQ) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Cristo / Face a Face \(Agnus Dei\) \[Ensaio Aberto\]](https://open.spotify.com/album/760kAKxycq6NStzZ3vg5rH) | 7:59 |
+| 51 | [Cristo / Face a Face \(Agnus Dei\) \- Ensaio Aberto](https://open.spotify.com/track/4tWplPdR7JPZrNO8WpXKCQ) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Cristo / Face a Face \(Agnus Dei\) \[Ensaio Aberto\]](https://open.spotify.com/album/760kAKxycq6NStzZ3vg5rH) | 7:59 |
+| 52 | [Vem, Espírito de Deus \- Ao Vivo](https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Vem, Espírito de Deus \(Ao Vivo\)](https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV) | 4:24 |
 | 53 | [Ele Vivo Está \- Ao Vivo](https://open.spotify.com/track/1rdX7BDE5okxQ3gIVbj1sy) | [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Ele Vivo Está \(Ao Vivo\)](https://open.spotify.com/album/1TfwbOSiKetVgFv3hwXmJ8) | 9:21 |
 | 54 | [Imagine \(Ao Vivo\)](https://open.spotify.com/track/7i3FmPXzZ09XKSECqPSDLi) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Imagine \(Ao Vivo\)](https://open.spotify.com/album/70BXXPNfNXGXBT7P2vjh17) | 4:35 |
 | 55 | [Pra Te Ver Feliz \- Ao Vivo](https://open.spotify.com/track/4FmwdvLV1ccm1tCUNwjhu3) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Pra Te Ver Feliz \(Ao Vivo\)](https://open.spotify.com/album/0o4NqqS8HrlxFldYnCC4yE) | 6:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 74 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 |
 | 75 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 
-Snapshot ID: `MCxiZGY0OGVmNTIzZWE4YjU1OTY4ZWM3NWI4NTBjMTEzYzY3N2ZmYzg1`
+Snapshot ID: `MCxiY2VhZmFhOTdmODM4YzMzMWEyMmQzYmFjZjY5NzhmZDAyZjRkMzIy`

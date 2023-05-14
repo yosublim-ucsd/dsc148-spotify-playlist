@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-431 songs - 1 day 1 hr 38 min
+432 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Los Ritmos Violentos](https://open.spotify.com/track/4YGWkgNryrlJDUjlQ97RYA) | [La Luz Mandarina](https://open.spotify.com/artist/4VqRr9QKXxeVVVpJoePixr) | [Los Ritmos Violentos](https://open.spotify.com/album/4hk8jVK8tz5KS2oA3tK04Q) | 3:44 | 2022-06-03 | 2022-07-29 |
 | [Límite](https://open.spotify.com/track/6LBct1lCubyNMQPq7LgWEq) | [te quería mucho](https://open.spotify.com/artist/67aSH8n0Y4SeORd9DU9X6y) | [Límite](https://open.spotify.com/album/3uzSKlNYuN7gJUNnGCVrCZ) | 2:57 | 2022-07-15 | 2022-07-22 |
 | [Madrugada](https://open.spotify.com/track/3IoI9OAF88fZGLIdrDqTUf) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Madrugada](https://open.spotify.com/album/4voLBSx8yHfNAttn5wzQw7) | 4:42 | 2022-06-03 | 2022-10-09 |
-| [Mandala](https://open.spotify.com/track/1ZbPfPD5voaTWndeCxuxU5) | [boom boom kid](https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU) | [Mandala](https://open.spotify.com/album/70s5AZ6uIkQeuXGuGPHnle) | 3:25 | 2022-07-01 |  |
+| [Mandala](https://open.spotify.com/track/1ZbPfPD5voaTWndeCxuxU5) | [boom boom kid](https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU) | [Mandala](https://open.spotify.com/album/70s5AZ6uIkQeuXGuGPHnle) | 3:25 | 2022-07-01 | 2023-05-14 |
 | [Manicomio Club](https://open.spotify.com/track/6ki9A4FyiZdQkrr9zv7Pa3) | [Los Bluyines](https://open.spotify.com/artist/6jKw6K5IkTpPYKAtq30vMY) | [Rockdelia Guitarra](https://open.spotify.com/album/6SDFQG8WmJ3cmH04zphC7M) | 4:19 | 2022-07-01 | 2022-07-06 |
 | [Manos](https://open.spotify.com/track/4DeI38iEDWvVFK6c5ZgOc6) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Manos](https://open.spotify.com/album/78z4lZfzLSpj8jHXJTblCC) | 3:35 | 2022-07-01 | 2022-07-29 |
 | [Mantra](https://open.spotify.com/track/3MLndDZtxRXBdtzfdRLiKd) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Mantra](https://open.spotify.com/album/2L62ofrt1QOsE8dNSuRAxH) | 5:12 | 2022-06-03 | 2022-07-29 |
@@ -438,6 +438,7 @@
 | [¿Qué Clase de Ciudad Es Esta?](https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Mora Sánchez Viamonte](https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:45 | 2022-06-03 |  |
 | [¿Todas las Guitarras?](https://open.spotify.com/track/1eJAPC8sQFugPucAA91zeq) | [Formica](https://open.spotify.com/artist/2DMEr3Upo24FzFIk3dVk17) | [¿Todas las Guitarras?](https://open.spotify.com/album/1qpK9ltZ9aFhPfgwjwV64l) | 3:27 | 2022-07-15 | 2022-07-24 |
 | [Árboles y Pasarelas](https://open.spotify.com/track/6WpZRLPsYPddfQ2trrdyOD) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Árboles y Pasarelas](https://open.spotify.com/album/42v671Ws24mgeGvj298gQB) | 5:35 | 2023-03-03 | 2023-03-16 |
+| [Éxodo Mental](https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Éxodo Mental](https://open.spotify.com/album/3m9ywZHKa2Zj2uldZ4s3CO) | 3:16 | 2023-05-12 |  |
 | [Última fuerza](https://open.spotify.com/track/3cbjpIGLyADDB0GYF3Ru41) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Última fuerza](https://open.spotify.com/album/7kEcwjomzNk2XFK8jFmKkR) | 4:04 | 2022-07-15 | 2022-07-19 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

@@ -984,7 +984,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 222600,
       "name": "Have A Little Faith In Me",
       "url": "https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU"
@@ -1512,6 +1512,32 @@
       "duration_ms": 180779,
       "name": "I Would Die 4 U",
       "url": "https://open.spotify.com/track/54rAiXEsNi52Wmw2LMxGhe"
+    },
+    {
+      "album": {
+        "name": "I Would Die 4 U",
+        "url": "https://open.spotify.com/album/1SPMOO8krxq9JuU6DadBKm"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        },
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        },
+        {
+          "name": "Christof van der Ven",
+          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180779,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/6rOKuNSl3gAqARtMtZMuuf"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Power through your chores with these upbeat tracks.",
-  "num_followers": 219914,
+  "num_followers": 220160,
   "original_name": "Housework Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTI2OTkxYWJjNWYxZGZlNzUzZjA2MmQyMzUyOTMzM2EyNzY4ZDRi",
+  "snapshot_id": "MCwzMmQyYmUyYzkwZWUzZTI2ODhjYmUzMzNiMDcwZTMwMTM2ZjExMDRk",
   "tracks": [
     {
       "added_at": "2021-12-24 08:51:22",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 243493,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 348333,
       "name": "Holding Out for a Hero - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2021-12-24 08:51:22",

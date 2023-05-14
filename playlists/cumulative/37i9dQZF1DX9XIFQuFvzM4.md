@@ -4,7 +4,7 @@
 
 > Feel good with this positively timeless playlist!
 
-258 songs - 14 hr 24 min
+259 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 | 2021-10-19 |  |
 | [Dance to the Music](https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:59 | 2021-10-19 |  |
 | [Dancing In The Street](https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Definitive Collection](https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip) | 2:39 | 2021-10-19 |  |
-| [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 | 2021-10-19 |  |
+| [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 | 2021-10-19 | 2023-05-14 |
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/08QLNLM2Ops9H4yWDBfcPt) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [Soul \- One in a Million](https://open.spotify.com/album/782ms3JLN4hYEICoaGdGtg) | 2:28 | 2021-10-19 | 2022-04-21 |
 | [Do You Love Me](https://open.spotify.com/track/41FRsZNXpsBkJ46BxyC20m) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Hitsville USA \- The Motown Singles Collection 1959\-1971](https://open.spotify.com/album/4Vzr2AGcCyYSQQB243PQLl) | 2:52 | 2021-10-19 | 2022-07-28 |
 | [Do You Love Me \- Mono Single](https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Do You Love Me \(Now That I Can Dance\)](https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89) | 2:52 | 2021-10-19 |  |
@@ -197,6 +197,7 @@
 | [River Deep \- Mountain High](https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 4:04 | 2021-10-19 |  |
 | [Rockin' Robin](https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt) | [Bobby Day](https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj) | [Rockin' Robin](https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y) | 2:40 | 2021-10-19 |  |
 | [Running Away](https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H) | 3:15 | 2023-03-28 | 2023-05-01 |
+| [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 | 2023-03-28 |  |
 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 | 2021-10-19 |  |
 | [Shake What Your Mama](https://open.spotify.com/track/4KLiNPRah1bWQyisb2NtoS) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [I'll Be Fine](https://open.spotify.com/album/1MPItEak5Jl1DOupPmKsjj) | 2:47 | 2021-10-19 | 2022-05-24 |
 | [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 | 2021-10-19 |  |

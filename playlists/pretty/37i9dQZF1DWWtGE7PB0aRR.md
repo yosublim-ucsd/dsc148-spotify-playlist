@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,768 likes - 65 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,832 likes - 65 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 6 | [Since I've Been Loving You \- Remaster](https://open.spotify.com/track/1SDiiE3v2z89VxC3aVRKHQ) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 7:24 |
 | 7 | [House Of The Rising Sun](https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 4:29 |
 | 8 | [Black Magic Woman \- 2018 Master](https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 2:52 |
-| 9 | [I'm A Mover](https://open.spotify.com/track/00m7k9KGQMFNrc07N4Xtzx) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 2:58 |
+| 9 | [Walk In My Shadow](https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 3:30 |
 | 10 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
 | 11 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 |
 | 12 | [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 14 | [Too Rolling Stoned \- 2007 Remaster](https://open.spotify.com/track/0aveCMNj686kG1oX4n80P6) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Bridge Of Sighs \(2007 Remaster\)](https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC) | 7:31 |
 | 15 | [I Shall Be Released](https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 4:35 |
 | 16 | [All Your Love](https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues Breakers](https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H) | 3:36 |
-| 17 | [Walk In My Shadow](https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 3:30 |
+| 17 | [I'm A Mover](https://open.spotify.com/track/00m7k9KGQMFNrc07N4Xtzx) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 2:58 |
 | 18 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 |
 | 19 | [I Just Want to Make Love to You \- 2016 Remaster](https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 4:20 |
 | 20 | [In the Skies](https://open.spotify.com/track/526nHQfF4e5fqr6I2WwyVE) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 3:49 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 31 | [Who Do You Love?](https://open.spotify.com/track/7bX0AR2q50IfDu0TnmTdwP) | [Juicy Lucy](https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY) | [Who Do You Love \- The Anthology](https://open.spotify.com/album/5k8WOyyBWIkB2egLehwOPb) | 3:00 |
 | 32 | [Railway And Gun](https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7) | [Taste](https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3) | [On The Boards](https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8) | 3:36 |
 | 33 | [Confessin' The Blues](https://open.spotify.com/track/3AaXHBFpwXWmtg3kcfuwhQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [12 X 5](https://open.spotify.com/album/2Hnje5QVKaPVNuGJ5yHC7Z) | 2:47 |
-| 34 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 |
-| 35 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
+| 34 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
+| 35 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 |
 | 36 | [Poor Boy](https://open.spotify.com/track/4jb8VQ2XbpXf8doWXUJU29) | [Stan Webb](https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF), [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [Going Up, Going Down..\. The Anthology 1968\-2001](https://open.spotify.com/album/4YEypnQ1RQ9N3gifKKYIUM) | 5:09 |
 | 37 | [In the Mood](https://open.spotify.com/track/0itImJ5657GoBZwFY6KcmI) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 3:45 |
 | 38 | [I Can't Wait Much Longer](https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Twice Removed from Yesterday](https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu) | 5:21 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 60 | [You Shook Me \- Alternate Version](https://open.spotify.com/track/1zdIWwLewKA80dpjMHoZKc) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 2:28 |
 | 61 | [Desperation \(Stereo Version\)](https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5) | [Humble Pie](https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU) | [As Safe As Yesterday Is](https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw) | 6:27 |
 | 62 | [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 |
-| 63 | [Still a Fool \- Single Edit](https://open.spotify.com/track/4lYuosKr9Iux8wgkRkJGSN) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ for the Groundhogs: The Liberty Years 1968\-1972](https://open.spotify.com/album/2xpmn3S9CKC1HnnbsHw2mD) | 4:11 |
-| 64 | [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 |
+| 63 | [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 |
+| 64 | [Still a Fool \- Single Edit](https://open.spotify.com/track/4lYuosKr9Iux8wgkRkJGSN) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ for the Groundhogs: The Liberty Years 1968\-1972](https://open.spotify.com/album/2xpmn3S9CKC1HnnbsHw2mD) | 4:11 |
 | 65 | [I Don't Care](https://open.spotify.com/track/3hbwdoayA5vJwebCygMDg2) | [Duffy Power](https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN) | [The Marquis Sessions](https://open.spotify.com/album/2jIctQtMRND7mnasTHEFmW) | 2:42 |
 
-Snapshot ID: `MCw4NDA4ZTE2ZmJmMGQ3MWI0NjcxNjQzNTc5MWY5MWIwNWQ1MjFkMTA2`
+Snapshot ID: `MCxkZTU5MmVlMDVkMGY5ZTdkOWUzZGRmZjIwZmFjOGNkMzhlYjkyZDRk`

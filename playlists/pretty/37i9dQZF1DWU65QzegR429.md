@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,080 likes - 59 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,095 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 34 | [Come](https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Come](https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1) | 2:56 |
 | 35 | [Vete Y Dile](https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Vete Y Dile](https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ) | 2:27 |
 | 36 | [Anormales](https://open.spotify.com/track/6WDpZh5KVSshn7PWnhHlqY) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Anormales](https://open.spotify.com/album/2daADHTTdKChlNqaIQ9cMD) | 3:28 |
-| 37 | [NIÑXS ROTXS](https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:43 |
-| 38 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
+| 37 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
+| 38 | [NIÑXS ROTXS](https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:43 |
 | 39 | [Betty](https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Betty](https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve) | 2:53 |
 | 40 | [Sugar Boi](https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Sugar Boi](https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb) | 2:54 |
 | 41 | [Kilo Kilo](https://open.spotify.com/track/6QBrMT3F1gAcvdS7wIEeFO) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Haters y Fanáticos](https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb) | 4:10 |
-| 42 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
-| 43 | [Para Mi](https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Para Mi](https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti) | 3:37 |
+| 42 | [Para Mi](https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Para Mi](https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti) | 3:37 |
+| 43 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
 | 44 | [Holy Ghost $$$](https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Holy Ghost $$$](https://open.spotify.com/album/4pWMN5lBEFrwZde1kdCqrh) | 2:37 |
 | 45 | [Maya](https://open.spotify.com/track/0FcOIIBRs6eW2YGonS4z9r) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Maya](https://open.spotify.com/album/7pXHSP4BzhDOQvm6W3k00v) | 3:07 |
 | 46 | [94](https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [94](https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf) | 2:33 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 48 | [Trucki](https://open.spotify.com/track/1xyMEik4SsayMAEV4rwYYW) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Real Sofoke Hiigh](https://open.spotify.com/artist/5sX6UbJx4vxLzHXIMsVXZh) | [Trucki](https://open.spotify.com/album/5jO83YZz3ujLMMM61Fwkzv) | 3:56 |
 | 49 | [Probando Freestyle](https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338) | [Gailen La Moyeta](https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir) | [Probando Freestyle](https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC) | 1:05 |
 | 50 | [Diferente](https://open.spotify.com/track/0n3jrfZNBxQXAezu2WwrTd) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Colores](https://open.spotify.com/album/2D4OJpTUpKLIyVHi1upoUj) | 2:52 |
-| 51 | [Mírame](https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Pa' El Alma](https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY) | 3:20 |
+| 51 | [KLK TE PASA A TI](https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz) | [Rosaly Rubio](https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8) | [KLK TE PASA A TI](https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3) | 2:46 |
 | 52 | [Saque Otro Tema](https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Saque Otro Tema](https://open.spotify.com/album/07P3YTWehCjPYI571sbkew) | 2:51 |
-| 53 | [KLK TE PASA A TI](https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz) | [Rosaly Rubio](https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8) | [KLK TE PASA A TI](https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3) | 2:46 |
+| 53 | [Mírame](https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Pa' El Alma](https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY) | 3:20 |
 | 54 | [Solita](https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Mystro](https://open.spotify.com/artist/7GUayRAp1ClL94DXIwMmD4) | [Champion Ninz](https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31) | 2:19 |
 | 55 | [Deja Que Te Lleve](https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Deja Que Te Lleve](https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n) | 3:23 |
 | 56 | [Noches X Madrid](https://open.spotify.com/track/5sWZqNtHppp5FdxPEIJnIn) | [Sara Deop](https://open.spotify.com/artist/3Wb3zC9MU5MF0xdvaB8too) | [Noches X Madrid](https://open.spotify.com/album/0y7pSZ8Z8CyuM2HhtEh1Zx) | 3:37 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 58 | [Peligroso](https://open.spotify.com/track/2WRCmqSUVWpVZNeZ1u7njt) | [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Peligroso](https://open.spotify.com/album/6QIrGcDvMIooPaTOXLXk1Q) | 2:48 |
 | 59 | [Yo Soy De PR](https://open.spotify.com/track/2YDcWtjC6zKfx3NYHR5SKW) | [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Yo Soy De PR](https://open.spotify.com/album/4S35csP0ALLI8p1aNlqSj5) | 3:21 |
 
-Snapshot ID: `MCwzMWViYmVkYmI4MTc0YjlmNDUzNDllY2MyZGE3NGE3NDM5OGYwNGVh`
+Snapshot ID: `MCxlODE5MWViOTg2N2EzNWNmMDE3ZDU5NjZmZDdjYjM1YTc1NjhkZTQ3`

@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 204814,
       "name": "DIAMANTE",
       "url": "https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ"
@@ -8410,6 +8410,28 @@
       "duration_ms": 212496,
       "name": "Lost Cause",
       "url": "https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna"
+    },
+    {
+      "album": {
+        "name": "Loucamente",
+        "url": "https://open.spotify.com/album/4uuGVn3VQKek2PYwMLfH33"
+      },
+      "artists": [
+        {
+          "name": "D.A.M.A",
+          "url": "https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y"
+        },
+        {
+          "name": "Los Romeros",
+          "url": "https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222909,
+      "name": "Loucamente",
+      "url": "https://open.spotify.com/track/7dmP18O7QHHwf2VXjBauJ3"
     },
     {
       "album": {

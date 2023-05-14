@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,953 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,040 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 91 | [Hot Nigga](https://open.spotify.com/track/0sWJYzJtNgoR2zUShqT8Gy) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Hot Nigga](https://open.spotify.com/album/5ZhJHI0WF5YMB17klO9EAx) | 2:30 |
 | 92 | [Sensualidad](https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Sensualidad](https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY) | 4:57 |
 | 93 | [25/8](https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:03 |
-| 94 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 |
-| 95 | [Chambea](https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Chambea](https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw) | 3:12 |
+| 94 | [Chambea](https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Chambea](https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw) | 3:12 |
+| 95 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 |
 | 96 | [Tu No Metes Cabra](https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tu No Metes Cabra](https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w) | 2:50 |
 | 97 | [Caile](https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Caile](https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ) | 5:00 |
 | 98 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 119 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
 | 120 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 
-Snapshot ID: `MCxlZjE1NzEyNDExNzVmM2VjMjIzZGUwZDk2NWUzMDY0MDA0ZTc3NDI4`
+Snapshot ID: `MCxlNGY1ZWNhNjUxZTEzNTM2YjljZmY3ZjkyNmZkMzg2ODE4NjdkYmM0`

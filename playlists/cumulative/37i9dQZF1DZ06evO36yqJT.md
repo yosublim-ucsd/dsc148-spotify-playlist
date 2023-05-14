@@ -4,11 +4,12 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 48 min
+52 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [911](https://open.spotify.com/track/4wBRXLzV3rKXm1CWqrY8nv) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth of Kirk Franklin](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 4:41 | 2023-05-12 |  |
+| [All of the Glory \- Radio Edit](https://open.spotify.com/track/3vT51y9jySDGf4xGKx6XHE) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [All of the Glory \(Radio Edit\)](https://open.spotify.com/album/3IgDiA4bnDEceIX5QdFXra) | 3:56 | 2023-05-13 |  |
 | [Amazing Grace](https://open.spotify.com/track/5c993xB4UZFWaTZ8mTBWLl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 4:12 | 2023-05-12 |  |
 | [Blessed Assurance](https://open.spotify.com/track/0NCWc2gtH3rNkq18osObXe) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 3:50 | 2023-05-12 |  |
 | [Caught Up](https://open.spotify.com/track/1CvwoAEl17W0b1f0ZgEbIm) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth of Kirk Franklin](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 5:57 | 2023-05-12 |  |
@@ -37,9 +38,10 @@
 | [Jesus, I Love Calling Your Name](https://open.spotify.com/track/6xeJNGD98zIGTbOAhngzJe) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:44 | 2023-05-12 |  |
 | [Just As I Am](https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Stand Still](https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE) | 6:35 | 2023-05-12 |  |
 | [Little Boy](https://open.spotify.com/track/0uaDlJYEuwdoaVxwsextnK) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Platinum Gospel\-Shirley Caesar](https://open.spotify.com/album/6CTsw7O3GJuvg0ihRAEOHP) | 2:18 | 2023-05-12 |  |
+| [Medley: Faded Rose/This Joy/Sweeping Through This City](https://open.spotify.com/track/1HPUAGsXYKyEQ2EcAbOl5W) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 8:58 | 2023-05-13 |  |
 | [My Testimony](https://open.spotify.com/track/4BilCEaBPaQ295OUpKF6zf) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 2:56 | 2023-05-12 |  |
 | [No Charge](https://open.spotify.com/track/4AUnE8OQJWLjJtCBppPhjg) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Jesus I Love Calling Your Name](https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy) | 3:26 | 2023-05-12 |  |
-| [One More Battle to Fight](https://open.spotify.com/track/2Eo3KpOd2i4yY05IYRSwcP) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 3:54 | 2023-05-12 |  |
+| [One More Battle to Fight](https://open.spotify.com/track/2Eo3KpOd2i4yY05IYRSwcP) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 3:54 | 2023-05-12 | 2023-05-14 |
 | [People Get Ready](https://open.spotify.com/track/1JDDFqfa3CdRdShmA9Lr0E) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:04 | 2023-05-12 |  |
 | [Prayer Changes Things](https://open.spotify.com/track/67wseMeCcgKzn4mhQOPBUC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd) | 4:59 | 2023-05-12 |  |
 | [Sailin' On the Sea of Your Love](https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Sailin'](https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq) | 4:09 | 2023-05-12 |  |

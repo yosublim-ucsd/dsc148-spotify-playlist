@@ -1,12 +1,12 @@
 {
   "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u306e\u540d\u66f2\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: GAYLE",
-  "num_followers": 30249,
+  "num_followers": 30258,
   "original_name": "Girl On Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTVhZjRhZWFhMzhmMGRjYmU0NmNhMWVjMTQzNmY0ODVkYjJhMWJk",
+  "snapshot_id": "MCxkYWQzMTM0N2RhMzE5YzFmM2EwMjEyZGE3MWZmZDdjNWNiZDNmNjE1",
   "tracks": [
     {
       "added_at": "2023-05-11 15:00:00",
@@ -695,18 +695,22 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
         }
       ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -727,6 +731,22 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
         "name": "Can't Tame Her",
         "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
-        "name": "Arranca (feat. Omega)",
-        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 166529,
-      "name": "Arranca (feat. Omega)",
-      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187107,
-      "name": "2 Be Loved (Am I Ready)",
-      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Die 4 Me",
-        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 215021,
-      "name": "Die 4 Me",
-      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -1071,30 +1055,46 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-        "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
+        "name": "Die 4 Me",
+        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 225600,
-      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-      "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
+      "duration_ms": 215021,
+      "name": "Die 4 Me",
+      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "Not Strong Enough",
+      "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
     }
   ],
   "unique_name": "Girl On Fire",

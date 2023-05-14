@@ -4,7 +4,7 @@
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-78 songs - 6 hr 1 min
+79 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Charleston](https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [15 Éxitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta](https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1) | 2:28 | 2021-07-28 |  |
 | [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 | 2023-04-12 |  |
 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 | 2021-07-28 | 2023-05-08 |
-| [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 | 2021-07-28 |  |
+| [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 | 2021-07-28 | 2023-05-14 |
 | [Dejé mi amor en San Francisco \(I Left My Heart in San Francisco\)](https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp) | [Tommy Rodriguez Y Su Saxofon Magico](https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ) | [Grandes de la Musica Instrumental](https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP) | 1:53 | 2021-07-28 |  |
 | [Desafío](https://open.spotify.com/track/7sCMzJYlmvLFnc4luMmwwD) | [Adrián Oropeza](https://open.spotify.com/artist/0UHpgEgbDNRk7EHwuh5Adt) | [Desafío](https://open.spotify.com/album/6xcsSLLM7E47iJIzuNmEWL) | 8:19 | 2022-09-02 | 2023-01-02 |
 | [El Fantasma Enamorado](https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [El Tren de la Alegría](https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6) | 4:22 | 2021-07-28 |  |
@@ -33,6 +33,7 @@
 | [Entrega Total](https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC) | [Andrea Básef](https://open.spotify.com/artist/7Ekf6XS5tD24ZZf6slGP1A) | [Deseo del Tiempo](https://open.spotify.com/album/4XJBrYgnGUpkpIaj2HOLph) | 4:04 | 2021-07-28 |  |
 | [Era La Luz De Abril](https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F), [Valentina Marentes](https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 6:43 | 2022-08-16 |  |
 | [Excusez\-Moi](https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 2:36 | 2021-07-28 |  |
+| [Fijate Que Suave](https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Jazz Vinil](https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX) | 4:11 | 2021-07-28 |  |
 | [Flor Latina](https://open.spotify.com/track/3zjRptZXqA1uhBwUkMl38W) | [Emmanuel Mora](https://open.spotify.com/artist/6iz12BR5JSoaySVJO3P0qm), [Alejandro Mora](https://open.spotify.com/artist/23YqoCb961qdeNiWEDxU5h), [Rodrigo Mora](https://open.spotify.com/artist/3owqtFutm6ZMbZZHBpLZj9), [Tirso Buenfil](https://open.spotify.com/artist/7o1EZ1rNSscAuLSw1fxraV) | [Estaciones](https://open.spotify.com/album/6ktr5l29j7H5yr6deaHJTu) | 5:50 | 2021-07-28 | 2023-03-10 |
 | [Frenesí](https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi) | [Big Band Jazz de México](https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c) | [Con Sabor a México](https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6) | 4:31 | 2022-01-11 |  |
 | [Fuego](https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF) | [Hilvana](https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG) | [Para Ser Libre](https://open.spotify.com/album/640scYqIfRaues9fUETg8p) | 3:13 | 2021-07-28 |  |

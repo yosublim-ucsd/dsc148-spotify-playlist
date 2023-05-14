@@ -1,12 +1,12 @@
 {
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e carica musicale! ",
-  "num_followers": 307679,
+  "num_followers": 307686,
   "original_name": "Caff\u00e8 del Buongiorno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWViYWEzOTgwNjQ3MGJkZWQ3ZmMxYTNmZGY5NGFkNDQ2ZWU5NWVl",
+  "snapshot_id": "MCwzNmQ0YzBmZjAzMjVkZjE4OGI2ODQ0NWY3ZjUzZmYzNTk3OTk3NjRl",
   "tracks": [
     {
       "added_at": "2023-05-10 13:50:46",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-05-10 13:50:46",
       "album": {
+        "name": "Ride It",
+        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "duration_ms": 157605,
+      "name": "Ride It",
+      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
+    },
+    {
+      "added_at": "2023-05-10 13:50:46",
+      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -495,38 +511,6 @@
     {
       "added_at": "2023-05-10 13:50:46",
       "album": {
-        "name": "Ride It",
-        "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        }
-      ],
-      "duration_ms": 157605,
-      "name": "Ride It",
-      "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
-    },
-    {
-      "added_at": "2023-05-10 13:50:46",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
-    },
-    {
-      "added_at": "2023-05-10 13:50:46",
-      "album": {
         "name": "Esta Vida",
         "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 209135,
       "name": "Esta Vida",
       "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+    },
+    {
+      "added_at": "2023-05-10 13:50:46",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "added_at": "2023-05-10 13:50:46",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-05-10 13:50:46",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2023-05-10 13:50:46",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2023-05-10 13:50:46",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2023-05-10 13:50:46",

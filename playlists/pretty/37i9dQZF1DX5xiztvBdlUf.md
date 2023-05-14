@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,812 likes - 80 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,983 likes - 80 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 50 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
 | 51 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 |
 | 52 | [Howl \- Logic1000 Remix](https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Howl \(Logic1000 Remix\)](https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq) | 4:49 |
-| 53 | [Kami](https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 5:15 |
-| 54 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 |
-| 55 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 |
+| 53 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 |
+| 54 | [Kami](https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 5:15 |
+| 55 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 |
 | 56 | [Far Behind](https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Far Behind](https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP) | 3:54 |
 | 57 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
 | 58 | [Trojan Love \- Original Club Mix](https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Trojan Love \(Original Club Mix\)](https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O) | 5:57 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 64 | [Come Back Around](https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Come Back Around](https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav) | 3:51 |
 | 65 | [Sway](https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sway](https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh) | 4:01 |
 | 66 | [Restless](https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Ahmet Kilic](https://open.spotify.com/artist/5OyOddK42Hm0pENFDWxn39), [Lynn](https://open.spotify.com/artist/7nzbcK2bzEtoMgTQAwHQVl) | [Restless & Wild](https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX) | 6:43 |
-| 67 | [Laufen](https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf) | [MonoJack](https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9), [Fritz Kölner](https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh) | [Laufen](https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT) | 4:17 |
-| 68 | [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 |
+| 67 | [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 |
+| 68 | [Laufen](https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf) | [MonoJack](https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9), [Fritz Kölner](https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh) | [Laufen](https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT) | 4:17 |
 | 69 | [What U Doing](https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [What U Doing](https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV) | 3:49 |
 | 70 | [Orbits of Dust](https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Orbits of Dust](https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP) | 6:00 |
 | 71 | [ut i rommet](https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Kløbb Ka2 \(Vol\. 3\)](https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N) | 7:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Downtown](https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM) | [Literatura](https://open.spotify.com/artist/50Nc8VBlHSdkoUyzJtDmnc), [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8), [Junket](https://open.spotify.com/artist/1bQ7x7BvGHp7450Mqb239d) | [Downtown EP](https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl) | 7:44 |
 | 80 | [Paradise](https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Audrey Janssens](https://open.spotify.com/artist/5v7Dp2yoppf8qFcyLsjgZB) | [Paradise](https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j) | 3:39 |
 
-Snapshot ID: `MCxhMzEwOWE3ZmY4NDljMTQwZjllNzQxNzg0OWY1Y2FlMmJmZjY4NDM1`
+Snapshot ID: `MCxmNzkzYWUyMjBlNDI0NDZjYzI2OWVhOWNiMWE5ZjY4NGI5MTcyNDdl`

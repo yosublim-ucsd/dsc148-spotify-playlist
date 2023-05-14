@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 867704,
+  "num_followers": 867754,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGZmNjcxNTgwNmFkM2EwMDE1NDk2YTg0NzFlYjhhYmJmYmNkZjcw",
+  "snapshot_id": "MCwyNGUyMTdlMTBmNjBhNjdjNzhlZjY5ZDk3Yjk3Yjk3OTQ0MzU2YWVl",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 321662,
-      "name": "Como me encanta",
-      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
+      "duration_ms": 321662,
+      "name": "Como me encanta",
+      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -379,6 +379,26 @@
       "duration_ms": 214160,
       "name": "You Worry Me",
       "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 217873,
+      "name": "If We Were Vampires (feat. Wesley Schultz) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -595,26 +615,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 217873,
-      "name": "If We Were Vampires (feat. Wesley Schultz) - Spotify Singles",
-      "url": "https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "The Way Back Home",
         "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 279186,
       "name": "Face Down In The Moment",
       "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Deadeye",
+        "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Anybody Else",
+      "url": "https://open.spotify.com/track/4tGhOyRQ7SS4xOZ7Iw3uQr"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 291826,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Deadeye",
-        "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Anybody Else",
-      "url": "https://open.spotify.com/track/4tGhOyRQ7SS4xOZ7Iw3uQr"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "New Person, Old Place",
-        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "New Person, Old Place",
-      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 245653,
       "name": "The Wolves",
       "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "New Person, Old Place",
+        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "New Person, Old Place",
+      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 218426,
       "name": "Latter Days",
       "url": "https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1499,6 +1499,26 @@
       "duration_ms": 254200,
       "name": "Feel Alive Again",
       "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Down (Exit Song)",
+        "url": "https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK"
+      },
+      "artists": [
+        {
+          "name": "Wingtip",
+          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
+        },
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 187815,
+      "name": "Down (Exit Song)",
+      "url": "https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1587,22 +1607,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Tiny Things",
-        "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 217687,
-      "name": "delay",
-      "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Sleepless in Seattle",
         "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
       },
@@ -1619,22 +1623,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Down (Exit Song)",
-        "url": "https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK"
+        "name": "Tiny Things",
+        "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
       },
       "artists": [
         {
-          "name": "Wingtip",
-          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
-        },
-        {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 187815,
-      "name": "Down (Exit Song)",
-      "url": "https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9"
+      "duration_ms": 217687,
+      "name": "delay",
+      "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
     },
     {
       "added_at": "2023-05-12 04:00:00",

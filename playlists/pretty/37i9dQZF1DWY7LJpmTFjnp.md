@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Molotov en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,941 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,096 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 46 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 |
 | 47 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
 | 48 | [Complicado Y Aturdido](https://open.spotify.com/track/7g57YDkjFrNecn0sbXN3GI) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Desde Cero](https://open.spotify.com/album/7dbBLrH3VJ3zrKHkL6vtUa) | 3:48 |
-| 49 | [Florecita Rockera](https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 2:57 |
-| 50 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 49 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 50 | [Florecita Rockera](https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 2:57 |
 | 51 | [Contra Todo Pronóstico](https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Contra Todo Pronóstico](https://open.spotify.com/album/2asORa7yF9FCpjL1DRbPf4) | 4:12 |
 | 52 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 |
 | 53 | [Fugaz \(feat\. Rubén Albarrán\) \- En Vivo](https://open.spotify.com/track/3UymFgXyRZun9nBxj4tiVI) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 5:48 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 78 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 |
 | 79 | [El Microbito](https://open.spotify.com/track/0wTrY23ot5A0aog0JNzXLS) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rock Latino](https://open.spotify.com/album/0aGusz7aHYnYfjWSTr1YFI) | 2:36 |
 | 80 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
-| 81 | [Chale](https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn) | [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Maria Barracuda](https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9) | 3:21 |
-| 82 | [La Izquierda de la Noche](https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 3:40 |
+| 81 | [La Izquierda de la Noche](https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 3:40 |
+| 82 | [Chale](https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn) | [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Maria Barracuda](https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9) | 3:21 |
 | 83 | [Santa Lucía \- En directo 2023](https://open.spotify.com/track/2dOaLeSHVbBJranHRO3b2g) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [Santa Lucía \(En directo 2023\)](https://open.spotify.com/album/7IEiiqwZJ0qZuXik2OXPrj) | 4:19 |
 | 84 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
 | 85 | [El Recuento de los Daños](https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [!!Puro Macanazo!!](https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 99 | [Qué Te Robas?](https://open.spotify.com/track/2REZbo1NmHJVcJJm2sTpLu) | [Riesgo de Contagio](https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm), [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb), [Julián André](https://open.spotify.com/artist/30kebtq9Pict8LIMNmtvOc), [Sabo Romo](https://open.spotify.com/artist/2xqM9QBD5UgmHWfUbqfs1M), [El Invencible](https://open.spotify.com/artist/6AMdEeibcmY7u7COKwugAT) | [Qué Te Robas?](https://open.spotify.com/album/7ldtONmp2xnN3HB83EIhY3) | 4:00 |
 | 100 | [Mexicaleño Swing](https://open.spotify.com/track/3jgnK3xfhSf0bev5VhgdZQ) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4), [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ), [Jacobo Velez](https://open.spotify.com/artist/28uB7GB7QbKBPMCZqLPA5y) | [Mexicaleño Swing](https://open.spotify.com/album/0XvdfdJfAHGRhU1FJVcTtE) | 4:12 |
 
-Snapshot ID: `MCwxYmM0YjhiZmU2ZGVkODc5MjdlYzAxMGE4ODE0NTQzYmQzNDc5ZWVm`
+Snapshot ID: `MCw5MjNhZjc0ZThlM2M5NDc2NDRkOGZlZTBiMjU5YjRmOTdhMGNmNDU4`

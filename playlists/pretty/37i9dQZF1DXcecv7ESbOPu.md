@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,027 likes - 118 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,098 likes - 118 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 44 | [2 Much 2 Handle](https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Alok Club Series 2023](https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT) | 3:08 |
 | 45 | [Dance With Somebody](https://open.spotify.com/track/0Jmh09aQdMyzpIwnwNwiLS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Benny Bridges](https://open.spotify.com/artist/4lP1lKWYqNLYWYtnuTh8OF) | [Dance With Somebody](https://open.spotify.com/album/5P3b13kbX6kSjcURHPyqxv) | 3:24 |
 | 46 | [Stop Sign](https://open.spotify.com/track/11c0ewq9VC4iIsqVBtOypk) | [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw), [Joanna](https://open.spotify.com/artist/19wRebMQjsGrGqnwirwhDL), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Stop Sign](https://open.spotify.com/album/1awSxxmeDZc9tYchRZF5Je) | 2:45 |
-| 47 | [Hear You Calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 |
+| 47 | [Hear you calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 |
 | 48 | [fund$](https://open.spotify.com/track/2zsWUr91K3TIdnzWb0XOmI) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [fund$](https://open.spotify.com/album/2ijUGC3jwcZO6lNLDdEcUR) | 2:32 |
 | 49 | [Lonely](https://open.spotify.com/track/5vt7dvdHX7DFRKHAMKrRDs) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Lonely](https://open.spotify.com/album/4H1vS1PKnxiypPT7oaf7y7) | 2:11 |
 | 50 | [Data Life](https://open.spotify.com/track/3S0TQDThtmSJJ8YQ5RZ7bU) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Data Life](https://open.spotify.com/album/1pXlpNUopjYKvGxrGBw8wZ) | 5:49 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 68 | [Glöm mig](https://open.spotify.com/track/2qprakfhZDHNzZanMxSzqp) | [Kristian Anttila](https://open.spotify.com/artist/3mb5n2PKsRfAhNciHOHRbm) | [Glöm mig](https://open.spotify.com/album/1covEPsqypyeMSBls5gfuH) | 4:30 |
 | 69 | [Rekk opp hånda](https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Rekk opp hånda](https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN) | 3:00 |
 | 70 | [Tillbaks för dig](https://open.spotify.com/track/6nRO9EVCTFyzzXZLnHjgqr) | [MIKAELA](https://open.spotify.com/artist/3xRLWk7VxMCfgxCiLGCHoP) | [Tillbaks för dig](https://open.spotify.com/album/1IJWD8kTOjDAxsNSLtYeKE) | 3:13 |
-| 71 | [SVÅRT FÖR DIG](https://open.spotify.com/track/3uMnb1fqxZBX6OsgqAaYdZ) | [ILIACO](https://open.spotify.com/artist/1WzH7gkbxTeqS5cgNvB7o8) | [SVÅRT FÖR DIG](https://open.spotify.com/album/6FIDJNuBlWcdLBjagI73qb) | 2:34 |
+| 71 | [SVÅRT FÖR DIG](https://open.spotify.com/track/3uMnb1fqxZBX6OsgqAaYdZ) | [ILIACO](https://open.spotify.com/artist/1WzH7gkbxTeqS5cgNvB7o8), [MM](https://open.spotify.com/artist/5eFqWWb4qNXmyd48FPVEff) | [SVÅRT FÖR DIG](https://open.spotify.com/album/6FIDJNuBlWcdLBjagI73qb) | 2:34 |
 | 72 | [Fire With Fire](https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fire With Fire](https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB) | 3:08 |
 | 73 | [Electric Love](https://open.spotify.com/track/02RIHCcIRIrFgRYzUizHlJ) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Electric Love](https://open.spotify.com/album/0REnSVgLIRN89uekm2TwJl) | 2:24 |
 | 74 | [All My Life](https://open.spotify.com/track/5ASjBSzPjNCO2sGUtbXFmk) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:33 |
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 108 | [Never Forget](https://open.spotify.com/track/6EeHvxiwcqp4R59UiUjVJ6) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx), [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Never Forget](https://open.spotify.com/album/4CmIWzRA0LI5KWw7ZcqzzI) | 6:12 |
 | 109 | [can't forget you](https://open.spotify.com/track/63R5yfl2ktrgGTJO57XkV6) | [Fjord](https://open.spotify.com/artist/6s7CU5CO1x8w15Mk4OyZNQ) | [can't forget you](https://open.spotify.com/album/1vdoI7hvr0BNJGLKmoODdC) | 3:39 |
 | 110 | [Be Honest](https://open.spotify.com/track/6JCCEa4P4sU0yHm6eTakOe) | [Kevin Faye](https://open.spotify.com/artist/7H0dyws9JvjtecZazKLNpM) | [Be Honest](https://open.spotify.com/album/59AIvMjOpXRXWW5CRb3LzD) | 2:56 |
-| 111 | [Wait for Me](https://open.spotify.com/track/2guS6cPmecbcxRpnLWmRvN) | [Joel Nuñez](https://open.spotify.com/artist/0PmqmTnBDSaW4Ld41ojvK2), [Cecilia Kallin](https://open.spotify.com/artist/36we9Nvk05alC8v82ZP0Uf) | [Wait for Me](https://open.spotify.com/album/7wYxwON4NBionLJOGZfKxC) | 3:27 |
+| 111 | [Wait for Me](https://open.spotify.com/track/2guS6cPmecbcxRpnLWmRvN) | [Cecilia Kallin](https://open.spotify.com/artist/36we9Nvk05alC8v82ZP0Uf), [Joel Nuñez](https://open.spotify.com/artist/0PmqmTnBDSaW4Ld41ojvK2) | [Wait for Me](https://open.spotify.com/album/7wYxwON4NBionLJOGZfKxC) | 3:27 |
 | 112 | [Du kan va en fors](https://open.spotify.com/track/3ohUG3HDv4mPdi1fdMRY1c) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Truth & Mystery](https://open.spotify.com/album/3wyscjgSbDtfrQu6wCNTWQ) | 3:12 |
 | 113 | [Dörren på glänt](https://open.spotify.com/track/1FAZ26RT9nHUPIJfIFenqM) | [Oskar & Vargarna](https://open.spotify.com/artist/2AsPYY1zCwbJHTmLDSuQKQ) | [Dörren på glänt](https://open.spotify.com/album/0APnwIIkgb2LA61HkMPo4E) | 3:20 |
 | 114 | [Min bror och jag](https://open.spotify.com/track/0DDuF331yIqQSxKI1YmM3N) | [Karl\-Petters Orkester](https://open.spotify.com/artist/5GKJ2adclaTFc1fxV8bZVj) | [Min bror och jag](https://open.spotify.com/album/6N3elypPmi271Ct3k3DCpG) | 3:43 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 117 | [HAPPY DOOMSDAY](https://open.spotify.com/track/1S4YtFEbKHda2byazJ2Jr8) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [HAPPY DOOMSDAY](https://open.spotify.com/album/2NorUBquYHC1J7MHuWUPtj) | 2:50 |
 | 118 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
 
-Snapshot ID: `MCw5YzI1MmI4ODc2NjgzMzA5M2Q1OWJhZjZiZjBiZWE3ODQ4NjUyNDYx`
+Snapshot ID: `MCwwOTcwN2Q5NmRlODA5YzNmMzNiOWQ4ZGQ2N2FlMGViNjYxYjJhMjUw`

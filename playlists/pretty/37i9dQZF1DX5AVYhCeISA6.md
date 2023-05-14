@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran, con música y acciones\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,533 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,681 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 17 | [NO voy a llorar :'\)](https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NO voy a llorar :'\)](https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT) | 2:58 |
 | 18 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 |
 | 19 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
-| 20 | [DESPECHÁ RMX](https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [DESPECHÁ RMX](https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP) | 2:50 |
+| 20 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
 | 21 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 |
 | 22 | [She Wolf](https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:08 |
 | 23 | [BESTIES](https://open.spotify.com/track/7eTv2OTr3aY5iKtFdBusoA) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 |
 | 24 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
-| 25 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
+| 25 | [DESPECHÁ RMX](https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [DESPECHÁ RMX](https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP) | 2:50 |
 | 26 | [Para Siempre](https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:21 |
 | 27 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:21 |
 | 28 | [EL BARCO](https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:23 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 44 | [Minifalda](https://open.spotify.com/track/4cccqGxzMZXzBrdNUKjnIl) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Minifalda](https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k) | 2:58 |
 | 45 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
 | 46 | [ACTIVA](https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ACTIVA](https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp) | 4:21 |
-| 47 | [Capulí](https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Capulí](https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA) | 3:22 |
-| 48 | [Ella](https://open.spotify.com/track/3eyJFrhS2al1tOzcrcG1P0) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Ella](https://open.spotify.com/album/7oEDkIqAUayKJOwV9S9wwh) | 2:54 |
+| 47 | [Ella](https://open.spotify.com/track/3eyJFrhS2al1tOzcrcG1P0) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Ella](https://open.spotify.com/album/7oEDkIqAUayKJOwV9S9wwh) | 2:54 |
+| 48 | [Capulí](https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Capulí](https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA) | 3:22 |
 | 49 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
 | 50 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
 
-Snapshot ID: `MCxlYTRmZTRkMGE3MDQ0ZTFkN2I0OTI1MTg5MDJiMWZkMzkxYmY5MGQx`
+Snapshot ID: `MCw0ZDE2YWIwMzlkNTY1ODU0MGExNjI4YjdkMTJlMWFkMDkyMjUxNzdl`

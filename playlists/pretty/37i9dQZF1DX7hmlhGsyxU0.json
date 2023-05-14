@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 126479,
+  "num_followers": 126565,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmYwNjc5MDRjZjNiZWRhMmNmNjI5OTgwODgxNDg2ODBjYWFkOWMw",
+  "snapshot_id": "MCw1ZjY4Y2JlNjk4Mjk5NDg0OGQyY2EzNGE1YWJjNDg0NjRkOGRkNDli",
   "tracks": [
     {
       "added_at": "2022-11-07 14:28:30",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Calm Water",
-        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
-      },
-      "artists": [
-        {
-          "name": "Elise Bordeaux",
-          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
-        }
-      ],
-      "duration_ms": 260729,
-      "name": "Calm Water",
-      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Altair",
         "url": "https://open.spotify.com/album/2YQBt88g1dxueykouWGrUw"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 186000,
       "name": "Procyon",
       "url": "https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Calm Water",
+        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
+      },
+      "artists": [
+        {
+          "name": "Elise Bordeaux",
+          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
+        }
+      ],
+      "duration_ms": 260729,
+      "name": "Calm Water",
+      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "On The Verge Of Collapse",
-        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
-      },
-      "artists": [
-        {
-          "name": "Rohit",
-          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "We All Grieve Differently",
-      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Floating on Land",
         "url": "https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 207120,
       "name": "Floating on Land",
       "url": "https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "On The Verge Of Collapse",
+        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
+      },
+      "artists": [
+        {
+          "name": "Rohit",
+          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "We All Grieve Differently",
+      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "S\u00f3liton",
-        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 122347,
-      "name": "S\u00f3liton",
-      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "The Last Gate",
         "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "S\u00f3liton",
+        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 122347,
+      "name": "S\u00f3liton",
+      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "Be Here Now",
         "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Reveries",
-        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
-      },
-      "artists": [
-        {
-          "name": "Nicholas & Sebastian",
-          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Fade Far Away",
-      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "K\u00e4rlek",
         "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 148672,
       "name": "K\u00e4rlek",
       "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Reveries",
+        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
+      },
+      "artists": [
+        {
+          "name": "Nicholas & Sebastian",
+          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Fade Far Away",
+      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "EGUZKIA GALDU",
-        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 161981,
-      "name": "EGUZKIA GALDU",
-      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 163124,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/5IUQOzC9u2IMs6FcGEe5pX"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "EGUZKIA GALDU",
+        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 161981,
+      "name": "EGUZKIA GALDU",
+      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Zerachiel",
-        "url": "https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 191870,
-      "name": "Zerachiel",
-      "url": "https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Spirituality",
         "url": "https://open.spotify.com/album/5BcPRt3YRZyq9vKkjMXuvF"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 173311,
       "name": "Perceptions",
       "url": "https://open.spotify.com/track/2AmTV3F2vLsWjDyALrga6T"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Zerachiel",
+        "url": "https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 191870,
+      "name": "Zerachiel",
+      "url": "https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn"
     }
   ],
   "unique_name": "Instrumental Reading",

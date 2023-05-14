@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKCtaSy7i9R.md) - [plain]
 
 > Quiet spring mornings, wake up early with the birds\. <br/>Take a moment with nature for a positive start of your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,240 likes - 38 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,300 likes - 38 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,6 +45,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKCtaSy7i9R.md) - [plain]
 | 35 | [Early Bird Sound](https://open.spotify.com/track/5NWQiqMnUDtJwl1AUzRZYh) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Early Bird Sound](https://open.spotify.com/album/42ML1JDCRsl9aRWxDEy7Mv) | 2:21 |
 | 36 | [Ocean Winds And Birds](https://open.spotify.com/track/0Ky7FA9AeAsAGiLUW7fKUv) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Lake Side Bird Sound](https://open.spotify.com/album/4HYEHOfBqQCE5yVtphnh3u) | 2:31 |
 | 37 | [Wonderful Morning](https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:54 |
-| 38 | [Crows In The Forest](https://open.spotify.com/track/1IYsyuj3b2nIg0BQgAh8q8) | [Winding Down](https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX) | [Swedish Forest Birds](https://open.spotify.com/album/6QsQPOS6dW5aGR99qf37Z4) | 2:59 |
+| 38 | [Summer Breeze Bird](https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y) | [Dominica del Foresta](https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ) | [Summer Breeze Bird](https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA) | 2:20 |
 
-Snapshot ID: `MCwxZDcwMjM2YTcxMzJjNDViY2U1ZGYxM2U5ZTQwODIxZTc2NDhjNjMy`
+Snapshot ID: `MCxkMmRkMGI1MzI1OTEyNDYxODZmMzMxNTQzNGEzMTViN2Q3YzliZDcx`

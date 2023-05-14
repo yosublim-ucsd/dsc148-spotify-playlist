@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,596,071 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,596,708 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 |
 | 100 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/3cOA7edqrdRc9FXSJ0iXzY) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/7wuiHCscUN4WZV4jdLEFHt) | 3:55 |
 
-Snapshot ID: `MCw5M2FjNDJiZDg5ODRjMjM4NDg2YjNkNGQ4NTBiNzI0M2I1OWEwZjJj`
+Snapshot ID: `MCwwZTA4NTgxMWZhZTFiOGIyNjJhYjg0NWJmMDhmOWNkYmExNDQzZjM1`

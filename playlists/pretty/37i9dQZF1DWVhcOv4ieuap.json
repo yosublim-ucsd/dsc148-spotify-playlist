@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1017721,
+  "num_followers": 1017872,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNThlMDY5N2EyNGU0OTIwNzkyYjEzNWM1MmEwNGVmNDMyOGQ0YWJk",
+  "snapshot_id": "MCw0MjE4YzIxYzFmNDFlM2Q0NDdjNmU0ZGU0YWY0MjVlZWFlNzNkNjMw",
   "tracks": [
     {
       "added_at": "2023-03-31 05:25:31",
@@ -691,42 +691,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "TUS GAFITAS",
-      "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -747,6 +711,42 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "TUS GAFITAS",
+      "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "ULALA (OOH LA LA)",
-        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 188009,
-      "name": "ULALA (OOH LA LA)",
-      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -903,6 +883,22 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 164781,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
         "name": "PUNTO 40",
         "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
       },
@@ -923,18 +919,22 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Thousand Miles",
-        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+        "name": "ULALA (OOH LA LA)",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 164781,
-      "name": "Thousand Miles",
-      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+      "duration_ms": 188009,
+      "name": "ULALA (OOH LA LA)",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 153960,
       "name": "Demasiadas Mujeres",
       "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Mojando Asientos (feat. Feid)",
-        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 252162,
-      "name": "Mojando Asientos (feat. Feid)",
-      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
@@ -1147,6 +1127,26 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
+        "name": "Mojando Asientos (feat. Feid)",
+        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 252162,
+      "name": "Mojando Asientos (feat. Feid)",
+      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -1219,22 +1219,6 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1259,22 +1243,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
       },
@@ -1291,6 +1259,22 @@
       "duration_ms": 207333,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1327,6 +1311,22 @@
       "duration_ms": 176575,
       "name": "KESI - Remix",
       "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2023-03-31 05:25:31",

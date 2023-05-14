@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,829 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,834 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 63 | [In Contemplation of Clair’s Scent \- Edit](https://open.spotify.com/track/6evizKGLv223qG5hpReBWy) | [Terence Etc.](https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj) | [In Contemplation of Clair’s Scent](https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb) | 2:50 |
 | 64 | [yield](https://open.spotify.com/track/6MyPzGgsio8bnZZsb5ueyI) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [yield](https://open.spotify.com/album/7bWTozqHskhTmWK2KHw3aR) | 5:19 |
 | 65 | [The Resurrection](https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [The Resurrection](https://open.spotify.com/album/639JLfs3Nbas5UHqoEA7Te) | 4:03 |
-| 66 | [Reflections](https://open.spotify.com/track/6vk2PRaMCt22YA52fd1eV4) | [Katalyst](https://open.spotify.com/artist/5yAyZa2e9KTHLsxSOMDmrC), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Katalyst JID013](https://open.spotify.com/album/60GQYXanChtVJ9dWdSsc10) | 7:02 |
+| 66 | [Reflections](https://open.spotify.com/track/6vk2PRaMCt22YA52fd1eV4) | [Katalyst](https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Katalyst JID013](https://open.spotify.com/album/60GQYXanChtVJ9dWdSsc10) | 7:02 |
 | 67 | [Dust Ball Fantasy \(feat\. Lionel Loueke\)](https://open.spotify.com/track/1R3OT4zUhA9p8erPorBcPD) | [Marcus Strickland Twi\-Life](https://open.spotify.com/artist/3r1zgybXPtRemw0HPrDU7l), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Dust Ball Fantasy \(feat\. Lionel Loueke\)](https://open.spotify.com/album/3fAJ4IYvinGbGd9SSpmcsN) | 5:27 |
 | 68 | [Sun of June](https://open.spotify.com/track/4rIDC72fAd26dB4U9pCAGa) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4) | 3:45 |
 | 69 | [What Happens Next?](https://open.spotify.com/track/55sg7XJ6nyfOv1VM1OHdHD) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [What Happens Next?](https://open.spotify.com/album/3lw981bFN4nTdJXWJbhJvG) | 4:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 74 | [Long Way From Home \(feat\. Eric Harland\)](https://open.spotify.com/track/4LvTgaYf1iMvkBPh9YMK54) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [Far Star](https://open.spotify.com/album/1AIF7npFznwVA8tnlSNock) | 5:17 |
 | 75 | [Words Left Unspoken](https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe) | 6:40 |
 
-Snapshot ID: `MCw0YjIwNjZlMmRhMWZmMWRiMjY5MDMzOWE0ODg2YzgzZjdlYTRmZTUz`
+Snapshot ID: `MCxiNDI4OTBmNWM0MzU2ZDQyMTc5NjZiMjc2NzJiOTZmZmVjYjc1MjMy`

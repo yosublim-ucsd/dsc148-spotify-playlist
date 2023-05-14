@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: GALE",
-  "num_followers": 277098,
+  "num_followers": 277171,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjA2NzY4ZDViNzRkOGI1ZjY2YTRlYjMyM2M2YjhkZjI2ODMxNzUy",
+  "snapshot_id": "MCw3YzM2ZTRlY2RhYjcxMjI3NjY2ZTU0ZGZjZDRjYTdiZTczNGFmNDU5",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 176222,
       "name": "Emeyc\u00e9",
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -395,26 +395,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "MOTEL CALIFORNIA",
-        "url": "https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 213033,
-      "name": "MOTEL CALIFORNIA",
-      "url": "https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
@@ -435,6 +415,42 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "MOTEL CALIFORNIA",
+        "url": "https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 213033,
+      "name": "MOTEL CALIFORNIA",
+      "url": "https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -471,22 +487,6 @@
       "duration_ms": 203219,
       "name": "Si Me Voy (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Ajedrez",
-        "url": "https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 208676,
-      "name": "Ajedrez",
-      "url": "https://open.spotify.com/track/502C76In6ki3rUo47QP6pA"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "YOKO",
         "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 207426,
       "name": "YOKO",
       "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Ajedrez",
+        "url": "https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 208676,
+      "name": "Ajedrez",
+      "url": "https://open.spotify.com/track/502C76In6ki3rUo47QP6pA"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Sueltas",
-        "url": "https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 163259,
-      "name": "Sueltas",
-      "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 187677,
       "name": "Jamaica",
       "url": "https://open.spotify.com/track/0iuvbEezJcCPASKTrQ1v76"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Sueltas",
+        "url": "https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 163259,
+      "name": "Sueltas",
+      "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Para No Verte M\u00e1s",
-        "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 197036,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Bora Bora",
         "url": "https://open.spotify.com/album/2PnRPLXqb7SHg141358iah"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 168159,
       "name": "Bora Bora",
       "url": "https://open.spotify.com/track/0w49NuhCUPdJpzE3ClojSa"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Para No Verte M\u00e1s",
+        "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 197036,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Me He Pillao x Ti",
-        "url": "https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 202250,
-      "name": "Me He Pillao x Ti",
-      "url": "https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Conquistar El Planeta",
         "url": "https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 163213,
       "name": "Conquistar El Planeta",
       "url": "https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Me He Pillao x Ti",
+        "url": "https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 202250,
+      "name": "Me He Pillao x Ti",
+      "url": "https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv"
     },
     {
       "added_at": "2023-05-12 04:01:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGZkZjljMGY2YzBiNzQ5NmY3MDgzNjUwZjk2MmI0NzQyMDFhMTNi",
+  "snapshot_id": "MCxiMjcyMTZiOWI2OTgxNjZhZmY0NWU3NmVhNDFlMmU1ZDI1YTg5MzFk",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -151,22 +151,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Space 1.8",
-        "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Space 1",
-      "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 208040,
       "name": "Boreal Kiss Pt. 1",
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Space 1.8",
+        "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Space 1",
+      "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
     },
     {
       "added_at": "2021-09-10 04:35:25",

@@ -824,7 +824,7 @@
     {
       "album": {
         "name": "Know Your Mind",
-        "url": "https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM"
+        "url": "https://open.spotify.com/album/0T1lAytyrT0Qkb7qfdQgaX"
       },
       "artists": [
         {
@@ -835,6 +835,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174827,
+      "name": "Here's Where You're Wrong",
+      "url": "https://open.spotify.com/track/0zVNv6x1W7vJbLWGzF8ZDV"
+    },
+    {
+      "album": {
+        "name": "Know Your Mind",
+        "url": "https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM"
+      },
+      "artists": [
+        {
+          "name": "Jon and Roy",
+          "url": "https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
       "duration_ms": 174827,
       "name": "Here's Where You're Wrong",
       "url": "https://open.spotify.com/track/5qNS0ZxVczeKSs1KE2dPWF"

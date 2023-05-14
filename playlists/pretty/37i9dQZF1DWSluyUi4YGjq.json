@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Cover: Owain Davies of Panchiko",
-  "num_followers": 68484,
+  "num_followers": 68772,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2I1MzJiYjQwNWI0ZmIyZDhmYmE0ZWRlMWFkMjFlOGJkZTQwZWYw",
+  "snapshot_id": "MCwwZTZiYjM1MGVjNTVkMGYxMzJlNGE1YzA5NDBhY2MyZjU1YjYxNTA4",
   "tracks": [
     {
       "added_at": "2023-05-05 04:01:00",
@@ -225,22 +225,6 @@
       "url": "https://open.spotify.com/track/7nRKMmuZnngrUrC5LOEhjk"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Lovers From The Past",
-        "url": "https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "Lovers From The Past",
-      "url": "https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr"
-    },
-    {
       "added_at": "2023-01-12 03:12:54",
       "album": {
         "name": "pushing daisies",
@@ -255,6 +239,22 @@
       "duration_ms": 136221,
       "name": "skipping tiles",
       "url": "https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Lovers From The Past",
+        "url": "https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "Lovers From The Past",
+      "url": "https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Mercurial World",
-        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 204391,
-      "name": "You Lose!",
-      "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
-    },
-    {
       "added_at": "2023-02-27 23:19:06",
       "album": {
         "name": "Fantasy",
@@ -399,6 +383,22 @@
       "duration_ms": 243354,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 204391,
+      "name": "You Lose!",
+      "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
     },
     {
       "added_at": "2022-03-15 19:36:12",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
     },
     {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "\"XCAPE\", PT. 1 JEAN DAWSON AS \"PHOENIX\"",
+        "url": "https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 165519,
+      "name": "youth+",
+      "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
@@ -771,22 +787,6 @@
     {
       "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "Nuclear Daisies",
-        "url": "https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF"
-      },
-      "artists": [
-        {
-          "name": "Nuclear Daisies",
-          "url": "https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Heaven in Your Head",
-      "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
-    },
-    {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
         "name": "Someone2Me",
         "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
       },
@@ -801,20 +801,20 @@
       "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+        "name": "Nuclear Daisies",
+        "url": "https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF"
       },
       "artists": [
         {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+          "name": "Nuclear Daisies",
+          "url": "https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo"
         }
       ],
-      "duration_ms": 250096,
-      "name": "Famine Asylum",
-      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+      "duration_ms": 194181,
+      "name": "Heaven in Your Head",
+      "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
     },
     {
       "added_at": "2022-05-03 02:08:01",
@@ -831,6 +831,22 @@
       "duration_ms": 189673,
       "name": "eightball",
       "url": "https://open.spotify.com/track/2GWjuqubd6LAYgimjWiGu3"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 250096,
+      "name": "Famine Asylum",
+      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -899,18 +915,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU"
       },
       "artists": [
         {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
+      "duration_ms": 173453,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -931,34 +947,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
       },
       "artists": [
         {
-          "name": "Slow Joy",
-          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
         }
       ],
-      "duration_ms": 173453,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "idk how to luv",
-        "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
-      },
-      "artists": [
-        {
-          "name": "zzzahara",
-          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
-        }
-      ],
-      "duration_ms": 150251,
-      "name": "idk how to luv",
-      "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
       "added_at": "2022-09-21 00:37:05",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "idk how to luv",
+        "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "duration_ms": 150251,
+      "name": "idk how to luv",
+      "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Happy Songs for Happy Zombies",
@@ -1007,38 +1023,6 @@
       "duration_ms": 204202,
       "name": "Blaster",
       "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "don't tell me",
-        "url": "https://open.spotify.com/album/1yHTOsFz7Lji0xZ06oN1oL"
-      },
-      "artists": [
-        {
-          "name": "Mind\u2019s Eye",
-          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
-        }
-      ],
-      "duration_ms": 279318,
-      "name": "don't tell me",
-      "url": "https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1057,6 +1041,22 @@
       "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
+    },
+    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "Urban Twilight (Remaster)",
@@ -1071,6 +1071,22 @@
       "duration_ms": 230197,
       "name": "Strawberry Cream",
       "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "don't tell me",
+        "url": "https://open.spotify.com/album/1yHTOsFz7Lji0xZ06oN1oL"
+      },
+      "artists": [
+        {
+          "name": "Mind\u2019s Eye",
+          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
+        }
+      ],
+      "duration_ms": 279318,
+      "name": "don't tell me",
+      "url": "https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1105,6 +1121,22 @@
       "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Dead Kids R.I.P. City",
+        "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
+      },
+      "artists": [
+        {
+          "name": "Soft Kill",
+          "url": "https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
+    },
+    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "Blush Response & Warm",
@@ -1123,38 +1155,6 @@
       "duration_ms": 236000,
       "name": "OUTLAW69",
       "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Dead Kids R.I.P. City",
-        "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
-      },
-      "artists": [
-        {
-          "name": "Soft Kill",
-          "url": "https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "\"XCAPE\", PT. 1 JEAN DAWSON AS \"PHOENIX\"",
-        "url": "https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 165519,
-      "name": "youth+",
-      "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"
     },
     {
       "added_at": "2023-02-27 23:19:06",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Life Is Not A Lesson",
+        "url": "https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut"
+      },
+      "artists": [
+        {
+          "name": "Glitterer",
+          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
+        }
+      ],
+      "duration_ms": 143882,
+      "name": "Try Harder Still",
+      "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Lesser Matters",
         "url": "https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV"
       },
@@ -1337,22 +1353,6 @@
       "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Life Is Not A Lesson",
-        "url": "https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut"
-      },
-      "artists": [
-        {
-          "name": "Glitterer",
-          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
-        }
-      ],
-      "duration_ms": 143882,
-      "name": "Try Harder Still",
-      "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
-    },
-    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "House",
@@ -1367,22 +1367,6 @@
       "duration_ms": 122812,
       "name": "Where I Met U",
       "url": "https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Flood Into",
-        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 181593,
-      "name": "Flood Into",
-      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -1415,6 +1399,22 @@
       "duration_ms": 259957,
       "name": "Stare at the Sun",
       "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Flood Into",
+        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 181593,
+      "name": "Flood Into",
+      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
     },
     {
       "added_at": "2022-09-11 03:41:26",

@@ -1852,10 +1852,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 116756,
       "name": "I Want to Break Free",
       "url": "https://open.spotify.com/track/1aYkNGlELBA8tjp3cVW1oT"
+    },
+    {
+      "album": {
+        "name": "I Want to Break Free",
+        "url": "https://open.spotify.com/album/1qEEGVuTf2bHa02kuvP2QP"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gialanella",
+          "url": "https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116756,
+      "name": "I Want to Break Free",
+      "url": "https://open.spotify.com/track/6GmrAymqRZ6dNU3U6GhjTs"
     },
     {
       "album": {

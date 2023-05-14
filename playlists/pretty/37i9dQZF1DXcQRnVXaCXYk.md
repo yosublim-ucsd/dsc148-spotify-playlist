@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 
 > Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,307 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,322 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 19 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 |
 | 20 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 |
 | 21 | [parachute](https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 2:36 |
-| 22 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 |
-| 23 | [Courage to Change](https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Courage to Change](https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh) | 4:52 |
+| 22 | [Courage to Change](https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Courage to Change](https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh) | 4:52 |
+| 23 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 |
 | 24 | [Echo](https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Echo](https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F) | 3:17 |
 | 25 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 |
 | 26 | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 36 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 |
 | 37 | [Liar Liar](https://open.spotify.com/track/7c0tqRk43Y0QXTOYZ5lnkA) | [Cris Cab](https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK) | [Where I Belong](https://open.spotify.com/album/2drxntzHlsigavFiTWYRvF) | 3:33 |
 | 38 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
-| 39 | [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 |
-| 40 | [Wait for You](https://open.spotify.com/track/1prpauWvVGDE0xJAvaDRQt) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Wait for You](https://open.spotify.com/album/4IuaPrc3u8NLguZv7CfmJ2) | 2:52 |
+| 39 | [Wait for You](https://open.spotify.com/track/1prpauWvVGDE0xJAvaDRQt) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Wait for You](https://open.spotify.com/album/4IuaPrc3u8NLguZv7CfmJ2) | 2:52 |
+| 40 | [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 |
 | 41 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
 | 42 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 |
 | 43 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 |
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 51 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 |
 | 52 | [Long Run \(feat\. Nina Nesbitt\)](https://open.spotify.com/track/71xLha47XAePi0EbzHAbEW) | [Deacon](https://open.spotify.com/artist/4rK6HLvoZhLFUTcUhG9WfC), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Long Run \(feat\. Nina Nesbitt\)](https://open.spotify.com/album/5D3DPkdMjst8RNJi9LmWm7) | 2:54 |
 | 53 | [I'm Not Going Anywhere](https://open.spotify.com/track/7f59sM8HM55lTngAUMTfMU) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [I'm Not Going Anywhere](https://open.spotify.com/album/3Z7B2LaqVhGrl8Rzk1N2AC) | 2:59 |
-| 54 | [Midnight](https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Midnight](https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf) | 3:22 |
+| 54 | [Learn to Love \- Stripped](https://open.spotify.com/track/3QuArt3TFanlz6XOUiphiE) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Learn to Love \(Stripped\)](https://open.spotify.com/album/5lluwVdUqKhjsby4RLMahS) | 3:32 |
 | 55 | [Rest Of My Life](https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [When The Light Hits The Room](https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep) | 2:57 |
-| 56 | [Learn to Love \- Stripped](https://open.spotify.com/track/3QuArt3TFanlz6XOUiphiE) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Learn to Love \(Stripped\)](https://open.spotify.com/album/5lluwVdUqKhjsby4RLMahS) | 3:32 |
+| 56 | [Midnight](https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Midnight](https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf) | 3:22 |
 | 57 | [Room for Another](https://open.spotify.com/track/0dcJ754zhmVd3qCwv7oW5g) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Room for Another](https://open.spotify.com/album/43Msz3c7nU5vKAsXPdRekM) | 3:05 |
 | 58 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 |
 | 59 | [Shameless](https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Shameless](https://open.spotify.com/album/5QcquR8hsv60H86QASguCE) | 3:41 |
 | 60 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
-| 61 | [I Know](https://open.spotify.com/track/7xMtHMEyRCktv2UmDYG8kP) | [Micah & Julia](https://open.spotify.com/artist/5ky4yhXKn4OZw7KtZmfJKE) | [I Know](https://open.spotify.com/album/0cI7LukQT1A8d3orxjBUwR) | 3:19 |
-| 62 | [We Were Liars](https://open.spotify.com/track/6KkBc1KCGGPRZ8cEz6E5iG) | [Atticus Blue](https://open.spotify.com/artist/5jBXUdZ1qWKhy263U0nXPs) | [We Were Liars](https://open.spotify.com/album/1fYonUxSmAnow1U8f2vhUl) | 2:50 |
+| 61 | [We Were Liars](https://open.spotify.com/track/6KkBc1KCGGPRZ8cEz6E5iG) | [Atticus Blue](https://open.spotify.com/artist/5jBXUdZ1qWKhy263U0nXPs) | [We Were Liars](https://open.spotify.com/album/1fYonUxSmAnow1U8f2vhUl) | 2:50 |
+| 62 | [I Know](https://open.spotify.com/track/7xMtHMEyRCktv2UmDYG8kP) | [Micah & Julia](https://open.spotify.com/artist/5ky4yhXKn4OZw7KtZmfJKE) | [I Know](https://open.spotify.com/album/0cI7LukQT1A8d3orxjBUwR) | 3:19 |
 | 63 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
 | 64 | [Sorry That I Do That](https://open.spotify.com/track/2WxCovJaXPloCHw0yJ0Z0z) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Evolve EP](https://open.spotify.com/album/4le148qEn3xi1yh9bknqAh) | 2:29 |
 | 65 | [Dream Go](https://open.spotify.com/track/5MqVfGILWwM16n4TQjYq6r) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [Dream Go](https://open.spotify.com/album/5Q6jPArTWi716Q0GTptIqU) | 2:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 69 | [If I Don't Love Me](https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [If I Don't Love Me](https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt) | 2:57 |
 | 70 | [Complexion](https://open.spotify.com/track/2nQtfIkK3eE4SQiaUfAgd5) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Complexion](https://open.spotify.com/album/6mLbfA9FOK4gnbcdXD0Mr6) | 3:09 |
 
-Snapshot ID: `MCxhZGZhZTU5MTIyNGY5YWIzODIxNTNiZmY3MjUyMDU1MGY1ZTZjNTVk`
+Snapshot ID: `MCxmMjJmYmM3MzI0NDBhZDBlZjBlYjNkMjkyZGM3YTY0MTdjZDMyMjY4`

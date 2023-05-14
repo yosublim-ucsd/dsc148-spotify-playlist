@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,091 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,252 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 20 | [2016](https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:55 |
 | 21 | [Wait Up For Me](https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:45 |
 | 22 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
-| 23 | [Where You Are \- Acoustic](https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Living Room Worktapes](https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3) | 4:03 |
-| 24 | [Louise](https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:24 |
+| 23 | [Louise](https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:24 |
+| 24 | [Where You Are \- Acoustic](https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Living Room Worktapes](https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3) | 4:03 |
 | 25 | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M) | 3:32 |
 | 26 | [Lost in Your Love](https://open.spotify.com/track/6rNQl7PtVwGEEF0PuauOAr) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Originals](https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C) | 2:45 |
 | 27 | [I Ain't Ever Loved No One \- Acoustic](https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Other Way](https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 74 | [sunflower.](https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 3:33 |
 | 75 | [Pretty Hands](https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:20 |
 
-Snapshot ID: `MCxhOTUzNDJiMTJkNjQ0NTQ0ZTg0ODMzNDQ5NTllY2I3NzFmZmI0YTZl`
+Snapshot ID: `MCwzZDQ4YTE5NmIyYzc4MTg4ZDE2YmE5N2Q5MGFmMDIzNTRjOGM2MThl`

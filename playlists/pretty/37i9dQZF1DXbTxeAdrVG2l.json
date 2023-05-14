@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1990s. ",
-  "num_followers": 7742799,
+  "num_followers": 7744734,
   "original_name": "All Out 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzBiYmQxNWVjMzJiOWNhYTk4NjlmODVkMGRlZjc0NmQ3M2I5NGY2",
+  "snapshot_id": "MCxkMTc2ZjY0YmZmMzIwNDQ2NjQ2ZGMzMzVmOGU1NDg3NmQyMDAzMjYw",
   "tracks": [
     {
       "added_at": "2022-12-22 14:12:20",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 263560,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 298773,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 263560,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Pretty Fly (For A White Guy)",
-      "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 268826,
       "name": "Changes",
       "url": "https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Pretty Fly (For A White Guy)",
+      "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Let's Talk About Love",
-        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
-      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 277266,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
+      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 257360,
       "name": "U Can't Touch This",
       "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "The Gift Of Game",
         "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 216733,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
-        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
-      },
-      "artists": [
-        {
-          "name": "Semisonic",
-          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Closing Time",
-      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
+        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
     },
     {
       "added_at": "2022-12-22 14:12:20",

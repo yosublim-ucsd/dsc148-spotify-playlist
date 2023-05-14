@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Wes kadung sayang lalu ditinggal rabi 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,536 likes - 41 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,945 likes - 41 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 40 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 |
 | 41 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 |
 
-Snapshot ID: `MCxiMWU2ODNiZTI2NTBkNzE0OTE2NWUzZGM4ODMxM2Y4M2YxMTYwZWNl`
+Snapshot ID: `MCxjNmQ1YTFmOWYwNmQ0ODdiODRhYmY5Y2Q0NDQ2NDI4OTk2MDdhNTli`

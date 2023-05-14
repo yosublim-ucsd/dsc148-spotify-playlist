@@ -1,12 +1,12 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Feid & Sean Paul ",
-  "num_followers": 476547,
+  "num_followers": 476641,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzA2ZTc2YjVkMGQxMjZmNDljMzMwM2NhOTlmNTE3YmYzMjRkZTU3",
+  "snapshot_id": "MCw1MTQ3ZTRlZGJlYmRmODE4OGQ2ZDY4YzM2YzZhYjNjN2Y5MTdkZjU4",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "ANTIFRAGILE",
-      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
         "url": "https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 201391,
       "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1427,26 +1427,6 @@
       "duration_ms": 188106,
       "name": "LA FAMA",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1491,18 +1471,42 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "PLAYA DEL INGL\u00c9S",
+        "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 237525,
+      "name": "PLAYA DEL INGL\u00c9S",
+      "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1527,22 +1531,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "PLAYA DEL INGL\u00c9S",
-        "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         }
       ],
-      "duration_ms": 237525,
-      "name": "PLAYA DEL INGL\u00c9S",
-      "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "added_at": "2023-04-28 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Uwa",
-  "num_followers": 43807,
+  "num_followers": 43920,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmJiOTk1MDRlZGU5MDc1MzVmMGJlZmMyMDMzNDg0ZTE1Zjk5YmYy",
+  "snapshot_id": "MCxjMDBlYWQ5YmM3OGUxYzE4MTlkZGEzZjg0MTM0MDQyODA3YmQ1MTNh",
   "tracks": [
     {
       "added_at": "2023-02-10 10:09:36",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x"
-      },
-      "artists": [
-        {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 145278,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Oluwa",
         "url": "https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p"
       },
@@ -627,22 +607,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Marvelous God",
-        "url": "https://open.spotify.com/album/6w5uP78BBEzyvG4ymgm6Ut"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
         },
         {
-          "name": "Mike Aremu",
-          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         }
       ],
-      "duration_ms": 233404,
-      "name": "Marvelous God",
-      "url": "https://open.spotify.com/track/6VJ3yM31EykkdgBl6eAq1g"
+      "duration_ms": 145278,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -667,6 +647,26 @@
       "duration_ms": 162569,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Marvelous God",
+        "url": "https://open.spotify.com/album/6w5uP78BBEzyvG4ymgm6Ut"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        }
+      ],
+      "duration_ms": 233404,
+      "name": "Marvelous God",
+      "url": "https://open.spotify.com/track/6VJ3yM31EykkdgBl6eAq1g"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Savior",
         "url": "https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 153473,
       "name": "Savior",
       "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Pepper Dem",
-        "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
-      },
-      "artists": [
-        {
-          "name": "Kofi Dartey",
-          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
-        },
-        {
-          "name": "Legacy",
-          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Pepper Dem",
-      "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Never Leave Me (Amapiano Remix)",
-        "url": "https://open.spotify.com/album/77S0G5BQrMjwa9tUi7KosI"
-      },
-      "artists": [
-        {
-          "name": "Sarah T\u00e9ibo",
-          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
-        }
-      ],
-      "duration_ms": 211184,
-      "name": "Never Leave Me - Amapiano Remix",
-      "url": "https://open.spotify.com/track/0eh2R4p0kOY1UEvBSZYPsE"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Unguilty Pleasure",
         "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 193398,
       "name": "Unguilty Pleasure",
       "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Never Leave Me (Amapiano Remix)",
+        "url": "https://open.spotify.com/album/77S0G5BQrMjwa9tUi7KosI"
+      },
+      "artists": [
+        {
+          "name": "Sarah T\u00e9ibo",
+          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+        }
+      ],
+      "duration_ms": 211184,
+      "name": "Never Leave Me - Amapiano Remix",
+      "url": "https://open.spotify.com/track/0eh2R4p0kOY1UEvBSZYPsE"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Jah!",
+        "url": "https://open.spotify.com/album/6IN6VQD4zWgfcpJhQetAOu"
+      },
+      "artists": [
+        {
+          "name": "Gil Joe",
+          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
+        },
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Jah!",
+      "url": "https://open.spotify.com/track/4tgsrzbZKMqSfwpbm3Auz3"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "NEVER FORGET",
         "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 217959,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Jah!",
-        "url": "https://open.spotify.com/album/6IN6VQD4zWgfcpJhQetAOu"
-      },
-      "artists": [
-        {
-          "name": "Gil Joe",
-          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
-        },
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Jah!",
-      "url": "https://open.spotify.com/track/4tgsrzbZKMqSfwpbm3Auz3"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1003,30 +1003,6 @@
       "duration_ms": 138710,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/1u8KsB5A1YXpfoyqgsO6Ek"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Belongs to You (EDM Remix)",
-        "url": "https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8"
-      },
-      "artists": [
-        {
-          "name": "Sarah T\u00e9ibo",
-          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
-        },
-        {
-          "name": "Sigag Lauren",
-          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
-        },
-        {
-          "name": "Paola Carla",
-          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Belongs to You - EDM Remix",
-      "url": "https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1083,26 +1059,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "No Stress",
-        "url": "https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL"
-      },
-      "artists": [
-        {
-          "name": "Renzo BA",
-          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
-        },
-        {
-          "name": "Elikem Kofi",
-          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "GOD'S LOVE",
         "url": "https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP"
       },
@@ -1119,6 +1075,50 @@
       "duration_ms": 137064,
       "name": "GOD'S LOVE",
       "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Belongs to You (EDM Remix)",
+        "url": "https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8"
+      },
+      "artists": [
+        {
+          "name": "Sarah T\u00e9ibo",
+          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+        },
+        {
+          "name": "Sigag Lauren",
+          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
+        },
+        {
+          "name": "Paola Carla",
+          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Belongs to You - EDM Remix",
+      "url": "https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL"
+      },
+      "artists": [
+        {
+          "name": "Renzo BA",
+          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
+        },
+        {
+          "name": "Elikem Kofi",
+          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Highly Favoured",
-        "url": "https://open.spotify.com/album/5EG3FrFomhVsocyhiwkJYA"
-      },
-      "artists": [
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        },
-        {
-          "name": "Renzo BA",
-          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Highly Favoured",
-      "url": "https://open.spotify.com/track/02JJjf7HWHylohQftv7muI"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Nobody Like You",
         "url": "https://open.spotify.com/album/1dU5VJTafuXBaXWFZKZ69C"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 185959,
       "name": "Nobody Like You (feat. CalledOut Music) - Radio Edit",
       "url": "https://open.spotify.com/track/69dmysQe6AgLJM4FepdiiJ"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Highly Favoured",
+        "url": "https://open.spotify.com/album/5EG3FrFomhVsocyhiwkJYA"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Renzo BA",
+          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Highly Favoured",
+      "url": "https://open.spotify.com/track/02JJjf7HWHylohQftv7muI"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1256,6 +1256,30 @@
       "added_at": "2023-02-10 10:09:36",
       "album": {
         "name": "Your Love",
+        "url": "https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "O'Tobi",
+          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
+        },
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        }
+      ],
+      "duration_ms": 176788,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Your Love",
         "url": "https://open.spotify.com/album/57rYhictfJHUWzCvjgHv7r"
       },
       "artists": [
@@ -1295,30 +1319,6 @@
       "duration_ms": 299999,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs"
-      },
-      "artists": [
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "O'Tobi",
-          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
-        },
-        {
-          "name": "Maikon West",
-          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
-        }
-      ],
-      "duration_ms": 176788,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
-      },
-      "artists": [
-        {
-          "name": "SESS",
-          "url": "https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip"
-        }
-      ],
-      "duration_ms": 155530,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x"
       },
@@ -1435,6 +1419,42 @@
       "duration_ms": 134217,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
+      },
+      "artists": [
+        {
+          "name": "SESS",
+          "url": "https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip"
+        }
+      ],
+      "duration_ms": 155530,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Relief",
+        "url": "https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Oyije",
+          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+        }
+      ],
+      "duration_ms": 157309,
+      "name": "Relief",
+      "url": "https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1483,26 +1503,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Relief",
-        "url": "https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3"
-      },
-      "artists": [
-        {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        },
-        {
-          "name": "Oyije",
-          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
-        }
-      ],
-      "duration_ms": 157309,
-      "name": "Relief",
-      "url": "https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Made Whole",
         "url": "https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM"
       },
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Idols",
+        "url": "https://open.spotify.com/album/2BsgQxCEn4Vg5lPgbdXqS6"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "duration_ms": 161495,
+      "name": "Idols",
+      "url": "https://open.spotify.com/track/7gPYRjhBoy72zlXzvVTEjP"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Lotta Things",
         "url": "https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 321428,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
-      },
-      "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
     }
   ],
   "unique_name": "AfroGospel",

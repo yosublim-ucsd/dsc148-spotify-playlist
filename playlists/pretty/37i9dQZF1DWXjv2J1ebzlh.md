@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,888 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,932 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1186,4 +1186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1176 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1177 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw3YjgwNTU4ZjE2NjIyMDcxOTYxN2M2OTk5MjQ1Yzk2YTI0ODEzZGUw`
+Snapshot ID: `MCxlOWM3ZjEzYmU3NTcxYzE2YTY3OGUzZWUzNWNiMTQ2M2JlMjE4Mzkx`

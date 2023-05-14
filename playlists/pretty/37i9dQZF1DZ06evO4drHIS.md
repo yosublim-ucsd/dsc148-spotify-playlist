@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,561 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,575 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 40 | [El Son De La Negra \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/6pP8G7qP1KkAnzbCbVnsYs) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 2:51 |
 | 41 | [Qué Más Da](https://open.spotify.com/track/3ZVUnnt2yWbM40EIpS0NYz) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Soy](https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN) | 3:22 |
 
-Snapshot ID: `MjgwNjQ5MDgsMDAwMDAwMDA3NzQzYzdjMzcxNGM4ZjU4MmRhNmYyNzZkOGQyODEyMA==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDAyNTVjMmFlYTU0YzgxMTNjYTdjN2FlYmZkMGEyZjljOQ==`

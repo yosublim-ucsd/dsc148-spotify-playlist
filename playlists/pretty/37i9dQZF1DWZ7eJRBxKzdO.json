@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 130802,
+  "num_followers": 130930,
   "original_name": "Summer Dance Hits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODRmMzc2OTg4NmQxOGJmYTlkOGYwODEzNGE1YjUyMTk5Y2I0YTEy",
+  "snapshot_id": "MCw3OTM5MmMxOTZkZGQ1ODgzZTQzM2VlMTBjNmI4Mzk4ZTM2MWU1NDdi",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -447,22 +427,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
       "artists": [
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -483,6 +463,26 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -551,6 +531,26 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Substitution",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -567,6 +567,34 @@
       "duration_ms": 181477,
       "name": "Substitution",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 162603,
+      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -611,54 +639,6 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 162603,
-      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Hot In It",
-        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -711,6 +691,26 @@
       "duration_ms": 169523,
       "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
       "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Lauren (I Can't Stay Forever)",
+        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "Lauren (I Can't Stay Forever)",
+      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "You for Me",
         "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Lauren (I Can't Stay Forever)",
-        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        }
-      ],
-      "duration_ms": 200550,
-      "name": "Lauren (I Can't Stay Forever)",
-      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 180638,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Good Feeling (feat. Rhys Lewis)",
         "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
       },
@@ -1375,26 +1375,6 @@
       "duration_ms": 214942,
       "name": "Good Feeling (feat. Rhys Lewis)",
       "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1419,6 +1399,26 @@
       "duration_ms": 136995,
       "name": "Where The Lights Are Low",
       "url": "https://open.spotify.com/track/0Cnb8XdGDMHAmIRBUJMkIS"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -2083,6 +2083,42 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 158399,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Way It Is",
+        "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        }
+      ],
+      "duration_ms": 192905,
+      "name": "Way It Is",
+      "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
       },
@@ -2131,42 +2167,6 @@
       "duration_ms": 220744,
       "name": "Sunsleeper",
       "url": "https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Way It Is",
-        "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        },
-        {
-          "name": "RSCL",
-          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
-        }
-      ],
-      "duration_ms": 192905,
-      "name": "Way It Is",
-      "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 158399,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -2327,26 +2327,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Jumpin'",
-        "url": "https://open.spotify.com/album/0HkIYDIdHJCSQYl8xJeZlu"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Jumpin'",
-      "url": "https://open.spotify.com/track/7tqS7Ywfkz6zVy3aWzip0W"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Rich In Love",
         "url": "https://open.spotify.com/album/1ZJuNaxvUtHns8WCpIaAh9"
       },
@@ -2363,6 +2343,26 @@
       "duration_ms": 205186,
       "name": "Rich In Love",
       "url": "https://open.spotify.com/track/424bdPXDmsR1WgZoCUwxt4"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Jumpin'",
+        "url": "https://open.spotify.com/album/0HkIYDIdHJCSQYl8xJeZlu"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Jumpin'",
+      "url": "https://open.spotify.com/track/7tqS7Ywfkz6zVy3aWzip0W"
     },
     {
       "added_at": "2023-05-11 22:00:00",

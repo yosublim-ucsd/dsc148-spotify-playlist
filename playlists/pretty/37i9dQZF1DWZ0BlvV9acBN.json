@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 116763,
+  "num_followers": 116814,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2I2OTJkYmU4ZDIzOGRhNmJhNWMyYjdmM2VlMmFkZTVmMTM4OTZm",
+  "snapshot_id": "MCw3YThhMjQyNzQzNWNiNDE4MDVmODc0NTcxM2NkYTk4YTMyZTM3ZmRk",
   "tracks": [
     {
       "added_at": "2023-05-05 19:20:21",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-05-05 19:20:21",
       "album": {
-        "name": "Cordeiro e Le\u00e3o",
-        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
+        "name": "Retrato",
+        "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
       },
       "artists": [
         {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
         }
       ],
-      "duration_ms": 236295,
-      "name": "Cordeiro e Le\u00e3o",
-      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
+      "duration_ms": 333250,
+      "name": "Retrato",
+      "url": "https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc"
     },
     {
       "added_at": "2023-05-05 19:20:21",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-05-05 19:20:21",
       "album": {
-        "name": "Retrato",
-        "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
+        "name": "Cordeiro e Le\u00e3o",
+        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
       },
       "artists": [
         {
-          "name": "Oficina G3",
-          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
         }
       ],
-      "duration_ms": 333250,
-      "name": "Retrato",
-      "url": "https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc"
+      "duration_ms": 236295,
+      "name": "Cordeiro e Le\u00e3o",
+      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
     },
     {
       "added_at": "2023-05-05 19:20:21",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-05-05 19:20:21",
       "album": {
+        "name": "Cantem os Anjos",
+        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio M3",
+          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Cantem os Anjos",
+      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
+    },
+    {
+      "added_at": "2023-05-05 19:20:21",
+      "album": {
         "name": "Louco (feat. PG)",
         "url": "https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 309383,
       "name": "Louco (feat. PG)",
       "url": "https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV"
-    },
-    {
-      "added_at": "2023-05-05 19:20:21",
-      "album": {
-        "name": "Cantem os Anjos",
-        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio M3",
-          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Cantem os Anjos",
-      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
     },
     {
       "added_at": "2023-05-05 19:20:21",

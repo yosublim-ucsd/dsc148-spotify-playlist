@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up for these awesome rock ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,793 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,993 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 58 | [Hope](https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:38 |
 | 59 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
 | 60 | [Stars \- The Shack Film Version](https://open.spotify.com/track/2KPjz1SM7AWC9GxXHmRucG) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Stars \(The Shack Film Version\)](https://open.spotify.com/album/65VDJ8KgsyQ4NnBc6d1K2d) | 3:44 |
-| 61 | [For You](https://open.spotify.com/track/3ktjSD56hFRXC3LjbHXAH1) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Order Of Things](https://open.spotify.com/album/1ewpZOue9FoiljDHq0UYli) | 4:16 |
-| 62 | [Dear Agony \- Aurora Version](https://open.spotify.com/track/5l3W66TDufGaj6lfSA5LRZ) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Aurora](https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz) | 4:15 |
+| 61 | [Dear Agony \- Aurora Version](https://open.spotify.com/track/5l3W66TDufGaj6lfSA5LRZ) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Aurora](https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz) | 4:15 |
+| 62 | [For You](https://open.spotify.com/track/3ktjSD56hFRXC3LjbHXAH1) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Order Of Things](https://open.spotify.com/album/1ewpZOue9FoiljDHq0UYli) | 4:16 |
 | 63 | [Things Happen](https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE) | 4:03 |
 | 64 | [Against The Wall \- Acoustic Version](https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Against The Wall \(Acoustic Version\)](https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf) | 3:26 |
 | 65 | [Wake Up](https://open.spotify.com/track/2tUhCTpGeEfssyYTeu0chm) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness](https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN) | 3:35 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 69 | [On My Own](https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:43 |
 | 70 | [Lifeless Stars](https://open.spotify.com/track/4cZ6TAFCJEThyxwWZvBUQJ) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Lifeless Stars](https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU) | 3:17 |
 | 71 | [Emotionless](https://open.spotify.com/track/7jNf4cQOXGYqpsvm1iGsqP) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Polyester Zeal](https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw) | 4:22 |
-| 72 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |
-| 73 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
+| 72 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
+| 73 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |
 | 74 | [The Unknown](https://open.spotify.com/track/7Eg9qnJK7hI7LLoRsbvH2X) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 2:59 |
 | 75 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 |
 
-Snapshot ID: `MCxmMzNhYjI5ZmE3NzliM2JmZDI0Mjc5ODg1ZjA2ZWEzZjUxN2NkMjZj`
+Snapshot ID: `MCxiNjQ3NjZlOTE4MGRhODIxM2MzNTg3MzVlNmFlMTRkY2Y5MjAxOWU0`

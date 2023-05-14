@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,814 likes - 49 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,851 likes - 49 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 48 | [Aces High \- cover version](https://open.spotify.com/track/0C54uocegt2AqgdJkrFNqo) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Black Earth \(Reissue\)](https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z) | 4:24 |
 | 49 | [The Last Enemy](https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:15 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDAxMzFlMDNkZTVhYzBiMTlkZGNmMjE0YjVkYWYzYTgxZA==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA0NGI4M2Q1YjRhMjUwMjViY2ZjOGViZWY1ZDJhNmJiZg==`

@@ -1,12 +1,12 @@
 {
   "description": "Beat the traffic blues with these killer tunes.",
-  "num_followers": 8359,
+  "num_followers": 8377,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWIwYjI2NTA2ZDQyZDIzZTI0N2Q1ZWJmNzc0Mzc3NTY2ZWNmMDYx",
+  "snapshot_id": "MCw4NTE4NDMyZDk0YmYxM2Y3MTU0ODQ5MmYxOWY4NzNiZDE4ZThjOTFm",
   "tracks": [
     {
       "added_at": "2023-05-11 23:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -391,26 +407,6 @@
       "duration_ms": 123716,
       "name": "Organise",
       "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 178225,
-      "name": "Bandana",
-      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -435,18 +431,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+      "duration_ms": 178225,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -551,30 +551,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "How Many Times",
-        "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
-      },
-      "artists": [
-        {
-          "name": "DJ Big N",
-          "url": "https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "How Many Times",
-      "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Soweto (with Omah Lay & Tempoe)",
         "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 182857,
       "name": "Soweto (with Omah Lay & Tempoe)",
       "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "How Many Times",
+        "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
+      },
+      "artists": [
+        {
+          "name": "DJ Big N",
+          "url": "https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Bienvenue",
         "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 176000,
       "name": "Bienvenue",
       "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 211265,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 150280,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "More Of You",
-        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "More Of You",
-      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "B A H D",
         "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "More Of You",
+        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "More Of You",
+      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/2es5R7Gz861GtXSChRu6JG"
-      },
-      "artists": [
-        {
-          "name": "Kel-P",
-          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/6ZZgjRB0CXBsKGxpJIXYFD"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Philo (Remix)",
         "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
       },
@@ -1379,8 +1363,24 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Werser",
-        "url": "https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI"
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/2es5R7Gz861GtXSChRu6JG"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6ZZgjRB0CXBsKGxpJIXYFD"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Wena",
+        "url": "https://open.spotify.com/album/0onz8qjTUpigfkiOyqjSpw"
       },
       "artists": [
         {
@@ -1390,11 +1390,15 @@
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
         }
       ],
-      "duration_ms": 248697,
-      "name": "Werser",
-      "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
+      "duration_ms": 194819,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/0IzpcaxNAkTbXMCjKce63a"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1451,26 +1455,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "TOP BOY",
-        "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
-        }
-      ],
-      "duration_ms": 226377,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Ojemba",
         "url": "https://open.spotify.com/album/1UDK8dfDpF5WmhS3d8POZM"
       },
@@ -1487,6 +1471,26 @@
       "duration_ms": 177250,
       "name": "Ojemba",
       "url": "https://open.spotify.com/track/4zqWVvzrPDFQmTH8lkeU5p"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "TOP BOY",
+        "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "duration_ms": 226377,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA"
     },
     {
       "added_at": "2023-05-11 23:00:00",

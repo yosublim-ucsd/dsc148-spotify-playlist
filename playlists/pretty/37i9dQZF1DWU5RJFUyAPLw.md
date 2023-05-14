@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,774 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,805 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 29 | [Volero](https://open.spotify.com/track/02QLmfHOTdKBha0QzK6Axv) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 3:11 |
 | 30 | [Un Chingo](https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Un Chingo](https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT) | 2:57 |
 | 31 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 |
-| 32 | [La Mirada](https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [La Mirada](https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC) | 3:14 |
+| 32 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 |
 | 33 | [Llevame](https://open.spotify.com/track/7r6ZLHbjUIESNz0M6M0J6V) | [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k), [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [Llevame](https://open.spotify.com/album/3s6hO91PWJOGhkM0tAPzHK) | 3:34 |
-| 34 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 |
+| 34 | [La Mirada](https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [La Mirada](https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC) | 3:14 |
 | 35 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
 | 36 | [Saudade \- Acústica](https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Saudade \(Acústica\)](https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg) | 4:56 |
 | 37 | [Todo contigo](https://open.spotify.com/track/6syVXJ8MF5axHLZ6A1TGMn) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Todo contigo](https://open.spotify.com/album/3ao3IZ5b6UH0WnD60tW5Vt) | 3:19 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 47 | [Café con Miel](https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Café con Miel](https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl) | 3:15 |
 | 48 | [En Tu Mar](https://open.spotify.com/track/4a7wgmHW4wn7NEeAetauZD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 5:29 |
 | 49 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
-| 50 | [Despierta](https://open.spotify.com/track/2bPr8EZng6sAPnjp2qoPEV) | [Esotérica Tropical](https://open.spotify.com/artist/6XMptgUrnAltqp1lXz7vCs) | [Despierta](https://open.spotify.com/album/5XT45gWLliUZ1HjnQaZfS3) | 3:00 |
+| 50 | [tensión](https://open.spotify.com/track/2nO0Wk3YrbisjXcCDJkR5T) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [tensión](https://open.spotify.com/album/0hnC4bP1PMMt18ZPdMftFX) | 3:07 |
 
-Snapshot ID: `MCwwZTczNDdjODU4NzViYTJlODMyOGM2YjhlYTUwYTgzNGE3MzdlMmMx`
+Snapshot ID: `MCxjMGY3MTdjMGE2ZjNhMTMyYmM5ZTFhM2ViNzNmOTVlNmZmNWYyYWE5`

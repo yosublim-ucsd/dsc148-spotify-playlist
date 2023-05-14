@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Naira Marley",
-  "num_followers": 7918,
+  "num_followers": 7977,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGE1MzQ4ZDJjNTI1NGE0ZmI0YWQ5ZmVlZmY3ZmU5MDE0N2QyZTEz",
+  "snapshot_id": "MCw5Y2RjYjJkYmIxNGM4ZmQwZTMxMTAzMjE0ODlkYzlhMmU0MGJjN2Q1",
   "tracks": [
     {
       "added_at": "2023-05-11 23:00:00",
@@ -599,18 +599,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "On Fire (From 'Gangs of Lagos')",
-        "url": "https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS"
+        "name": "Caro (Remix)",
+        "url": "https://open.spotify.com/album/2LAhZSO0Zcnp1NsrdyashT"
       },
       "artists": [
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
         }
       ],
-      "duration_ms": 160746,
-      "name": "On Fire (From 'Gangs of Lagos')",
-      "url": "https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41"
+      "duration_ms": 188734,
+      "name": "Caro (Remix)",
+      "url": "https://open.spotify.com/track/0q4b2aZRhZMRD3HvLy45s7"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -635,22 +639,18 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Caro (Remix)",
-        "url": "https://open.spotify.com/album/2LAhZSO0Zcnp1NsrdyashT"
+        "name": "On Fire (From 'Gangs of Lagos')",
+        "url": "https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS"
       },
       "artists": [
         {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 188734,
-      "name": "Caro (Remix)",
-      "url": "https://open.spotify.com/track/0q4b2aZRhZMRD3HvLy45s7"
+      "duration_ms": 160746,
+      "name": "On Fire (From 'Gangs of Lagos')",
+      "url": "https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "NI NIGERIA",
+        "url": "https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K"
+      },
+      "artists": [
+        {
+          "name": "Tomi Tribe",
+          "url": "https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51"
+        },
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "NI NIGERIA",
+      "url": "https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Amala",
         "url": "https://open.spotify.com/album/42FZKw04wgLtGEYerWZ9Xp"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 129807,
       "name": "New Born Fela",
       "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "NI NIGERIA",
-        "url": "https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K"
-      },
-      "artists": [
-        {
-          "name": "Tomi Tribe",
-          "url": "https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51"
-        },
-        {
-          "name": "Toy\u00e9",
-          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
-        }
-      ],
-      "duration_ms": 145263,
-      "name": "NI NIGERIA",
-      "url": "https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Of Lagos",
+        "url": "https://open.spotify.com/album/0XZG1YD6gSjTTARiGEWz6l"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Of Lagos",
+      "url": "https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "A True Champion",
         "url": "https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 191722,
       "name": "KPK (Ko Por Ke)",
       "url": "https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Of Lagos",
-        "url": "https://open.spotify.com/album/0XZG1YD6gSjTTARiGEWz6l"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Of Lagos",
-      "url": "https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A"
     },
     {
       "added_at": "2023-05-11 23:00:00",

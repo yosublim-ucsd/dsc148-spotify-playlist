@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 
 > This is Hayley Kiyoko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,708 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,728 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 39 | [Hit & Run](https://open.spotify.com/track/1jlLg8ZQbvCTkIoP2fI70b) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:33 |
 | 40 | [A Belle to Remember](https://open.spotify.com/track/2I05iyCC84kQHipFDl7yfd) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:26 |
 
-Snapshot ID: `MjgwNjQ5MDgsMDAwMDAwMDA3MWM5NDliMzg3MDY3YWMzMDRlODMyYWM1Mzg2YzNlNQ==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDBjZTcyNTdiOWI1M2VlOGM1Y2VhZmRmYWFjMWQ5NTRiMQ==`

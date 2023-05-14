@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: فهد بن فصلا و غريب المخلص
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,068 likes - 52 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,153 likes - 52 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 51 | [مسموح](https://open.spotify.com/track/47vhMaoRykFM1C4HspBXG0) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [مسموح](https://open.spotify.com/album/2sE39ge2pRfWG4UGdaqd0Q) | 3:21 |
 | 52 | [فيني مايكفيني](https://open.spotify.com/track/5np7Iyt9i8EDmKSpSVJR58) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [فيني مايكفيني](https://open.spotify.com/album/3x0qCf5FPJ96XQS1X4xUvt) | 3:25 |
 
-Snapshot ID: `MCwzZGRjNmYyMzJkZjc0YjgzMDY4ODE3YjYxMzkyNWQ5MGVlYjBiMzEw`
+Snapshot ID: `MCxkYjY0ZWE3MDkzYzFkNDVjOTI3NTQ5ZmQxMGQyZWZjZjlmMTA4Yzhl`

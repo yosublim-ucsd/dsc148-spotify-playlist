@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Bienvenida Generación RADAR 2023! Los Aptos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,723 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,735 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 25 | [POR TI](https://open.spotify.com/track/1ywSO1hZibstp0ymYdGJir) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [POR TI](https://open.spotify.com/album/0Pq9Y3L6UuUwZqP1ZuRyR4) | 3:05 |
 | 26 | [Me Dejaste en Cero](https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Dejaste en Cero](https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv) | 3:20 |
 | 27 | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS) | 3:32 |
-| 28 | [Me Voy Pa'l Infierno](https://open.spotify.com/track/2Z4UiHf6vgdoMtoU7FvpMc) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Me Voy Pa'l Infierno](https://open.spotify.com/album/1WGlZO78Xjlb8chgRMLcTJ) | 3:07 |
-| 29 | [Paso A Pasito](https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:43 |
+| 28 | [Paso A Pasito](https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:43 |
+| 29 | [Me Voy Pa'l Infierno](https://open.spotify.com/track/2Z4UiHf6vgdoMtoU7FvpMc) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Me Voy Pa'l Infierno](https://open.spotify.com/album/1WGlZO78Xjlb8chgRMLcTJ) | 3:07 |
 | 30 | [Aquí No Hay Suerte](https://open.spotify.com/track/42K8b2MTsQS7IWLXTvpz6R) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Aquí No Hay Suerte](https://open.spotify.com/album/3djvuc0wMeAmhCrvVSrw3g) | 2:20 |
 | 31 | [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 |
 | 32 | [Mi Propuesta](https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Mi Propuesta](https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA) | 3:25 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 34 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 |
 | 35 | [Pa Que Te Digo Que No](https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Raro](https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ) | 2:54 |
 | 36 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 |
-| 37 | [Andando Entre la Lumbre](https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv) | [Andando Entre la Lumbre](https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J) | 3:03 |
-| 38 | [Cambio De Canción](https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:49 |
+| 37 | [Cambio De Canción](https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:49 |
+| 38 | [Andando Entre la Lumbre](https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv) | [Andando Entre la Lumbre](https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J) | 3:03 |
 | 39 | [Fuerza De Voluntad](https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS) | [Fuerza De Voluntad](https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27) | 2:43 |
 | 40 | [Como Intento](https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Como Intento](https://open.spotify.com/album/1ZTJ3I8M7jANe5qBYCU5Ee) | 2:43 |
 | 41 | [Bonita](https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Bonita](https://open.spotify.com/album/6R2qa9DVZYEgs7fRwWYgAx) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Pa' Que Sepas](https://open.spotify.com/track/1zv4GLkzu9aC1LxANPVABR) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa' Que Sepas](https://open.spotify.com/album/2v1MC1AaDxXvSg0yU5DKg1) | 2:51 |
 | 50 | [Te Has Convertido](https://open.spotify.com/track/2n5nRP7fcX88f9kkrQJU46) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Te Has Convertido](https://open.spotify.com/album/7tcYacZtqg7FB1NX0gS1pq) | 3:25 |
 
-Snapshot ID: `MCxiNjViYzllOTBlNDhkNGEwYWM4ZTU4MzhiYzFiNmVlOTA3MzRiOGUw`
+Snapshot ID: `MCxkYzlkNzE2ZmE0MTgzOTMyOGQ0YTU1MTZlMTRhMmYwZTZmMzdmMWY4`

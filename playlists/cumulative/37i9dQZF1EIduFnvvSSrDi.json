@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 188080,
       "name": "A Drop of Nelson`s Blood",
       "url": "https://open.spotify.com/track/3ibRWGqFRxHIjwIDKa9Bvk"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 147640,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/5mHXpil9nQ7TtSGrHgLnA2"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 93272,
       "name": "Ballad of the Mer - Original Game Soundtrack",
       "url": "https://open.spotify.com/track/6IqhOlJ3iitqTCqzk1BSbu"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 164833,
       "name": "Becalmed - Original Game Soundtrack",
       "url": "https://open.spotify.com/track/2UDAtv1fwerK95b3CQqHA9"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 75840,
       "name": "Billy Riley",
       "url": "https://open.spotify.com/track/1ZCIiSCc73CugkpWp7UYee"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 164666,
       "name": "Blood Red Roses",
       "url": "https://open.spotify.com/track/04coNp7oAxHAH8WRPtoYQ1"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 189558,
       "name": "Chicken On a Raft",
       "url": "https://open.spotify.com/track/0HWGsuHm2sAqIXMYXvgzOp"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 67173,
       "name": "Dead Horse",
       "url": "https://open.spotify.com/track/7MSpEzjmxk6cTyd2Wl06IM"
@@ -624,10 +624,28 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 192293,
       "name": "Don't Forget Your Old Shipmate",
       "url": "https://open.spotify.com/track/7w7B0C7kT6CWLPGb0i4ArG"
+    },
+    {
+      "album": {
+        "name": "Smoke & Oakum",
+        "url": "https://open.spotify.com/album/0hWeSxZbYIOTDCicxMQmap"
+      },
+      "artists": [
+        {
+          "name": "The Longest Johns",
+          "url": "https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196720,
+      "name": "Downed And Drowned",
+      "url": "https://open.spotify.com/track/4gvUEL1cReqdeMjBMlMZjH"
     },
     {
       "album": {
@@ -752,7 +770,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 208373,
       "name": "Drunken Sailor",
       "url": "https://open.spotify.com/track/0WR6Amta732nCZwBKtT8HN"
@@ -818,7 +836,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 144760,
       "name": "Drunken Sailor",
       "url": "https://open.spotify.com/track/4n5UwoPQn0tBlqxQjyEMdB"
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 255000,
       "name": "Ghost From The Barrow",
       "url": "https://open.spotify.com/track/59uRBtJ8NU97QjMKF2nTVm"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 171916,
       "name": "Got No Beard",
       "url": "https://open.spotify.com/track/56aw6f6mcoE1vWCPJ2hkUP"
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 112839,
       "name": "Grogg Mayles",
       "url": "https://open.spotify.com/track/0kHvdb6ziEmzlnN9jnnLXz"
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 155653,
       "name": "Here's a Health to the Company",
       "url": "https://open.spotify.com/track/4JUkdidM086v5Vl2xBQYt5"
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 191693,
       "name": "High Barbary",
       "url": "https://open.spotify.com/track/6sguMb85rfhr4dUxbxduiN"
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 122700,
       "name": "Hoist the Colours",
       "url": "https://open.spotify.com/track/2H0RTZvOwdFcpf8GWattYH"
@@ -1346,7 +1364,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 59200,
       "name": "Jake and the Never Land Pirates (Main Title) - From \"Jake and the Never Land Pirates\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6j6fuhuCNiULtPmlfYKOz2"
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 195419,
       "name": "John Kanackanaka",
       "url": "https://open.spotify.com/track/50SKJ7ghPxA7JN8cP8wl8O"
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Join The Riot",
       "url": "https://open.spotify.com/track/793DGXYpeAGUaPY9IdSQoK"
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 222253,
       "name": "Keelhauled",
       "url": "https://open.spotify.com/track/2pnZVpeKqLrEto2X9vYF6s"
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 132293,
       "name": "Leave Her Johnny",
       "url": "https://open.spotify.com/track/2vaa0nnDnNTlxCh7fCmjsr"
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 173666,
       "name": "Lowlands Away",
       "url": "https://open.spotify.com/track/0xQulEotE4SkbS4hpi9P9X"
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 190333,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/30HudkdtT6bvHdagrxFJ7e"
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 248940,
       "name": "Oak & Ash & Thorn",
       "url": "https://open.spotify.com/track/38FCXf9CTcH9MJKn3WsJ7x"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Old Maui",
       "url": "https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 238867,
       "name": "One More Pull",
       "url": "https://open.spotify.com/track/6gDpLHPrId2edxNY0sLK4z"
@@ -1932,7 +1950,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 203118,
       "name": "P.A.R.T.Y.",
       "url": "https://open.spotify.com/track/1wcd8XcSwgLyQHTAUVmdi7"
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 114053,
       "name": "Ring Down Below",
       "url": "https://open.spotify.com/track/0mPYN69Ko3N8HeaZwZv1am"
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 183141,
       "name": "Roll the Old Chariot Along",
       "url": "https://open.spotify.com/track/1HpZmEGmT9Y658IUMyTPhB"
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 115840,
       "name": "Roll, Boys, Roll!",
       "url": "https://open.spotify.com/track/78oB43ccLvINGO48J6E7j7"
@@ -2232,7 +2250,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 89880,
       "name": "Running Down to Cuba",
       "url": "https://open.spotify.com/track/7I5Io7uuk6kFvFe16Wm3xZ"
@@ -2250,7 +2268,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 246280,
       "name": "Rye Whiskey",
       "url": "https://open.spotify.com/track/5Pnb6NnOVs5ZWRpKTphvKq"
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 246904,
       "name": "Santiana",
       "url": "https://open.spotify.com/track/5X3Yc7g9cci6JHC06xHFoA"
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 199266,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/4qoY9d0fhLD6RzTAxk72fQ"
@@ -2374,7 +2392,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 314047,
       "name": "Ship in a Bottle",
       "url": "https://open.spotify.com/track/7EioHGLoCcjuIgQwKh8O8H"
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 127254,
       "name": "Song of the Vikings (My Mother Told Me)",
       "url": "https://open.spotify.com/track/0cc6vT6QJA8e39CiCGmA8B"
@@ -2600,7 +2618,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "The Captain's Dead",
       "url": "https://open.spotify.com/track/7uDE8BEhRLOdUaRuFw6VGR"
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 243786,
       "name": "The Flying Dutchman",
       "url": "https://open.spotify.com/track/4m6d1gakr80NsDIOX4B43p"
@@ -2730,7 +2748,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 164813,
       "name": "The High Seas",
       "url": "https://open.spotify.com/track/0QI1IQbCigfH2kkSdNfvpO"
@@ -2766,7 +2784,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 287240,
       "name": "The Last Saskatchewan Pirate",
       "url": "https://open.spotify.com/track/3YwnqB5kcGFivdrXAfEfEU"
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 181133,
       "name": "The Last Shanty",
       "url": "https://open.spotify.com/track/6tLRGja4JrRoIUBAhmK4WZ"
@@ -2838,7 +2856,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 241706,
       "name": "The Longing",
       "url": "https://open.spotify.com/track/1k8D4tMNIiIFcQrb4bdsHF"
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 125765,
       "name": "The Summoning - Original Game Soundtrack",
       "url": "https://open.spotify.com/track/3W1oNTTjETCzptyc5iP5ki"
@@ -3094,7 +3112,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 226333,
       "name": "Voodoo Man",
       "url": "https://open.spotify.com/track/5M6G1XgzbIafNm6vKu3KoW"
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 126464,
       "name": "We Shall Sail Together - Original Game Soundtrack",
       "url": "https://open.spotify.com/track/7cdmELYEknyXkoZq8mgdty"
@@ -3278,7 +3296,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 67351,
       "name": "Yo Ho (A Pirate's Life for Me)",
       "url": "https://open.spotify.com/track/6PAfU8gvf3iwJbcqVu7yBa"

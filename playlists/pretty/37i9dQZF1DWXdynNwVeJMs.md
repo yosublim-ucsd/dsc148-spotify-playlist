@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: ECHT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,570 likes - 80 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,575 likes - 80 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 79 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 |
 | 80 | [Drops](https://open.spotify.com/track/3awFJqol6x36gdU7I0p8vw) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Maxime Delpierre](https://open.spotify.com/artist/7IHLrjSlSFup9A50WSJkRO) | [Drops & Points](https://open.spotify.com/album/2KKXVzr8i0J2oGKFMvKz60) | 5:33 |
 
-Snapshot ID: `MCxkYzVhYWRhMmJlMTgxNzk1OGNlNDc3OWNkOGNlOTQ2ODVkMDkyMzQz`
+Snapshot ID: `MCxiNzhiYjQ2YzExN2E1NDkxZTg0YzQ3Y2U2YTM0NzAxMTA2YWJmN2Ix`

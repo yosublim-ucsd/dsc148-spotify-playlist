@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > ⚔️👑 battle of the north 👑⚔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,480 likes - 697 songs - 1 day 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,620 likes - 697 songs - 1 day 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -551,7 +551,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 541 | [Bong Bing](https://open.spotify.com/track/2Nk5EgP9wXa3bpTU8V4i5t) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Bong Bing](https://open.spotify.com/album/1jrrIPwjrDSsnx7Ciaqge6) | 2:48 |
 | 542 | [Home](https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Stop Stealing The Covers!](https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah) | 3:17 |
 | 543 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
-| 544 | [YES MOM \(I'm The One To Beat\)](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM \(I'm The One To Beat\)](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 |
+| 544 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 |
 | 545 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 |
 | 546 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO) | 3:37 |
 | 547 | [Love You So](https://open.spotify.com/track/5rwQGBi5mdmU7dqNM7x9Oo) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [Love You So](https://open.spotify.com/album/3BEUHeIQ39AlivVvDkwzNW) | 3:45 |
@@ -706,4 +706,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 696 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 697 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MCw3N2M1MjFmZjBhODVkNjZhMmNjOWIzZGNiMWE1OGYwNzRiMDliYjc5`
+Snapshot ID: `MCxiZTFhNzBmMTEwZWQ5MTViMWU2NDc5Y2JlNzQ0OTIyMDkzMzNkOWEx`

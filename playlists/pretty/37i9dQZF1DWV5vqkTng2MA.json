@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 361633,
+  "num_followers": 361729,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjI0ZjEyZmE5MDNmNTkyMGNmNTA5MTlkZTE5MzYyNWVhOTI0YTYw",
+  "snapshot_id": "MCwwYWRkM2ZhOTUyNmExNGRlZTA0OTUzNjg4ZmFkZGYyODE0NGExZDg5",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Look It Here",
+      "url": "https://open.spotify.com/track/1uGFKt1GEUeuST97c2jBD4"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Plastic Bouquet",
         "url": "https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 125840,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5XOzpTZGe4onY74BFK0ziS"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Look It Here",
-      "url": "https://open.spotify.com/track/1uGFKt1GEUeuST97c2jBD4"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "Pining",
-      "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Bad Self Portraits",
         "url": "https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 204786,
       "name": "Bad Self Portraits",
       "url": "https://open.spotify.com/track/3CWHWrV0UNbA2kT9xtoI6n"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Pining",
+      "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "The Shelters",
-        "url": "https://open.spotify.com/album/451kD1EliOug21dypPYnMn"
-      },
-      "artists": [
-        {
-          "name": "The Shelters",
-          "url": "https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89"
-        }
-      ],
-      "duration_ms": 238924,
-      "name": "Rebel Heart",
-      "url": "https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "UNDIVIDED HEART & SOUL",
         "url": "https://open.spotify.com/album/3W3o75jSGuCqimWodjCUPB"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 194533,
       "name": "CRYING\u2019S JUST A THING YOU DO",
       "url": "https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "The Shelters",
+        "url": "https://open.spotify.com/album/451kD1EliOug21dypPYnMn"
+      },
+      "artists": [
+        {
+          "name": "The Shelters",
+          "url": "https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89"
+        }
+      ],
+      "duration_ms": 238924,
+      "name": "Rebel Heart",
+      "url": "https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a"
     },
     {
       "added_at": "2023-05-05 04:00:00",

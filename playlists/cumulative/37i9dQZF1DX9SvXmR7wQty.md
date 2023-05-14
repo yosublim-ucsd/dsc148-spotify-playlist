@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Fredz
 
-1,845 songs - 4 day 2 hr 51 min
+1,846 songs - 4 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1309,7 +1309,7 @@
 | [Peur d'être aimé](https://open.spotify.com/track/62F1TZLqCQKtbx1EOx1DnV) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Dans la lune](https://open.spotify.com/album/4yF9UgTFxwMbb4EzS3CDND) | 3:09 | 2023-04-28 | 2023-05-13 |
 | [Peurple](https://open.spotify.com/track/6Ninewf6AmuyOstLCftPu0) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Peurple](https://open.spotify.com/album/6aVhBM0CjXfUeVpf7erNqA) | 2:16 | 2022-04-22 | 2022-05-07 |
 | [Peurs](https://open.spotify.com/track/483CcEyi279fELmppZmrOw) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Peurs](https://open.spotify.com/album/2ROPM2IuJmXwyauflgJ5GN) | 3:18 | 2022-08-05 | 2022-08-27 |
-| [Photographies](https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographies](https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD) | 2:56 | 2023-04-14 |  |
+| [Photographies](https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographies](https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD) | 2:56 | 2023-04-14 | 2023-05-14 |
 | [Phénix \(vue par Misstress Barbara\) \- Remix](https://open.spotify.com/track/05ZPFP5leyssyzHkvFZvCA) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Phénix \(vue par Misstress Barbara\) \[Remix\]](https://open.spotify.com/album/3pG19W4oJwhWxuGbD4DNOw) | 5:24 | 2022-05-20 | 2022-05-28 |
 | [Phénomène phéromonal](https://open.spotify.com/track/2LhrfB4j2zwAOebTmeFoiE) | [Rémi Chassé](https://open.spotify.com/artist/4ZHPSX8wbALZv186ysJ37P) | [Phénomène phéromonal](https://open.spotify.com/album/7wbCIkCo8dA397tYBtgKSw) | 2:48 | 2023-02-24 | 2023-03-11 |
 | [Pickup](https://open.spotify.com/track/3QR5mPpzBG26S4Uqe6XZi7) | [Sly Cooper](https://open.spotify.com/artist/2chxHFLwg84ucaOUKKQ1Bk), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Pickup](https://open.spotify.com/album/0o9ydVRqFkEwZS4F28SGFc) | 3:40 | 2022-05-06 | 2022-05-20 |
@@ -1409,6 +1409,7 @@
 | [Quelque chose de beau](https://open.spotify.com/track/2SAAhzhAr2zntNxLIvD0wf) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Quelque chose de beau](https://open.spotify.com/album/2vlQb0SMJmwhSTDsRUKD18) | 3:28 | 2022-04-08 | 2022-04-23 |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-02-10 | 2023-02-25 |
 | [Quiconque meurt, meurt à douleur](https://open.spotify.com/track/7uZM6lu93fsaaIKOMRXagN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/2sSEaDk3kB9uT2rK2ya1S2) | 2:02 | 2021-12-31 | 2022-01-15 |
+| [Quoi de neuf bébé](https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Melvin de Paris](https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC) | 3:22 | 2023-05-13 |  |
 | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7) | 3:12 | 2023-03-03 | 2023-03-18 |
 | [Rafales](https://open.spotify.com/track/3q2shp4evYbfuOswVJiiQI) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Rafales](https://open.spotify.com/album/5oU0vKNJ0kZKqd3wDXS0Du) | 3:56 | 2022-03-18 | 2022-04-02 |
 | [Ranceur](https://open.spotify.com/track/2uxbDrFDIOLlq3GwSkZJvn) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Ranceur](https://open.spotify.com/album/5CSa2WyuVissQJkQ3qI2cz) | 2:30 | 2023-03-17 | 2023-04-01 |

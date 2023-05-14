@@ -1,12 +1,12 @@
 {
   "description": "Breeze through your commute with these pop favorites. Cover: Miley Cyrus",
-  "num_followers": 255639,
+  "num_followers": 255668,
   "original_name": "Pop Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGRiZGMwNzdhZmU4M2FjYzY5ZWFlNGZlZjljNTZlMzEzODNmNThl",
+  "snapshot_id": "MCw3YjU2Mjc3MDBmYjdkZWE4Nzk5MWU2NTcxYmIxYzQ1ZjViMWUzMjE1",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Eat Your Young",
-        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Eat Your Young",
-      "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 223280,
       "name": "Midnight Sky",
       "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Eastside (with Halsey & Khalid)",
         "url": "https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 173799,
       "name": "Eastside (with Halsey & Khalid)",
       "url": "https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Victoria\u2019s Secret",
-        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 176124,
-      "name": "Victoria's Secret",
-      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 173640,
       "name": "AOK",
       "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Victoria\u2019s Secret",
+        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "Victoria's Secret",
+      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1843,18 +1843,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Chasing Shadows",
-        "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
+        "name": "Be Like That (feat. Swae Lee & Khalid)",
+        "url": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 164027,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
+      "duration_ms": 191406,
+      "name": "Be Like That - feat. Swae Lee & Khalid",
+      "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1891,26 +1899,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Be Like That (feat. Swae Lee & Khalid)",
-        "url": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 191406,
-      "name": "Be Like That - feat. Swae Lee & Khalid",
-      "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
+      "duration_ms": 164027,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
     },
     {
       "added_at": "2023-04-28 04:00:00",

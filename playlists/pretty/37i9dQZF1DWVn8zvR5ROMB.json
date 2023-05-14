@@ -1,12 +1,12 @@
 {
   "description": "All of the newest country music releases in one playlist! Featuring Parker McCollum, Bailey Zimmerman, Jason Aldean and more.",
-  "num_followers": 185976,
+  "num_followers": 186321,
   "original_name": "New Music Friday Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTY0YTM2NzEzZGY4ZjE5MDM2MGJjY2EzMTk4ZTljMjUyOGY0MDI2",
+  "snapshot_id": "MCw0MDI4ODEwNWU5NmY3YzhmZDExOWIyNDIyZjNhZjczNWU1NjM4MTUz",
   "tracks": [
     {
       "added_at": "2023-05-12 16:22:51",
@@ -505,7 +505,7 @@
         }
       ],
       "duration_ms": 191052,
-      "name": "I Loved You First - Duet Version",
+      "name": "I Loved You First (Duet Version)",
       "url": "https://open.spotify.com/track/1GkhICrNN7kV8t08d8CUhu"
     },
     {
@@ -849,7 +849,7 @@
       "artists": [
         {
           "name": "Jake Hill",
-          "url": "https://open.spotify.com/artist/1iMH0LR2jUeCOvBKFVE5QO"
+          "url": "https://open.spotify.com/artist/1NEfcP4od6Yb4Z5FteOSDx"
         }
       ],
       "duration_ms": 191573,
@@ -1104,12 +1104,12 @@
       },
       "artists": [
         {
-          "name": "Joel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0PmqmTnBDSaW4Ld41ojvK2"
-        },
-        {
           "name": "Cecilia Kallin",
           "url": "https://open.spotify.com/artist/36we9Nvk05alC8v82ZP0Uf"
+        },
+        {
+          "name": "Joel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0PmqmTnBDSaW4Ld41ojvK2"
         }
       ],
       "duration_ms": 207421,

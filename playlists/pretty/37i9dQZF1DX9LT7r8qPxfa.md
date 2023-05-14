@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,202 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,264 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 56 | [Silk](https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m) | [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Silk](https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB) | 3:12 |
 | 57 | [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 |
 | 58 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 |
-| 59 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 |
-| 60 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
-| 61 | [It's Infinite](https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 2:54 |
+| 59 | [It's Infinite](https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 2:54 |
+| 60 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 |
+| 61 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
 | 62 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
 | 63 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 |
 | 64 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 |
@@ -83,15 +83,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 73 | [Someone New](https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:49 |
 | 74 | [Maybe](https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 4:30 |
 | 75 | [Vessel](https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Vessel](https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd) | 3:28 |
-| 76 | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:12 |
-| 77 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 |
+| 76 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 |
+| 77 | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:12 |
 | 78 | [May](https://open.spotify.com/track/6HahXy57PZHiHTFdSCrW7U) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq) | 3:58 |
 | 79 | [Fear & Force](https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Infinite Worlds](https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7) | 3:33 |
 | 80 | [Swimming](https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:12 |
 | 81 | [Love of Her Life](https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Love of Her Life](https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ) | 4:01 |
 | 82 | [I’ll Go Running](https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx) | 3:56 |
-| 83 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 |
-| 84 | [The King of All Birds](https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour](https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe) | 3:56 |
+| 83 | [The King of All Birds](https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour](https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe) | 3:56 |
+| 84 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 |
 | 85 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 |
 | 86 | [Thumbs](https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Thumbs](https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc) | 4:25 |
 | 87 | [The Impossible Task of Feeling Complete](https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Horses](https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Soft Drop](https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB) | 3:16 |
 | 100 | [Rae](https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:55 |
 
-Snapshot ID: `MCw2NTMzYmU4MjU2ZTllNmQwY2YzZTdkMzEzMzM0ODA3OTJjM2IzZWU0`
+Snapshot ID: `MCwyOGU4Y2U4ZWZmYmE1ZjQ1ZTIxNGJiYWFiZGUwZjlkYzhkNjQ1YWEy`

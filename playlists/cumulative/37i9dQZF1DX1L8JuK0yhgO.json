@@ -9372,7 +9372,7 @@
     {
       "album": {
         "name": "Vulfnik",
-        "url": "https://open.spotify.com/album/6bs8wgjvtiI34BbchC56uB"
+        "url": "https://open.spotify.com/album/2hx7xwv78aW95cduJrslG5"
       },
       "artists": [
         {
@@ -9387,6 +9387,28 @@
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 146788,
+      "name": "Ucla",
+      "url": "https://open.spotify.com/track/1PP0zqqr3ESIBWs4CLpRCP"
+    },
+    {
+      "album": {
+        "name": "Vulfnik",
+        "url": "https://open.spotify.com/album/6bs8wgjvtiI34BbchC56uB"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        },
+        {
+          "name": "Louie Zong",
+          "url": "https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
       "duration_ms": 146788,
       "name": "Ucla",
       "url": "https://open.spotify.com/track/1RuDYrJzmXlKngNZgWrAGn"

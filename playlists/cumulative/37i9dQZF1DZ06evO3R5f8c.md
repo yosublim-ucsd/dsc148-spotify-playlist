@@ -4,7 +4,7 @@
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-78 songs - 10 hr 11 min
+79 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [The Chameleon](https://open.spotify.com/track/3XmdU29brLZmGYT8ZFTZQX) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Black Moses](https://open.spotify.com/artist/2GajwtMQTCxHl4mTOZ3RnE) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 | 2021-12-29 |  |
 | [Time \(feat\. Cassie\)](https://open.spotify.com/track/5WHoJSG9bkSJfVlyf3PrqO) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 4:52 | 2022-02-21 | 2022-04-02 |
 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 | 2021-12-28 |  |
-| [Turn Me On](https://open.spotify.com/track/7aUlBqAHppttybHHYrefZk) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Turn Me On / Come To Me](https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en) | 7:25 | 2021-12-28 |  |
+| [Turn Me On](https://open.spotify.com/track/1Rat7GGiIeGUvGJSu9Seca) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [XMAS Lounge Tunes \(Special Selected Lounge Tracks for Chilling Under the Christmas Tree\)](https://open.spotify.com/album/2I0vZwlfzDdNu3Feqn45rh) | 7:25 | 2023-05-13 |  |
+| [Turn Me On](https://open.spotify.com/track/7aUlBqAHppttybHHYrefZk) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Turn Me On / Come To Me](https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en) | 7:25 | 2021-12-28 | 2023-05-14 |
 | [UThando](https://open.spotify.com/track/3wwFFql3qfSd4fxLnTvJdV) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mbuso Khoza](https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW) | [Music Is King](https://open.spotify.com/album/7FbVyiO5m2irjYB6t5JYCH) | 6:54 | 2021-12-29 | 2022-01-26 |
 | [Uthando Lwam](https://open.spotify.com/track/7lp3w0kR7m6o3mrKLSXGkI) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Platinumb Heart Beating](https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS) | 5:50 | 2022-09-18 |  |
 | [Wathula Nje \- Live](https://open.spotify.com/track/4xWKIXZj0vlzUoDnnvD9jQ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 3:25 | 2022-04-06 | 2023-02-14 |

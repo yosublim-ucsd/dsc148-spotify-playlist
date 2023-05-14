@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 
 > La carica giusta per i tuoi allenamenti!
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,502 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,612 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 10 | [BOSS](https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [BOSS](https://open.spotify.com/album/3sMOvpUohugjixq44SynQG) | 2:24 |
 | 11 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 |
 | 12 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
-| 13 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 |
-| 14 | [Wow.](https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:29 |
+| 13 | [Wow.](https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:29 |
+| 14 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 |
 | 15 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 |
 | 16 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 |
 | 17 | [Stronger](https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 5:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 69 | [Uno squillo](https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [20](https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw) | 3:28 |
 | 70 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 |
 
-Snapshot ID: `MCxjNWYwYzc0ZDk0ZmJkNzUyOTNjMTU5M2UwNDFhYzY4MzYwOWFmY2Fj`
+Snapshot ID: `MCw2M2Y5ODBkMzFlNWE2MTJmNTEyNmQ2OTc5NjQyYzY2Nzg2NGUzNTBl`

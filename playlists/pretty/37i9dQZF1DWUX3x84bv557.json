@@ -1,12 +1,12 @@
 {
   "description": "MEAU op de cover van de vernieuwde Je Moerstaal! ",
-  "num_followers": 153245,
+  "num_followers": 153322,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWExZGYyYTUzOTlkYTNkMTFkYjdlZTI4MGE5NGU2OGRmYWU0NTcy",
+  "snapshot_id": "MCxiMDMwZWFkZjZkZjEzZmNhOWQ5OGY4NzlmZDZlOWRlODJmMDdhYmU3",
   "tracks": [
     {
       "added_at": "2023-05-12 08:40:20",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-05-12 08:40:20",
       "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/3l8SohnYNEwrffmjs6lTwx"
+      },
+      "artists": [
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "duration_ms": 156009,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/3E46A8yOgmLZMg4wml4II6"
+    },
+    {
+      "added_at": "2023-05-12 08:40:20",
+      "album": {
         "name": "Bliksem & Donder",
         "url": "https://open.spotify.com/album/5QhJLfKlFbZHjtQSXKNUb4"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 169047,
       "name": "Nooit Meer Los",
       "url": "https://open.spotify.com/track/3GhQVwKsqwHk6dFsW6mp9d"
-    },
-    {
-      "added_at": "2023-05-12 08:40:20",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/3l8SohnYNEwrffmjs6lTwx"
-      },
-      "artists": [
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 156009,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/3E46A8yOgmLZMg4wml4II6"
     },
     {
       "added_at": "2023-05-12 08:40:20",

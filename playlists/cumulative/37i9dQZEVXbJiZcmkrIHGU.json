@@ -1427,6 +1427,28 @@
     },
     {
       "album": {
+        "name": "AK47",
+        "url": "https://open.spotify.com/album/4T8PEmwNJ0HxNoJXTJqGZc"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Pano",
+          "url": "https://open.spotify.com/artist/0ycqYtKEVKcGllrwM9uITa"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130121,
+      "name": "AK47",
+      "url": "https://open.spotify.com/track/3dAECAFWRuWRTABq9HjG1a"
+    },
+    {
+      "album": {
         "name": "AKRAPOVIC",
         "url": "https://open.spotify.com/album/0TY5PTUAaoIu1kw19nPRiy"
       },
@@ -2198,7 +2220,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2246,7 +2268,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 129845,
       "name": "Aperol im Glas",
       "url": "https://open.spotify.com/track/7CBXOpFYUCfRjtQ1wMLMYR"
@@ -3165,6 +3187,28 @@
     },
     {
       "album": {
+        "name": "MR. MISUNDERSTOOD",
+        "url": "https://open.spotify.com/album/5toHkr2eL5jOjJ6GuOQTET"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121609,
+      "name": "BABY DU WEISST",
+      "url": "https://open.spotify.com/track/6zCnEL3445vsnlDde0QfjD"
+    },
+    {
+      "album": {
         "name": "High & Hungrig 3",
         "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
       },
@@ -4019,6 +4063,24 @@
     },
     {
       "album": {
+        "name": "Bentley in weiss",
+        "url": "https://open.spotify.com/album/23nxZH1hG0Kn80hNA1Rcd9"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134089,
+      "name": "Bentley in weiss",
+      "url": "https://open.spotify.com/track/5X0ANp8KSvFqM59xAvhIpk"
+    },
+    {
+      "album": {
         "name": "Zukunft",
         "url": "https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6"
       },
@@ -4788,7 +4850,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 154487,
       "name": "Blind",
       "url": "https://open.spotify.com/track/46TNrxrt8FqTp4r5StPkCN"
@@ -6156,7 +6218,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -7002,7 +7064,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -7130,7 +7192,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -7244,6 +7306,24 @@
       "duration_ms": 189306,
       "name": "DAMOKLESSCHWERT",
       "url": "https://open.spotify.com/track/1NYOQREehy670ITCH83ykg"
+    },
+    {
+      "album": {
+        "name": "DANCING IN THE MOONLIGHT",
+        "url": "https://open.spotify.com/album/4C4IPuQD5XGPmgIjoJ663V"
+      },
+      "artists": [
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "DANCING IN THE MOONLIGHT",
+      "url": "https://open.spotify.com/track/223x3XKPR5xViIzD1bppSA"
     },
     {
       "album": {
@@ -9007,6 +9087,24 @@
     },
     {
       "album": {
+        "name": "MR. MISUNDERSTOOD",
+        "url": "https://open.spotify.com/album/5toHkr2eL5jOjJ6GuOQTET"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173078,
+      "name": "DRIPPED OUT IN DESIGNER",
+      "url": "https://open.spotify.com/track/53j7ib0zHlrVtKOwHiSv99"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -9102,6 +9200,24 @@
       "duration_ms": 216290,
       "name": "Drunk in Love (feat. Longus Mongus)",
       "url": "https://open.spotify.com/track/46a8IsYHGZSCqN3nVdNPql"
+    },
+    {
+      "album": {
+        "name": "Du",
+        "url": "https://open.spotify.com/album/1K3mxZK11EVkVDAuDfB5DF"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174083,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/2xve0qJZJkcJD4BlwXg1xs"
     },
     {
       "album": {
@@ -10246,7 +10362,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
@@ -10384,10 +10500,32 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 179600,
       "name": "EXPENSIVE SHIT",
       "url": "https://open.spotify.com/track/3FseW47ADDF2DHwad8VvZl"
+    },
+    {
+      "album": {
+        "name": "MR. MISUNDERSTOOD",
+        "url": "https://open.spotify.com/album/5toHkr2eL5jOjJ6GuOQTET"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179622,
+      "name": "EXPENSIVE SHIT",
+      "url": "https://open.spotify.com/track/1t3DUBo9FDyH8vROTU4fAi"
     },
     {
       "album": {
@@ -10490,7 +10628,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
@@ -11548,7 +11686,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 132318,
       "name": "Frauen",
       "url": "https://open.spotify.com/track/5wm1tgXBVRNlcwIVD47h4y"
@@ -12800,7 +12938,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 102860,
       "name": "Give It To Me - Full Vocal Mix",
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
@@ -14448,6 +14586,24 @@
       "duration_ms": 175213,
       "name": "HOME RUN",
       "url": "https://open.spotify.com/track/7vt8qddCs1eAnNRu1i6vhs"
+    },
+    {
+      "album": {
+        "name": "Hoodfame",
+        "url": "https://open.spotify.com/album/25fVQJxY2I4JO8usAQ1Rc5"
+      },
+      "artists": [
+        {
+          "name": "Dante YN",
+          "url": "https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144310,
+      "name": "Hoodfame",
+      "url": "https://open.spotify.com/track/4f98ilHH0VOvEtrTsbUTkb"
     },
     {
       "album": {
@@ -22534,7 +22690,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 179868,
       "name": "Moulaga",
       "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
@@ -22801,6 +22957,24 @@
     },
     {
       "album": {
+        "name": "M\u00fcde",
+        "url": "https://open.spotify.com/album/4hm9FvUnZeZBu5XxGZQitF"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182529,
+      "name": "M\u00fcde",
+      "url": "https://open.spotify.com/track/6VzzDH0vafw2Lwye7pvlaC"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -22954,7 +23128,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
@@ -24274,7 +24448,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 138352,
       "name": "OFFLINE",
       "url": "https://open.spotify.com/track/1DLVP4YYfmSey1gBcELyJg"
@@ -24731,6 +24905,24 @@
     },
     {
       "album": {
+        "name": "MR. MISUNDERSTOOD",
+        "url": "https://open.spotify.com/album/5toHkr2eL5jOjJ6GuOQTET"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197129,
+      "name": "ONE NIGHT IN PARIS/DEEP DOWN",
+      "url": "https://open.spotify.com/track/6rcz59uAJ37rbEGJza8Is8"
+    },
+    {
+      "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
       },
@@ -24768,7 +24960,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 148800,
       "name": "ONLY 4 LIFE - Remix",
       "url": "https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF"
@@ -29091,6 +29283,24 @@
     },
     {
       "album": {
+        "name": "MR. MISUNDERSTOOD",
+        "url": "https://open.spotify.com/album/5toHkr2eL5jOjJ6GuOQTET"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159836,
+      "name": "SHOOT",
+      "url": "https://open.spotify.com/track/3plgMV8SGOfWFOALXY09vF"
+    },
+    {
+      "album": {
         "name": "SHOOT",
         "url": "https://open.spotify.com/album/4zFoohHusRIEUKY6f3OimL"
       },
@@ -29102,7 +29312,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 159869,
       "name": "SHOOT",
       "url": "https://open.spotify.com/track/1rDfZwXzeotPuDtBJotaK1"
@@ -30186,6 +30396,24 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
+    {
+      "album": {
+        "name": "MR. MISUNDERSTOOD",
+        "url": "https://open.spotify.com/album/5toHkr2eL5jOjJ6GuOQTET"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191116,
+      "name": "STEADY",
+      "url": "https://open.spotify.com/track/6OYhpa6iynK4mPgjWIpCX7"
     },
     {
       "album": {
@@ -31909,6 +32137,24 @@
     },
     {
       "album": {
+        "name": "MR. MISUNDERSTOOD",
+        "url": "https://open.spotify.com/album/5toHkr2eL5jOjJ6GuOQTET"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197556,
+      "name": "TIGER",
+      "url": "https://open.spotify.com/track/3CR96KQw1yL6hqEOa39kMo"
+    },
+    {
+      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/6Ox71tH8ioLqqBbRQhrHDG"
       },
@@ -32431,6 +32677,24 @@
     },
     {
       "album": {
+        "name": "MR. MISUNDERSTOOD",
+        "url": "https://open.spotify.com/album/5toHkr2eL5jOjJ6GuOQTET"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209876,
+      "name": "TRUSSS MEE/LACHS",
+      "url": "https://open.spotify.com/track/1n43TSvTDuRovPfL5Ds0ov"
+    },
+    {
+      "album": {
         "name": "CATALEYA ED1TION",
         "url": "https://open.spotify.com/album/30CssY1BiB9lB8xLWLBazi"
       },
@@ -32853,6 +33117,24 @@
     },
     {
       "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/5eyWKDxNOfHfztG00UjoBh"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174831,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/3lOD6clwrwGpqS0e3ACJvG"
+    },
+    {
+      "album": {
         "name": "Une jam",
         "url": "https://open.spotify.com/album/0BasM7faujnd5IORm9wczl"
       },
@@ -33192,6 +33474,24 @@
       "duration_ms": 176427,
       "name": "UUU (feat. Capital Bra)",
       "url": "https://open.spotify.com/track/3udydGp3WtLkUs7qL5G6Ll"
+    },
+    {
+      "album": {
+        "name": "MR. MISUNDERSTOOD",
+        "url": "https://open.spotify.com/album/5toHkr2eL5jOjJ6GuOQTET"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157171,
+      "name": "VALENTINE",
+      "url": "https://open.spotify.com/track/6bkO3SUwk4n5dRYFTc7Vzk"
     },
     {
       "album": {
@@ -34736,7 +35036,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 183586,
       "name": "Wenn du mich l\u00e4sst (aus \"Sing meinen Song, Vol. 10\")",
       "url": "https://open.spotify.com/track/6bdsbL8CwwGnIMRXZyChme"
@@ -36108,6 +36408,28 @@
       "duration_ms": 214745,
       "name": "ZEITGEIST",
       "url": "https://open.spotify.com/track/0xChuBssZE1CprRyvkbQew"
+    },
+    {
+      "album": {
+        "name": "Zelten auf Kies",
+        "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137837,
+      "name": "Zelten auf Kies",
+      "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
     },
     {
       "album": {

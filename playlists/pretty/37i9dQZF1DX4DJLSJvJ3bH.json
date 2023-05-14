@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 104802,
+  "num_followers": 104789,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWEyMWE5YWVlYmMyMjA1NmJmZWYzNjM2NGRiZTMzZTdiYWQ2YTI4",
+  "snapshot_id": "MCxhYWFmNmIwNzU3ZTRjYjU4MmRjN2ZmZDNiMTQ1ODUzMmVlMTM3MjIz",
   "tracks": [
     {
       "added_at": "2023-01-03 07:50:46",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "It Came Upon the Midnight Clear",
-        "url": "https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz"
-      },
-      "artists": [
-        {
-          "name": "KTZ Players",
-          "url": "https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe"
-        }
-      ],
-      "duration_ms": 125076,
-      "name": "It Is Well With My Soul",
-      "url": "https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "Once in Royal David's City",
         "url": "https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 165225,
       "name": "Once in Royal David's City",
       "url": "https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "It Came Upon the Midnight Clear",
+        "url": "https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz"
+      },
+      "artists": [
+        {
+          "name": "KTZ Players",
+          "url": "https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe"
+        }
+      ],
+      "duration_ms": 125076,
+      "name": "It Is Well With My Soul",
+      "url": "https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
+        "name": "Presenting Jo Stafford",
+        "url": "https://open.spotify.com/album/7dySyiaqWeRsXCHWQMhStJ"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 130332,
+      "name": "It's a Marshmallow World",
+      "url": "https://open.spotify.com/track/07IAc4rBedblbuD0eXNLUY"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 165813,
       "name": "The Secret Of Christmas",
       "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
-        "name": "Presenting Jo Stafford",
-        "url": "https://open.spotify.com/album/7dySyiaqWeRsXCHWQMhStJ"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 130332,
-      "name": "It's a Marshmallow World",
-      "url": "https://open.spotify.com/track/07IAc4rBedblbuD0eXNLUY"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
-        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Ole Santa",
-      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "A Child Is Born",
         "url": "https://open.spotify.com/album/1uTcIqbf4J8KDPYEl4AYXW"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 199384,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/3xp3vHkZmXXjuPN5TIZw9c"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
+        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Ole Santa",
+      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "The Singles Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "I'd Like You For Christmas",
-      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 240200,
       "name": "The Twelve Days of Christmas",
       "url": "https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "The Singles Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "I'd Like You For Christmas",
+      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "White Nights",
-        "url": "https://open.spotify.com/album/6ppP6BcZKYQxaU9GKIqYst"
-      },
-      "artists": [
-        {
-          "name": "Meadowpoint",
-          "url": "https://open.spotify.com/artist/6Gp872kCfOLVTHHGbqyl21"
-        }
-      ],
-      "duration_ms": 145483,
-      "name": "Ding Dong Merrily on High",
-      "url": "https://open.spotify.com/track/6VDBfaCHIhpfimcbddmXW9"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "An Oscar Peterson Christmas",
         "url": "https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 169506,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/0YMHnD9nApifaojmhMydoj"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "White Nights",
+        "url": "https://open.spotify.com/album/6ppP6BcZKYQxaU9GKIqYst"
+      },
+      "artists": [
+        {
+          "name": "Meadowpoint",
+          "url": "https://open.spotify.com/artist/6Gp872kCfOLVTHHGbqyl21"
+        }
+      ],
+      "duration_ms": 145483,
+      "name": "Ding Dong Merrily on High",
+      "url": "https://open.spotify.com/track/6VDBfaCHIhpfimcbddmXW9"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
+        "name": "Have Yourself a Soulful Little Christmas",
+        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 194613,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/6fdJPqS50ZnxNnGk7O4wee"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
-        "name": "Have Yourself a Soulful Little Christmas",
-        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/1f9WJ3jehvcxTK5OTTYiOO"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "Joe Pass - Six String Santa",
         "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 346440,
       "name": "Santa Claus Blues - 2004 - Remaster",
       "url": "https://open.spotify.com/track/2Hm0sak8kDUjhGTQfHzPjq"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/3wP0qYEVSwTpxpFtuAyUko"
+      },
+      "artists": [
+        {
+          "name": "Foster Davies",
+          "url": "https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7"
+        }
+      ],
+      "duration_ms": 162223,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty"
     }
   ],
   "unique_name": "Jazzy Christmas Dinner",

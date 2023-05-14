@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-488 songs - 1 day 13 hr 54 min
+489 songs - 1 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Terrassedør](https://open.spotify.com/track/57tJTC6pmYgKWmc4Jo9Mz0) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Orbit](https://open.spotify.com/album/1rEFeHf8hGrb2YiSPBMr0U) | 2:52 | 2022-05-26 | 2022-09-15 |
 | [The Art of Flying](https://open.spotify.com/track/0g0f3eeqmzgd0yO24yYdng) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [A Brand New Silver Dollar](https://open.spotify.com/album/5PenfsMGMK0o9L7kNHqW8G) | 5:23 | 2022-08-30 |  |
 | [The Art of Flying \- Edit](https://open.spotify.com/track/38j4V8qkda6o4ta0BCJvKJ) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [The Art of Flying \(Edit\)](https://open.spotify.com/album/63PWCBZVpIcVFJkH3godc5) | 4:08 | 2022-06-03 |  |
+| [The Art of Letting Go](https://open.spotify.com/track/5ZlwYoMgai25EVMUPKMBr8) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [The Art of Letting Go](https://open.spotify.com/album/0FsvqEQCqEHrI7qhkVlULW) | 3:20 | 2023-05-11 |  |
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2022-11-12 |  |
 | [The Circle](https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:56 | 2022-04-07 |  |
 | [The Dance That Never Was](https://open.spotify.com/track/2IUAOAEEDYwnfVZB1tQRoT) | [Kevin Day](https://open.spotify.com/artist/1eytUg0DncW4jwVXM6NXGs), [Josh Trentadue](https://open.spotify.com/artist/0c3PuoczwnUfQEcEKcdEFi) | [The Dance That Never Was](https://open.spotify.com/album/3eRGSCF9oZ9PkPIVe55htw) | 7:19 | 2022-02-25 |  |
@@ -417,7 +418,7 @@
 | [The Last Verse](https://open.spotify.com/track/3kmQxusMYqIaXIoWeatRDh) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:01 | 2022-02-10 | 2022-11-12 |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-11-12 |  |
 | [The Longing](https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 2:35 | 2022-04-07 |  |
-| [The Lovely Image](https://open.spotify.com/track/4KXGGJ6NCYx8nQPE7RiD8y) | [VEIN Trio](https://open.spotify.com/artist/0F0UvN1yusVNSzKi5EeQMW) | [OUR ROOTS](https://open.spotify.com/album/2dhoduoGWms1qKQHcUY1V4) | 6:01 | 2022-03-17 |  |
+| [The Lovely Image](https://open.spotify.com/track/4KXGGJ6NCYx8nQPE7RiD8y) | [VEIN Trio](https://open.spotify.com/artist/0F0UvN1yusVNSzKi5EeQMW) | [OUR ROOTS](https://open.spotify.com/album/2dhoduoGWms1qKQHcUY1V4) | 6:01 | 2022-03-17 | 2023-05-14 |
 | [The Molly Pitchers](https://open.spotify.com/track/1Ay5Hj5kXH5TUWzAJF1epY) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [The Molly Pitchers](https://open.spotify.com/album/6Ey92khwHvKwIyzRC87n38) | 2:36 | 2023-03-02 |  |
 | [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 | 2022-11-12 |  |
 | [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-02-16 |  |

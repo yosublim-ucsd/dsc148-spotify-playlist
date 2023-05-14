@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,917 likes - 82 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,031 likes - 82 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 26 | [Issues \- Acoustic](https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC) | 2:55 |
 | 27 | [Someone New](https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:42 |
 | 28 | [You Sigh](https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 2:58 |
-| 29 | [Heart's Content](https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:34 |
+| 29 | [Far Too Good](https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Headlong](https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ) | 3:39 |
 | 30 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
 | 31 | [angel](https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:19 |
 | 32 | [Slow Hands \- Acoustic](https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp) | 2:40 |
-| 33 | [Far Too Good](https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Headlong](https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ) | 3:39 |
+| 33 | [Heart's Content](https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:34 |
 | 34 | [Home](https://open.spotify.com/track/6SGoFZFKjF1ZbGDkImEaS7) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:22 |
 | 35 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 36 | [Acoustic](https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 2:52 |
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 67 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 68 | [Paul Newman Daytona Rolex](https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy) | 3:21 |
 | 69 | [Silence \- Acoustic](https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65) | 3:41 |
-| 70 | [All Alone](https://open.spotify.com/track/6vxgKI4X5bOOXv996rz2Vf) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Foreign Sea](https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt) | 2:52 |
-| 71 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
-| 72 | [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 |
-| 73 | [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 |
-| 74 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
-| 75 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
+| 70 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
+| 71 | [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 |
+| 72 | [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 |
+| 73 | [All Alone](https://open.spotify.com/track/6vxgKI4X5bOOXv996rz2Vf) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Foreign Sea](https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt) | 2:52 |
+| 74 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
+| 75 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
 | 76 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 |
 | 77 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 |
 | 78 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 81 | [How Come My Body](https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Inwards & Onwards](https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO) | 2:18 |
 | 82 | [Little Marks](https://open.spotify.com/track/3f6CKzOD5zaVvHCOboOp7Y) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Vinter](https://open.spotify.com/album/6ah9pwb4VzAVru5OahGLxO) | 2:49 |
 
-Snapshot ID: `MCwyZDIyNGE1MDk3ODllYTM5ZjAyNWUzNDM4ZTkyOGQ4MTdhMWZlZTM3`
+Snapshot ID: `MCw0MDViNDUwYTUxNmRjMjVhNmZhYjExNTk4ZTlkNjlhNjE3ZGE4MjM1`

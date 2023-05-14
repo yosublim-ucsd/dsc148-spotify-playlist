@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,694 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,827 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 17 | [Everybody Here Wants You](https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 4:46 |
 | 18 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 |
 | 19 | [Only When I](https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:51 |
-| 20 | [Green Eyes](https://open.spotify.com/track/1FoCSrNyUVF00C8foohH2G) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:50 |
-| 21 | [Hard Time](https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 3:29 |
+| 20 | [Hard Time](https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 3:29 |
+| 21 | [Green Eyes](https://open.spotify.com/track/1FoCSrNyUVF00C8foohH2G) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:50 |
 | 22 | [It Will Come Back](https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:37 |
 | 23 | [Know You Better](https://open.spotify.com/track/03Yo5FRYVfTB2EuiyOmHLe) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:09 |
 | 24 | [Shame](https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 49 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 |
 | 50 | [Burnt Sage](https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz) | [Le Siren](https://open.spotify.com/artist/2S3JqbYUGXlM10ljtBH1wC) | [Take Care of Yourself](https://open.spotify.com/album/1ga17JiadIfEdU2atHyimo) | 2:37 |
 
-Snapshot ID: `MCxhZTM1ZTBlM2M3NTBiOTIxODA2Y2U0ODNiMzRmMDMyNDNhZTJjNWI3`
+Snapshot ID: `MCwzZjRhYWE0ODNiMmMxNzE4MTc0NTJhY2EwZThiNzIyODdhZGY0ZTll`

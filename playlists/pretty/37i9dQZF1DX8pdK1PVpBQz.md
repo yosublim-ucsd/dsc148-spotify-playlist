@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Medhanit Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,737 likes - 93 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,745 likes - 93 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 92 | [Hallucinating](https://open.spotify.com/track/64n5MueeEV8EDcEFZ99nGI) | [Romanie](https://open.spotify.com/artist/3hHGY5nAdKoijU3IYpW5y5) | [Hallucinating](https://open.spotify.com/album/2qLqVsjEzCyILcATTDgQep) | 3:18 |
 | 93 | [Sunday Afternoon](https://open.spotify.com/track/4W6br0BtpbG587NlbK61lW) | [Ash Lune](https://open.spotify.com/artist/4qGkfdK3YS6jr5oIQ0AkQI) | [Sunday Afternoon](https://open.spotify.com/album/6Vq2vwXMFI5q1uoIPSacFh) | 3:18 |
 
-Snapshot ID: `MCw5ZDk3NTM4Mzk4MGE2NWYxNDVlN2YzMjYyOWJiNWRjYmJmNjI3Y2Uz`
+Snapshot ID: `MCxkMDMxZGM4ZmQ1OWY0NzQyZDcyNzZhMmE4ZGUwMzFlOThmM2Q5ZTQz`

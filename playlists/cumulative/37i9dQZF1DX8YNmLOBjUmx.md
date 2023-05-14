@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: WILLOW \#SpotifyWrapped
 
-243 songs - 13 hr 30 min
+244 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Like A Drug](https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5) | 3:32 | 2022-11-30 |  |
 | [Like A Drug](https://open.spotify.com/track/72R08p6rgsH9xCYu5xcfCS) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Vol\. 1](https://open.spotify.com/album/0C4HBTbxm3KCIHMGBKV4Zj) | 3:32 | 2022-11-30 | 2023-05-04 |
 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-11-30 |  |
-| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-11-30 |  |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-11-30 | 2023-05-14 |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2022-11-30 |  |
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-11-30 |  |
 | [Manchester Super Reds No.1 Fan](https://open.spotify.com/track/0jlypw20LUoAw0zzCCwPDn) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:37 | 2021-12-01 | 2022-12-01 |
 | [Masterpiece](https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:26 | 2022-11-30 |  |

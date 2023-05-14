@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock Legends from Ireland\. Cover: Phil Lynott
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,605 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,639 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 39 | [Big Sur](https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t) | [The Thrills](https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L) | [So Much For The City](https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv) | 3:07 |
 | 40 | [Don't Believe A Word](https://open.spotify.com/track/4OSDItus4110bQdykTdpy7) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Johnny The Fox](https://open.spotify.com/album/3E54AKQSvQlQekosA4SuT3) | 2:18 |
 | 41 | [Saints & Sinners](https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB) | [Paddy Casey](https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ) | [Living](https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw) | 3:36 |
-| 42 | [The Great Defector](https://open.spotify.com/track/5r1y7XYDcTtDLJHzFgODOu) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Blue Lights on the Runway](https://open.spotify.com/album/4iBvB6NJeMSZ6bgOZC1OCS) | 4:40 |
-| 43 | [And a Bang on the Ear](https://open.spotify.com/track/4tzpjYQOwqSrfiIVcyEwzm) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Best of The Waterboys \(1981\-1990\)](https://open.spotify.com/album/1VW4gj6w544njTLCYHN7cu) | 7:25 |
+| 42 | [And a Bang on the Ear](https://open.spotify.com/track/4tzpjYQOwqSrfiIVcyEwzm) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Best of The Waterboys \(1981\-1990\)](https://open.spotify.com/album/1VW4gj6w544njTLCYHN7cu) | 7:25 |
+| 43 | [The Great Defector](https://open.spotify.com/track/5r1y7XYDcTtDLJHzFgODOu) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Blue Lights on the Runway](https://open.spotify.com/album/4iBvB6NJeMSZ6bgOZC1OCS) | 4:40 |
 | 44 | [Dearg Doom](https://open.spotify.com/track/4LywX4vWjHOS07VuVWC7GD) | [Horslips](https://open.spotify.com/artist/2mcMCQLrNDEW6O1pAEK3dr) | [The Táin \(Bonus Tracks Version\)](https://open.spotify.com/album/0nxIa7m4erGJeFTLbVrtzS) | 3:06 |
 | 45 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |
 | 46 | [Heyday](https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi) | [Mic Christopher](https://open.spotify.com/artist/1ufuQpaky2uZ7bDvhf6Ujq) | [Skylarkin](https://open.spotify.com/album/44L1rL0PE0HtRQlRygsR28) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 49 | [This Is](https://open.spotify.com/track/01LRmW8mraxDsUdQAihs4P) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Shame About Lucy Moonhead](https://open.spotify.com/album/0Y3Fv3Cumn9g1GNFwUEMOY) | 3:51 |
 | 50 | [Revelate](https://open.spotify.com/track/18OnYhBaL7FTC1mYonXPKv) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM) | [Fitzcarraldo](https://open.spotify.com/album/0Vjm2unCHuRexuJob6i6cu) | 3:46 |
 
-Snapshot ID: `MCw3MzI3Njg4MmZiMjk2YjkyZDQzOTI0ODYwODFmYzA2NTUwOWFkMjNi`
+Snapshot ID: `MCxlYmQzYjU3ZmNlZDM4ZWZjY2U0Y2E3MTY3MmRjZjE0NmFjY2FlZDY2`

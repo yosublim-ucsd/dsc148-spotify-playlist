@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,635 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,651 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 42 | [Make Sense](https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [ANITYA](https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4) | 3:25 |
 | 43 | [Rikslarm](https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz) | [Kartellen](https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Slutpläderingen](https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs) | 2:36 |
 | 44 | [Reggaeprofil](https://open.spotify.com/track/0kDQRF7cCp5ZZ2tbtbjzK8) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx), [Jr Erik](https://open.spotify.com/artist/6tabmZkqzTHQs2iSrMFp89) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:47 |
-| 45 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
-| 46 | [Aina Älskar Reggae](https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [The Tomtations Show](https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q) | 4:42 |
+| 45 | [Aina Älskar Reggae](https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [The Tomtations Show](https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q) | 4:42 |
+| 46 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
 | 47 | [Dunya](https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Reggaestrerad](https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG) | 3:43 |
 | 48 | [12 Steps](https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2) | [USCB Allstars](https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ) | [Class Brutáls](https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB) | 4:02 |
 | 49 | [Du Vill Så Du Kan](https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Resa Sig Opp](https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma) | 4:05 |
 | 50 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
 
-Snapshot ID: `MCxmMjA2NzJkNTZkYjA4NzdhZGM2ZjE2NmNjZGNlMmYwZDc1MGM4NTRi`
+Snapshot ID: `MCw3YjU0NTRhMDk5NzhjM2NjNzFmYTlkNjE3YzUxMzE0NjQwN2ZlNDMz`

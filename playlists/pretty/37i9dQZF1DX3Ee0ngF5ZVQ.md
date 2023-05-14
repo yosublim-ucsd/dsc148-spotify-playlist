@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Catie Offerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,903 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,945 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 39 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 |
 | 40 | [Easy on the Eyes](https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq) | 3:35 |
 | 41 | [Warning Label](https://open.spotify.com/track/2MQZttVGYDyTEcCXVTdWa7) | [Morgan Ashley](https://open.spotify.com/artist/1367lWMUHMwzcnvgdFEVJu) | [Warning Label](https://open.spotify.com/album/4VUenncoqrnFbiO6R8lRxA) | 3:42 |
-| 42 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 |
-| 43 | [Real Damn Good](https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:02 |
+| 42 | [Real Damn Good](https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:02 |
+| 43 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 |
 | 44 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 |
 | 45 | [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 |
 | 46 | [Different Now](https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Different Now](https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7) | 3:09 |
 | 47 | [Honky Tonk Song](https://open.spotify.com/track/1fhbyvzbuG8PCOmF8jDtdG) | [McBride & The Ride](https://open.spotify.com/artist/5frbtLmwyULdCkg8VqcEvV) | [Honky Tonk Song](https://open.spotify.com/album/56CkqCuPrXkmHoI3OD35MR) | 3:04 |
 | 48 | [Hurt No More](https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hurt No More](https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG) | 3:34 |
 | 49 | [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 |
-| 50 | [If Texas Had a Heart](https://open.spotify.com/track/2MFiN48Uw7dIjwnTDAYk04) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [If Texas Had a Heart](https://open.spotify.com/album/5y47dM3h00Gp3ABfbfbYOI) | 3:31 |
+| 50 | [If Texas Had a Heart](https://open.spotify.com/track/7dpjo7JoXTMJJzXjBS45Oh) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:31 |
 | 51 | [The Highway Kind](https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:59 |
 | 52 | [Where the Wildflowers Lay](https://open.spotify.com/track/6UGVVw3Jpck5k3IVeUWK0X) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning In Dreams](https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS) | 2:47 |
 | 53 | [Damn Fine Livin'](https://open.spotify.com/track/5USNgeOEK6Z85dEj59RPsz) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Damn Fine Livin'](https://open.spotify.com/album/6kf6HOmzaq6m8YgYQmxsAc) | 3:09 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 68 | [Chisholm Trail](https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK) | [Dalton Torres](https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL) | [Chisholm Trail](https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B) | 3:07 |
 | 69 | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F) | 2:52 |
 | 70 | [Carolina Blue](https://open.spotify.com/track/76JB6oI3TtAfumq8n6nWie) | [Casey Daniels Band](https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7) | [Carolina Blue](https://open.spotify.com/album/0fkNQ1049j1r0Dj4oF6hRn) | 3:41 |
-| 71 | [The Bar Guy](https://open.spotify.com/track/1N7c1NQGE4LMMJMpUE9MSP) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Bar Guy](https://open.spotify.com/album/4zVUFBJoGcli595MQJ7eEc) | 3:34 |
+| 71 | [The Bar Guy](https://open.spotify.com/track/73PETz82LOgrKAlxtpCPu7) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:34 |
 | 72 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
 | 73 | [Texas Is My Home](https://open.spotify.com/track/0caKs7RDt6nIwdvkkXFnPD) | [Rich O'Toole](https://open.spotify.com/artist/2t6FHAUXxi9eiatP2Mavh0) | [Texas Is My Home](https://open.spotify.com/album/7GEOpsPQMd9DIKQHIJcTRs) | 3:24 |
 | 74 | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6) | 3:19 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 96 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
 | 97 | [I'm Not Him](https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I'm Not Him](https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7) | 3:15 |
 | 98 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
-| 99 | [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 |
-| 100 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 |
+| 99 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 |
+| 100 | [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 |
 
-Snapshot ID: `MCw3NDZmNWQ1NDJkNTJiN2QwODBjMDg1NjdiNzQxZDk0OTdmZDM0ZDM4`
+Snapshot ID: `MCw1ZWNhMTZiYTY1OTkzZTdkODU5OWY3NjcwNmVjNzExNjE5YWJkYjA5`

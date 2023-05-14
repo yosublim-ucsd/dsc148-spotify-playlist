@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Gentle Bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,967 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,988 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 10 | [make it okay \(change is terrifying\)](https://open.spotify.com/track/0T1SgBVcEkmqYRxyr1s9vo) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [make it okay \(change is terrifying\)](https://open.spotify.com/album/08s5jfhQc3usYnlOXhnvCD) | 4:34 |
 | 11 | [my stupid feelings](https://open.spotify.com/track/670mNsOhOQopWQMP8eAq1y) | [ÊMIA](https://open.spotify.com/artist/2Q1WubieQ4mTNNf4YOlFGh), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [my stupid feelings](https://open.spotify.com/album/05Rk7Ugl7rnGOceyDrtCsF) | 2:36 |
 | 12 | [BAAM](https://open.spotify.com/track/5puBLrBDmrhhaXJpuCpeD3) | [Dzivy](https://open.spotify.com/artist/3fVMl1n000Tuai8Du9YEKu) | [BAAM](https://open.spotify.com/album/3RwUPxDOzmkwT2y5thKneg) | 3:06 |
-| 13 | [Bantu](https://open.spotify.com/track/60pwarBZycX3iZzDAZL4A4) | [Adam Shamil](https://open.spotify.com/artist/1I5vpxVAdm5ENsPwqJ6n83) | [Bantu](https://open.spotify.com/album/4HzSHJEmdIQz0pO9aDpX9y) | 3:13 |
+| 13 | [Bantu](https://open.spotify.com/track/60pwarBZycX3iZzDAZL4A4) | [Adam Shamil](https://open.spotify.com/artist/265xQSicrleiCPLKL5x80w) | [Bantu](https://open.spotify.com/album/4HzSHJEmdIQz0pO9aDpX9y) | 3:13 |
 | 14 | [GET THIS RIGHT](https://open.spotify.com/track/06zW1L5h75YSZ86L3GSr3p) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [GET THIS RIGHT](https://open.spotify.com/album/65OzeAHliScpDpBB2zMMTu) | 3:12 |
 | 15 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 16 | [Indigo](https://open.spotify.com/track/7uE1fO1I6ADcJ4Zrnex8Kh) | [Adam Jazzlan](https://open.spotify.com/artist/5qKVegmk3MfMecHAg1jJgZ), [Narysal](https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908) | [Indigo](https://open.spotify.com/album/4VwiJPA5hXrcVvsxDOMOem) | 3:19 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 36 | [Langit Favoritku](https://open.spotify.com/track/22erAHtusIHAIuIMhHMKhR) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Langit Favoritku](https://open.spotify.com/album/4afbOrtCfY6DZRe9Mrbmz7) | 3:41 |
 | 37 | [Bulan Yang Baik](https://open.spotify.com/track/5IgZ9Y4B9Dsi3VtIJSB75e) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Bulan Yang Baik](https://open.spotify.com/album/7E0mCwP1eQ0zIfmz7MWlWj) | 4:25 |
 | 38 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
-| 39 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 |
-| 40 | [Takkan Berpaling DariMu](https://open.spotify.com/track/4L6lkjVqEg17sOmzhcK0F3) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Rossa](https://open.spotify.com/album/5nCPq0ccqlFWF8fsXNwuqU) | 3:50 |
-| 41 | [Dreamin' of You](https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Dreamin' of You](https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk) | 3:08 |
+| 39 | [Dreamin' of You](https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Dreamin' of You](https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk) | 3:08 |
+| 40 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 |
+| 41 | [Takkan Berpaling DariMu](https://open.spotify.com/track/4L6lkjVqEg17sOmzhcK0F3) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Rossa](https://open.spotify.com/album/5nCPq0ccqlFWF8fsXNwuqU) | 3:50 |
 | 42 | [Hal Hebat](https://open.spotify.com/track/7JL2BYNeSbvaom6vk1ktij) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Hal Hebat \(Cover\)](https://open.spotify.com/album/3uokqKRBBG16lrgwUNVIO0) | 5:19 |
 | 43 | [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 |
-| 44 | [Buka Hati](https://open.spotify.com/track/3TuqUJ3OXEc68FdhoE2kaU) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Merakit](https://open.spotify.com/album/5u9zb0LiJTVpTyhNUgNkLp) | 3:20 |
-| 45 | [HOME IS WHO YOU ARE](https://open.spotify.com/track/1fUd1ILeLIS3qTHmEowMRf) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [HOME IS WHO YOU ARE](https://open.spotify.com/album/6kCGFww4UHWgTffxZ9L8TJ) | 3:15 |
-| 46 | [Santai](https://open.spotify.com/track/1M0m0moDfMuFHiTU87sUlB) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Santai](https://open.spotify.com/album/6Kt66JYdEYoIEwLNidoGxO) | 3:14 |
-| 47 | [KuasaMu](https://open.spotify.com/track/1CJfTmS4AiFCZQffUuBNDo) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [KuasaMu](https://open.spotify.com/album/2LD2ExN94AsCWM9DjucqgE) | 3:54 |
-| 48 | [Bila Kemarin](https://open.spotify.com/track/50CsVpRhz7dhFPUWZs4rhS) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR) | [Bila Kemarin](https://open.spotify.com/album/31Hr5swnJx4Lr5Ppu2vObe) | 3:03 |
-| 49 | [Terus Hidup](https://open.spotify.com/track/3sUY5xI83n8KX0rjpfxoQu) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Terus Hidup](https://open.spotify.com/album/4BDfVnGe4BlQxXQcf9RcqA) | 4:24 |
+| 44 | [HOME IS WHO YOU ARE](https://open.spotify.com/track/1fUd1ILeLIS3qTHmEowMRf) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [HOME IS WHO YOU ARE](https://open.spotify.com/album/6kCGFww4UHWgTffxZ9L8TJ) | 3:15 |
+| 45 | [Santai](https://open.spotify.com/track/1M0m0moDfMuFHiTU87sUlB) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Santai](https://open.spotify.com/album/6Kt66JYdEYoIEwLNidoGxO) | 3:14 |
+| 46 | [KuasaMu](https://open.spotify.com/track/1CJfTmS4AiFCZQffUuBNDo) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [KuasaMu](https://open.spotify.com/album/2LD2ExN94AsCWM9DjucqgE) | 3:54 |
+| 47 | [Bila Kemarin](https://open.spotify.com/track/50CsVpRhz7dhFPUWZs4rhS) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR) | [Bila Kemarin](https://open.spotify.com/album/31Hr5swnJx4Lr5Ppu2vObe) | 3:03 |
+| 48 | [Terus Hidup](https://open.spotify.com/track/3sUY5xI83n8KX0rjpfxoQu) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Terus Hidup](https://open.spotify.com/album/4BDfVnGe4BlQxXQcf9RcqA) | 4:24 |
+| 49 | [Buka Hati](https://open.spotify.com/track/3TuqUJ3OXEc68FdhoE2kaU) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Merakit](https://open.spotify.com/album/5u9zb0LiJTVpTyhNUgNkLp) | 3:20 |
 | 50 | [Lagu Kita](https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 3:31 |
 
-Snapshot ID: `MCw5MzA2ZDcyNWRkMzQ3ZGFjZmVjYmYwYTJmOWVmZDc5NjdmZGVjZjc0`
+Snapshot ID: `MCw1MDliNzQ1ODVkMjQwNDQ3MGQxMmZmZDc5MjZlZjQ1MDE4ZTU5NTkw`

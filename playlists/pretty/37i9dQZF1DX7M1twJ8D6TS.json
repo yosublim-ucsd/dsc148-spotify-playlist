@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 2618,
+  "num_followers": 2731,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzM4OTk5OGM0NzNlYWM4YzM5OTkwYjg1YTU0NTNhZTdlMWRjOTBl",
+  "snapshot_id": "MCxlOWFlZTNiY2JjMDc1ZjU0YjM5MDk1NjJhZGIzNDlmNTlkZGIxOTI4",
   "tracks": [
     {
       "added_at": "2023-02-10 16:12:28",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "After the Fire",
-        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 185247,
-      "name": "Ain't a Train",
-      "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Bury My Bones",
         "url": "https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 259851,
       "name": "Bury My Bones",
       "url": "https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "After the Fire",
+        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 185247,
+      "name": "Ain't a Train",
+      "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 224027,
+      "name": "Happier Alone",
+      "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
         "name": "He Ain't a Cowboy",
         "url": "https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 193440,
       "name": "He Ain't a Cowboy",
       "url": "https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
-        "name": "Can Down",
-        "url": "https://open.spotify.com/album/42exaEEpqgK20M7sFz6dIF"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 188636,
-      "name": "Can Down",
-      "url": "https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1"
+        "name": "Can Down",
+        "url": "https://open.spotify.com/album/42exaEEpqgK20M7sFz6dIF"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
         }
       ],
-      "duration_ms": 224027,
-      "name": "Happier Alone",
-      "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
+      "duration_ms": 188636,
+      "name": "Can Down",
+      "url": "https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "I Didn't Think About Rain",
-        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
+        "name": "Abstract Art of an Unstable Mind",
+        "url": "https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW"
       },
       "artists": [
         {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
         }
       ],
-      "duration_ms": 252320,
-      "name": "I Didn't Think About Rain",
-      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
+      "duration_ms": 192800,
+      "name": "Loser Mentality",
+      "url": "https://open.spotify.com/track/0kh5IPMmmY2LUPDij2H3T6"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Abstract Art of an Unstable Mind",
-        "url": "https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW"
+        "name": "I Didn't Think About Rain",
+        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Loser Mentality",
-      "url": "https://open.spotify.com/track/0kh5IPMmmY2LUPDij2H3T6"
+      "duration_ms": 252320,
+      "name": "I Didn't Think About Rain",
+      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
     },
     {
       "added_at": "2023-02-10 16:12:28",

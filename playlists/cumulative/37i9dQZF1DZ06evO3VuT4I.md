@@ -38,7 +38,7 @@
 | [Eagle](https://open.spotify.com/track/5qSxp12DHTXYyqeDlOnMr9) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:07 | 2022-05-29 | 2023-05-12 |
 | [Eclipse](https://open.spotify.com/track/4loFAwDRPaSB1QMJyO7jdZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:52 | 2022-05-29 |  |
 | [Etude](https://open.spotify.com/track/4mOCUgov9WwOt40RAbD3xX) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:27 | 2022-06-08 | 2022-10-09 |
-| [Flowers Of Evil](https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Flowers Of Evil](https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6) | 14:08 | 2022-05-29 |  |
+| [Flowers Of Evil](https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Flowers Of Evil](https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6) | 14:08 | 2022-05-29 | 2023-05-14 |
 | [For Lise](https://open.spotify.com/track/5gZN21iMNI3onWDpyzdtcl) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 4:03 | 2022-05-29 |  |
 | [Full Moon Sonata](https://open.spotify.com/track/1EOVZetVBUEfMFV8g0hsRv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 5:06 | 2022-05-29 |  |
 | [Go Gently](https://open.spotify.com/track/0vY6jcdgXhuZcVfAjqZx7r) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:57 | 2022-05-29 |  |
@@ -102,7 +102,7 @@
 | [Waltz For Julia](https://open.spotify.com/track/7orVWspB20r4L2975OkwF5) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 4:03 | 2022-05-29 |  |
 | [When Love Dies](https://open.spotify.com/track/1eOUGIRdH32km2jou6g9oA) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:49 | 2022-07-21 | 2022-10-09 |
 | [Wine Dark Sea](https://open.spotify.com/track/6fx3pLWTbmyaCo8z64LrPI) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 4:15 | 2022-05-29 | 2022-10-13 |
-| [Yang Ming Shen](https://open.spotify.com/track/144VOxc6bRJTg0AiWQnhBj) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 3:21 | 2022-05-29 | 2023-05-13 |
+| [Yang Ming Shen](https://open.spotify.com/track/144VOxc6bRJTg0AiWQnhBj) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 3:21 | 2022-05-29 |  |
 | [Yukon](https://open.spotify.com/track/1T46n4XDKotdz8UVvmiyF6) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Music For Denali](https://open.spotify.com/album/0Wgn0tTS8eDt477v2taZV6) | 1:30 | 2022-05-31 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

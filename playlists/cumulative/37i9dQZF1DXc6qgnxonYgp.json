@@ -1002,10 +1002,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 368000,
       "name": "Ilangai Thamizhan",
       "url": "https://open.spotify.com/track/4qw2gnVZZNBR9TcmhiN7Yy"
+    },
+    {
+      "album": {
+        "name": "Ilangai Thamizhan",
+        "url": "https://open.spotify.com/album/0gn64odWFJihtCFQZoA2gU"
+      },
+      "artists": [
+        {
+          "name": "Krishan Maheson",
+          "url": "https://open.spotify.com/artist/090PjZy0HWrly2e5Tcpj8j"
+        },
+        {
+          "name": "Ilangai Thamizhan",
+          "url": "https://open.spotify.com/artist/1xUaSoAfGO8NpojwBJUl1R"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Ilangai Thamizhan",
+      "url": "https://open.spotify.com/track/63C2tPTe6mBISUJ515VYhB"
     },
     {
       "album": {

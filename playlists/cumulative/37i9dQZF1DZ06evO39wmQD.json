@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "The Future's in My Hands (Theme from \"Hailey's On It!\")",
+        "url": "https://open.spotify.com/album/1zQH2ZPY82Mul0Ki3tYRKj"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178166,
+      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
+      "url": "https://open.spotify.com/track/4Fn5xfalnbwbxv0Km0Vhhh"
+    },
+    {
+      "album": {
         "name": "The Guilty Ones (Rise Cast Version)",
         "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 
 > The fastest growing genre in 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,639 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,666 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 | 49 | [RAVEN](https://open.spotify.com/track/33jNhRb9njyX482vPmFPMu) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [SKETS](https://open.spotify.com/artist/32JsKOhKT1joCOXoIhVGVY) | [RAVEN](https://open.spotify.com/album/4YmcshR0vxXqn8h20qXCMS) | 2:26 |
 | 50 | [DYNAMIC](https://open.spotify.com/track/3qVSfd3Z2fmJKfHZeOweyQ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DYNAMIC](https://open.spotify.com/album/3IsXhqut1v9sbGsID7VGcS) | 2:00 |
 
-Snapshot ID: `MCwxZTA3Y2NlNjQ3M2NmYThiMGE1ODY4YzBjYzVkNTE2MDNhZDcxMzky`
+Snapshot ID: `MCxiMzc5NDJjYzUyZmQ3MjY0NzVkYTQxZWQxMjRhNGMyZWMxMGZjNTUx`

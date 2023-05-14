@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-240 songs - 12 hr 6 min
+241 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [I Just Called To Say I Love You](https://open.spotify.com/track/6dUP73tiRW1NyyFAbVqLkM) | [Ronald Simel](https://open.spotify.com/artist/3WAGPIS1MuIRLDN32soc71) | [Willow](https://open.spotify.com/album/3pnS4OYR8fWJkp5UUTWSB2) | 4:16 | 2022-05-20 | 2022-12-02 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/37MIbOM51JGsex15cprRXV) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/1ZUXPYKXlg2Su8jB2h2Abp) | 2:24 | 2023-04-14 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/6huxjr8XKFnhtXQD02LIJ7) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [I Wanna Be Yours](https://open.spotify.com/album/0wwXoEiDEyHMwS6etJwYbR) | 2:36 | 2023-02-24 |  |
-| [I Want to Break Free](https://open.spotify.com/track/1aYkNGlELBA8tjp3cVW1oT) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [I Want to Break Free](https://open.spotify.com/album/687NJvdn5hgkC5XCyILJ0u) | 1:56 | 2022-05-20 |  |
+| [I Want to Break Free](https://open.spotify.com/track/1aYkNGlELBA8tjp3cVW1oT) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [I Want to Break Free](https://open.spotify.com/album/687NJvdn5hgkC5XCyILJ0u) | 1:56 | 2022-05-20 | 2023-05-14 |
+| [I Want to Break Free](https://open.spotify.com/track/6GmrAymqRZ6dNU3U6GhjTs) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [I Want to Break Free](https://open.spotify.com/album/1qEEGVuTf2bHa02kuvP2QP) | 1:56 | 2023-05-05 |  |
 | [I Will Always Love You](https://open.spotify.com/track/1xqVie2iDsSZe1ZtL3XiG8) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [I Will Always Love You](https://open.spotify.com/album/0UnnUPOlBJCA6rofllWdsw) | 2:08 | 2022-12-02 |  |
 | [I Won't Give Up](https://open.spotify.com/track/1IQJZKb4ETmWoLYBd2fevT) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [You Are My Sunshine](https://open.spotify.com/album/5HEMAReCb6wci79hLp5NEZ) | 4:01 | 2022-06-15 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/5rU2PLiSUb2or6DqalZOUX) | [Esmeralda Olasabal](https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH) | [I'm Good \(Blue\)](https://open.spotify.com/album/1HLUiJ6bYFE6FCMMiaMdpL) | 2:19 | 2022-12-02 |  |

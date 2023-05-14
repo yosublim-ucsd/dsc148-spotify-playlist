@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2216084,
+  "num_followers": 2216705,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTAzZmYyOTZkZDMyZTk1NmU5ZDU4MTQ0ZDZkNmVkZWNhZjA4M2Q2",
+  "snapshot_id": "MCw0OTYzYjYyZTBmMTE0MTQ3YzhjNWUxNWExMjBjN2E3NTVlMzFjNTVm",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Dragula",
-      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 305906,
       "name": "Hail to the King",
       "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Dragula",
+      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Remade In Misery",
+        "url": "https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 192176,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/2SVbjw7sdiNjAvGpQ4eEai"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 187654,
       "name": "Whatever It Takes",
       "url": "https://open.spotify.com/track/2ouOVzQTzSsLa2OH1Zxhvu"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Remade In Misery",
-        "url": "https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 192176,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/2SVbjw7sdiNjAvGpQ4eEai"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 195390,
-      "name": "They Don't Want What We Want (And They Don't Care)",
-      "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 261680,
       "name": "Are You Ready",
       "url": "https://open.spotify.com/track/4zvqMZ6g4wKZaPpOQvoBpP"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 195390,
+      "name": "They Don't Want What We Want (And They Don't Care)",
+      "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Outsider",
+        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "Infra-Red",
+      "url": "https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV"
       },
@@ -1339,6 +1355,22 @@
       "duration_ms": 235013,
       "name": "Calm Before the Storm",
       "url": "https://open.spotify.com/track/3dhDN3hilhqEursIIg8Xko"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "The Phantom Tomorrow",
+        "url": "https://open.spotify.com/album/1gK7Mty8m7UALXxoQhLOaD"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 217279,
+      "name": "Scarlet Cross",
+      "url": "https://open.spotify.com/track/098MjOfQMOjxqKkoewErxV"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1359,34 +1391,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Outsider",
-        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
+        "name": "MASSIVE ADDICTIVE",
+        "url": "https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
         }
       ],
-      "duration_ms": 230933,
-      "name": "Infra-Red",
-      "url": "https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "The Phantom Tomorrow",
-        "url": "https://open.spotify.com/album/1gK7Mty8m7UALXxoQhLOaD"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 217279,
-      "name": "Scarlet Cross",
-      "url": "https://open.spotify.com/track/098MjOfQMOjxqKkoewErxV"
+      "duration_ms": 197866,
+      "name": "Drop Dead Cynical",
+      "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1471,22 +1487,6 @@
       "duration_ms": 244493,
       "name": "Did My Time",
       "url": "https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "MASSIVE ADDICTIVE",
-        "url": "https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Drop Dead Cynical",
-      "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Violent Noise",
-        "url": "https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 241034,
       "name": "Meteor",
       "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Violent Noise",
+        "url": "https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Nonpoint",
         "url": "https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 218274,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1GxZnEcrRsvk6m7ur6MR4u"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 193886,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "The Return",
         "url": "https://open.spotify.com/album/0p2wgx7HXyO12OqELfMTiA"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 174546,
       "name": "Breaking Skin",
       "url": "https://open.spotify.com/track/3uleUeZ5eyYCNGiwcc1Exp"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 233297,
+      "name": "MANTRA",
+      "url": "https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -2015,18 +2031,34 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3"
+        "name": "Set Fazers",
+        "url": "https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 233297,
-      "name": "MANTRA",
-      "url": "https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv"
+      "duration_ms": 195320,
+      "name": "Set Fazers",
+      "url": "https://open.spotify.com/track/1cFTzMVTrgYTXT6Ed4KsRr"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 249050,
+      "name": "As Above, So Below",
+      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2059,38 +2091,6 @@
       "duration_ms": 258946,
       "name": "Take Out the Gunman",
       "url": "https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 249050,
-      "name": "As Above, So Below",
-      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Set Fazers",
-        "url": "https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Set Fazers",
-      "url": "https://open.spotify.com/track/1cFTzMVTrgYTXT6Ed4KsRr"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2331,6 +2331,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Gravity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "Letting You Go",
+      "url": "https://open.spotify.com/track/4h7Sc2UWOxz07UmQ60kQNQ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa"
       },
@@ -2363,22 +2379,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "All Animal",
-        "url": "https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6"
-      },
-      "artists": [
-        {
-          "name": "Through Fire",
-          "url": "https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT"
-        }
-      ],
-      "duration_ms": 210742,
-      "name": "All Animal",
-      "url": "https://open.spotify.com/track/4PEHqVEh5MPmvdYw1oiIKI"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Cross Off",
         "url": "https://open.spotify.com/album/4ePpOl2GPiJuZ75RSdN1FB"
       },
@@ -2399,18 +2399,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC"
+        "name": "All Animal",
+        "url": "https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6"
       },
       "artists": [
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+          "name": "Through Fire",
+          "url": "https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT"
         }
       ],
-      "duration_ms": 200310,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb"
+      "duration_ms": 210742,
+      "name": "All Animal",
+      "url": "https://open.spotify.com/track/4PEHqVEh5MPmvdYw1oiIKI"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2431,34 +2431,34 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Erase Me",
-        "url": "https://open.spotify.com/album/7431Bc80pipMjt6v3qm0UL"
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC"
       },
       "artists": [
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
         }
       ],
-      "duration_ms": 214986,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0"
+      "duration_ms": 200310,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb"
     },
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Born For Greatness",
-        "url": "https://open.spotify.com/album/3GmdjyqCdD62n5JW8ZEfgZ"
+        "name": "Earthbound",
+        "url": "https://open.spotify.com/album/5F0t9Dkxsx4pX6Z57aWXkZ"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
         }
       ],
-      "duration_ms": 227847,
-      "name": "Born For Greatness",
-      "url": "https://open.spotify.com/track/2VDdoBA24QICNHn5JkJwyE"
+      "duration_ms": 222101,
+      "name": "Earthbound",
+      "url": "https://open.spotify.com/track/1DKbMKbzeZ57yo6yI4MeXe"
     }
   ],
   "unique_name": "Adrenaline Workout",

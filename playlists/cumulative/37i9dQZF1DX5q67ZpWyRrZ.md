@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Prateek Kuhad
 
-195 songs - 11 hr 15 min
+196 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Haalyo Jaa \(Secret Sessions X Collab Stories\)](https://open.spotify.com/track/0fzVqKKvn5P6MU3kNYsqgM) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa), [Jaysinh Gadhvi](https://open.spotify.com/artist/1HEuIORmED1xTKDDiPH6MJ), [Kavi Shree Ghanshyam Gadhvi](https://open.spotify.com/artist/4rU6mQr0ILE4ulexLA3l7W), [Bhargav Purohit](https://open.spotify.com/artist/2v7bvNV1rWBtzZqFj2L9Qc), [Raju Bhaai](https://open.spotify.com/artist/1rF0er2kxD1tn46ToQavcC), [Sagar Patel](https://open.spotify.com/artist/1hVYdNuFnaMpCWK9t5J6S5) | [Haalyo Jaa \(Secret Sessions X Collab Stories\)](https://open.spotify.com/album/66xOQ66ZnZPAlA6thPN5kb) | 2:55 | 2021-12-06 | 2022-01-06 |
 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 | 2022-11-21 |  |
 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 | 2022-10-20 |  |
+| [HIIR](https://open.spotify.com/track/0LVplQ76aGSnnggq9IbP5b) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kimera](https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [HIIR](https://open.spotify.com/album/1lanWxzAYPt2NgrtvQTFQZ) | 2:43 | 2023-05-13 |  |
 | [Home Alone](https://open.spotify.com/track/4vOElXsN9pB63rxcRV55tW) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Soham Mallick](https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue) | [Home Alone](https://open.spotify.com/album/0saEF9ixZrT50jbiM8CUdY) | 3:00 | 2021-12-06 | 2022-01-11 |
 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 | 2023-04-30 |  |
 | [Humara Ho Gaya](https://open.spotify.com/track/7qMCYAkTTbFOw1hUXvAAje) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 2:37 | 2022-01-05 | 2023-03-09 |
@@ -146,7 +147,7 @@
 | [Phir Bekhabar](https://open.spotify.com/track/5pUrlEGxrzuC2PzjcqBFRA) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Phir Bekhabar](https://open.spotify.com/album/0cGn21RY35wMplh6OB7nRL) | 3:17 | 2022-12-22 | 2023-05-01 |
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-01-24 | 2022-08-11 |
 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2022-06-13 |  |
-| [Rab Raakha](https://open.spotify.com/track/6cmPjiylmkjv2wiBCx2AHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Rab Raakha](https://open.spotify.com/album/7waXLin5hX3LJ6bxrCHxZf) | 3:59 | 2021-12-06 |  |
+| [Rab Raakha](https://open.spotify.com/track/6cmPjiylmkjv2wiBCx2AHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Rab Raakha](https://open.spotify.com/album/7waXLin5hX3LJ6bxrCHxZf) | 3:59 | 2021-12-06 | 2023-05-14 |
 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 | 2021-12-06 |  |
 | [Rehnuma](https://open.spotify.com/track/4l9YKebWc0WGhcNbtJFeRe) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Rehnuma](https://open.spotify.com/album/5ZG20aDD6ZyqeFHyDzufeO) | 3:13 | 2022-02-25 | 2022-11-19 |
 | [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 | 2021-12-06 |  |

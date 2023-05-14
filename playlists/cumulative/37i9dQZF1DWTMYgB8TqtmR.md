@@ -2,9 +2,9 @@
 
 ### [It's Hits Sweden](https://open.spotify.com/playlist/37i9dQZF1DWTMYgB8TqtmR)
 
-> It's Hits – bästa och största hitsen just nu.
+> Grattis Sverige! Grattis Loreen!
 
-455 songs - 22 hr 51 min
+457 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Aldrig säga aldrig](https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Aldrig säga aldrig](https://open.spotify.com/album/48c81KMFLdJJO9lJpuvGr8) | 3:10 | 2022-04-07 | 2022-05-04 |
 | [Alien](https://open.spotify.com/track/6VBLbFCArFuTTEXFlQFZZs) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Alien](https://open.spotify.com/album/7hLrEkGfc02E0ckMf3MEGh) | 2:45 | 2021-12-16 | 2022-02-25 |
 | [All I Need \(feat\. Franglish\)](https://open.spotify.com/track/1ECZn7GZ0jO3ZI4i2juzpU) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [All I Need \(feat\. Franglish\)](https://open.spotify.com/album/0ed4blzp0BbBtJLq0XugJ7) | 2:41 | 2022-11-24 | 2023-01-13 |
+| [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-13 |  |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-22 | 2023-05-05 |
 | [Alla våra minnen](https://open.spotify.com/track/7kV2ZRMkpozWRusXJ8Lr2q) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Alla våra minnen](https://open.spotify.com/album/7MqregKC8Neq9ab630ZeGI) | 3:10 | 2022-04-21 | 2022-08-26 |
 | [Alright \(feat\. KIDDO\)](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Alright \(feat\. KIDDO\)](https://open.spotify.com/album/0Nn6sMoZFBIUIsy8fpILrI) | 2:49 | 2021-12-16 | 2022-01-08 |
@@ -224,11 +225,11 @@
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-28 | 2022-03-18 |
 | [Jag Lovar](https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Jag Lovar](https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm) | 2:48 | 2022-01-27 | 2022-04-01 |
 | [Jag vill bara va med dej](https://open.spotify.com/track/7EIhW2IWOEuOyvl1aFTCaj) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [Noonie Bao](https://open.spotify.com/artist/1vIuPjtFhqIPE2n9W2ePgO) | [Jag vill bara va med dej](https://open.spotify.com/album/10JTOhisVeDfvxsNSQsD8E) | 3:37 | 2022-05-13 | 2022-07-22 |
-| [John Daly](https://open.spotify.com/track/2bHkxIrKmodno557Z4BJBK) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [John Daly](https://open.spotify.com/album/410yZGA5oklqvmUXCEJeVu) | 2:49 | 2023-03-30 |  |
+| [John Daly](https://open.spotify.com/track/2bHkxIrKmodno557Z4BJBK) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [John Daly](https://open.spotify.com/album/410yZGA5oklqvmUXCEJeVu) | 2:49 | 2023-03-30 | 2023-05-14 |
 | [JUMPSTART](https://open.spotify.com/track/7LnkcJhUZ0qs0HoyRm61xr) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [JUMPSTART](https://open.spotify.com/album/3tmkaAWU7c2g3BWQ7rdZpR) | 2:37 | 2022-11-03 | 2022-11-18 |
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-04 | 2023-05-11 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2022-12-19 | 2023-04-14 |
-| [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-13 |  |
+| [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-13 | 2023-05-14 |
 | [KOMMER DU IHÅG?](https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [KOMMER DU IHÅG?](https://open.spotify.com/album/4T9cDX7VHq0uxIIotzK4Ct) | 2:38 | 2023-02-24 | 2023-04-28 |
 | [Komplicerat](https://open.spotify.com/track/3RCbGcSsPFNn6NbFbLc8QT) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Komplicerat](https://open.spotify.com/album/2okfqXMmvxEi0VlNupJENP) | 2:19 | 2022-05-19 | 2022-08-19 |
 | [Koppla av](https://open.spotify.com/track/3MOiHZI4V8KaDdSaOSOVMQ) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:57 | 2022-06-09 | 2022-09-23 |
@@ -239,6 +240,7 @@
 | [Late To Da Party \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 | 2022-06-23 | 2022-07-02 |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-05-26 | 2022-09-23 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-05 | 2023-04-28 |
+| [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 | 2023-05-13 |  |
 | [leilo brenner \- Spotify Studio It´s Hits Recording](https://open.spotify.com/track/6ztcxDt6rVmqMGi0t4wOiT) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [leilo brenner \(Spotify Studio It's Hits Recording\)](https://open.spotify.com/album/688lFR0RtS2nxfHQTyCwKi) | 2:23 | 2022-06-09 | 2022-08-17 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2022-12-15 | 2023-04-14 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-27 | 2023-02-21 |

@@ -847,6 +847,28 @@
     },
     {
       "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -3982,7 +4004,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -22259,6 +22281,24 @@
     },
     {
       "album": {
+        "name": "The Planet",
+        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "The Planet",
+      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
+    },
+    {
+      "album": {
         "name": "The Marshall Mathers LP",
         "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
       },
@@ -25162,7 +25202,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"

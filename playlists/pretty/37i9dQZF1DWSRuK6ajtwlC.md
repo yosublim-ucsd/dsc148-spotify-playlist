@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax\. La Fiera de Ojinaga en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,059 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,346 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 74 | [La Dueña De Todo Mi Amor](https://open.spotify.com/track/2Q96ya1H8ufq1jxr5y0B3R) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Conjunto Rio Grande](https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG) | [La Dueña De Todo Mi Amor](https://open.spotify.com/album/6PUMSN3CBKPfeH20KmibKo) | 3:03 |
 | 75 | [Cortinas Guindas](https://open.spotify.com/track/6mEkvLnD8knuzA9KCKVvEB) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Cortinas Guindas](https://open.spotify.com/album/3xEmGMycmtgDG6wKfmYI6N) | 3:54 |
 
-Snapshot ID: `MCw0MGRiODI4ZjhkMTJmODRiMzEzOWYyZGY2ZDZiZTgwMmI5YTMzM2Q4`
+Snapshot ID: `MCxiYWY1NmFhOTk2ODU4MWNmNWYxMDg1NWNhYTA1OTljOThhYWZmYTM3`

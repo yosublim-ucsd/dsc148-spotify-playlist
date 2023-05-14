@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,427 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,444 likes - 45 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 4 | [Perro Amor Explota \- Live In Buenos Aires / 2001](https://open.spotify.com/track/7a0yeeNookEFR7YjYAhyrf) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:28 |
 | 5 | [Alas De Tango](https://open.spotify.com/track/3agi6vqicsnCdtxMaibtmC) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Alas De Tango](https://open.spotify.com/album/736iIVohWaDIGAjB3pJ8YD) | 4:03 |
 | 6 | [Cacho de Buenos Aires](https://open.spotify.com/track/4PhXYZCCN94hBeWYBTiikR) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ), [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [Cacho de Buenos Aires](https://open.spotify.com/album/0E3s1yVPKs8jp4DQoqK2GJ) | 4:37 |
-| 7 | [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 |
-| 8 | [Naranjo En Flor](https://open.spotify.com/track/058IA4FZ3oSj0wJbSLtcWi) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Postales De Este Lado Del Mundo](https://open.spotify.com/album/4dR2dfCJaLvateYFEB9tKp) | 3:09 |
+| 7 | [Naranjo En Flor](https://open.spotify.com/track/058IA4FZ3oSj0wJbSLtcWi) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Postales De Este Lado Del Mundo](https://open.spotify.com/album/4dR2dfCJaLvateYFEB9tKp) | 3:09 |
+| 8 | [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 |
 | 9 | [Gricel](https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [La La La](https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz) | 4:31 |
 | 10 | [No Soy Un Extraño \- Live](https://open.spotify.com/track/6KxhnLR6OlcieIudHZqL2V) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:22 |
 | 11 | [La Bestia Pop](https://open.spotify.com/track/0whYWhGNZ2YuTiiXF0AQXS) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:30 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 32 | [Por Una Cabeza](https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 4:38 |
 | 33 | [Mano a mano](https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 3:18 |
 | 34 | [El Vino Triste](https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [El Vino Triste \(feat\. Raúl Lavié\)](https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ) | 2:53 |
-| 35 | [La Despedida \(feat\. Fito Páez & Paula Pomeraniek\)](https://open.spotify.com/track/3p9ebspnr6evao7kZ99BpH) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Fito Páez](https://open.spotify.com/artist/4ZgWNQWb0Qz9QeF67IUVk8), [Paula Pomeraniek](https://open.spotify.com/artist/31dHfRj6P93GP3be6JsYIe) | [Avellaneda](https://open.spotify.com/album/49Xq9ybXE17iQoJox5qegK) | 4:39 |
-| 36 | [Plegaria para un niño dormido](https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU) | [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 3:47 |
-| 37 | [Volver Ni A Palos](https://open.spotify.com/track/1sVcH6JpkTidkzcfKQuioM) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Otro Le Travaladna](https://open.spotify.com/album/78CgEIHzH8TtgNmV63lMbF) | 2:55 |
+| 35 | [Volver Ni A Palos](https://open.spotify.com/track/1sVcH6JpkTidkzcfKQuioM) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Otro Le Travaladna](https://open.spotify.com/album/78CgEIHzH8TtgNmV63lMbF) | 2:55 |
+| 36 | [La Despedida \(feat\. Fito Páez & Paula Pomeraniek\)](https://open.spotify.com/track/3p9ebspnr6evao7kZ99BpH) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Fito Páez](https://open.spotify.com/artist/4ZgWNQWb0Qz9QeF67IUVk8), [Paula Pomeraniek](https://open.spotify.com/artist/31dHfRj6P93GP3be6JsYIe) | [Avellaneda](https://open.spotify.com/album/49Xq9ybXE17iQoJox5qegK) | 4:39 |
+| 37 | [Plegaria para un niño dormido](https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU) | [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 3:47 |
 | 38 | [Tomo y Obligo](https://open.spotify.com/track/7vom0QDBkmCppCpusL97zQ) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [Villavicio](https://open.spotify.com/album/0caLBmefMPuGsowMfTuMeh) | 2:42 |
 | 39 | [Imágenes Paganas](https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Menesunda: Tangolencia Rockera](https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf) | 2:22 |
 | 40 | [El Deseo de Evita](https://open.spotify.com/track/3ExTwPNogl9gEbjSTw5SMC) | [Los Visitantes](https://open.spotify.com/artist/28DInKJA1f9LhVK1LqMaHW) | [Espiritango](https://open.spotify.com/album/5v9b18KRapHDZ1I8Hxlige) | 1:55 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 44 | [En Un Bondi Color Humo](https://open.spotify.com/track/0mbnoXmzOtn4oAl5bJIaDV) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI) | [Maldito Tango](https://open.spotify.com/album/3lqGBKTp87k7kJ7VeR76r1) | 3:36 |
 | 45 | [Barro Tal Vez](https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2), [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:42 |
 
-Snapshot ID: `MCxkMTdlYjI4NGEyNzljNTkwYmI2MDI2OGNlOTgwYzNhNGU4OTIwMDNl`
+Snapshot ID: `MCwwMTMyZDgyOTg5YTk1NTdjZTY1MmE0MTExYmFkZWQ0OTMxNWMyYWVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,633 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,729 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 30 | [Revival](https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Utah](https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7) | 3:33 |
 | 31 | [Smooth Sailin'](https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:03 |
 | 32 | [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 |
-| 33 | [I Wonder Why](https://open.spotify.com/track/5XOzpTZGe4onY74BFK0ziS) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:05 |
-| 34 | [Look It Here](https://open.spotify.com/track/1uGFKt1GEUeuST97c2jBD4) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 3:03 |
+| 33 | [Look It Here](https://open.spotify.com/track/1uGFKt1GEUeuST97c2jBD4) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 3:03 |
+| 34 | [I Wonder Why](https://open.spotify.com/track/5XOzpTZGe4onY74BFK0ziS) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:05 |
 | 35 | [Slowly](https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Giralunas, Un Homenaje a L.E.Aute](https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd) | 5:36 |
 | 36 | [Black Man In A White World](https://open.spotify.com/track/3ddle9t9JiBFVqHyrnaGxz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 4:18 |
 | 37 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 |
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 42 | [Powder Blue](https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 2:23 |
 | 43 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
 | 44 | [The Beachland Ballroom](https://open.spotify.com/track/6numDs6jtM3BAVO2NRrwXC) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:00 |
-| 45 | [Pining](https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:44 |
-| 46 | [Bad Self Portraits](https://open.spotify.com/track/3CWHWrV0UNbA2kT9xtoI6n) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Bad Self Portraits](https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd) | 3:24 |
+| 45 | [Bad Self Portraits](https://open.spotify.com/track/3CWHWrV0UNbA2kT9xtoI6n) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Bad Self Portraits](https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd) | 3:24 |
+| 46 | [Pining](https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:44 |
 | 47 | [For the Time Being](https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn), [Will Leet](https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi) | [For the Time Being](https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o) | 4:05 |
 | 48 | [Sugaree](https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED), [Friends](https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:59 |
 | 49 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:33 |
 | 50 | [Katchi](https://open.spotify.com/track/09uXepY9uC1cUlvZ6kbOy6) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Never Twice](https://open.spotify.com/album/1gzWphTk6PqMZ5qWbVaBk4) | 3:40 |
-| 51 | [Rebel Heart](https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [The Shelters](https://open.spotify.com/album/451kD1EliOug21dypPYnMn) | 3:58 |
-| 52 | [CRYING’S JUST A THING YOU DO](https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [UNDIVIDED HEART & SOUL](https://open.spotify.com/album/3W3o75jSGuCqimWodjCUPB) | 3:14 |
+| 51 | [CRYING’S JUST A THING YOU DO](https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [UNDIVIDED HEART & SOUL](https://open.spotify.com/album/3W3o75jSGuCqimWodjCUPB) | 3:14 |
+| 52 | [Rebel Heart](https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [The Shelters](https://open.spotify.com/album/451kD1EliOug21dypPYnMn) | 3:58 |
 | 53 | [Sold My Soul](https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 6:11 |
 | 54 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 |
 | 55 | [S.O.B.](https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [S.O.B.](https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI) | 4:07 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 89 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 |
 | 90 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
 
-Snapshot ID: `MCwxNjI0ZjEyZmE5MDNmNTkyMGNmNTA5MTlkZTE5MzYyNWVhOTI0YTYw`
+Snapshot ID: `MCwwYWRkM2ZhOTUyNmExNGRlZTA0OTUzNjg4ZmFkZGYyODE0NGExZDg5`

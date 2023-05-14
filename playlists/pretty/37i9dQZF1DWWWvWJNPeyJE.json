@@ -1,12 +1,12 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 211106,
+  "num_followers": 211311,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTgzNTBhZmRkNjI4OGU3Zjg1MjdlODUxYTYzZDQ2NjFkNGYxNDU1",
+  "snapshot_id": "MCxlZTQ3MDRiZjRmNWZjZTA1ZDFlYWZjYzZhODM3NmM3Mjc0NGZhODNh",
   "tracks": [
     {
       "added_at": "2023-03-03 13:37:54",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "oui",
+      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
         "name": "Dark Side",
         "url": "https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H"
       },
@@ -239,18 +255,18 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+        "name": "I Told You",
+        "url": "https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4"
       },
       "artists": [
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
         }
       ],
-      "duration_ms": 238320,
-      "name": "oui",
-      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
+      "duration_ms": 237786,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -271,22 +287,6 @@
       "duration_ms": 178274,
       "name": "Fantasy (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
-        "name": "I Told You",
-        "url": "https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 237786,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
         "name": "Late Nights: The Album",
         "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
@@ -471,26 +471,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "Come Thru (with Usher)",
-      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 266306,
       "name": "Wet The Bed (feat. Ludacris)",
       "url": "https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "Come Thru (with Usher)",
+      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -559,22 +559,18 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Call Me Crazy, But...",
-        "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
       "artists": [
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 281080,
-      "name": "It Won't Stop (feat. Chris Brown) - EP Version",
-      "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
+      "duration_ms": 245933,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -591,6 +587,26 @@
       "duration_ms": 226506,
       "name": "Birthday Sex",
       "url": "https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "Call Me Crazy, But...",
+        "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 281080,
+      "name": "It Won't Stop (feat. Chris Brown) - EP Version",
+      "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Take You Down",
-      "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "4275 (Bonus Version)",
         "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
       },
@@ -663,6 +663,26 @@
       "duration_ms": 217386,
       "name": "You",
       "url": "https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "Heat (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -715,6 +735,22 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 181140,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
         "name": "Here I Am (Deluxe Version)",
         "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
       },
@@ -735,18 +771,18 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+        "name": "Heartbreak on a Full Moon",
+        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 181140,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
+      "duration_ms": 201421,
+      "name": "Grass Ain't Greener",
+      "url": "https://open.spotify.com/track/7k802XMtsF57i4WS2M2MGg"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -803,26 +839,6 @@
       "duration_ms": 222853,
       "name": "Make Up Sex",
       "url": "https://open.spotify.com/track/39mPRdfh5ipE7AZrlicnNp"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "Heat (feat. Gunna)",
-      "url": "https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -911,38 +927,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "The Velvet Rope",
-        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 317560,
-      "name": "I Get Lonely",
-      "url": "https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
-        "name": "Heartbreak on a Full Moon",
-        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 201421,
-      "name": "Grass Ain't Greener",
-      "url": "https://open.spotify.com/track/7k802XMtsF57i4WS2M2MGg"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "SoMo",
         "url": "https://open.spotify.com/album/3C1R7nVZwUrvb6RG4Bod5U"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
+        "name": "The Velvet Rope",
+        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
       "artists": [
         {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 283236,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
+      "duration_ms": 317560,
+      "name": "I Get Lonely",
+      "url": "https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -987,6 +971,22 @@
       "duration_ms": 310800,
       "name": "Feenin'",
       "url": "https://open.spotify.com/track/0IyGPlGWkWZubMgC3qdBWz"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 283236,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
     },
     {
       "added_at": "2023-03-03 13:37:54",

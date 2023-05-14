@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 35994,
+  "num_followers": 36028,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzIzZTk1ZGZhZmI5ZTEwNjhkMjUxNGUyYWIwNTExMjYyNDFiNmI3",
+  "snapshot_id": "MCwxNmExMmE4Y2RhMzNmMDRlZmFhYWY4YzE4NjJlMTM3ZTM2ZTVmM2Nh",
   "tracks": [
     {
       "added_at": "2023-05-11 11:32:28",
@@ -247,18 +247,18 @@
     {
       "added_at": "2023-05-11 11:32:28",
       "album": {
-        "name": "Us Without Me",
-        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 200039,
-      "name": "Us Without Me",
-      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
+      "duration_ms": 186053,
+      "name": "SOW",
+      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
     },
     {
       "added_at": "2023-05-11 11:32:28",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-05-11 11:32:28",
       "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+        "name": "Us Without Me",
+        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 186053,
-      "name": "SOW",
-      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
+      "duration_ms": 200039,
+      "name": "Us Without Me",
+      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
     },
     {
       "added_at": "2023-05-11 11:32:28",
@@ -391,26 +391,6 @@
     {
       "added_at": "2023-05-11 11:32:28",
       "album": {
-        "name": "Private Space",
-        "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 254722,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
-    },
-    {
-      "added_at": "2023-05-11 11:32:28",
-      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 234866,
       "name": "So Done (feat. Khalid)",
       "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
+    },
+    {
+      "added_at": "2023-05-11 11:32:28",
+      "album": {
+        "name": "Private Space",
+        "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 254722,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
     },
     {
       "added_at": "2023-05-11 11:32:28",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-05-11 11:32:28",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
-      },
-      "artists": [
-        {
-          "name": "shiv",
-          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
-    },
-    {
-      "added_at": "2023-05-11 11:32:28",
-      "album": {
         "name": "Express",
         "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 156000,
       "name": "Express",
       "url": "https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX"
+    },
+    {
+      "added_at": "2023-05-11 11:32:28",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
     },
     {
       "added_at": "2023-05-11 11:32:28",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-05-11 11:32:28",
       "album": {
-        "name": "Sunrise Bang Ur Head Against Tha Wall",
-        "url": "https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 207280,
-      "name": "No Need 2 Be Sorry, Call Me? (ft. Maverick Sabre)",
-      "url": "https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8"
-    },
-    {
-      "added_at": "2023-05-11 11:32:28",
-      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
       },
@@ -579,6 +559,22 @@
       "duration_ms": 137046,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O"
+    },
+    {
+      "added_at": "2023-05-11 11:32:28",
+      "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2023-05-11 11:32:28",
@@ -599,18 +595,22 @@
     {
       "added_at": "2023-05-11 11:32:28",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+        "name": "Sunrise Bang Ur Head Against Tha Wall",
+        "url": "https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
         }
       ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+      "duration_ms": 207280,
+      "name": "No Need 2 Be Sorry, Call Me? (ft. Maverick Sabre)",
+      "url": "https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8"
     },
     {
       "added_at": "2023-05-11 11:32:28",
@@ -647,8 +647,8 @@
     {
       "added_at": "2023-05-11 11:32:28",
       "album": {
-        "name": "Just Fine",
-        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Just Fine",
-      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
+      "duration_ms": 174614,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT"
     },
     {
       "added_at": "2023-05-11 11:32:28",
@@ -751,8 +751,8 @@
     {
       "added_at": "2023-05-11 11:32:28",
       "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx"
+        "name": "Just Fine",
+        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
         }
       ],
-      "duration_ms": 174614,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT"
+      "duration_ms": 174000,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
     },
     {
       "added_at": "2023-05-11 11:32:28",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-05-11 11:32:28",
       "album": {
+        "name": "Good Thing (Deluxe)",
+        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
+    },
+    {
+      "added_at": "2023-05-11 11:32:28",
+      "album": {
         "name": "Tomorrow's Gonna Come",
         "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2023-05-11 11:32:28",
       "album": {
-        "name": "This Will Be Our Year",
-        "url": "https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 157152,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL"
-    },
-    {
-      "added_at": "2023-05-11 11:32:28",
-      "album": {
         "name": "No Flowers",
         "url": "https://open.spotify.com/album/4AVeqsCo8ewXf9uN3IF9gs"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 184557,
       "name": "No Flowers",
       "url": "https://open.spotify.com/track/5NOViHpW9RmHc2HQKxewyb"
+    },
+    {
+      "added_at": "2023-05-11 11:32:28",
+      "album": {
+        "name": "This Will Be Our Year",
+        "url": "https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 157152,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL"
     },
     {
       "added_at": "2023-05-11 11:32:28",
@@ -931,22 +947,6 @@
       "duration_ms": 213404,
       "name": "No One But You",
       "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
-    },
-    {
-      "added_at": "2023-05-11 11:32:28",
-      "album": {
-        "name": "Good Thing (Deluxe)",
-        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Naomi",
-      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
     },
     {
       "added_at": "2023-05-11 11:32:28",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-05-11 11:32:28",
       "album": {
+        "name": "Like a Ship",
+        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Keite Young",
+          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
+        }
+      ],
+      "duration_ms": 353506,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
+    },
+    {
+      "added_at": "2023-05-11 11:32:28",
+      "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 170106,
       "name": "Little Fun (feat. Sammy Johnson)",
       "url": "https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU"
-    },
-    {
-      "added_at": "2023-05-11 11:32:28",
-      "album": {
-        "name": "Like a Ship",
-        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Keite Young",
-          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
-        }
-      ],
-      "duration_ms": 353506,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
     },
     {
       "added_at": "2023-05-11 11:32:28",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-05-11 11:32:28",
       "album": {
-        "name": "First Thing Smokin'",
-        "url": "https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 223925,
-      "name": "First Thing Smokin'",
-      "url": "https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT"
-    },
-    {
-      "added_at": "2023-05-11 11:32:28",
-      "album": {
         "name": "High Off You",
         "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 233760,
       "name": "High Off You",
       "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
+    },
+    {
+      "added_at": "2023-05-11 11:32:28",
+      "album": {
+        "name": "First Thing Smokin'",
+        "url": "https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 223925,
+      "name": "First Thing Smokin'",
+      "url": "https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT"
     }
   ],
   "unique_name": "Soulful",

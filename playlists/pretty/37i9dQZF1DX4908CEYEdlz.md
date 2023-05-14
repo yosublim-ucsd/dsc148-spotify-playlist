@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,772 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,778 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 44 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |
 | 45 | [Boilermaker](https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Boilermaker](https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7) | 3:29 |
 | 46 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
-| 47 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 |
-| 48 | [Take the Ride](https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:58 |
-| 49 | [No More Tears To Cry](https://open.spotify.com/track/76uink7chpCLN5HjlDIMCA) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c) | 3:41 |
+| 47 | [No More Tears To Cry](https://open.spotify.com/track/76uink7chpCLN5HjlDIMCA) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/05b3WF6jDA6kf7JtIvKw2c) | 3:41 |
+| 48 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 |
+| 49 | [Take the Ride](https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:58 |
 | 50 | [Hourglass](https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s) | 2:43 |
 | 51 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
 | 52 | [Wouldn't You Rather](https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Walk The Sky](https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [Bitter](https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Bitter](https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI) | 3:05 |
 | 75 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 
-Snapshot ID: `MCwyYzM2MzZlODkxNjRhMTEzY2NkMzk2NmVkNmY1OTZlNjBkNjFlZGY0`
+Snapshot ID: `MCw2MGQxODZlMDEyMDI2MDEwMDFhYTM2ZjU3MjhlZDhiNmE1Y2E1NWI0`

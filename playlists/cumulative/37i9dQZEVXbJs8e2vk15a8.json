@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 136320,
       "name": "Amiri Jeans",
       "url": "https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 217000,
       "name": "Blue Hair",
       "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 193462,
       "name": "Como Te Pago",
       "url": "https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3"
@@ -5702,7 +5702,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 157971,
       "name": "Fashion Girl",
       "url": "https://open.spotify.com/track/35HatUvsF0Rcrn8BoMdhrc"
@@ -7022,6 +7022,24 @@
       "duration_ms": 214800,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ"
+    },
+    {
+      "album": {
+        "name": "GOOD LOYAL THOTS",
+        "url": "https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102556,
+      "name": "GOOD LOYAL THOTS",
+      "url": "https://open.spotify.com/track/6PadQidABni2peo3kYKW0M"
     },
     {
       "album": {
@@ -12060,6 +12078,24 @@
       "duration_ms": 137679,
       "name": "No Te Pude Arrancar",
       "url": "https://open.spotify.com/track/2vPwhoKr0SvdyDpwUp6SDR"
+    },
+    {
+      "album": {
+        "name": "No Te Tengo Aqu\u00ed",
+        "url": "https://open.spotify.com/album/6caHfHcD6NaLdXtM24HBWE"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Acertijo",
+          "url": "https://open.spotify.com/artist/6IesInVaMMNtX7DZchRTbJ"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210980,
+      "name": "No Te Tengo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5xLIHmkpvzFPR4sdm3bIh8"
     },
     {
       "album": {
@@ -17600,7 +17636,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 192839,
       "name": "Todo Mentira",
       "url": "https://open.spotify.com/track/5xiJDUW4WvM7FpYkq40d4s"
@@ -17826,7 +17862,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 212375,
       "name": "Triste Verano",
       "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"

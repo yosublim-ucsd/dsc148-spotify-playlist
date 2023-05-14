@@ -12587,6 +12587,28 @@
     },
     {
       "album": {
+        "name": "Feels So Good (Swedish Red Elephant Remix)",
+        "url": "https://open.spotify.com/album/7xjodj8r3DFOXkUN61mLlY"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        },
+        {
+          "name": "Swedish Red Elephant",
+          "url": "https://open.spotify.com/artist/6fT9phXpEYVm2zB0QzGqDJ"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166615,
+      "name": "Feels So Good - Swedish Red Elephant Remix",
+      "url": "https://open.spotify.com/track/4ICWb7UFalbnma7FfIScG2"
+    },
+    {
+      "album": {
         "name": "Stevie Cornell",
         "url": "https://open.spotify.com/album/3btTL1oBU80wYM8jrLKGsq"
       },

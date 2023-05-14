@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Prince Royce",
-  "num_followers": 1902904,
+  "num_followers": 1903061,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2ZjY2E4NWU4OWMyNDY0YmNlYjExYjFkZDA0NzQyZDUyYjc1MDgy",
+  "snapshot_id": "MCxkYmQ5MWNhYzFkNjQwNGQyYTY0ZGQ4NTE0MmMxNjNmYmQzM2UxMzg0",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Intimamente",
         "url": "https://open.spotify.com/album/37z6UCsiMV6Mk6p7kwmDKD"
       },
@@ -939,6 +955,22 @@
       "duration_ms": 290986,
       "name": "Ven T\u00fa",
       "url": "https://open.spotify.com/track/0weK7Rpf3QwOPqTBJM4Hau"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Que Sera de Mi",
+        "url": "https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF"
+      },
+      "artists": [
+        {
+          "name": "El Varon de la bachata",
+          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
+        }
+      ],
+      "duration_ms": 271066,
+      "name": "Que Sera de Mi",
+      "url": "https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -963,38 +995,6 @@
       "duration_ms": 174222,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Que Sera de Mi",
-        "url": "https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF"
-      },
-      "artists": [
-        {
-          "name": "El Varon de la bachata",
-          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
-        }
-      ],
-      "duration_ms": 271066,
-      "name": "Que Sera de Mi",
-      "url": "https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Amigos (con Maria Becerra) [Bachata]",
+        "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 202702,
+      "name": "Amigos (con Maria Becerra) - Bachata",
+      "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "El Duque de la Bachata",
         "url": "https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx"
       },
@@ -1315,22 +1335,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "A World Tour",
-        "url": "https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U"
-      },
-      "artists": [
-        {
-          "name": "Optimo",
-          "url": "https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "El Cuchillo",
-      "url": "https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Love Is Back",
         "url": "https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf"
       },
@@ -1343,6 +1347,22 @@
       "duration_ms": 225386,
       "name": "Llorar Lloviendo",
       "url": "https://open.spotify.com/track/3QeU2rcc5buv0B9VA0gRKH"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "A World Tour",
+        "url": "https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U"
+      },
+      "artists": [
+        {
+          "name": "Optimo",
+          "url": "https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "El Cuchillo",
+      "url": "https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1399,6 +1419,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Johnny Sky",
+        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 237998,
+      "name": "With or Without You",
+      "url": "https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Religi\u00f3n",
         "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
       },
@@ -1427,22 +1463,6 @@
       "duration_ms": 229369,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Hablame De Ti",
-        "url": "https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 267572,
-      "name": "Hablame De Ti",
-      "url": "https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1479,18 +1499,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Johnny Sky",
-        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
+        "name": "Hablame De Ti",
+        "url": "https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn"
       },
       "artists": [
         {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
         }
       ],
-      "duration_ms": 237998,
-      "name": "With or Without You",
-      "url": "https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22"
+      "duration_ms": 267572,
+      "name": "Hablame De Ti",
+      "url": "https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1579,6 +1599,38 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/1CP85ckXcd1esaXdw8WVpN"
+      },
+      "artists": [
+        {
+          "name": "Lil Eddie",
+          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
+        }
+      ],
+      "duration_ms": 253753,
+      "name": "Vivir\u00e9",
+      "url": "https://open.spotify.com/track/4Cvkj8t7pNQLfLpHMoKkMC"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "7 Pecados",
+        "url": "https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X"
+      },
+      "artists": [
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "7 Pecados",
+      "url": "https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "I Love Bachata (Bachata Hits)",
         "url": "https://open.spotify.com/album/466Tc4F5S8Lfg5df80aL6s"
       },
@@ -1611,38 +1663,6 @@
       "duration_ms": 231080,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Vivir\u00e9",
-        "url": "https://open.spotify.com/album/1CP85ckXcd1esaXdw8WVpN"
-      },
-      "artists": [
-        {
-          "name": "Lil Eddie",
-          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
-        }
-      ],
-      "duration_ms": 253753,
-      "name": "Vivir\u00e9",
-      "url": "https://open.spotify.com/track/4Cvkj8t7pNQLfLpHMoKkMC"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "7 Pecados",
-        "url": "https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X"
-      },
-      "artists": [
-        {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "7 Pecados",
-      "url": "https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1711,22 +1731,6 @@
       "duration_ms": 238841,
       "name": "Mi Maldito Turno - Bachata Version",
       "url": "https://open.spotify.com/track/6wFsJfZ6PrkOPMlQWS5ysr"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Bachata De Amor Vol. 1",
-        "url": "https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno"
     }
   ],
   "unique_name": "Bachata Lovers",

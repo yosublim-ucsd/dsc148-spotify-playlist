@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 
 > 祝・結成5周年！6人組エンタメユニット、すとぷりの音楽をプレイリストで！ Music from Japanese entertainment group, Strawberry prince! ©STPR Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,050 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,062 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 47 | [霹靂](https://open.spotify.com/track/71E8i4jYbgiYvEmj9zOAuX) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:28 |
 | 48 | [Ready Go!!](https://open.spotify.com/track/6tegIQ47QKtO7ihE5ypMyN) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 4:12 |
 | 49 | [新春らびゅっと!](https://open.spotify.com/track/20xDe22UsxCHWZLtbQzOop) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:06 |
-| 50 | [転生したら王子様だった件!](https://open.spotify.com/track/27tor6VqWB313GHXqZz8kC) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:53 |
-| 51 | [パレードはここさ](https://open.spotify.com/track/7kxQOvJyKpJ5qxJA47ns0y) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [パレードはここさ](https://open.spotify.com/album/7sXmjRoJ0CC9Hl84kAIi3q) | 3:42 |
+| 50 | [パレードはここさ](https://open.spotify.com/track/7kxQOvJyKpJ5qxJA47ns0y) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [パレードはここさ](https://open.spotify.com/album/7sXmjRoJ0CC9Hl84kAIi3q) | 3:42 |
+| 51 | [転生したら王子様だった件!](https://open.spotify.com/track/27tor6VqWB313GHXqZz8kC) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:53 |
 | 52 | [ないしょのプレゼントフォーユー!](https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:26 |
-| 53 | [僕らだけのシャングリラ](https://open.spotify.com/track/5MBOUl4Cbn1YhdU135mjxO) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーらぶっ!](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 4:01 |
-| 54 | [はりーはりーらぶ](https://open.spotify.com/track/1TxIOOB16wgtqlZCzAHgpC) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:32 |
+| 53 | [はりーはりーらぶ](https://open.spotify.com/track/1TxIOOB16wgtqlZCzAHgpC) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:32 |
+| 54 | [僕らだけのシャングリラ](https://open.spotify.com/track/5MBOUl4Cbn1YhdU135mjxO) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーらぶっ!](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 4:01 |
 | 55 | [FROG MAN](https://open.spotify.com/track/26KL0IASrWq7D3tsf3mYVO) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 4:19 |
 | 56 | [アモーレ・ミオ](https://open.spotify.com/track/2eKA779bIfY6nzcDfsoyBd) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーねくすとっ!](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 4:41 |
 | 57 | [ヨアケイロ](https://open.spotify.com/track/03QMOcvxXRRQuk4glPBBij) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 74 | [AquaKiss](https://open.spotify.com/track/32yFiu9Rx5LmibnyUjq8di) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:20 |
 | 75 | [じゃむじゃむシグナル](https://open.spotify.com/track/2VG5lGbvYXqAHbK9PWydM9) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L), [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa), [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 4:35 |
 
-Snapshot ID: `MCxkOWNlOWU2MTM4OTJjNGE3MzI4MmY5ZDk2M2U4YzMzYzg0ZWE1MTlk`
+Snapshot ID: `MCxkZjY5M2ZhZDcxNWEwYTdjYzIxNTAxNDhlNDU1MDViZjhlN2IzZWQ1`

@@ -4,7 +4,7 @@
 
 > Instrumental selections from the South Indian school of music.
 
-90 songs - 12 hr 48 min
+91 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Thillana \(Lalgudi\)](https://open.spotify.com/track/5NjVXPmeigMUT7DoJLOGUS) | [Lalgudi G\. Jayaraman](https://open.spotify.com/artist/3H1Wru3lkInKnL3yIvnzrF) | [String Excellence \- Lalgudi G\. Jayaraman](https://open.spotify.com/album/4txXuXukYEj2stUHDOlEw9) | 7:57 | 2021-06-28 | 2023-05-11 |
 | [Vallabha Nayakasya \- Raga Begada](https://open.spotify.com/track/4kc3xF1SKMHUsrexy73MPj) | [N\. Ravikiran](https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5) | [Dikshitar Masterpieces](https://open.spotify.com/album/0al0UjnQ78WIhshfdmxUBv) | 6:14 | 2021-06-28 |  |
 | [Varnam](https://open.spotify.com/track/4ZFM5yFsjEzvZ1XmP27L5r) | [Jayanthi Kumaresh](https://open.spotify.com/artist/3Zbm5f0WBZM9ChNuTBbLsT) | [Veenai Jayanthi Kumaresh](https://open.spotify.com/album/4kUGwkHXKBbaLwnqTIrg0J) | 6:34 | 2021-06-28 |  |
-| [Varnam](https://open.spotify.com/track/2UjLDTmcPxQqS0mupcye1i) | [T\. N\. Krishnan](https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE) | [Legendary Solo](https://open.spotify.com/album/4pwnspctg85eiWefvjeq5e) | 4:18 | 2022-07-07 |  |
+| [Varnam](https://open.spotify.com/track/2UjLDTmcPxQqS0mupcye1i) | [T\. N\. Krishnan](https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE) | [Legendary Solo](https://open.spotify.com/album/4pwnspctg85eiWefvjeq5e) | 4:18 | 2022-07-07 | 2023-05-14 |
+| [Varnam](https://open.spotify.com/track/6P1lAZerVtKOYvfdBHHS6d) | [T\. N\. Krishnan](https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE) | [Legendary Solo](https://open.spotify.com/album/1w0u6sitce9nDNAarWlCFA) | 4:18 | 2022-07-07 |  |
 | [Varnam \- Surutti \- Adi](https://open.spotify.com/track/0vk0KZhgWiGppkIeYtowSU) | [T\. N\. Krishnan](https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE) | [Legendary Solo](https://open.spotify.com/album/2oa0WigzgPGQCSMdG8oUIC) | 4:18 | 2021-06-28 | 2022-07-29 |
 | [Vasantha \(Violin Solo\)](https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Apoorva Thillanas](https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b) | 5:17 | 2021-06-28 |  |
 | [Vatapi](https://open.spotify.com/track/3ueUcNFfUdJ4XOxj37kMPF) | [V\. Suresh](https://open.spotify.com/artist/5dcj5w7ahDaUiWowdmWgz3), [Thiruvarur Bhakthavatsalam](https://open.spotify.com/artist/7Lta3ZmXgUdhk7xDt8u7Fo), [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7) | [Chidanandam \- Kadri Gopalnath Live At Chidambaram](https://open.spotify.com/album/1JHSxQFXD7be6oUDHYkN1b) | 16:01 | 2021-06-28 | 2022-07-29 |

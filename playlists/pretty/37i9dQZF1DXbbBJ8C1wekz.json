@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 110582,
+  "num_followers": 110708,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTcxZTA0NzFlZTQzYWUzM2Y3M2RmNmEyY2M4YmQ0MWJmNGMyZWUz",
+  "snapshot_id": "MCwyZWVkNzg3OWU0MzRlOTc4ODJlYmIzMjhmNGJiNTczZjQwZWVhNzI3",
   "tracks": [
     {
       "added_at": "2023-02-07 20:52:54",
@@ -535,6 +535,46 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Cita",
+          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
+        }
+      ],
+      "duration_ms": 147130,
+      "name": "Gigante",
+      "url": "https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 157687,
+      "name": "\u00c9 Sal",
+      "url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Assault (Rio)",
         "url": "https://open.spotify.com/album/1vQDSvZfK37xqxEmza4uha"
       },
@@ -575,46 +615,6 @@
       "duration_ms": 324016,
       "name": "Assault (Rio)",
       "url": "https://open.spotify.com/track/4FOf88scN5qTRGXc55tGJ0"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 157687,
-      "name": "\u00c9 Sal",
-      "url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        },
-        {
-          "name": "Cita",
-          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
-        }
-      ],
-      "duration_ms": 147130,
-      "name": "Gigante",
-      "url": "https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
     },
     {
-      "added_at": "2023-05-13 01:00:50",
+      "added_at": "2023-05-14 00:48:26",
       "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Love And Choppa",
-        "url": "https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 140855,
-      "name": "Love And Choppa",
-      "url": "https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
         "name": "Avi\u00e3o",
         "url": "https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 139200,
       "name": "Avi\u00e3o",
       "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "Love And Choppa",
+        "url": "https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 140855,
+      "name": "Love And Choppa",
+      "url": "https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -911,6 +911,46 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Maleta",
+        "url": "https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "Maleta",
+      "url": "https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "Bendito",
+        "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 177869,
+      "name": "Bendito",
+      "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Zero Mancada",
         "url": "https://open.spotify.com/album/4QLHe2XXswsU9cB4gV7zJE"
       },
@@ -939,46 +979,6 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Bendito",
-        "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 177869,
-      "name": "Bendito",
-      "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Maleta",
-        "url": "https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "Maleta",
-      "url": "https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
         "name": "Bvlgari",
         "url": "https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS"
       },
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/1HyDJJWmrJjfz1txHR17UF"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        }
+      ],
+      "duration_ms": 146165,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Criminal Influencer",
         "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
       },
@@ -1023,18 +1039,26 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/1HyDJJWmrJjfz1txHR17UF"
+        "name": "Meu Corre",
+        "url": "https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr"
       },
       "artists": [
         {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
         }
       ],
-      "duration_ms": 146165,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG"
+      "duration_ms": 170181,
+      "name": "Meu Corre",
+      "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -1083,30 +1107,6 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Meu Corre",
-        "url": "https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Meu Corre",
-      "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
         "name": "Para todas as mulheres que j\u00e1 rimei",
         "url": "https://open.spotify.com/album/3UQLzEpN117dUBLbe2W2gD"
       },
@@ -1131,6 +1131,26 @@
       "duration_ms": 182608,
       "name": "Ferve\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5R1h9ssiMJIDFAeEzGj9G0"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "Apoteose",
+        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Probleminha",
+      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -1199,26 +1219,6 @@
       "duration_ms": 195303,
       "name": "Gatinha",
       "url": "https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Apoteose",
-        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
-      },
-      "artists": [
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Probleminha",
-      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
     },
     {
       "added_at": "2023-02-07 20:52:54",

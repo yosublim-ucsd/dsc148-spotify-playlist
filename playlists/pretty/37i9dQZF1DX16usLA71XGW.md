@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa Queens in their music bag
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,727 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,729 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 3 | [Sita Sita](https://open.spotify.com/track/45Ii0U4wJk9YcIuPRYkLuJ) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Flavour](https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H) | 3:33 |
 | 4 | [Personal](https://open.spotify.com/track/03TXdrL0GlDeqIwTnkj6HT) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Personal](https://open.spotify.com/album/4DeGCqMQZgH5K7RCFkAGwi) | 2:15 |
 | 5 | [I Love You \(Nakupenda\)](https://open.spotify.com/track/55XMfPb2ZUm5vNYu8nWdx5) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Bits & Pieces](https://open.spotify.com/album/04rPmSPYevyGVMBtEDtBiY) | 4:24 |
-| 6 | [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 |
+| 6 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 |
 | 7 | [Sepa](https://open.spotify.com/track/2DX696tkiXR8x4BlPrjVSP) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Sepa](https://open.spotify.com/album/79bqeBFrIvVCYcJgLXV1Ml) | 3:04 |
 | 8 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 |
 | 9 | [Bitimba](https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Bitimba](https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5) | 2:27 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 46 | [Mama Ntilie](https://open.spotify.com/track/3M52Cys94u7FX3nUww5ITl) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6) | [Mama Ntilie](https://open.spotify.com/album/78X3PS16LknVFjRix2nc9h) | 2:31 |
 | 47 | [La La](https://open.spotify.com/track/7506rdh9Ay8HeCI7ow04EZ) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [La La](https://open.spotify.com/album/3NgCYoF4td4Fj0pfpYweBg) | 2:54 |
 | 48 | [Ningwetele](https://open.spotify.com/track/674UoSgYQzmUza8uxOzRjP) | [Dhahabu](https://open.spotify.com/artist/0C5XE5om2CtR9MwB7F2VlU) | [Ningwetele](https://open.spotify.com/album/1eBVVYNEjwA6kfBl9M8P4w) | 3:16 |
-| 49 | [Te Quiero](https://open.spotify.com/track/420JxzIQL7fiH7hAAJAvsk) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef) | 2:58 |
+| 49 | [Te Quiero](https://open.spotify.com/track/6PtSPngdTdpXCirFEyEGHG) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/0e7I2Jwq5O4MLDVd3oCPxJ) | 2:58 |
 | 50 | [Halichachi](https://open.spotify.com/track/6SWpURhRKx8IN6IXzCSV2S) | [Amber Lulu](https://open.spotify.com/artist/7eaEAJe6zgz9QVfEEP3dUg), [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Halichachi](https://open.spotify.com/album/5Uz3x5jAmxJuUQBDEFLhvb) | 3:25 |
 | 51 | [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 |
 | 52 | [Skia](https://open.spotify.com/track/5UpnIhGL7UfPcgnLmsmbZU) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Skia](https://open.spotify.com/album/1lZCh8wawVRNTa5scsx3JY) | 2:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 |
 | 60 | [Love](https://open.spotify.com/track/2QW4o0BaprzMjgqO4xsTBX) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/3fME5IHzfkHsZEqy5L7IlA) | 1:55 |
 
-Snapshot ID: `MCw1ZjZiYmU5YmJhZmZjOTdkYmUzZjk5MjE4ODY3ZWM1ZjU0YTkzNWQy`
+Snapshot ID: `MCwwOWZlYTc2ZDE3M2YwMzc2MjRjODNhNDcwNDQzNjRmZDI2NzU4YmM0`

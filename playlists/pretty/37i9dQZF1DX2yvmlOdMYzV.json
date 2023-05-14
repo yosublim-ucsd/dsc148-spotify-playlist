@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 893802,
+  "num_followers": 893960,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWYxNTUzNTk2MzVkZGUxMjVlODc5ZjE3MzJkMDZhYjJlYzdlZTMy",
+  "snapshot_id": "MCxjOWViMTBlZGE2NjJhMzQ5ZjBmODcxMjA0NGNlNjIwM2UzMjE2ZWE5",
   "tracks": [
     {
       "added_at": "2023-03-31 04:02:35",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Don't Throw Rocks At The Moon",
-        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 104827,
-      "name": "LIMB",
-      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "It'll Be Fine",
         "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 55048,
       "name": "i don't wanna fall in love, it's too late now",
       "url": "https://open.spotify.com/track/4OPcKAVpIquCyW94TEaD3A"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Don't Throw Rocks At The Moon",
+        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 104827,
+      "name": "LIMB",
+      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -241,6 +241,22 @@
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
     },
     {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 190546,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Masego",
@@ -279,22 +295,6 @@
       "duration_ms": 201933,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Can I Call You Rose?",
-      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -685,26 +685,6 @@
       "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "UNDERSTAND",
-        "url": "https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "UNDERSTAND (feat. Baby Rose)",
-      "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Golden pt. 2 (feat. Mereba)",
@@ -723,6 +703,26 @@
       "duration_ms": 137647,
       "name": "Golden pt. 2 (feat. Mereba)",
       "url": "https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "UNDERSTAND",
+        "url": "https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "UNDERSTAND (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
+        "name": "Monologues",
+        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
       },
       "artists": [
         {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
         }
       ],
-      "duration_ms": 183050,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
+      "duration_ms": 207200,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Monologues",
-        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
       },
       "artists": [
         {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
         }
       ],
-      "duration_ms": 207200,
-      "name": "I Got It",
-      "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
+      "duration_ms": 183050,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Suspension of Disbelief",
-        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
-      },
-      "artists": [
-        {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
-        }
-      ],
-      "duration_ms": 148085,
-      "name": "Santorini",
-      "url": "https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "poison (demo)",
@@ -895,6 +879,22 @@
       "duration_ms": 163653,
       "name": "poison - demo",
       "url": "https://open.spotify.com/track/76y9rYVLGK4Ob2qaruXmhC"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Suspension of Disbelief",
+        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "duration_ms": 148085,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 255401,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Pretty",
@@ -979,6 +963,22 @@
       "duration_ms": 205373,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 255401,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Good Good",
@@ -1131,6 +1115,22 @@
       "duration_ms": 225541,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/02adJbZO7bHXJjboTwph45"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1261,20 +1261,20 @@
       "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5hUNtJVGbyh8eJfulPr7Sx"
+        "name": "U Street Anthology",
+        "url": "https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep"
       },
       "artists": [
         {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
         }
       ],
-      "duration_ms": 206197,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/23DcYVHH5f9yuttqSrZ8YI"
+      "duration_ms": 216466,
+      "name": "Forever In A Song",
+      "url": "https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/0fDAR8dn2U6a4TXxS1NuKJ"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "U Street Anthology",
-        "url": "https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        }
-      ],
-      "duration_ms": 216466,
-      "name": "Forever In A Song",
-      "url": "https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Blue",
@@ -1327,6 +1311,38 @@
       "duration_ms": 270031,
       "name": "Stay",
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5hUNtJVGbyh8eJfulPr7Sx"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 206197,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/23DcYVHH5f9yuttqSrZ8YI"
+    },
+    {
+      "added_at": "2023-05-05 06:06:11",
+      "album": {
+        "name": "ME YOU & GOD",
+        "url": "https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4"
+      },
+      "artists": [
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "MAYBE SWANKAFORNiA",
+      "url": "https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp"
     },
     {
       "added_at": "2023-05-05 16:02:28",
@@ -1397,22 +1413,6 @@
       "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
     },
     {
-      "added_at": "2023-05-05 06:06:11",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
-      },
-      "artists": [
-        {
-          "name": "Dean Brady",
-          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
-        }
-      ],
-      "duration_ms": 210679,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
-    },
-    {
       "added_at": "2023-03-31 04:02:35",
       "album": {
         "name": "On the Run",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-05-05 06:06:11",
       "album": {
-        "name": "ME YOU & GOD",
-        "url": "https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
       },
       "artists": [
         {
-          "name": "Jidenna",
-          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
         }
       ],
-      "duration_ms": 171426,
-      "name": "MAYBE SWANKAFORNiA",
-      "url": "https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp"
+      "duration_ms": 210679,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1501,6 +1501,22 @@
       "url": "https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/1fkWEJ7SjJ3LzJJ0mDCun2"
+      },
+      "artists": [
+        {
+          "name": "Joyia",
+          "url": "https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/5xrz5t1gDx4Fft0tDAo8Fs"
+    },
+    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "HYPNOS",
@@ -1541,20 +1557,20 @@
       "url": "https://open.spotify.com/track/0NfxQ1dLKqwT40AhR6zqAY"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-05-05 06:06:11",
       "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/1fkWEJ7SjJ3LzJJ0mDCun2"
+        "name": "Sadboy, Vol. 1",
+        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
       },
       "artists": [
         {
-          "name": "Joyia",
-          "url": "https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK"
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
         }
       ],
-      "duration_ms": 190129,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/5xrz5t1gDx4Fft0tDAo8Fs"
+      "duration_ms": 130021,
+      "name": "Sadboy",
+      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 199903,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
-    },
-    {
-      "added_at": "2023-05-05 06:06:11",
-      "album": {
-        "name": "Sadboy, Vol. 1",
-        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 130021,
-      "name": "Sadboy",
-      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1713,26 +1713,6 @@
       "url": "https://open.spotify.com/track/79kniixiy0c4pw3zhsqsEi"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Brand New Life",
-        "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
-      },
-      "artists": [
-        {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
-        },
-        {
-          "name": "Mumu Fresh",
-          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
-        }
-      ],
-      "duration_ms": 272323,
-      "name": "Brand New Life (feat. Mumu Fresh)",
-      "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Trash",
@@ -1751,6 +1731,26 @@
       "duration_ms": 209446,
       "name": "Trash",
       "url": "https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        },
+        {
+          "name": "Mumu Fresh",
+          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
+        }
+      ],
+      "duration_ms": 272323,
+      "name": "Brand New Life (feat. Mumu Fresh)",
+      "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
     },
     {
       "added_at": "2023-02-16 15:18:53",

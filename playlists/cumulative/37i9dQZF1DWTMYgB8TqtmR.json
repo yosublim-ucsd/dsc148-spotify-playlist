@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "It's Hits \u2013 b\u00e4sta och st\u00f6rsta hitsen just nu.",
+  "description": "Grattis Sverige! Grattis Loreen!",
   "name": "It's Hits Sweden",
   "tracks": [
     {
@@ -420,6 +420,28 @@
       "duration_ms": 161451,
       "name": "All I Need (feat. Franglish)",
       "url": "https://open.spotify.com/track/1ECZn7GZ0jO3ZI4i2juzpU"
+    },
+    {
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "album": {
@@ -4276,7 +4298,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 169640,
       "name": "John Daly",
       "url": "https://open.spotify.com/track/2bHkxIrKmodno557Z4BJBK"
@@ -4352,7 +4374,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 175836,
       "name": "Kill Bill (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
@@ -4544,6 +4566,28 @@
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "album": {
+        "name": "Ledare",
+        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161258,
+      "name": "Ledare",
+      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
     },
     {
       "album": {

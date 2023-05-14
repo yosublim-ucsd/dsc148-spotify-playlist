@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 197027,
+  "num_followers": 197098,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzI1MmI4ODc2NjgzMzA5M2Q1OWJhZjZiZjBiZWE3ODQ4NjUyNDYx",
+  "snapshot_id": "MCwwOTcwN2Q5NmRlODA5YzNmMzNiOWQ4ZGQ2N2FlMGViNjYxYjJhMjUw",
   "tracks": [
     {
       "added_at": "2023-05-11 22:04:12",
@@ -837,7 +837,7 @@
         }
       ],
       "duration_ms": 214560,
-      "name": "Hear You Calling",
+      "name": "Hear you calling",
       "url": "https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW"
     },
     {
@@ -1250,6 +1250,10 @@
         {
           "name": "ILIACO",
           "url": "https://open.spotify.com/artist/1WzH7gkbxTeqS5cgNvB7o8"
+        },
+        {
+          "name": "MM",
+          "url": "https://open.spotify.com/artist/5eFqWWb4qNXmyd48FPVEff"
         }
       ],
       "duration_ms": 154338,
@@ -1976,12 +1980,12 @@
       },
       "artists": [
         {
-          "name": "Joel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0PmqmTnBDSaW4Ld41ojvK2"
-        },
-        {
           "name": "Cecilia Kallin",
           "url": "https://open.spotify.com/artist/36we9Nvk05alC8v82ZP0Uf"
+        },
+        {
+          "name": "Joel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0PmqmTnBDSaW4Ld41ojvK2"
         }
       ],
       "duration_ms": 207421,

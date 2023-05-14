@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-639 songs - 1 day 15 hr 19 min
+640 songs - 1 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 | 2021-10-20 |  |
 | [American Oxygen](https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [American Oxygen](https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0) | 5:05 | 2022-06-10 |  |
 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 | 2022-06-10 | 2023-04-30 |
+| [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:13 | 2023-02-24 |  |
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2021-10-20 | 2022-07-29 |
 | [And I Love Him](https://open.spotify.com/track/1dPUQhlNGEaDm9Qi1vcL7I) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [And I Love Him](https://open.spotify.com/album/4NscNwWLaJ6cVqJFICjR8y) | 2:38 | 2022-06-10 |  |
 | [As Long as You Love Me](https://open.spotify.com/track/5912OMlUlTztBFkmuMMEjR) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [As Long as You Love Me](https://open.spotify.com/album/7fm8in10yxNaOsIxsLDZqC) | 3:27 | 2021-10-20 | 2022-07-01 |
@@ -596,7 +597,7 @@
 | [White Flag](https://open.spotify.com/track/5YQdjvqe9fCrrkbU6BPtjQ) | [Ryan Corn](https://open.spotify.com/artist/6HOBJhMPSZxZEsfTcSPD0m) | [White Flag](https://open.spotify.com/album/4RgtpOkCDxykmCR9KyLCjG) | 3:31 | 2021-10-20 | 2022-07-29 |
 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 | 2021-10-20 |  |
 | [Why Georgia \(RAWsession\) \[originally by John Mayer\]](https://open.spotify.com/track/2rraSZfmRIIU5na1OH7L0q) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [Jess Delgado RAWsession \- 5.25.10](https://open.spotify.com/album/0ECa20b3UM57SWWLc9MTLV) | 4:26 | 2021-10-20 | 2022-07-29 |
-| [Why Georgia \- RAWsession](https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [RAWsession \- 5.25.10](https://open.spotify.com/album/1VjkHEj9MtBnoA3MTH4feP) | 4:26 | 2022-06-10 |  |
+| [Why Georgia \- RAWsession](https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [RAWsession \- 5.25.10](https://open.spotify.com/album/1VjkHEj9MtBnoA3MTH4feP) | 4:26 | 2022-06-10 | 2023-05-14 |
 | [Wichita Lineman](https://open.spotify.com/track/5MbBh3SOR5DQOgmKgIXCTb) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Wichita Lineman](https://open.spotify.com/album/34y6ahezJ2avjLIAZ91ST7) | 3:14 | 2022-06-10 | 2022-07-27 |
 | [Wicked Game](https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Gun Shy](https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6) | 4:11 | 2022-06-10 |  |
 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 | 2022-06-10 |  |

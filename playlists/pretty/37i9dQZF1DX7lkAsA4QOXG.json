@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 99349,
+  "num_followers": 99523,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTkzOTE0ZjI4MjFhYWIyNmM4NGUwODBkZDFiNjRiYTczM2VjYzAy",
+  "snapshot_id": "MCwxZmUwMTg1ZDU3NmM2MjlkYmQwYzQ3ZDBmZjU4MzFhNjM2NmE1Njhm",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "The Sexy EP",
         "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 174466,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Always on my mind",
-        "url": "https://open.spotify.com/album/5pFidxPVBBynmTakbH5LNL"
-      },
-      "artists": [
-        {
-          "name": "Lisa \u00d6stergren",
-          "url": "https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q"
-        }
-      ],
-      "duration_ms": 211528,
-      "name": "Always on my mind",
-      "url": "https://open.spotify.com/track/6kyUOXEadxHeG9ya0TuMIr"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "LIVING ROOM 2",
         "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "The Art of the Trio, Vol. 1",
-        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
+        "name": "Always on my mind",
+        "url": "https://open.spotify.com/album/5pFidxPVBBynmTakbH5LNL"
       },
       "artists": [
         {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+          "name": "Lisa \u00d6stergren",
+          "url": "https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q"
         }
       ],
-      "duration_ms": 299040,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/6PtZaHjsx2Pnk3x9O92bB2"
+      "duration_ms": 211528,
+      "name": "Always on my mind",
+      "url": "https://open.spotify.com/track/6kyUOXEadxHeG9ya0TuMIr"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -495,6 +479,22 @@
       "duration_ms": 160280,
       "name": "Mrs. Robinson",
       "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "The Art of the Trio, Vol. 1",
+        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 299040,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/6PtZaHjsx2Pnk3x9O92bB2"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -519,6 +519,26 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy"
+      },
+      "artists": [
+        {
+          "name": "Les Crossaders",
+          "url": "https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv"
+        },
+        {
+          "name": "Deborah Dixon",
+          "url": "https://open.spotify.com/artist/1aHdv3nIrpIqY0Ot84aUCl"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "A Hard Day's Night",
+      "url": "https://open.spotify.com/track/3f3hT4I98nzIeqijasHcud"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "And So it Goes",
         "url": "https://open.spotify.com/album/0tfPd7QamoduQalv7A376o"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 284750,
       "name": "And So it Goes",
       "url": "https://open.spotify.com/track/7AP03AuSv0uWp0i3ef9HaH"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy"
-      },
-      "artists": [
-        {
-          "name": "Les Crossaders",
-          "url": "https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv"
-        },
-        {
-          "name": "Deborah Dixon",
-          "url": "https://open.spotify.com/artist/1aHdv3nIrpIqY0Ot84aUCl"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "A Hard Day's Night",
-      "url": "https://open.spotify.com/track/3f3hT4I98nzIeqijasHcud"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s"
-      },
-      "artists": [
-        {
-          "name": "Marco Locurcio",
-          "url": "https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "The End Of A Summer",
         "url": "https://open.spotify.com/album/3O3LacyGxoIb20HcvvfxTt"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 245306,
       "name": "Kiss From A Rose",
       "url": "https://open.spotify.com/track/1cO0leXSGQuzc7W3QMFkDS"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s"
+      },
+      "artists": [
+        {
+          "name": "Marco Locurcio",
+          "url": "https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Start Again EP",
-        "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
       "artists": [
         {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 187306,
-      "name": "One Flight Down",
-      "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
+      "duration_ms": 334560,
+      "name": "High And Dry - Live On The South Bank Show / 2014",
+      "url": "https://open.spotify.com/track/0IOb6D22mnQIxsGo0db6lI"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 334560,
-      "name": "High And Dry - Live On The South Bank Show / 2014",
-      "url": "https://open.spotify.com/track/0IOb6D22mnQIxsGo0db6lI"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "House of the Rising Sun",
         "url": "https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 225806,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Start Again EP",
+        "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "One Flight Down",
+      "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Basie's Beatle Bag",
-        "url": "https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "A Hard Day's Night",
-      "url": "https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 292498,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Basie's Beatle Bag",
+        "url": "https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "A Hard Day's Night",
+      "url": "https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP"
     },
     {
       "added_at": "2023-05-11 22:00:00",

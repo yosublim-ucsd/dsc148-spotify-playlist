@@ -1,12 +1,12 @@
 {
-  "description": "With Le'Andria Johnson, Richard Smallwood, LaShun Pace and more",
+  "description": "With Le'Andria Johnson, Richard Smallwood, Daryl Coley and more",
   "num_followers": 174,
   "original_name": "Callie Day Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4Mzc2MzIwMCwwMDAwMDAwMDkyNWFmNjNiMGM0ZTJlODRiMDI5ODA4NDM1OWExN2U1",
+  "snapshot_id": "MTY4Mzg0OTYwMCwwMDAwMDAwMGI5ZmJkMWE5MjZhOGRlN2YxOTA1NTVjYWYyZmRjMzZm",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things Are Working",
-        "url": "https://open.spotify.com/album/5Cuea6x56x6A9rGYHwuPpC"
+        "name": "People",
+        "url": "https://open.spotify.com/album/6kM7VIaHKHxqbxtLszt1To"
       },
       "artists": [
         {
-          "name": "Joe Pace",
-          "url": "https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0"
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 163704,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/68hyRK77r4aEgqPcDhhXUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greenleaf Soundtrack - Season 2",
+        "url": "https://open.spotify.com/album/68IvsYG3g7nrZUkErvzjWt"
+      },
+      "artists": [
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/44ysOFZgl9Ra5Y03QmpZEt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Has Been So Good (Remastered)",
+        "url": "https://open.spotify.com/album/6I6h5LkibveSlVdqEzZMdq"
+      },
+      "artists": [
+        {
+          "name": "Rance Allen",
+          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
         },
+        {
+          "name": "Mydason",
+          "url": "https://open.spotify.com/artist/1J1ujJnz8UdkcCYFoKqJON"
+        }
+      ],
+      "duration_ms": 349743,
+      "name": "God Has Been So Good - Remastered",
+      "url": "https://open.spotify.com/track/3PZoHhOAV5yzNCCoQFzAMT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/6lLOSaxtecFKHHaGqKpOKq"
+      },
+      "artists": [
+        {
+          "name": "Jessica Childress",
+          "url": "https://open.spotify.com/artist/0IXx6MZ2IPq8L7fv175UMF"
+        }
+      ],
+      "duration_ms": 248120,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/3v5VYmpeqD8ThjMhqM7Bcg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Come, O Come, Emmanuel",
+        "url": "https://open.spotify.com/album/1e5qZARgmQ8Kx6cKHBWUPV"
+      },
+      "artists": [
         {
           "name": "Callie Day",
           "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
         }
       ],
-      "duration_ms": 294473,
-      "name": "All Things Are Working - Radio Edit",
-      "url": "https://open.spotify.com/track/65f4my7HHwV65hYSpAr3QZ"
+      "duration_ms": 288170,
+      "name": "O Come, O Come, Emmanuel",
+      "url": "https://open.spotify.com/track/0H8q5GTEcBiRWhUNqflHS4"
     },
     {
       "added_at": null,
@@ -67,150 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Has Been So Good",
-        "url": "https://open.spotify.com/album/26rKxYGHGNQY8Ud0K7kVF3"
-      },
-      "artists": [
-        {
-          "name": "Mydason",
-          "url": "https://open.spotify.com/artist/1J1ujJnz8UdkcCYFoKqJON"
-        },
-        {
-          "name": "Rance Allen",
-          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
-        }
-      ],
-      "duration_ms": 346500,
-      "name": "God Has Been So Good",
-      "url": "https://open.spotify.com/track/2WQgBeDpIPdDmD675sMiva"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avery*sunshine Album",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 282826,
-      "name": "Blessin Me",
-      "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Come, O Come, Emmanuel",
-        "url": "https://open.spotify.com/album/1e5qZARgmQ8Kx6cKHBWUPV"
-      },
-      "artists": [
-        {
-          "name": "Callie Day",
-          "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
-        }
-      ],
-      "duration_ms": 288170,
-      "name": "O Come, O Come, Emmanuel",
-      "url": "https://open.spotify.com/track/0H8q5GTEcBiRWhUNqflHS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "An Invitation to the Cookout",
-        "url": "https://open.spotify.com/album/1mxQynHQ4f4UBGnLpgJzFs"
-      },
-      "artists": [
-        {
-          "name": "Terrell Grice",
-          "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
-        },
-        {
-          "name": "Jaden Gray",
-          "url": "https://open.spotify.com/artist/0kLW5A7WWsj1KGwDlx455n"
-        },
-        {
-          "name": "Shel\u00e9a",
-          "url": "https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG"
-        },
-        {
-          "name": "Joshua Ledet",
-          "url": "https://open.spotify.com/artist/6aOLc2s5ULYBhMvUXBDuAr"
-        }
-      ],
-      "duration_ms": 360759,
-      "name": "The Prayer Song",
-      "url": "https://open.spotify.com/track/6HxBwfVXPdUSvwPNNShP7r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Good Man Is Hard To Find: The Soundtrack",
-        "url": "https://open.spotify.com/album/0eKSYSTAFUxv4oo11E040I"
-      },
-      "artists": [
-        {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
-        }
-      ],
-      "duration_ms": 288586,
-      "name": "I Won't Complain",
-      "url": "https://open.spotify.com/track/0Z40ksWbWS2Hpmu99XxDV9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/6kM7VIaHKHxqbxtLszt1To"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 163704,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/68hyRK77r4aEgqPcDhhXUR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "The Impossible Dream",
-      "url": "https://open.spotify.com/track/5ehNUgLDSziplpZmAjM51u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Priestess Of Soul",
-        "url": "https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Take Me To The Water",
-      "url": "https://open.spotify.com/track/3ygam4iPbcaCe9AlHTVfcp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Is Born",
         "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
       },
@@ -227,54 +147,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me A Clean Heart",
-        "url": "https://open.spotify.com/album/1jwiRuQN4cQtGfqoukYp6j"
+        "name": "Lift Every Voice",
+        "url": "https://open.spotify.com/album/0SIW9Jj7N8VALDmz69HQTV"
       },
       "artists": [
         {
-          "name": "James Cleveland & The Southern California Community Choir",
-          "url": "https://open.spotify.com/artist/3O90nZ7V5cI8QoyuKNWjZ0"
+          "name": "Resound",
+          "url": "https://open.spotify.com/artist/2qLdK3H2kDrcfcpJXkNVi5"
         }
       ],
-      "duration_ms": 257293,
-      "name": "Give Me A Clean Heart",
-      "url": "https://open.spotify.com/track/4JqqDnj1bxS9anq6m6IPy0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blue Gospel Singers: A Decade of Us",
-        "url": "https://open.spotify.com/album/5KwpwOQrbtXW0CQ0YoWXJ3"
-      },
-      "artists": [
-        {
-          "name": "The Blue Gospel Singers",
-          "url": "https://open.spotify.com/artist/64G3hsfewn9BJMXJkEwr0P"
-        },
-        {
-          "name": "Mario Paduano",
-          "url": "https://open.spotify.com/artist/6Ego0TLyQOW1zZraZUTfZw"
-        }
-      ],
-      "duration_ms": 278453,
-      "name": "Oh Lord How Excellent Is Thy Name",
-      "url": "https://open.spotify.com/track/3A5H5S7z4keCQCT2WrXYAI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morning",
-        "url": "https://open.spotify.com/album/3afi69xPy3RNWw20Xn8BEE"
-      },
-      "artists": [
-        {
-          "name": "Kasondra Lovelace",
-          "url": "https://open.spotify.com/artist/6oD0rQacwCIWVciLhlG5aD"
-        }
-      ],
-      "duration_ms": 309506,
-      "name": "God",
-      "url": "https://open.spotify.com/track/1GayF9WJ8to7HxrLCy9vvr"
+      "duration_ms": 188396,
+      "name": "Lift Every Voice",
+      "url": "https://open.spotify.com/track/1sL9KmkaRl0Rh1GHMZ1uFq"
     },
     {
       "added_at": null,
@@ -299,278 +183,154 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Is Not Through Blessing You",
-        "url": "https://open.spotify.com/album/3GU1ixdzFLVtGj89Nk9wtk"
+        "name": "High Priestess Of Soul",
+        "url": "https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn"
       },
       "artists": [
         {
-          "name": "Rev. Richard Mr. Clean White",
-          "url": "https://open.spotify.com/artist/7AArohpEXFxqmTqAKeeZCx"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 274800,
-      "name": "God Is Not Through Blessing You - The Song",
-      "url": "https://open.spotify.com/track/4il6RGav4b8HtVb2gsM76f"
+      "duration_ms": 169133,
+      "name": "Take Me To The Water",
+      "url": "https://open.spotify.com/track/3ygam4iPbcaCe9AlHTVfcp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Lift Every Voice",
-        "url": "https://open.spotify.com/album/0SIW9Jj7N8VALDmz69HQTV"
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/5mCfuyjlArdx2oXBFDbLVw"
       },
       "artists": [
         {
-          "name": "Resound",
-          "url": "https://open.spotify.com/artist/2qLdK3H2kDrcfcpJXkNVi5"
+          "name": "Jerard & Jovaun",
+          "url": "https://open.spotify.com/artist/71N2h347vCjJk8hJvAWwzm"
         }
       ],
-      "duration_ms": 188396,
-      "name": "Lift Every Voice",
-      "url": "https://open.spotify.com/track/1sL9KmkaRl0Rh1GHMZ1uFq"
+      "duration_ms": 151573,
+      "name": "What A Beautiful Name - A Cappella Version",
+      "url": "https://open.spotify.com/track/2J2pgeCxen6pU1Zm7bXjWb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Play (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz"
+        "name": "I Wish You Love: More From The Bodyguard",
+        "url": "https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV"
       },
       "artists": [
         {
-          "name": "Mikael Karlsson",
-          "url": "https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292680,
+      "name": "Jesus Loves Me - A Capella Version",
+      "url": "https://open.spotify.com/track/5GPK5xpGAoLOTyZihZr0V9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Good Man Is Hard To Find: The Soundtrack",
+        "url": "https://open.spotify.com/album/0eKSYSTAFUxv4oo11E040I"
+      },
+      "artists": [
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        }
+      ],
+      "duration_ms": 288586,
+      "name": "I Won't Complain",
+      "url": "https://open.spotify.com/track/0Z40ksWbWS2Hpmu99XxDV9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Things Are Working",
+        "url": "https://open.spotify.com/album/5Cuea6x56x6A9rGYHwuPpC"
+      },
+      "artists": [
+        {
+          "name": "Joe Pace",
+          "url": "https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0"
         },
         {
           "name": "Callie Day",
           "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
         }
       ],
-      "duration_ms": 436874,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3qrQELneT3DYFHorpigLwI"
+      "duration_ms": 294473,
+      "name": "All Things Are Working - Radio Edit",
+      "url": "https://open.spotify.com/track/65f4my7HHwV65hYSpAr3QZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Project LA: Alive in Los Angeles",
-        "url": "https://open.spotify.com/album/45rmoHNeEtDa0SHbl3FdSL"
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/5YALaUtpVJLkSs1oga600L"
       },
       "artists": [
         {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+          "name": "Lena Byrd-Miles",
+          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
+        }
+      ],
+      "duration_ms": 178330,
+      "name": "This Is The Day",
+      "url": "https://open.spotify.com/track/27GLPV8dXnq3o0iiSX0okd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/6qv6L2bhDQBbT0pQmetVrF"
+      },
+      "artists": [
+        {
+          "name": "Camille Trust",
+          "url": "https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf"
+        }
+      ],
+      "duration_ms": 226808,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/41rF5ni0FCYZvKmYAPe3Lu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Setlist: The Very Best Of Dorinda Clark-Cole LIVE",
+        "url": "https://open.spotify.com/album/3CxlhrGTLbiDukYZTvuADf"
+      },
+      "artists": [
+        {
+          "name": "Dorinda Clark-Cole",
+          "url": "https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK"
+        }
+      ],
+      "duration_ms": 350160,
+      "name": "I'm Still Here - Live",
+      "url": "https://open.spotify.com/track/6YA1OHzDi8ISLye2i1j9Ul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Preacher's Wife",
+        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         },
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
         }
       ],
-      "duration_ms": 558920,
-      "name": "Broken People",
-      "url": "https://open.spotify.com/track/3kdBJj2IH9h4urhoAlWWiZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best: Of Gospel for Teens",
-        "url": "https://open.spotify.com/album/2vFGsFLBuKi0VUPLAM91yA"
-      },
-      "artists": [
-        {
-          "name": "Vy Higginsen's Gospel for Teens",
-          "url": "https://open.spotify.com/artist/0w5V7rWrSfTPiD17zr8fak"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Marvelous Things",
-      "url": "https://open.spotify.com/track/1t04vtfBxhwx3jg4wAEsJG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entirely",
-        "url": "https://open.spotify.com/album/3EOJXF3oKhisMB5pYPypAd"
-      },
-      "artists": [
-        {
-          "name": "Christiana Danielle",
-          "url": "https://open.spotify.com/artist/25vjbfdi6sQRA7FZ4yGKBU"
-        },
-        {
-          "name": "Ana L\u00e9lia",
-          "url": "https://open.spotify.com/artist/450LxlI65tn8OqyNr3XmOm"
-        }
-      ],
-      "duration_ms": 199459,
-      "name": "Entirely",
-      "url": "https://open.spotify.com/track/4kJsDbo3dV5Im6t4U8qayw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Broken Instrument",
-        "url": "https://open.spotify.com/album/5NLCrRypAi1t9hwKi6w9jG"
-      },
-      "artists": [
-        {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "ii. Broken Instrument \u2013 I\u2019ve Heard Legends",
-      "url": "https://open.spotify.com/track/767BfP4L7RBUGWgIDpOMpp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lord Have Mercy",
-        "url": "https://open.spotify.com/album/2JpcskhLT7Me6ednUOU1Eq"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        },
-        {
-          "name": "The Caesar Singers",
-          "url": "https://open.spotify.com/artist/7At9ko0LOYnNusnKBXkRV1"
-        }
-      ],
-      "duration_ms": 272686,
-      "name": "Church Is In Mourning",
-      "url": "https://open.spotify.com/track/3ePGcGVtWLbfoqLCJ8N1e5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz"
-      },
-      "artists": [
-        {
-          "name": "Mikael Karlsson",
-          "url": "https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx"
-        },
-        {
-          "name": "Callie Day",
-          "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
-        }
-      ],
-      "duration_ms": 401500,
-      "name": "This Is How I'm Telling It Now",
-      "url": "https://open.spotify.com/track/2V657fsNLpR0Fg6jafgJPA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/6kM7VIaHKHxqbxtLszt1To"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 228340,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/4H3rqFTUsyeMOLhTXjxmDn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roberta Flack & Donny Hathaway",
-        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart to Yours",
-        "url": "https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS"
-      },
-      "artists": [
-        {
-          "name": "Michelle Williams",
-          "url": "https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui"
-        },
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Steal Away to Jesus",
-      "url": "https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Am Changing (The Voice Performance)",
-        "url": "https://open.spotify.com/album/51yNEXzKlKdVMel2EdioGz"
-      },
-      "artists": [
-        {
-          "name": "Davon Fleming",
-          "url": "https://open.spotify.com/artist/44cU8xG3MqvyTzQg1vzL6o"
-        }
-      ],
-      "duration_ms": 154329,
-      "name": "I Am Changing - The Voice Performance",
-      "url": "https://open.spotify.com/track/2PjI2SQ7te9fWw5S9NrIuR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Draw Back The Curtains",
-        "url": "https://open.spotify.com/album/73gXqF81Oe5vA5clGYM6Mn"
-      },
-      "artists": [
-        {
-          "name": "The Full Gospel Revival Centre",
-          "url": "https://open.spotify.com/artist/2oCFfKWAMc0oSrGo4q9BxX"
-        },
-        {
-          "name": "Hope Community Gospel Choir",
-          "url": "https://open.spotify.com/artist/4gHr4RflJlnhskN8hELZvc"
-        }
-      ],
-      "duration_ms": 283843,
-      "name": "Hallelujah Salvation And Glory",
-      "url": "https://open.spotify.com/track/24Fke8uiCaProihCQMSKpu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live: The Worship Experience (2-CD Set)",
-        "url": "https://open.spotify.com/album/75tw00nVDxs0EjNrP6otow"
-      },
-      "artists": [
-        {
-          "name": "Kathy Taylor",
-          "url": "https://open.spotify.com/artist/5cdnrDu9GGZGEiCdWNMfFh"
-        }
-      ],
-      "duration_ms": 328520,
-      "name": "The Corinthian Song",
-      "url": "https://open.spotify.com/track/131CaypTe4DEHe5SXpjxwN"
+      "duration_ms": 296373,
+      "name": "I Love The Lord (with Georgia Mass Choir)",
+      "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
     },
     {
       "added_at": null,
@@ -584,41 +344,41 @@
           "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
         }
       ],
-      "duration_ms": 185439,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I"
+      "duration_ms": 202592,
+      "name": "Satan, We\u2019re Gonna Tear Your Kingdom Down",
+      "url": "https://open.spotify.com/track/5s5URjHYRVt5oyp2gdlB7h"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Never Strangers",
-        "url": "https://open.spotify.com/album/2yE4kuzg9IhPvI4N1XhfuQ"
+        "name": "Keep on Lovin'",
+        "url": "https://open.spotify.com/album/6VCxPM3tsaWlucLhCopLwq"
       },
       "artists": [
         {
-          "name": "Talesha Adams",
-          "url": "https://open.spotify.com/artist/5Gb68jACGLk20SqI3bZEoj"
+          "name": "Resound",
+          "url": "https://open.spotify.com/artist/2qLdK3H2kDrcfcpJXkNVi5"
         }
       ],
-      "duration_ms": 99781,
-      "name": "Power of One",
-      "url": "https://open.spotify.com/track/1lK0Khi4StAU0yiALnotLj"
+      "duration_ms": 332967,
+      "name": "Keep on Lovin'",
+      "url": "https://open.spotify.com/track/1q9G0obfJ0wkFFoYQv03Vm"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Saved",
-        "url": "https://open.spotify.com/album/3HGXEQyNxNIJL0QQhQgELG"
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/5jBiuhg7DDF6GTt8PBPdfX"
       },
       "artists": [
         {
-          "name": "Jac Ross",
-          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+          "name": "Brent Jones & The T.P Mobb",
+          "url": "https://open.spotify.com/artist/1P405UbhhK4IUMucu1aRGO"
         }
       ],
-      "duration_ms": 267500,
-      "name": "Saved",
-      "url": "https://open.spotify.com/track/4bMys7Jba5LrNclvPO1fyJ"
+      "duration_ms": 423733,
+      "name": "Midnight - Beautiful Album Version",
+      "url": "https://open.spotify.com/track/1XdOLrBeMAO3CoOXa9x0PI"
     },
     {
       "added_at": null,
@@ -643,22 +403,254 @@
     {
       "added_at": null,
       "album": {
-        "name": "New British Gospel Vol. 1",
-        "url": "https://open.spotify.com/album/2Lr1SvO94SlHPe3eUQL9aE"
+        "name": "Play (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz"
       },
       "artists": [
         {
-          "name": "NEW BRITISH GOSPEL",
-          "url": "https://open.spotify.com/artist/5NUyvZDtF3qEgNuqYRu8PI"
+          "name": "Mikael Karlsson",
+          "url": "https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx"
         },
         {
-          "name": "I Allen",
-          "url": "https://open.spotify.com/artist/74GKoa439kf1BAkiLcLu5q"
+          "name": "Callie Day",
+          "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
         }
       ],
-      "duration_ms": 295390,
-      "name": "God Got Through",
-      "url": "https://open.spotify.com/track/7ryl16tiJCkRjqdmu8rEZb"
+      "duration_ms": 401500,
+      "name": "This Is How I'm Telling It Now",
+      "url": "https://open.spotify.com/track/2V657fsNLpR0Fg6jafgJPA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Go To The Rock: The Gospel Music Of Whitney Houston",
+        "url": "https://open.spotify.com/album/7lKMNq3VtZKyDsLMlJP3qn"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "His Eye Is On The Sparrow",
+      "url": "https://open.spotify.com/track/65QGMwTh15KhXgqjSCIWSr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/6kM7VIaHKHxqbxtLszt1To"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 248897,
+      "name": "People",
+      "url": "https://open.spotify.com/track/47tNE6JQKJZStSK0AoBl19"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Is Born",
+        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "duration_ms": 413655,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/2vUNNg9K4PAY5o3OBwGUVU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
+        "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
+      },
+      "artists": [
+        {
+          "name": "Daryl Coley",
+          "url": "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
+        }
+      ],
+      "duration_ms": 507893,
+      "name": "Beyond The Veil - Live",
+      "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotline Bling (The Voice Performance)",
+        "url": "https://open.spotify.com/album/4s8ISr86nafuYrrszfPTfz"
+      },
+      "artists": [
+        {
+          "name": "Christiana Danielle",
+          "url": "https://open.spotify.com/artist/25vjbfdi6sQRA7FZ4yGKBU"
+        }
+      ],
+      "duration_ms": 184692,
+      "name": "Hotline Bling - The Voice Performance",
+      "url": "https://open.spotify.com/track/7lKpAkEcYl3Jn8WXpH0a1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/7Bb6rkwU4sc0XPfssMcMbV"
+      },
+      "artists": [
+        {
+          "name": "Trey McLaughlin & The Sounds of Zamar",
+          "url": "https://open.spotify.com/artist/6dOjhrHjzG2rzqhO55jWtB"
+        }
+      ],
+      "duration_ms": 330136,
+      "name": "More Like Him",
+      "url": "https://open.spotify.com/track/0hG291JHJC5su8HRiGhZWa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz"
+      },
+      "artists": [
+        {
+          "name": "Mikael Karlsson",
+          "url": "https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx"
+        },
+        {
+          "name": "Callie Day",
+          "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
+        }
+      ],
+      "duration_ms": 436874,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3qrQELneT3DYFHorpigLwI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspiration",
+        "url": "https://open.spotify.com/album/7DIm0ObqvLqNeGBuO3K3uV"
+      },
+      "artists": [
+        {
+          "name": "Nolan Williams, Jr.",
+          "url": "https://open.spotify.com/artist/6gs1O4Ku0os6sZ1kPD66I7"
+        }
+      ],
+      "duration_ms": 293120,
+      "name": "Take It to the Lord in Prayer",
+      "url": "https://open.spotify.com/track/3kg8P8fbGvuS4U1wo5RGA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roberta Flack & Donny Hathaway",
+        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "He Wants It All",
+        "url": "https://open.spotify.com/album/6w7WeG1qLRozpZpDI0kcRO"
+      },
+      "artists": [
+        {
+          "name": "Forever Jones",
+          "url": "https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "He Wants It All - Acoustic Version",
+      "url": "https://open.spotify.com/track/5bX3vgQue9xORVIJI8eEM7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somebody Loves You Baby (The Four Performance)",
+        "url": "https://open.spotify.com/album/081zLmPtuhgSupkFgcxsYt"
+      },
+      "artists": [
+        {
+          "name": "Ali Caldwell",
+          "url": "https://open.spotify.com/artist/3xzg8cXw64aB2gvz9RGEyK"
+        }
+      ],
+      "duration_ms": 145297,
+      "name": "Somebody Loves You Baby - The Four Performance",
+      "url": "https://open.spotify.com/track/3LiyTc6JXCVHD8lc5Bf5cs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make More Room",
+        "url": "https://open.spotify.com/album/7Cl4hPju2StCAqIX20F3RS"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/5OyIPpir5HJZaAEvqI8DR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Is Born",
+        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "duration_ms": 185439,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keys To My Heart",
+        "url": "https://open.spotify.com/album/2i2a7cE2vHnL64f0Ni3CBN"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        }
+      ],
+      "duration_ms": 405203,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/3sqqOLBZogXER6fjpkamO0"
     },
     {
       "added_at": null,
@@ -670,127 +662,135 @@
         {
           "name": "Melvin Crispell III",
           "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "duration_ms": 192227,
+      "name": "Wonderful Is Your Name",
+      "url": "https://open.spotify.com/track/6IH3XfSDOaVknLHhsIvyuX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T.D. JAKES Presents FINALLY LOOSED",
+        "url": "https://open.spotify.com/album/0ZdjavcVdSEf2QSsSb7JEI"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
         },
         {
-          "name": "Maranda Curtis",
-          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+          "name": "New Breed",
+          "url": "https://open.spotify.com/artist/2Zly7rBPCwrCNxNgYQPoC9"
         }
       ],
-      "duration_ms": 392639,
-      "name": "The Blessing (feat. Maranda Curtis)",
-      "url": "https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL"
+      "duration_ms": 374092,
+      "name": "THE GLORY ft. New Breed",
+      "url": "https://open.spotify.com/track/32PAhZGQ3BkfkaR2mJczFm"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Is Born",
-        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
+        "name": "The Blue Gospel Singers: A Decade of Us",
+        "url": "https://open.spotify.com/album/5KwpwOQrbtXW0CQ0YoWXJ3"
       },
       "artists": [
         {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+          "name": "The Blue Gospel Singers",
+          "url": "https://open.spotify.com/artist/64G3hsfewn9BJMXJkEwr0P"
+        },
+        {
+          "name": "Mario Paduano",
+          "url": "https://open.spotify.com/artist/6Ego0TLyQOW1zZraZUTfZw"
         }
       ],
-      "duration_ms": 202592,
-      "name": "Satan, We\u2019re Gonna Tear Your Kingdom Down",
-      "url": "https://open.spotify.com/track/5s5URjHYRVt5oyp2gdlB7h"
+      "duration_ms": 278453,
+      "name": "Oh Lord How Excellent Is Thy Name",
+      "url": "https://open.spotify.com/track/3A5H5S7z4keCQCT2WrXYAI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Guide My Feet",
-        "url": "https://open.spotify.com/album/0bD4kxbVGJavf264mMyckM"
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS"
       },
       "artists": [
         {
-          "name": "James Abbington",
-          "url": "https://open.spotify.com/artist/0PpvyAA7TrUCaHjsy3fxgD"
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
         }
       ],
-      "duration_ms": 258853,
-      "name": "Jesus, You Brought Me All the Way",
-      "url": "https://open.spotify.com/track/7dQH1NEUQy4xVpI8ievWLE"
+      "duration_ms": 340344,
+      "name": "Make Room",
+      "url": "https://open.spotify.com/track/5IhsQZLczOpo7YBZUnJUud"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Musical Revival",
-        "url": "https://open.spotify.com/album/3tPqPPJ0shDo6aOM5X6I3k"
+        "name": "The Music Of Revelations",
+        "url": "https://open.spotify.com/album/7xJpxaksZBuDlxKIMs83V4"
       },
       "artists": [
         {
-          "name": "Forever Jones",
-          "url": "https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q"
+          "name": "Alvin Ailey American Dance Theater",
+          "url": "https://open.spotify.com/artist/7APkEDTzfTxEijjiIscy5v"
         }
       ],
-      "duration_ms": 206026,
-      "name": "Just The Way",
-      "url": "https://open.spotify.com/track/4bPQhVMnuBKunkFXcw4SK0"
+      "duration_ms": 161386,
+      "name": "You May Run On",
+      "url": "https://open.spotify.com/track/6zF4lV3FkoMKVi1EUmgpIB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Cry Today, Smile Tomorrow",
-        "url": "https://open.spotify.com/album/3s3H5SFIOfJPuKDfYXYXzh"
+        "name": "Anywhere Away from Here",
+        "url": "https://open.spotify.com/album/4TkHVRmcjnx2Ne2L7GwxZ2"
       },
       "artists": [
         {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+          "name": "Willow Seixas",
+          "url": "https://open.spotify.com/artist/2WJdpRD6SobnLOnZ1pfR5P"
+        },
+        {
+          "name": "Dawn Elder",
+          "url": "https://open.spotify.com/artist/53BjifRIYv04PDpnk5XTwG"
         }
       ],
-      "duration_ms": 262480,
-      "name": "Cry Today, Smile Tomorrow",
-      "url": "https://open.spotify.com/track/4Kdrh94mxxZ27bzHUknV6f"
+      "duration_ms": 239250,
+      "name": "Anywhere Away from Here",
+      "url": "https://open.spotify.com/track/4Z3ECBzLJjAWRQFrKk4Vl1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Home, Vol. 1",
-        "url": "https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc"
+        "name": "Break Every Chain (The Voice Performance)",
+        "url": "https://open.spotify.com/album/3U8sjXlo85eB34wU4a3C73"
       },
       "artists": [
         {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+          "name": "Kymberli Joye",
+          "url": "https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy"
         }
       ],
-      "duration_ms": 253833,
-      "name": "Sanctuary/Alpha & Omega/Total Praise",
-      "url": "https://open.spotify.com/track/6Yz3WZzGpyQmcXJq3u5Qp2"
+      "duration_ms": 198019,
+      "name": "Break Every Chain - The Voice Performance",
+      "url": "https://open.spotify.com/track/7Ej0DJ4YbiThcggqZi6vsL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "This Life",
-        "url": "https://open.spotify.com/album/1R1Km0nUQFpsrsVCLRfACE"
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/7Bb6rkwU4sc0XPfssMcMbV"
       },
       "artists": [
         {
-          "name": "Isaiah Templeton",
-          "url": "https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5"
+          "name": "Trey McLaughlin & The Sounds of Zamar",
+          "url": "https://open.spotify.com/artist/6dOjhrHjzG2rzqhO55jWtB"
         }
       ],
-      "duration_ms": 335795,
-      "name": "Everything Will Be Alright",
-      "url": "https://open.spotify.com/track/5ql5iviHkJzUST10gC0NnV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Is Born",
-        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
-      },
-      "artists": [
-        {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
-        }
-      ],
-      "duration_ms": 327742,
-      "name": "Count Your Blessings",
-      "url": "https://open.spotify.com/track/5y8apzJP1xF42QHMjSauvN"
+      "duration_ms": 465581,
+      "name": "On Calvary",
+      "url": "https://open.spotify.com/track/3tjpb6sBjbvpDmITHOir3A"
     },
     {
       "added_at": null,
@@ -811,82 +811,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/7wueq9pnnfjd0SM0SYkfTL"
+        "name": "People",
+        "url": "https://open.spotify.com/album/6kM7VIaHKHxqbxtLszt1To"
       },
       "artists": [
         {
-          "name": "Amber Bullock",
-          "url": "https://open.spotify.com/artist/2UM3duwCMBDd8EykmBNOjw"
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 250666,
-      "name": "Thank You Lord",
-      "url": "https://open.spotify.com/track/1v6xbvbZjqkpUzj5XtQ782"
+      "duration_ms": 228340,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/4H3rqFTUsyeMOLhTXjxmDn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Just Listen",
-        "url": "https://open.spotify.com/album/1zFIIXBC0XKAASSFhJbRgk"
+        "name": "New British Gospel Vol. 1",
+        "url": "https://open.spotify.com/album/2Lr1SvO94SlHPe3eUQL9aE"
       },
       "artists": [
         {
-          "name": "Lexi",
-          "url": "https://open.spotify.com/artist/54B6AYk5Vcn1Ajc3XaIuBH"
+          "name": "NEW BRITISH GOSPEL",
+          "url": "https://open.spotify.com/artist/5NUyvZDtF3qEgNuqYRu8PI"
+        },
+        {
+          "name": "I Allen",
+          "url": "https://open.spotify.com/artist/74GKoa439kf1BAkiLcLu5q"
         }
       ],
-      "duration_ms": 253493,
-      "name": "In The Room",
-      "url": "https://open.spotify.com/track/1i4YrrOF2NcXUDZMxnOSt0"
+      "duration_ms": 295390,
+      "name": "God Got Through",
+      "url": "https://open.spotify.com/track/7ryl16tiJCkRjqdmu8rEZb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Come Walk With Me",
-        "url": "https://open.spotify.com/album/4C0ByaAwvVtouMqWs5MRaq"
+        "name": "Draw Back The Curtains",
+        "url": "https://open.spotify.com/album/73gXqF81Oe5vA5clGYM6Mn"
       },
       "artists": [
         {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 306293,
-      "name": "Beams Of Heaven",
-      "url": "https://open.spotify.com/track/641RXBhAmRVgJwACuy2SuK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reach",
-        "url": "https://open.spotify.com/album/2eocqjcjHCm4aE4f9gX9CD"
-      },
-      "artists": [
+          "name": "The Full Gospel Revival Centre",
+          "url": "https://open.spotify.com/artist/2oCFfKWAMc0oSrGo4q9BxX"
+        },
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+          "name": "Hope Community Gospel Choir",
+          "url": "https://open.spotify.com/artist/4gHr4RflJlnhskN8hELZvc"
         }
       ],
-      "duration_ms": 223396,
-      "name": "Reach",
-      "url": "https://open.spotify.com/track/5YpUWchb0Zs9Rkp3lvgEAY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Is Born",
-        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
-      },
-      "artists": [
-        {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
-        }
-      ],
-      "duration_ms": 252619,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5p4aqYZlL44hI0imyk7AV2"
+      "duration_ms": 283843,
+      "name": "Hallelujah Salvation And Glory",
+      "url": "https://open.spotify.com/track/24Fke8uiCaProihCQMSKpu"
     }
   ],
   "unique_name": "Callie Day Radio",

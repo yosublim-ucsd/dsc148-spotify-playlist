@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K'onga & Luck Ra.",
-  "num_followers": 599818,
+  "num_followers": 600164,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTQ1YWZiMDNjYTJiY2Q5N2Q5NDJlNmFiYmQwY2E1ZDMxYzE4ZWI5",
+  "snapshot_id": "MCxlOWE2ZmNjZGM5YjhmZDZkMGZlMjRlNGIyMmRiYjU4YWNlYzM0ZjQz",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "No Me Pidan Que Baje el Volumen",
+        "url": "https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 268199,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/5zvsu3ADMUm96R5XY3Xd7G"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Somos lo Que Fuimos (Remix)",
         "url": "https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 233287,
       "name": "Somos lo Que Fuimos - Remix",
       "url": "https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "No Me Pidan Que Baje el Volumen",
-        "url": "https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 268199,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/5zvsu3ADMUm96R5XY3Xd7G"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Despechada (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 172585,
+      "name": "Despechada (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Despechada (Cover) [En Vivo]",
-        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
+        "name": "Me Levant\u00e9",
+        "url": "https://open.spotify.com/album/2mHs7EdBXg7dMkFvDMZC9d"
       },
       "artists": [
         {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         }
       ],
-      "duration_ms": 172585,
-      "name": "Despechada (Cover) - En Vivo",
-      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
+      "duration_ms": 208709,
+      "name": "Me Levant\u00e9",
+      "url": "https://open.spotify.com/track/0VyS8re7IhTDbpZmKrKfv2"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -707,22 +723,6 @@
       "duration_ms": 177250,
       "name": "Libertad Provisoria",
       "url": "https://open.spotify.com/track/7uipuYYQE5kAaiGVC4lxqM"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Me Levant\u00e9",
-        "url": "https://open.spotify.com/album/2mHs7EdBXg7dMkFvDMZC9d"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 208709,
-      "name": "Me Levant\u00e9",
-      "url": "https://open.spotify.com/track/0VyS8re7IhTDbpZmKrKfv2"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Te Suena?",
-        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
+        "name": "Tu Amante En Secreto",
+        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
       },
       "artists": [
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Mi Cama No Habla",
-      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
+      "duration_ms": 224680,
+      "name": "Piensa en M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -803,18 +803,50 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Tu Amante En Secreto",
-        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
+        "name": "Inigualable",
+        "url": "https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2"
       },
       "artists": [
         {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Piensa en M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
+      "duration_ms": 283933,
+      "name": "Te Pido Que La Dejes",
+      "url": "https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Ven Pa' La Rumba",
+        "url": "https://open.spotify.com/album/2kqD9KotSt8IaeIrwqAIJi"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/1l3xyA0rIKdin3AKyDyVDj"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Te Suena?",
+        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Mi Cama No Habla",
+      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -835,22 +867,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Inigualable",
-        "url": "https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2"
-      },
-      "artists": [
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Te Pido Que La Dejes",
-      "url": "https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Trilog\u00eda: 1er acto",
         "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 373773,
       "name": "El Federal",
       "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Ven Pa' La Rumba",
-        "url": "https://open.spotify.com/album/2kqD9KotSt8IaeIrwqAIJi"
-      },
-      "artists": [
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/1l3xyA0rIKdin3AKyDyVDj"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Paloma loca",
+      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "No Seas Cruel",
         "url": "https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 162253,
       "name": "Fina",
       "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Paloma loca",
-      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Que Agon\u00eda / Carne y Hueso",
-        "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 291313,
-      "name": "Que Agonia - Carne y Hueso",
-      "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Beso a Beso (con La Mona)",
         "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 303253,
       "name": "Beso a beso",
       "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Que Agon\u00eda / Carne y Hueso",
+        "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 291313,
+      "name": "Que Agonia - Carne y Hueso",
+      "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Eran dos locos de amor",
-        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes del Cuarteto",
-          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
-        }
-      ],
-      "duration_ms": 169496,
-      "name": "Eran dos locos de amor",
-      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Antologia Carlitos La Mona Jimenez",
         "url": "https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 245053,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Eran dos locos de amor",
+        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+        }
+      ],
+      "duration_ms": 169496,
+      "name": "Eran dos locos de amor",
+      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1411,22 +1411,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
+        "name": "Aunque Sea En Otra Vida",
+        "url": "https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo"
       },
       "artists": [
         {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         },
         {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 242950,
-      "name": "Perfecto Idiota",
-      "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
+      "duration_ms": 231509,
+      "name": "Aunque Sea En Otra Vida",
+      "url": "https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1447,18 +1447,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
       },
       "artists": [
         {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         }
       ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
+      "duration_ms": 242950,
+      "name": "Perfecto Idiota",
+      "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1483,6 +1487,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+      },
+      "artists": [
+        {
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Espectacular Monada",
         "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 227866,
       "name": "Dame un Poco Mas",
       "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Aunque Sea En Otra Vida",
-        "url": "https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 231509,
-      "name": "Aunque Sea En Otra Vida",
-      "url": "https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK"
     },
     {
       "added_at": "2023-05-12 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Queens of the Stone Age
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,757 likes - 406 songs - 1 day 2 hr 8 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,764 likes - 406 songs - 1 day 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 61 | [Dagger Dragger](https://open.spotify.com/track/3I0iaBY4eNmJJlCgu86ppw) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Dagger Dragger](https://open.spotify.com/album/6qHj91jBNyU856zUf8O6yb) | 4:00 |
 | 62 | [Shot Down](https://open.spotify.com/track/6rvlbf5Rle9exopdtBY3cL) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/25RwbMetO9mwESyZvfIRAB) | 1:49 |
 | 63 | [Best Before: Death](https://open.spotify.com/track/2uTahQV0g3RtBUysdYdXLZ) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Best Before: Death](https://open.spotify.com/album/5SQIF1zQZk1kmiReGa3Kh7) | 3:33 |
-| 64 | [Eternal Spirits](https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Eternal Spirits](https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb) | 3:41 |
+| 64 | [Eternal Spirits](https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Eternal Spirits](https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb) | 3:35 |
 | 65 | [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 |
 | 66 | [Honed Blade](https://open.spotify.com/track/5cLTEtlFjIhQynuwfngPwp) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Honed Blade](https://open.spotify.com/album/12U9KgMnYLJHd1UkZzdOJN) | 1:40 |
 | 67 | [Reckoning](https://open.spotify.com/track/4xcfmHe5mRVzPA0tdKJltA) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Reckoning](https://open.spotify.com/album/5SfCfODkHePAgQaLMgnmWs) | 7:52 |

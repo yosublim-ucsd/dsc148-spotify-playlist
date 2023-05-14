@@ -498,7 +498,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 177524,
       "name": "Afraid To Feel",
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
@@ -982,6 +982,28 @@
       "duration_ms": 263440,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
+    },
+    {
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "album": {
@@ -1718,7 +1740,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -3324,7 +3346,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 194709,
       "name": "Calendar",
       "url": "https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ"
@@ -4618,7 +4640,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 224803,
       "name": "Curtains",
       "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
@@ -4986,7 +5008,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -9918,6 +9940,24 @@
       "duration_ms": 278946,
       "name": "I Wish It Could Be Christmas Everyday",
       "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
+    },
+    {
+      "album": {
+        "name": "I Wrote A Song",
+        "url": "https://open.spotify.com/album/7JTww9J0sqx8tqm872Nsnu"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165151,
+      "name": "I Wrote A Song",
+      "url": "https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn"
     },
     {
       "album": {
@@ -18228,7 +18268,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx"
@@ -22076,6 +22116,24 @@
       "duration_ms": 176815,
       "name": "Voil\u00e0",
       "url": "https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/4inPxqHrj9VmjLx5JCDCV4"
     },
     {
       "album": {

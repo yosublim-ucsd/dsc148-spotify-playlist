@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 202191,
       "name": "ABISSALE",
       "url": "https://open.spotify.com/track/3U8TFdchz8dK1nYYgZgd9f"
@@ -5612,7 +5612,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 230922,
       "name": "CRUDELIA - I nervi",
       "url": "https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg"
@@ -7164,7 +7164,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 224993,
       "name": "Duemilaminuti",
       "url": "https://open.spotify.com/track/59nchDV5vZqIP0m1DgpSuS"
@@ -12063,6 +12063,28 @@
     },
     {
       "album": {
+        "name": "LA FINE DEL MONDO",
+        "url": "https://open.spotify.com/album/62zvNsNxirBdtlb1YQAkX1"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        },
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "LA FINE DEL MONDO",
+      "url": "https://open.spotify.com/track/3ZG2jPvRmQDz1LAmpUzVZj"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/1CKeSCEj384RQmAUhcDUlw"
       },
@@ -14634,7 +14656,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 306260,
       "name": "ME STAJE APPENNENN' AM\u00d2",
       "url": "https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm"
@@ -19203,6 +19225,32 @@
     },
     {
       "album": {
+        "name": "Quarto di Bue",
+        "url": "https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144992,
+      "name": "Porto il Commerciale (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/63sThiYV3Cn2S2r1nRLzjN"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -21457,6 +21505,32 @@
     },
     {
       "album": {
+        "name": "Quarto di Bue",
+        "url": "https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151579,
+      "name": "Sintetico (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/4ASEODqcUCLIOY1owcgl45"
+    },
+    {
+      "album": {
         "name": "Untouchable",
         "url": "https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC"
       },
@@ -22362,6 +22436,32 @@
       "duration_ms": 272393,
       "name": "Step Into Christmas",
       "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
+    },
+    {
+      "album": {
+        "name": "Quarto di Bue",
+        "url": "https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166367,
+      "name": "Steppers (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/0zILnH8SN6zOrCtfuH2YGR"
     },
     {
       "album": {

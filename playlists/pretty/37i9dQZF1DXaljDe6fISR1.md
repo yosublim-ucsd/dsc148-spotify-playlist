@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,223 likes - 74 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,298 likes - 74 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 21 | [A Missiva](https://open.spotify.com/track/18xHNWWJjSidNHJMUNgyPq) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [A Missiva](https://open.spotify.com/album/4Ckrl8zQcpGx5dLJ7L7wkn) | 5:43 |
 | 22 | [Rap É Compromisso](https://open.spotify.com/track/4WZfgKQ9WGPsa25rHVrL3x) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 4:23 |
 | 23 | [L\. Gelada \- 3 da Madrugada](https://open.spotify.com/track/32mcFZ8uedc5Wd5xoZsNXe) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Declaração de Guerra](https://open.spotify.com/album/0qMoXv72zaGupEdMRJmjNg) | 7:21 |
-| 24 | [A Segunda Chance](https://open.spotify.com/track/2ACJ3FD4AYYoulkzAOJxHV) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [A Segunda Chance](https://open.spotify.com/album/28kO3Vpk51BEQOCVaHglhW) | 4:47 |
+| 24 | [A Segunda Chance](https://open.spotify.com/track/6mlfPRn5tuqkX57PbqIuuv) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [A Segunda Chance](https://open.spotify.com/album/0TQY04GHOOuo1bPAXYxE97) | 4:47 |
 | 25 | [Lágrimas do Palhaço](https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | ["...Entre..."](https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX) | 3:54 |
 | 26 | [Babylon By Gus](https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:16 |
 | 27 | [O Mundo é Nosso](https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 3:43 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 73 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
 | 74 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/1Rn7tUyMiTVxlu4H53cAzV) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe\)](https://open.spotify.com/album/67NEEqfjTcla2g5k9TP2rZ) | 4:01 |
 
-Snapshot ID: `MCxhZjkyZDBjNDEzZjNmNGEzNDU1ZjUzZDFiNTA1MjM5ZDdhMGI5NmNk`
+Snapshot ID: `MCw4OTQ3MGViMzAzYWMxOWIzNmQwY2FhMGZkZDE3ZDIzZjg4NTNhYzM1`

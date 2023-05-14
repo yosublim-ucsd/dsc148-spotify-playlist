@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 
 > Our editors’ picks for the best of Rock in Canada in 2022.<br/> Cover: TALK \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,693 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,710 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 | 48 | [Jackie Down The Line](https://open.spotify.com/track/4DNbKvO9fI8bjnxis4yddk) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:01 |
 | 49 | [Matilda](https://open.spotify.com/track/2OH3Yc4xqr76ld5Xnjzd3v) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:51 |
 | 50 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
-| 51 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 |
+| 51 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
 | 52 | [It'll Hurt](https://open.spotify.com/track/1gaVMd4SNDKJLKNfMnhd8R) | [The Flatliners](https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB) | [New Ruin](https://open.spotify.com/album/7C9cX1cxSbHnzGPBQVQfeG) | 3:50 |
 | 53 | [No Escape From Now \(feat\. Tony Iommi\)](https://open.spotify.com/track/3EJAW7s7KWyiJvmKAtDTgA) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 6:46 |
 | 54 | [Broken](https://open.spotify.com/track/3tnKdIkmqLiL9UKxxqjM8C) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Broken](https://open.spotify.com/album/1ADbmheBGdOcaAIF44h4Yu) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 | 74 | [My Limitations](https://open.spotify.com/track/3jbBgWsDIvqYeF1Du6z6EE) | [The Zolas](https://open.spotify.com/artist/0BVWMc7JEHdh2Ku6xgKuYL) | [My Limitations](https://open.spotify.com/album/55P9us6DOduyACzkWhjMJk) | 3:01 |
 | 75 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 |
 
-Snapshot ID: `MCxkNjg3ZTJmMmJlNjJjODFlNDE4ODcwMmUzZTk3ZTVlMzJmODZhOGUw`
+Snapshot ID: `MCw1ZGU1NWQ0NGVhYTFlNjM1MWUyNWNjOWQ4NTE1M2IwZTU4ODk4MmZi`

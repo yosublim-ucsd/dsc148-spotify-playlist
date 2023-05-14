@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-283 songs - 19 hr 55 min
+284 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Crux Australis](https://open.spotify.com/track/1pWWrnSxMW5DniwdPXDE3B) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0), [Man After Man](https://open.spotify.com/artist/1jxHgQ48lEj9OZ7o3y1HfQ), [Darío Abdala](https://open.spotify.com/artist/7CfkX18xoIBT9BAFZdh1m3) | [Crux Australis](https://open.spotify.com/album/5NnNrnljeZVpPsW2lPfg4M) | 5:06 | 2023-02-28 | 2023-04-19 |
 | [Cuando Canto Grito](https://open.spotify.com/track/6GuRkCEMRSf0FniWGOCL0f) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/6JheZZQ496DfWRYzsziz6S) | 5:41 | 2022-01-04 | 2022-07-12 |
 | [Cumbia en Lejanía](https://open.spotify.com/track/0KK7jMMHaHs7Hq7sQ1xl0i) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Canción para un amigo EP](https://open.spotify.com/album/4Y72rXWdSgWLZ9w8q3sruJ) | 4:50 | 2022-01-04 | 2022-07-11 |
+| [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 | 2022-06-15 |  |
 | [Cumbia Espacial](https://open.spotify.com/track/7eVJeKvIDJxypSLzzzcBdz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/22Q8xEKl3NoUnT8EdJBMb2) | 4:05 | 2022-01-04 | 2022-07-08 |
 | [Cumbia Espacial](https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica \(Deluxe Version\)](https://open.spotify.com/album/2clte0oolrkkXFTJy72us2) | 4:05 | 2022-06-15 | 2023-05-01 |
 | [Cumbia Espectro](https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Cumbia Espectro](https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv) | 3:36 | 2023-02-14 | 2023-03-18 |
@@ -182,7 +183,7 @@
 | [Negro Santo](https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 4:58 | 2022-04-05 | 2022-07-29 |
 | [Nineteen Hundred and Eighty Five](https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 5:40 | 2022-01-04 |  |
 | [Noble Metals](https://open.spotify.com/track/2L9nqgjFZNLG1anj0c4AUk) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Starry Nights](https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH) | 3:32 | 2022-11-17 | 2023-01-03 |
-| [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 | 2022-01-04 |  |
+| [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 | 2022-01-04 | 2023-05-14 |
 | [Nosotros También](https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:26 | 2022-06-15 | 2023-04-30 |
 | [Nosotros También](https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nosotros También](https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL) | 3:26 | 2022-01-04 | 2022-07-27 |
 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-12 | 2023-05-09 |

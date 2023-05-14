@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,119 likes - 94 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,142 likes - 94 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 66 | [Undo \(Back To My Heart\)](https://open.spotify.com/track/1rC73SzixUBSQL9Ldf5ZOr) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 3:17 |
 | 67 | [gangster romanse \(feat\. Magdi\)](https://open.spotify.com/track/1ftdrKxNslW2b60trc2inw) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Magdi](https://open.spotify.com/artist/37TkImYSoPGZ9LDo0Frf2J) | [sukkerspinn & hodepine \(Del 2\)](https://open.spotify.com/album/1liGHJczFXltMS2R4kqV8R) | 2:43 |
 | 68 | [So Bad \(feat\. HAIM\)](https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:36 |
-| 69 | [Coco Blood](https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Coco Blood](https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k) | 3:35 |
-| 70 | [I Don't Think We Should Wait](https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H) | 5:00 |
+| 69 | [I Don't Think We Should Wait](https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H) | 5:00 |
+| 70 | [Coco Blood](https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Coco Blood](https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k) | 3:35 |
 | 71 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 |
 | 72 | [Hair Down \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/5nh0W1TTi4LxxxVYAVJCh1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Hair Down \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/4rgYc1sBdFQg2bOJvXSd2I) | 3:36 |
 | 73 | [Avenue](https://open.spotify.com/track/7b7vlu6R3ww0Hzvz50GQDh) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [Avenue](https://open.spotify.com/album/3xCkKt8x3YWLpEMOVLX7vx) | 3:16 |
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 87 | [Booty](https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [Canto](https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN) | [Booty](https://open.spotify.com/album/1wZUA48qppx695AaNY97a4) | 2:20 |
 | 88 | [Worst Way](https://open.spotify.com/track/4dFd9I7wVuNJuFaU1De0Hn) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF), [themes](https://open.spotify.com/artist/7DLvUg0aKwnnUVY8m233DI), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [Worst Way](https://open.spotify.com/album/5UFZy1cSlNoyFTvJFaWnQz) | 2:52 |
 | 89 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
-| 90 | [Lost & Found](https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Lost & Found](https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X) | 3:46 |
-| 91 | [Stardust](https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT) | [Dan Bravo](https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Stardust](https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O) | 2:53 |
+| 90 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 |
+| 91 | [Lost & Found](https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Lost & Found](https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X) | 3:46 |
 | 92 | [Compromise \(feat\. Sabrina Claudio\)](https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:05 |
-| 93 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 |
-| 94 | [I Blodet \(feat\. Natnael\)](https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Natnael](https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM) | [TyrTape \(Deluxe\)](https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN) | 3:20 |
+| 93 | [Stardust](https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT) | [Dan Bravo](https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Stardust](https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O) | 2:53 |
+| 94 | [Sympati For Djevelen](https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W) | [L.U:N.A](https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk) | [Sympati For Djevelen](https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r) | 3:03 |
 
-Snapshot ID: `MCxjM2UwYmRjMmQwOTQ1MmMxOGRmN2EzMDEyYzE5MTFhZWExZjJmODUx`
+Snapshot ID: `MCw3OWUxNzYyOGYxYmEzNTAwNDI1Nzc0YzAzYzViYTNhNjVjMTM4NGIx`

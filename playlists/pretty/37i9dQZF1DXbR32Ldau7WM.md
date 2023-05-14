@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: Ling toshite sigure\(凛として時雨\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,286 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,374 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 24 | [Let Me Let You Go](https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:00 |
 | 25 | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 |
 | 26 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 |
-| 27 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
+| 27 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 |
 | 28 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 |
-| 29 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 |
+| 29 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
 | 30 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 |
 | 31 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |
 | 32 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 |
-| 33 | [Magic](https://open.spotify.com/track/2buW01JGz5GXaLvf4DJ0iM) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Magic](https://open.spotify.com/album/3yGdkifwZ60aVBhrDYylmJ) | 3:44 |
+| 33 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
 | 34 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
-| 35 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
+| 35 | [Magic](https://open.spotify.com/track/2buW01JGz5GXaLvf4DJ0iM) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Magic](https://open.spotify.com/album/3yGdkifwZ60aVBhrDYylmJ) | 3:44 |
 | 36 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
 | 37 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 |
 | 38 | [BackBeat](https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [BackBeat](https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 49 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
 | 50 | [Memorable](https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Memorable](https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o) | 3:13 |
 
-Snapshot ID: `MCw0YzdmM2M2MTFmMmI2ODM0NGM0YTFkMmUyYmYxODcxYjMwZWRjYjI2`
+Snapshot ID: `MCwwZmJmZDhhNzg1ZTZiMDIwZjdmM2QzNWVkY2E3NjYxMjYyODczZWI0`

@@ -3791,6 +3791,28 @@
     },
     {
       "album": {
+        "name": "Damn Girl",
+        "url": "https://open.spotify.com/album/2wuM0XTwdK9YxqCylLW90B"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        },
+        {
+          "name": "Mat Duo",
+          "url": "https://open.spotify.com/artist/3MnHIMag9x5bhfjijnboUz"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Damn Girl",
+      "url": "https://open.spotify.com/track/2nUlmWTApV6PdzUUATOawa"
+    },
+    {
+      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -4014,6 +4036,28 @@
       "duration_ms": 155790,
       "name": "Danse Med Meg Selv",
       "url": "https://open.spotify.com/track/22qJmwCFmqIuk85u9nWgKO"
+    },
+    {
+      "album": {
+        "name": "Danse p\u00e5 panseret",
+        "url": "https://open.spotify.com/album/3oKQTXaW1WRLsWcf3LH57F"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "BEK & Moberg",
+          "url": "https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Danse p\u00e5 panseret",
+      "url": "https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG"
     },
     {
       "album": {
@@ -5831,6 +5875,28 @@
     },
     {
       "album": {
+        "name": "tanker blir ting",
+        "url": "https://open.spotify.com/album/5YPHiDi5V5r4a8QVK8nCVX"
+      },
+      "artists": [
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        },
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184453,
+      "name": "evig og alltid (med Emma Steinbakken)",
+      "url": "https://open.spotify.com/track/7BUb5sLSVC8xIE54NN8Vx1"
+    },
+    {
+      "album": {
         "name": "Extremes",
         "url": "https://open.spotify.com/album/7h1PPe6YeLHGSu9gLRzQLj"
       },
@@ -5882,7 +5948,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
@@ -6836,6 +6902,24 @@
       "duration_ms": 133072,
       "name": "Fuckboy",
       "url": "https://open.spotify.com/track/1GGk3Q73VX2eBLQ2Yp5Kr2"
+    },
+    {
+      "album": {
+        "name": "Fy Faen S\u00e5 Deilig",
+        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156913,
+      "name": "Fy Faen S\u00e5 Deilig",
+      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
     },
     {
       "album": {
@@ -10058,7 +10142,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 137727,
       "name": "Ikv\u00e4ll Igen",
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
@@ -10658,7 +10742,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 191986,
       "name": "Jeg Vet",
       "url": "https://open.spotify.com/track/45aJ5ZyPgSORaMPdm8tjev"
@@ -11496,6 +11580,32 @@
       "duration_ms": 164195,
       "name": "Kriminell (feat. Lars Vaular)",
       "url": "https://open.spotify.com/track/3Vj7sTCwtzB78YZkHk7e8T"
+    },
+    {
+      "album": {
+        "name": "K\u00f8benhavn (feat. Arif Murakami & Bargee)",
+        "url": "https://open.spotify.com/album/7nk0l6LqD5bjWHZNfRuMJ9"
+      },
+      "artists": [
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Bargee",
+          "url": "https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178802,
+      "name": "K\u00f8benhavn (feat. Arif Murakami & Bargee)",
+      "url": "https://open.spotify.com/track/1JnyapmYsRfnirBjc5xorh"
     },
     {
       "album": {
@@ -13534,7 +13644,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
@@ -16471,6 +16581,24 @@
     },
     {
       "album": {
+        "name": "Rekk opp h\u00e5nda",
+        "url": "https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180126,
+      "name": "Rekk opp h\u00e5nda",
+      "url": "https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI"
+    },
+    {
+      "album": {
         "name": "RELATIONS",
         "url": "https://open.spotify.com/album/198WTxiABRYFSvfUdzPQxh"
       },
@@ -17736,7 +17864,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
@@ -19556,7 +19684,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 201424,
       "name": "The Ballet Girl",
       "url": "https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1"

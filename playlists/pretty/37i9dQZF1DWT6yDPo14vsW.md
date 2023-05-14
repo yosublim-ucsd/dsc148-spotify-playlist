@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,804 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,918 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 43 | [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 |
 | 44 | [Evidencias](https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Silueta](https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0) | 4:16 |
 | 45 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 |
-| 46 | [Cuándo](https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Galeria Caribe](https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y) | 4:34 |
-| 47 | [Cosas De La Vida](https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:48 |
+| 46 | [Cosas De La Vida](https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:48 |
+| 47 | [Cuándo](https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Galeria Caribe](https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y) | 4:34 |
 | 48 | [Gotas De Agua Dulce](https://open.spotify.com/track/0Xn1VqBjoL4PAGxyatEO0Z) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Vida Es Un Ratico](https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY) | 3:08 |
 | 49 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 50 | [Abrázame](https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:50 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 55 | [Me va a extrañar \(aka Unchain My Heart\)](https://open.spotify.com/track/35436ddSANnATz1eBT5FAY) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:58 |
 | 56 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 |
 | 57 | [Cosas del Amor \(with Vikki Carr\)](https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 4:17 |
-| 58 | [A Medio Vivir](https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:41 |
-| 59 | [La Complicidad](https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 6:04 |
+| 58 | [La Complicidad](https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 6:04 |
+| 59 | [A Medio Vivir](https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:41 |
 | 60 | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA) | 3:47 |
 | 61 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [É Por Amor](https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO) | 4:32 |
 | 62 | [Aquello que me diste](https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 99 | [Tal Vez](https://open.spotify.com/track/7dfcQMlkSp40GntNwX98Z6) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [17](https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE) | 4:39 |
 | 100 | [Labios Compartidos](https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Six Pack: Maná \- EP](https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28) | 5:17 |
 
-Snapshot ID: `MCwwZTAwNDhlNjY4YjgzYWZhOWM4OGZkYjFmZDViYzM4NjcwNGM4MDUw`
+Snapshot ID: `MCwxNWZmZmMxMTM3MGYwMzkzN2IzYjZmNThmNmFkZjc2YzY3OTYxNTcy`

@@ -4,7 +4,7 @@
 
 > Just chill.
 
-488 songs - 1 day 4 hr 2 min
+489 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [3Hands / Divine Hand I](https://open.spotify.com/track/6HA8GGGDkEzJH1OWU5mRGg) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Rare Pleasure](https://open.spotify.com/album/6lm8H2cw604eBpgt14BJ0b) | 3:33 | 2021-06-17 | 2022-01-22 |
 | [4:38am](https://open.spotify.com/track/1mCS2aMR3hGZV1stAkjLcV) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [The Color of Nothing](https://open.spotify.com/album/7n7wRUaQdJuYNxmssLeybA) | 3:46 | 2020-10-16 | 2022-01-22 |
 | [4:38am](https://open.spotify.com/track/778rI4lJeJKKy34mAeq4KA) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [The Color of Nothing](https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF) | 3:46 | 2022-04-29 |  |
-| [About You](https://open.spotify.com/track/3VZxoBsfipwZTyb0cIvIPW) | [Afroham](https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [About You](https://open.spotify.com/album/71gKjKg1GfdCM7rtEWc48o) | 2:56 | 2023-01-13 |  |
+| [About You](https://open.spotify.com/track/3VZxoBsfipwZTyb0cIvIPW) | [Afroham](https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [About You](https://open.spotify.com/album/71gKjKg1GfdCM7rtEWc48o) | 2:56 | 2023-01-13 | 2023-05-14 |
 | [Absence of You](https://open.spotify.com/track/3fk4yTACtSqCzDol4mBPdt) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Absence of You](https://open.spotify.com/album/0kg5NHyGzMboxjrWtWOo00) | 3:14 | 2022-08-19 |  |
 | [Absence of You](https://open.spotify.com/track/5XgbACXBnPWEKSTOstpVLT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Absence of You](https://open.spotify.com/album/5zgJnzHWfKZ4vifW7gMQJv) | 3:14 | 2022-01-21 | 2022-10-13 |
 | [ACOUSCOUS](https://open.spotify.com/track/64lmE7hixqSVxMsk5nvG8e) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [ACOUSCOUS](https://open.spotify.com/album/03OuqhFoYm9Odja6riHELI) | 3:57 | 2021-03-11 | 2022-04-29 |
@@ -414,6 +414,7 @@
 | [Sunset For The Dead](https://open.spotify.com/track/3E2qVqPW3FS2LXzCbss9yq) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Glasshead](https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz) | 3:23 | 2023-03-21 |  |
 | [Supalonely \(Lownely\)](https://open.spotify.com/track/0hVZCUZKWsWFU6i5zlRZZr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Supalonely \(Lownely\)](https://open.spotify.com/album/7lkrgPpSZTMcgNi2yHdQ7E) | 3:19 | 2020-05-08 | 2022-08-20 |
 | [Supermoon](https://open.spotify.com/track/0JfYy60f4RN77F04fReXmW) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Supermoon](https://open.spotify.com/album/2Op7mnPBZOqeObaeuZJcZ0) | 4:12 | 2023-03-31 |  |
+| [supernatural thing](https://open.spotify.com/track/0Jp7KkwghEAMIWFGsyDv4A) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [supernatural thing](https://open.spotify.com/album/3VTTw5I1Fkfyn1xFlldFBP) | 3:10 | 2023-05-05 |  |
 | [Surf's Up, I'm Drowning](https://open.spotify.com/track/3hsBnnID20GgUjgY2nqkue) | [Jesse Aicher](https://open.spotify.com/artist/4fpOVrO6DmQdxQJSqiGIqQ), [Westerns](https://open.spotify.com/artist/4dYYNJWW0gqWLVGIfrxEsl) | [Surf's Up, I'm Drowning](https://open.spotify.com/album/0SxR5giaDLkKsmFLYTSXgP) | 2:45 | 2020-02-28 | 2022-01-22 |
 | [Table for Two](https://open.spotify.com/track/3LP1irSo3F7IgpiNN9h0GP) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/1YZRsQcKt5TLmXSxZ2ZHVa) | 3:22 | 2022-04-29 | 2022-10-14 |
 | [Table for Two](https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD) | 3:22 | 2022-08-19 | 2023-04-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,626 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,749 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 9 | [No Shoes in the Coffee Shop \(Or Socks\)](https://open.spotify.com/track/67BoLcQZhPok0yVe9J0Br8) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 3:20 |
 | 10 | [PARTY ON MY DEATHBED](https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [PARTY ON MY DEATHBED](https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB) | 3:28 |
 | 11 | [Lovesick \(feat\. OmenXIII\)](https://open.spotify.com/track/7l6IaO7sLMyvHfuqz2EkAO) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Lovesick \(feat\. OmenXIII\)](https://open.spotify.com/album/48nf5ENyYy7vnZ0dILcyu4) | 2:30 |
-| 12 | [I Can't Take It](https://open.spotify.com/track/2sXbIjNt3TiYbZi6Dn9ZNg) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Aaron Gillespie of Underoath](https://open.spotify.com/artist/04A2VLhqkl5uVeGqVYa3fQ) | [I Can't Take It](https://open.spotify.com/album/4KtBKPNEhb9m7sO2YKhblT) | 2:52 |
+| 12 | [I Can't Take It](https://open.spotify.com/track/2sXbIjNt3TiYbZi6Dn9ZNg) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [I Can't Take It](https://open.spotify.com/album/4KtBKPNEhb9m7sO2YKhblT) | 2:52 |
 | 13 | [omg](https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [omg](https://open.spotify.com/album/3EjgHtmVkvOdn2OM5vAOQm) | 2:34 |
 | 14 | [youth+](https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["XCAPE", PT\. 1 JEAN DAWSON AS "PHOENIX"](https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV) | 2:45 |
 | 15 | [Lack Of Attention](https://open.spotify.com/track/4RAGyLQOh2pEbJESFCtQcp) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Lack Of Attention](https://open.spotify.com/album/3LScXcitw1L8DrzZIfbUzN) | 3:07 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 23 | [Moon River](https://open.spotify.com/track/2WWAgtwFPQlG3tkeVE3XaX) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Moon River](https://open.spotify.com/album/0Kct4rqr04c01LrmXmaFZh) | 5:04 |
 | 24 | [The Deep End](https://open.spotify.com/track/46vIG0pxtuxyLEnJgAzm3R) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [The Deep End](https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8) | 3:17 |
 | 25 | [Like a Pastime](https://open.spotify.com/track/588LgUYhmZQtPBECqmUnVd) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Like a Pastime](https://open.spotify.com/album/3cpP6rvd8OdmCf7AEz5GtX) | 3:45 |
-| 26 | [SHITHOUSE \- Single Edit](https://open.spotify.com/track/0TTjfBzJtN2XRcoAd74WG3) | [BIG SPECIAL](https://open.spotify.com/artist/5yo8ZMnJhBOiFf39eMNvEm) | [SHITHOUSE](https://open.spotify.com/album/7JL8Mr8HzDpAEPsXcotQ2m) | 3:47 |
+| 26 | [SHITHOUSE \- Single Edit](https://open.spotify.com/track/0TTjfBzJtN2XRcoAd74WG3) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [SHITHOUSE](https://open.spotify.com/album/7JL8Mr8HzDpAEPsXcotQ2m) | 3:47 |
 | 27 | [Table for One](https://open.spotify.com/track/1chIsmsv3FKoaBwIbJPT1g) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Table for One / Don’t Say I Didn’t Warn You](https://open.spotify.com/album/4FT4jduCNW4dZiYkyD5jDq) | 3:09 |
 | 28 | [Plastic](https://open.spotify.com/track/6HiBjDRQapX1hsMRT7smAJ) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Over My Dead Body EP](https://open.spotify.com/album/1d5UIg8hyEyIi7olXI9nbT) | 2:43 |
 | 29 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Doors](https://open.spotify.com/track/1zbrYYbhDViJBkFb690t7f) | [SKIES](https://open.spotify.com/artist/6ibOZLYvvJ6y2LcUekrZKK) | [Doors](https://open.spotify.com/album/0gm3W3EauTWxh4ZRGP7Gom) | 3:54 |
 | 50 | [Cassie of the Dead](https://open.spotify.com/track/3KD5jeFJm2KYZ3k02Z5xc5) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Cassie of the Dead](https://open.spotify.com/album/2roYlUsSAh7z2cbx4NE6F8) | 2:47 |
 
-Snapshot ID: `MCw5NjM2NGI1MzM1NzkzYjYyMjk3OTZkZTI3MWViMzY4MjlmMWQ4YzQ1`
+Snapshot ID: `MCxiMWRhNGMzMjMxOGY1MmVlYzg3MDcwMTMwZDdlN2ZlYmU1MWNhZjBj`

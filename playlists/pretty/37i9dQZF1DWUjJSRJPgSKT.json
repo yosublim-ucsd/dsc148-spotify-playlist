@@ -1,12 +1,12 @@
 {
   "description": "Up tempo jazz classics.",
-  "num_followers": 3970,
+  "num_followers": 4027,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTMyOWJkMTJkMDkyZDVkMDY0ZjE5ZWI3NmExN2YzZDc2ZTQ4YTA1",
+  "snapshot_id": "MCwxZWY5Y2I5NjMxYjY3NDg2OWQ0MjVmMjMyMmY2MTI1NjI1ZjQwMmVi",
   "tracks": [
     {
       "added_at": "2023-05-10 08:18:21",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-05-10 08:18:21",
       "album": {
+        "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
+        "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie Quintet",
+          "url": "https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A"
+        }
+      ],
+      "duration_ms": 428373,
+      "name": "Salt Peanuts",
+      "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
+    },
+    {
+      "added_at": "2023-05-10 08:18:21",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2023-05-10 08:18:21",
       "album": {
-        "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
-        "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie Quintet",
-          "url": "https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A"
-        }
-      ],
-      "duration_ms": 428373,
-      "name": "Salt Peanuts",
-      "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
-    },
-    {
-      "added_at": "2023-05-10 08:18:21",
-      "album": {
         "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-10 08:18:21",
       "album": {
-        "name": "The Genius Of Charlie Parker",
-        "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Ornithology",
-      "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
-    },
-    {
-      "added_at": "2023-05-10 08:18:21",
-      "album": {
         "name": "Smokin' At The Half Note (Expanded Edition)",
         "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 303333,
       "name": "Impressions - Live At The Half Note /1965",
       "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
+    },
+    {
+      "added_at": "2023-05-10 08:18:21",
+      "album": {
+        "name": "The Genius Of Charlie Parker",
+        "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Ornithology",
+      "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
     },
     {
       "added_at": "2023-05-10 08:18:21",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-05-10 08:18:21",
       "album": {
+        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Minors Holiday - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x"
+    },
+    {
+      "added_at": "2023-05-10 08:18:21",
+      "album": {
         "name": "More Blues And The Abstract Truth",
         "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
       },
@@ -967,24 +983,8 @@
     {
       "added_at": "2023-05-10 08:18:21",
       "album": {
-        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Minors Holiday - Rudy Van Gelder Edition/2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x"
-    },
-    {
-      "added_at": "2023-05-10 08:18:21",
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+        "name": "On Impulse!",
+        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 466040,
-      "name": "John S. - Remastered",
-      "url": "https://open.spotify.com/track/461pkT8SLkwYk5r5FexNiy"
+      "duration_ms": 417333,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
     },
     {
       "added_at": "2023-05-10 08:18:21",
@@ -1659,8 +1659,8 @@
     {
       "added_at": "2023-05-10 08:18:21",
       "album": {
-        "name": "On Impulse!",
-        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
       "artists": [
         {
@@ -1668,9 +1668,9 @@
           "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 417333,
-      "name": "Three Little Words",
-      "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
+      "duration_ms": 466040,
+      "name": "John S. - Remastered",
+      "url": "https://open.spotify.com/track/461pkT8SLkwYk5r5FexNiy"
     },
     {
       "added_at": "2023-05-10 08:18:21",

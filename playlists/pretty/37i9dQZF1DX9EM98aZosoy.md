@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,273 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256,504 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 19 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 |
 | 20 | [Substitution](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Substitution](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 |
 | 21 | [Be My Lover \(feat\. La Bouche\) \- 2023 Mix](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Be My Lover \(feat\. La Bouche\) \[2023 Mix\]](https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX) | 2:49 |
-| 22 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
-| 23 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 |
+| 22 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
+| 23 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
 | 24 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 |
-| 25 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
+| 25 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 |
 | 26 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 |
 | 27 | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D) | 3:50 |
 | 28 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 49 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 |
 | 50 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
 
-Snapshot ID: `MCwzN2ZmMjMwNmQ2YWM1NDFlMzJjN2NiOTJhYWM5NDU0NjdlMGIyYjk5`
+Snapshot ID: `MCxmNDQ2OTQxZjY2NGUwOTcyMmY3NzY1MzAzYTExYzM2MzJhNjE3YTdi`

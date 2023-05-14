@@ -2,7 +2,7 @@
 
 ### [New Joints](https://open.spotify.com/playlist/37i9dQZF1DX4SrOBCjlfVi)
 
-> All the New Joints featuring Lil Durk, A Boogie Wit Da Hoodie, and more\. Cover: Gucci Mane
+> All the New Joints featuring Lil Durk, A Boogie Wit Da Hoodie, and more\. Cover: Lil Tecca
 
 2,823 songs - 5 day 11 hr 45 min
 

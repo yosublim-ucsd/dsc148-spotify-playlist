@@ -1,12 +1,12 @@
 {
   "description": "The champs are here.",
-  "num_followers": 19843,
+  "num_followers": 20013,
   "original_name": "Trophy Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWVmOGQxMWRiYTRmZjQxZjc1NDgzNDY2Zjc4OGUxYWViNTZiODBm",
+  "snapshot_id": "MCxlNDI0NTRmYmU4YTdkNzIzN2YxMDVmOTNiODEyYmM4Mzg3NTNhYWI5",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 299613,
       "name": "All Of The Lights",
       "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
     },
     {
       "added_at": "2022-11-04 04:00:00",

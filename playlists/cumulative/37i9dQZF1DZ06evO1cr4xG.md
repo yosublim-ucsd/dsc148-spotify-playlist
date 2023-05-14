@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Crisis Of Revelation](https://open.spotify.com/track/07ELgtGISbYc3CavN1AcfX) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 5:35 | 2022-05-30 |  |
+| [A Crisis Of Revelation](https://open.spotify.com/track/07ELgtGISbYc3CavN1AcfX) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 5:35 | 2022-05-30 | 2023-05-14 |
 | [A Gunshot to the Head of Trepidation](https://open.spotify.com/track/3uq1JSqEFzVzcmFJc6SXDS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 5:55 | 2022-05-30 |  |
 | [A Skyline's Severance](https://open.spotify.com/track/4Fl0X6VaYwZxHmWvBtI5tB) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 4:52 | 2022-05-30 | 2022-10-13 |
 | [Amongst The Shadows & The Stones](https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 5:40 | 2022-05-31 |  |
@@ -54,7 +54,7 @@
 | [Like Light to the Flies](https://open.spotify.com/track/3wuGM9ka6DGQPtrEaVGl00) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 5:40 | 2022-07-21 |  |
 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 | 2022-05-30 |  |
 | [Master of Puppets](https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy \(Special Edition\)](https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF) | 8:09 | 2022-05-30 |  |
-| [No Way Back Just Through](https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 3:53 | 2022-06-03 | 2022-09-29 |
+| [No Way Back Just Through](https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 3:53 | 2022-06-03 |  |
 | [Of All These Yesterdays](https://open.spotify.com/track/0dsIrE3aAwSuEtl2zFgcR4) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 4:21 | 2022-06-18 | 2022-06-20 |
 | [Of Prometheus and the Crucifix](https://open.spotify.com/track/3M3pLgLlLAKdzmroa2z64m) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 4:40 | 2022-06-04 | 2022-10-06 |
 | [Other Worlds](https://open.spotify.com/track/1a2S3UQ4riSjBJUmuxBGo0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:49 | 2022-07-29 |  |

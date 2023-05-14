@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Riot Ten
 
-348 songs - 19 hr 53 min
+349 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Dawn Of The Dead \- Radio Edit](https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Dawn Of The Dead](https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV) | 3:42 | 2022-04-01 | 2023-04-01 |
 | [Dead Man Walking](https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Dead Man Walking Pt\. 1](https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD) | 4:47 | 2022-07-22 |  |
 | [Death's Parade](https://open.spotify.com/track/4I0aTM1IBacOAnBpWTDaFG) | [Outcry](https://open.spotify.com/artist/4cni7thSCD6KeWMHdbRPFd), [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Death's Parade](https://open.spotify.com/album/0pFWrdhqNypSkJzpG6GMEg) | 3:31 | 2021-12-17 | 2022-08-07 |
+| [Decomposed \(feat\. TVBUU\)](https://open.spotify.com/track/6ivBy5kKmL1rbz0RTgH8KZ) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM), [Tvbuu](https://open.spotify.com/artist/5g88TrER5HETb6uDHUASGv) | [Decomposed \(feat\. TVBUU\)](https://open.spotify.com/album/39jpXJv2tcnolZ0Ch67D94) | 4:04 | 2023-05-12 |  |
 | [Degrader](https://open.spotify.com/track/2y0sRxtiJblGeiLopVbYlU) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Degrader EP](https://open.spotify.com/album/3oyCL9NZzD5JMfTPG54xXN) | 3:02 | 2022-03-04 | 2022-10-01 |
 | [Demisaur](https://open.spotify.com/track/6cY37yS9qRbBNgkt52z86V) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Demisaur](https://open.spotify.com/album/1QEheTpJtOjBk1AO7yevtF) | 3:32 | 2021-12-17 | 2022-05-07 |
 | [Desire](https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Revive EP](https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r) | 3:08 | 2022-07-22 |  |
@@ -117,7 +118,7 @@
 | [Faded](https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI) | [Zannen](https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Faded](https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod) | 2:56 | 2022-01-07 | 2023-01-16 |
 | [Fall Apart](https://open.spotify.com/track/0o4nOUsrcHCKMu74kUlxDS) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Thrones of Blood](https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX) | 5:20 | 2023-03-31 |  |
 | [Fall Apart](https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Fall Apart](https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal) | 5:20 | 2023-02-24 | 2023-04-15 |
-| [Fantasy](https://open.spotify.com/track/1SIQqSE0P63y5z97Y7BNFm) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [Fantasy](https://open.spotify.com/album/0jdqEWHHbDgli25Ap6gHbx) | 4:12 | 2023-03-31 |  |
+| [Fantasy](https://open.spotify.com/track/1SIQqSE0P63y5z97Y7BNFm) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [Fantasy](https://open.spotify.com/album/0jdqEWHHbDgli25Ap6gHbx) | 4:12 | 2023-03-31 | 2023-05-14 |
 | [Fight Milk](https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Fight Milk](https://open.spotify.com/album/4N5p7PYUZXwJcghs3rcFpS) | 3:12 | 2021-12-17 | 2023-04-01 |
 | [FINAL BOSS](https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [FINAL BOSS](https://open.spotify.com/album/7t8CJPC1Beih06RkOAwCSl) | 2:52 | 2023-02-17 |  |
 | [Final Boss \- Modestep Remix](https://open.spotify.com/track/2qBfIoBC5QJj6CvMwct8OG) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Hige Driver](https://open.spotify.com/artist/2OxrEwDhVZodk9XEVBkA6E), [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Final Boss \(Modestep Remix\)](https://open.spotify.com/album/0Ps5wnPvYARsndfhvTK37G) | 3:14 | 2022-08-12 |  |

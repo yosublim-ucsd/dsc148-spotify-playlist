@@ -1,12 +1,12 @@
 {
   "description": "Corridos + Perreo para las bichotas y buchonas \ud83d\udd25",
-  "num_followers": 32650,
+  "num_followers": 32746,
   "original_name": "Buchona Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWQ3YmFkMDlkMjhlNzI3OWM0NzlhYjRhOTdiMmE4NTdmZTZiZTgx",
+  "snapshot_id": "MCwzYjQ1OTMxMzY1MzM1ZjQ3NTU1OThjYmIxNTVjMzA4Njc3Nzg1Y2Jl",
   "tracks": [
     {
       "added_at": "2023-04-24 04:47:35",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
         "name": "The Last Don",
         "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 204600,
       "name": "Dile",
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2023-04-24 04:47:35",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 225152,
       "name": "Como Jordan",
       "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "added_at": "2023-04-24 04:47:35",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 205520,
       "name": "Tu Pr\u00edncipe",
       "url": "https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2023-04-24 04:47:35",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
         "name": "Te Bot\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 193636,
       "name": "512",
       "url": "https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
     },
     {
       "added_at": "2023-04-24 04:47:35",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
         "name": "Vive Y Dejame Vivir",
         "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+        "name": "Ven Bailalo (Reggaeton Mix)",
+        "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
         }
       ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+      "duration_ms": 252773,
+      "name": "Ven Bailalo - Reggaeton Mix",
+      "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
     },
     {
       "added_at": "2023-04-24 04:47:35",
@@ -1303,22 +1319,6 @@
       "duration_ms": 174275,
       "name": "Aerol\u00ednea Carrillo",
       "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
-        "name": "Ven Bailalo (Reggaeton Mix)",
-        "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
-      },
-      "artists": [
-        {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Ven Bailalo - Reggaeton Mix",
-      "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
     },
     {
       "added_at": "2023-04-24 04:47:35",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 188894,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2023-04-24 04:47:35",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "Carteles",
-        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 125818,
-      "name": "El B\u00e9lico",
-      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
+        "name": "Soy Buen Amigo",
+        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 153967,
+      "name": "Soy Buen Amigo",
+      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
     },
     {
       "added_at": "2023-04-24 04:47:35",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "Soy Buen Amigo",
-        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 153967,
-      "name": "Soy Buen Amigo",
-      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
         "name": "El G\u00fcero (Feat. Marca MP)",
         "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
+        "name": "Carteles",
+        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 125818,
+      "name": "El B\u00e9lico",
+      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
         "name": "Si Lo Digo Es Porque Puedo",
         "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "Seguimos Irremediables",
-        "url": "https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO"
-      },
-      "artists": [
-        {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Por Clave el 13",
-      "url": "https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
         "name": "H\u00edbrido",
         "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
       },
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+        "name": "Seguimos Irremediables",
+        "url": "https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
         }
       ],
-      "duration_ms": 137323,
-      "name": "El Circo",
-      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
+      "duration_ms": 190850,
+      "name": "Por Clave el 13",
+      "url": "https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z"
     },
     {
       "added_at": "2023-04-24 04:47:35",
@@ -1771,6 +1755,46 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 137323,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
+        "name": "Mayor Que Usted",
+        "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 233519,
+      "name": "Mayor Que Usted",
+      "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
         "name": "Te Quiero Besar",
         "url": "https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr"
       },
@@ -1807,30 +1831,6 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "Mayor Que Usted",
-        "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 233519,
-      "name": "Mayor Que Usted",
-      "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
         "name": "Somos Arrieros",
         "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
       },
@@ -1863,30 +1863,6 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "La Loto",
-        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "La Loto",
-      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
         "name": "Ella No Es Tuya (Remix)",
         "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
@@ -1907,6 +1883,30 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
+        "name": "La Loto",
+        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "La Loto",
+      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
     },
     {
       "added_at": "2023-04-24 04:47:35",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.1",
-        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 148561,
-      "name": "A Lo Lejos Me Veran",
-      "url": "https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
         "name": "House Of Pleasure",
         "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 220133,
       "name": "Si No Le Contesto",
       "url": "https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 148561,
+      "name": "A Lo Lejos Me Veran",
+      "url": "https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5"
     },
     {
       "added_at": "2023-04-24 04:47:35",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-04-24 04:47:35",
       "album": {
-        "name": "Corridos Pa' la Historia",
-        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 155543,
-      "name": "Yo Soy Rico",
-      "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"
-    },
-    {
-      "added_at": "2023-04-24 04:47:35",
-      "album": {
         "name": "Desde la Ra\u00edz",
         "url": "https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 201205,
       "name": "Fumando Mota",
       "url": "https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd"
+    },
+    {
+      "added_at": "2023-04-24 04:47:35",
+      "album": {
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 155543,
+      "name": "Yo Soy Rico",
+      "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"
     },
     {
       "added_at": "2023-04-24 04:47:35",

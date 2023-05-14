@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,135 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,147 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 77 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 |
 | 78 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 |
 | 79 | [La La Lost You \- Acoustic Version](https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [NIKI Acoustic Sessions: Head In The Clouds II](https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD) | 3:28 |
-| 80 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 |
+| 80 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
 | 81 | [Keep Your Head Up Princess](https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Keep Your Head Up Princess](https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK) | 3:18 |
-| 82 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
+| 82 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 |
 | 83 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 |
 | 84 | [She Will Be Loved \- Acoustic](https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:36 |
 | 85 | [We Got History \- Acoustic](https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [We Got History \(Acoustic\)](https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 99 | [Worldwide \- Acoustic](https://open.spotify.com/track/6TjF9FZf1AULiIq2QISLTA) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Worldwide \(Acoustic\)](https://open.spotify.com/album/5bi23LgJpGRLdjim0YNHMU) | 3:50 |
 | 100 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |
 
-Snapshot ID: `MCwyNWNjZjVlZjMyNDUyMzEyOTQ4MjdhNDFkM2MxMGZkYzhmZDVjYTIw`
+Snapshot ID: `MCw0MjhiNDM4ODE5MjIyNGQxNmNhYmQxMGI0MDkxYzgzMTZlMGVjYzY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Digital cameras, smudged eyeliner, house parties and electroclash.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,786 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,038 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 64 | [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 |
 | 65 | [Pop Star](https://open.spotify.com/track/0widrZ6KVNuIPhbM1rWPDR) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:04 |
 | 66 | [Make Her Say](https://open.spotify.com/track/7dZAPeA3Of5j5Vaef0DQ6M) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Man On The Moon: The End Of Day \(Deluxe\)](https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3) | 3:36 |
-| 67 | [I'm Just Your Problem \(feat\. Olivia Olson\)](https://open.spotify.com/track/2vJXkBYTfhmszE7ggfDc9E) | [Adventure Time](https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1), [Olivia Olson](https://open.spotify.com/artist/6md7K2UM0UBU0fzI5erQCb) | [Adventure Time, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/65tIpVeX7kDv9ZCyZDV90e) | 1:56 |
-| 68 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 |
+| 67 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 |
+| 68 | [I'm Just Your Problem \(feat\. Olivia Olson\)](https://open.spotify.com/track/2vJXkBYTfhmszE7ggfDc9E) | [Adventure Time](https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1), [Olivia Olson](https://open.spotify.com/artist/6md7K2UM0UBU0fzI5erQCb) | [Adventure Time, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/65tIpVeX7kDv9ZCyZDV90e) | 1:56 |
 | 69 | [Mardy Bum](https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:55 |
 | 70 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
 | 71 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 |
 | 72 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
-| 73 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 |
-| 74 | [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 |
+| 73 | [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 |
+| 74 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 |
 | 75 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk) | 4:22 |
 | 76 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
 | 77 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 79 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
 | 80 | [Harlem Shake](https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Harlem Shake](https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU) | 3:16 |
 
-Snapshot ID: `MCxmNTU0YTY2MDFkM2YyN2U5ZWU5ZDY3ZmNmODZlN2UzNmQxNzI0YmQx`
+Snapshot ID: `MCxkMjlmYzBjMDljYzZiMDRmODQxZDYwMzE5NWJlNzQxNDhhMWEyNGYz`

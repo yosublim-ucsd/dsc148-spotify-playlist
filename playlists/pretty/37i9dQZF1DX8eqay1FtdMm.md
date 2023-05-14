@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the vocalists representing Korea! \(Cover:YOUNHA\(윤하\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,405 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,465 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 49 | [Stars](https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Stars](https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi) | 4:20 |
 | 50 | [Maybe](https://open.spotify.com/track/5kHAdANv7GJ4YuX55WVG8I) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Her Private Life \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/22L5wb4wQyv46k4mZMv62g) | 3:48 |
 | 51 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
-| 52 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 |
-| 53 | [Fuckin' New Year](https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 2:48 |
+| 52 | [Fuckin' New Year](https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 2:48 |
+| 53 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 |
 | 54 | [Space](https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 4:33 |
 | 55 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 |
 | 56 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 75 | [Deeply](https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 |
 | 76 | [Because of You](https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn) | 3:32 |
 | 77 | [Walking Slowly](https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Faith OST](https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd) | 4:27 |
-| 78 | [Drunken confession at night \(Prod\. 2soo\)](https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Drunken confession at night](https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh) | 4:06 |
-| 79 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 |
+| 78 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 |
+| 79 | [Drunken confession at night \(Prod\. 2soo\)](https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Drunken confession at night](https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh) | 4:06 |
 | 80 | [didn't know me](https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:58 |
 | 81 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
 | 82 | [\#tb](https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Hongbi](https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN) | [\#tb](https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp) | 4:35 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 84 | [I can't forget you](https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [If You Wish Upon Me OST Part.3](https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9) | 3:38 |
 | 85 | [Far away](https://open.spotify.com/track/43iomf0oLrC9449yN58E4c) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6) | 3:25 |
 | 86 | [You're My End and My Beginning](https://open.spotify.com/track/1q3axbxKGkwHdLLQtxmyl2) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz), [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 13](https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd) | 4:11 |
-| 87 | [To You](https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ) | [WSG WANNBE \(Gaya\-G\)](https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2) | [To You](https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f) | 3:27 |
-| 88 | [Can Love Be Fair](https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL), [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Can Love Be Fair](https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK) | 4:15 |
+| 87 | [Can Love Be Fair](https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL), [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Can Love Be Fair](https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK) | 4:15 |
+| 88 | [To You](https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ) | [WSG WANNBE \(Gaya\-G\)](https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2) | [To You](https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f) | 3:27 |
 | 89 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 |
 | 90 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 |
 | 91 | [Tale](https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 |
 | 100 | [come as you are](https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:28 |
 
-Snapshot ID: `MCxhMjQxYzM3YTBjNWQ3ZGJlYzJjZTgyYjE3ZDEzNWI4OTdlYzAxNjRm`
+Snapshot ID: `MCw1YzRiMzc4Y2RiNzA0NTg4MzI1NWZlY2NhZjAyOWJjZjNiMzE0NDcx`

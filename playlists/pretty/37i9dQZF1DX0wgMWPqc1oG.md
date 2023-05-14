@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,931 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,943 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 12 | [Matrix](https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 6:28 |
 | 13 | [Contemplation](https://open.spotify.com/track/55GY76amiMF9wjAeto5vco) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 9:12 |
 | 14 | [One Finger Snap \- Remastered](https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 7:21 |
-| 15 | [Libra](https://open.spotify.com/track/64KJlRhJmdws647AvXw3mX) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Members Don't Get Weary](https://open.spotify.com/album/4IsvKtWOhpW3iutOJ8pU96) | 4:55 |
-| 16 | [Cascades](https://open.spotify.com/track/1CwtmQHTdSpIFZY82PFhMJ) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 5:31 |
+| 15 | [Cascades](https://open.spotify.com/track/1CwtmQHTdSpIFZY82PFhMJ) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 5:31 |
+| 16 | [Libra](https://open.spotify.com/track/64KJlRhJmdws647AvXw3mX) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Members Don't Get Weary](https://open.spotify.com/album/4IsvKtWOhpW3iutOJ8pU96) | 4:55 |
 | 17 | [Witch Hunt \- Remastered 1998 / Rudy Van Gelder Edition](https://open.spotify.com/track/6fw1b1bCVNY5EVurncxIss) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Speak No Evil](https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU) | 8:11 |
 | 18 | [Recorda Me](https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 6:01 |
 | 19 | [The Eye Of The Hurricane \- Remastered](https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 6:01 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 67 | [Components \- Remastered 1994](https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 6:25 |
 | 68 | [Little Madimba \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 8:32 |
 | 69 | [The Fox \- Remastered 2014](https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Trompeta Toccata \(Remastered 2014\)](https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl) | 8:00 |
-| 70 | [Love Song \- Remastered 2009/Rudy Van Gelder Edition](https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 8:24 |
-| 71 | [Portsmouth Figurations](https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS) | [Gary Burton Quartet](https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl) | [Duster](https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf) | 3:05 |
+| 70 | [Portsmouth Figurations](https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS) | [Gary Burton Quartet](https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl) | [Duster](https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf) | 3:05 |
+| 71 | [Love Song \- Remastered 2009/Rudy Van Gelder Edition](https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 8:24 |
 | 72 | [Stop\-Start](https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:12 |
 | 73 | [Point Of Many Returns](https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY) | [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Contours](https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y) | 9:23 |
 | 74 | [East of the Sun \- Live@Monterey](https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Forest Flower: Charles Lloyd At Monterey](https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD) | 10:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 99 | [Breaking Point \- Remastered 2004](https://open.spotify.com/track/45wnqKMg6CEL48lWMqCvQt) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Breaking Point](https://open.spotify.com/album/0FeZbhuzIoD7E5ru2eDpIH) | 10:19 |
 | 100 | [Melonae's Dance \- Remastered](https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 6:46 |
 
-Snapshot ID: `MCw4NTg1NzI4OTIyMmU5ZGE3ZDI0ZDllNzVjMGFhMTZkYjdmNTNiY2I1`
+Snapshot ID: `MCwwODJmNDQwMzIyNmIwZDc3Zjc5MWVjNDc2ZGU0YjRjM2Y1ZjI2MTY4`

@@ -784,6 +784,24 @@
     {
       "album": {
         "name": "Seeing Eye Dog",
+        "url": "https://open.spotify.com/album/59dAspZDf4LjLpQ4OKVVz4"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/3gAYxWLhMHIsrflpKmyC4F"
+    },
+    {
+      "album": {
+        "name": "Seeing Eye Dog",
         "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
       },
       "artists": [

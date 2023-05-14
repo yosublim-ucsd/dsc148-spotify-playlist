@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjdjMDdmOTFiNjFmMzZjYjQ2MGI4OGVkZDUwMjcxNWNmYTM5MGE5",
+  "snapshot_id": "MCwwYWI5MWY3NjZmMzE0MDFjMDM3YzBlYmM1YjJkYzg1OWZkYjQ0Zjgz",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "EN EL CIELO",
-        "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 148915,
-      "name": "EN EL CIELO",
-      "url": "https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 191471,
       "name": "Up and Away",
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "EN EL CIELO",
+        "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 148915,
+      "name": "EN EL CIELO",
+      "url": "https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c"
-      },
-      "artists": [
-        {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 177529,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Bleak Sublime",
         "url": "https://open.spotify.com/album/3TDrrfZWTB4Z1Nc6a46QiA"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 231722,
       "name": "Bleak Sublime",
       "url": "https://open.spotify.com/track/0pVehOhdsaOdYrBprUKxD6"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 177529,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Yesterday Is Heavy",
-        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
-      },
-      "artists": [
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        }
-      ],
-      "duration_ms": 230730,
-      "name": "Another Sketch",
-      "url": "https://open.spotify.com/track/5GrRMVHfh3fnPERa4MCJDl"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Sharks",
         "url": "https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 211135,
       "name": "Ever Since We Met",
       "url": "https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Yesterday Is Heavy",
+        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        }
+      ],
+      "duration_ms": 230730,
+      "name": "Another Sketch",
+      "url": "https://open.spotify.com/track/5GrRMVHfh3fnPERa4MCJDl"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Metamorphosis: Final Stage",
-        "url": "https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513"
-      },
-      "artists": [
-        {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
-        }
-      ],
-      "duration_ms": 208363,
-      "name": "Back In The Game",
-      "url": "https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Pata Pata Saguquka",
         "url": "https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Metamorphosis: Final Stage",
+        "url": "https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        }
+      ],
+      "duration_ms": 208363,
+      "name": "Back In The Game",
+      "url": "https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/2rNcAT9JKo5g9KZ3RbOvXU"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 214691,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/7xo4uV0Cv226hBBXMXQFqS"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Distant Shouts",
+        "url": "https://open.spotify.com/album/2mUurk1uS8I9v7dcNJFOCY"
+      },
+      "artists": [
+        {
+          "name": "Donkey Kid",
+          "url": "https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Distant Shouts",
+      "url": "https://open.spotify.com/track/5tz21jP1zSzw7Ke5EaR78P"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -751,22 +767,6 @@
       "duration_ms": 213293,
       "name": "Do You Well (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Distant Shouts",
-        "url": "https://open.spotify.com/album/2mUurk1uS8I9v7dcNJFOCY"
-      },
-      "artists": [
-        {
-          "name": "Donkey Kid",
-          "url": "https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Distant Shouts",
-      "url": "https://open.spotify.com/track/5tz21jP1zSzw7Ke5EaR78P"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "HUNTER SCHAFER",
+        "url": "https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "HUNTER SCHAFER",
+      "url": "https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Se Eu Acordar",
         "url": "https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 176314,
       "name": "Porn Magazines",
       "url": "https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "HUNTER SCHAFER",
-        "url": "https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl"
-      },
-      "artists": [
-        {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "HUNTER SCHAFER",
-      "url": "https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Weak Teeth",
-        "url": "https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy"
-      },
-      "artists": [
-        {
-          "name": "gglum",
-          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
-        }
-      ],
-      "duration_ms": 203140,
-      "name": "Things You Said",
-      "url": "https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Baby You\u2019re the One I Need",
         "url": "https://open.spotify.com/album/2uO9yAwV5SztvzqHRNmNb6"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 163125,
       "name": "Baby You\u2019re the One I Need",
       "url": "https://open.spotify.com/track/7hbO2gpSh8ODI0K0iqytsC"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Weak Teeth",
+        "url": "https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy"
+      },
+      "artists": [
+        {
+          "name": "gglum",
+          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
+        }
+      ],
+      "duration_ms": 203140,
+      "name": "Things You Said",
+      "url": "https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/26xokh7EVsB98XiXSgXwnE"
+      },
+      "artists": [
+        {
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+        }
+      ],
+      "duration_ms": 158097,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/7poQxcGYOFFeAQanCTm9Fw"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Sugar Rush",
         "url": "https://open.spotify.com/album/1VsDxN8jgziHdGxw2KfNDr"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 166302,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/3zB53lzbPCY8GVcTwn39ag"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/26xokh7EVsB98XiXSgXwnE"
-      },
-      "artists": [
-        {
-          "name": "Sofia Portanet",
-          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
-        }
-      ],
-      "duration_ms": 158097,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/7poQxcGYOFFeAQanCTm9Fw"
     },
     {
       "added_at": "2022-11-30 13:45:00",

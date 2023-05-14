@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: SCANDAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,435 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,457 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 33 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
 | 34 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
 | 35 | [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 |
-| 36 | [Sometimes I Wanna Cry :\(](https://open.spotify.com/track/7DILQWS3AmJ8EHNmnD4pXn) | [Sarina](https://open.spotify.com/artist/4QetRFFnJpfUtu0sLRaQZy) | [Sometimes I Wanna Cry :\(](https://open.spotify.com/album/7zP6cj9KtpeVyUFLWcfCgJ) | 2:22 |
+| 36 | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 |
 | 37 | [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 |
-| 38 | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 |
+| 38 | [Sometimes I Wanna Cry :\(](https://open.spotify.com/track/7DILQWS3AmJ8EHNmnD4pXn) | [Sarina](https://open.spotify.com/artist/4QetRFFnJpfUtu0sLRaQZy) | [Sometimes I Wanna Cry :\(](https://open.spotify.com/album/7zP6cj9KtpeVyUFLWcfCgJ) | 2:22 |
 | 39 | [METAL KINGDOM](https://open.spotify.com/track/0q8m59MpSbdLh8JQ5HqrrT) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 5:51 |
 | 40 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 |
 | 41 | [Wake up soon](https://open.spotify.com/track/0siU3JMlnOYfANLVyYXX0D) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Wake up soon](https://open.spotify.com/album/1GRLAC0RJNALOdCRj8pugK) | 3:00 |
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 53 | [眠れない夜を君に](https://open.spotify.com/track/1ftEhiwyfsGsdYHyKxUj2f) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [眠れない夜を君に](https://open.spotify.com/album/7rrFcw6k2bhPTVkhswjxTk) | 4:04 |
 | 54 | [生活](https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [生活](https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc) | 4:39 |
 | 55 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 |
-| 56 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 |
-| 57 | [SPARK](https://open.spotify.com/track/3m0WWZ39p9t3DSgr3MqRyK) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/1m85FhfhwsxWNmE27G2a69) | 4:08 |
-| 58 | [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 |
-| 59 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
-| 60 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
+| 56 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
+| 57 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 |
+| 58 | [SPARK](https://open.spotify.com/track/3m0WWZ39p9t3DSgr3MqRyK) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/1m85FhfhwsxWNmE27G2a69) | 4:08 |
+| 59 | [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 |
+| 60 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
 | 61 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 |
 | 62 | [君と夏フェス](https://open.spotify.com/track/2nSJH1z0BScpVsTP7EFtX7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 3:45 |
-| 63 | [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 |
-| 64 | [Bring it on](https://open.spotify.com/track/47si56TyftOEH6xZbgL2Tt) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [Bring it on](https://open.spotify.com/album/4escCJsWwwuBWWVprF2Jkt) | 4:01 |
+| 63 | [Bring it on](https://open.spotify.com/track/47si56TyftOEH6xZbgL2Tt) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [Bring it on](https://open.spotify.com/album/4escCJsWwwuBWWVprF2Jkt) | 4:01 |
+| 64 | [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 |
 | 65 | [Memorable](https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Memorable](https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o) | 3:13 |
 | 66 | [GOKKO](https://open.spotify.com/track/1rhpSPzVqNW1m3FPwA1b2s) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [GOKKO](https://open.spotify.com/album/1lVJ1LWjQfnthPH3gbUZwJ) | 3:06 |
 | 67 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 69 | [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 |
 | 70 | [Line](https://open.spotify.com/track/5ySQdNH0V0xQB7N3LmjtAt) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Around Dusk](https://open.spotify.com/album/2ROkLQv3yr62pu56JjM483) | 3:01 |
 
-Snapshot ID: `MCw2OTBmNjVkMzFkNzFhNzNlYzg2MDlmMjM3MjlmMTEwMzk2MmZlYjZk`
+Snapshot ID: `MCw4ODFlMjcwMWQ2NGUwNWFhNjE5ZDhhZDllYTE0MzJlMmRlZGQ4NDVi`

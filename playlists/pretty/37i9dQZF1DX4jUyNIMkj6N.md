@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,994 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,033 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 24 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
 | 25 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
 | 26 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
-| 27 | [Away](https://open.spotify.com/track/4d6EvoLIZvyUzX8XHQu0XQ) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Morten Myklebust](https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg) | 2:58 |
-| 28 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
+| 27 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
+| 28 | [Away](https://open.spotify.com/track/4d6EvoLIZvyUzX8XHQu0XQ) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Morten Myklebust](https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg) | 2:58 |
 | 29 | [Gold Laces](https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 3:40 |
 | 30 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 |
 | 31 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 45 | [Time of Waiting](https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Roberto Dalla Vecchia](https://open.spotify.com/artist/7bfm99qXAlGJQrkcudmwyA) | [Time of Waiting](https://open.spotify.com/album/55d318EyF219Cbnei0f0wV) | 2:48 |
 | 46 | [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 |
 | 47 | [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 |
-| 48 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 |
-| 49 | [October](https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Jonas Alaska](https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9) | 3:44 |
+| 48 | [October](https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Jonas Alaska](https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9) | 3:44 |
+| 49 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 |
 | 50 | [When the Mourning Comes](https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I Saw Her from Here / I Saw Here](https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI) | 3:44 |
 | 51 | [Chicago](https://open.spotify.com/track/4WGfbOXbDMj5ugvmJ38irE) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS), [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY), [Ida Jenshus](https://open.spotify.com/artist/15qMqM0HdFCZ6IKVNfLGNd), [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY), [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm), [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [The Women in Me](https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu) | 4:39 |
 | 52 | [Buffy](https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Buffy](https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 |
 | 60 | [The Sweetest Tune](https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte) | 3:39 |
 
-Snapshot ID: `MCwzODVjNzZhNjU3YmQxNDA1MjY4Mzg3NjQwMDhjODM1MTJiMzQ4ZWNj`
+Snapshot ID: `MCw5Yjg1NjRjZDZiNTgwY2FjMjZkZjUyNTlmOTZmZDNmNGQ0MzZkYzNm`

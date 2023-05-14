@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor en ingl\u00e9s de la \u00faltima d\u00e9cada. Para novedades, escucha <a href=\"spotify:playlist:37i9dQZF1DX6aTaZa0K6VA\">Pop Up</a>.",
-  "num_followers": 420972,
+  "num_followers": 421846,
   "original_name": "Pop Internacional 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmJhNDQ0ZjJiNzMwZTc3NGExNmVmZDdjMDU0OWE1MTg2ZDdjODJj",
+  "snapshot_id": "MCw3MGQwYmY5N2ViNWZmNGM1MzFjMWFhNDk3MWNmNzdlMjk3YjBhYjAy",
   "tracks": [
     {
       "added_at": "2023-03-27 11:24:11",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-03-27 11:24:11",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2023-03-27 11:24:11",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2023-03-27 11:24:11",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
       "added_at": "2023-03-27 11:24:11",
@@ -535,6 +535,26 @@
     {
       "added_at": "2023-03-27 11:24:11",
       "album": {
+        "name": "Memories...Do Not Open",
+        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "added_at": "2023-03-27 11:24:11",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2023-03-27 11:24:11",
-      "album": {
-        "name": "Memories...Do Not Open",
-        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
     },
     {
       "added_at": "2023-03-27 11:24:11",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-27 11:24:11",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "What Makes You Beautiful",
-      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
-    },
-    {
-      "added_at": "2023-03-27 11:24:11",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 244960,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "added_at": "2023-03-27 11:24:11",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
     },
     {
       "added_at": "2023-03-27 11:24:11",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2023-03-27 11:24:11",
       "album": {
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz"
+    },
+    {
+      "added_at": "2023-03-27 11:24:11",
+      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 219320,
       "name": "Work",
       "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
-    },
-    {
-      "added_at": "2023-03-27 11:24:11",
-      "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz"
     },
     {
       "added_at": "2023-03-27 11:24:11",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-03-27 11:24:11",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2023-03-27 11:24:11",
-      "album": {
         "name": "At Night, Alone.",
         "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
       },
@@ -2099,18 +2083,18 @@
     {
       "added_at": "2023-03-27 11:24:11",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
       "artists": [
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 224653,
-      "name": "Whistle",
-      "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2023-03-27 11:24:11",
@@ -2131,6 +2115,22 @@
       "duration_ms": 227480,
       "name": "Locked Away (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
+    },
+    {
+      "added_at": "2023-03-27 11:24:11",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 224653,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
     },
     {
       "added_at": "2023-03-27 11:24:11",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2023-03-27 11:24:11",
       "album": {
+        "name": "Black Star Elephant",
+        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
+      },
+      "artists": [
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"
+    },
+    {
+      "added_at": "2023-03-27 11:24:11",
+      "album": {
         "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
         "url": "https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 217466,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF"
-    },
-    {
-      "added_at": "2023-03-27 11:24:11",
-      "album": {
-        "name": "Black Star Elephant",
-        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
-      },
-      "artists": [
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Am I Wrong",
-      "url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"
     },
     {
       "added_at": "2023-03-27 11:24:11",
@@ -2639,22 +2639,6 @@
     {
       "added_at": "2023-03-27 11:24:11",
       "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
-    },
-    {
-      "added_at": "2023-03-27 11:24:11",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
       },
@@ -2671,6 +2655,22 @@
       "duration_ms": 210090,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
+    },
+    {
+      "added_at": "2023-03-27 11:24:11",
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "added_at": "2023-03-27 11:24:11",

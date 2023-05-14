@@ -1,29 +1,13 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9461,
+  "num_followers": 9480,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2UwNDEzN2MwNzAyNDhkYWQ5NGMxZGRmNjRlNWM0NjMzMjEyZDIz",
+  "snapshot_id": "MCw1ZWQwOGFhNDQ3MTc4NDdlYWRiZWU0NjljYTY2ZjIxM2IxOWRhYTk4",
   "tracks": [
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "instagram",
-        "url": "https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 255728,
-      "name": "instagram",
-      "url": "https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN"
-    },
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 229989,
       "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
       "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "instagram",
+        "url": "https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 255728,
+      "name": "instagram",
+      "url": "https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -135,18 +135,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Principle Of My Soul",
-        "url": "https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4"
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
       },
       "artists": [
         {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 308186,
-      "name": "Memory Of The Wind",
-      "url": "https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ"
+      "duration_ms": 219306,
+      "name": "I Need A Girl (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -171,22 +175,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+        "name": "Principle Of My Soul",
+        "url": "https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
         }
       ],
-      "duration_ms": 219306,
-      "name": "I Need A Girl (Feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
+      "duration_ms": 308186,
+      "name": "Memory Of The Wind",
+      "url": "https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 227021,
-      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
-      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Our Love is Great",
         "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 233003,
       "name": "Maybe It\u2019s Not Our Fault",
       "url": "https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 227021,
+      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
+      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Solar International",
-        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 240920,
-      "name": "Only Look At Me (\ub098\ub9cc \ubc14\ub77c\ubd10)",
-      "url": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "FRANK",
         "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 247173,
       "name": "\uc6b0\uc8fc\ub97c \uac74\ub108 Across the universe",
       "url": "https://open.spotify.com/track/37LGPxmWd0LLKt80PKEDfz"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 240920,
+      "name": "Only Look At Me (\ub098\ub9cc \ubc14\ub77c\ubd10)",
+      "url": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -503,6 +503,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "\uc815\uc778 Jung In from Andromeda",
+        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
+      },
+      "artists": [
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "\u1106\u1175\u110b\u116f\u110b\u116d I Hate You",
+      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
         "url": "https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 261276,
       "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
       "url": "https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 191793,
-      "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
-      "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -551,6 +551,22 @@
       "duration_ms": 192630,
       "name": "Just",
       "url": "https://open.spotify.com/track/2QG6SmPx2pBkZiKjT70piL"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 191793,
+      "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
+      "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -583,22 +599,6 @@
       "duration_ms": 215840,
       "name": "With Coffee\u2026",
       "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Because I Love You",
-        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
-      },
-      "artists": [
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
-        }
-      ],
-      "duration_ms": 271986,
-      "name": "\uc5b4\ub5a4\uac00\uc694",
-      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -639,6 +639,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "\uc5b4\ub5a4\uac00\uc694",
+      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Like A Movie",
         "url": "https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "\uc815\uc778 Jung In from Andromeda",
-        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
+        "name": "Emptiness in Memory",
+        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
       "artists": [
         {
-          "name": "Jung In",
-          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
         }
       ],
-      "duration_ms": 202946,
-      "name": "\u1106\u1175\u110b\u116f\u110b\u116d I Hate You",
-      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
+      "duration_ms": 278454,
+      "name": "Emptiness in Memory",
+      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -683,38 +699,6 @@
       "duration_ms": 220760,
       "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Op. 4",
-        "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
-      },
-      "artists": [
-        {
-          "name": "Lena Park",
-          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
-        }
-      ],
-      "duration_ms": 337066,
-      "name": "In dreams",
-      "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Emptiness in Memory",
-        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 278454,
-      "name": "Emptiness in Memory",
-      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -739,18 +723,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "It's Real",
-        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
+        "name": "Op. 4",
+        "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
       },
       "artists": [
         {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
         }
       ],
-      "duration_ms": 210293,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
+      "duration_ms": 337066,
+      "name": "In dreams",
+      "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -803,6 +787,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "It's Real",
+        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Miss Ripley OST",
         "url": "https://open.spotify.com/album/1jD2g58pVcEUe1TYzSjgi5"
       },
@@ -835,22 +835,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "For the moment",
-        "url": "https://open.spotify.com/album/5zSnSuP8gPOeZdrEchEv7q"
+        "name": "2nd",
+        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
       },
       "artists": [
         {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        },
-        {
-          "name": "MASTA WU",
-          "url": "https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6"
+          "name": "J.ae",
+          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
         }
       ],
-      "duration_ms": 222400,
-      "name": "\ubd88\uce58\ubcd1 (Feat.Masta Wu)",
-      "url": "https://open.spotify.com/track/6HTz1xXLag7pyVlzsXrItU"
+      "duration_ms": 249106,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
     }
   ],
   "unique_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",

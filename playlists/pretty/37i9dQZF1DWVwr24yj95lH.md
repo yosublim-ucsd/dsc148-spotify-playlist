@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Staind
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,090 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,457 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 26 | [My Sacrifice](https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Weathered](https://open.spotify.com/album/2ENlJXygQX6en4iziijet6) | 4:54 |
 | 27 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
 | 28 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
-| 29 | [Cold](https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 3:14 |
-| 30 | [Addicted](https://open.spotify.com/track/3pxCXv0NACYfYnLjFcQW5D) | [Saving Abel](https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF) | [Saving Abel](https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O) | 3:42 |
+| 29 | [Addicted](https://open.spotify.com/track/3pxCXv0NACYfYnLjFcQW5D) | [Saving Abel](https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF) | [Saving Abel](https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O) | 3:42 |
+| 30 | [Cold](https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 3:14 |
 | 31 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
 | 32 | [Lightning Crashes](https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 5:25 |
 | 33 | [I Hate Everything About You](https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace \(Expanded Edition\)](https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5) | 3:51 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 37 | [If You Could Only See](https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [Lemon Parade](https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V) | 4:21 |
 | 38 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
 | 39 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
-| 40 | [Psycho](https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Famous](https://open.spotify.com/album/64gmkAgWQqEGJtvAaGm2La) | 3:30 |
-| 41 | [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 |
+| 40 | [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 |
+| 41 | [Psycho](https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Famous](https://open.spotify.com/album/64gmkAgWQqEGJtvAaGm2La) | 3:30 |
 | 42 | [Fine Again](https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:03 |
 | 43 | [Angel](https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Savages](https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn) | 3:22 |
 | 44 | [Wasteland](https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Autumn Effect](https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp) | 3:49 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 61 | [Watch Over You](https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG) | 4:19 |
 | 62 | [1000hp](https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [1000hp](https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3) | 3:46 |
 | 63 | [I Will Buy You A New Life](https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [So Much For The Afterglow](https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM) | 3:58 |
-| 64 | [Breakdown](https://open.spotify.com/track/6tpGF2kYnrqO0S44jKxduZ) | [Tantric](https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV) | [Tantric \(U.S\. Version\-Enh'd\)](https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ) | 3:10 |
-| 65 | [Slow Chemical](https://open.spotify.com/track/2h5Kce0Vt3PWgMYkYuUL3E) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [The Punisher: The Album](https://open.spotify.com/album/35bHrnMSA8aZ0P5nemqhIp) | 3:18 |
+| 64 | [Slow Chemical](https://open.spotify.com/track/2h5Kce0Vt3PWgMYkYuUL3E) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [The Punisher: The Album](https://open.spotify.com/album/35bHrnMSA8aZ0P5nemqhIp) | 3:18 |
+| 65 | [Breakdown](https://open.spotify.com/track/6tpGF2kYnrqO0S44jKxduZ) | [Tantric](https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV) | [Tantric \(U.S\. Version\-Enh'd\)](https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ) | 3:10 |
 | 66 | [Bottom of a Bottle](https://open.spotify.com/track/3EmNjy3zFszmAOCikiKxCd) | [Smile Empty Soul](https://open.spotify.com/artist/1KEUVZo7CMTSJoM8doulOT) | [Shapeshifter](https://open.spotify.com/album/4t8bZNqNroLlMNj8p908VL) | 3:41 |
 | 67 | [You](https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:57 |
 | 68 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 71 | [Open Your Eyes](https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 4:58 |
 | 72 | [So Cold](https://open.spotify.com/track/3xXKwkmkrpZmGpIof83xbE) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Shallow Bay: The Best Of Breaking Benjamin \(Explicit\)](https://open.spotify.com/album/68pVw4aHEP73HmIufK0gvP) | 4:33 |
 | 73 | [Stacked Actors](https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:16 |
-| 74 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
-| 75 | [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 |
+| 74 | [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 |
+| 75 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
 | 76 | [In Loving Memory](https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 5:40 |
 | 77 | [Poor Aileen](https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:27 |
 | 78 | [Heroin](https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 99 | [Cumbersome](https://open.spotify.com/track/6XmpvInnm4EgCUgXMTqIRR) | [Seven Mary Three](https://open.spotify.com/artist/2zsLaQhHFdQPdFXqG1nRmM) | [Churn](https://open.spotify.com/album/6vnsykSsmiy1etv3krbC5T) | 6:02 |
 | 100 | [Bulletproof Skin](https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/5oKTgRe1bSLIkZ39pwHqrj) | 4:25 |
 
-Snapshot ID: `MCxhY2IwZWZlZjliYWJhZDZmN2VjNDRhOTY4MTE2ZjUzZTEzZmFkYzUy`
+Snapshot ID: `MCw0NmJmNzJmZTNlYTg2Y2FmZmQ0YzRjODczY2E0MTcxZWY0NmI2ODc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,332 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,705 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 31 | [Personal Jesus](https://open.spotify.com/track/4gZYw4chUdkjumdu0ODJ9t) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Personal Jesus](https://open.spotify.com/album/3YvC5RaRG42fAd6VGqWR0R) | 4:06 |
 | 32 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 |
 | 33 | [Cinnamon Girl](https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 4:08 |
-| 34 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
-| 35 | [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 |
-| 36 | [Diamonds](https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Diamonds](https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy) | 4:06 |
-| 37 | [Shout 2000](https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:18 |
-| 38 | [Blinding Lights](https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7) | 3:03 |
+| 34 | [Blinding Lights](https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7) | 3:03 |
+| 35 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
+| 36 | [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 |
+| 37 | [Diamonds](https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Diamonds](https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy) | 4:06 |
+| 38 | [Shout 2000](https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:18 |
 | 39 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 |
 | 40 | [Get Lucky](https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 3:08 |
 | 41 | [Shock the Monkey](https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Chamber Music](https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 49 | [Hey Joe](https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Born Dead](https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz) | 4:28 |
 | 50 | [Voyage Voyage](https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Riddles, Ruins & Revelations](https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm) | 4:18 |
 
-Snapshot ID: `MCxiMTU5NTcxODY5ZjVjMjVhZTYxY2EzNTRiYTQ3OWY1Y2E3NzIxZjJi`
+Snapshot ID: `MCw1NmEwMWJhODkwNjRhY2ZjMjQ2MDI2N2QxMGU4YTE0MTRjOWNmODE5`

@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 149068,
+  "num_followers": 149119,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWYyMGNjN2RlODM4MjcyNmE4MjgwNDNhNjRjM2JhYjlhMWY3ODkz",
+  "snapshot_id": "MCwwZjE0MzdkY2ZlNWVmZjM1ODUwZTRlMjZjZTJiN2E2MGRjYTM0ZTlh",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 147706,
-      "name": "I'm Sorry I Made You Cry",
-      "url": "https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "The Best of Don Cherry",
         "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 147706,
+      "name": "I'm Sorry I Made You Cry",
+      "url": "https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "The Legendary Masters Series (Volume 1)",
         "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
       },
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Presenting Eddie Fisher",
-        "url": "https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3"
-      },
-      "artists": [
-        {
-          "name": "Eddie Fisher",
-          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Cindy Oh Cindy",
-      "url": "https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Golden Girl (The Columbia Recordings 1944-1966)",
         "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 179373,
       "name": "The Black Hills of Dakota",
       "url": "https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Presenting Eddie Fisher",
+        "url": "https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3"
+      },
+      "artists": [
+        {
+          "name": "Eddie Fisher",
+          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Cindy Oh Cindy",
+      "url": "https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5"
     },
     {
       "added_at": "2020-07-08 17:36:08",

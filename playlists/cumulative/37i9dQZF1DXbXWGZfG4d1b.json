@@ -4332,7 +4332,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 205557,
       "name": "Mandala",
       "url": "https://open.spotify.com/track/1ZbPfPD5voaTWndeCxuxU5"
@@ -8126,6 +8126,24 @@
       "duration_ms": 335832,
       "name": "\u00c1rboles y Pasarelas",
       "url": "https://open.spotify.com/track/6WpZRLPsYPddfQ2trrdyOD"
+    },
+    {
+      "album": {
+        "name": "\u00c9xodo Mental",
+        "url": "https://open.spotify.com/album/3m9ywZHKa2Zj2uldZ4s3CO"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196951,
+      "name": "\u00c9xodo Mental",
+      "url": "https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Relax to the sounds of acoustic blues and folk.
 
-113 songs - 7 hr 14 min
+114 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [New Anthem](https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Mood](https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R) | 2:34 | 2022-07-12 |  |
 | [Night After Sidewalk](https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 3:34 | 2021-12-17 |  |
 | [Orange County Serenade](https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange County Serenade](https://open.spotify.com/album/5MX3706iqptzAKSur97vbT) | 3:32 | 2023-01-06 | 2023-04-30 |
+| [Orange County Serenade](https://open.spotify.com/track/1ch5qYv75SfJyOaZJEcNzs) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange County Serenade](https://open.spotify.com/album/5fPjBAFjqX4Cf0XAPhGVcf) | 3:32 | 2023-04-07 |  |
 | [Orange County Serenade](https://open.spotify.com/track/4jw7C3myL67kCqREaJ906E) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 3:32 | 2021-12-17 | 2022-07-28 |
 | [Plains of Waterloo / James Connolly](https://open.spotify.com/track/2JL9T7W6C9O0dYR8TO1FLg) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/3ceu61cumgwBG11W6fUVvJ) | 5:39 | 2022-07-12 | 2023-04-29 |
 | [Plains Of Waterloo / James Connolly](https://open.spotify.com/track/4LQTu75E30lxao3W0FSXbS) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/3neRUS7AJfbMdtSdEFTZQg) | 5:39 | 2021-12-17 | 2022-07-29 |
@@ -94,7 +95,7 @@
 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 | 2021-12-17 |  |
 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 | 2021-12-17 |  |
 | [Shake Sugaree](https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Shake Sugaree](https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W) | 3:29 | 2021-12-17 |  |
-| [She Ain't Nowhere \- Remastered](https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF) | 2:49 | 2021-12-17 |  |
+| [She Ain't Nowhere \- Remastered](https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF) | 2:49 | 2021-12-17 | 2023-05-14 |
 | [Sligo River Blues \- Original Recording](https://open.spotify.com/track/5U9mObciLrrnJC0hE84SIu) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [The Legend Of Blind Joe Death](https://open.spotify.com/album/5dPdHCE2QcT3FZqNAfMJO8) | 3:05 | 2021-12-17 |  |
 | [Spike Driver Blues](https://open.spotify.com/track/0QcYseQfUmZpjXGoXDT9z4) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:28 | 2022-05-25 |  |
 | [Starvation Blues](https://open.spotify.com/track/0w4hTuo1L6IVSRKns0BqSD) | [Big Bill Broonzy](https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu) | [All The Classic Sides 1928 \- 1937 CD C](https://open.spotify.com/album/0eNsmN2JZlbtxTx3vBo60b) | 3:27 | 2023-01-06 | 2023-03-07 |

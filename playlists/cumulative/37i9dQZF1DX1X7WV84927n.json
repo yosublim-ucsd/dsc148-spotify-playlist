@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Dark Void",
+        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Dark Void",
+      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
+    },
+    {
+      "album": {
         "name": "Darkness Before The Dawn",
         "url": "https://open.spotify.com/album/3IZTHRazB2WFoRlrHzFd4x"
       },
@@ -6552,7 +6570,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 181120,
       "name": "Together Right",
       "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"

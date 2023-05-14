@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ferrugem, Guilherme & Benuto com Simone Mendes, Shakira, Papatinho com Luiza Sonza e DJ Biel do Furduncinho, Alexandre Pires com Maiara & Maraísa e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,869,059 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,869,267 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 31 | [Molho](https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Molho](https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX) | 2:47 |
 | 32 | [X da Questão \- Ao Vivo](https://open.spotify.com/track/5qmuo6yqDAfrslIo1pn4mQ) | [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q), [Renato da Rocinha](https://open.spotify.com/artist/2bRmiOcLOpBKxnMRZ9Nqiv) | [X da Questão \(Ao Vivo\)](https://open.spotify.com/album/6fAlbZkCdrFyB1BGIkYY5A) | 3:13 |
 | 33 | [Cachaceiro](https://open.spotify.com/track/3zCD5FbTi7eMB4zGCVivoS) | [Molejo](https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe), [Exaltacana](https://open.spotify.com/artist/4cdAOynoU0lviC89wQX9F0) | [Cachaceiro](https://open.spotify.com/album/0bwcTbOw0iIFS4FSTQLXyL) | 2:37 |
-| 34 | [Hear You Calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 |
+| 34 | [Hear you calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 |
 | 35 | [2 Much 2 Handle](https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Alok Club Series 2023](https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT) | 3:08 |
 | 36 | [Voz do Destino](https://open.spotify.com/track/7Iec2eWfv49sfUzOmIOc8z) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Jaqueira](https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M) | 2:46 |
 | 37 | [Motor](https://open.spotify.com/track/2NeCzvtURdGehud3qHsvaF) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Motor](https://open.spotify.com/album/50mSvzbbn5zyjS9bwTKU5N) | 2:38 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 86 | [Ato Idiota \- Ao Vivo](https://open.spotify.com/track/0KyBNh6thHqfa4gICRC20T) | [Mateus e Cristiano](https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y) | [No Quintal Vol.1 \(Ao vivo\)](https://open.spotify.com/album/7riaeJNd4xyQcVgF5VLfHD) | 3:27 |
 | 87 | [Pampa](https://open.spotify.com/track/3qjsSN9QcDSeNM30FoqAYE) | [Dubdisko](https://open.spotify.com/artist/6DL4EekcvzJIDIOOQQbe3Z), [Mc Tevez](https://open.spotify.com/artist/5tdv4LIEGUaXi0YmDUc7C5) | [Pampa](https://open.spotify.com/album/3CEy9ubApNxbrOtRCEW0nu) | 3:04 |
 | 88 | [Eu Nem Sabia](https://open.spotify.com/track/6TiU1URegwlqUv6RTP4Ezh) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Eu Nem Sabia](https://open.spotify.com/album/48TZLqHz2j1CoDep5W7vZE) | 3:07 |
-| 89 | [Desde Que Eu Não Tinha Nada](https://open.spotify.com/track/5RcI8wb122fcezQ3x8UjIT) | [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul), [Drako](https://open.spotify.com/artist/0t8ncMSqGZOIly3U2hlbMp) | [Desde Que Eu Não Tinha Nada](https://open.spotify.com/album/1NxlweKjAoZCVaqtplaYBa) | 2:34 |
+| 89 | [Desde Que Eu Não Tinha Nada](https://open.spotify.com/track/5RcI8wb122fcezQ3x8UjIT) | [Drako](https://open.spotify.com/artist/0t8ncMSqGZOIly3U2hlbMp), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Desde Que Eu Não Tinha Nada](https://open.spotify.com/album/1NxlweKjAoZCVaqtplaYBa) | 2:34 |
 | 90 | [Taz Mania](https://open.spotify.com/track/5ahYKNg76j1PzLWfOQ9JyB) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG) | [Taz Mania](https://open.spotify.com/album/3JAKgyTMTA8bfS48g6IL7e) | 2:29 |
 | 91 | [Tacadona](https://open.spotify.com/track/3TOU1vovRYMFwfG6r4d0Ux) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL) | [Tacadona](https://open.spotify.com/album/4RD113kwbvo1R859zskWVJ) | 2:24 |
 | 92 | [O Mundo dá Volta](https://open.spotify.com/track/6eAQGJErdsHTNaH2NQYffn) | [Na Hora H](https://open.spotify.com/artist/3nwLhoJrBjPgQwuAL7J3NJ) | [O Mundo dá Volta](https://open.spotify.com/album/1RfUdhFks1M2piZm5N8Sna) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [CENA DE CRIME](https://open.spotify.com/track/7Dqq9FMpcTZ9PFRIcoQtCB) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [CENA DE CRIME](https://open.spotify.com/album/1tOPXu6JWqZ8eoAczxWAob) | 2:56 |
 | 100 | [Alô Mãe](https://open.spotify.com/track/2MhUz4FlePwbAQN8mTQZXa) | [LT](https://open.spotify.com/artist/27EsaYcDfQ1XhSx08LJCNR) | [Alô Mãe](https://open.spotify.com/album/21us8PfHTrtENnQvL9QFnr) | 2:32 |
 
-Snapshot ID: `MCxmYmJhM2M5NzZhMWU5YjUyYjFkMmE0YzUzZmZlOWUyNTZiMGM0MDhh`
+Snapshot ID: `MCxjOTM3Zjc2ODkwOTNkNTY0MjFiOGJhN2FjZDUwNjkyZDZhOWI2NWE1`

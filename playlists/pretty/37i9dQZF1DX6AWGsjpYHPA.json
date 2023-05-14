@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 104767,
+  "num_followers": 104874,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjg3ODA3ZDZkODkxNzhlYzUwNzcyMzhlOTJjYWNiZjcwMzI3OWU4",
+  "snapshot_id": "MCxjMGQ4NDdkOWJkMTJjZjRkMThjOGJkODY2ODA5ZGMxMTExOTU3YTRm",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 193401,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 193401,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Space Is Only Noise",
-        "url": "https://open.spotify.com/album/0tUJcqDuXHNkaPKLN0lQhT"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 202762,
-      "name": "Colomb",
-      "url": "https://open.spotify.com/track/5PV6r93MQICDlBiCEbURLZ"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Dub Reggae",
         "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Trust In The Lifeforce Of The Deep Mystery",
         "url": "https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 189422,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -987,22 +971,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "No Mind",
-        "url": "https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 135269,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
       },
@@ -1023,22 +991,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
+        "name": "No Mind",
+        "url": "https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL"
       },
       "artists": [
         {
-          "name": "Andrew Ashong",
-          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
-        },
-        {
-          "name": "Theo Parrish",
-          "url": "https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz"
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
         }
       ],
-      "duration_ms": 532313,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn"
+      "duration_ms": 135269,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1055,6 +1019,26 @@
       "duration_ms": 252413,
       "name": "Asa Branca",
       "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ashong",
+          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
+        },
+        {
+          "name": "Theo Parrish",
+          "url": "https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz"
+        }
+      ],
+      "duration_ms": 532313,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Fantastic Freeriding the Next Chapter",
+        "url": "https://open.spotify.com/album/4m2o851gadxmuGsR8pJjDE"
+      },
+      "artists": [
+        {
+          "name": "Kabanjak",
+          "url": "https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Revelation Dub",
+      "url": "https://open.spotify.com/track/1wCcfw6WxRWoic7UHV2Aez"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Talk Memory",
         "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 313587,
       "name": "Beside April",
       "url": "https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Fantastic Freeriding the Next Chapter",
-        "url": "https://open.spotify.com/album/4m2o851gadxmuGsR8pJjDE"
-      },
-      "artists": [
-        {
-          "name": "Kabanjak",
-          "url": "https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Revelation Dub",
-      "url": "https://open.spotify.com/track/1wCcfw6WxRWoic7UHV2Aez"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1319,6 +1303,22 @@
       "duration_ms": 449773,
       "name": "Maiysha (So Long) (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 287871,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
     }
   ],
   "unique_name": "Turntable",

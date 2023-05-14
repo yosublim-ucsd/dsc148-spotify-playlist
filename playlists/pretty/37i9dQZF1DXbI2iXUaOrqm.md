@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 
 > Rock meets pop meets punk, para esos días cuando todo te vale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,785 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,806 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 24 | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/track/6p89XxqTCv34VrLQADjHRj) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/album/4xkGY6Qceq06NaCim0j62d) | 2:57 |
 | 25 | [mejores amigos](https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [mejores amigos](https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8) | 2:53 |
 | 26 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 |
-| 27 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 |
-| 28 | [Nada](https://open.spotify.com/track/09i3oMxXeiA6wWW6GN2DVk) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Archivos Vol\. 2: Duetos](https://open.spotify.com/album/3blJSYcNM4IGK6ohylk0pb) | 4:20 |
+| 27 | [Nada](https://open.spotify.com/track/09i3oMxXeiA6wWW6GN2DVk) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Archivos Vol\. 2: Duetos](https://open.spotify.com/album/3blJSYcNM4IGK6ohylk0pb) | 4:20 |
+| 28 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 |
 | 29 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 |
 | 30 | [Psycho](https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:13 |
 | 31 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 |
-| 32 | [Me da igual](https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [No Me Odio Tanto](https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB) | 2:58 |
-| 33 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
+| 32 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
+| 33 | [Me da igual](https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [No Me Odio Tanto](https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB) | 2:58 |
 | 34 | [Quiero Estar](https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:13 |
 | 35 | [Odio que te quiero](https://open.spotify.com/track/3GazPkKkfpgoHk4VgRbUY0) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Odio que te quiero](https://open.spotify.com/album/30ATsCNOpb1XAPop66VxQD) | 2:43 |
 | 36 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 38 | [FBI](https://open.spotify.com/track/7Cb7KptiBrbDHaKKFN6iAn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:24 |
 | 39 | [Ya Me Hiciste Mal](https://open.spotify.com/track/6Iui84AizPAWhNTnPpxJfm) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [El Reflejo](https://open.spotify.com/album/6EpG00D5DG21KhM8OIB0yk) | 3:19 |
 | 40 | [Flashbacks](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Flashbacks](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 |
-| 41 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 |
-| 42 | [Cuenta conmigo](https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Cuenta conmigo](https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6) | 2:46 |
+| 41 | [Cuenta conmigo](https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Cuenta conmigo](https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6) | 2:46 |
+| 42 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 |
 | 43 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
 | 44 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
 | 45 | [Suplentes](https://open.spotify.com/track/7moz5TLsJI5r1QMycc5rUr) | [Arawato](https://open.spotify.com/artist/6nxwdNlg4g7FrLZZB43n5v) | [Suplentes](https://open.spotify.com/album/7rynoVmIF0ut7qpWPqCu0i) | 3:50 |
 | 46 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 |
-| 47 | [ADIÓS](https://open.spotify.com/track/77sReicKWZNkkHt4mvJsRJ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [ADIÓS](https://open.spotify.com/album/3uKlDsuCyX7BDyRUJKuLvh) | 3:57 |
-| 48 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 |
+| 47 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 |
+| 48 | [ADIÓS](https://open.spotify.com/track/77sReicKWZNkkHt4mvJsRJ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [ADIÓS](https://open.spotify.com/album/3uKlDsuCyX7BDyRUJKuLvh) | 3:57 |
 | 49 | [Me Tome Una Pastilla...](https://open.spotify.com/track/38qcLdCR7vSCkq3ClfaWpX) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Defecto Perfecto](https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx) | 4:38 |
 | 50 | [Con los Pies en el Techo](https://open.spotify.com/track/6nMllahSeGPicYXH61ray7) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Con los Pies en el Techo](https://open.spotify.com/album/72aS3wri62UToYS68QLUn4) | 3:27 |
 
-Snapshot ID: `MCw3YzQyN2U3N2QyNzA1ZjI1YjIwZTczZGJhNzY0NDA2YzkxYWNlMTk1`
+Snapshot ID: `MCw2ZjliNzA4NjA5MDRjMmU4NzJlYTQ1MDMzMDQzYmMyODVhOGY5MzI2`

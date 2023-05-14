@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 750895,
+  "num_followers": 751097,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWRjZDJlZDdlODYzODYwYThkZjg1NjY2YThiNzAxNzZkZmM5MmYw",
+  "snapshot_id": "MCw2MTgzZmI1ZDc3MjMwZTg1YTNlMzFmMTQzOTEzYWRkMjg1ZWU4ZDBj",
   "tracks": [
     {
       "added_at": "2023-05-12 20:51:37",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-05-12 20:51:37",
       "album": {
+        "name": "Trem-Bala",
+        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 180319,
+      "name": "Trem-Bala",
+      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
+    },
+    {
+      "added_at": "2023-05-12 20:51:37",
+      "album": {
         "name": "Bem Melhor",
         "url": "https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4"
       },
@@ -391,18 +407,22 @@
     {
       "added_at": "2023-05-12 20:51:37",
       "album": {
-        "name": "Trem-Bala",
-        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+        "name": "Rita Lee",
+        "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
       },
       "artists": [
         {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
         }
       ],
-      "duration_ms": 180319,
-      "name": "Trem-Bala",
-      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
+      "duration_ms": 310760,
+      "name": "Lan\u00e7a Perfume",
+      "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
     },
     {
       "added_at": "2023-05-12 20:51:37",
@@ -443,22 +463,6 @@
     {
       "added_at": "2023-05-12 20:51:37",
       "album": {
-        "name": "Djavan",
-        "url": "https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 296106,
-      "name": "Oceano",
-      "url": "https://open.spotify.com/track/3iof6EclqePezHDibBiykI"
-    },
-    {
-      "added_at": "2023-05-12 20:51:37",
-      "album": {
         "name": "COR",
         "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
       },
@@ -479,22 +483,18 @@
     {
       "added_at": "2023-05-12 20:51:37",
       "album": {
-        "name": "Rita Lee",
-        "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
+        "name": "Djavan",
+        "url": "https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA"
       },
       "artists": [
         {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 310760,
-      "name": "Lan\u00e7a Perfume",
-      "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
+      "duration_ms": 296106,
+      "name": "Oceano",
+      "url": "https://open.spotify.com/track/3iof6EclqePezHDibBiykI"
     },
     {
       "added_at": "2023-05-12 20:51:37",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-05-12 20:51:37",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+        "name": "Promete",
+        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
         }
       ],
-      "duration_ms": 197453,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+      "duration_ms": 198377,
+      "name": "Promete",
+      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2023-05-12 20:51:37",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-05-12 20:51:37",
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "added_at": "2023-05-12 20:51:37",
+      "album": {
         "name": "Enciclop\u00e9dia Musical Brasileira",
         "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 235080,
       "name": "Brasil pandeiro",
       "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
-    },
-    {
-      "added_at": "2023-05-12 20:51:37",
-      "album": {
-        "name": "Promete",
-        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 198377,
-      "name": "Promete",
-      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2023-05-12 20:51:37",

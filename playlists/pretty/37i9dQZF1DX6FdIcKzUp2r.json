@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 199896,
+  "num_followers": 199987,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzcxNzlhMTAzNGYyMDJjNTMyNWFkODRiZjk0YjA1MjU2NjcxMmYz",
+  "snapshot_id": "MCxhYjIwOGY1YTJiOGNjNzE4ZjI5OGEyYWI3Nzg0YjFiNGFjODRlNmM2",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -223,22 +223,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 332506,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Into the Gap (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 286360,
       "name": "Hold Me Now",
       "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 332506,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -575,26 +575,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Merry Christmas, Mr. Lawrence",
-        "url": "https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        },
-        {
-          "name": "David Sylvian",
-          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
-        }
-      ],
-      "duration_ms": 282973,
-      "name": "Forbidden Colors",
-      "url": "https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "From Time To Time - The Singles Collection",
         "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 320293,
       "name": "That's Just the Way It Is - 2016 Remaster",
       "url": "https://open.spotify.com/track/5R1VlOafxN2pqpiEuFr1Hi"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Merry Christmas, Mr. Lawrence",
+        "url": "https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+        }
+      ],
+      "duration_ms": 282973,
+      "name": "Forbidden Colors",
+      "url": "https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -819,22 +819,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "October (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "October - Remastered 2008",
-      "url": "https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Singles (Expanded)",
         "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 296000,
       "name": "If Leaving Me Is Easy - 2015 Remaster",
       "url": "https://open.spotify.com/track/3PuwTAbtjZDgeCqb7OAdzd"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "October (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "October - Remastered 2008",
+      "url": "https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -951,6 +951,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Father to Son - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Never for Ever (2018 Remaster)",
         "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 292720,
       "name": "Shipbuilding",
       "url": "https://open.spotify.com/track/7DV1fLakiEgpJ1OuMQH4yb"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Father to Son - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9"
     },
     {
       "added_at": "2018-12-12 11:36:39",

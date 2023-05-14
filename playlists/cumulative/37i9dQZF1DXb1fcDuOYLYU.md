@@ -4,7 +4,7 @@
 
 > Celebrating the powerful voices of Latin music\. Cover: Ivy Queen
 
-264 songs - 14 hr 31 min
+265 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1Trago](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1Trago](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 | 2023-04-14 |  |
 | [2050](https://open.spotify.com/track/3QH4zxq7lDbIbS8UQzjmvu) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [2050](https://open.spotify.com/album/1Klza85GWJk8UXfnO6Z4jE) | 2:24 | 2022-03-14 | 2023-02-16 |
 | [Acaramelao](https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:05 | 2022-03-14 | 2023-02-16 |
+| [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 | 2023-05-12 |  |
 | [ACTIVA](https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ACTIVA](https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp) | 4:21 | 2023-02-16 | 2023-05-13 |
 | [Adios](https://open.spotify.com/track/3UL2lHZvjjPEHzwsnqO00v) | [Kim Viera](https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41), [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Adios](https://open.spotify.com/album/0ISSpToY9pWlRxvX2nnus5) | 3:35 | 2022-03-14 | 2023-02-16 |
 | [ADIÓS AMOR](https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:39 | 2023-02-16 |  |
@@ -194,7 +195,7 @@
 | [Pa Ti \(For You\)](https://open.spotify.com/track/2wUgG5Fr9PQcIbKRfVJ76C) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pa Ti + Lonely](https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt) | 3:49 | 2022-03-14 | 2023-02-16 |
 | [papacito](https://open.spotify.com/track/1GNkILpn4KRDLTfgeewXqi) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg) | 3:05 | 2023-02-16 |  |
 | [Para Siempre](https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:21 | 2022-03-14 | 2023-02-16 |
-| [Para Siempre..\. ¿?](https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Para Siempre..\. ¿?](https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu) | 3:18 | 2023-02-16 |  |
+| [Para Siempre..\. ¿?](https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Para Siempre..\. ¿?](https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu) | 3:18 | 2023-02-16 | 2023-05-14 |
 | [París](https://open.spotify.com/track/1spjTB2jFkxAvMdKas3x2H) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:31 | 2023-02-16 |  |
 | [Perdón, Perdón \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:46 | 2022-03-14 | 2023-02-16 |
 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 | 2023-02-16 |  |

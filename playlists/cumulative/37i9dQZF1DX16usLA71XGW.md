@@ -4,7 +4,7 @@
 
 > East Africa Queens in their music bag
 
-86 songs - 4 hr 31 min
+88 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Mad Man](https://open.spotify.com/track/5v8HPYHWaq4qC1OO3WPGQz) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Mad Man](https://open.spotify.com/album/6iV8YILfRjXdBhqH83gL2q) | 3:05 | 2022-10-27 |  |
 | [Mama Ni Mama \(feat\. Stamina\)](https://open.spotify.com/track/3pnbWpwpvO2SFCp0nmxWW2) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Stamina](https://open.spotify.com/artist/1lNZxLtB9UxI8jMSabmSX7) | [Mama Ni Mama \(feat\. Stamina\)](https://open.spotify.com/album/1pTFzkawyvwa9fQ6KR8c2l) | 3:53 | 2023-03-30 |  |
 | [Mama Ntilie](https://open.spotify.com/track/3M52Cys94u7FX3nUww5ITl) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6) | [Mama Ntilie](https://open.spotify.com/album/78X3PS16LknVFjRix2nc9h) | 2:31 | 2022-07-18 |  |
-| [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 | 2022-12-16 |  |
+| [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 | 2023-05-11 |  |
+| [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 | 2022-12-16 | 2023-05-14 |
 | [Mbikka](https://open.spotify.com/track/0aX9cCnSbOK71jbkIoTdnL) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Mbikka](https://open.spotify.com/album/1HZpwYR92F4Krb8d1R7FrZ) | 2:54 | 2022-07-18 | 2022-09-30 |
 | [Money](https://open.spotify.com/track/5wXGMc37E8zPQahBiZGu87) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [MONEY](https://open.spotify.com/album/1C4342P9N6QgqnQezg8Ony) | 2:54 | 2022-07-18 |  |
 | [Moyo](https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7) | [Moyo](https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i) | 2:26 | 2022-07-18 |  |
@@ -82,7 +83,8 @@
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-07-18 | 2022-08-20 |
 | [Skia](https://open.spotify.com/track/5UpnIhGL7UfPcgnLmsmbZU) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Skia](https://open.spotify.com/album/1lZCh8wawVRNTa5scsx3JY) | 2:58 | 2022-07-18 |  |
 | [Slow Dancing](https://open.spotify.com/track/6Qyi7tjYfQf3jSc2DjgVMC) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC \(Deluxe\)](https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8) | 3:22 | 2022-07-18 |  |
-| [Te Quiero](https://open.spotify.com/track/420JxzIQL7fiH7hAAJAvsk) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef) | 2:58 | 2022-07-18 |  |
+| [Te Quiero](https://open.spotify.com/track/420JxzIQL7fiH7hAAJAvsk) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef) | 2:58 | 2022-07-18 | 2023-05-14 |
+| [Te Quiero](https://open.spotify.com/track/6PtSPngdTdpXCirFEyEGHG) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/0e7I2Jwq5O4MLDVd3oCPxJ) | 2:58 | 2023-05-11 |  |
 | [Toola](https://open.spotify.com/track/6ckQHJ3Q1UjduZtkp6t5N4) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC) | 2:44 | 2022-09-08 |  |
 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 | 2022-07-18 |  |
 | [Unanikosha](https://open.spotify.com/track/6gHk7bjniGrFzZeIWuut7t) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH) | [Unanikosha](https://open.spotify.com/album/3O0zOnmqZcMapWxGooBzVu) | 3:02 | 2022-07-18 | 2023-04-14 |

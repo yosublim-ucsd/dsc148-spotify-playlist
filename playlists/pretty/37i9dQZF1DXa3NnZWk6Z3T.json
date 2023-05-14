@@ -1,12 +1,12 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 578650,
+  "num_followers": 578788,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjJjOWQwOWZjZTI3NTUxZTU3OTY0MzdiMDY5ZjVlMmMzMDJiMjBm",
+  "snapshot_id": "MCwzYjkxNjYyOWNiMGVjYjkyZGFkYzY3YzcwZDY3MWE4MjJhMTgxZmJj",
   "tracks": [
     {
       "added_at": "2023-04-03 17:33:59",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
+        "name": "desde que estas en mi vida",
+        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "desde que estas en mi vida",
+      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
+    },
+    {
+      "added_at": "2023-04-03 17:33:59",
+      "album": {
         "name": "Amor Presente",
         "url": "https://open.spotify.com/album/6qPyFeApmk6187F7yoQvcd"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 233760,
       "name": "Todas Juntas (feat. Vicente Garc\u00eda)",
       "url": "https://open.spotify.com/track/2I5BjOL9xpobbem28XWQxD"
-    },
-    {
-      "added_at": "2023-04-03 17:33:59",
-      "album": {
-        "name": "desde que estas en mi vida",
-        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "desde que estas en mi vida",
-      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
+        "name": "Hermanos",
+        "url": "https://open.spotify.com/album/3Ym20zSH4IO3ts16Fbl4iK"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Hermanos",
+      "url": "https://open.spotify.com/track/7MUzu20kwvA0aY82nYVKtl"
+    },
+    {
+      "added_at": "2023-04-03 17:33:59",
+      "album": {
         "name": "L\u00edmite",
         "url": "https://open.spotify.com/album/1ckvNAd7THdzMO4Pa09S41"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
-        "name": "Hermanos",
-        "url": "https://open.spotify.com/album/3Ym20zSH4IO3ts16Fbl4iK"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Hermanos",
-      "url": "https://open.spotify.com/track/7MUzu20kwvA0aY82nYVKtl"
-    },
-    {
-      "added_at": "2023-04-03 17:33:59",
-      "album": {
         "name": "Luna Completa",
         "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
       },
@@ -923,26 +923,6 @@
       "duration_ms": 288653,
       "name": "Luna Completa",
       "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
-    },
-    {
-      "added_at": "2023-04-03 17:33:59",
-      "album": {
-        "name": "Si por Mi Fuera",
-        "url": "https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Si por Mi Fuera",
-      "url": "https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -963,6 +943,26 @@
       "duration_ms": 208611,
       "name": "La Fortuna (feat. Tommy Torres)",
       "url": "https://open.spotify.com/track/6TKdsVl3GeAJrcuTGbvUzq"
+    },
+    {
+      "added_at": "2023-04-03 17:33:59",
+      "album": {
+        "name": "Si por Mi Fuera",
+        "url": "https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Si por Mi Fuera",
+      "url": "https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
-        "name": "Latin & Love Studies",
-        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        },
-        {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
-        }
-      ],
-      "duration_ms": 240298,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
-    },
-    {
-      "added_at": "2023-04-03 17:33:59",
-      "album": {
         "name": "H\u00e1blame",
         "url": "https://open.spotify.com/album/7w28fuy5R66v2JZK5TJ9oF"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 203059,
       "name": "H\u00e1blame",
       "url": "https://open.spotify.com/track/065HDJH9bo6LUa6qMJbwfc"
+    },
+    {
+      "added_at": "2023-04-03 17:33:59",
+      "album": {
+        "name": "Latin & Love Studies",
+        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        },
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        }
+      ],
+      "duration_ms": 240298,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
-        "name": "Mar Abierto",
-        "url": "https://open.spotify.com/album/6ggfwl5PZYQc4F3xk5g2GE"
-      },
-      "artists": [
-        {
-          "name": "El Otro Polo",
-          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
-        }
-      ],
-      "duration_ms": 173291,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/219jqVvucWF77DMgyB3UAf"
-    },
-    {
-      "added_at": "2023-04-03 17:33:59",
-      "album": {
         "name": "Todo el D\u00eda en la Cama",
         "url": "https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 256947,
       "name": "Todo el D\u00eda en la Cama",
       "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
+    },
+    {
+      "added_at": "2023-04-03 17:33:59",
+      "album": {
+        "name": "Mar Abierto",
+        "url": "https://open.spotify.com/album/6ggfwl5PZYQc4F3xk5g2GE"
+      },
+      "artists": [
+        {
+          "name": "El Otro Polo",
+          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
+        }
+      ],
+      "duration_ms": 173291,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/219jqVvucWF77DMgyB3UAf"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
-        "name": "Everybody Wants to Rule the World",
-        "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
-      },
-      "artists": [
-        {
-          "name": "Making Movies",
-          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Everybody Wants to Rule the World",
-      "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
-    },
-    {
-      "added_at": "2023-04-03 17:33:59",
-      "album": {
         "name": "Amor En Cuarentena",
         "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+        "name": "Everybody Wants to Rule the World",
+        "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+          "name": "Making Movies",
+          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
         }
       ],
-      "duration_ms": 242733,
-      "name": "Carnaval",
-      "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
+      "duration_ms": 238946,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
+    },
+    {
+      "added_at": "2023-04-03 17:33:59",
+      "album": {
         "name": "Cuando Los Ac\u00e9falos Predominan",
         "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
       },
@@ -1751,22 +1751,6 @@
       "duration_ms": 236001,
       "name": "Nuestro Amanecer",
       "url": "https://open.spotify.com/track/36KOwkfm9glzKJ62jo7hNr"
-    },
-    {
-      "added_at": "2023-04-03 17:33:59",
-      "album": {
-        "name": "Harta",
-        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -1787,6 +1771,22 @@
       "duration_ms": 136595,
       "name": "Velero",
       "url": "https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2"
+    },
+    {
+      "added_at": "2023-04-03 17:33:59",
+      "album": {
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -2071,18 +2071,22 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
-        "name": "Uno Que Tropieza Y Cae Al Mar",
-        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
+        "name": "Qu\u00e9mame",
+        "url": "https://open.spotify.com/album/0kAh4D7msjeaAh3wEUnEjL"
       },
       "artists": [
         {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+          "name": "Chl\u00f6e's Clue",
+          "url": "https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 209346,
-      "name": "Uno Que Tropieza Y Cae Al Mar",
-      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+      "duration_ms": 181570,
+      "name": "Qu\u00e9mame",
+      "url": "https://open.spotify.com/track/00p2eQGJy60FtOHjnI1Ch0"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -2107,38 +2111,18 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
-        "name": "Qu\u00e9mame",
-        "url": "https://open.spotify.com/album/0kAh4D7msjeaAh3wEUnEjL"
+        "name": "Uno Que Tropieza Y Cae Al Mar",
+        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
       },
       "artists": [
         {
-          "name": "Chl\u00f6e's Clue",
-          "url": "https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
         }
       ],
-      "duration_ms": 181570,
-      "name": "Qu\u00e9mame",
-      "url": "https://open.spotify.com/track/00p2eQGJy60FtOHjnI1Ch0"
-    },
-    {
-      "added_at": "2023-04-03 17:33:59",
-      "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 134613,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5"
+      "duration_ms": 209346,
+      "name": "Uno Que Tropieza Y Cae Al Mar",
+      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -2155,6 +2139,22 @@
       "duration_ms": 244308,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/2sxGambjEMewIexGbpP089"
+    },
+    {
+      "added_at": "2023-04-03 17:33:59",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 134613,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -2211,6 +2211,38 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
+        "name": "Para Echar la Lloradita",
+        "url": "https://open.spotify.com/album/1JkjAUi5VkRPtiVbT273KR"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 234750,
+      "name": "Ausente",
+      "url": "https://open.spotify.com/track/7uR5yFqTHZYqPlO9zXTR2M"
+    },
+    {
+      "added_at": "2023-04-03 17:33:59",
+      "album": {
+        "name": "Junto al Mar",
+        "url": "https://open.spotify.com/album/20Ar89pZc5ITtvq4WyIDJB"
+      },
+      "artists": [
+        {
+          "name": "Sofia Macchi",
+          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+        }
+      ],
+      "duration_ms": 278244,
+      "name": "Junto al Mar",
+      "url": "https://open.spotify.com/track/64ZOhhQARScqXYjdGsiBuV"
+    },
+    {
+      "added_at": "2023-04-03 17:33:59",
+      "album": {
         "name": "Se Acaba Todo",
         "url": "https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB"
       },
@@ -2239,38 +2271,6 @@
       "duration_ms": 226107,
       "name": "Gameboi",
       "url": "https://open.spotify.com/track/221fy9rovP31zQCzebODNm"
-    },
-    {
-      "added_at": "2023-04-03 17:33:59",
-      "album": {
-        "name": "Junto al Mar",
-        "url": "https://open.spotify.com/album/20Ar89pZc5ITtvq4WyIDJB"
-      },
-      "artists": [
-        {
-          "name": "Sofia Macchi",
-          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
-        }
-      ],
-      "duration_ms": 278244,
-      "name": "Junto al Mar",
-      "url": "https://open.spotify.com/track/64ZOhhQARScqXYjdGsiBuV"
-    },
-    {
-      "added_at": "2023-04-03 17:33:59",
-      "album": {
-        "name": "Para Echar la Lloradita",
-        "url": "https://open.spotify.com/album/1JkjAUi5VkRPtiVbT273KR"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 234750,
-      "name": "Ausente",
-      "url": "https://open.spotify.com/track/7uR5yFqTHZYqPlO9zXTR2M"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
-    },
-    {
-      "added_at": "2023-04-03 17:33:59",
-      "album": {
         "name": "Calle Cima",
         "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2023-04-03 17:33:59",
+      "album": {
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "added_at": "2023-04-03 17:33:59",
@@ -2635,22 +2635,6 @@
     {
       "added_at": "2023-04-03 17:33:59",
       "album": {
-        "name": "Diecis\u00e9is",
-        "url": "https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ"
-      },
-      "artists": [
-        {
-          "name": "Tiare",
-          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
-        }
-      ],
-      "duration_ms": 230504,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/736rqYA7lM9lUzvimbUO13"
-    },
-    {
-      "added_at": "2023-04-03 17:33:59",
-      "album": {
         "name": "Nothing Much Has Changed, I Don't Feel The Same",
         "url": "https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1"
       },
@@ -2663,6 +2647,22 @@
       "duration_ms": 124842,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS"
+    },
+    {
+      "added_at": "2023-04-03 17:33:59",
+      "album": {
+        "name": "Diecis\u00e9is",
+        "url": "https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ"
+      },
+      "artists": [
+        {
+          "name": "Tiare",
+          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+        }
+      ],
+      "duration_ms": 230504,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/736rqYA7lM9lUzvimbUO13"
     },
     {
       "added_at": "2023-04-03 17:33:59",

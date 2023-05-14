@@ -1,12 +1,12 @@
 {
   "description": "hairbrush as a microphone type songs.",
-  "num_followers": 17206,
+  "num_followers": 17561,
   "original_name": "Slumber Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmQzNjAwNzUxY2YyNjRjY2JlYzljNjMxMzhkZGRhZGM0YjA2YjI0",
+  "snapshot_id": "MCwwNTgzNTljZmRhYzU2YzU1YzIyYjg5Yzk0NTM5OWUzMWZlZGExMDEz",
   "tracks": [
     {
       "added_at": "2023-03-21 20:54:10",
@@ -651,6 +651,30 @@
     {
       "added_at": "2023-03-21 20:54:10",
       "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
+    },
+    {
+      "added_at": "2023-03-21 20:54:10",
+      "album": {
         "name": "Shawn Mendes (Deluxe)",
         "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
       },
@@ -683,30 +707,6 @@
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2023-03-21 20:54:10",
-      "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 154486,
-      "name": "Left and Right (Feat. Jung Kook of BTS)",
-      "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
     },
     {
       "added_at": "2023-03-21 20:54:10",
@@ -791,38 +791,6 @@
     {
       "added_at": "2023-03-21 20:54:10",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
-    },
-    {
-      "added_at": "2023-03-21 20:54:10",
-      "album": {
-        "name": "When You're Gone",
-        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
-    },
-    {
-      "added_at": "2023-03-21 20:54:10",
-      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -839,6 +807,22 @@
     {
       "added_at": "2023-03-21 20:54:10",
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+    },
+    {
+      "added_at": "2023-03-21 20:54:10",
+      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 237893,
       "name": "Say So",
       "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+    },
+    {
+      "added_at": "2023-03-21 20:54:10",
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
       "added_at": "2023-03-21 20:54:10",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-03-21 20:54:10",
       "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+        "name": "Title (Deluxe)",
+        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+      "duration_ms": 184226,
+      "name": "Dear Future Husband",
+      "url": "https://open.spotify.com/track/3cU2wBxuV6nFiuf6PJZNlC"
     },
     {
       "added_at": "2023-03-21 20:54:10",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-03-21 20:54:10",
       "album": {
-        "name": "Title (Deluxe)",
-        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 184226,
-      "name": "Dear Future Husband",
-      "url": "https://open.spotify.com/track/3cU2wBxuV6nFiuf6PJZNlC"
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "added_at": "2023-03-21 20:54:10",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-03-21 20:54:10",
       "album": {
-        "name": "The Heart Wants What It Wants",
-        "url": "https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 227373,
-      "name": "The Heart Wants What It Wants",
-      "url": "https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA"
+      "duration_ms": 230733,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
     },
     {
       "added_at": "2023-03-21 20:54:10",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-03-21 20:54:10",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+        "name": "The Heart Wants What It Wants",
+        "url": "https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 230733,
-      "name": "Last Friday Night (T.G.I.F.)",
-      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
+      "duration_ms": 227373,
+      "name": "The Heart Wants What It Wants",
+      "url": "https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA"
     },
     {
       "added_at": "2023-03-21 20:54:10",

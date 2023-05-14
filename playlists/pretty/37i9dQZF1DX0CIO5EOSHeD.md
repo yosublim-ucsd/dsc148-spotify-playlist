@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,870 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,043 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 61 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 62 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
 | 63 | [AHH!!](https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/3DLP1NdK5qoxL5khIxYy0d) | 1:36 |
-| 64 | [Deaf](https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu) | 5:12 |
-| 65 | [Desire](https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Me Oh My Mirror](https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx) | 3:43 |
-| 66 | [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 |
-| 67 | [Into](https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:59 |
-| 68 | [Midnight on a Sunny Day](https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bee Eyes](https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:43 |
-| 69 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
-| 70 | [Ways to Go](https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe) | 2:07 |
+| 64 | [Ways to Go](https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe) | 2:07 |
+| 65 | [Deaf](https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu) | 5:12 |
+| 66 | [Desire](https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Me Oh My Mirror](https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx) | 3:43 |
+| 67 | [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 |
+| 68 | [Into](https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:59 |
+| 69 | [Midnight on a Sunny Day](https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bee Eyes](https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:43 |
+| 70 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
 | 71 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
 | 72 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
 | 73 | [Cold Like Me](https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife \(Deluxe\)](https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc) | 3:02 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 79 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi) | 2:17 |
 | 80 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 |
 | 81 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 |
-| 82 | [heat waves \- lofi version](https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [heat waves \- lofi version](https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82) | 1:36 |
-| 83 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
+| 82 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
+| 83 | [heat waves \- lofi version](https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [heat waves \- lofi version](https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82) | 1:36 |
 | 84 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 |
 | 85 | [at least, I tried](https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [at least, I tried](https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT) | 3:14 |
 | 86 | [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 88 | [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 |
 | 89 | [Pretend](https://open.spotify.com/track/5lU710034s09PYystM8YFH) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [Ways To Get Out](https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI) | 4:03 |
 | 90 | [Good For You](https://open.spotify.com/track/3LuvpnAcuxPn2dV00C9Rxt) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Good For You](https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2) | 3:35 |
-| 91 | [OH GOD](https://open.spotify.com/track/6WE3Ai38FIfTiBvOWLZwA1) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/4IrzLi3zyjvFxiinNRQM3P) | 2:12 |
-| 92 | [Attention](https://open.spotify.com/track/4TKAE15440weMFqZeuzprE) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3) | 2:46 |
+| 91 | [Attention](https://open.spotify.com/track/4TKAE15440weMFqZeuzprE) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3) | 2:46 |
+| 92 | [OH GOD](https://open.spotify.com/track/6WE3Ai38FIfTiBvOWLZwA1) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/4IrzLi3zyjvFxiinNRQM3P) | 2:12 |
 | 93 | [Seaface](https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 3:39 |
-| 94 | [Half Eaten](https://open.spotify.com/track/0uD7KsA2g7cTBxFyk5Fo5M) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Boys Cry](https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ) | 3:18 |
-| 95 | [Shame](https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Shame](https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L) | 4:57 |
+| 94 | [Shame](https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Shame](https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L) | 4:57 |
+| 95 | [Half Eaten](https://open.spotify.com/track/0uD7KsA2g7cTBxFyk5Fo5M) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Boys Cry](https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ) | 3:18 |
 | 96 | [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 |
 | 97 | [upside down](https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i wish things were different](https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB) | 2:02 |
 | 98 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 |
 | 99 | [sugar ray](https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 4:03 |
 | 100 | [What We Left Behind](https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv) | 3:55 |
 
-Snapshot ID: `MCw1N2Q0OGJmYjNmY2QyOWI3ZTQ2YWMyZDQ1NWY2MTA5MmY5MTlkYTRi`
+Snapshot ID: `MCxjYmU2YTUxNjYxMTExMjI1YjBhM2M3M2I2ZjEzMzRiMjdhMzJhMzUx`

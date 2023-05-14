@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 603 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 21 | [Na Gode \- Swahili](https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Na Gode \(Swahili\)](https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s) | 3:26 |
 | 22 | [Huyu Ni Nani](https://open.spotify.com/track/0l39flJoMHffawcZES5NCS) | [St\. Joseph's Choir Kendu Bay Parish](https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA) | [Bwana Ni Ngome Yangu](https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF) | 5:46 |
 | 23 | [Ipo Siku](https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku](https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C) | 5:47 |
-| 24 | [Mwema](https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:52 |
-| 25 | [Mungu Ni Mungu Tu](https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C) | [Christopher Mwahangila](https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt) | [Mungu Ni Mungu Tu](https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl) | 8:27 |
-| 26 | [Kirathimo](https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 3:43 |
+| 24 | [Mungu Ni Mungu Tu](https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C) | [Christopher Mwahangila](https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt) | [Mungu Ni Mungu Tu](https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl) | 8:27 |
+| 25 | [Mwema](https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:52 |
+| 26 | [Praise Him](https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Joel Lwaga](https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW) | [Praise Him](https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ) | 5:24 |
 | 27 | [Mtetezi Wangu](https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 8:10 |
-| 28 | [Praise Him](https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Joel Lwaga](https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW) | [Praise Him](https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ) | 5:24 |
+| 28 | [Kirathimo](https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 3:43 |
 | 29 | [Nikumbushe Wema Wako](https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Nikumbushe Wema Wako](https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX) | 7:19 |
 | 30 | [Uliniumba Nikuabudu](https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Yahwe Uhimidiwe](https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn) | 4:30 |
 | 31 | [NADEKA](https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [NADEKA](https://open.spotify.com/album/3yUcY9wjNDbc2Rw1kcvw5A) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 49 | [Confessions](https://open.spotify.com/track/2g9awZdAvsvtNQjWBcVO4n) | [Daniel Mundos](https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc) | [Confessions](https://open.spotify.com/album/50MXoiG4gRL47tdW5ui6VP) | 3:30 |
 | 50 | [Wacha Story](https://open.spotify.com/track/6tZ9ux4XLVmeHbW8yPrMtH) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Yesu Mtaani](https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS) | 3:41 |
 
-Snapshot ID: `MCw4ZDBlNmI5NjNiMGY1ZDYxMDU0NmQ0NTM0ZjVkMThlMzRiMzgxYTdm`
+Snapshot ID: `MCwwZDI4MzYwNmUyNTIxMGI2OGY3NDE4YTBhNzM3MzhkZjBjNjcyMDFi`

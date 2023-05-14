@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: La Isla Centeno
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,046 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,083 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 38 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |
 | 39 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
 | 40 | [Las Vacas](https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh) | [Paulino Monroy](https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC) | [Larga Duración](https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a) | 3:18 |
-| 41 | [Qué Tal](https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Qué Tal](https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7) | 2:44 |
-| 42 | [La Ola](https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:23 |
+| 41 | [La Ola](https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:23 |
+| 42 | [Qué Tal](https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Qué Tal](https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7) | 2:44 |
 | 43 | [Found Love](https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [Violet](https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G) | 3:16 |
 | 44 | [Hermosa Drive](https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:54 |
 | 45 | [Otros Colores](https://open.spotify.com/track/2ZJcPJHV298BPY4XsdBLD8) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Aroma A Nostalgia](https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL) | 5:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 49 | [Laberinto](https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Respirar Bajo el Agua](https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ) | 2:45 |
 | 50 | [El Hombre Que Casi Conoció a Michi Panero](https://open.spotify.com/track/4DLQ9mWBFWj7XjpQk1FtmP) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Desaparezca Aquí](https://open.spotify.com/album/2L8X2C1ySndk4McTP6lfpf) | 5:45 |
 
-Snapshot ID: `MCw4MDViZDliNDVmODAwZDQ4ZTEyZWJlNjBmYTI2NWE2ZjU2NzI2NmI4`
+Snapshot ID: `MCw0NGY3N2Q1YjZlZWI5YmE3YzFiOWJlMTkzMjY3Y2VhYmJiYzNhNGNj`

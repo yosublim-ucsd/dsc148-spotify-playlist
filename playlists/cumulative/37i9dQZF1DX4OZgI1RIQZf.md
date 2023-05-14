@@ -4,7 +4,7 @@
 
 > The best indie songs from all decades for your Halloween party
 
-90 songs - 5 hr 31 min
+91 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 | 2022-10-26 |  |
 | [Skeleton Boy](https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU) | 3:33 | 2022-10-26 |  |
 | [Skeleton Dance](https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl) | 3:37 | 2022-10-26 |  |
-| [Skeleton Song](https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB) | [Bambi L](https://open.spotify.com/artist/2pcRdJu290vEYb27Az15Vh) | [Skeleton Song](https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW) | 2:42 | 2022-10-26 |  |
+| [Skeleton Song](https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB) | [Bambi L](https://open.spotify.com/artist/2pcRdJu290vEYb27Az15Vh) | [Skeleton Song](https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW) | 2:42 | 2022-10-26 | 2023-05-14 |
 | [Skeleton Song](https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 5:07 | 2022-10-26 |  |
 | [Skeleton Song](https://open.spotify.com/track/7IOUeLzg5UL627qnywJjBL) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [2000s Halloween](https://open.spotify.com/album/1LOaZzDyslJNdSnSn1ygRW) | 5:07 | 2022-11-02 | 2022-11-13 |
 | [So Haunted](https://open.spotify.com/track/3aerZL2vEJYNK7Zex54vO7) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [So Haunted](https://open.spotify.com/album/3WXYeDDrhsJjniE1cKaKeR) | 4:23 | 2022-11-02 | 2022-11-14 |
@@ -84,6 +84,7 @@
 | [The Chills](https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 3:48 | 2022-10-26 |  |
 | [The Witch](https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Introducing The Sonics](https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv) | 2:38 | 2022-10-26 |  |
 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:09 | 2022-10-26 |  |
+| [To Lose My Life](https://open.spotify.com/track/2W4R6zrp1lLWtMXCJLA98H) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life..\. \(Bonus remix version\)](https://open.spotify.com/album/4A8HMvPUKHOxvTlsrPeNKh) | 3:11 | 2023-02-09 |  |
 | [To Lose My Life](https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 3:11 | 2022-10-26 | 2023-05-13 |
 | [Tombstone, Baby](https://open.spotify.com/track/4L2MaQ8z4kxsbbwleaH7sh) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Fatherfucker](https://open.spotify.com/album/1EsI3PiZXI4L5H7enK9hMx) | 3:10 | 2022-10-26 | 2022-11-03 |
 | [Trick or Treatz](https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Pip Paine \(Pay The £5000 You Owe\)](https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt) | 4:41 | 2022-10-26 |  |

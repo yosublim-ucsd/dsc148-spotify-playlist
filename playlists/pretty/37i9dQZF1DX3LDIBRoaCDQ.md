@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,495,797 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,496,042 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 23 | [I'm Waiting For The Man](https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 4:39 |
 | 24 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 |
 | 25 | [Minor Threat](https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy) | 1:29 |
-| 26 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
-| 27 | [California Uber Alles](https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 3:27 |
+| 26 | [California Uber Alles](https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 3:27 |
+| 27 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
 | 28 | [Hong Kong Garden](https://open.spotify.com/track/5bxBosfOC3upyOK9tjxZ35) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 2:55 |
 | 29 | [Bloodstains \- Original Version](https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Living In Darkness \(30th Anniversary Edition\)](https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas) | 1:53 |
 | 30 | [Add It Up](https://open.spotify.com/track/61QW3AcU1jm5ttPOn8eZhn) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 4:44 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 39 | [I Was A Teenage Werewolf \- Remastered](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
 | 40 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 |
 | 41 | [Last Caress](https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:59 |
-| 42 | [Knowledge \- 2007 Remaster](https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 1:42 |
-| 43 | [Bad Mouth](https://open.spotify.com/track/1MkqBhP5byDttRYtZsDC6p) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:35 |
-| 44 | [Uncontrollable Urge](https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 3:11 |
-| 45 | [Banned in D.C.](https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 2:12 |
+| 42 | [Bad Mouth](https://open.spotify.com/track/1MkqBhP5byDttRYtZsDC6p) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:35 |
+| 43 | [Knowledge \- 2007 Remaster](https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 1:42 |
+| 44 | [Banned in D.C.](https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 2:12 |
+| 45 | [Uncontrollable Urge](https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 3:11 |
 | 46 | [Mannequin \- 2006 Remastered Version](https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag \(2006 Remastered Version\)](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:37 |
 | 47 | [Suburban Home](https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 1:40 |
 | 48 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 81 | [Babylon's Burning](https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa) | [The Ruts](https://open.spotify.com/artist/1uJKSAvQROYPgm7qhZkqd3) | [The Crack](https://open.spotify.com/album/6BP8vPyK1EKId2CGoX1UKq) | 2:35 |
 | 82 | [Holiday in Cambodia](https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Fresh Fruit for Rotting Vegetables](https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E) | 4:37 |
 | 83 | [No Class](https://open.spotify.com/track/4sw9hGICgvc4LICICNTCzI) | [Reagan Youth](https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb) | [A Collection of Pop Classics](https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ) | 1:34 |
-| 84 | [Mickey Mouse Is Dead](https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ) | [Subhumans](https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK) | [The Day the Country Died](https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1) | 2:44 |
-| 85 | [Circles](https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh) | [Dag Nasty](https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E) | [Can I Say](https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93) | 2:46 |
+| 84 | [Circles](https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh) | [Dag Nasty](https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E) | [Can I Say](https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93) | 2:46 |
+| 85 | [Mickey Mouse Is Dead](https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ) | [Subhumans](https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK) | [The Day the Country Died](https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1) | 2:44 |
 | 86 | [I Want Some](https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Anthology: The Sounds Of Science](https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2) | 2:00 |
 | 87 | [Dean's Dream](https://open.spotify.com/track/4Kf80JwKZcrHE0jJQKuH0e) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Death Rides A Pale Cow: The Ultimate Collection](https://open.spotify.com/album/2ZNb1MUe50ckOcSe9TQOQz) | 1:47 |
 | 88 | [Sick Boy](https://open.spotify.com/track/2RL2ZwgPFppuWxX7nz2xm3) | [GBH](https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY) | [City Baby Attacked By Rats \(Expanded Version\)](https://open.spotify.com/album/6ZzIjYclPtkNk8JG29IU0t) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 99 | [All This and More](https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 2:47 |
 | 100 | [That's Progress](https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd) | [D.O.A.](https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk) | [Last Scream of the Missing Neighbors](https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc) | 3:13 |
 
-Snapshot ID: `MCxkNWEzNmMzZGUwYTUyMDVjMjQ2MzcwZWViM2ZiYzE5OWQzYzNiNDI4`
+Snapshot ID: `MCwxMDVkYzAxOWQxMDYzNmY3Yjk5YTE1NGFmNjI0OWI4NjkxMThiMGVl`

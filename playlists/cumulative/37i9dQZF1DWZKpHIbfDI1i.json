@@ -1249,6 +1249,28 @@
     },
     {
       "album": {
+        "name": "CCC",
+        "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126081,
+      "name": "CCC",
+      "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
+    },
+    {
+      "album": {
         "name": "Ch y la Pizza",
         "url": "https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa"
       },
@@ -9196,7 +9218,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 216666,
       "name": "T\u00fa Y T\u00fa",
       "url": "https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1"

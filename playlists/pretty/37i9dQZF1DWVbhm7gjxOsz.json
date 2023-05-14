@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 2472,
+  "num_followers": 2823,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTIyMmFjNmYwMjQ0ZGJiYTM5YTQ0MTA2MjIxYzQyZDkwNzQ3NDRl",
+  "snapshot_id": "MCw5NjhkNjBiYjIxYmYwNWU5NTMyYzc4NzI0NTI3MGI2MGU0NGI4YmMw",
   "tracks": [
     {
       "added_at": "2023-05-01 20:33:48",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "La Vida Es Fr\u00eda",
-        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
-      },
-      "artists": [
-        {
-          "name": "Jason Joshua",
-          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
-        }
-      ],
-      "duration_ms": 202234,
-      "name": "La Vida Es Fr\u00eda",
-      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Where There's Smoke...",
         "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "La Vida Es Fr\u00eda",
+        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
+      },
+      "artists": [
+        {
+          "name": "Jason Joshua",
+          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
+        }
+      ],
+      "duration_ms": 202234,
+      "name": "La Vida Es Fr\u00eda",
+      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
-        "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
-      },
-      "artists": [
-        {
-          "name": "The Elgins",
-          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Darling Baby",
-      "url": "https://open.spotify.com/track/10u9028SSfRyIKxV4xrzsg"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Duke Of Earl",
         "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 147841,
       "name": "Duke of Earl",
       "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
+        "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
+      },
+      "artists": [
+        {
+          "name": "The Elgins",
+          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "Darling Baby",
+      "url": "https://open.spotify.com/track/10u9028SSfRyIKxV4xrzsg"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Baby, I'm For Real",
-        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
-      },
-      "artists": [
-        {
-          "name": "The Originals",
-          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Baby, I'm For Real",
-      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Skyliners",
         "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Baby, I'm For Real",
+        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
+      },
+      "artists": [
+        {
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Baby, I'm For Real",
+      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Disco Nights (Expanded Edition)",
         "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 165333,
       "name": "You Beat Me To The Punch",
       "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Nobody's Clown",
+        "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
+      },
+      "artists": [
+        {
+          "name": "Los Yesterdays",
+          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Nobody's Clown",
+      "url": "https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Nobody's Clown",
-        "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
+        "name": "All the Greatest Hits",
+        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
       "artists": [
         {
-          "name": "Los Yesterdays",
-          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Nobody's Clown",
-      "url": "https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc"
+      "duration_ms": 282480,
+      "name": "Computer Love",
+      "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "All the Greatest Hits",
-        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
-      },
-      "artists": [
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
-        }
-      ],
-      "duration_ms": 282480,
-      "name": "Computer Love",
-      "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Cowboys to Girls",
         "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Too Hot to Handle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 290866,
-      "name": "Always and Forever - Single Version",
-      "url": "https://open.spotify.com/track/6wiL61UORY5exOzXFBxPlc"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Best Of The Temprees",
         "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 261826,
       "name": "Love...Can Be So Wonderful",
       "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Too Hot to Handle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 290866,
+      "name": "Always and Forever - Single Version",
+      "url": "https://open.spotify.com/track/6wiL61UORY5exOzXFBxPlc"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Mr. Brown Eyed Soul",
-        "url": "https://open.spotify.com/album/35922ds56CsxFFO1qeCB64"
-      },
-      "artists": [
-        {
-          "name": "Sunny & The Sunliners",
-          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
-        }
-      ],
-      "duration_ms": 119553,
-      "name": "Smile Now, Cry Later",
-      "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Seems Like",
         "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 194020,
       "name": "Seems Like",
       "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Mr. Brown Eyed Soul",
+        "url": "https://open.spotify.com/album/35922ds56CsxFFO1qeCB64"
+      },
+      "artists": [
+        {
+          "name": "Sunny & The Sunliners",
+          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
+        }
+      ],
+      "duration_ms": 119553,
+      "name": "Smile Now, Cry Later",
+      "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Turn off the Lights: Sweet Soul Music",
-        "url": "https://open.spotify.com/album/20qD29YyUFyMjlqL4Ypx1g"
-      },
-      "artists": [
-        {
-          "name": "Linda Jones",
-          "url": "https://open.spotify.com/artist/7erYZsfekXYGWvup1bnkUZ"
-        }
-      ],
-      "duration_ms": 167146,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/18kKQf4bOwY0I9FUV3ne1q"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Searching For My Love",
         "url": "https://open.spotify.com/album/7lpZkRX58TVPOyRbCFiRjV"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 150533,
       "name": "Searching For My Love",
       "url": "https://open.spotify.com/track/6EtOgpD6m1fBzcnckUAEfW"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Turn off the Lights: Sweet Soul Music",
+        "url": "https://open.spotify.com/album/20qD29YyUFyMjlqL4Ypx1g"
+      },
+      "artists": [
+        {
+          "name": "Linda Jones",
+          "url": "https://open.spotify.com/artist/7erYZsfekXYGWvup1bnkUZ"
+        }
+      ],
+      "duration_ms": 167146,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/18kKQf4bOwY0I9FUV3ne1q"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 4",
-        "url": "https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8"
-      },
-      "artists": [
-        {
-          "name": "Sunny Ozuna And Sunliners",
-          "url": "https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69"
-        }
-      ],
-      "duration_ms": 120800,
-      "name": "Smile Now, Cry Later",
-      "url": "https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Dreams Of Contentment (Special Deluxe Collection)",
         "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 176493,
       "name": "Oh What A Nite",
       "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 4",
+        "url": "https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8"
+      },
+      "artists": [
+        {
+          "name": "Sunny Ozuna And Sunliners",
+          "url": "https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69"
+        }
+      ],
+      "duration_ms": 120800,
+      "name": "Smile Now, Cry Later",
+      "url": "https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Oh, How It Hurts",
-        "url": "https://open.spotify.com/album/2HMnjrMXy316BBoe5u8tDh"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mason",
-          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
-        }
-      ],
-      "duration_ms": 179733,
-      "name": "Oh, How It Hurts",
-      "url": "https://open.spotify.com/track/67x5PxH6RZAW7FXdVpXGKo"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Best Of The Manhattans: Kiss And Say Goodbye",
         "url": "https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 279400,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Oh, How It Hurts",
+        "url": "https://open.spotify.com/album/2HMnjrMXy316BBoe5u8tDh"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mason",
+          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "Oh, How It Hurts",
+      "url": "https://open.spotify.com/track/67x5PxH6RZAW7FXdVpXGKo"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2019,26 +2019,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Specialty Story",
-        "url": "https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh"
-      },
-      "artists": [
-        {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/1Q8hCl2Wae0lQ7K6RRjrck"
-        },
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Nite Owl (A.K.A. Night Owl)",
-      "url": "https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Ilusi\u00f3n De Amor",
         "url": "https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 225796,
       "name": "Ilusi\u00f3n De Amor",
       "url": "https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Specialty Story",
+        "url": "https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/1Q8hCl2Wae0lQ7K6RRjrck"
+        },
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Nite Owl (A.K.A. Night Owl)",
+      "url": "https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Tangled Up in You",
+        "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "duration_ms": 240842,
+      "name": "Soon Enough",
+      "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Super Slow Jams Vol. 2 (Live)",
         "url": "https://open.spotify.com/album/6oW2SrZ4ZQHby7KOxiPa5i"
       },
@@ -2151,22 +2167,6 @@
       "duration_ms": 414333,
       "name": "Confessin a Feeling",
       "url": "https://open.spotify.com/track/07UmYkMtFFDzvAaEHrmpis"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Smash Hits Of '62",
-        "url": "https://open.spotify.com/album/1SGTPYNrkXswEcQTuuVQKh"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 143546,
-      "name": "The One Who Really Loves You - Album Version / Mono",
-      "url": "https://open.spotify.com/track/3NmHNVe0vfbkmD6a8OlxEr"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2187,18 +2187,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Tangled Up in You",
-        "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
+        "name": "Smash Hits Of '62",
+        "url": "https://open.spotify.com/album/1SGTPYNrkXswEcQTuuVQKh"
       },
       "artists": [
         {
-          "name": "The Altons",
-          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
         }
       ],
-      "duration_ms": 240842,
-      "name": "Soon Enough",
-      "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+      "duration_ms": 143546,
+      "name": "The One Who Really Loves You - Album Version / Mono",
+      "url": "https://open.spotify.com/track/3NmHNVe0vfbkmD6a8OlxEr"
     },
     {
       "added_at": "2023-05-01 20:33:48",

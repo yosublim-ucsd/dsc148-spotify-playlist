@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-850 songs - 2 day 11 hr 22 min
+851 songs - 2 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Dear Angie \- Remastered 2010](https://open.spotify.com/track/54qG9hpUjLgkgTJQ9qvB1P) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Magic Christian Music \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/6uA2hir5o45vrILeqQVTbr) | 2:40 | 2022-01-05 |  |
 | [Deathwish](https://open.spotify.com/track/4i3SC58kB65zfKo1oOW1q9) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 4:11 | 2022-01-05 | 2022-07-22 |
 | [Debris](https://open.spotify.com/track/2gFXQQ7dDY4lquHpUNeDTM) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:36 | 2022-01-05 |  |
-| [Devils Answer](https://open.spotify.com/track/1OgKIHaT5PfFkHutPWVvj4) | [Atomic Rooster](https://open.spotify.com/artist/6Ix7Hx8Af0jg9X4OfD9sYR) | [The First 10 Explosive Years](https://open.spotify.com/album/0fCgcpelOOO11hmOcnRjXN) | 4:10 | 2022-01-05 |  |
+| [Devil's Answer \- Live](https://open.spotify.com/track/5ZsZMnv0nidJVdCIIWnjix) | [Atomic Rooster](https://open.spotify.com/artist/6Ix7Hx8Af0jg9X4OfD9sYR) | [The First 10 Explosive Years](https://open.spotify.com/album/2GcyBqQS5Evka8Fhp21tC4) | 4:10 | 2022-11-17 |  |
+| [Devils Answer](https://open.spotify.com/track/1OgKIHaT5PfFkHutPWVvj4) | [Atomic Rooster](https://open.spotify.com/artist/6Ix7Hx8Af0jg9X4OfD9sYR) | [The First 10 Explosive Years](https://open.spotify.com/album/0fCgcpelOOO11hmOcnRjXN) | 4:10 | 2022-01-05 | 2023-05-14 |
 | [Diamond Girl](https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Diamond Girl](https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr) | 4:13 | 2022-01-05 |  |
 | [Die Young Stay Pretty \- Remastered](https://open.spotify.com/track/006pbYThBlBNz9fvJZFwin) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4SxhwzlhAfa0FgYHrGfGz8) | 3:34 | 2022-01-05 | 2022-07-29 |
 | [Dig A Pony \- Remastered 2009](https://open.spotify.com/track/4OUmlC67FoPLvQNuE5C7kF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:55 | 2022-01-05 |  |

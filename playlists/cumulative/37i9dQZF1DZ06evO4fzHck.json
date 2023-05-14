@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 393986,
       "name": "Apart",
       "url": "https://open.spotify.com/track/6g5yxNUBisdqOqBLHeWQFc"
@@ -740,6 +740,24 @@
       "duration_ms": 410360,
       "name": "Open",
       "url": "https://open.spotify.com/track/21BxZ4jL908jasBK4t1HqU"
+    },
+    {
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "Perfect Girl",
+      "url": "https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11304,
+  "num_followers": 11303,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTI3YWE1Yzk0ODQ4Yzc0NDMyNDJlNjgyMTEwNTVlMDEzZTVlYjQ2",
+  "snapshot_id": "MCxjZGYzMzk2YTYxYjAwYzg3YjA4ZjA1OWJhZmZjZTFmNzk4NDdhZjMz",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "New Amerykah Part Two: Return Of The Ankh",
-        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 64733,
-      "name": "You Loving Me (Session)",
-      "url": "https://open.spotify.com/track/2mOKh7J2mRrdnkHhqpHwFj"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 76280,
       "name": "I Wanna Be Where You Are",
       "url": "https://open.spotify.com/track/7KZqVqDuJOlxwwZa6mmOGS"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "New Amerykah Part Two: Return Of The Ankh",
+        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 64733,
+      "name": "You Loving Me (Session)",
+      "url": "https://open.spotify.com/track/2mOKh7J2mRrdnkHhqpHwFj"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 51266,
+      "name": "Hey Sugah - Interlude",
+      "url": "https://open.spotify.com/track/0xgkQ67LbDWjL86nIHeXS3"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Danity Kane",
         "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 145813,
       "name": "Daniel's Interlude",
       "url": "https://open.spotify.com/track/6hLR1DWGfMfaYERzHRzBTX"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 51266,
-      "name": "Hey Sugah - Interlude",
-      "url": "https://open.spotify.com/track/0xgkQ67LbDWjL86nIHeXS3"
     },
     {
       "added_at": "2022-12-03 05:29:16",

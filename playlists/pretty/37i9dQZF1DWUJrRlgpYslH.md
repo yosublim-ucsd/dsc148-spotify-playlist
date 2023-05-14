@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 
 > A lazy Sunday vibe, whatever day of the week it is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,320 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,423 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 13 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 |
 | 14 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
 | 15 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
-| 16 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
-| 17 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
+| 16 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
+| 17 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
 | 18 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 19 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 20 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 76 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
 | 77 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
 | 78 | [Even After All](https://open.spotify.com/track/096O9QxDBQ1xPIyLskGwbq) | [Finley Quaye](https://open.spotify.com/artist/1pf3joSSGlPRxmUoWSsh1W) | [Maverick A Strike](https://open.spotify.com/album/7wvOewuyOTcqyE5Xog0dp8) | 3:54 |
-| 79 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 |
-| 80 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
+| 79 | [Pancakes & Butter](https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx) | 3:51 |
+| 80 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 |
 | 81 | [B\-A\-B\-Y](https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla](https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY) | 2:57 |
 | 82 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
-| 83 | [Coming Around Again](https://open.spotify.com/track/58Ga5VQlZMnCUV6ZRqf76k) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Coming Around Again](https://open.spotify.com/album/53533bK65tCzXnCdM5itUX) | 3:39 |
-| 84 | [Pancakes & Butter](https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx) | 3:51 |
+| 83 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
+| 84 | [Coming Around Again](https://open.spotify.com/track/58Ga5VQlZMnCUV6ZRqf76k) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Coming Around Again](https://open.spotify.com/album/53533bK65tCzXnCdM5itUX) | 3:39 |
 | 85 | [Try](https://open.spotify.com/track/1kS9d4x0ftbfq65eaBGSCT) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Folklore](https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu) | 4:38 |
 | 86 | [Song For Guy](https://open.spotify.com/track/71zJRiAG1f817v9R9tYMvg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 6:53 |
 | 87 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 99 | [Diplomat's Son](https://open.spotify.com/track/0Dx352kZFiXR1NlcEMDJZx) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ) | 6:01 |
 | 100 | [Inside And Out](https://open.spotify.com/track/6rouj6pwJgrh6whnljzXPd) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 4:17 |
 
-Snapshot ID: `MCwwOTAzOTg3ODc2OTQ4NmI4Y2FhMDAzZjEyZGNiNzI4ODllYzQxNmU5`
+Snapshot ID: `MCw2ZjdiZjE1NGYzZTcxNDQwZjg0Njg4YWVkOGQ2OGMwMzEzMzIwNTdm`

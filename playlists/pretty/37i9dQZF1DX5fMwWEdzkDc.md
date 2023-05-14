@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,084 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,109 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 64 | [사랑과 전쟁 \- 하하 Narration Version](https://open.spotify.com/track/17nIj0cUDWtrsj5NbTh3E5) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Vivid Summer Edition 1st Amaranth Repackage Album](https://open.spotify.com/album/506YM58qyGoCHcTB1EZmVS) | 4:19 |
 | 65 | [Hi\~](https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Hi\~](https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho) | 3:27 |
 | 66 | [나쁜 남자 Bad Man](https://open.spotify.com/track/119iNERS1h3InUzpC0jtwf) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [N001](https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS) | 3:37 |
-| 67 | [어떤가요](https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Because I Love You](https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc) | 4:31 |
-| 68 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
+| 67 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
+| 68 | [어떤가요](https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Because I Love You](https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc) | 4:31 |
 | 69 | [애인…있어요](https://open.spotify.com/track/4hDdZkmUuBiM8mQSGXeY75) | [Lee Eun Mi](https://open.spotify.com/artist/57Rbh9mF8Peu1jOPRawGHW) | [이은미 LIVE CONCERT 가슴이 뛴다](https://open.spotify.com/album/2zFdzuOnmYvh9fKJgRpOIm) | 4:18 |
 | 70 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 |
 | 71 | [A Letter to you Part.2](https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 4:07 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 93 | [Passion](https://open.spotify.com/track/1r3RzA093pxz24XEtlvY9D) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Must Listen](https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV) | 3:21 |
 | 94 | [We Should've Been Friends](https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Like Them](https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek) | 4:41 |
 | 95 | [Snow Prince](https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 \(Single\) 2집](https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq) | 3:24 |
-| 96 | [Tell Me One More Time](https://open.spotify.com/track/3aQAxjZAl2lhXD1OISjKuQ) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv), [장한나](https://open.spotify.com/artist/6hIrFuDMvnr5nNGqmwrB3V) | [Tell Me One More Time](https://open.spotify.com/album/0EMCROFAU9wlGTzdSycGHO) | 3:15 |
+| 96 | [그녀가 웃잖아....](https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [그녀가 웃잖아](https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi) | 4:29 |
 | 97 | [김밥](https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [The Jadu 3](https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4) | 3:45 |
-| 98 | [그녀가 웃잖아....](https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [그녀가 웃잖아](https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi) | 4:29 |
+| 98 | [Tell Me One More Time](https://open.spotify.com/track/3aQAxjZAl2lhXD1OISjKuQ) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv), [장한나](https://open.spotify.com/artist/6hIrFuDMvnr5nNGqmwrB3V) | [Tell Me One More Time](https://open.spotify.com/album/0EMCROFAU9wlGTzdSycGHO) | 3:15 |
 | 99 | [널 사랑하겠어](https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:35 |
 | 100 | [사고쳤어요](https://open.spotify.com/track/6sGDd0oEWCUXA6qyvCXPjs) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Davichi In Wonderland](https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo) | 3:57 |
 
-Snapshot ID: `MCw3MDBkNzc3MTlhYWI5OWFjZmY2ZDY0YjFmMjZkMzY2MjVhNzU2Njhk`
+Snapshot ID: `MCw2ZDhiNjMwYjdiOTk1ZDJiNDUyOTBjZDk0OGJhYTA0OGUyMDUwMTM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,229 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,319 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 48 | [Without Me](https://open.spotify.com/track/2ErhC6VNFH8DFV9x7lZ8Cm) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Without Me](https://open.spotify.com/album/1L8knGs23OsDiIWcREQUUK) | 3:04 |
 | 49 | [Heathens](https://open.spotify.com/track/189ho2EWK86V7I7X0Ecwma) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:46 |
 | 50 | [The Middle](https://open.spotify.com/track/0wAXhNsFszWcxhgpMxB4ng) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Middle](https://open.spotify.com/album/5MsK2snazTXQyaNDUGVxOs) | 3:02 |
-| 51 | [All Too Well](https://open.spotify.com/track/0N1vWuNWIbUsPp9gK9kwhv) | [Dan Campbell](https://open.spotify.com/artist/0Sq6ZIWDzx9P76abl8svUr) | [All Too Well](https://open.spotify.com/album/1v1IprTRlmXdlb2B79A2ch) | 4:55 |
-| 52 | [Wonderwall](https://open.spotify.com/track/3SN6V2ZELXrTjna8TRXJ1l) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Punk Goes 90's](https://open.spotify.com/album/17SxJEn7Ons4pifxtYY9Wu) | 4:53 |
+| 51 | [Wonderwall](https://open.spotify.com/track/3SN6V2ZELXrTjna8TRXJ1l) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Punk Goes 90's](https://open.spotify.com/album/17SxJEn7Ons4pifxtYY9Wu) | 4:53 |
+| 52 | [All Too Well](https://open.spotify.com/track/0N1vWuNWIbUsPp9gK9kwhv) | [Dan Campbell](https://open.spotify.com/artist/0Sq6ZIWDzx9P76abl8svUr) | [All Too Well](https://open.spotify.com/album/1v1IprTRlmXdlb2B79A2ch) | 4:55 |
 | 53 | [Let It Be](https://open.spotify.com/track/0eZ4bLUnh0NkGwCEmPvRYI) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Let It Be](https://open.spotify.com/album/27njwfI83O3b2ho4MgCKEG) | 3:52 |
 | 54 | [MakeDamnSure](https://open.spotify.com/track/30rLZAMsDqDdXxULLUBbWh) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [MakeDamnSure](https://open.spotify.com/album/31LfOtc3yWzCofORcAHWYq) | 3:22 |
 | 55 | [Blueberry Faygo](https://open.spotify.com/track/75WqqdgbeP5WK8lDPLBrcu) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [Blueberry Faygo](https://open.spotify.com/album/6J9cz9LexI9GcKp555j8PQ) | 3:01 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 73 | [Sometimes I Don't Mind](https://open.spotify.com/track/6PcnP3NO63AjInHBT7ahSi) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:05 |
 | 74 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/4dUedvWuuvVMW5qwdGfyrE) | [The Gospel Youth](https://open.spotify.com/artist/5EWAtvRDy8I6sSYlMjD6g0) | [There's Nothing Holdin' Me Back](https://open.spotify.com/album/4USDJ3abnqMqHJxL2IRgPu) | 3:23 |
 | 75 | [Look What You Made Me Do](https://open.spotify.com/track/2z7EQG8IckuFX0vRCiW0kk) | [Keeping Secrets](https://open.spotify.com/artist/2Gp5P3qR66AP7AJ7firOB8) | [Look What You Made Me Do](https://open.spotify.com/album/3i61YI0if4khSlVvMdp8BE) | 3:35 |
-| 76 | [Don't Stop Me Now](https://open.spotify.com/track/6tUejaw8c0HZDg9TM4lXXf) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Don't Stop Me Now](https://open.spotify.com/album/1YwulgouNoPhGJ3qLB511P) | 3:20 |
-| 77 | [Substitute](https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 2:45 |
+| 76 | [Substitute](https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 2:45 |
+| 77 | [Don't Stop Me Now](https://open.spotify.com/track/6tUejaw8c0HZDg9TM4lXXf) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Don't Stop Me Now](https://open.spotify.com/album/1YwulgouNoPhGJ3qLB511P) | 3:20 |
 | 78 | [Losing My Religion](https://open.spotify.com/track/6wLbbFtRtoWoVXB3PEOHwW) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Losing My Religion](https://open.spotify.com/album/5DrlVXdnx3j7ZL6ZEuvbW2) | 4:28 |
 | 79 | [When The Angels Sing](https://open.spotify.com/track/5vojzHNDiqeD4l1flkyZxG) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:27 |
 | 80 | [Better Now](https://open.spotify.com/track/6FKo9Wvp9XPLlicjMmGjjf) | [The Animal In Me](https://open.spotify.com/artist/6hyAYqBdxyramm4W9TB7R0) | [Better Now](https://open.spotify.com/album/340cO1YuhIGhjDznigJyDM) | 4:05 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 93 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
 | 94 | [Young and Beautiful](https://open.spotify.com/track/7IY3xV7UeMbFl80onv3O9J) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Young and Beautiful](https://open.spotify.com/album/1e5OLy9DPv7iKd6wOMY9G7) | 3:48 |
 | 95 | [Give Yourself A Try](https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:19 |
-| 96 | [How's It Gonna Be](https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533) | [I Call Fives](https://open.spotify.com/artist/3vsi8vM5Xs8p1NEQuZWP70) | [Someone That's Not You](https://open.spotify.com/album/1dMfFikNXq1cjw1nSv0JQj) | 3:13 |
-| 97 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
+| 96 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
+| 97 | [How's It Gonna Be](https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533) | [I Call Fives](https://open.spotify.com/artist/3vsi8vM5Xs8p1NEQuZWP70) | [Someone That's Not You](https://open.spotify.com/album/1dMfFikNXq1cjw1nSv0JQj) | 3:13 |
 | 98 | [Fake Friends \(feat\. Joan Jett\)](https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fake Friends](https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR) | 3:08 |
 | 99 | [Let Your Love Flow](https://open.spotify.com/track/5B4781MgAPj8fdr1ptKJPs) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 2:29 |
 | 100 | [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 |
 
-Snapshot ID: `MCw0NDRhZjRlNWRhYWIwYWE1ODYxOWFmNWMzNGY1ZTc5NjczYmNmMWVl`
+Snapshot ID: `MCxmYjNiNmEzMTYxYTUyNjNiNmMzMjZiNTQyZDNlMzJjYzFhZmY1NGE2`

@@ -1,12 +1,12 @@
 {
   "description": "Get ready to soak up the sun with some carefree jams. ",
-  "num_followers": 10953,
+  "num_followers": 10955,
   "original_name": "Spring Break",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2VjN2NjZjFlMzBkNGI4ZTE5MGI5ZGZlZWI3MWRlOTIxMWFjNDk5",
+  "snapshot_id": "MCxiNGYzZDRkZjgzN2EzZGJkN2EwZTRkOGZhMmJlZGJlNmIwNjlmZWU2",
   "tracks": [
     {
       "added_at": "2023-03-14 15:41:14",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2023-03-14 15:41:14",
-      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -331,18 +315,34 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2023-03-14 15:41:14",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2023-03-14 15:41:14",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2023-03-14 15:41:14",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2023-03-14 15:41:14",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2023-03-14 15:41:14",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
       "added_at": "2023-03-14 15:41:14",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 150241,
-      "name": "Out th\u00eb way",
-      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
-    },
-    {
-      "added_at": "2023-03-14 15:41:14",
-      "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 156787,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
+    },
+    {
+      "added_at": "2023-03-14 15:41:14",
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 150241,
+      "name": "Out th\u00eb way",
+      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
     },
     {
       "added_at": "2023-03-14 15:41:14",

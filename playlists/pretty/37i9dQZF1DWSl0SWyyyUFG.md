@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,950 likes - 125 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,285 likes - 125 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,21 +23,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 13 | [Mi luna, mi estrella](https://open.spotify.com/track/5FFtF4qfE1fHDDp5EMe7Et) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:27 |
 | 14 | [En La Barra](https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Para Vivir Contigo](https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe) | 2:35 |
 | 15 | [Acábame De Matar](https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:08 |
-| 16 | [Ayúdame](https://open.spotify.com/track/0Z8Jg2ji4tKeaGWpBidTxv) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie](https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy) | 2:59 |
+| 16 | [No Bailes De Caballito](https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 4:01 |
 | 17 | [Media Naranja](https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 2:31 |
 | 18 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 |
 | 19 | [Soy Cómo Quiero Ser](https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:34 |
-| 20 | [Ni El Dinero Ni Nada](https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:49 |
+| 20 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:30 |
 | 21 | [Cuatro Rosas](https://open.spotify.com/track/4MNshDc0FgyiddMjlGbeCV) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Volver a Verte](https://open.spotify.com/album/7Fr4KyfCljns3TO7M0gS1S) | 4:08 |
 | 22 | [La nena](https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 2:54 |
 | 23 | [Al gato y al ratón](https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:42 |
-| 24 | [No Bailes De Caballito](https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 4:01 |
+| 24 | [Ayúdame](https://open.spotify.com/track/0Z8Jg2ji4tKeaGWpBidTxv) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie](https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy) | 2:59 |
 | 25 | [La Otra Cara De La Moneda](https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 4:05 |
 | 26 | [Provócame](https://open.spotify.com/track/6rGUVwXPZfeOAcqmFlhPua) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y) | 3:00 |
 | 27 | [El Viejo Joven](https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 2:37 |
 | 28 | [La Gitanilla](https://open.spotify.com/track/12ef6MwgP0rOkJMWCgj9hR) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 2: Corridos y Rancheras](https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9) | 3:08 |
 | 29 | [Voy a Pintar Mi Raya](https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 3:46 |
-| 30 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:30 |
+| 30 | [Ni El Dinero Ni Nada](https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:49 |
 | 31 | [Recuerdos](https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 3:28 |
 | 32 | [La culebra](https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 3:08 |
 | 33 | [Qué Puedo Hacer por Ti](https://open.spotify.com/track/0QqFvqQ9Lujnc7QaYBEw09) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:27 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 50 | [Leña de pirul](https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La reina de las bandas Vol\. II](https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv) | 2:47 |
 | 51 | [Si Tu No Estas](https://open.spotify.com/track/1ajk4KliWOc9TeGXwtUR8y) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 3:32 |
 | 52 | [Esa Chica Me Vacila](https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:35 |
-| 53 | [Vuelve Por Favor](https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 3:29 |
-| 54 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 |
+| 53 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 |
+| 54 | [Vuelve Por Favor](https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 3:29 |
 | 55 | [Muñequita](https://open.spotify.com/track/1G4SKVSuNdH2HTBlqZuSpn) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Te Amo](https://open.spotify.com/album/0n4f0enYF1I4Ct3z4blIIw) | 3:16 |
 | 56 | [Al Mismo Nivel](https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 2:22 |
 | 57 | [Creo Estar Soñando](https://open.spotify.com/track/6LOJGtfyJW14lMEj06qxQZ) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL) | 2:43 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 124 | [Cómo Sufro](https://open.spotify.com/track/2AAsziSTEQoTMIyXAunJbY) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww) | 2:54 |
 | 125 | [La Fea](https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con La No\. 1: Del Pueblo...y Para El Pueblo](https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw) | 2:54 |
 
-Snapshot ID: `MCw4MjYzNTY2NTg0YmZkMWQ2ZjgzNDMwM2ZlZjI4YTQ3N2Q4MDgwMDRi`
+Snapshot ID: `MCw1YTA5ZTQ0NzQxZjA1NTY0ZmY2N2FhMTVjMjRkNTkyNDMyNTJkNTNm`

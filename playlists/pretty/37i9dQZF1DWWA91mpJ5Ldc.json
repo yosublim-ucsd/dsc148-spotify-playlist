@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 113480,
+  "num_followers": 113521,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2Y3OGQ4OWJhOTVkMzIzNDEwZmZjZjZkYjY3MjI2MjRjODJlNjRi",
+  "snapshot_id": "MCxhNzY3OWJkODk0MWFhODcwNWNlNzQ3MWExYjNlZWY3YTcwNzhkZGQ4",
   "tracks": [
     {
       "added_at": "2023-05-12 20:51:23",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-05-12 20:51:23",
       "album": {
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 269285,
+      "name": "Todo Carinho",
+      "url": "https://open.spotify.com/track/118239i3aWkav7mlAmldh9"
+    },
+    {
+      "added_at": "2023-05-12 20:51:23",
+      "album": {
         "name": "Me Toca",
         "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-05-12 20:51:23",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
       },
       "artists": [
         {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 269285,
-      "name": "Todo Carinho",
-      "url": "https://open.spotify.com/track/118239i3aWkav7mlAmldh9"
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2023-05-12 20:51:23",
@@ -707,22 +723,6 @@
       "duration_ms": 185874,
       "name": "Borboleta Efeito",
       "url": "https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc"
-    },
-    {
-      "added_at": "2023-05-12 20:51:23",
-      "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2023-05-12 20:51:23",

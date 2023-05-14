@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1666243,
+  "num_followers": 1666434,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzgyNmY3MWVhMzI3YzliNGFlNWFjOTdkMzcyNzE2Y2FiZjE0NGY3",
+  "snapshot_id": "MCxhYjJjZWU3YTZmYTUyY2Y0MTBjNTMzOGNhM2IzY2RjNDI2ZTBmYjY4",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -617,6 +617,22 @@
       "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
     },
     {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Die Young (feat. 347aidan)",
@@ -681,22 +697,6 @@
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Go Hard",
-        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 217610,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "DO IT AGAIN (feat. 2Rare)",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Obsessed With You",
-      "url": "https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Hot Boy (feat. Lil Baby)",
@@ -751,6 +735,22 @@
       "duration_ms": 169893,
       "name": "Hot Boy (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 108650,
+      "name": "Obsessed With You",
+      "url": "https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
     },
     {
-      "added_at": "2022-10-14 19:06:53",
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
-    },
-    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Lil Durk Presents: Loyal Bros 2",
@@ -823,6 +807,22 @@
       "duration_ms": 153600,
       "name": "Mad Max",
       "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
+    },
+    {
+      "added_at": "2022-10-14 19:06:53",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -863,6 +863,22 @@
       "duration_ms": 159370,
       "name": "Gangsta Boo (with Lil Tjay)",
       "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 233794,
+      "name": "how u feel?",
+      "url": "https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -911,22 +927,6 @@
       "duration_ms": 229800,
       "name": "Shmunk (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "If Looks Could Kill",
-        "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 233794,
-      "name": "how u feel?",
-      "url": "https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -997,24 +997,20 @@
       "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
     },
     {
-      "added_at": "2023-01-24 19:59:03",
+      "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "MANSION MUSIK",
-        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
+        "name": "Leave Her",
+        "url": "https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
         }
       ],
-      "duration_ms": 177230,
-      "name": "KNIGHT CRAWLER (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w"
+      "duration_ms": 137026,
+      "name": "Leave Her",
+      "url": "https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1037,20 +1033,24 @@
       "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
+      "added_at": "2023-01-24 19:59:03",
       "album": {
-        "name": "Leave Her",
-        "url": "https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc"
+        "name": "MANSION MUSIK",
+        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
       },
       "artists": [
         {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 137026,
-      "name": "Leave Her",
-      "url": "https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg"
+      "duration_ms": 177230,
+      "name": "KNIGHT CRAWLER (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1093,6 +1093,22 @@
       "url": "https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW"
     },
     {
+      "added_at": "2023-04-21 19:34:14",
+      "album": {
+        "name": "I'm Geekin",
+        "url": "https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "duration_ms": 101946,
+      "name": "I'm Geekin",
+      "url": "https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Sleazy Flow (Remix)",
@@ -1131,22 +1147,6 @@
       "duration_ms": 160500,
       "name": "WTF (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/35NkPKSmtu6lCht95nukpr"
-    },
-    {
-      "added_at": "2023-04-21 19:34:14",
-      "album": {
-        "name": "I'm Geekin",
-        "url": "https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        }
-      ],
-      "duration_ms": 101946,
-      "name": "I'm Geekin",
-      "url": "https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1253,26 +1253,6 @@
       "url": "https://open.spotify.com/track/1iQxvF3AQ7Bs3RTBuXqZOA"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Chrome Hearted (feat. Tyga)",
-        "url": "https://open.spotify.com/album/5vrfdCvUGoxtqXBeGnY5qQ"
-      },
-      "artists": [
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Chrome Hearted (feat. Tyga)",
-      "url": "https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q"
-    },
-    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "On Wat U On (with GloRilla)",
@@ -1291,6 +1271,26 @@
       "duration_ms": 159720,
       "name": "On Wat U On (with GloRilla)",
       "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Chrome Hearted (feat. Tyga)",
+        "url": "https://open.spotify.com/album/5vrfdCvUGoxtqXBeGnY5qQ"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Chrome Hearted (feat. Tyga)",
+      "url": "https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q"
     },
     {
       "added_at": "2023-04-21 19:34:14",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Back Flippin",
-        "url": "https://open.spotify.com/album/3GvwZRsUVRxwjdBW1B05VY"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 142628,
-      "name": "Back Flippin",
-      "url": "https://open.spotify.com/track/112f64x3xitpDPHfr98T01"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Upnow (feat. Coi Leray)",
@@ -1347,6 +1331,22 @@
       "duration_ms": 162386,
       "name": "Upnow (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Back Flippin",
+        "url": "https://open.spotify.com/album/3GvwZRsUVRxwjdBW1B05VY"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 142628,
+      "name": "Back Flippin",
+      "url": "https://open.spotify.com/track/112f64x3xitpDPHfr98T01"
     },
     {
       "added_at": "2023-02-24 05:02:00",
@@ -1389,6 +1389,22 @@
       "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "Nothing Changed",
@@ -1407,22 +1423,6 @@
       "duration_ms": 199111,
       "name": "Nothing Changed",
       "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1657,22 +1657,6 @@
       "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
     },
     {
-      "added_at": "2023-03-13 18:27:07",
-      "album": {
-        "name": "MO UP FRONT",
-        "url": "https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 170962,
-      "name": "MO UP FRONT",
-      "url": "https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "2 Mins of Pain (feat. Alborosie)",
@@ -1691,6 +1675,22 @@
       "duration_ms": 136695,
       "name": "2 Mins of Pain (feat. Alborosie)",
       "url": "https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi"
+    },
+    {
+      "added_at": "2023-03-13 18:27:07",
+      "album": {
+        "name": "MO UP FRONT",
+        "url": "https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "MO UP FRONT",
+      "url": "https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1821,6 +1821,22 @@
       "url": "https://open.spotify.com/track/5tLdDm1cVYAH2kk7TyjmdW"
     },
     {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Just Relax",
+        "url": "https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 152213,
+      "name": "Just Relax",
+      "url": "https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "It's Not Me It's You",
@@ -1859,22 +1875,6 @@
       "duration_ms": 110706,
       "name": "Stop Breathing",
       "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Just Relax",
-        "url": "https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc"
-      },
-      "artists": [
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        }
-      ],
-      "duration_ms": 152213,
-      "name": "Just Relax",
-      "url": "https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1921,20 +1921,20 @@
       "url": "https://open.spotify.com/track/0GSbjG7c0gm7qX0Ru7vuon"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Sucka Or Sum",
-        "url": "https://open.spotify.com/album/5gaVPtt0TIRuPeRfQeJ63P"
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/3NMpB1bl2kVyZSqMUN9F3I"
       },
       "artists": [
         {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 189153,
-      "name": "Sucka Or Sum",
-      "url": "https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P"
+      "duration_ms": 137716,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht"
     }
   ],
   "unique_name": "Hip Hop Controller",

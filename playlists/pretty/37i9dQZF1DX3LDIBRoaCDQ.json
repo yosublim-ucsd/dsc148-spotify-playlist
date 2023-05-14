@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1495797,
+  "num_followers": 1496042,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWEzNmMzZGUwYTUyMDVjMjQ2MzcwZWViM2ZiYzE5OWQzYzNiNDI4",
+  "snapshot_id": "MCwxMDVkYzAxOWQxMDYzNmY3Yjk5YTE1NGFmNjI0OWI4NjkxMThiMGVl",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Give Me Convenience or Give Me Death",
         "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 207040,
       "name": "California Uber Alles",
       "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 102106,
-      "name": "Knowledge - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
       "artists": [
         {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
         }
       ],
-      "duration_ms": 191266,
-      "name": "Uncontrollable Urge",
-      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
+      "duration_ms": 102106,
+      "name": "Knowledge - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -739,6 +723,22 @@
       "duration_ms": 132786,
       "name": "Banned in D.C.",
       "url": "https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Uncontrollable Urge",
+      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Day the Country Died",
-        "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
-      },
-      "artists": [
-        {
-          "name": "Subhumans",
-          "url": "https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Mickey Mouse Is Dead",
-      "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Can I Say",
         "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 166560,
       "name": "Circles",
       "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Day the Country Died",
+        "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
+      },
+      "artists": [
+        {
+          "name": "Subhumans",
+          "url": "https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Mickey Mouse Is Dead",
+      "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
     },
     {
       "added_at": "2022-11-28 15:26:19",

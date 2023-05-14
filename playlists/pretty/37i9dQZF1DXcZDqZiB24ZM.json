@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmUwY2IzYjRiZjc4ODM2NDc4ZjVmMDJhNzIxYjNkY2JkMmE2NzA4",
+  "snapshot_id": "MCwwMDVjNTdiNWU4M2VhMmE0Y2NjOWEzOGFlYzA4NzNhYTYzMjExNGVi",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Le Qu\u00e9b\u00e9cois",
-        "url": "https://open.spotify.com/album/7sHnZOknlr6BSrGSh9WsN5"
+        "name": "Leaving",
+        "url": "https://open.spotify.com/album/7A4TshLSDnAQcnCr72kC2c"
       },
       "artists": [
         {
-          "name": "Sir Path",
-          "url": "https://open.spotify.com/artist/1SqP7XwK5pJqhoL3bwqF2v"
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
         }
       ],
-      "duration_ms": 191578,
-      "name": "Vie de bum",
-      "url": "https://open.spotify.com/track/1DFMMkQ1ej4lgR9dET0raU"
+      "duration_ms": 224117,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/1Gx5oXQw5BjWZRwGVkA9Ok"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Leaving",
-        "url": "https://open.spotify.com/album/7A4TshLSDnAQcnCr72kC2c"
+        "name": "Le Qu\u00e9b\u00e9cois",
+        "url": "https://open.spotify.com/album/7sHnZOknlr6BSrGSh9WsN5"
       },
       "artists": [
         {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+          "name": "Sir Path",
+          "url": "https://open.spotify.com/artist/1SqP7XwK5pJqhoL3bwqF2v"
         }
       ],
-      "duration_ms": 224117,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/1Gx5oXQw5BjWZRwGVkA9Ok"
+      "duration_ms": 191578,
+      "name": "Vie de bum",
+      "url": "https://open.spotify.com/track/1DFMMkQ1ej4lgR9dET0raU"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Dead Summer",
+        "url": "https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 165569,
+      "name": "Dead Summer",
+      "url": "https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "5 dans la whip",
         "url": "https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 206216,
       "name": "5 dans la whip",
       "url": "https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Dead Summer",
-        "url": "https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        }
-      ],
-      "duration_ms": 165569,
-      "name": "Dead Summer",
-      "url": "https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "IMPR\u00c9VU",
-        "url": "https://open.spotify.com/album/0ZT9myo7oZW88ZB81glyvE"
-      },
-      "artists": [
-        {
-          "name": "MikeZup",
-          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
-        },
-        {
-          "name": "Enima",
-          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
-        }
-      ],
-      "duration_ms": 261890,
-      "name": "Sang Sur les Mains",
-      "url": "https://open.spotify.com/track/0T3Fsro25pwNhZ4iVDnIiC"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Bonhomme Pendu (Chapitre 2)",
         "url": "https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 159688,
       "name": "Basilic",
       "url": "https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "IMPR\u00c9VU",
+        "url": "https://open.spotify.com/album/0ZT9myo7oZW88ZB81glyvE"
+      },
+      "artists": [
+        {
+          "name": "MikeZup",
+          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
+        },
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "duration_ms": 261890,
+      "name": "Sang Sur les Mains",
+      "url": "https://open.spotify.com/track/0T3Fsro25pwNhZ4iVDnIiC"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "...At Least My Mom Loves Me",
-        "url": "https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU"
-      },
-      "artists": [
-        {
-          "name": "Maky Lavender",
-          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
-        }
-      ],
-      "duration_ms": 243721,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "5 / 5",
         "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "...At Least My Mom Loves Me",
+        "url": "https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU"
+      },
+      "artists": [
+        {
+          "name": "Maky Lavender",
+          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
+        }
+      ],
+      "duration_ms": 243721,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
       },
@@ -1583,22 +1583,6 @@
       "duration_ms": 210976,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK"
-      },
-      "artists": [
-        {
-          "name": "LaF",
-          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
-        }
-      ],
-      "duration_ms": 212579,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1635,6 +1619,22 @@
       "duration_ms": 265786,
       "name": "D\u00e9coller",
       "url": "https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "duration_ms": 212579,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Le sens des paroles",
-        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
-      },
-      "artists": [
-        {
-          "name": "Alaclair Ensemble",
-          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
-        },
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 245929,
-      "name": "FLX",
-      "url": "https://open.spotify.com/track/205afVnJDjzQsh60Zzmxdl"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "OUI (tout, tout, tout, toutttte)",
         "url": "https://open.spotify.com/album/7bRU8bH8jcOYzSA5NKd1QK"
       },
@@ -1739,6 +1719,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Le sens des paroles",
+        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 245929,
+      "name": "FLX",
+      "url": "https://open.spotify.com/track/205afVnJDjzQsh60Zzmxdl"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "5 / 5",
         "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
       },
@@ -1751,6 +1751,22 @@
       "duration_ms": 213167,
       "name": "Loin",
       "url": "https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Faits d'hiver",
+        "url": "https://open.spotify.com/album/4kk3W4tg7QRzm0UEQfBBWf"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Faits d'hiver",
+      "url": "https://open.spotify.com/track/300wnPpERq0OFEG92ur2Nn"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1791,38 +1807,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Faits d'hiver",
-        "url": "https://open.spotify.com/album/4kk3W4tg7QRzm0UEQfBBWf"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Faits d'hiver",
-      "url": "https://open.spotify.com/track/300wnPpERq0OFEG92ur2Nn"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Gucci",
-        "url": "https://open.spotify.com/album/3aSD0RiBSjaKUYcUR45zrs"
-      },
-      "artists": [
-        {
-          "name": "SB",
-          "url": "https://open.spotify.com/artist/6S7LxJgzPjJy87oXIMxLJG"
-        }
-      ],
-      "duration_ms": 211696,
-      "name": "Gucci",
-      "url": "https://open.spotify.com/track/2O0VHBHWmfpp5Qy8CguLQI"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Sainte-Foy",
         "url": "https://open.spotify.com/album/7BEPwXmSWLXN8iaNP3683g"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 252259,
       "name": "\u00c7a fait mal",
       "url": "https://open.spotify.com/track/1sAB7fCrQ4YUIdoP24qlO1"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Gucci",
+        "url": "https://open.spotify.com/album/3aSD0RiBSjaKUYcUR45zrs"
+      },
+      "artists": [
+        {
+          "name": "SB",
+          "url": "https://open.spotify.com/artist/6S7LxJgzPjJy87oXIMxLJG"
+        }
+      ],
+      "duration_ms": 211696,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/2O0VHBHWmfpp5Qy8CguLQI"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1871,22 +1871,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "wesh",
-        "url": "https://open.spotify.com/album/12eqi4scCGaiOQRJkR2ZfF"
+        "name": "La Coupe",
+        "url": "https://open.spotify.com/album/0RmRcOngbxdmj2xaqbG8qg"
       },
       "artists": [
         {
-          "name": "Kirouac",
-          "url": "https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt"
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
         },
         {
-          "name": "Kodakludo",
-          "url": "https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ"
+          "name": "Tommy Kruise",
+          "url": "https://open.spotify.com/artist/6qbvYddbPDB4W0dHHmJ38S"
         }
       ],
-      "duration_ms": 170351,
-      "name": "back",
-      "url": "https://open.spotify.com/track/5TyT9YnF3S0Z4DfqUSO96b"
+      "duration_ms": 172489,
+      "name": "Findsemaine",
+      "url": "https://open.spotify.com/track/12ArV5PWkSFau0DO3oZEHB"
     }
   ],
   "unique_name": "Les nouveaux classiques",

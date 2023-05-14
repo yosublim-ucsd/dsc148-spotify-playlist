@@ -4,7 +4,7 @@
 
 > The notes that will make you long for those days of yore.
 
-192 songs - 10 hr 36 min
+193 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Frenesi](https://open.spotify.com/track/4NlfRihvAjaPWFjygOWZNx) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [A Regar La Polilla](https://open.spotify.com/album/6qywWZ1ChDMHt0KBEf7Fq6) | 3:20 | 2020-12-08 | 2022-07-29 |
 | [Frenesi](https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [A Regar La Polilla](https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T) | 3:20 | 2020-12-08 |  |
 | [Frenesí](https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Boleros Bonitos](https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg) | 2:49 | 2020-12-08 |  |
-| [Gefangenenchor aus "Nabucco"](https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6) | [Edward Simoni](https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT) | [Die Zauberwelt der Panflöte](https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU) | 2:54 | 2020-12-08 |  |
+| [Gefangenenchor aus "Nabucco"](https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6) | [Edward Simoni](https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT) | [Die Zauberwelt der Panflöte](https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU) | 2:54 | 2020-12-08 | 2023-05-14 |
 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 | 2020-12-08 |  |
 | [Guns of Navarone](https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs) | [Al Caiola](https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6) | [Bonanza \- 50 Fabulous Guitar Favourites](https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9) | 2:40 | 2020-12-08 |  |
 | [Il](https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [14 Estelares](https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5) | 3:17 | 2020-12-08 |  |
@@ -85,6 +85,7 @@
 | [Imágenes](https://open.spotify.com/track/2qQN7AqqDvUYbpjR7zidQm) | [Johnny Days Orchestra](https://open.spotify.com/artist/6ddwnoAVajTGZa2ikrJqaY) | [Los Recuerdos Están Hechos de Esto Vol\. 1](https://open.spotify.com/album/5aQPUujM556YFCGjR4FPof) | 3:09 | 2020-12-08 |  |
 | [Java](https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Greatest Hits](https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB) | 1:56 | 2020-12-08 |  |
 | [Joy](https://open.spotify.com/track/09fMq1Nd85MfCVTvF4YOsx) | [Satellite Orchestra](https://open.spotify.com/artist/3WUPVm3JL0g6uXMfnDRtZw) | [Love Is All Around: Lite Pop of The '70s](https://open.spotify.com/album/5piCXoQpkvN5pM8QtVaSov) | 2:48 | 2020-12-08 | 2023-04-29 |
+| [Joy](https://open.spotify.com/track/2I3iX9yeYYzK6ebFhaxPLp) | [Satellite Orchestra](https://open.spotify.com/artist/3WUPVm3JL0g6uXMfnDRtZw) | [Stay Awhile](https://open.spotify.com/album/1fpwIpDPPXrNNPbHckzwbA) | 2:48 | 2020-12-08 |  |
 | [Kiss of Fire](https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:39 | 2020-12-08 |  |
 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 | 2020-12-08 |  |
 | [La Paloma](https://open.spotify.com/track/6RkUeQHTyqeqnqIygrqnt7) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [La Paloma](https://open.spotify.com/album/3w3EoQYm9UT2sYwnu2Fbag) | 2:30 | 2020-12-08 | 2022-07-29 |

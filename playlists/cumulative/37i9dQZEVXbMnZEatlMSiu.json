@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 172282,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL"
@@ -7342,6 +7342,24 @@
     {
       "album": {
         "name": "\u74e6\u5408",
+        "url": "https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW"
+      },
+      "artists": [
+        {
+          "name": "No Party For Cao Dong",
+          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142266,
+      "name": "\u4f46",
+      "url": "https://open.spotify.com/track/76UXxB4NOsMLZqBQs0pBO5"
+    },
+    {
+      "album": {
+        "name": "\u74e6\u5408",
         "url": "https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW"
       },
       "artists": [
@@ -7352,7 +7370,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 142266,
       "name": "\u4f46",
       "url": "https://open.spotify.com/track/7IsKdMqFL1SbEnF6uzAMDi"
@@ -8684,10 +8702,28 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 232480,
       "name": "\u5e8a",
       "url": "https://open.spotify.com/track/2C1Wgc25XHm7SUGnkC920N"
+    },
+    {
+      "album": {
+        "name": "\u74e6\u5408",
+        "url": "https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW"
+      },
+      "artists": [
+        {
+          "name": "No Party For Cao Dong",
+          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232480,
+      "name": "\u5e8a",
+      "url": "https://open.spotify.com/track/4DNdhYUqi5X14VLd2JrUmL"
     },
     {
       "album": {
@@ -9652,7 +9688,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/0F02KChKwbcQ3tk4q1YxLH"

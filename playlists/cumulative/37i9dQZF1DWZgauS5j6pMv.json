@@ -2892,10 +2892,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 145003,
       "name": "I Can\u2019t Party",
       "url": "https://open.spotify.com/track/00oQQmRQTVONwfEnoSxG97"
+    },
+    {
+      "album": {
+        "name": "Vulfnik",
+        "url": "https://open.spotify.com/album/2hx7xwv78aW95cduJrslG5"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145003,
+      "name": "I Can\u2019t Party",
+      "url": "https://open.spotify.com/track/31gtPpV9n1BA6gPEWvTSwe"
     },
     {
       "album": {

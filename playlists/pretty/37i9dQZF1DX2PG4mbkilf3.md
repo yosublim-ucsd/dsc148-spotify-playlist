@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Sean Leon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,320 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,388 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Perfect Timing](https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [In The Meantime...](https://open.spotify.com/album/1qUcbrfGhJtaYOpZRna9eX) | 2:10 |
 | 100 | [Dreams](https://open.spotify.com/track/3tH0vbWaVb3rzlhqlA29Nu) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Dreams](https://open.spotify.com/album/7uzN6TOWx3PIKIytVpKMyQ) | 3:15 |
 
-Snapshot ID: `MCw3MTFmMDU5Mjk1NWMwMWRlYmU4NzA5NDhhNDAxZmI5NzA4MzU1MThk`
+Snapshot ID: `MCw5ZmFlMjE3YWU0OTJkOWMyZDU5YzI1MTMwODQ3NzExMTQ3YmQ5ZGRi`

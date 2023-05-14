@@ -1,12 +1,12 @@
 {
   "description": "Energetic tracks from the 2010s to boost your running session.",
-  "num_followers": 368818,
+  "num_followers": 368895,
   "original_name": "10s Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTEzYTI0ZmZjM2IyNTZkZjMzOWQ4ODNhYWU2YzQxNjgzNjdkOGUy",
+  "snapshot_id": "MCw4YzBmMjdkZWYyMmVlZGFjMWQxZWMyZGViZGIzMTFjOGVkMTZlYzA2",
   "tracks": [
     {
       "added_at": "2023-01-03 14:57:22",
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
     },
     {
-      "added_at": "2023-05-13 00:43:11",
+      "added_at": "2023-05-14 00:37:04",
       "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
     },
     {
-      "added_at": "2023-05-13 00:43:11",
+      "added_at": "2023-05-14 00:37:04",
       "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
@@ -923,18 +923,22 @@
     {
       "added_at": "2023-01-03 14:57:22",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+        "name": "Summer Party Anthems",
+        "url": "https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+      "duration_ms": 201773,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"
     }
   ],
   "unique_name": "10s Pop Run",

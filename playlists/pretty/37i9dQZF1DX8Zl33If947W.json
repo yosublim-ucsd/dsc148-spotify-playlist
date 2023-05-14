@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 128689,
+  "num_followers": 128816,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmQyYzZjMmEwMTczOGU1MWQzYTNlZGY0ZTU1NDE3ZjE3YjVmYzgy",
+  "snapshot_id": "MCw1NzgxYWZmZWMwMjA0YzFiYTRiZTExNjc5OGQzZWRmYzI0MjE1ZmMy",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -47,8 +47,8 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Raop",
-        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+        "name": "Melodie",
+        "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj"
       },
       "artists": [
         {
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
         }
       ],
-      "duration_ms": 142462,
-      "name": "Einmal um die Welt",
-      "url": "https://open.spotify.com/track/7qiUjLVo6zLj8WmxPMqoXD"
+      "duration_ms": 195548,
+      "name": "Traum",
+      "url": "https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Melodie",
-        "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 195548,
-      "name": "Traum",
-      "url": "https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Mit Dir",
         "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 169500,
       "name": "Mit Dir",
       "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 174873,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -255,22 +255,6 @@
       "duration_ms": 155597,
       "name": "Du Fehlst",
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Raop",
-        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 174873,
-      "name": "Du",
-      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -359,22 +343,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Schlagschatten",
-        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 207751,
-      "name": "Vielleicht Vielleicht",
-      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Nador",
         "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
       },
@@ -387,6 +355,22 @@
       "duration_ms": 190186,
       "name": "Lieblingsmensch",
       "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Schlagschatten",
+        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 207751,
+      "name": "Vielleicht Vielleicht",
+      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -463,22 +447,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Liege wieder wach",
-        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Liege wieder wach",
-      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Nur wegen dir",
         "url": "https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl"
       },
@@ -491,6 +459,22 @@
       "duration_ms": 203826,
       "name": "Nur wegen dir",
       "url": "https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Liege wieder wach",
+        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Liege wieder wach",
+      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -511,22 +495,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Immer in Bewegung",
-        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
-      },
-      "artists": [
-        {
-          "name": "Revolverheld",
-          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "Ich lass f\u00fcr dich das Licht an",
-      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Dein ist mein ganzes Herz",
         "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
       },
@@ -539,6 +507,22 @@
       "duration_ms": 213666,
       "name": "Dein ist mein ganzes Herz",
       "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Immer in Bewegung",
+        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
+      },
+      "artists": [
+        {
+          "name": "Revolverheld",
+          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "Ich lass f\u00fcr dich das Licht an",
+      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -719,22 +703,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Wenn ich wein",
-        "url": "https://open.spotify.com/album/7GE8qNQsl1t8SaEpFnvLuj"
-      },
-      "artists": [
-        {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Wenn ich wein",
-      "url": "https://open.spotify.com/track/4Wuu6qS3D0Veevv2ZtbbrD"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -751,6 +719,22 @@
       "duration_ms": 220706,
       "name": "So perfekt",
       "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Wenn ich wein",
+        "url": "https://open.spotify.com/album/7GE8qNQsl1t8SaEpFnvLuj"
+      },
+      "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Wenn ich wein",
+      "url": "https://open.spotify.com/track/4Wuu6qS3D0Veevv2ZtbbrD"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -859,6 +843,30 @@
       "duration_ms": 180200,
       "name": "Er geh\u00f6rt zu mir",
       "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Sommer",
+        "url": "https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW"
+      },
+      "artists": [
+        {
+          "name": "Beatzarre & Djorkaeff",
+          "url": "https://open.spotify.com/artist/3j0p8s4ghZuEazM5zyiHsD"
+        },
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "duration_ms": 180146,
+      "name": "Sommer",
+      "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
     }
   ],
   "unique_name": "Liebeslieder",

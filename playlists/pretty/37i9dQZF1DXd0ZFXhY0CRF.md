@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > These women rock our worlds with their music and influence\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,089 likes - 88 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,218 likes - 88 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 33 | [Jealousy](https://open.spotify.com/track/2ZdEHxr2L0Dj5zJOdt3Dql) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 3:12 |
 | 34 | [Bad Day](https://open.spotify.com/track/5IzJBDURDhsfIWXE2kGvWb) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:33 |
 | 35 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 |
-| 36 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 |
+| 36 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
 | 37 | [The Wolf You Feed \(feat\. Alissa White\-Gluz\)](https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [The Wolf You Feed \(feat\. Alissa White\-Gluz\)](https://open.spotify.com/album/0RldApXzFEBMTvPetGTIcF) | 3:54 |
 | 38 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 |
 | 39 | [September Rain](https://open.spotify.com/track/7F1h4bQ0WZ7NSCPlfIfxLp) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 3:33 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 87 | [Rockstar](https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:09 |
 | 88 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 |
 
-Snapshot ID: `MCw3NWI4YmVjYmNmYmNkNWI3OWJjYjdiMjdhYTJmYWM3ODg1ZjQ3ZjU2`
+Snapshot ID: `MCw3NmJlYTU4YmZmNzk2NmQyODVhMTIzNGJjZmQzODI1YTM0NGQzY2Ri`

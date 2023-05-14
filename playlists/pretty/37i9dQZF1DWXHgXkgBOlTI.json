@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u5bae\u672c\u5927 \u5287\u5834\u516c\u958b\u4e2d\u306e<a href=\"https://bluegiant-movie.jp/\">\u6620\u753b\u300cBLUE GIANT\u300d</a>\u3068\u30b3\u30e9\u30dc\u4e2d\uff01cover: JASS \u00a92023 \u88fd\u4f5c\u59d4\u54e1\u4f1a\u3000\u00a92013 \u77f3\u585a\u771f\u4e00\uff0f\u5c0f\u5b66\u9928",
-  "num_followers": 18735,
+  "num_followers": 18754,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGE5N2QxMjg3NjJlNTEzNDY3ZTNmZDdlNDY3OGQ1ZGYzYjhhMzQ5",
+  "snapshot_id": "MCw3ODY1ZjI2OTkxNzBhOTg0NDY5NGQ5MDkzZWE3ZGUyMjE2MmJjMGMx",
   "tracks": [
     {
       "added_at": "2023-04-04 15:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-04-04 15:00:00",
       "album": {
-        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
-      },
-      "artists": [
-        {
-          "name": "ADAM at",
-          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Moonlight Syndrome",
-      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
-    },
-    {
-      "added_at": "2023-04-04 15:00:00",
-      "album": {
         "name": "Living Message",
         "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2023-04-04 15:00:00",
       "album": {
+        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
+      },
+      "artists": [
+        {
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Moonlight Syndrome",
+      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
+    },
+    {
+      "added_at": "2023-04-04 15:00:00",
+      "album": {
         "name": "NEWTOWN",
         "url": "https://open.spotify.com/album/2lveEbqQBRgGNrik6K2ZwS"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 298200,
       "name": "N\u00b09",
       "url": "https://open.spotify.com/track/1MaU3Y6P7j95oINCv6cmmR"
+    },
+    {
+      "added_at": "2023-04-04 15:00:00",
+      "album": {
+        "name": "NEW",
+        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
+      },
+      "artists": [
+        {
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Red Ocean",
+      "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
     },
     {
       "added_at": "2023-04-04 15:00:00",
@@ -655,18 +671,18 @@
     {
       "added_at": "2023-04-04 15:00:00",
       "album": {
-        "name": "NEW",
-        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
+        "name": "an anxious object",
+        "url": "https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5"
       },
       "artists": [
         {
-          "name": "JABBERLOOP",
-          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+          "name": "mouse on the keys",
+          "url": "https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp"
         }
       ],
-      "duration_ms": 300560,
-      "name": "Red Ocean",
-      "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
+      "duration_ms": 200586,
+      "name": "spectres de mouse",
+      "url": "https://open.spotify.com/track/0M372WfoAEvYSRjcczirDF"
     },
     {
       "added_at": "2023-04-04 15:00:00",
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-04-04 15:00:00",
       "album": {
-        "name": "an anxious object",
-        "url": "https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5"
-      },
-      "artists": [
-        {
-          "name": "mouse on the keys",
-          "url": "https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp"
-        }
-      ],
-      "duration_ms": 200586,
-      "name": "spectres de mouse",
-      "url": "https://open.spotify.com/track/0M372WfoAEvYSRjcczirDF"
-    },
-    {
-      "added_at": "2023-04-04 15:00:00",
-      "album": {
         "name": "THE SQUARE YEAR END Live 20151226",
         "url": "https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 376200,
       "name": "DeLorean",
       "url": "https://open.spotify.com/track/53SLUB2mNAQVI9hUKwszSh"
-    },
-    {
-      "added_at": "2023-04-04 15:00:00",
-      "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
-      },
-      "artists": [
-        {
-          "name": "SANOVA",
-          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "\u67af\u8449 ~Autumn Leaves~ (jazz standard)",
-      "url": "https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx"
     },
     {
       "added_at": "2023-04-04 15:00:00",
@@ -799,6 +783,22 @@
     {
       "added_at": "2023-04-04 15:00:00",
       "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
+      },
+      "artists": [
+        {
+          "name": "SANOVA",
+          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "\u67af\u8449 ~Autumn Leaves~ (jazz standard)",
+      "url": "https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx"
+    },
+    {
+      "added_at": "2023-04-04 15:00:00",
+      "album": {
         "name": "I'll",
         "url": "https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo"
       },
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-04-04 15:00:00",
       "album": {
-        "name": "We\u2019ll Be Right Back",
-        "url": "https://open.spotify.com/album/1WTZwZKR56VOLX4q5YgJN2"
+        "name": "NEW",
+        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
       },
       "artists": [
         {
-          "name": "Blu-Swing",
-          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
         }
       ],
-      "duration_ms": 261600,
-      "name": "We\u2019ll Be Right Back",
-      "url": "https://open.spotify.com/track/6AtrtrgIPlpMcHHntj3eT8"
+      "duration_ms": 293920,
+      "name": "MotherLake",
+      "url": "https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

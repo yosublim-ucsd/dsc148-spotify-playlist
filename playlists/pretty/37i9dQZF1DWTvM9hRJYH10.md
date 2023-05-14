@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Greylan James
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,749 likes - 143 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,775 likes - 143 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 67 | [Cartier](https://open.spotify.com/track/5Dg385wbg8UpFsPGF7mKSN) | [Caroline Dare](https://open.spotify.com/artist/729VtCqRPf0MwVTXAPz7wr) | [Cartier](https://open.spotify.com/album/5KKa4O8V0YmpcKdqDfBNZz) | 3:20 |
 | 68 | [Laid Back](https://open.spotify.com/track/2Q6u01A9qrtBnKEmwD9QOM) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 2:51 |
 | 69 | [Trucks Ain't for Breaking Down In](https://open.spotify.com/track/0u02cFSDCRq5l6z5SIpPAX) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Trucks Ain't for Breaking Down In](https://open.spotify.com/album/3cpsCXBD4sD1FDWCEybqrf) | 3:18 |
-| 70 | [The Only Thing](https://open.spotify.com/track/7yzUuwUZk07zmeRNTPeIYQ) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [The Only Thing](https://open.spotify.com/album/1nH2M5l54JzGUaWvJzDqVY) | 3:09 |
+| 70 | [The Only Thing](https://open.spotify.com/track/0s2io8QC8ufwSpDuSkt86j) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [The Only Thing](https://open.spotify.com/album/67ZROIW0YnahqNW0wSo9Ld) | 3:09 |
 | 71 | [Break Itself](https://open.spotify.com/track/5OClt9eDq31Rtgo9vjjOyJ) | [Tristan Bushman](https://open.spotify.com/artist/6nonbnzKA6j3TXU8MMwxvI) | [Break Itself](https://open.spotify.com/album/2ihBIQ0Ut209dFVpccNtpD) | 3:39 |
 | 72 | [Mama Ain't Jesus](https://open.spotify.com/track/3ELOyDhZUfHmPyPqcyzGs6) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Mama Ain't Jesus](https://open.spotify.com/album/5Hv1zXpGhoFqxWWGH2i7Xy) | 3:11 |
 | 73 | [In My Head](https://open.spotify.com/track/6Nk2OjwtxyrNeP6v8Y5s8b) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [In My Head](https://open.spotify.com/album/6aFXC1z6tjtpYfS2CylqeW) | 3:30 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 142 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
 | 143 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCwyM2VlNGY4NzFkODVlNjBiOWZkOTQ0MmZmODI0MWZmZjgzZDA1Nzc3`
+Snapshot ID: `MCwwZGI1NDA1ZDBiMGIyMzQ3YjU4MmM4N2YzZGQzOGFmOGUxZDMwOGM1`

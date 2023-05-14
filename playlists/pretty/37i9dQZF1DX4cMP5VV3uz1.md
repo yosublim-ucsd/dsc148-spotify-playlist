@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,202 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,315 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 16 | [SUMMER](https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [SUMMER](https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9) | 3:40 |
 | 17 | [Remedies \- Vibe Chemistry Remix](https://open.spotify.com/track/3yQ516QezlWKO2jbWNgZrA) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Remedies \(Vibe Chemistry Remix\)](https://open.spotify.com/album/1WbjxqUd6FddMU9cKJQReX) | 3:31 |
 | 18 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
-| 19 | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh) | 2:35 |
-| 20 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 |
+| 19 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 |
+| 20 | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh) | 2:35 |
 | 21 | [450](https://open.spotify.com/track/1F0ww25lOcWtwTsco1vYWM) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38) | [Full Wack No Brakes](https://open.spotify.com/album/52tuSUlxOAQWoRs6AOvCFm) | 3:17 |
 | 22 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 |
 | 23 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [SWAZZ](https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O) | [The Manor](https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ) | [SWAZZ](https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ) | 3:32 |
 | 75 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 |
 
-Snapshot ID: `MCw1NDY5MmYwMzUxY2I1OGE1MmFhMWM0YjQyMjA0YzRiZTA2MmNjMTJh`
+Snapshot ID: `MCxhMTZhZDc4NzQwNDZlNjBjNGIxZjhmMzJhNTFmMWExZTJlMGNlOWU5`

@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 655772,
+  "num_followers": 655860,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDM4NThlODNlMjM0MjlhZjdjNWM2ZjcwODE4MGQyNDVlMzRiODZk",
+  "snapshot_id": "MCxmMDI3ZGU1ZGVlMmNkMDUwN2NhM2I3NzZlZWQ1NTY3NTkxMzgxMTNj",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -415,6 +415,26 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
+      },
+      "artists": [
+        {
+          "name": "Flavio",
+          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
+        },
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 197910,
+      "name": "Ya",
+      "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Comida para Llevar (2\u00aa Season)",
         "url": "https://open.spotify.com/album/5UvvQXgXlGIleqQDPiklcR"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 473379,
       "name": "CAMINAAANDO / Warapita",
       "url": "https://open.spotify.com/track/7GPI2FrKyz7YznXjsWc9p9"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Ya",
-        "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
-      },
-      "artists": [
-        {
-          "name": "Flavio",
-          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
-        },
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 197910,
-      "name": "Ya",
-      "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "VELOZzzz",
-        "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
+        "name": "See Me Now",
+        "url": "https://open.spotify.com/album/3YkfTFbfEgyprP6jtX4Ozi"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
         }
       ],
-      "duration_ms": 184888,
-      "name": "VELOZzzz",
-      "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
+      "duration_ms": 209464,
+      "name": "See Me Now",
+      "url": "https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "VELOZzzz",
+        "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "VELOZzzz",
+      "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 150071,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "See Me Now",
-        "url": "https://open.spotify.com/album/3YkfTFbfEgyprP6jtX4Ozi"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 209464,
-      "name": "See Me Now",
-      "url": "https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Conf\u00eden En M\u00ed",
-        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 108586,
-      "name": "No Eres T\u00fa, Soy Yo",
-      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Visa",
         "url": "https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 187386,
       "name": "Visa",
       "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Conf\u00eden En M\u00ed",
+        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 108586,
+      "name": "No Eres T\u00fa, Soy Yo",
+      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1347,6 +1331,38 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Volves",
+        "url": "https://open.spotify.com/album/4W0sH5fMAH2NYYGopA8pr9"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Volves",
+      "url": "https://open.spotify.com/track/5uvobs7WJRW691LBLX3oxM"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Volves",
-        "url": "https://open.spotify.com/album/4W0sH5fMAH2NYYGopA8pr9"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Volves",
-      "url": "https://open.spotify.com/track/5uvobs7WJRW691LBLX3oxM"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
       },
@@ -1443,6 +1443,26 @@
       "duration_ms": 212877,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1499,26 +1519,6 @@
       "duration_ms": 213440,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Nadie Nos Entiende",
-        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Nadie Nos Entiende",
-      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 321019,
+      "name": "Camarones y Viniles",
+      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Dos y Veintid\u00f3s",
         "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 237272,
       "name": "Electricidad (2:21am)",
       "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "fluye",
-        "url": "https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb"
-      },
-      "artists": [
-        {
-          "name": "Danny Mont",
-          "url": "https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "lily",
-      "url": "https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV"
     }
   ],
   "unique_name": "Chill Latino",

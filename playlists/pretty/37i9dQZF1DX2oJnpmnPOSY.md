@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oJnpmnPOSY.md) - [plain]
 
 > Featuring Young Miko, PJ Sin Suela, Plan B & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,502 likes - 25 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,544 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oJnpmnPOSY.md) - [plain]
 | 24 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
 | 25 | [Dejanos Pasar](https://open.spotify.com/track/0hDILCoN7SBSMHc5qwZ73E) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Dejanos Pasar](https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN) | 2:55 |
 
-Snapshot ID: `MCw5NzAwNTkyNzk3YWE3MmZjNGIxOGIwODJjODUwNzJhNThhMmQ3M2Ex`
+Snapshot ID: `MCwzMTlhM2UzZjk2NzJhNTk3OGIzODZhMjU2MzQ3NmI0MjRjODcwN2I0`

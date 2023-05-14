@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,930 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,996 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 31 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 |
 | 32 | [La vie ne m'apprend rien](https://open.spotify.com/track/6qdFHfgUPmngzK7oTeflgs) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Un autre monde \(Remastered\)](https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2) | 4:18 |
 | 33 | [Ta main](https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:33 |
-| 34 | [Je t'aime moi non plus](https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Comic Strip](https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG) | 4:28 |
-| 35 | [Fais\-moi signe](https://open.spotify.com/track/7mSzjc45pJeC1UyX7ry3co) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Sommeil levant](https://open.spotify.com/album/0NzIv6MIwJiG1FfqxGky7H) | 3:51 |
+| 34 | [Fais\-moi signe](https://open.spotify.com/track/7mSzjc45pJeC1UyX7ry3co) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Sommeil levant](https://open.spotify.com/album/0NzIv6MIwJiG1FfqxGky7H) | 3:51 |
+| 35 | [Je t'aime moi non plus](https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Comic Strip](https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG) | 4:28 |
 | 36 | [Mon amie la rose](https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Mon amie la rose\)](https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub) | 2:17 |
 | 37 | [Sad & Slow \(avec Julien Doré\)](https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:21 |
 | 38 | [Et dans 150 ans](https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 2:33 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 42 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [La tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
 | 43 | [Ta reine \- Version orchestrale](https://open.spotify.com/track/4hJljAGAHwfbeCx4y3UpgW) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol La Suite](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu) | 4:31 |
 | 44 | [Immortels](https://open.spotify.com/track/64XJOksESduPbepHxmW2rT) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [En amont](https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH) | 4:24 |
-| 45 | [Sensualité](https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [The Songs \(Acoustic\)](https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ) | 3:51 |
-| 46 | [Pour une seconde](https://open.spotify.com/track/4uiR0HGXDcqsR4E1P2EzLW) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Les Frangines \(Nouvelle édition\)](https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5) | 3:12 |
+| 45 | [Pour une seconde](https://open.spotify.com/track/4uiR0HGXDcqsR4E1P2EzLW) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Les Frangines \(Nouvelle édition\)](https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5) | 3:12 |
+| 46 | [Sensualité](https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [The Songs \(Acoustic\)](https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ) | 3:51 |
 | 47 | [Le tourbillon de la vie](https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:59 |
 | 48 | [Je ne veux qu'elle](https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Claire Keim](https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5) | [Marc Lavoine](https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI) | 3:58 |
 | 49 | [Sur un prélude de Bach](https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB) | [Maurane](https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if) | [Ami Ou Ennemi](https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU) | 4:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [Ton visage \- Acoustic](https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Des ombres et des lumières \- Live à l'Olympia / 2016](https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX) | 2:54 |
 | 75 | [Allez reste \(feat\. Vianney\)](https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Loin des yeux](https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil) | 2:47 |
 
-Snapshot ID: `MCw5NmFhZDdlOTI4OTg2ODBiM2VlMTYxZDQwNGZkNDg5MTk2ZTBjODVl`
+Snapshot ID: `MCxkNWQ1OTRhZTdhN2U5NDlmMjQ5Njg0NjllYmUzN2IxMmQzNTUxYmVl`

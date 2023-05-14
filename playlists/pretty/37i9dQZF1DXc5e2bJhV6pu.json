@@ -1,12 +1,12 @@
 {
   "description": "Get your day off to a cracking start!",
-  "num_followers": 1206981,
+  "num_followers": 1207167,
   "original_name": "Morning Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTg4ZTI3MjM0MzMwM2NiODIzNTkxY2UzY2Y0NTZmN2Y3YTliNDZj",
+  "snapshot_id": "MCwxMjA1YThiNDg2OGM1ZGM3ZmY5YzNhMDZmOTU0ODQ3NWI3NTlmZDFl",
   "tracks": [
     {
       "added_at": "2023-05-05 07:48:07",
@@ -363,6 +363,26 @@
     {
       "added_at": "2023-05-05 07:48:07",
       "album": {
+        "name": "Memories...Do Not Open",
+        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "added_at": "2023-05-05 07:48:07",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2023-05-05 07:48:07",
-      "album": {
-        "name": "Memories...Do Not Open",
-        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
     },
     {
       "added_at": "2023-05-05 07:48:07",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-05-05 07:48:07",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2023-05-05 07:48:07",
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
-    },
-    {
-      "added_at": "2023-05-05 07:48:07",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "added_at": "2023-05-05 07:48:07",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-05-05 07:48:07",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
-    },
-    {
-      "added_at": "2023-05-05 07:48:07",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2023-05-05 07:48:07",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2023-05-05 07:48:07",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-05-05 07:48:07",
       "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "added_at": "2023-05-05 07:48:07",
+      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2023-05-05 07:48:07",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
       "added_at": "2023-05-05 07:48:07",
@@ -975,6 +975,30 @@
     {
       "added_at": "2023-05-05 07:48:07",
       "album": {
+        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
+      "added_at": "2023-05-05 07:48:07",
+      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
       },
@@ -1003,30 +1027,6 @@
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": "2023-05-05 07:48:07",
-      "album": {
-        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
-        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
-      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
     },
     {
       "added_at": "2023-05-05 07:48:07",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-05-05 07:48:07",
       "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226198,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "added_at": "2023-05-05 07:48:07",
+      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
-    },
-    {
-      "added_at": "2023-05-05 07:48:07",
-      "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 226198,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     },
     {
       "added_at": "2023-05-05 07:48:07",

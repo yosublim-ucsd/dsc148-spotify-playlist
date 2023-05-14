@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Catie Offerman
 
-441 songs - 1 day 2 hr 16 min
+443 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,8 @@
 | [If I Know You](https://open.spotify.com/track/66Owg4vn0ZoqbMwrwqj4Eo) | [Hayden McBride](https://open.spotify.com/artist/5OprlGplkFPge47AnclgTq), [Holly Beth](https://open.spotify.com/artist/0N1Mo7HAAXKXmkNGlpDpsq) | [Worth the Wait](https://open.spotify.com/album/7AnxH98jDzr062djBBa4ko) | 3:44 | 2021-12-17 | 2022-07-29 |
 | [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 | 2022-05-06 | 2023-04-29 |
 | [If It Don't Have a Honky Tonk](https://open.spotify.com/track/1cb6MOfdZffj4i0e681VGL) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [If It Don't Have a Honky Tonk](https://open.spotify.com/album/2qcBsICzPfGOWyKDyoxhK5) | 3:24 | 2022-07-15 | 2022-09-17 |
-| [If Texas Had a Heart](https://open.spotify.com/track/2MFiN48Uw7dIjwnTDAYk04) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [If Texas Had a Heart](https://open.spotify.com/album/5y47dM3h00Gp3ABfbfbYOI) | 3:31 | 2023-04-14 |  |
+| [If Texas Had a Heart](https://open.spotify.com/track/2MFiN48Uw7dIjwnTDAYk04) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [If Texas Had a Heart](https://open.spotify.com/album/5y47dM3h00Gp3ABfbfbYOI) | 3:31 | 2023-04-14 | 2023-05-14 |
+| [If Texas Had a Heart](https://open.spotify.com/track/7dpjo7JoXTMJJzXjBS45Oh) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:31 | 2023-05-12 |  |
 | [If You Want It That Much](https://open.spotify.com/track/6h6uTeYywawEahrjFs2gYz) | [Cody Canada & The Departed](https://open.spotify.com/artist/0sNgjo2IC4YgJr6MF1bFS0) | [If You Want It That Much](https://open.spotify.com/album/5t1em5qrINtpfYgX9y7Qc8) | 3:34 | 2022-02-11 | 2022-07-29 |
 | [In the Dark](https://open.spotify.com/track/7nlNwrNlmvOZVBuP00ax0v) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [In the Dark](https://open.spotify.com/album/3X6pi4gHeBN14Lt9ItfOiX) | 3:52 | 2021-12-17 | 2022-03-19 |
 | [It Wasn’t Love](https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [It Wasn’t Love](https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1) | 4:05 | 2022-05-27 |  |
@@ -364,7 +365,8 @@
 | [Texas Moon](https://open.spotify.com/track/3W5rOs2jB7R3H0PEBxIiJ1) | [Caden Gillard](https://open.spotify.com/artist/0Aql1V8loJKhIE3fQuqKdK) | [Love & Heartbreak](https://open.spotify.com/album/7hPYGbGuvnijMDFS70BQHK) | 3:53 | 2022-10-14 | 2023-02-25 |
 | [That Ain't No Way To Go](https://open.spotify.com/track/5zq8Y9sg8XEgWD6pyBt7VX) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [That Ain't No Way To Go](https://open.spotify.com/album/6SxfUyEpdAOhSo26GJaPm6) | 3:33 | 2023-02-17 | 2023-05-13 |
 | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F) | 2:52 | 2022-09-23 |  |
-| [The Bar Guy](https://open.spotify.com/track/1N7c1NQGE4LMMJMpUE9MSP) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Bar Guy](https://open.spotify.com/album/4zVUFBJoGcli595MQJ7eEc) | 3:34 | 2023-03-24 |  |
+| [The Bar Guy](https://open.spotify.com/track/1N7c1NQGE4LMMJMpUE9MSP) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Bar Guy](https://open.spotify.com/album/4zVUFBJoGcli595MQJ7eEc) | 3:34 | 2023-03-24 | 2023-05-14 |
+| [The Bar Guy](https://open.spotify.com/track/73PETz82LOgrKAlxtpCPu7) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:34 | 2023-05-12 |  |
 | [The Biggest Life Worth Living Is the Small](https://open.spotify.com/track/45MoxFBIjAlirx31fIHn5m) | [Summer Dean](https://open.spotify.com/artist/33tSPgqoMQLTTJBn7LLLul) | [The Biggest Life Worth Living Is the Small](https://open.spotify.com/album/79bCpLfoIWQe5PMsQSEpVf) | 3:23 | 2023-03-10 |  |
 | [The Girl I Was](https://open.spotify.com/track/1vDIn9JZ1fxRL5zkmyTFvy) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [The Girl I Was](https://open.spotify.com/album/3rKxMNBmnC7PhoRvUZNyvY) | 3:38 | 2023-04-01 |  |
 | [The Good Ol' U.S\. of A.](https://open.spotify.com/track/0GjSVSf4E80qZQFuRBADZs) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [The Good Ol' U.S\. of A.](https://open.spotify.com/album/12KYJ6Y3Z60POCITCFz6nN) | 3:40 | 2021-12-17 | 2022-03-19 |

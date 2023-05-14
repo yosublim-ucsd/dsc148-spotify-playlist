@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. LØLØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,417 likes - 87 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,465 likes - 87 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 42 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
 | 43 | [\(NOT A\) LOVE SONG](https://open.spotify.com/track/4pbi40zXUCSQG3azxkag79) | [The Tyne](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [\(NOT A\) LOVE SONG](https://open.spotify.com/album/5ALQdJdsSKZikDNs6Br7VN) | 2:47 |
 | 44 | [EAT ME \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 3:00 |
-| 45 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 |
+| 45 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
 | 46 | [bubble boi](https://open.spotify.com/track/0g1o9HmpAmCLYYDESbhfZm) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [bubble boi](https://open.spotify.com/album/2DlARJZSNkxBMXQ1xqGug8) | 2:48 |
 | 47 | [boyfriend](https://open.spotify.com/track/7I5Nx5XlEAolrnQEnDcblx) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [boyfriend](https://open.spotify.com/album/32IYSWV4RkXN5bqWPS486t) | 2:48 |
 | 48 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 86 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 |
 | 87 | [DEEP CUTS](https://open.spotify.com/track/43zuHsv9bZ9WfsXPzpR4Nb) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 4:14 |
 
-Snapshot ID: `MCwxMzUwOWRmYTJjOTk2Y2RiODk2ZThjOWFiYjNlOWRjYTZmYzUyZjI1`
+Snapshot ID: `MCwzMWUyOTY2ZDY4ODljNzIxNGVjZmJhODNjMWQwOWRiYTg0YmQ4NTQz`

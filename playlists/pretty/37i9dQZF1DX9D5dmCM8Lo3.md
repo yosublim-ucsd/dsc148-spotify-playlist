@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,505 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,683 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 25 | [Goodbye To A World](https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:28 |
 | 26 | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME) | 1:46 |
 | 27 | [Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:48 |
-| 28 | [Deep Swim](https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Enchanted Instrumentals and Whispers](https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N) | 4:16 |
-| 29 | [My Head Hurts](https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk) | 3:06 |
+| 28 | [My Head Hurts](https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk) | 3:06 |
+| 29 | [Deep Swim](https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Enchanted Instrumentals and Whispers](https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N) | 4:16 |
 | 30 | [Blackbird](https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c) | [Zock](https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP) | [Blackbird](https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc) | 1:36 |
 | 31 | [Dreamscape](https://open.spotify.com/track/5fp6m6Zo4LetiWaMMrPjy5) | [009 Sound System](https://open.spotify.com/artist/0BjppA384A5QT9kRKCJOyb) | [009 Sound System](https://open.spotify.com/album/5W3etTwlyw2ykgwk5sW8K3) | 4:37 |
 | 32 | [Implanted Memories](https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Computer Afterlife](https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq) | 1:26 |
 | 33 | [Doku](https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Somoku Hodo](https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd) | 2:52 |
-| 34 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
-| 35 | [icosa](https://open.spotify.com/track/0cnyHT7ImohCNA6WDGV013) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [THIRTY三十](https://open.spotify.com/album/03CdWrUe6zg8QM9yOosxq4) | 2:43 |
+| 34 | [icosa](https://open.spotify.com/track/0cnyHT7ImohCNA6WDGV013) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [THIRTY三十](https://open.spotify.com/album/03CdWrUe6zg8QM9yOosxq4) | 2:43 |
+| 35 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
 | 36 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 |
 | 37 | [DesktopBuddy](https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [TILT](https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa) | 3:00 |
 | 38 | [Pro: Lov: Ad](https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 5:46 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 61 | [Spirit Gun](https://open.spotify.com/track/3SiHPV0ls0kkJM7L2KKSl8) | [Golden Boy](https://open.spotify.com/artist/1rBWZ8jlALSPgIVPWegPGq) | [Prince of the Cyber Rave](https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV) | 3:10 |
 | 62 | [Nightmare Fuel](https://open.spotify.com/track/1MzlJISHbDjR5Yp4PZHjBR) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [View\-Monster](https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs) | 1:48 |
 | 63 | [Pick a Seat](https://open.spotify.com/track/1jbGAVF3cTvh1nGZW1DHuF) | [Docx](https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj) | [I8](https://open.spotify.com/album/6bsNlLoY9chgUrwyLMCgnC) | 4:12 |
-| 64 | [Taxi](https://open.spotify.com/track/2IvnzqJv070rZ2I6u5ocuR) | [foster n!x](https://open.spotify.com/artist/5enSh2TLNYisRbvFyT5EKl) | [Drop Five](https://open.spotify.com/album/5KexTk8l0hilMkJrVKtp7L) | 1:38 |
-| 65 | [PPPP PaPiPuPePo](https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD) | [emamouse](https://open.spotify.com/artist/4dJoDugNSycsvrfS5TAsx7) | [PPPP PaPiPuPePo](https://open.spotify.com/album/5GfPmmrh30B8UxVeauXCr6) | 3:28 |
+| 64 | [PPPP PaPiPuPePo](https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD) | [emamouse](https://open.spotify.com/artist/4dJoDugNSycsvrfS5TAsx7) | [PPPP PaPiPuPePo](https://open.spotify.com/album/5GfPmmrh30B8UxVeauXCr6) | 3:28 |
+| 65 | [Taxi](https://open.spotify.com/track/2IvnzqJv070rZ2I6u5ocuR) | [foster n!x](https://open.spotify.com/artist/5enSh2TLNYisRbvFyT5EKl) | [Drop Five](https://open.spotify.com/album/5KexTk8l0hilMkJrVKtp7L) | 1:38 |
 | 66 | [I Really Wish I Was Playing Smash Bros Right Now](https://open.spotify.com/track/7hST4LHaypUoUeGayzsuPG) | [Yesterdayneverhappened](https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh) | [I Love You Kyary](https://open.spotify.com/album/5QKkoqSFe1lUea4tuAtoJb) | 1:21 |
 | 67 | [Loving Is Easy](https://open.spotify.com/track/7KTbdZRAZ3q3wYGz5mD4tR) | [death's dynamic shroud](https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c) | [I'll Try Living Like This](https://open.spotify.com/album/1BVQ0iqg1mFg3Q48OLlwOT) | 5:43 |
 | 68 | [Lovemall](https://open.spotify.com/track/4nLeOsqSVIVyF96ir7oD1u) | [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [Divinity](https://open.spotify.com/album/4K86mL8fddCmKNsMTX3Guo) | 2:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 74 | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 |
 | 75 | [Aokinaoi](https://open.spotify.com/track/6e5KhFVmU715GslNu11U6g) | [Scandisk7](https://open.spotify.com/artist/0ZBUxmJJpYRRsaPnsWZzHr) | [Aokinaoi](https://open.spotify.com/album/6gu1vqCxlCcXUFbDsRRjbY) | 4:52 |
 
-Snapshot ID: `MCxlMTA3MzQ0MTI0MDM2Y2QxYTVhNDMwOTkyNzcxNTdkOGQ2NzY0NDJk`
+Snapshot ID: `MCw0ZjYyNmJlMjg5ZWQxZDM5MTk5YmQ2NTFiMTI1NTEzMmEyOWI2N2Vm`

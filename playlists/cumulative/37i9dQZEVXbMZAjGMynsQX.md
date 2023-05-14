@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Costa Rica.
 
-672 songs - 1 day 14 hr 15 min
+673 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [A Tu Merced](https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:55 | 2021-07-06 | 2022-07-24 |
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2022-11-05 | 2022-11-20 |
 | [Aca Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 | 2021-12-14 | 2022-01-04 |
+| [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 | 2023-05-13 |  |
 | [Adan y Eva](https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:16 | 2022-03-25 | 2022-03-27 |
 | [Además de Mí \- Remix](https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Además de Mí \(Remix\)](https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78) | 5:30 | 2021-03-27\* | 2021-04-26 |
 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 | 2021-12-19 | 2023-01-04 |
@@ -520,7 +521,7 @@
 | [Relación \- Remix](https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Relación \(Remix\)](https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX) | 4:07 | 2021-03-27\* | 2021-04-26 |
 | [Reloj](https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:51 | 2021-03-27\* | 2021-08-17 |
 | [REMIX](https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:43 | 2022-03-26 | 2022-03-28 |
-| [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 | 2023-03-18 |  |
+| [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 | 2023-03-18 | 2023-05-14 |
 | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj) | 8:39 | 2022-03-05 | 2022-04-04 |
 | [REZAS](https://open.spotify.com/track/1Vj0a0Ox501tSjxMFq7FtO) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [REZAS](https://open.spotify.com/album/0cFHZfT43EQHck5pa9s1A1) | 3:05 | 2021-12-28 | 2022-02-21 |
 | [Rezas](https://open.spotify.com/track/7iHuzLWiHtQstKUs4FFd21) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [Rezas](https://open.spotify.com/album/0j8tsa7sDmpdMI607h09sa) | 3:05 | 2022-02-20 | 2022-04-24 |

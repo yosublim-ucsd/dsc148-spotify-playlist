@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,538 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,589 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 17 | [Last Farewell](https://open.spotify.com/track/7KDHGgYt5fF2Lh9FxMbVML) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Hot Issue](https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC) | 3:51 |
 | 18 | [LAST DANCE](https://open.spotify.com/track/7ijWcf4FsoxoyPK4B9WGp6) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 4:39 |
 | 19 | [Gara Gara Go!!](https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [KPOP \- JPOP Made In Korea Vol\. 2](https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl) | 3:18 |
-| 20 | [Stupid Liar](https://open.spotify.com/track/0ZHfjGYU26P7B0j1MmHeG8) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Special Edition](https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl) | 3:54 |
-| 21 | [Lollipop](https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp), [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:08 |
+| 20 | [Lollipop](https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp), [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:08 |
+| 21 | [Stupid Liar](https://open.spotify.com/track/0ZHfjGYU26P7B0j1MmHeG8) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Special Edition](https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl) | 3:54 |
 | 22 | [FXXK IT](https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:51 |
 | 23 | [My Heaven](https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 3:52 |
 | 24 | [Tell Me Goodbye](https://open.spotify.com/track/3GXiHK4P3hdSuxEdWVo2rg) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tell Me Goodbye](https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX) | 4:05 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 27 | [Cafe](https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:39 |
 | 28 | [We belong together](https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BigBang First Single](https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K) | 3:58 |
 | 29 | [Baby Baby \- Japanese Version](https://open.spotify.com/track/0DQ8eRAcGG1iUIdqk6RFhq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [THE BEST OF BIGBANG 2006\-2014](https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp) | 3:53 |
-| 30 | [ガラガラ GO!! \- BIGBANG10 THE CONCERT : 0.TO.10 IN JAPAN](https://open.spotify.com/track/4SWHjD4dAeAXH195K88WE3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG10 THE CONCERT : 0.TO.10 IN JAPAN + BIGBANG10 THE MOVIE BIGBANG MADE](https://open.spotify.com/album/4vmVVnvt5RoW21rAADx77C) | 3:40 |
-| 31 | [BEAUTIFUL HANGOVER](https://open.spotify.com/track/1Z9metSk7L35CWSbVzoP2w) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BEAUTIFUL HANGOVER](https://open.spotify.com/album/0T3kfOUAUkhzvrPUm6sxxA) | 3:43 |
+| 30 | [BEAUTIFUL HANGOVER](https://open.spotify.com/track/1Z9metSk7L35CWSbVzoP2w) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BEAUTIFUL HANGOVER](https://open.spotify.com/album/0T3kfOUAUkhzvrPUm6sxxA) | 3:43 |
+| 31 | [ガラガラ GO!! \- BIGBANG10 THE CONCERT : 0.TO.10 IN JAPAN](https://open.spotify.com/track/4SWHjD4dAeAXH195K88WE3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG10 THE CONCERT : 0.TO.10 IN JAPAN + BIGBANG10 THE MOVIE BIGBANG MADE](https://open.spotify.com/album/4vmVVnvt5RoW21rAADx77C) | 3:40 |
 | 32 | [This Love \(G\-Dragon Solo\)](https://open.spotify.com/track/2BLYXxyrBvCCrzvtVFtPWc) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol\. 1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 3:32 |
 | 33 | [Ain't No Fun \(재미없어\)](https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 |
 | 34 | [Somebody To Love](https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 50 | [Oh Ma Baby](https://open.spotify.com/track/27vEqY0DyEDGXVFIb66kuL) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Always](https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei) | 3:51 |
 | 51 | [Untitled, 2014 \- BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB) | 3:44 |
 
-Snapshot ID: `MjgwNjQ5MDgsMDAwMDAwMDAyOTk5NjNiMGM1N2E5ZjZjNGFmNjZiZDFiYWI4ODljYQ==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDAyZTk1YzI0M2I0N2FmMjJhNzYwYjQ1ZjlhOWFlNGFhOQ==`

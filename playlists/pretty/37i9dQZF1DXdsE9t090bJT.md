@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,439 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,578 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,29 +64,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 54 | [Nadie Sabe](https://open.spotify.com/track/2CXEL46i2dMqQrcDtXl6jS) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 2:32 |
 | 55 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 |
 | 56 | [La Magia de Tus Ojos](https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 2:49 |
-| 57 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
+| 57 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 |
 | 58 | [Junto A Ti](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Ti](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
-| 59 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 |
+| 59 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
 | 60 | [Un Hombre con Suerte](https://open.spotify.com/track/3yoYYOzDtvt3V7vUWNjfC1) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Eres Vida](https://open.spotify.com/album/1s9ha8ihTBqdKYjSXK78kC) | 3:24 |
 | 61 | [Espero Con Ansias](https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mi Princesa](https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ) | 3:34 |
 | 62 | [Quiero Darte](https://open.spotify.com/track/2A9og47Yp9p3cpfJ8qgcoF) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos](https://open.spotify.com/album/3lG97wu5XvXTzclZNqkAGU) | 2:58 |
 | 63 | [Tú Eres Mi Amor \- Versión Regional Mexicana](https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tú Eres Mi Amor \(Versión Regional Mexicana\)](https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy) | 3:48 |
 | 64 | [Me Pones A Temblar](https://open.spotify.com/track/5lOEI6CBTnLQrVVoIswN8Q) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Mundo Diferente](https://open.spotify.com/album/1Dxy2q1OCv3zUr1hO2HM0J) | 3:10 |
 | 65 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 |
-| 66 | [Tu Llegada](https://open.spotify.com/track/3JVFLYJKUpvTvUUnut1TvC) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tu Llegada](https://open.spotify.com/album/7zI6rJwCEJqPpsm15277vc) | 2:48 |
-| 67 | [Lo Que Te Amo](https://open.spotify.com/track/2IqNbflEkshezwf3F814H8) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Hombre Afortunado \(Deluxe\)](https://open.spotify.com/album/0QVMOQ8NYtNcOSq6fR4osl) | 3:32 |
+| 66 | [Lo Que Te Amo](https://open.spotify.com/track/2IqNbflEkshezwf3F814H8) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Hombre Afortunado \(Deluxe\)](https://open.spotify.com/album/0QVMOQ8NYtNcOSq6fR4osl) | 3:32 |
+| 67 | [Tu Llegada](https://open.spotify.com/track/3JVFLYJKUpvTvUUnut1TvC) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tu Llegada](https://open.spotify.com/album/7zI6rJwCEJqPpsm15277vc) | 2:48 |
 | 68 | [Antes y Después De Ti](https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Good Vibes Buenas Vibras](https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee) | 3:14 |
 | 69 | [15 Besos](https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [El Problema](https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s) | 3:21 |
 | 70 | [El Amor De Mi Vida](https://open.spotify.com/track/20ucGUA3I3z5lBi651CfNh) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [El Amor De Mi Vida](https://open.spotify.com/album/1wBeKqcO0EVPcKethJQ9sm) | 2:59 |
 | 71 | [Lo Tienes Todo](https://open.spotify.com/track/3XlgnHlzPia0v8szVKgSQI) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Lo Raro de Mi Libreta](https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN) | 2:57 |
 | 72 | [Quiero Ser](https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:29 |
 | 73 | [No Puedo No Caer](https://open.spotify.com/track/326RrTJoAvLxjUpRv1YFg8) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/5DtewXaWzI7IDVLeM58u0V) | 2:55 |
-| 74 | [24/7](https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:05 |
-| 75 | [Que Bonito](https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Que Bonito](https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr) | 2:40 |
+| 74 | [Que Bonito](https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Que Bonito](https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr) | 2:40 |
+| 75 | [24/7](https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:05 |
 | 76 | [Jalo](https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Jalo](https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc) | 2:25 |
 | 77 | [Te Metiste](https://open.spotify.com/track/3f3oWj7ll4vtK6gXb2cIxm) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 3:31 |
-| 78 | [Noches De Desvelo](https://open.spotify.com/track/7aYP7DH23pb0cAZBQQK6uz) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Soy El Nata](https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN) | 2:59 |
-| 79 | [Soy Para Ti](https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Soy Para Ti](https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT) | 2:40 |
+| 78 | [Permiteme](https://open.spotify.com/track/3GWCtaYw4KnDv7VRl5ywRJ) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Permiteme](https://open.spotify.com/album/6eEHUx9vmWQuZnUOfnm72D) | 3:06 |
+| 79 | [Noches De Desvelo](https://open.spotify.com/track/7aYP7DH23pb0cAZBQQK6uz) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Soy El Nata](https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN) | 2:59 |
 | 80 | [Dueño De Ti \- En vivo](https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 4:05 |
 
-Snapshot ID: `MCxhZmI2NDU3MjNlN2QzMjNjN2JlMjkyZmYxYmIxZWFhZGQxNjZjZjRh`
+Snapshot ID: `MCw1MWQyNGYxOTU4ZTBkMTg2NDdkYWU5MTYxMjA4Mzg1MmI3MmM5YWM2`

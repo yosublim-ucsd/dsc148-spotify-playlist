@@ -1,12 +1,12 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 45759,
+  "num_followers": 45852,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjY2NDQ0ZGJiMzMxMmY4OTNkMGI1ODNkMDFkM2M3MDM0ZGQ3NzRm",
+  "snapshot_id": "MCw1YzVlOWE3NTFkNzdkNDBjOTA0ODVjYmU1ZGFhOTIyYjZmNTRkY2Nh",
   "tracks": [
     {
       "added_at": "2023-05-11 22:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Love In Your Arms",
-        "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
-      },
-      "artists": [
-        {
-          "name": "Paul Moretti Trio",
-          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
-        }
-      ],
-      "duration_ms": 202872,
-      "name": "Love In Your Arms",
-      "url": "https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Blame It On My Youth",
         "url": "https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE"
       },
@@ -459,34 +443,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Daydreams",
-        "url": "https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx"
+        "name": "Love In Your Arms",
+        "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
       },
       "artists": [
         {
-          "name": "Streetlight Trio",
-          "url": "https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4"
+          "name": "Paul Moretti Trio",
+          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
         }
       ],
-      "duration_ms": 202245,
-      "name": "Daydreams",
-      "url": "https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1"
-      },
-      "artists": [
-        {
-          "name": "Irvin Smith Group",
-          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
-        }
-      ],
-      "duration_ms": 204083,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn"
+      "duration_ms": 202872,
+      "name": "Love In Your Arms",
+      "url": "https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -507,6 +475,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx"
+      },
+      "artists": [
+        {
+          "name": "Streetlight Trio",
+          "url": "https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4"
+        }
+      ],
+      "duration_ms": 202245,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Come on... Lucky!",
         "url": "https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 164859,
       "name": "Come on... Lucky!",
       "url": "https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1"
+      },
+      "artists": [
+        {
+          "name": "Irvin Smith Group",
+          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
+        }
+      ],
+      "duration_ms": 204083,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "My lids closed down",
-        "url": "https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll"
-      },
-      "artists": [
-        {
-          "name": "Charlie Regan Three",
-          "url": "https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY"
-        }
-      ],
-      "duration_ms": 231689,
-      "name": "My lids closed down",
-      "url": "https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Hometown Again",
         "url": "https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 275959,
       "name": "Hometown Again",
       "url": "https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "My lids closed down",
+        "url": "https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll"
+      },
+      "artists": [
+        {
+          "name": "Charlie Regan Three",
+          "url": "https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY"
+        }
+      ],
+      "duration_ms": 231689,
+      "name": "My lids closed down",
+      "url": "https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Forever and Always",
+        "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
+      },
+      "artists": [
+        {
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+        }
+      ],
+      "duration_ms": 238970,
+      "name": "Forever and Always",
+      "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Nublu",
         "url": "https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP"
       },
@@ -935,6 +951,22 @@
       "duration_ms": 233865,
       "name": "Nublu",
       "url": "https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Cherry Stone",
+        "url": "https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+        }
+      ],
+      "duration_ms": 203189,
+      "name": "Cherry Stone",
+      "url": "https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -971,18 +1003,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Forever and Always",
-        "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
+        "name": "From My Perspective",
+        "url": "https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz"
       },
       "artists": [
         {
-          "name": "The Dox Band",
-          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+          "name": "Eduard Landings",
+          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
         }
       ],
-      "duration_ms": 238970,
-      "name": "Forever and Always",
-      "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
+      "duration_ms": 242833,
+      "name": "From My Perspective",
+      "url": "https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1003,34 +1035,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Cherry Stone",
-        "url": "https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA"
+        "name": "New York City Dreamin'",
+        "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
       },
       "artists": [
         {
-          "name": "Gottfried Barber Trio",
-          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
         }
       ],
-      "duration_ms": 203189,
-      "name": "Cherry Stone",
-      "url": "https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "From My Perspective",
-        "url": "https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz"
-      },
-      "artists": [
-        {
-          "name": "Eduard Landings",
-          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
-        }
-      ],
-      "duration_ms": 242833,
-      "name": "From My Perspective",
-      "url": "https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT"
+      "duration_ms": 220960,
+      "name": "A Window to Your Soul",
+      "url": "https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1047,22 +1063,6 @@
       "duration_ms": 162569,
       "name": "Now that we are here",
       "url": "https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "New York City Dreamin'",
-        "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "A Window to Your Soul",
-      "url": "https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "I gotta run",
+        "url": "https://open.spotify.com/album/3X1FnR1QZ0SZ3QkvtXnalG"
+      },
+      "artists": [
+        {
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+        }
+      ],
+      "duration_ms": 188730,
+      "name": "I gotta run",
+      "url": "https://open.spotify.com/track/7BB0KhE9SURfW1v8M826qo"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "A Sunday Kind Of Love",
         "url": "https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "I gotta run",
-        "url": "https://open.spotify.com/album/3X1FnR1QZ0SZ3QkvtXnalG"
+        "name": "Falling In Love With Love",
+        "url": "https://open.spotify.com/album/3K9sLxweNS6ILqTRFSYiJB"
       },
       "artists": [
         {
-          "name": "Ornette Haynes",
-          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+          "name": "Drew Milner",
+          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
         }
       ],
-      "duration_ms": 188730,
-      "name": "I gotta run",
-      "url": "https://open.spotify.com/track/7BB0KhE9SURfW1v8M826qo"
+      "duration_ms": 174102,
+      "name": "Falling In Love With Love",
+      "url": "https://open.spotify.com/track/22KchPj2ebXOCwdvK4azrZ"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Falling In Love With Love",
-        "url": "https://open.spotify.com/album/3K9sLxweNS6ILqTRFSYiJB"
-      },
-      "artists": [
-        {
-          "name": "Drew Milner",
-          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
-        }
-      ],
-      "duration_ms": 174102,
-      "name": "Falling In Love With Love",
-      "url": "https://open.spotify.com/track/22KchPj2ebXOCwdvK4azrZ"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "In Another Universe",
         "url": "https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR"
       },
@@ -1275,6 +1275,54 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "For Ellen",
+        "url": "https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q"
+      },
+      "artists": [
+        {
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "For Ellen",
+      "url": "https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U"
+      },
+      "artists": [
+        {
+          "name": "Elvine Harley",
+          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
+        }
+      ],
+      "duration_ms": 201932,
+      "name": "Street Of Dreams",
+      "url": "https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "City Lights and Midnight Blues",
+        "url": "https://open.spotify.com/album/2mVtNuGjtZRdVQcd0nBurF"
+      },
+      "artists": [
+        {
+          "name": "Sodermalm Strand",
+          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
+        }
+      ],
+      "duration_ms": 236291,
+      "name": "City Lights and Midnight Blues",
+      "url": "https://open.spotify.com/track/39HUxb7DxlOSXAGxENoYXg"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Lonesome Road",
         "url": "https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C"
       },
@@ -1303,54 +1351,6 @@
       "duration_ms": 230681,
       "name": "My Lonely Days Are Over",
       "url": "https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "For Ellen",
-        "url": "https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q"
-      },
-      "artists": [
-        {
-          "name": "High North Trio",
-          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "For Ellen",
-      "url": "https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "City Lights and Midnight Blues",
-        "url": "https://open.spotify.com/album/2mVtNuGjtZRdVQcd0nBurF"
-      },
-      "artists": [
-        {
-          "name": "Sodermalm Strand",
-          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
-        }
-      ],
-      "duration_ms": 236291,
-      "name": "City Lights and Midnight Blues",
-      "url": "https://open.spotify.com/track/39HUxb7DxlOSXAGxENoYXg"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Street Of Dreams",
-        "url": "https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U"
-      },
-      "artists": [
-        {
-          "name": "Elvine Harley",
-          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
-        }
-      ],
-      "duration_ms": 201932,
-      "name": "Street Of Dreams",
-      "url": "https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Black Monday",
-        "url": "https://open.spotify.com/album/6bCbsMYCQVJg1AIqZoA9dY"
-      },
-      "artists": [
-        {
-          "name": "Hamilton Jones Trio",
-          "url": "https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL"
-        }
-      ],
-      "duration_ms": 205542,
-      "name": "Black Monday",
-      "url": "https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Odd Duck",
         "url": "https://open.spotify.com/album/506EOu4vBoIkR1D8Kw7rSG"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 203328,
       "name": "Odd Duck",
       "url": "https://open.spotify.com/track/4ag4ypxQnkSVuZHvfwyzo1"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Black Monday",
+        "url": "https://open.spotify.com/album/6bCbsMYCQVJg1AIqZoA9dY"
+      },
+      "artists": [
+        {
+          "name": "Hamilton Jones Trio",
+          "url": "https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL"
+        }
+      ],
+      "duration_ms": 205542,
+      "name": "Black Monday",
+      "url": "https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Something about him",
+        "url": "https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "duration_ms": 160111,
+      "name": "Something about him",
+      "url": "https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Keep It Simple",
         "url": "https://open.spotify.com/album/4pwU7mmJ6jB0K2LdjzfVPZ"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 223278,
       "name": "Keep It Simple",
       "url": "https://open.spotify.com/track/6aJUOfoLUBcZqc1emenF1F"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "A Cookie For Marie",
-        "url": "https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp"
-      },
-      "artists": [
-        {
-          "name": "Paul Moretti Trio",
-          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
-        }
-      ],
-      "duration_ms": 254577,
-      "name": "Heaven Sent You",
-      "url": "https://open.spotify.com/track/0oucU7y8EaRo6PbBHIaAdt"
     }
   ],
   "unique_name": "Chill Out Jazz",

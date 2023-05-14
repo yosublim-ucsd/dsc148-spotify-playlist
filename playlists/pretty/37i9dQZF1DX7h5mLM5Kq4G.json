@@ -1,12 +1,12 @@
 {
   "description": "The songs we've been partying to in 2022. Cover: David Guetta & Bebe Rexha #SpotifyWrapped",
-  "num_followers": 49361,
+  "num_followers": 49387,
   "original_name": "Top Party Hits of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2E2MzQyYjA3M2E3YmY4YTFkZDdlZjQxYmM3OTYwNDUyMjIxNmJl",
+  "snapshot_id": "MCw1MGEwYzJmZjkzMmQ4NWYzNTQyNzlkMWVhZThhZDg4MWY4YzMzZGRk",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -311,26 +311,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/74yA2S6c71vhUvfh8VkCBY"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Toxic Pony",
         "url": "https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 137579,
       "name": "F.N.F. (Let's Go)",
       "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/74yA2S6c71vhUvfh8VkCBY"
     }
   ],
   "unique_name": "Top Party Hits of 2022",

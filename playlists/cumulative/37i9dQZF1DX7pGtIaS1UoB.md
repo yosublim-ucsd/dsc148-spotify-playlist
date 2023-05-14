@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-285 songs - 16 hr 58 min
+286 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [一點一點](https://open.spotify.com/track/3RqKpwr0EukUJlD22mIlVP) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [采子](https://open.spotify.com/artist/448XOK57P1RpvGyLuMUwep) | [一點一點](https://open.spotify.com/album/5ZL3SvFjWVJGzoSxK8qzqh) | 3:15 | 2022-06-06 | 2022-07-17 |
 | [万有引力](https://open.spotify.com/track/4B3CIS74EZJ3n79AkfeC2X) | [F\*yy](https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE) | [万有引力](https://open.spotify.com/album/51ug4YqwzJoPY4h3kI8Fdd) | 4:03 | 2022-07-25 | 2023-05-08 |
 | [万有引力](https://open.spotify.com/track/6rXmhCYSdOgGYC92Sz2QMz) | [F\*yy](https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE) | [万有引力](https://open.spotify.com/album/4yPCjh86jQB49cNSpIFRDe) | 4:03 | 2022-06-06 | 2022-07-29 |
+| [万有引力](https://open.spotify.com/track/7qZzCq7IxhKKZA4tIrYxxy) | [F\*yy](https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE) | [万有引力](https://open.spotify.com/album/55cnNNhAHp5JQx3fV8XqnX) | 4:03 | 2023-05-08 |  |
 | [下單 我的愛](https://open.spotify.com/track/7hcnbU0uaTkHPmmleYSxTQ) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [下單 我的愛](https://open.spotify.com/album/5IBBztrknw86Nm3i6G3Lqr) | 3:00 | 2022-06-06 | 2022-07-29 |
 | [不可思議](https://open.spotify.com/track/5QxPctIsuvMEGzFktNGXpE) | [金莎](https://open.spotify.com/artist/0wK3rMwogVowmeXArZN29T) | [不可思議](https://open.spotify.com/album/0HYLz2pcFgyHp2nT6pZFu0) | 4:21 | 2022-06-06 | 2022-07-28 |
 | [不完美不後悔](https://open.spotify.com/track/7enqjdBiOa8RK3P9NBIRz7) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [不完美不後悔](https://open.spotify.com/album/443gH48fTBtHf7dHNyh4uW) | 3:48 | 2022-06-06 |  |
@@ -93,7 +94,7 @@
 | [你還不知道?](https://open.spotify.com/track/4dV0T2JbvRemNAdt2oaOhG) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2) | [你還不知道?](https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp) | 3:11 | 2022-06-06 |  |
 | [倒數說愛你 \(電影《倒數說愛你》片尾曲\)](https://open.spotify.com/track/1SbuoSf7JTCAb6oqJoRbe9) | [艾熱AIR](https://open.spotify.com/artist/6G94zxdItl2GgmKVfoAGI0), [王以太](https://open.spotify.com/artist/3FpGegUfBRYiws8Ww49Y1j) | [倒數說愛你 \(電影《倒數說愛你》片尾曲\)](https://open.spotify.com/album/2txX52Nr3UCpYrs7UtPxr0) | 3:36 | 2023-05-01 |  |
 | [借我一輩子](https://open.spotify.com/track/5VyoSXa2XCEWzD445lxDVL) | [O.J](https://open.spotify.com/artist/4xxiCcnghNjM9G8Ust7Wqx) | [完美的一刻](https://open.spotify.com/album/2JJFAj0E3MAaUuPwdfpUzh) | 3:55 | 2022-06-13 | 2022-07-04 |
-| [做我的Baby](https://open.spotify.com/track/59fev4MSDxjJTwekSG6m5x) | [吉娜](https://open.spotify.com/artist/37aJa5RefuVWG1pzIIlrT0), [娜娜](https://open.spotify.com/artist/7q7sSta579PAYXxIBXjU89) | [做我的Baby](https://open.spotify.com/album/4m6VzZgyiPpZiGoxzrdQR8) | 3:06 | 2023-04-17 |  |
+| [做我的Baby](https://open.spotify.com/track/59fev4MSDxjJTwekSG6m5x) | [吉娜](https://open.spotify.com/artist/37aJa5RefuVWG1pzIIlrT0), [娜娜](https://open.spotify.com/artist/7q7sSta579PAYXxIBXjU89) | [做我的Baby](https://open.spotify.com/album/4m6VzZgyiPpZiGoxzrdQR8) | 3:06 | 2023-04-17 | 2023-05-14 |
 | [傻瓜](https://open.spotify.com/track/2lQNNJ3KsiIGaLAF7hYNzn) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [我可以](https://open.spotify.com/album/23YehfrSYxAYWm5vLhOaBD) | 4:05 | 2022-07-11 | 2022-07-19 |
 | [像極了愛情](https://open.spotify.com/track/5pUZgW1mHL2BDO7alkxmJM) | [ZouHaoHao](https://open.spotify.com/artist/1nTcm5zOf9aYf7jYmmJStI) | [像極了愛情](https://open.spotify.com/album/4Tbw7aEOvvTyESuHvcwOKK) | 3:23 | 2022-06-06 | 2022-07-21 |
 | [兩人世界](https://open.spotify.com/track/57OQCjeVopFXR8hQhCu6lM) | [Huang Yali](https://open.spotify.com/artist/5nLnIboxUroy6N5HBGRTMe) | [黄雅莉的奇幻秀](https://open.spotify.com/album/0xqBcDVlh3ZLrjgmwDTh8U) | 3:41 | 2022-06-27 | 2022-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,598 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,726 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,24 +69,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 59 | [Coming Clean](https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8) | [Attalus](https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ) | [Into the Sea](https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr) | 4:05 |
 | 60 | [Still Alive](https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Still Alive](https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3) | 3:19 |
 | 61 | [Burn Back the Sun](https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Acoustic \- EP](https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA) | 3:59 |
-| 62 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 |
-| 63 | [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 |
+| 62 | [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 |
+| 63 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 |
 | 64 | [What I've Become](https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [What I've Become](https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh) | 3:24 |
 | 65 | [The Light](https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [The Light](https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C) | 3:21 |
 | 66 | [Lower East Side](https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl) | 3:31 |
 | 67 | [Chariots \- Live](https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH) | [Freedom Church](https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh) | [Barbarians \(Live\)](https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo) | 6:22 |
 | 68 | [Balconies](https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [Real Emotion](https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL) | 4:14 |
-| 69 | [No Altars](https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [No Altars](https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9) | 3:29 |
+| 69 | [Send Forth Laborers](https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R) | [Pennell](https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D) | 5:33 |
 | 70 | [The Shelter](https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF) | [Let There Be Light](https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23) | 4:18 |
-| 71 | [Send Forth Laborers](https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R) | [Pennell](https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D) | 5:33 |
+| 71 | [No Altars](https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [No Altars](https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9) | 3:29 |
 | 72 | [Way You Love Me](https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW) | [XXI](https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C) | [Inside Out](https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW) | 3:53 |
 | 73 | [What Are You Waiting For](https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S) | [Futur](https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9) | [What Are You Waiting For](https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9) | 3:19 |
-| 74 | [Rise to the Call](https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Rise to the Call](https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb) | 3:47 |
-| 75 | [Promise You're Coming Home](https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Stronger Than Death](https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh) | 3:42 |
+| 74 | [Promise You're Coming Home](https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Stronger Than Death](https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh) | 3:42 |
+| 75 | [Rise to the Call](https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Rise to the Call](https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb) | 3:47 |
 | 76 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 |
 | 77 | [Fame](https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy), [Ryan Kirby](https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 3:57 |
 | 78 | [Boom \(The Crystal Method Remix\) \- 2021 Remaster](https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Ken Jordan](https://open.spotify.com/artist/3k0EquL2nh8WcviToiSZ5T), [Scott Kirkland](https://open.spotify.com/artist/5uHXtwyDskuNwKQLVcQD07) | [Boom \(The Crystal Method Remix\) \[2021 Remaster\]](https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr) | 3:16 |
-| 79 | [Fear of Missing Out](https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC) | [Honor & Glory](https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6) | [Honor & Glory](https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw) | 4:31 |
-| 80 | [The Truth](https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju) | [I Am Spartacus](https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l) | [Unite](https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi) | 4:17 |
+| 79 | [The Truth](https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju) | [I Am Spartacus](https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l) | [Unite](https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi) | 4:17 |
+| 80 | [Fear of Missing Out](https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC) | [Honor & Glory](https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6) | [Honor & Glory](https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw) | 4:31 |
 
-Snapshot ID: `MCw5YzEzMTFlZGNkZTg4YTViNWY5OTQwMzVkYTQ1NDRjNWEzNTdiODQ1`
+Snapshot ID: `MCxkM2QzMTQ4MjE3YmVkNGJiMDNjNWJkYmZhNzhjMjQzMWM0MDA1YmMx`

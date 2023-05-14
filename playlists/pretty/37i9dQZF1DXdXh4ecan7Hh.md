@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,145 likes - 68 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,164 likes - 68 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 21 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
 | 22 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
 | 23 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
-| 24 | [Never Be The Same \- Recorded At Revolution Studios, Toronto](https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Spotify Singles](https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE) | 4:28 |
-| 25 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 |
+| 24 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 |
+| 25 | [Never Be The Same \- Recorded At Revolution Studios, Toronto](https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Spotify Singles](https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE) | 4:28 |
 | 26 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 |
 | 27 | [Tequila \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 2:54 |
 | 28 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 67 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 |
 | 68 | [Long Live Love \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/3vVhMYRIZmeuPyhIsd1up8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn) | 3:17 |
 
-Snapshot ID: `MCwxMTYzMTYzZDU5ZTk2NDcwMTZkY2NhZDEzZTBiMzBhNmIzYzcwOTRh`
+Snapshot ID: `MCw1Yjg5NmI1NWE5ZjUwNTRiMWQxNmY0MGFhNzU5OWRkOTQ5MGI3MmYw`

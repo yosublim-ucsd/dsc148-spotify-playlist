@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 21961,
+  "num_followers": 21983,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDAyZDk1NTdkMDliMDNiN2E1YTNkNzM5OGMyZDAxMmMyOGJjNTA2",
+  "snapshot_id": "MCw2ZWRhNjVmMmE4N2I4MDllZDRkNmIwN2VhZDFkOTRkYzg0NTAxNGVi",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Always Faithful",
-        "url": "https://open.spotify.com/album/5HOJ3iRYUkUfGiNzet72EQ"
-      },
-      "artists": [
-        {
-          "name": "Allie Paige",
-          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
-        }
-      ],
-      "duration_ms": 238608,
-      "name": "Delight in You",
-      "url": "https://open.spotify.com/track/37YF8RDQ7u7JLQOnxcCH9b"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Twenty Four Seven",
         "url": "https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 186513,
       "name": "Fanatic",
       "url": "https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Always Faithful",
+        "url": "https://open.spotify.com/album/5HOJ3iRYUkUfGiNzet72EQ"
+      },
+      "artists": [
+        {
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
+        }
+      ],
+      "duration_ms": 238608,
+      "name": "Delight in You",
+      "url": "https://open.spotify.com/track/37YF8RDQ7u7JLQOnxcCH9b"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "You Say (Acoustic)",
-        "url": "https://open.spotify.com/album/50JmQ36DRkjO60LXMOowYp"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 264324,
-      "name": "You Say (Acoustic)",
-      "url": "https://open.spotify.com/track/4edscO0eug8wJGZ5RkqqdW"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 213453,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "You Say (Acoustic)",
+        "url": "https://open.spotify.com/album/50JmQ36DRkjO60LXMOowYp"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 264324,
+      "name": "You Say (Acoustic)",
+      "url": "https://open.spotify.com/track/4edscO0eug8wJGZ5RkqqdW"
     },
     {
       "added_at": "2023-02-18 06:22:02",

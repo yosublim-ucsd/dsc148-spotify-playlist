@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,872 likes - 100 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,907 likes - 100 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 29 | [Bargat Ke Pedo Pe Shakhe Purani](https://open.spotify.com/track/1gFDuN2HElEtr030D5yDRs) | [Piyush Mishra](https://open.spotify.com/artist/0kttITJItx4bssbq6EcXCS) | [Jalpari \- The Desert Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ygwH3yJqtGFDozsANxJoF) | 6:40 |
 | 30 | [Tarfe](https://open.spotify.com/track/3VvdqoYyBa6zssV8kNj0bM) | [Samarth Janve](https://open.spotify.com/artist/6aD59tcg6klEh7d51b6JuQ) | [Tarfe](https://open.spotify.com/album/4jkjW6EwGjiZO10LD2DTfx) | 3:18 |
 | 31 | [Kin Bairan](https://open.spotify.com/track/2w6DUtvptCNLkod2Z9rbNJ) | [Nitesh Khanna](https://open.spotify.com/artist/4rb2PYf8qNfTQbsEIlyhR1) | [Kin Bairan](https://open.spotify.com/album/5RUZKVfkfMAjmq27RdKVfN) | 2:54 |
-| 32 | [Raga Maru Bihag \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/61U7jgeV7GNT2E0VNmikEt) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6) | 14:15 |
+| 32 | [Raga Maru Bihag \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/6H0o6gAqkdV7xmKQxhkUwW) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/00pIdWlZU4yzutxo4CPU10) | 14:15 |
 | 33 | [Har Ek Baat](https://open.spotify.com/track/00Pub8dRrRGLO6OZHRmY56) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/5EnjKdpZKtAlJWmn3GPIeo) | 4:00 |
 | 34 | [Rutho Na](https://open.spotify.com/track/7qELZM6FhIlVAXDY95fwCv) | [Aditya Anand](https://open.spotify.com/artist/6hc1L9rHE2P8j5pIss5sQz), [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8) | [Rutho Na](https://open.spotify.com/album/4RXQdMCTlB5HEw589BzYHy) | 3:20 |
 | 35 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 |
 | 36 | [Saware \(feat\. Srilakshmi Belmannu\)](https://open.spotify.com/track/5u7aZdRS6KBP8vdRhd8etB) | [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Saware \(feat\. Srilakshmi Belmannu\)](https://open.spotify.com/album/0ZaSyTUqD655XTCvaU8Ejs) | 2:45 |
-| 37 | [Raga Bageshri \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/76VdHPvjGgWEj3xEMdTsWn) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6) | 38:31 |
+| 37 | [Raga Bageshri \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/3FhO834t9RwdticljtYJJG) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/00pIdWlZU4yzutxo4CPU10) | 38:31 |
 | 38 | [Ab Mori Chhaad De](https://open.spotify.com/track/07Ssi0muLx96jEPFDqTNPf) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Ab Mori Chhaad De](https://open.spotify.com/album/5pf1eQ4E1YMSJvVLBecgVx) | 4:17 |
 | 39 | [Blessing the Bride \(Baisa\)](https://open.spotify.com/track/79osQzagWc3CI97LvAXXWH) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Romy](https://open.spotify.com/artist/5bk4s1Xe4xxlrTcRC9Dwek) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:49 |
 | 40 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 99 | [Night](https://open.spotify.com/track/5ucLyBlhHzKn2ZiAQwLOl7) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MIDIval PunditZ](https://open.spotify.com/album/4rSbNYZdPsBDGBK7Qrat7X) | 5:55 |
 | 100 | [Aerii Sakhi Morae \- Qawwaali Remake](https://open.spotify.com/track/6yDxb6X3NJbvDIRRlAypQZ) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [The Story Now](https://open.spotify.com/album/2g3LlbaNuDG4erK9gJSKTm) | 5:03 |
 
-Snapshot ID: `MCxjNjVhNjcwMGY3MjIyYjJkNDZiYTViYTMwNTEwMmFhMDBkNTRkOTQz`
+Snapshot ID: `MCw3M2YxYzhlN2QyMDU0MjQxZTg1MzM1ODg3ODI1ZTNkYjMwZTc4NGFi`

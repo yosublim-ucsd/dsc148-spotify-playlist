@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzNjN2Y2OTE0ODY5YzNjZmFhYzg0YzUwZWEyYjI4MWE1MjgyN2M3",
+  "snapshot_id": "MCw1MjZiMGU0MmIzY2ZiZThkOGNmNTRlNGM2ZGE4OTlhZDk3MDUzZjkz",
   "tracks": [
     {
       "added_at": "2023-02-02 13:48:42",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ASMR Whispers (Binaural)",
-        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jones ASMR",
-          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
-        }
-      ],
-      "duration_ms": 182682,
-      "name": "Unintelligble Sleep Whisper Dee Kaa",
-      "url": "https://open.spotify.com/track/7rAyhoQ18VOFt9DLgzM0n2"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Super sleepy attention, close positive whispers, inaudible whispers",
         "url": "https://open.spotify.com/album/4IwFZL7tcaocPJlicCyNIH"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 279875,
       "name": "Super sleepy attention, close positive whispers, inaudible whispers Pt.1",
       "url": "https://open.spotify.com/track/0fU7os8IzBtcblVO0YeIsR"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "ASMR Whispers (Binaural)",
+        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jones ASMR",
+          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+        }
+      ],
+      "duration_ms": 182682,
+      "name": "Unintelligble Sleep Whisper Dee Kaa",
+      "url": "https://open.spotify.com/track/7rAyhoQ18VOFt9DLgzM0n2"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Step-Sis Takes Care Of You",
-        "url": "https://open.spotify.com/album/0Bfxpvxe19ojYWQ8ZgCF8A"
-      },
-      "artists": [
-        {
-          "name": "ASMR Leedah",
-          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
-        }
-      ],
-      "duration_ms": 420750,
-      "name": "Relax and Close Your Eyes",
-      "url": "https://open.spotify.com/track/3ejyzJpCraPR613IbUrnaL"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Santorini Sunbath ASMR",
         "url": "https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 271754,
       "name": "Santorini Sunbath",
       "url": "https://open.spotify.com/track/4tl4BYdRlBuY6LvDJcIECm"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "Step-Sis Takes Care Of You",
+        "url": "https://open.spotify.com/album/0Bfxpvxe19ojYWQ8ZgCF8A"
+      },
+      "artists": [
+        {
+          "name": "ASMR Leedah",
+          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+        }
+      ],
+      "duration_ms": 420750,
+      "name": "Relax and Close Your Eyes",
+      "url": "https://open.spotify.com/track/3ejyzJpCraPR613IbUrnaL"
     },
     {
       "added_at": "2023-02-02 13:48:42",

@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: MC Cabelinho",
-  "num_followers": 270587,
+  "num_followers": 270701,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDViZWViYmYxZDA1ZjIzMGZkY2JkNTI1OWU1NWU5MmRlNTMyMWIz",
+  "snapshot_id": "MCxiNzMwMjc0Yjg4ZDJjMGJmMWY1YjEwNDRlODhiMTdmMTlmZDVlNmZh",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -695,42 +695,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Ela tem o dom",
-        "url": "https://open.spotify.com/album/1DBboPgk2gX2Iz2Sc76VT7"
-      },
-      "artists": [
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "Ela tem o dom",
-      "url": "https://open.spotify.com/track/1IxCZvkbIpCH7dUQyMQk7D"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Facilitei",
-        "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Facilitei",
-      "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Vem Pra C\u00e1",
         "url": "https://open.spotify.com/album/71LlHHvQZ8BGPnJy2eXgoF"
       },
@@ -763,30 +727,38 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+        "name": "Facilitei",
+        "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 186818,
-      "name": "Sozinha",
-      "url": "https://open.spotify.com/track/7CLcDbKYUWyKzx9YXWrRlu"
+      "duration_ms": 212000,
+      "name": "Facilitei",
+      "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Ela tem o dom",
+        "url": "https://open.spotify.com/album/1DBboPgk2gX2Iz2Sc76VT7"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "Ela tem o dom",
+      "url": "https://open.spotify.com/track/1IxCZvkbIpCH7dUQyMQk7D"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -811,6 +783,34 @@
       "duration_ms": 183265,
       "name": "Teu Sorriso",
       "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Sozinha",
+      "url": "https://open.spotify.com/track/7CLcDbKYUWyKzx9YXWrRlu"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Dif\u00edcil Lembrar, n\u00e9?",
+        "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 155452,
+      "name": "Dif\u00edcil Lembrar, n\u00e9?",
+      "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Poesia Ac\u00fastica - Lisboa",
         "url": "https://open.spotify.com/album/7lkw2vUf9rmWU3LQP6qXVW"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Dif\u00edcil Lembrar, n\u00e9?",
-        "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 155452,
-      "name": "Dif\u00edcil Lembrar, n\u00e9?",
-      "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Arcano 19 (Deluxe)",
         "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
       },
@@ -939,6 +939,26 @@
       "duration_ms": 249798,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Melhor Agora",
+        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 226858,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -967,26 +987,6 @@
       "duration_ms": 196691,
       "name": "Toda Mal\u00e9vola",
       "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Melhor Agora",
-        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 226858,
-      "name": "Proposta",
-      "url": "https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd"
     },
     {
       "added_at": "2023-05-12 03:00:00",

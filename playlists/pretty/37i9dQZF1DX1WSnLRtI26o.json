@@ -1,12 +1,12 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 399468,
+  "num_followers": 399509,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjk3MDBhNGJkN2M3MjY1NDcwZjIzOGE5ODdjN2M4ODE4NTA1MGJm",
+  "snapshot_id": "MCw4NDVhMzc5MzA3Yzc5ZWJmNzNlMDM2NTY1NTMyMmU4YzY1N2Q4MTk2",
   "tracks": [
     {
       "added_at": "2021-08-25 20:28:57",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 233478,
-      "name": "Locked out of Heaven",
-      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 233478,
+      "name": "Locked out of Heaven",
+      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -219,6 +219,26 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Memories...Do Not Open",
+        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Memories...Do Not Open",
-        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 197436,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
-    },
-    {
       "added_at": "2021-09-24 04:01:00",
       "album": {
         "name": "My Universe",
@@ -667,6 +651,22 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 197436,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Globalization",
         "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 229360,
       "name": "Time of Our Lives",
       "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -943,6 +943,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 219320,
       "name": "Work",
       "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1405,6 +1405,30 @@
       "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Eastside (with Halsey & Khalid)",
+        "url": "https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 173799,
+      "name": "Eastside (with Halsey & Khalid)",
+      "url": "https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao"
+    },
+    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
@@ -1431,30 +1455,6 @@
       "duration_ms": 225600,
       "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Eastside (with Halsey & Khalid)",
-        "url": "https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 173799,
-      "name": "Eastside (with Halsey & Khalid)",
-      "url": "https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Everything Is 4",
-        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 207719,
-      "name": "Want to Want Me",
-      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "4",
@@ -1607,6 +1591,22 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 207719,
+      "name": "Want to Want Me",
+      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "What A Man Gotta Do",
         "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 180644,
       "name": "What A Man Gotta Do",
       "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Nick Jonas X2",
+        "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/2RqtfcLB7iOZj0zYB8Auhu"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Greatest Hits...So Far!!!",
         "url": "https://open.spotify.com/album/2dpS2uYlkzDsPjl3IZbNjD"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 185360,
       "name": "Cold Water",
       "url": "https://open.spotify.com/track/7zsXy7vlHdItvUSH8EwQss"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Nick Jonas X2",
-        "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        }
-      ],
-      "duration_ms": 223106,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/2RqtfcLB7iOZj0zYB8Auhu"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Toothbrush",
-      "url": "https://open.spotify.com/track/7ciLq0Cip0yxiz6KANrOUq"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Flames",
         "url": "https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 195000,
       "name": "Flames",
       "url": "https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Toothbrush",
+      "url": "https://open.spotify.com/track/7ciLq0Cip0yxiz6KANrOUq"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2957,22 +2957,6 @@
       "url": "https://open.spotify.com/track/6jF1nHIMESqft9p33tQYPn"
     },
     {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "State of the Heart",
-        "url": "https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "When The Lights Go Out",
-      "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Dua Lipa (Deluxe)",
@@ -2991,6 +2975,22 @@
       "duration_ms": 203769,
       "name": "Lost In Your Light (feat. Miguel)",
       "url": "https://open.spotify.com/track/2OWKDTonST8HNko3dBlPPp"
+    },
+    {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "State of the Heart",
+        "url": "https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "When The Lights Go Out",
+      "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
     },
     {
       "added_at": "2021-08-25 20:28:57",

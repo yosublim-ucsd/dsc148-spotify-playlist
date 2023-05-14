@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 
 > <a href="spotify:artist:4d8OiNWwKaA6MBPq0K06Xa">Mehmet Aslan</a>'s favorite tracks\. Updated regularly\. Curated by Mehmet Aslan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,164 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,195 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 | 20 | [Humee Hum \- The Other Is You](https://open.spotify.com/track/1MWDQSB6vmVPjF9SAQINvt) | [Mirabai Ceiba](https://open.spotify.com/artist/2qBg3GRK1U9XCkJ9JabBt3) | [Sacred Love Meditations](https://open.spotify.com/album/2nKrJd8kzt4xZT9C7PgXot) | 12:03 |
 | 21 | [Mood Dance](https://open.spotify.com/track/1tTJ9uBV4ktKZWA4oFwRWI) | [dj\_2button](https://open.spotify.com/artist/4oGIm95d02eoZBEqrU96Zj) | [Mood Dance](https://open.spotify.com/album/2dyfZXK8q8mnyU96wy2MVt) | 7:25 |
 | 22 | [Habibi \- 2015 Remaster](https://open.spotify.com/track/615dCtcrqPmPnRZzvtwU6W) | [Los Pasos](https://open.spotify.com/artist/6iHnHe4RMUaGQjtIRjYyuK) | [Todas sus grabaciones en Hispavox \(1966\-1969\) \[Remastered 2015\]](https://open.spotify.com/album/5mFdQz7Hq7GcprMgnJ2hvU) | 4:10 |
-| 23 | [Hi](https://open.spotify.com/track/26KAjfe1bv74SBlny8odE8) | [Ebi](https://open.spotify.com/artist/0trOaB7vD9Ses1PGuGLsqS) | [Space Teddy EP](https://open.spotify.com/album/6F5gfoifFiZ4PmTCKGzcAg) | 7:33 |
+| 23 | [Hi](https://open.spotify.com/track/5GVTX6RYvR5ruBkztUIbSm) | [Ebi](https://open.spotify.com/artist/0trOaB7vD9Ses1PGuGLsqS) | [Space Teddy Collection](https://open.spotify.com/album/6pCGxLKDsWIeKnyJBPDX7U) | 7:33 |
 | 24 | [Tangerine Sun](https://open.spotify.com/track/3EF0nPDQBR5HqnZZdMLNA9) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa) | [The Sun is Parallel](https://open.spotify.com/album/3WEskLTX6RJBwSl9e8HTjZ) | 5:19 |
 | 25 | [Little Darlin' \(We'll Be Kissing\)](https://open.spotify.com/track/2mySbT2uCipOGWuDAjHkHA) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [Baris Mancho](https://open.spotify.com/album/4Z0P0bGDxKZ5oVaRlqjRyu) | 2:26 |
 | 26 | [Liebe Gabi](https://open.spotify.com/track/7GORKIY4nPLZoO1gtuPU7m) | [Derdiyoklar İkilisi](https://open.spotify.com/artist/4Z7tFrFLO28HYlLFHqgOcb) | [Koleksiyon](https://open.spotify.com/album/4tCDcSjp7U8ogR8rM5hvfI) | 4:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 | 99 | [Raising Sun on Bali \- Lexx Selemat Pagi Mix](https://open.spotify.com/track/1avghaZ5qoTNWQWpDbQmPR) | [Teddy Lasry](https://open.spotify.com/artist/668VqwKWqLOxsTvEEcJJIp), [Lexx](https://open.spotify.com/artist/7GH9fHYSqIt0jZSGHPxwU0) | [Raising Sun on Bali \(Lexx Selemat Pagi Mix\) \[Remix\]](https://open.spotify.com/album/3JlbmvwBk9g8dXpqQe39Iz) | 4:30 |
 | 100 | [Flying High](https://open.spotify.com/track/6DUHpnjg6IYkGW0bIrYXLC) | [Curt Cress](https://open.spotify.com/artist/7bGIcrrESYuEA3uyuWR3Sb) | [Avanti](https://open.spotify.com/album/6GakRcGQSentJbfsPNCfcp) | 4:06 |
 
-Snapshot ID: `MCwxODhhNTRmNmE1ZDU5ZjAwMTdkYTQwMzRlZmE0MTNlN2MxNDEwZWU4`
+Snapshot ID: `MCxlNGNkNDcwZDgxZDE1ZDVjNjFkNjIzYmFjYTJjNDQ1NDU5ZjBlMzQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,762 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,809 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 5 | [Cogele el Golpe](https://open.spotify.com/track/0lunMiZlsZ7U854GvHMyVZ) | [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Descargas](https://open.spotify.com/album/4ghddg6ZQtBZEEoFODQs5W) | 2:45 |
 | 6 | [El Pito \(I'll Never Go Back To Georgia\)](https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 5:33 |
 | 7 | [Me Lo Dijo Adela \(Sweet And Gentle\)](https://open.spotify.com/track/52kWckaWi8zDRL3r2fQoPv) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [Vacation At The Concord](https://open.spotify.com/album/7thOtRH5Z0D9WVyWs8LhWJ) | 2:36 |
-| 8 | [Azúcar](https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Azúcar pa' Ti](https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT) | 9:29 |
-| 9 | [La Toalla](https://open.spotify.com/track/7H6Hu1KiXJGh2HnTIkJywv) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Tito, Tito, Tito](https://open.spotify.com/album/18vrXXXmrzZ5os8lqLYn2k) | 2:51 |
+| 8 | [La Toalla](https://open.spotify.com/track/7H6Hu1KiXJGh2HnTIkJywv) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Tito, Tito, Tito](https://open.spotify.com/album/18vrXXXmrzZ5os8lqLYn2k) | 2:51 |
+| 9 | [Azúcar](https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Azúcar pa' Ti](https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT) | 9:29 |
 | 10 | [Mambo Jambo](https://open.spotify.com/track/5RZ0Y8ae2DuIBPRNjVGkch) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo No 5](https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi) | 3:15 |
 | 11 | [Relax & mambo \- Remastered](https://open.spotify.com/track/2MF3bZLaQI65YjRp7H4A1D) | [Machito Y Sus Afro\-Cubanos](https://open.spotify.com/artist/4Xh7yiscGNnJXmwaZcaloB) | [Carambola \(Remastered\)](https://open.spotify.com/album/76O9p5w3ZRzxtbE7KtCUU6) | 3:09 |
 | 12 | [Cao Cao Maní Picao](https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 49 | [No Cuentes Conmigo](https://open.spotify.com/track/55mhyCZbjoVCelyCmwR3du) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez..\. The Early Years](https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY) | 3:03 |
 | 50 | [Pachito E Che](https://open.spotify.com/track/5ZYO9ETsTxLMXfhzSmUTfA) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw), [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Legends Of Cuban Music](https://open.spotify.com/album/6tviOtL10UFy6Or8rpjlfR) | 3:32 |
 
-Snapshot ID: `MCw2ZWMyYzkzOWU0ZDk5MTk5ZWFkOGVlNDM2NWY5ZGMwNTdiODc2M2Ri`
+Snapshot ID: `MCwwNDhlMWZhOWU4M2M4OTEzNWU1YTJmNTY4NDY2OWI0ZThkODM2OWI3`

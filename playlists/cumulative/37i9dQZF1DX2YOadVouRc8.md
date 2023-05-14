@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-182 songs - 9 hr 20 min
+183 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Saudade](https://open.spotify.com/track/719tWjaCn54N9rCD8tgtDG) | [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Saudade](https://open.spotify.com/album/49NEv35Vtyq3x1VKO8vszr) | 2:11 | 2022-06-09 | 2022-10-14 |
 | [Secret Lover](https://open.spotify.com/track/2aZluo5suMJzbl0EdZ7H2S) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:50 | 2023-04-27 |  |
 | [See Finish](https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [See Finish](https://open.spotify.com/album/2f3gCbx2qefdq823voOXuh) | 3:00 | 2023-02-10 | 2023-03-04 |
+| [Shy](https://open.spotify.com/track/0zf4pn9VXgQkXw784xZica) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [BZ](https://open.spotify.com/artist/3KOofBJuoctTj0v5cgXHDF), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Shy](https://open.spotify.com/album/5WZgswcqvAbQfftf5LYXXg) | 2:57 | 2023-05-11 |  |
 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 | 2022-06-09 |  |
 | [Sinner](https://open.spotify.com/track/1J12nWQKjodPf436e61Orp) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sinner](https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD) | 3:00 | 2023-05-04 |  |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2022-06-09 |  |
@@ -161,7 +162,7 @@
 | [Suga Candy](https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3), [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Spring to Summer](https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo) | 4:14 | 2022-09-30 | 2023-03-18 |
 | [Suma](https://open.spotify.com/track/5qlgg0Av4R0jd8KV7Uc0HM) | [Samuel G](https://open.spotify.com/artist/0AioSVgKfEMoGOqYYYE4zF) | [Suma](https://open.spotify.com/album/78R2R0naBOdOkgGPu8SHz8) | 3:01 | 2023-04-21 |  |
 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 | 2022-06-09 | 2023-03-04 |
-| [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:24 | 2022-06-09 |  |
+| [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:24 | 2022-06-09 | 2023-05-14 |
 | [Tarkwa Bay Fridays](https://open.spotify.com/track/4vsJincCnIUC9bYVZvncM6) | [Yinoluu](https://open.spotify.com/artist/4hxXN5tCtr28dBaKTsCYii) | [Tarkwa Bay Fridays](https://open.spotify.com/album/1ju29gIRyMtoAagWOnuO0Y) | 3:22 | 2022-06-09 | 2023-02-12 |
 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2022-06-09 | 2023-04-17 |
 | [Test Me](https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2) | 3:40 | 2023-04-14 |  |

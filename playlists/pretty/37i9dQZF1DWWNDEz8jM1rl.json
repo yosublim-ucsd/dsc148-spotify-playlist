@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 110236,
+  "num_followers": 110289,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzgwMTJlZTk1NjM0ZjVjNTllYmFiOTc2OWIxZmNhNDQxNmQ4ZGY1",
+  "snapshot_id": "MCwxNzM0ZWE5YzY2NDkwMWM4NTdiM2VkZDQ3OTc1NjJiOWFmMDFhYjUx",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Historia",
-        "url": "https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Rios",
-          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
-        }
-      ],
-      "duration_ms": 265453,
-      "name": "El Cristiano No Se Enoja",
-      "url": "https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Armon\u00eda",
         "url": "https://open.spotify.com/album/60vy0EV9wPovDXlZUVCr4u"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 175456,
       "name": "Armon\u00eda",
       "url": "https://open.spotify.com/track/0h81kXmPh8rG5vp8dkYbVD"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Historia",
+        "url": "https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Rios",
+          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
+        }
+      ],
+      "duration_ms": 265453,
+      "name": "El Cristiano No Se Enoja",
+      "url": "https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Jhoni",
-        "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Haremos",
-      "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Soldados",
         "url": "https://open.spotify.com/album/408HP6kZX2afGve443MAyu"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 224817,
       "name": "Yo Tierra, T\u00fa Semilla",
       "url": "https://open.spotify.com/track/0S79RX2oFmRsD1gjbwdXVC"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Jhoni",
+        "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Haremos",
+      "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Favor y Gracia",
-        "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
-      },
-      "artists": [
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        }
-      ],
-      "duration_ms": 221544,
-      "name": "El Barrio Lo Sabe",
-      "url": "https://open.spotify.com/track/2wA8CQeX2p3vkP6Wfl2j6x"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Party Love",
         "url": "https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 196800,
       "name": "Party Love",
       "url": "https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Favor y Gracia",
+        "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        }
+      ],
+      "duration_ms": 221544,
+      "name": "El Barrio Lo Sabe",
+      "url": "https://open.spotify.com/track/2wA8CQeX2p3vkP6Wfl2j6x"
     },
     {
       "added_at": "2020-09-18 05:02:00",

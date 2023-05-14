@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,594 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,626 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 29 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 |
 | 30 | [Breathless](https://open.spotify.com/track/5GSazQiswJof8KeONLQmr2) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Earthly Days](https://open.spotify.com/album/5NR43RWA1g04CY4WlURruA) | 4:09 |
 | 31 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
-| 32 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
-| 33 | [Tomorrow](https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Tomorrow](https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj) | 4:00 |
+| 32 | [Tomorrow](https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Tomorrow](https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj) | 4:00 |
+| 33 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
 | 34 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
 | 35 | [The Pursuit of Happiness](https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Landing](https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo) | 3:15 |
 | 36 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 40 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 |
 | 41 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 | 42 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
-| 43 | [To the Mountains](https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:13 |
-| 44 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
+| 43 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
+| 44 | [To the Mountains](https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:13 |
 | 45 | [Alright](https://open.spotify.com/track/6NcVekIpjSmZQjj7Odk3d2) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [The Wild](https://open.spotify.com/album/0yuaRX2zpvhm3lq6cppVRI) | 3:13 |
 | 46 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
 | 47 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 57 | [Even the Darkness Has Arms](https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 3:50 |
 | 58 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
 | 59 | [Hope](https://open.spotify.com/track/0DOUO2YQnDrD5ad3qXA0vO) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Ode to a Friend](https://open.spotify.com/album/4nJtIUkvEQe6X4QCbcjehD) | 3:04 |
-| 60 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
-| 61 | [Like a River](https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Like a River](https://open.spotify.com/album/3o8nivVQguilisc4zKinYI) | 3:35 |
-| 62 | [The Open Road](https://open.spotify.com/track/2Dj9OOoQHG5f0jlL5vt7Ve) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96) | 3:20 |
+| 60 | [The Open Road](https://open.spotify.com/track/2Dj9OOoQHG5f0jlL5vt7Ve) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96) | 3:20 |
+| 61 | [Now You Don't](https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Slow Tide](https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA) | 3:11 |
+| 62 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 63 | [Sink](https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:45 |
 | 64 | [Believe](https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:41 |
 | 65 | [Walk Above the City](https://open.spotify.com/track/2i7sd9qKptLrkXLkwAOX15) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 4:00 |
 | 66 | [Catholic Country](https://open.spotify.com/track/6RJq7ki5vvDnLfn8E6EJVV) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:01 |
 | 67 | [Salt And The Sea](https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 4:30 |
-| 68 | [Now You Don't](https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Slow Tide](https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA) | 3:11 |
+| 68 | [Like a River](https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Like a River](https://open.spotify.com/album/3o8nivVQguilisc4zKinYI) | 3:35 |
 | 69 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
 | 70 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
 | 71 | [Better Than](https://open.spotify.com/track/4WMMaqVZIlUnDvICcXWgeZ) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Bad Self Portraits](https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 99 | [John Came Home](https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:11 |
 | 100 | [Bobby](https://open.spotify.com/track/18N9hZG0MZryxpB4H36IyP) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Rocket](https://open.spotify.com/album/5Pq92omNLyQgGGrj2u4pur) | 3:42 |
 
-Snapshot ID: `MCw4NmZjZDU5MjU5YzA2OTk5Njk3MjJjYjYwYzRhYzU1ZTZlYzVkM2Jj`
+Snapshot ID: `MCw1NmY2ZWJjZDU1OGE5YWUxZGIzZjlhNzc1MGViMzVlYjgyNzc4MTBm`

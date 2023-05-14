@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,220 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,276 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 52 | [YOUR WILL](https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4) | [The Family Album](https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo) | 4:43 |
 | 53 | [First Love](https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K) | [Christ Encounter](https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf) | [First Love](https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ) | 4:08 |
 | 54 | [Enemies and Foes](https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Enemies and Foes](https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a) | 4:49 |
-| 55 | [Impossible](https://open.spotify.com/track/6eDkRvkEVhdR0l6ZMmxIPe) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Winning](https://open.spotify.com/album/1OG8AU9n1fFHEjmvfD9eW9) | 3:53 |
-| 56 | [Sunrise 2 Sunset](https://open.spotify.com/track/7EJOV089sJE935qHobWmxA) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Vincent Charlow](https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3), [ITM](https://open.spotify.com/artist/6QmwIBi7pzFs75SnQFX6Hn), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV) | [We Outside](https://open.spotify.com/album/67WCbBUMISteFiNbOZ2Yqw) | 3:42 |
+| 55 | [Sunrise 2 Sunset](https://open.spotify.com/track/7EJOV089sJE935qHobWmxA) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Vincent Charlow](https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3), [ITM](https://open.spotify.com/artist/6QmwIBi7pzFs75SnQFX6Hn), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV) | [We Outside](https://open.spotify.com/album/67WCbBUMISteFiNbOZ2Yqw) | 3:42 |
+| 56 | [Impossible](https://open.spotify.com/track/6eDkRvkEVhdR0l6ZMmxIPe) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Winning](https://open.spotify.com/album/1OG8AU9n1fFHEjmvfD9eW9) | 3:53 |
 | 57 | [Here All the Time \(feat\. Maranda Curtis\)](https://open.spotify.com/track/2vDMKTckSTQrdf01YjiaxO) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l), [Faith City Music](https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Welcome to Faith City](https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3) | 6:02 |
 | 58 | [Look At You](https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Look At You](https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17) | 6:24 |
 | 59 | [Take Me to the Fire](https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Take Me to the Fire](https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2) | 3:02 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 61 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 |
 | 62 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 |
 | 63 | [I's On Him](https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan) | [Jay Violet](https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [I's On Him](https://open.spotify.com/album/1331lQw385FSkpj02K7pOF) | 3:01 |
-| 64 | [Be Real](https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Be Real](https://open.spotify.com/album/6zv0299GsEbWGWSnQAXi8x) | 2:27 |
-| 65 | [Motive](https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Motive](https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH) | 2:42 |
-| 66 | [DRAMATIC](https://open.spotify.com/track/5donHnkb9LNbItRfTeDGZ5) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [DRAMATIC](https://open.spotify.com/album/3jxMT3U0axoZ8T9vRqphTT) | 2:44 |
-| 67 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 |
+| 64 | [Motive](https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Motive](https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH) | 2:42 |
+| 65 | [Be Real](https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Be Real](https://open.spotify.com/album/6zv0299GsEbWGWSnQAXi8x) | 2:27 |
+| 66 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 |
+| 67 | [DRAMATIC](https://open.spotify.com/track/5donHnkb9LNbItRfTeDGZ5) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [DRAMATIC](https://open.spotify.com/album/3jxMT3U0axoZ8T9vRqphTT) | 2:44 |
 | 68 | [Nobody](https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN) | [Robyn McGhee](https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8) | [Nobody](https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0) | 4:28 |
 | 69 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 |
 | 70 | [God of Dreams](https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Hold It All Together](https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E) | 2:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [Anymore](https://open.spotify.com/track/53UsR0RJ4hiOJkseK82wes) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Anymore](https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw) | 3:52 |
 | 80 | [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 |
 
-Snapshot ID: `MCw4YmE2Mjg3OWNiMmQ0NDkxODMwNjEyYWU1OTNkYmM0NDM5M2RhODdl`
+Snapshot ID: `MCwwOGVhMjc4NDNmZWE3MGZlMDA0NDg3NzYwNWZkNGRhNmM5MWI0N2Qy`

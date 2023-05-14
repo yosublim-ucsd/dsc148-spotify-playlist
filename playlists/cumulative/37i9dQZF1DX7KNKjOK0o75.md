@@ -4,7 +4,7 @@
 
 > Feel great with these timelessly fun songs!
 
-302 songs - 18 hr 19 min
+303 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 | 2021-09-30 | 2022-07-28 |
 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 | 2019-05-26\* | 2021-07-27 |
 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 | 2019-05-26\* | 2021-10-01 |
-| [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2019-06-21 |  |
+| [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2019-06-21 | 2023-05-14 |
 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 | 2023-05-02 |  |
 | [Another Day \- Remastered 2012](https://open.spotify.com/track/6qYmf2NjhDfsF7x5U5DUOf) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Linda McCartney](https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco) | [Ram \(Archive Collection\)](https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v) | 3:42 | 2022-04-08 | 2022-04-17 |
 | [Any Way You Want It](https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Departure](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) | 3:21 | 2019-06-03 | 2019-06-04 |
@@ -54,6 +54,7 @@
 | [Come On Eileen](https://open.spotify.com/track/5uzNa0SBGOe5pPnstWHMCt) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay \(Deluxe Edition\)](https://open.spotify.com/album/2t3JY6Pch53HxDu7sipMP7) | 4:33 | 2019-05-26\* | 2022-07-29 |
 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 | 2020-08-05 |  |
 | [Come On Eileen \- Single Edit](https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk), [Kevin Rowland](https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m) | [Come On Eileen / Dubious](https://open.spotify.com/album/2fZF9yZ8e7Q7CJCjpN0VIK) | 3:25 | 2022-04-08 | 2022-07-29 |
+| [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 | 2023-05-02 |  |
 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Blondes Have More Fun](https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio) | 5:31 | 2022-04-08 | 2023-03-26 |
 | [Dance to the Music](https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:59 | 2019-06-25 | 2021-09-19 |
 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 | 2021-09-30 |  |

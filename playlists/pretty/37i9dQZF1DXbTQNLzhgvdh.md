@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 
 > y solo mírame con esos ojito' lindo' ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,907 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,075 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 37 | [Todo Va Estar Bien](https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF) | 4:27 |
 | 38 | [Enloquecido](https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 3:32 |
 | 39 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 |
-| 40 | [Labios Rojos](https://open.spotify.com/track/1NPk0Y7AkLvirhSg4oI0bM) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [La Empresa Music Presenta: Volando](https://open.spotify.com/album/5M4aigT49Vo7KHyB29dQjF) | 4:01 |
-| 41 | [La Nota](https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Dopamina](https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f) | 3:36 |
+| 40 | [La Nota](https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Dopamina](https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f) | 3:36 |
+| 41 | [Labios Rojos](https://open.spotify.com/track/1NPk0Y7AkLvirhSg4oI0bM) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [La Empresa Music Presenta: Volando](https://open.spotify.com/album/5M4aigT49Vo7KHyB29dQjF) | 4:01 |
 | 42 | [Lento](https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb) | 3:19 |
 | 43 | [Adueñarme](https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Adueñarme](https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF) | 3:03 |
 | 44 | [La Que Se Fue](https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [La Que Se Fue](https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP) | 4:27 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 59 | [Baby](https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 4:38 |
 | 60 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 |
 | 61 | [Tú](https://open.spotify.com/track/536jZQnDc8UczLFWyRqEzt) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Yin](https://open.spotify.com/album/53H9AYzn3j647Tr3JnGI71) | 3:31 |
-| 62 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
-| 63 | [Voy a Amarte](https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:23 |
+| 62 | [Voy a Amarte](https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:23 |
+| 63 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
 | 64 | [Ella](https://open.spotify.com/track/66S2z95FN3nUAr9S1gUIsp) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Ella](https://open.spotify.com/album/4u2A6aHOyCOyG6yiCFM7rU) | 3:41 |
 | 65 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
 | 66 | [Bombas](https://open.spotify.com/track/32pqQaloLXiFbgl1Kf81SU) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Bombas](https://open.spotify.com/album/0Vp8jumrRYGxtWkCZgNswV) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 74 | [¿Qué Pasó Mi Amor?](https://open.spotify.com/track/2Tc0Hpl8AhRoPvlrLISI2F) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Yang](https://open.spotify.com/album/3dhNpAkl8UJoj5N1MDLbUy) | 3:02 |
 | 75 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
 
-Snapshot ID: `MCxhMTUxOGZlYjkxMThiZTE3Mzc1ZTgyOTY2OTIxYTAyMDgxZWQ4MjE1`
+Snapshot ID: `MCw4ODQ2MzQxZWU4YjNlYTQ0YTQ0ZWQ4ZDc1YTA1NWMxNDMzNzE5ZTM3`

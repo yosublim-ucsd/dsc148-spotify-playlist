@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: kiki vivi lily
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,983 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,022 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,20 +69,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 59 | [I knew](https://open.spotify.com/track/22fzmCpT5dx66zMfbrsOEL) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [I knew](https://open.spotify.com/album/2h744OhmRWGvyBqhRxcKMa) | 4:49 |
 | 60 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 |
 | 61 | [Jam](https://open.spotify.com/track/5xt9N7xhDqEpp6NIdMCUux) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Jam](https://open.spotify.com/album/6yGcdAn7qspsakb8jdPtbp) | 4:05 |
-| 62 | [White Rabbit](https://open.spotify.com/track/1BMhVGBje3qHKLCrFbLOwB) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [White Rabbit](https://open.spotify.com/album/7cKEIQl2vpLKajvEKLY7ys) | 4:35 |
+| 62 | [恋泥棒。](https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [恋泥棒。](https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0) | 3:39 |
 | 63 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 |
-| 64 | [恋泥棒。](https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [恋泥棒。](https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0) | 3:39 |
+| 64 | [White Rabbit](https://open.spotify.com/track/1BMhVGBje3qHKLCrFbLOwB) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [White Rabbit](https://open.spotify.com/album/7cKEIQl2vpLKajvEKLY7ys) | 4:35 |
 | 65 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 |
 | 66 | [サークル](https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:15 |
 | 67 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 |
 | 68 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 |
-| 69 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
-| 70 | [Final Call](https://open.spotify.com/track/23UvqSjWD2dilIjKkCd2pf) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Final Call](https://open.spotify.com/album/5GWBGzUQ7053833dmf2rge) | 3:34 |
-| 71 | [ドキメキダイアリー](https://open.spotify.com/track/5WZ6lxBhcncHgc2qkTBih2) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ドキメキダイアリー](https://open.spotify.com/album/3wrzViTziNyAqM2on7hM8q) | 3:19 |
+| 69 | [Final Call](https://open.spotify.com/track/23UvqSjWD2dilIjKkCd2pf) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Final Call](https://open.spotify.com/album/5GWBGzUQ7053833dmf2rge) | 3:34 |
+| 70 | [ドキメキダイアリー](https://open.spotify.com/track/5WZ6lxBhcncHgc2qkTBih2) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ドキメキダイアリー](https://open.spotify.com/album/3wrzViTziNyAqM2on7hM8q) | 3:19 |
+| 71 | [夏枯れ](https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [夏枯れ](https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn) | 3:56 |
 | 72 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 |
 | 73 | [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 |
 | 74 | [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 |
-| 75 | [夏枯れ](https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [夏枯れ](https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn) | 3:56 |
+| 75 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
 | 76 | [春一番](https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [春一番](https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z) | 3:17 |
 | 77 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 |
 | 78 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 82 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:00 |
 | 83 | [そばにいるよ](https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [そばにいるよ](https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB) | 4:09 |
 | 84 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 |
-| 85 | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 |
+| 85 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |
 | 86 | [Bestie](https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Bestie](https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg) | 2:49 |
-| 87 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |
-| 88 | [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 |
+| 87 | [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 |
+| 88 | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 |
 | 89 | [TOKYO 4AM](https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TOKYO 4AM](https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X) | 3:22 |
 | 90 | [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 |
 | 91 | [恋](https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [恋](https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [憂い桜](https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [憂い桜](https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz) | 4:35 |
 | 100 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:34 |
 
-Snapshot ID: `MCwwNThiZDUzYTQ3M2YzMTBiYjk1MGViODBiMGRjZjViODQ0MTAyNTk0`
+Snapshot ID: `MCw2MzA0MTBhMTI1OGUwZGU2MmM3OTNlYzA5NmUzZWE1OGFkNmYzZmRh`

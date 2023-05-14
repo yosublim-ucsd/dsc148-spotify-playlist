@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,267 songs - 2 day 16 hr 47 min
+1,268 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Bohém](https://open.spotify.com/track/2bsUeCXhPAsKvvAG9Yx4OI) | [Nerieš](https://open.spotify.com/artist/4qla74GaFZkhFIUQvGZAEN), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [311](https://open.spotify.com/album/7ghNPD080WPQqy7gYiPT8E) | 3:07 | 2021-06-23 | 2021-09-05 |
 | [Bomby](https://open.spotify.com/track/3LzcbcGFtBc1mfYJ8jvWbU) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Bomby](https://open.spotify.com/album/0kSJOtAS5ARAxgHB5ZKOYI) | 1:47 | 2022-03-04 | 2022-07-27 |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-03-15 | 2022-07-03 |
-| [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-07-02 |  |
+| [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-07-02 | 2023-05-14 |
 | [boo](https://open.spotify.com/track/03oSPzvckEJOYFjQ3ITduH) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [boo](https://open.spotify.com/album/7lftEfEMOUnny2WDWHSI0N) | 2:49 | 2022-10-09 | 2022-10-21 |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-10-02 | 2021-11-04 |
 | [Bout A Million \(feat\. 42 Dugg & 21 Savage\)](https://open.spotify.com/track/4LaGu95Ui2s4vprSQYWUAZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:23 | 2021-07-18 | 2021-07-19 |
@@ -1182,6 +1182,7 @@
 | [Všetky baby](https://open.spotify.com/track/58h01zomhEPphdtVI6otK1) | [Radikal Chef](https://open.spotify.com/artist/5Bdw1DlKOvAJkLbZ7Xb7Zq), [Indigo](https://open.spotify.com/artist/1iPoJxFI4h5TcJfWTDCAa5), [Matej Straka](https://open.spotify.com/artist/4WB1NUL01OyTTuhNkdyljG) | [Slovenský Hollywood](https://open.spotify.com/album/2OdkcYq1vixt804yGMTGYm) | 3:37 | 2021-05-25 | 2021-05-30 |
 | [WA$$UP](https://open.spotify.com/track/4Tz96gYmQon9J4qKtpQGa9) | [Zayo](https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q) | [WASSUP](https://open.spotify.com/album/4mbHfqJ2ke7QiEV1e8Xkty) | 1:42 | 2021-05-23 | 2021-05-24 |
 | [WAE](https://open.spotify.com/track/0XbpDPx8cuA9qnOSsju1MF) | [Kiddly Puff](https://open.spotify.com/artist/3ESkqEj80684oHA5B0VGDN) | [Mozzaretta](https://open.spotify.com/album/7DkndBZWpKAcxYSwbHfZJE) | 1:06 | 2021-11-08 | 2021-11-10 |
+| [Wake Up](https://open.spotify.com/track/55spL5CkRMLeP3QCmi07e0) | [Fobia Kid](https://open.spotify.com/artist/6qtdtH7BAqRMiG7d3djqta), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [Wake Up](https://open.spotify.com/album/4F1iNCnuJSR2ydz9vEt0wO) | 2:46 | 2023-05-13 |  |
 | [WASSUP](https://open.spotify.com/track/7vUoHe1gbpMDN2yfp9sA3u) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Majk Spirit](https://open.spotify.com/artist/4gvBx2BxCJcy3Ysiih8AAG) | [WASSUP](https://open.spotify.com/album/6kwiz2ofhe8aitctdlcoXx) | 2:46 | 2022-03-20 | 2022-07-13 |
 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 | 2021-03-27 | 2021-10-22 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2021-03-27\* | 2021-06-23 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 647553,
+  "num_followers": 647697,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmRlYjg3NWNhNDkxMTQ5ZTA1NmU0OGI0NWJlMTRkMGE1ZTc0ZTUw",
+  "snapshot_id": "MCw2NDQxNGY5MWRmOTJkNmMwNjNlY2ZkMzIyNjA1MDVjNzUwMzQ1ZWI3",
   "tracks": [
     {
       "added_at": "2022-05-09 03:43:40",
@@ -917,26 +917,6 @@
       "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
     },
     {
-      "added_at": "2023-03-31 18:15:39",
-      "album": {
-        "name": "Dubby Sunday",
-        "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
-        }
-      ],
-      "duration_ms": 348662,
-      "name": "Dubby Sunday",
-      "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
-    },
-    {
       "added_at": "2022-02-11 02:34:16",
       "album": {
         "name": "Pupilas Lejanas",
@@ -955,6 +935,26 @@
       "duration_ms": 226000,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
+    },
+    {
+      "added_at": "2023-03-31 18:15:39",
+      "album": {
+        "name": "Dubby Sunday",
+        "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "duration_ms": 348662,
+      "name": "Dubby Sunday",
+      "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
     },
     {
       "added_at": "2022-04-01 06:20:39",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V"
     },
     {
-      "added_at": "2023-03-31 17:32:26",
-      "album": {
-        "name": "Kristina",
-        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
-      },
-      "artists": [
-        {
-          "name": "Sanje",
-          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
-        }
-      ],
-      "duration_ms": 238221,
-      "name": "Kristina",
-      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
-    },
-    {
       "added_at": "2023-02-03 04:48:46",
       "album": {
         "name": "Porque Yo",
@@ -1063,6 +1047,22 @@
       "duration_ms": 181914,
       "name": "Porque Yo",
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
+    },
+    {
+      "added_at": "2023-03-31 17:32:26",
+      "album": {
+        "name": "Kristina",
+        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        }
+      ],
+      "duration_ms": 238221,
+      "name": "Kristina",
+      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
     },
     {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "\u201dZamba Puta\u201d",
+        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "duration_ms": 203807,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
+    },
+    {
       "added_at": "2021-11-10 16:29:39",
       "album": {
         "name": "Bichota \u2013 Spotify Singles",
@@ -1179,22 +1195,6 @@
       "duration_ms": 186386,
       "name": "Amor De Verano",
       "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "\u201dZamba Puta\u201d",
-        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
     },
     {
       "added_at": "2022-02-25 03:00:34",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "La F\u00f3rmula del Mambo",
-        "url": "https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Cafecito",
-      "url": "https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 213810,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "La F\u00f3rmula del Mambo",
+        "url": "https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH"
     },
     {
       "added_at": "2022-11-17 23:07:04",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
-      },
-      "artists": [
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
       },
@@ -1431,6 +1415,58 @@
       "duration_ms": 232160,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Ostriconi",
+        "url": "https://open.spotify.com/album/3jLWAXJ3NdQOoagDdia99w"
+      },
+      "artists": [
+        {
+          "name": "Yeahman",
+          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
+        },
+        {
+          "name": "Aluna Project",
+          "url": "https://open.spotify.com/artist/1TSrXgFaXo6Vd5lZle9XM8"
+        }
+      ],
+      "duration_ms": 219962,
+      "name": "Baixi Baixi",
+      "url": "https://open.spotify.com/track/4QoktJPw2SSKoIND51Haq8"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Black Catbird",
+        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
+      },
+      "artists": [
+        {
+          "name": "the Garifuna Collective",
+          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
+        }
+      ],
+      "duration_ms": 165593,
+      "name": "Black Catbird",
+      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1471,22 +1507,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Ostriconi",
-        "url": "https://open.spotify.com/album/3jLWAXJ3NdQOoagDdia99w"
+        "name": "Luna Completa",
+        "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
       },
       "artists": [
         {
-          "name": "Yeahman",
-          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
-        },
-        {
-          "name": "Aluna Project",
-          "url": "https://open.spotify.com/artist/1TSrXgFaXo6Vd5lZle9XM8"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 219962,
-      "name": "Baixi Baixi",
-      "url": "https://open.spotify.com/track/4QoktJPw2SSKoIND51Haq8"
+      "duration_ms": 288653,
+      "name": "Luna Completa",
+      "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1511,38 +1543,6 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Luna Completa",
-        "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 288653,
-      "name": "Luna Completa",
-      "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Black Catbird",
-        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
-      },
-      "artists": [
-        {
-          "name": "the Garifuna Collective",
-          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
-        }
-      ],
-      "duration_ms": 165593,
-      "name": "Black Catbird",
-      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1583,18 +1583,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi"
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
       },
       "artists": [
         {
           "name": "Pahua",
           "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
         }
       ],
-      "duration_ms": 198914,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M"
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2022-01-04 01:50:46",
@@ -1725,38 +1729,6 @@
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
-      "added_at": "2023-03-31 19:53:39",
-      "album": {
-        "name": "Noest\u00e1saqu\u00ed",
-        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
-      },
-      "artists": [
-        {
-          "name": "Caramelo Haze",
-          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
-    },
-    {
-      "added_at": "2023-03-23 22:02:21",
-      "album": {
-        "name": "Isla del Ritmo",
-        "url": "https://open.spotify.com/album/00hZw0zggoguww2I6rb1FH"
-      },
-      "artists": [
-        {
-          "name": "Ritmo Machine",
-          "url": "https://open.spotify.com/artist/00sAqRmmkclLUg9p8ICDnw"
-        }
-      ],
-      "duration_ms": 196849,
-      "name": "Isla del Ritmo",
-      "url": "https://open.spotify.com/track/5YAQFjWdqU0Rjm0SbnY8wf"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Agua",
@@ -1773,20 +1745,20 @@
       "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
+      "added_at": "2023-03-31 19:53:39",
       "album": {
-        "name": "Con la Fiesta a Cuestas",
-        "url": "https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR"
+        "name": "Noest\u00e1saqu\u00ed",
+        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
       },
       "artists": [
         {
-          "name": "Los Telep\u00e1ticos",
-          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
         }
       ],
-      "duration_ms": 196480,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
+      "duration_ms": 202066,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1809,44 +1781,68 @@
       "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
     },
     {
+      "added_at": "2023-03-23 22:02:21",
+      "album": {
+        "name": "Isla del Ritmo",
+        "url": "https://open.spotify.com/album/00hZw0zggoguww2I6rb1FH"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Machine",
+          "url": "https://open.spotify.com/artist/00sAqRmmkclLUg9p8ICDnw"
+        }
+      ],
+      "duration_ms": 196849,
+      "name": "Isla del Ritmo",
+      "url": "https://open.spotify.com/track/5YAQFjWdqU0Rjm0SbnY8wf"
+    },
+    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+        "name": "Con la Fiesta a Cuestas",
+        "url": "https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR"
+      },
+      "artists": [
+        {
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+        }
+      ],
+      "duration_ms": 196480,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi"
       },
       "artists": [
         {
           "name": "Pahua",
           "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
         }
       ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+      "duration_ms": 198914,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M"
     },
     {
-      "added_at": "2023-03-24 19:13:56",
+      "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "La de la terraza",
-        "url": "https://open.spotify.com/album/5kvhEaHTcbmBziwnEZk05g"
+        "name": "Pescador de Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP"
       },
       "artists": [
         {
-          "name": "Ezequiel Borra",
-          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
-        },
-        {
-          "name": "Sonidos enraizados",
-          "url": "https://open.spotify.com/artist/16g2mYYlZcGFHaT9VBHOMw"
+          "name": "Ramon Chicharron",
+          "url": "https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s"
         }
       ],
-      "duration_ms": 163730,
-      "name": "La de la terraza",
-      "url": "https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd"
+      "duration_ms": 238861,
+      "name": "Mi Querer",
+      "url": "https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1867,18 +1863,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Pescador de Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP"
+        "name": "Paradiso",
+        "url": "https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv"
       },
       "artists": [
         {
-          "name": "Ramon Chicharron",
-          "url": "https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s"
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        },
+        {
+          "name": "La Comitiva",
+          "url": "https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh"
         }
       ],
-      "duration_ms": 238861,
-      "name": "Mi Querer",
-      "url": "https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb"
+      "duration_ms": 181723,
+      "name": "Paradiso",
+      "url": "https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y"
     },
     {
       "added_at": "2022-09-03 02:45:23",
@@ -1897,24 +1897,24 @@
       "url": "https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
+      "added_at": "2023-03-24 19:13:56",
       "album": {
-        "name": "Paradiso",
-        "url": "https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv"
+        "name": "La de la terraza",
+        "url": "https://open.spotify.com/album/5kvhEaHTcbmBziwnEZk05g"
       },
       "artists": [
         {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+          "name": "Ezequiel Borra",
+          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
         },
         {
-          "name": "La Comitiva",
-          "url": "https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh"
+          "name": "Sonidos enraizados",
+          "url": "https://open.spotify.com/artist/16g2mYYlZcGFHaT9VBHOMw"
         }
       ],
-      "duration_ms": 181723,
-      "name": "Paradiso",
-      "url": "https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y"
+      "duration_ms": 163730,
+      "name": "La de la terraza",
+      "url": "https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd"
     },
     {
       "added_at": "2021-10-20 20:06:54",

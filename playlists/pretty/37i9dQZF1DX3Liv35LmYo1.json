@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 104044,
+  "num_followers": 104051,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWI0NjlmYTVkYmI4M2FjODU4NzA4ZmY0MzRjZDIwMWZkYzM5N2Vl",
+  "snapshot_id": "MCxlZjFhOGE5NTEwYzRmMzdiY2IzNmU2MzA2M2ViMzNkMzg0NWQ5NDIy",
   "tracks": [
     {
       "added_at": "2023-05-05 02:04:51",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -335,38 +335,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5"
-      },
-      "artists": [
-        {
-          "name": "OLAN",
-          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
-        }
-      ],
-      "duration_ms": 224655,
-      "name": "Contra",
-      "url": "https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
-        "name": "MY DEAR",
-        "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 343332,
-      "name": "Blissda",
-      "url": "https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 (Flora Wong Remix)",
         "url": "https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov"
       },
@@ -387,6 +355,38 @@
       "duration_ms": 201600,
       "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 - Flora Wong Remix",
       "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "MY DEAR",
+        "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 343332,
+      "name": "Blissda",
+      "url": "https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5"
+      },
+      "artists": [
+        {
+          "name": "OLAN",
+          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
+        }
+      ],
+      "duration_ms": 224655,
+      "name": "Contra",
+      "url": "https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Caring EP",
-        "url": "https://open.spotify.com/album/3pIUvgrnnoHYdTv0pts9wX"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 274267,
-      "name": "Shapeless",
-      "url": "https://open.spotify.com/track/1PDkQCBKrza8FSiAmmm7n7"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Bleu",
         "url": "https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 228198,
       "name": "Bleu - Radio Edit",
       "url": "https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Caring EP",
+        "url": "https://open.spotify.com/album/3pIUvgrnnoHYdTv0pts9wX"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 274267,
+      "name": "Shapeless",
+      "url": "https://open.spotify.com/track/1PDkQCBKrza8FSiAmmm7n7"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -999,22 +999,18 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "In Response",
-        "url": "https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa"
+        "name": "Translucid Transit",
+        "url": "https://open.spotify.com/album/7w2Tq5FbO7wcGmKz4pZfxb"
       },
       "artists": [
         {
-          "name": "Thrupence",
-          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
-        },
-        {
-          "name": "Jack Vanzet",
-          "url": "https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf"
+          "name": "Loure",
+          "url": "https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ"
         }
       ],
-      "duration_ms": 214920,
-      "name": "In Response",
-      "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
+      "duration_ms": 350737,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/3Vj2GECLhHkxtEl86kzjlK"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -1051,18 +1047,22 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Translucid Transit",
-        "url": "https://open.spotify.com/album/7w2Tq5FbO7wcGmKz4pZfxb"
+        "name": "In Response",
+        "url": "https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa"
       },
       "artists": [
         {
-          "name": "Loure",
-          "url": "https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ"
+          "name": "Thrupence",
+          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
+        },
+        {
+          "name": "Jack Vanzet",
+          "url": "https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf"
         }
       ],
-      "duration_ms": 350737,
-      "name": "Dreamscape",
-      "url": "https://open.spotify.com/track/3Vj2GECLhHkxtEl86kzjlK"
+      "duration_ms": 214920,
+      "name": "In Response",
+      "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Memories In Flight",
-        "url": "https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE"
+        "name": "Higher Elevation",
+        "url": "https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04"
       },
       "artists": [
         {
-          "name": "Sampology",
-          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
         }
       ],
-      "duration_ms": 229399,
-      "name": "Memories In Flight",
-      "url": "https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx"
+      "duration_ms": 373453,
+      "name": "Higher Elevation",
+      "url": "https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV"
     }
   ],
   "unique_name": "Night Shift",

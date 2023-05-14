@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 
 > The best easy rock from the 2010s\. Cover: Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,545 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,732 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 51 | [My Heart I Surrender](https://open.spotify.com/track/2tXtxbJra1MIJxkWrD1xTd) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 3:27 |
 | 52 | [Little Boy](https://open.spotify.com/track/1vkdwNTgBAzWFApCVYX9ER) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:53 |
 | 53 | [Release](https://open.spotify.com/track/3ubpkIvw8SDchaRPEKIQPS) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER) | 2:28 |
-| 54 | [Passing Ships](https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Transmissions](https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh) | 4:15 |
-| 55 | [She Lays Down](https://open.spotify.com/track/7Esd9ROfkgPgBtWN72U5P5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:58 |
+| 54 | [She Lays Down](https://open.spotify.com/track/7Esd9ROfkgPgBtWN72U5P5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:58 |
+| 55 | [Passing Ships](https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Transmissions](https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh) | 4:15 |
 | 56 | [The Only One](https://open.spotify.com/track/3QHA3SBpz2SDEpI1HuMT0e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 5:00 |
 | 57 | [Heathrow](https://open.spotify.com/track/2X6aiq2KyWsyhh7c3vzeyp) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 2:51 |
 | 58 | [Move Together](https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 69 | [Landlady](https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:01 |
 | 70 | [Wild Sun](https://open.spotify.com/track/5MfLVNkxZJ7VZPnNp9vHdl) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4) | 4:29 |
 
-Snapshot ID: `MCwwNjg4OTlhYjJlMTgyN2NmYTM1M2NlY2E5NzFlMmVjYjJhMDc0NjE4`
+Snapshot ID: `MCxlYWY2YTM3NDc1YTBlMWY3MDgwZGY3NWE2NzEwMjA4YzdjNjBmYTkz`

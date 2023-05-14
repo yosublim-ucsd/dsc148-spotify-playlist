@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Da Tweekaz & Refuzion
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,197 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,339 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 89 | [UNDRGRND](https://open.spotify.com/track/5OPiQgHKYUGd50bAfJnxx8) | [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [UNDRGRND](https://open.spotify.com/album/0zccfdoWWFsJW6c7YPRBLj) | 2:54 |
 | 90 | [Darkest Night](https://open.spotify.com/track/4F0hY9s0LJ6KQPhWRVFNPh) | [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU), [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Darkest Night](https://open.spotify.com/album/2cQJAXfHrBBrevTmetmOTb) | 3:24 |
 
-Snapshot ID: `MCwzNmQ1MjIyNGIyNWQ2NWZkNWQ5ODYyMmU3MmJiMWI2MDAyMDE5NTNm`
+Snapshot ID: `MCw1OWM2ZjcwOGE2NDZlNzgxZmYyMmI2NjFhOTBjYzdiZTZjYTY3NWNl`

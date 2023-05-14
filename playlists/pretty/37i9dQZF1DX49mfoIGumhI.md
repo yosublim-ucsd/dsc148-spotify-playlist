@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,379 likes - 75 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,526 likes - 75 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 12 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
 | 13 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 |
 | 14 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
-| 15 | [Porque Te Amo](https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Exitos Y Mas Exitos](https://open.spotify.com/album/0ZiO84WuLFyD21W4lq62LO) | 5:06 |
-| 16 | [Caricias Prohibidas](https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb) | 5:21 |
+| 15 | [Caricias Prohibidas](https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb) | 5:21 |
+| 16 | [Porque Te Amo](https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Exitos Y Mas Exitos](https://open.spotify.com/album/0ZiO84WuLFyD21W4lq62LO) | 5:06 |
 | 17 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
 | 18 | [Mia](https://open.spotify.com/track/3x4oECarDKCZxecqOYis52) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:43 |
 | 19 | [Te Propongo](https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ) | [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv) | [Al Duro](https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U) | 4:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 74 | [Sonrrisas](https://open.spotify.com/track/7mTRA1UyxPQc2liY4qRXHQ) | [los ineditos](https://open.spotify.com/artist/5XrqZ5imrG2Vo7TDkfsNhk) | [Sabor y Ritmo Internacional](https://open.spotify.com/album/17qp5GQMNus3cV8I0UsMJi) | 5:23 |
 | 75 | [Máximo Chamorro](https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Simplemente..\. Lalo](https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E) | 7:38 |
 
-Snapshot ID: `MCxhNGRhMTQzYzYwODc4NmMxMGVkOTNhMGRlM2Q3Y2MwZjQzOGRkNmU5`
+Snapshot ID: `MCxkNDNhODJiMTU3OWIyMjc5MDNhMzhjMGEyODJlMTg2NzBiOWNjMzBl`

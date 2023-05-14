@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 
 > Pop Latino de los 80 y 90\. Canciones que quedarán para siempre\. Foto: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,268 likes - 132 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,796 likes - 132 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 38 | [Color Esperanza](https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 4:27 |
 | 39 | [Mujeres](https://open.spotify.com/track/4TR6e2sBy2PzTnfu6MnLFD) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 3:27 |
 | 40 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
-| 41 | [Tardes Negras](https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [TZN \-The Best Of Tiziano Ferro \(Spanish Edition\)](https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv) | 4:22 |
-| 42 | [Rayando El Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Rayando El Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8) | 4:18 |
+| 41 | [Rayando El Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Rayando El Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8) | 4:18 |
+| 42 | [Tardes Negras](https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [TZN \-The Best Of Tiziano Ferro \(Spanish Edition\)](https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv) | 4:22 |
 | 43 | [Experiencia Religiosa](https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 5:32 |
 | 44 | [The Ketchup Song \(Aserejé\) \- Spanglish Version](https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Hijas del Tomate](https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO) | 3:33 |
 | 45 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 51 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
 | 52 | [Cosas De La Vida](https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:48 |
 | 53 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 |
-| 54 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
-| 55 | [Dime Que No](https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 4:24 |
+| 54 | [Dime Que No](https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 4:24 |
+| 55 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 56 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
 | 57 | [Fruta Fresca](https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Amor De Mi Tierra](https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH) | 3:53 |
 | 58 | [Desesperada](https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5) | [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [Mujer](https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l) | 3:47 |
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 74 | [Déjame llorar](https://open.spotify.com/track/3dH0WIQ1noUsRvA4OtHSrl) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 5:12 |
 | 75 | [Penelope](https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Luna Nueva](https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA) | 5:19 |
 | 76 | [Kilómetros](https://open.spotify.com/track/1AfAFpHJ7s4unBIhe3NM5j) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo) | 3:41 |
-| 77 | [Arrasando](https://open.spotify.com/track/1EhDeCHd34jt7dMDqkGQBC) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Arrasando](https://open.spotify.com/album/2PA0R3BGC5ZGCAR6G23sqO) | 3:59 |
+| 77 | [Y Yo Sigo Aqui](https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:14 |
 | 78 | [Diez Mil Maneras](https://open.spotify.com/track/0bozYJjedwJwsvg7WWrWnX) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Tú Y Yo](https://open.spotify.com/album/2R7m2KEpz551kzsoayID3S) | 3:33 |
 | 79 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 |
-| 80 | [Y Yo Sigo Aqui](https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:14 |
+| 80 | [Arrasando](https://open.spotify.com/track/1EhDeCHd34jt7dMDqkGQBC) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Arrasando](https://open.spotify.com/album/2PA0R3BGC5ZGCAR6G23sqO) | 3:59 |
 | 81 | [Levantando las Manos](https://open.spotify.com/track/6aIOfv9A3FZtQjMjyWNiJJ) | [El Simbolo](https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3) | [Éxitos](https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd) | 4:25 |
 | 82 | [¡Oh Mamá! Ella Me Ha Besado](https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:31 |
 | 83 | [Tratar de Estar Mejor](https://open.spotify.com/track/0ylZTq7l4Oij4dHhu9at7n) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Tratar De Estar Mejor](https://open.spotify.com/album/4iq0kaBaXcV6YzgbuulMgj) | 3:35 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 131 | [Fuego Contra Fuego](https://open.spotify.com/track/6Sbzcag4QwyIRhMSpRmlLW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/2RUhYJK4Ho2uDNhyZSJsOg) | 4:14 |
 | 132 | [Me Amaras](https://open.spotify.com/track/5ovv05x6qsMfipkdutRKbD) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Me Amaras](https://open.spotify.com/album/5CgOx7gxM9Xv90PcF5JuTH) | 4:27 |
 
-Snapshot ID: `MCw2ZmUxZTM4ZDI1ZWZjMjQ5NGNmMmYzNzdlMzllMjU4Nzg3ZDAzMDUx`
+Snapshot ID: `MCw3MzgzMmM5NDlmZDE2YjE4MWIxZmFjYWMxOTJkMDg5ZGIxNGZkZmUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,752 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,298 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 25 | [Castles In The Sky](https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ), [Marsha](https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 3:47 |
 | 26 | [Silence \- Airscape Remix Edit](https://open.spotify.com/track/3HyU67HfMANQxFg34kHfco) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Airscape](https://open.spotify.com/artist/2tTZL2CE2Z190UPlHsjzym) | [Silence](https://open.spotify.com/album/6smXgAugj1QBLAO0BXol5P) | 3:51 |
 | 27 | [Silence \- DJ Tiësto's in Search of Sunrise Remix](https://open.spotify.com/track/47st2meAZHGnG9UJU1YyVU) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magik Six \(Live in Amsterdam\)](https://open.spotify.com/album/1zBJu5maXZeKtN2Sj571Rp) | 11:32 |
-| 28 | [Awakening \- Radio Edit](https://open.spotify.com/track/5QiCJ1Uxzk1lgzbuk9WH2L) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Symsonic](https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z) | 2:55 |
-| 29 | [We're All We Need](https://open.spotify.com/track/7jji8nfxJ84AJkUSpgruPL) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [We Are All We Need](https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW) | 4:22 |
+| 28 | [We're All We Need](https://open.spotify.com/track/7jji8nfxJ84AJkUSpgruPL) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [We Are All We Need](https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW) | 4:22 |
+| 29 | [Awakening \- Radio Edit](https://open.spotify.com/track/5QiCJ1Uxzk1lgzbuk9WH2L) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Symsonic](https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z) | 2:55 |
 | 30 | [Loneliness \- Radio Cut](https://open.spotify.com/track/7mPrEblYX8GLGRXLmPL8ws) | [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM) | 3:48 |
 | 31 | [Find Yourself](https://open.spotify.com/track/6N2pJ8VdWc3DyoahZ2GoBW) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Sarah Howells](https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw) | [Armada Collected: John O'Callaghan](https://open.spotify.com/album/0ji0T5B0uXzJZibt3ccSGq) | 2:31 |
 | 32 | [Carte Blanche \- FM Edit](https://open.spotify.com/track/5yTN79Mgt4licL40oassM3) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [Carte Blanche \(Ilan Bluestone Remix\)](https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE) | 3:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 45 | [Out Of The Blue](https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Ilan Bluestone Remix\)](https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF) | 3:53 |
 | 46 | [U](https://open.spotify.com/track/7ej6hXuIvbHAz5tKRikMi1) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Drive](https://open.spotify.com/album/0xt7caaIpRnFVyCHcl4zsW) | 4:20 |
 | 47 | [The Whiteroom](https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH) | [Andy Moor](https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn), [Adam White](https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R), [Whiteroom](https://open.spotify.com/artist/1JerCKWsimcVvghLc1Kwib) | [The Whiteroom](https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz) | 3:53 |
-| 48 | [Lonely Girl \- Gareth Emery Remix \(Edit\)](https://open.spotify.com/track/0AyySV2exaNwoyK99nTfeQ) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Oceanlab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Fatum Presents: 20 Years Of Anjunabeats](https://open.spotify.com/album/0knnadrIb51q2XTdSMrTC3) | 4:15 |
-| 49 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/1ZuCmG8sXSqgMzpnlOonPv) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [Trance Top 1000 \(Ibiza Anthems Mini Mix\)](https://open.spotify.com/album/3q2xAPNvEuLEyFGXFT6eGu) | 3:30 |
+| 48 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/1ZuCmG8sXSqgMzpnlOonPv) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [Trance Top 1000 \(Ibiza Anthems Mini Mix\)](https://open.spotify.com/album/3q2xAPNvEuLEyFGXFT6eGu) | 3:30 |
+| 49 | [Lonely Girl \- Gareth Emery Remix \(Edit\)](https://open.spotify.com/track/0AyySV2exaNwoyK99nTfeQ) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Oceanlab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Fatum Presents: 20 Years Of Anjunabeats](https://open.spotify.com/album/0knnadrIb51q2XTdSMrTC3) | 4:15 |
 | 50 | [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 |
 
-Snapshot ID: `MCwwZThhYzYxZjJkMjMzMGM5N2RmNjIyNWY0NzRjMWIxODkxMDU0OWRj`
+Snapshot ID: `MCwzY2YyOWU0YTVjY2Q3MTM0NzA5MTYzMGY1ZTE1NjNiN2M3NmY3NGQy`

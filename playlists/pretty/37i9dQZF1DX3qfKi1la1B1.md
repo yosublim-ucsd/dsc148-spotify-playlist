@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,928 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,958 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 33 | [View 4](https://open.spotify.com/track/1yaOmrXya2YvrVk6ypnnlW) | [COMPUMA](https://open.spotify.com/artist/3FoF5nY23QZfvFlrOAmb5f) | [A View](https://open.spotify.com/album/6zWAv8ROkziYVAbhCSiTiR) | 4:34 |
 | 34 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 |
 | 35 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 |
-| 36 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
-| 37 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
+| 36 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
+| 37 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
 | 38 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
 | 39 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
 | 40 | [Sleep](https://open.spotify.com/track/03RVZfDcet7LiWSQ7tXmrg) | [BAUKHA](https://open.spotify.com/artist/7MIbS9ds7J2A9rLEaIYLRK) | [Sleep](https://open.spotify.com/album/0tn8ANhvK8H8PiDmUMWCRu) | 3:49 |
 | 41 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
 | 42 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
-| 43 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
-| 44 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 |
+| 43 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 |
+| 44 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
 | 45 | [Mermaids](https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever \(Complete Edition\)](https://open.spotify.com/album/6a15PoOmOueHCdogzhHRbh) | 4:35 |
 | 46 | [Falling In Love](https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:05 |
 | 47 | [Take me home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 53 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
 | 54 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 |
 | 55 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
-| 56 | [Kids Are Growing Up \(Part 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Kids Are Growing Up \(Part 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 |
-| 57 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 |
+| 56 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 |
+| 57 | [Kids Are Growing Up \(Part 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Kids Are Growing Up \(Part 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 |
 | 58 | [erase me](https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:34 |
 | 59 | [What They'll Say About Us](https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:01 |
 | 60 | [Tell Me](https://open.spotify.com/track/1OxaAC72au0z2HORS9yt1m) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Tell Me](https://open.spotify.com/album/2nBHaQWoC341spJHji7dgz) | 3:16 |
 
-Snapshot ID: `MCxjZjMyMGEwN2QzNmM1OGE5MWYyZTM1YjEwNGEzOTgzZTRmZWJlNDg5`
+Snapshot ID: `MCwzZTgwZTM5MjE2ODY0ZjcwOTIzNzRhMTEyYjYzN2I0MTJjZmJkNWU4`

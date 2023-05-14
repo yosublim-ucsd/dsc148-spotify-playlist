@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Galee Galee.",
-  "num_followers": 299255,
+  "num_followers": 299307,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzhjYmU4YjU2YjZhNjgzMjAzYWM4Y2ZkMzFiODEyMmRiMmUwOTNj",
+  "snapshot_id": "MCxiMzQzMzMzZWRmZDlmNDEwMzk4MDg1MDBjNDY3NTFlYzg3NWZjYzRl",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -519,18 +519,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
+        "name": "2 Hielos",
+        "url": "https://open.spotify.com/album/36cXeSQ4gqFwUIdoWFwmR9"
       },
       "artists": [
         {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
         }
       ],
-      "duration_ms": 186096,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
+      "duration_ms": 194214,
+      "name": "2 Hielos",
+      "url": "https://open.spotify.com/track/4za7UzHuKvr84o8h9CxqV1"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -551,22 +555,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "2 Hielos",
-        "url": "https://open.spotify.com/album/36cXeSQ4gqFwUIdoWFwmR9"
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
       },
       "artists": [
         {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
         }
       ],
-      "duration_ms": 194214,
-      "name": "2 Hielos",
-      "url": "https://open.spotify.com/track/4za7UzHuKvr84o8h9CxqV1"
+      "duration_ms": 186096,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Vengo De La Brea",
+        "url": "https://open.spotify.com/album/4yjqw4nUPFJt0BGSfiyJvO"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Vengo De La Brea",
+      "url": "https://open.spotify.com/track/6ECKufSE72CsQUb3PRNYmq"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "YSYSMO",
         "url": "https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 134581,
       "name": "C\u00d3MO CHILLA ELLA",
       "url": "https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Vengo De La Brea",
-        "url": "https://open.spotify.com/album/4yjqw4nUPFJt0BGSfiyJvO"
-      },
-      "artists": [
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "Vengo De La Brea",
-      "url": "https://open.spotify.com/track/6ECKufSE72CsQUb3PRNYmq"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "A Veces (feat. Feid)",
-        "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191555,
-      "name": "A Veces (feat. Feid)",
-      "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Toda Guapa",
         "url": "https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2"
       },
@@ -1211,26 +1191,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "No Estoy",
-        "url": "https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL"
+        "name": "A Veces (feat. Feid)",
+        "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
       },
       "artists": [
         {
-          "name": "Despu\u00e9s de la fiesta",
-          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         },
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Akim 88",
-          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 113000,
-      "name": "No Estoy",
-      "url": "https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7"
+      "duration_ms": 191555,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1255,6 +1231,30 @@
       "duration_ms": 200337,
       "name": "Si Quieren Frontear",
       "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "No Estoy",
+        "url": "https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL"
+      },
+      "artists": [
+        {
+          "name": "Despu\u00e9s de la fiesta",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Akim 88",
+          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "No Estoy",
+      "url": "https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Hood (Remix)",
         "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 176372,
       "name": "Hood - Remix",
       "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Locura y Maldad",
+        "url": "https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Locura y Maldad",
+      "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
@@ -1483,34 +1499,6 @@
       "duration_ms": 168508,
       "name": "intoxicao",
       "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Los Malvekes",
-        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Simon la Letra",
-          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
-        },
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Los Malvekes",
-      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1571,6 +1559,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "DANCE CRIP",
+        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "FINALMENTE RICO",
         "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
       },
@@ -1587,6 +1591,34 @@
       "duration_ms": 187200,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/2RQsLucjZb02cKkz3s8NZ5"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Los Malvekes",
+        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Los Malvekes",
+      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1631,22 +1663,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "DANCE CRIP",
-        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Ganas de Verte",
         "url": "https://open.spotify.com/album/3TesP5MzNjC4SWoE48o7Vz"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 229728,
       "name": "Ganas de Verte",
       "url": "https://open.spotify.com/track/0nE78Bc5Azu5kWum01TmKR"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Locura y Maldad",
-        "url": "https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Locura y Maldad",
-      "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Welcome To My World",
+        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 207835,
+      "name": "Sin Seguro",
+      "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Prende la C\u00e1mara RMX",
         "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
       },
@@ -1767,26 +1787,6 @@
       "duration_ms": 201507,
       "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
       "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Welcome To My World",
-        "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 207835,
-      "name": "Sin Seguro",
-      "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Dale Mecha",
+        "url": "https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 150829,
+      "name": "Dale Mecha",
+      "url": "https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Felices x Siempre",
         "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
       },
@@ -1979,22 +1995,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Dale Mecha",
-        "url": "https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 150829,
-      "name": "Dale Mecha",
-      "url": "https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
       },
@@ -2067,18 +2067,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/63Evq6spRulb51uVevqui3"
+        "name": "cuatro veinte",
+        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 135463,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN"
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
     }
   ],
   "unique_name": "Flow al Sur",

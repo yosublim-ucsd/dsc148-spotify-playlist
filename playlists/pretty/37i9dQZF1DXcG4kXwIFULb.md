@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,786 likes - 100 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,964 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 57 | [Koop Island Blues](https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg) | [Koop](https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Koop Islands](https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc) | 4:32 |
 | 58 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
 | 59 | [No jive](https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu) | [De\-Phazz](https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN) | [Hôtel Costes](https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8) | 4:24 |
-| 60 | [Rodney Yates](https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW) | [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Let's Get Killed](https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1) | 6:24 |
-| 61 | [Don't Look Back](https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Angel Milk](https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E) | 3:50 |
+| 60 | [Don't Look Back](https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Angel Milk](https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E) | 3:50 |
+| 61 | [Rodney Yates](https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW) | [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Let's Get Killed](https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1) | 6:24 |
 | 62 | [Black Baby \(DJ\-KiCKS\)](https://open.spotify.com/track/13FO5ag4v62zedndUziMI7) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [DJ\-Kicks](https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53) | 6:20 |
-| 63 | [Slowly](https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Supermodified](https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra) | 5:37 |
+| 63 | [Lonely Soul](https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS) | 8:53 |
 | 64 | [Hey Now](https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:27 |
-| 65 | [Lonely Soul](https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS) | 8:53 |
+| 65 | [Slowly](https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Supermodified](https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra) | 5:37 |
 | 66 | [In The Bath](https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:41 |
 | 67 | [DUST](https://open.spotify.com/track/7AHaKrKuhzpl4xK0r2Jd9g) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Full Circle](https://open.spotify.com/album/71wCH1CJ7wh3kmPC3cQH71) | 4:38 |
 | 68 | [Relaxin' with cherry](https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 5:28 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 81 | [Time Is the Enemy](https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY) | 3:43 |
 | 82 | [Bittersweet Faith](https://open.spotify.com/track/3mjQWntZaTIysjKdQZWlgG) | [Bitter:Sweet](https://open.spotify.com/artist/28bLlI81wfpcHUSUPgktlx) | [The Mating Game](https://open.spotify.com/album/17FDgwgmO3tD7X7qX6m7Sy) | 4:19 |
 | 83 | [Recurring](https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 4:52 |
-| 84 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
-| 85 | [Melt \- Remastered](https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 5:12 |
+| 84 | [Melt \- Remastered](https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 5:12 |
+| 85 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
 | 86 | [Smile](https://open.spotify.com/track/6pw0Smtd6ydy5oywoqRXjY) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Genetic World](https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50) | 4:01 |
 | 87 | [Stars](https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K) | 6:59 |
 | 88 | [The Garden](https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5) | [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [The Audience's Listening \(U.S\. Version\)](https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi) | 6:15 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 94 | [The Hardest](https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl) | [Gasoline](https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp) | [Journey Into Abstract Hip Hop](https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1) | 4:02 |
 | 95 | [Part of the Process](https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 4:25 |
 | 96 | [Electric Lazyland](https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Electric Lazyland](https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9) | 5:52 |
-| 97 | [Before Today \- 2015 Remaster](https://open.spotify.com/track/5IDD5YsXUUZbM4Hty8RnOT) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded \(Deluxe Edition\)](https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5) | 4:17 |
-| 98 | [Angel Echoes](https://open.spotify.com/track/4ja4D4qcwGC5Zg1IwDWsIL) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr) | 3:59 |
+| 97 | [Angel Echoes](https://open.spotify.com/track/4ja4D4qcwGC5Zg1IwDWsIL) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr) | 3:59 |
+| 98 | [Before Today \- 2015 Remaster](https://open.spotify.com/track/5IDD5YsXUUZbM4Hty8RnOT) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded \(Deluxe Edition\)](https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5) | 4:17 |
 | 99 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
 | 100 | [Angelica](https://open.spotify.com/track/6CS1jZPGvrmLr3x9yQQDML) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness & Wonder](https://open.spotify.com/album/6upRap3KHfW2oaR1qrlf3p) | 3:44 |
 
-Snapshot ID: `MCw5NzRhOWVkYWE4Mzc1MDZhZDU1ZWVmNzFlZDNhNjFiM2VhZjE0ZGZm`
+Snapshot ID: `MCw5Y2FmNGJjMWJkNzczOWRjYzYxZDRmOTY4NDRjYjdiYzE4Mzg5MmZl`

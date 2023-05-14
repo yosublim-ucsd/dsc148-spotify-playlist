@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Alex Porat
 
-1,638 songs - 3 day 11 hr 21 min
+1,639 songs - 3 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [garden of devotion](https://open.spotify.com/track/2zNegAKuYFUovXpeSGrjfK) | [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [garden of devotion](https://open.spotify.com/album/1X1MVOluBxDGT8j3fvG2QY) | 3:04 | 2021-12-24 | 2022-01-15 |
 | [Garden On The Kitchen Floor](https://open.spotify.com/track/0OfyukXnVEUlPYCisGPda5) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Garden On The Kitchen Floor](https://open.spotify.com/album/3W527nPkx45Y4Bk49kbS2x) | 3:39 | 2022-06-17 | 2022-09-24 |
 | [Gemini](https://open.spotify.com/track/1krkdhVVnJWMVJPgsSod8H) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Gemini](https://open.spotify.com/album/7tR4JqtjMggHZFWi64rons) | 3:11 | 2022-05-20 | 2022-09-24 |
-| [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-05-27 |  |
+| [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-05-27 | 2023-05-14 |
 | [Get Better](https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Get Better](https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU) | 2:51 | 2023-04-22 |  |
 | [Get Happy \(NVDES Edit\) \[feat\. Blu DeTiger\]](https://open.spotify.com/track/2BwmVotuzB5dBokJzgeqLf) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Get Happy \(NVDES Edit\) \[feat\. Blu DeTiger\]](https://open.spotify.com/album/1eYHNv4azTXo1Gpzfe2OKl) | 2:55 | 2020-07-18 | 2021-05-28 |
 | [Get Him Away From Me](https://open.spotify.com/track/19V22p018Mt3sk6I95Xd5E) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Get Him Away From Me](https://open.spotify.com/album/4oa3dUC5H3hAe6moQ6hAY2) | 3:47 | 2022-04-15 | 2022-05-08 |
@@ -1055,6 +1055,7 @@
 | [Off Season](https://open.spotify.com/track/5idfBD8B8uTN0dDIoTkAhB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5tuM41hpJ7kDZo5Twts4TE) | 3:10 | 2022-11-04 | 2022-12-03 |
 | [Oh Please \- APRE Remix](https://open.spotify.com/track/0KAMo9j8CwDz4sLSkFeFF3) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Oh Please \(APRE Remix\)](https://open.spotify.com/album/5CNgptw1SOnGoNjc7JCeW9) | 3:36 | 2020-06-29 | 2021-05-27 |
 | [OH WELL](https://open.spotify.com/track/2sfYIKz3J8eZkBdTh25KyK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [OH WELL](https://open.spotify.com/album/2AGtYibeIFAnUVQadCVr16) | 2:54 | 2021-11-12 | 2022-07-02 |
+| [OK](https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [OK](https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V) | 4:23 | 2023-05-12 |  |
 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-10 | 2023-05-03 |
 | [Old Movies](https://open.spotify.com/track/3GuZKF9sG9DtI6aIsYCkgK) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Old Movies](https://open.spotify.com/album/2PkOrJql49WiBYdmnVxsiI) | 2:47 | 2023-02-03 | 2023-02-20 |
 | [Olivia](https://open.spotify.com/track/5B9RzNWxGMtSi5ippoDmSY) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Olivia](https://open.spotify.com/album/549bnGNWELv0hpPC1aydth) | 2:51 | 2022-02-11 | 2022-03-26 |

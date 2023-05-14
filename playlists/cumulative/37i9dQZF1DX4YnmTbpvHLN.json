@@ -1323,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Drifting Apart",
+        "url": "https://open.spotify.com/album/7DTe3QXy4XrjCmu3lQUFhU"
+      },
+      "artists": [
+        {
+          "name": "More than Jazz",
+          "url": "https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212144,
+      "name": "Drifting Apart",
+      "url": "https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E"
+    },
+    {
+      "album": {
         "name": "Duchesse",
         "url": "https://open.spotify.com/album/330hDxHxMjD4AOt5ZfWrud"
       },
@@ -1338,6 +1356,24 @@
       "duration_ms": 210500,
       "name": "Duchesse",
       "url": "https://open.spotify.com/track/7qwMwFHW4JBRXiKRBpFE13"
+    },
+    {
+      "album": {
+        "name": "Ducks for cover",
+        "url": "https://open.spotify.com/album/4sbUuCDayRl0uaF92eUquz"
+      },
+      "artists": [
+        {
+          "name": "Reuben Plays",
+          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160589,
+      "name": "Ducks for cover",
+      "url": "https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc"
     },
     {
       "album": {
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 256170,
       "name": "I've Grown Accustomed To Your Face",
       "url": "https://open.spotify.com/track/6tjpdYez3LQQnwNOWmHe6I"
@@ -2782,6 +2818,24 @@
       "duration_ms": 211398,
       "name": "Lemon Tart",
       "url": "https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB"
+    },
+    {
+      "album": {
+        "name": "Lesters's Tears",
+        "url": "https://open.spotify.com/album/4QV6IWuWigFnh8XXrPyMRX"
+      },
+      "artists": [
+        {
+          "name": "Tadd Norman",
+          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232521,
+      "name": "Lesters's Tears",
+      "url": "https://open.spotify.com/track/4h4NyGcAmkInin8wNidCfS"
     },
     {
       "album": {
@@ -4737,6 +4791,24 @@
     },
     {
       "album": {
+        "name": "The Beat Of A Different Drum",
+        "url": "https://open.spotify.com/album/1NSbnYV7dQaSqSeodWJHxA"
+      },
+      "artists": [
+        {
+          "name": "Billy Hicks Quartet",
+          "url": "https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203030,
+      "name": "The Beat Of A Different Drum",
+      "url": "https://open.spotify.com/track/67ljrdF7u8X2xbj4zgkPDQ"
+    },
+    {
+      "album": {
         "name": "The Beauty of Everyday Things",
         "url": "https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk"
       },
@@ -4982,7 +5054,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 335029,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/7l4tE0xjccA4ZLl8pDOJ83"
@@ -5054,7 +5126,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 247448,
       "name": "This Can't Be Love",
       "url": "https://open.spotify.com/track/3KzQ6gEGrlhgIGbtglw0UK"
@@ -5198,7 +5270,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 263059,
       "name": "Turn Out The Stars",
       "url": "https://open.spotify.com/track/15zfQfeiejDgAA8MAc7S8d"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW?si=4a5915da17984cd0">The Young Escape</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,537 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,617 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 17 | [Penicillin \(feat\. City James\)](https://open.spotify.com/track/2Ug5m7UNr9dPg1qt7eddeu) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [City James](https://open.spotify.com/artist/3ozF8iFAzukd7ZyWuPDOKd) | [Penicillin](https://open.spotify.com/album/0Myd89m5VTOWwX1jlo6MGh) | 2:43 |
 | 18 | [Home Run](https://open.spotify.com/track/7bVntlUojdXbL2D5Fy1evL) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Home Run](https://open.spotify.com/album/7CEv7TCvpA6pOxycxQYDod) | 2:40 |
 | 19 | [God's Timing](https://open.spotify.com/track/69g3s6EQ9IlLsD09m65SKF) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ) | [God's Timing](https://open.spotify.com/album/6e2zXZQKCwkTAh4E0erSbE) | 3:13 |
-| 20 | [Jesus Rags](https://open.spotify.com/track/7rd5ob8pToHcw1V401haNQ) | [Larell](https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw) | [Jesus Rags](https://open.spotify.com/album/5EQKcXSgIdr93IvS1FoRJg) | 3:02 |
+| 20 | [Jesus Rags](https://open.spotify.com/track/7rd5ob8pToHcw1V401haNQ) | [Larell](https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw), [Joe.wit.da.HolyGhost](https://open.spotify.com/artist/701Zqd6GThvujXqDAcku4C) | [Jesus Rags](https://open.spotify.com/album/5EQKcXSgIdr93IvS1FoRJg) | 3:02 |
 | 21 | [Never Be The Same](https://open.spotify.com/track/7pnnkNHTGpzbkZgI8168jf) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1), [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Never Be The Same](https://open.spotify.com/album/7MOrHpPEEOtt5ctS4Onqzi) | 4:34 |
 | 22 | [DWTD](https://open.spotify.com/track/3DdqIus5JDtXuhe2QbinWx) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [DWTD](https://open.spotify.com/album/0YlNn18dY1enif6cPiFb8z) | 2:09 |
 | 23 | [All Comes Around](https://open.spotify.com/track/7KLJpJGm2HZbVNXK0xayDy) | [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [All Comes Around](https://open.spotify.com/album/1ilyXtDQQYnaoR9OFONd2w) | 3:19 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 47 | [Changing Me](https://open.spotify.com/track/44mEjNd78MYDlUrj5h5Hb3) | [Alisha Quinonez](https://open.spotify.com/artist/6QrruJcuTbmHWCZNxvnJR8) | [Changing Me](https://open.spotify.com/album/3vT9lyO51QFrK9sazHIfxN) | 3:54 |
 | 48 | [a thousand shores \- acoustic](https://open.spotify.com/track/3ntWYBpmifeLpuKcXpMzqd) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [a thousand shores \(acoustic\)](https://open.spotify.com/album/1OxvweA208aeNJ1lN51Gmg) | 4:19 |
 | 49 | [Light of the World \(Live\)](https://open.spotify.com/track/19Yx4sz0ds5SwqprQts8XU) | [AOH Music](https://open.spotify.com/artist/1llt760POSmdKmBFiMaz3m) | [Live at Ocean Way Nashville](https://open.spotify.com/album/0291LlUOG4TfSJWy3Ra0EP) | 4:39 |
-| 50 | [All Who Are Thirsty \- Live](https://open.spotify.com/track/1LdMyCUtn7HAkcGttxWnTm) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Violet Alexandria](https://open.spotify.com/artist/0MSzQT8hJEodUYPCenA8l7), [Dudu Vieira](https://open.spotify.com/artist/60BdsJKAzumdinJPfzEVNs) | [All Who Are Thirsty](https://open.spotify.com/album/1Y5vRIGWGnZCkU6Z4mPyzC) | 6:06 |
+| 50 | [All Who Are Thirsty \- Live](https://open.spotify.com/track/1LdMyCUtn7HAkcGttxWnTm) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Music](https://open.spotify.com/artist/7bQI3UixtV9eyWbULv7FFo), [Violet Alexandria](https://open.spotify.com/artist/0MSzQT8hJEodUYPCenA8l7), [Dudu Vieira](https://open.spotify.com/artist/60BdsJKAzumdinJPfzEVNs) | [All Who Are Thirsty](https://open.spotify.com/album/1Y5vRIGWGnZCkU6Z4mPyzC) | 6:06 |
 | 51 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/7DSeaP4O6ZD32JTBDnI6ws) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/4aQNv1K6KhHISTxppZ84DC) | 4:09 |
 | 52 | [Gratitude](https://open.spotify.com/track/1oFih1p75n4FyavFySqw37) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Gratitude](https://open.spotify.com/album/1h2jjf67nocv6CEBCFSSlU) | 4:01 |
 | 53 | [Just Like Them](https://open.spotify.com/track/3KFPbi8UnaWOcmC5TKx1ZI) | [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Where The Winter Was](https://open.spotify.com/album/5aHds2df6eKrOirRI9895D) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [less is more](https://open.spotify.com/track/6LtfBO4j0drKRguNyuIR5r) | [Gaetan Judd](https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc) | [upperroom](https://open.spotify.com/album/3znNeJteM16vHwOsgnIbK3) | 2:32 |
 | 100 | [pure](https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [pure](https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0) | 5:56 |
 
-Snapshot ID: `MCw2MzNhMzQ0NmVhNzg4OTNhYmRlZWRmNDQwNzkzM2M2ZjBiYjVkNTBh`
+Snapshot ID: `MCw5NDM4OTMxNjA0Nzg2MGJjNDRmNjllZWVjMmY0YjBhZWI0YzBlY2M2`

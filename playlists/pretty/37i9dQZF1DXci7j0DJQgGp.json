@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1806466,
+  "num_followers": 1806501,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODBmODZiYzgwMDQ0MjZmMTFkNGM4OGZlZDVkYWQyZDliMTk1MzUy",
+  "snapshot_id": "MCw1ZWEyMGI3ZDk3YTU4OGNjOWIxOGU3ZTMxYzRjMjZhYjFkY2VhY2Q3",
   "tracks": [
     {
       "added_at": "2023-03-28 20:19:12",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "McKenzie",
-      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "McKenzie",
+      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Asc. Scorpio",
+        "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 166601,
+      "name": "Asc. Scorpio",
+      "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Bonny Light Horseman",
         "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Asc. Scorpio",
-        "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 166601,
-      "name": "Asc. Scorpio",
-      "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -639,18 +655,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+        "name": "Only Time",
+        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
         }
       ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+      "duration_ms": 178546,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -679,22 +695,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Only Time",
-        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
-      },
-      "artists": [
-        {
-          "name": "Aaron Espe",
-          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "River Fools & Mountain Saints",
         "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Motel Mayday",
         "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 223160,
       "name": "Stolen Love",
       "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "We've Been Going About This All Wrong",
         "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 239146,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 266756,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "GPS (w/ Felly)",
+        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 168316,
+      "name": "GPS (w/ Felly)",
+      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "GPS (w/ Felly)",
-        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        },
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 168316,
-      "name": "GPS (w/ Felly)",
-      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
         }
       ],
-      "duration_ms": 205905,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 216026,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/6ZVVax9sMTB6HPKu36eYZs"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 205905,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Projections",
-        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 149422,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "I Don\u2019t Live Here Anymore",
         "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 293866,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Projections",
+        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 149422,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Sad Disco (Pine Studios)",
-        "url": "https://open.spotify.com/album/0npdPWUNkxbMyPFa1rcb2X"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 227486,
-      "name": "Sad Disco (Pine Studios)",
-      "url": "https://open.spotify.com/track/2DuhJLdMNSskrd2KF8SRMr"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Up Granville",
         "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 230747,
       "name": "Up Granville",
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Sad Disco (Pine Studios)",
+        "url": "https://open.spotify.com/album/0npdPWUNkxbMyPFa1rcb2X"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 227486,
+      "name": "Sad Disco (Pine Studios)",
+      "url": "https://open.spotify.com/track/2DuhJLdMNSskrd2KF8SRMr"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 157801,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/6xLf6gcZR4CPXrFrhzqqYu"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 217946,
       "name": "Faith",
       "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 157801,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/6xLf6gcZR4CPXrFrhzqqYu"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Inside Problems",
-        "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Make a Picture",
-      "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Weatherman",
         "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 211509,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Inside Problems",
+        "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Make a Picture",
+      "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

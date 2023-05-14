@@ -5573,6 +5573,24 @@
     },
     {
       "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178451,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc"
+    },
+    {
+      "album": {
         "name": "Fairytale Frequency",
         "url": "https://open.spotify.com/album/2RbCaNWmCTsUrYuchl4w8e"
       },
@@ -9282,7 +9300,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 210585,
       "name": "Junglist",
       "url": "https://open.spotify.com/track/40E2w7AGNUFx4roieo6ekh"
@@ -9892,7 +9910,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 165600,
       "name": "Lento",
       "url": "https://open.spotify.com/track/1OMRAjaY0XN5MUxQ3p3KOY"
@@ -19336,6 +19354,24 @@
       "duration_ms": 226745,
       "name": "Thrill Seeker",
       "url": "https://open.spotify.com/track/0aImqoSegIewvO67JpSjVP"
+    },
+    {
+      "album": {
+        "name": "Throw Your Hands",
+        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191408,
+      "name": "Throw Your Hands",
+      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
     },
     {
       "album": {

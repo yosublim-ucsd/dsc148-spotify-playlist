@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,166 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,217 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 11 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
 | 12 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 |
 | 13 | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K) | 2:53 |
-| 14 | [King Snipe](https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [King Snipe](https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7) | 3:34 |
-| 15 | [Calling My Spirit](https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:32 |
+| 14 | [Calling My Spirit](https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:32 |
+| 15 | [King Snipe](https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [King Snipe](https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7) | 3:34 |
 | 16 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf) | 2:35 |
 | 17 | [Tunnel Vision](https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 4:28 |
 | 18 | [Heart Mind](https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [FEMA \(Finesse Elevate Motivate Achieve\)](https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0) | 3:23 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 48 | [I Can’t Sleep](https://open.spotify.com/track/1hHJaam6wi4WJPDTaiLNyP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:25 |
 | 49 | [Day for Day](https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 2:48 |
 | 50 | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv) | 4:09 |
-| 51 | [IT AIN'T SAFE \(feat\. Nardo Wick & Kodak Black\)](https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:50 |
+| 51 | [Shake Back](https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:03 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDBiMDdlYmE1YjMwMTEyNGFlNGJlYThlZmQwMTUwMWJkNw==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDAxMzI1Yzk4MTViOGRhNmQzMzlhYWMyODY1ZmI5NWZjZg==`

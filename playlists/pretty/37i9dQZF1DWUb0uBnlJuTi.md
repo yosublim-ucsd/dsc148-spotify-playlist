@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,362 likes - 200 songs - 15 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,631 likes - 200 songs - 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 3 | [Sign Of The Times \(Single Version\)](https://open.spotify.com/track/2k2eu1Qa8v34MOhHi849YA) | [Billy Valentine](https://open.spotify.com/artist/4AYoCwXHaaxeaM8DtzP3zg), [The Universal Truth](https://open.spotify.com/artist/1ZD9NNLJlXTgjjolh9M6cK), [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Sign of the Times](https://open.spotify.com/album/5QbqH2ZI7OxlYzumfPMHzK) | 4:14 |
 | 4 | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP) | [Reginald Chapman](https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB), [Kenneka Cook](https://open.spotify.com/artist/1SdMrNeKvyntOu9edUG4Zo), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK), [Tennishu](https://open.spotify.com/artist/4SNZv6dF06QGC335mAsXeg), [R4nd4zzo](https://open.spotify.com/artist/4TaM7yPjrpK39ZozZDP7tA), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/album/59I04ZfQXvABeo3Q99ZjP0) | 4:13 |
 | 5 | [Youngstown 4](https://open.spotify.com/track/0KYwUNSSE7Sm0rOzWRYrR1) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon the Soulful Samurai](https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp), [Nicholas Frank](https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH), [Antonio Labra](https://open.spotify.com/artist/27zwBTNwuN786OvS6BpzD4), [Thomas Russell](https://open.spotify.com/artist/68xOAUse5cObr1No8jPoel), [Drehova](https://open.spotify.com/artist/2WYpO40KD8lWY8YAC7L4DO) | [Youngstown 4](https://open.spotify.com/album/07xTRshgnOw1YBJgzHTsIi) | 2:21 |
-| 6 | [Not Here / Not Now](https://open.spotify.com/track/7fopfIiFlzdFIdHwqtNsIG) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Not Here / Not Now](https://open.spotify.com/album/0pO4nHmz5vGINmvO31sE5N) | 4:15 |
+| 6 | [Not Here / Not Now](https://open.spotify.com/track/7fopfIiFlzdFIdHwqtNsIG) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Not Here / Not Now](https://open.spotify.com/album/0pO4nHmz5vGINmvO31sE5N) | 4:15 |
 | 7 | [Regular](https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy) | [Wax](https://open.spotify.com/artist/72STzMOsaKlMfOWis0NzXT) | [MOLLO](https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD) | 4:15 |
 | 8 | [Is This Jazz?](https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Is This Jazz?](https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8) | 3:01 |
 | 9 | [Why?](https://open.spotify.com/track/6nIueLCyNxBUM941WQ2v7l) | [Jonas Wall](https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo), [Umbaji](https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz) | [Why?](https://open.spotify.com/album/3JmS19rIU04H05i02H6YsZ) | 4:18 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [Mars Blues](https://open.spotify.com/track/6KDen8FE1Cw8Rr0VAuiRwj) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Corydrums](https://open.spotify.com/artist/3LU0lAD1W7SbzLnzeYudtJ) | [Mars Blues](https://open.spotify.com/album/1AbmpVcRmp1qeEiMNLqMqo) | 3:50 |
 
-Snapshot ID: `MCwwOWFhZDE2ODE4NzA0NGFkMWVjNTliYzMxYzNhMGI2ZWVhY2IzMGEz`
+Snapshot ID: `MCxkMTJhYzU3OGRlNTc4NmJkMDI5NGM2NmRjMTU4ZmI4MmQ3NWYzYTZm`

@@ -744,7 +744,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 219184,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/1Cxd4ZJJ9VOQQpNcpdcZEQ"
@@ -3916,6 +3916,32 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "album": {
+        "name": "VAGABUNDO",
+        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "VAGABUNDO",
+      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
     },
     {
       "album": {

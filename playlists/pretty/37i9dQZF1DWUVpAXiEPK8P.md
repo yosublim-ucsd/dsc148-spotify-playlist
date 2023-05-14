@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,218,924 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,219,380 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 26 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 |
 | 27 | [Wants and Needs \(feat\. Lil Baby\)](https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 3:12 |
 | 28 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 |
-| 29 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
+| 29 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 |
 | 30 | [Dat Way \(Remix\) \[feat\. Abra Cadabra, Backroad Gee, French Montana, Clavish, Beenie Man, Pa Salieu, Bandokay, Double Lz, K\-Trap & DoRoad\]](https://open.spotify.com/track/7rKJYIBkj1AJyGpiDwUo3H) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [DoRoad](https://open.spotify.com/artist/3E9T01xr1C6waIXZKe1vju), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Dat Way \(Remix\) \[feat\. Abra Cadabra, Backroad Gee, French Montana, Clavish, Beenie Man, Pa Salieu, Bandokay, Double Lz, K\-Trap & DoRoad\]](https://open.spotify.com/album/6H7ndcY9LUys2h4MczxSNt) | 4:59 |
-| 31 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 |
+| 31 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
 | 32 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 |
 | 33 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 |
 | 34 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 49 | [Hello \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:10 |
 | 50 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 |
 
-Snapshot ID: `MCw4YTQ1YWMzMTI1MjVhZDA4OGUxYmEzMGNkNGI3Mjk2ODdmMTJjZWU3`
+Snapshot ID: `MCxkMTUyZjU0MzAxNTRkY2M4YmFkZTdmZGU3ZDhlODAwMDI4MzBiNjFi`

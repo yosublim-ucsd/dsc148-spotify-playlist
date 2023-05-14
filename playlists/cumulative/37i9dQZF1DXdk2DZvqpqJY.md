@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-358 songs - 22 hr 20 min
+359 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Grey Life](https://open.spotify.com/track/7mboIxKtkeuIOHwNEAVSZR) | [Braccus Beats](https://open.spotify.com/artist/04xlOQaGOCK5eYoinzCPqm), [TTechmak](https://open.spotify.com/artist/7BpxyVfC8cscZ1JKB48tP2) | [Grey Life](https://open.spotify.com/album/4VtzLzkxLPZGwrCpbs6jug) | 1:57 | 2022-06-02 | 2022-10-07 |
 | [Happiness](https://open.spotify.com/track/3dyNc3TbcaGcmLrQuk4Hls) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Happiness](https://open.spotify.com/album/4QmRHhICo301Jue6KX2IVU) | 1:40 | 2022-06-02 | 2022-08-12 |
 | [Have You Seen Me Lately](https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp) | 2:11 | 2023-05-04 |  |
-| [Heaven Sent You](https://open.spotify.com/track/0oucU7y8EaRo6PbBHIaAdt) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:14 | 2023-05-04 |  |
+| [Heaven Sent You](https://open.spotify.com/track/0oucU7y8EaRo6PbBHIaAdt) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:14 | 2023-05-04 | 2023-05-14 |
 | [Hey Ye Ye Yeah \- Slow](https://open.spotify.com/track/5h97Md9cmCNB80k2fHnFT3) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Hey Ye Ye Yeah \(Slow\)](https://open.spotify.com/album/5vvATIEeqF3VXPHRsDiTfG) | 2:51 | 2022-11-17 | 2023-01-12 |
 | [Hometown Again](https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Hometown Again](https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG) | 4:35 | 2023-03-20 |  |
 | [Horizon](https://open.spotify.com/track/4LozgbXR8jUiDkcySk7x1F) | [The Golden Eternity](https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu) | [Horizon](https://open.spotify.com/album/09jbzo4JUhVIf3j0W6WZ9Q) | 3:24 | 2022-04-22 | 2022-06-03 |
@@ -270,6 +270,7 @@
 | [Soliloquy](https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Soliloquy](https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34) | 2:23 | 2023-05-04 |  |
 | [Solitaire](https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Solitaire](https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw) | 3:31 | 2023-03-20 |  |
 | [Someone Elses Love](https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love](https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv) | 3:43 | 2023-03-20 |  |
+| [Something about him](https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Something about him](https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx) | 2:40 | 2023-05-11 |  |
 | [Somewhere Different](https://open.spotify.com/track/1YEgbaYU0j5H9QiiQ1kTf8) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Somewhere Different](https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6) | 5:21 | 2022-02-17 | 2022-09-09 |
 | [Son Of Emmerson](https://open.spotify.com/track/1rMV78kBNDG4vOE9IeokKh) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [Son Of Emmerson](https://open.spotify.com/album/0XkagDDZPT7ACptJdHWjhl) | 3:44 | 2022-02-17 | 2023-03-21 |
 | [Sonar](https://open.spotify.com/track/3jMcbuJtv23bhYf6WkCUA1) | [Electric Kif](https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn) | [Dreamlike](https://open.spotify.com/album/5BbnWktlDfoI6R54k16r2o) | 4:18 | 2022-02-17 | 2022-04-23 |

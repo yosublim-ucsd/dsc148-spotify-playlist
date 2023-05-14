@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? Cover:\bONEUS(\uc6d0\uc5b4\uc2a4) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 812112,
+  "num_followers": 812299,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGU2NTE5ZTY5OTE2YThiOTY4NDNiODNlMjlmODRmNTg2MjI2MWRh",
+  "snapshot_id": "MCw2MzI0NmY1MWI1NzllYmIzZmQxZGY5ZDA5YWM3YmI1ODhiMTViNzky",
   "tracks": [
     {
       "added_at": "2023-05-09 06:12:58",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-05-09 06:12:58",
       "album": {
-        "name": "MAXIDENT",
-        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 191964,
-      "name": "CASE 143",
-      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
-    },
-    {
-      "added_at": "2023-05-09 06:12:58",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -247,8 +231,24 @@
     {
       "added_at": "2023-05-09 06:12:58",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 191964,
+      "name": "CASE 143",
+      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
+    },
+    {
+      "added_at": "2023-05-09 06:12:58",
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 193260,
-      "name": "Drunk-Dazed",
-      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+      "duration_ms": 184601,
+      "name": "Polaroid Love",
+      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
       "added_at": "2023-05-09 06:12:58",
@@ -327,18 +327,22 @@
     {
       "added_at": "2023-05-09 06:12:58",
       "album": {
-        "name": "GO LIVE",
-        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 167922,
-      "name": "God\u2019s Menu",
-      "url": "https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy"
+      "duration_ms": 229773,
+      "name": "Boy With Luv (feat. Halsey)",
+      "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
     },
     {
       "added_at": "2023-05-09 06:12:58",
@@ -391,28 +395,8 @@
     {
       "added_at": "2023-05-09 06:12:58",
       "album": {
-        "name": "MAP OF THE SOUL : PERSONA",
-        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Boy With Luv (feat. Halsey)",
-      "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
-    },
-    {
-      "added_at": "2023-05-09 06:12:58",
-      "album": {
-        "name": "DIMENSION : ANSWER",
-        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
       "artists": [
         {
@@ -420,9 +404,25 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 184601,
-      "name": "Polaroid Love",
-      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
+      "duration_ms": 193260,
+      "name": "Drunk-Dazed",
+      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+    },
+    {
+      "added_at": "2023-05-09 06:12:58",
+      "album": {
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 167922,
+      "name": "God\u2019s Menu",
+      "url": "https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy"
     },
     {
       "added_at": "2023-05-09 06:12:58",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-05-09 06:12:58",
       "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Thunderous",
-      "url": "https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt"
+      "duration_ms": 207481,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
     },
     {
       "added_at": "2023-05-09 06:12:58",
@@ -523,24 +523,8 @@
     {
       "added_at": "2023-05-09 06:12:58",
       "album": {
-        "name": "IN LIFE",
-        "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 189286,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F"
-    },
-    {
-      "added_at": "2023-05-09 06:12:58",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+        "name": "Love Yourself \u8f49 'Tear'",
+        "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
       },
       "artists": [
         {
@@ -548,9 +532,25 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 207481,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
+      "duration_ms": 242333,
+      "name": "FAKE LOVE",
+      "url": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR"
+    },
+    {
+      "added_at": "2023-05-09 06:12:58",
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
     },
     {
       "added_at": "2023-05-09 06:12:58",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-05-09 06:12:58",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 172106,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
+      "duration_ms": 183266,
+      "name": "Thunderous",
+      "url": "https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt"
     },
     {
       "added_at": "2023-05-09 06:12:58",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-05-09 06:12:58",
       "album": {
-        "name": "Love Yourself \u8f49 'Tear'",
-        "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 242333,
-      "name": "FAKE LOVE",
-      "url": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR"
+      "duration_ms": 180750,
+      "name": "Future Perfect (Pass the MIC)",
+      "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
     },
     {
       "added_at": "2023-05-09 06:12:58",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-05-09 06:12:58",
       "album": {
+        "name": "IN LIFE",
+        "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 189286,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F"
+    },
+    {
+      "added_at": "2023-05-09 06:12:58",
+      "album": {
         "name": "Love&Letter repackage album",
         "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
       },
@@ -747,8 +763,8 @@
     {
       "added_at": "2023-05-09 06:12:58",
       "album": {
-        "name": "MANIFESTO : DAY 1",
-        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 180750,
-      "name": "Future Perfect (Pass the MIC)",
-      "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
+      "duration_ms": 183090,
+      "name": "Given-Taken",
+      "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
     },
     {
       "added_at": "2023-05-09 06:12:58",
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-05-09 06:12:58",
       "album": {
-        "name": "REASON",
-        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
-      },
-      "artists": [
-        {
-          "name": "MONSTA X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        }
-      ],
-      "duration_ms": 183120,
-      "name": "Beautiful Liar",
-      "url": "https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ"
-    },
-    {
-      "added_at": "2023-05-09 06:12:58",
-      "album": {
         "name": "ZERO : FEVER Part.3",
         "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-05-09 06:12:58",
       "album": {
-        "name": "SEVENTEEN 4th Mini Album \u2018Al1\u2019",
-        "url": "https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I"
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
-      "duration_ms": 203426,
-      "name": "Don't Wanna Cry",
-      "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
+      "duration_ms": 183120,
+      "name": "Beautiful Liar",
+      "url": "https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ"
     }
   ],
   "unique_name": "Hallyu Boy Bands",

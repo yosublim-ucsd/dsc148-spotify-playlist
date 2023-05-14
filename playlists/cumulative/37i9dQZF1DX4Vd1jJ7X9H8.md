@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff.
 
-413 songs - 1 day 0 hr 35 min
+414 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 | 2020-12-31 |  |
 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 | 2022-05-31 |  |
 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 | 2023-03-17 |  |
-| [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 | 2021-06-25 |  |
+| [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 | 2021-06-25 | 2023-05-14 |
 | [EARFQUAKE \- Channel Tres Remix](https://open.spotify.com/track/6tgknDU0VMbXILuWixFKKn) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [EARFQUAKE \(Channel Tres Remix\)](https://open.spotify.com/album/2gIJO0RLORaeRCT9G1E52V) | 3:48 | 2020-12-31 | 2022-06-03 |
 | [Ecstasy](https://open.spotify.com/track/4N42Ta28mOYeiyMlypgCTK) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Ecstasy](https://open.spotify.com/album/5Hrkn1HmX82KNlTbsUUweN) | 2:27 | 2020-12-31 | 2022-07-29 |
 | [Ecstasy](https://open.spotify.com/track/5ICUko5tff4xEdS4DdnODT) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Vibe Creator](https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU) | 2:27 | 2022-09-26 |  |
@@ -121,6 +121,7 @@
 | [Electric U](https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Electric U](https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY) | 2:51 | 2022-09-26 |  |
 | [Electric U](https://open.spotify.com/track/4efHJDBcmhJYs8n9hJcVC8) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Electric U](https://open.spotify.com/album/6VR3JKdOuR1tuMFQl7NgRv) | 2:51 | 2022-08-11 | 2022-10-14 |
 | [Electric U](https://open.spotify.com/track/4yEw9bcmDHgIgqe8BCyDWy) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Electric U](https://open.spotify.com/album/6P3BHKJIAhYqpTc7UXKQ2I) | 2:51 | 2022-09-26 | 2022-12-11 |
+| [Elevator](https://open.spotify.com/track/0Is2tnxZ7c7tnsrXCdBZZO) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [The Lowdown](https://open.spotify.com/album/6Dw27aR49vN78UE9C5pPlf) | 4:01 | 2023-05-04 |  |
 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2023-04-21 | 2023-05-05 |
 | [Eternal Light](https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:13 | 2022-05-31 | 2023-05-05 |
 | [Everything Eventually Ends](https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Everything Eventually Ends](https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4) | 2:57 | 2022-10-24 |  |

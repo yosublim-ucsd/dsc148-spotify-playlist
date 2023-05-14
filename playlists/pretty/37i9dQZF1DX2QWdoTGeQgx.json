@@ -1,12 +1,12 @@
 {
   "description": "Chill out. ",
-  "num_followers": 45251,
+  "num_followers": 45280,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODU1MmVlNGE0ODI1OTdjYTYyNjc0MzJlN2I4NjY2YzRhMTU3NmI2",
+  "snapshot_id": "MCxiMjQ2NjMwMzVmMGU2NDQxOWVlZDQ2MWZmNzYyMjQzMmRmNTBkNTJk",
   "tracks": [
     {
       "added_at": "2023-04-20 15:55:01",
@@ -239,8 +239,8 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "confidence in me",
-        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
         }
       ],
-      "duration_ms": 162151,
-      "name": "confidence in me",
-      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
+      "duration_ms": 172500,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -371,8 +371,8 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
+        "name": "confidence in me",
+        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
+      "duration_ms": 162151,
+      "name": "confidence in me",
+      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "dear me,",
-        "url": "https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl"
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "babychair",
+          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
         }
       ],
-      "duration_ms": 165967,
-      "name": "dear me,",
-      "url": "https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA"
+      "duration_ms": 205552,
+      "name": "Oh It's You",
+      "url": "https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "dear me,",
+        "url": "https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 165967,
+      "name": "dear me,",
+      "url": "https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "One Last Dance (feat. Milky Day)",
         "url": "https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 173308,
       "name": "One Last Dance (feat. Milky Day)",
       "url": "https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a"
-      },
-      "artists": [
-        {
-          "name": "babychair",
-          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
-        }
-      ],
-      "duration_ms": 205552,
-      "name": "Oh It's You",
-      "url": "https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
-      },
-      "artists": [
-        {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Old Love (Stripped)",
         "url": "https://open.spotify.com/album/3PZ2XdG3dVMamV6E7Dr1KU"
       },
@@ -591,34 +575,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "I Wouldn't Know Any Better Than You",
-        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
+        "name": "Like All My Friends",
+        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
         }
       ],
-      "duration_ms": 151041,
-      "name": "I Wouldn't Know Any Better Than You",
-      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Other Half",
-        "url": "https://open.spotify.com/album/72D3xzjyFXqw0006YxcEOv"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 215647,
-      "name": "Other Half",
-      "url": "https://open.spotify.com/track/2gCh5vjwMIRldOwvXby3Qy"
+      "duration_ms": 187918,
+      "name": "Like All My Friends",
+      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -647,6 +615,38 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Other Half",
+        "url": "https://open.spotify.com/album/72D3xzjyFXqw0006YxcEOv"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 215647,
+      "name": "Other Half",
+      "url": "https://open.spotify.com/track/2gCh5vjwMIRldOwvXby3Qy"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "I Wouldn't Know Any Better Than You",
+        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 151041,
+      "name": "I Wouldn't Know Any Better Than You",
+      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Shouldn't Have To Run",
-        "url": "https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        },
-        {
-          "name": "Joie Tan",
-          "url": "https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd"
-        }
-      ],
-      "duration_ms": 165971,
-      "name": "Shouldn't Have To Run",
-      "url": "https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Bedroom (feat. Anne-Marie)",
         "url": "https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 183360,
       "name": "solo",
       "url": "https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Shouldn't Have To Run",
+        "url": "https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "Joie Tan",
+          "url": "https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd"
+        }
+      ],
+      "duration_ms": 165971,
+      "name": "Shouldn't Have To Run",
+      "url": "https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk"
     },
     {
       "added_at": "2023-04-20 15:55:01",

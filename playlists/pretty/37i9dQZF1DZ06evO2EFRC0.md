@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,587 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,606 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 31 | [Si puedes creer](https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 6:11 |
 | 32 | [Heme Aquí](https://open.spotify.com/track/6pcohutNG4zaMCw5UKM4Oh) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 4:00 |
 | 33 | [A Ti](https://open.spotify.com/track/0c6NEpsdc4nvAI93IFWTxI) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Poderoso](https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9) | 4:20 |
-| 34 | [Sananos](https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 6:52 |
-| 35 | [Hermoso \(feat\. Coalo Zamorano\)](https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:35 |
-| 36 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO) | 6:50 |
+| 34 | [Hermoso \(feat\. Coalo Zamorano\)](https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:35 |
+| 35 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO) | 6:50 |
+| 36 | [Sananos](https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 6:52 |
 | 37 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 |
 | 38 | [A Ti & Temprano Yo Te Buscaré \(feat\. Marcos Witt\)](https://open.spotify.com/track/1o733VX6GW0U6mPlYx4deP) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ayer y Hoy](https://open.spotify.com/album/7svEhoIUz5fCkt6IXhcAsc) | 6:02 |
 | 39 | [Quiero Levantar mis Manos](https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 49 | [Jesús salva \(feat\. Un Corazón\)](https://open.spotify.com/track/2bTmFo7fvZ3zgxPTqTk1T1) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 6:29 |
 | 50 | [Dios De Pactos](https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Dios de Pactos](https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR) | 10:51 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDAyMzQ1Y2Y0ZjFkMzNiYTMxMDI2NGNjNGFhNTViZWUxZg==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA1OTkxMjA4NTgyNDlmM2ZmNmM0NWE5MjQyYWJhZGYyMg==`

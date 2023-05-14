@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 
 > Instant classics from over the years loaded into one sweet mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,882,720 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,883,299 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 | 49 | [The Story](https://open.spotify.com/track/0EKBV6GybPtALXUgWqWrym) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:58 |
 | 50 | [100 Years](https://open.spotify.com/track/2lFlveK1y13WWp3vnQtrr3) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [The Battle for Everything](https://open.spotify.com/album/6RWEJvVwr8aCQfRchRhjMq) | 4:04 |
 
-Snapshot ID: `MCw1ZDMxZmEwMzQzOTQ4YzU2MTYyOTdhNGM4NzM2ZDkzZDBiZGM0MGM1`
+Snapshot ID: `MCw3NzIyZDZlY2M5ZmI4MjJmMjFjYTVjZTcxMWZmMWE0ZmZhYWI1YmRm`

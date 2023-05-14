@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Hevo 84
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,039 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,036 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 |
 | 75 | [3x4](https://open.spotify.com/track/1yJoc6Njyss9p4dV3uVVqB) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [3x4](https://open.spotify.com/album/0RLW1QCz5QJf7TsbTBpbtW) | 4:07 |
 
-Snapshot ID: `MCxjMzllYTJlNzUyNjk5ODdiZGU2NjkyYjU4YTkyMWNmZTRhZjcxN2I1`
+Snapshot ID: `MCwwYjAwMWUxMzM1MmQ2OWI3YTUwOGIyZWFmY2VlZGNjMmI3MmE0NjQ5`

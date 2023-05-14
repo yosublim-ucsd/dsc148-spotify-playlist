@@ -4,7 +4,7 @@
 
 > For those whose year was full of angst and anger \#SpotifyWrapped
 
-57 songs - 2 hr 45 min
+58 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [just wanna rock \- Sped Up Version](https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [just wanna rock \(Lil Uzi Vert\) \[Sped Up Version\]](https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji) | 1:40 | 2022-11-30 |  |
 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 | 2022-11-30 |  |
 | [Loser](https://open.spotify.com/track/01VbCa15MmvNg3KMOfoHa2) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:13 | 2022-11-30 |  |
-| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-11-30 |  |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-11-30 | 2023-05-14 |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2022-11-30 |  |
 | [madhouse](https://open.spotify.com/track/1s9e1EBT6eYbDOneeBB6r0) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:05 | 2022-11-30 |  |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 | 2022-11-30 |  |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-11-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,740 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,756 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 21 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
 | 22 | [let’s play tug](https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [let’s play tug](https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR) | 2:46 |
 | 23 | [Star](https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 3:20 |
-| 24 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 |
+| 24 | [Bye \(feat\. LeeHi\)](https://open.spotify.com/track/4DnMtsF3UfkGys5DwjU3BH) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Greeting](https://open.spotify.com/album/3nsi8ersP7BvMbA7Qrh5m6) | 6:40 |
 | 25 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
-| 26 | [Think About You](https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Think About You](https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp) | 3:44 |
-| 27 | [Bye \(feat\. LeeHi\)](https://open.spotify.com/track/4DnMtsF3UfkGys5DwjU3BH) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Greeting](https://open.spotify.com/album/3nsi8ersP7BvMbA7Qrh5m6) | 6:40 |
+| 26 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 |
+| 27 | [Think About You](https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Think About You](https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp) | 3:44 |
 | 28 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 |
 | 29 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
 | 30 | [How did you \(feat\. Baek Yerin\)](https://open.spotify.com/track/2mVb3RIBLffHQsauvkHBuf) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [How did you \(feat\. Baek Yerin\)](https://open.spotify.com/album/1QAenbdPhvPmioXem29cTV) | 4:09 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 46 | [우리에게 쏟아지는 별들을 Starry Night \(feat\. Ku One Chan\)](https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [우리에게 쏟아지는 별들을 Starry Night \(feat\. Ku One Chan\)](https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87) | 3:40 |
 | 47 | [지쳤어 Burned out](https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [건강하세모 Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:06 |
 | 48 | [Quince Tree](https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu) | [Yozoh](https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7) | [Quince Tree](https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF) | 3:07 |
-| 49 | [곁에 있어도 될까 Gently, By Your Side](https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [곁에 있어도 될까 Gently, By Your Side](https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld) | 2:58 |
-| 50 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |
+| 49 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |
+| 50 | [곁에 있어도 될까 Gently, By Your Side](https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [곁에 있어도 될까 Gently, By Your Side](https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld) | 2:58 |
 
-Snapshot ID: `MCxkYzU5OWU4M2EzOTY0YzRiMWE1YmI2NTI0ZTY4NjE1OTA2ZWZkMWIw`
+Snapshot ID: `MCxjZmIzNTQ1ZDJhMmU1OTBlYWZmMDllNTgyZjJmNWUyZDJiZmExOGZl`

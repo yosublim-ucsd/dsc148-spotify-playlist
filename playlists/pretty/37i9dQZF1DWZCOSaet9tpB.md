@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x?si=Kpewd2oFSLipGT1n\_XpUVA"> BNXN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,883 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,004 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 69 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 |
 | 70 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 
-Snapshot ID: `MCwyODI5YWI5NTc4MWExZTcxMDc5NTMxNTcwN2YxN2Y5YWY4NTM4ZGEy`
+Snapshot ID: `MCxhZWJlZTkxMTRiZGUxNjQ2ZTUzOTM5Y2I5ZTNjNzJkZWViODk5OTE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,514 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,562 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 53 | [Bummerland](https://open.spotify.com/track/1N2gWqKHFtPSZ0zgoCr8WK) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 3:09 |
 | 54 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 |
 | 55 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
-| 56 | [Night Running](https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:28 |
-| 57 | [My Own Soul’s Warning](https://open.spotify.com/track/5NnQpVPJKpFdGFkIdY1Gds) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 4:34 |
+| 56 | [My Own Soul’s Warning](https://open.spotify.com/track/5NnQpVPJKpFdGFkIdY1Gds) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 4:34 |
+| 57 | [Night Running](https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:28 |
 | 58 | [High](https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:51 |
 | 59 | [Guiding Light](https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 3:37 |
 | 60 | [Sweet Disaster](https://open.spotify.com/track/7bEDDsy2LFC0KSqhZp5nPE) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 74 | [Who’s Gonna Love Me Now](https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT) | 2:51 |
 | 75 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
 
-Snapshot ID: `MCxjM2U0NmQ5MzRmMzI0Yjg4Zjc3NDJiYjhjYmJkYWI1MTAxODU0N2M4`
+Snapshot ID: `MCxmNTNiN2VjOWUzMDhjMTg2MTA5MjZkMTc0NDg2MjUxZTUzMzRkOGRj`

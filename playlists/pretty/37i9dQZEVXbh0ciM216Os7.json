@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNjQ0MDAsMDAwMDAwMDA1YzlmOWQwMWExZTk1N2U4ODRmZjc2ZGNjOThmNzExYw==",
+  "snapshot_id": "MjgwNjQ0MDAsMDAwMDAwMDA0ZWM2NmRhNmY2NjNkNGViY2I0NmQxMGM3MjA5YTA0Zg==",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Lipstick Lover",
+        "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Lipstick Lover",
+      "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Lost Not Forgotten Archives: When Dream And Day Unite Demos (1987-1989)",
         "url": "https://open.spotify.com/album/0wh1M4uklCCvm57Mot63ll"
       },
@@ -211,6 +227,30 @@
       "duration_ms": 354240,
       "name": "Ytse Jam - Instrumental Demo",
       "url": "https://open.spotify.com/track/4Ya6s5iAAR0vWoEZGRMshj"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Girl Power",
+        "url": "https://open.spotify.com/album/5zpUJDz942deIpKHdKg0vj"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Girl Power",
+      "url": "https://open.spotify.com/track/0vO5M6kkxFGxQexnnYpcgV"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -247,30 +287,6 @@
       "duration_ms": 296354,
       "name": "In My Heart - Resound NYC Version",
       "url": "https://open.spotify.com/track/0XQ8SESBC2glE6syC5QhG9"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Girl Power",
-        "url": "https://open.spotify.com/album/5zpUJDz942deIpKHdKg0vj"
-      },
-      "artists": [
-        {
-          "name": "Doggyland",
-          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Gracie's Corner",
-          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Girl Power",
-      "url": "https://open.spotify.com/track/0vO5M6kkxFGxQexnnYpcgV"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -415,6 +431,30 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Fool 4 U (feat. Enisa)",
+        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        }
+      ],
+      "duration_ms": 146076,
+      "name": "Fool 4 U (feat. Enisa)",
+      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "When The Lights (The Ancestral Soul Mix)",
         "url": "https://open.spotify.com/album/7fca797EhOlope7KVoaQfQ"
       },
@@ -475,30 +515,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Fool 4 U (feat. Enisa)",
-        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Enisa",
-          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
-        }
-      ],
-      "duration_ms": 146076,
-      "name": "Fool 4 U (feat. Enisa)",
-      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "The Dethalbum (Expanded Edition)",
         "url": "https://open.spotify.com/album/0NADZfQoyOerevGXzMqWru"
       },
@@ -527,30 +543,6 @@
       "duration_ms": 139482,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/0ezu28CrH13zXiRJ3boiQZ"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Don't Let The Devil [Feat. thankugoodsir]",
-        "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        },
-        {
-          "name": "thankugoodsir",
-          "url": "https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN"
-        }
-      ],
-      "duration_ms": 164894,
-      "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
-      "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -655,98 +647,6 @@
       "duration_ms": 242670,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2imQHlhnuTG3TvgxLEKcGR"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Too Far Gone?",
-      "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Float (Coco & Breezy Remix)",
-        "url": "https://open.spotify.com/album/6zNU2h4HyMVpFz8MdBTIjF"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        }
-      ],
-      "duration_ms": 148884,
-      "name": "Float - Coco & Breezy Remix",
-      "url": "https://open.spotify.com/track/7MJc1Z7tTRVCCw63JhWyAv"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Enigmatic Society",
-        "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
-      },
-      "artists": [
-        {
-          "name": "Dinner Party",
-          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "9th Wonder",
-          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
-        },
-        {
-          "name": "Phoelix",
-          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Can't Go (feat. Phoelix)",
-      "url": "https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "No Tomorrow",
-        "url": "https://open.spotify.com/album/66yZzWmZViMvBqYpf0gLNL"
-      },
-      "artists": [
-        {
-          "name": "M.I.M.E",
-          "url": "https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 109241,
-      "name": "No Tomorrow",
-      "url": "https://open.spotify.com/track/0ctvAQSD8kcQP6VUYF5yLf"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

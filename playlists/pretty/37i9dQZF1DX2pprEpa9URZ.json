@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 710584,
+  "num_followers": 710836,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGE1Y2ZlYWY2ZjhmODBiZjljZTlkODUyMGY1YjgxMzA0ZGI3NDMw",
+  "snapshot_id": "MCwwNzBmMzhlMmQ1ZGI5ZDBhMWMxYTdiY2Y3ZGNlNzZkYWMyMGY5Y2Yz",
   "tracks": [
     {
       "added_at": "2023-04-20 22:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Sagas of Iziki | Chapter 2",
         "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 544250,
       "name": "Osuga",
       "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
+      },
+      "artists": [
+        {
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+        }
+      ],
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 410000,
       "name": "Alongside - Omeria & NU Edit",
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
-      },
-      "artists": [
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Forlorn Hope",
-        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 520042,
-      "name": "Forlorn Hope",
-      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Ay vora",
         "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 273142,
       "name": "Ay vora",
       "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Forlorn Hope",
+        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 520042,
+      "name": "Forlorn Hope",
+      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Izvor",
         "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
       },
@@ -831,22 +851,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
+        "name": "RAI",
+        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
       },
       "artists": [
         {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        },
-        {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
         }
       ],
-      "duration_ms": 187118,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
+      "duration_ms": 238168,
+      "name": "RAI",
+      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -867,22 +883,6 @@
       "duration_ms": 273523,
       "name": "Neko (feat Kotoe)",
       "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "RAI",
-        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
-      },
-      "artists": [
-        {
-          "name": "Sound Quelle",
-          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
-        }
-      ],
-      "duration_ms": 238168,
-      "name": "RAI",
-      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
+        "name": "The Landing",
+        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
       "artists": [
         {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+          "name": "JPattersson",
+          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
+        },
+        {
+          "name": "Nadav Dagon",
+          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
         }
       ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
+      "duration_ms": 435466,
+      "name": "The Landing - Nadav Dagon & JPattersson",
+      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "The Landing",
-        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
       },
       "artists": [
         {
-          "name": "JPattersson",
-          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
-        },
-        {
-          "name": "Nadav Dagon",
-          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 435466,
-      "name": "The Landing - Nadav Dagon & JPattersson",
-      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+      "duration_ms": 328912,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1079,22 +1079,6 @@
       "duration_ms": 416267,
       "name": "Caminata",
       "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
@@ -1139,38 +1139,38 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Parivartan",
-        "url": "https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp"
+        "name": "Mesta",
+        "url": "https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS"
       },
       "artists": [
         {
-          "name": "Elcor",
-          "url": "https://open.spotify.com/artist/6WjWbZruQ0NGsi2sjlToEj"
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
         },
         {
-          "name": "Skydrips",
-          "url": "https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF"
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
         }
       ],
-      "duration_ms": 486879,
-      "name": "Parivartan",
-      "url": "https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv"
+      "duration_ms": 371106,
+      "name": "Mesta",
+      "url": "https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI"
     },
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+        "name": "Ancestors",
+        "url": "https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw"
       },
       "artists": [
         {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
         }
       ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+      "duration_ms": 287518,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1223,6 +1223,42 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Parivartan",
+        "url": "https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp"
+      },
+      "artists": [
+        {
+          "name": "Elcor",
+          "url": "https://open.spotify.com/artist/6WjWbZruQ0NGsi2sjlToEj"
+        },
+        {
+          "name": "Skydrips",
+          "url": "https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF"
+        }
+      ],
+      "duration_ms": 486879,
+      "name": "Parivartan",
+      "url": "https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
         "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
       },
@@ -1239,22 +1275,6 @@
       "duration_ms": 451375,
       "name": "Mona Ki Ngi Xica - Everything Counts Remix",
       "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Eliso",
-        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 176839,
-      "name": "Eliso Lyamu Katata",
-      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1279,42 +1299,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Ancestors",
-        "url": "https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw"
+        "name": "Eliso",
+        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
       },
       "artists": [
         {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 287518,
-      "name": "Ancestors",
-      "url": "https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Voodoo Guitar",
-        "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
-      },
-      "artists": [
-        {
-          "name": "Dan Bay",
-          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
-        },
-        {
-          "name": "Max Clouth",
-          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
-        },
-        {
-          "name": "Timboletti",
-          "url": "https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG"
-        }
-      ],
-      "duration_ms": 637455,
-      "name": "Voodoo Guitar - Timboletti Remix",
-      "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
+      "duration_ms": 176839,
+      "name": "Eliso Lyamu Katata",
+      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1339,22 +1335,26 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Mesta",
-        "url": "https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS"
+        "name": "Voodoo Guitar",
+        "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
       },
       "artists": [
         {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+          "name": "Dan Bay",
+          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
         },
         {
-          "name": "Ilhan Ersahin",
-          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+          "name": "Max Clouth",
+          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
+        },
+        {
+          "name": "Timboletti",
+          "url": "https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG"
         }
       ],
-      "duration_ms": 371106,
-      "name": "Mesta",
-      "url": "https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI"
+      "duration_ms": 637455,
+      "name": "Voodoo Guitar - Timboletti Remix",
+      "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
     },
     {
       "added_at": "2023-04-20 22:01:00",

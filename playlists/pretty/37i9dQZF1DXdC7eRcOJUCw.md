@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,337 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,421 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,17 +75,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 65 | [No Te Apartes De Mí](https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes De Mí](https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ) | 3:59 |
 | 66 | [Te Solté La Rienda](https://open.spotify.com/track/6x6IUdWGMh5N3Is2WjmLcE) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Interpreta a José Alfredo Jimenez](https://open.spotify.com/album/1Weu2CZyvIIvuSZ9RAPJHF) | 2:53 |
 | 67 | [Llamarada](https://open.spotify.com/track/6qYWKAPbT2HLYEZ4UQDy3r) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:17 |
-| 68 | [Con Mis Propias Manos](https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [Tú Sigues Siendo El Mismo](https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp) | 2:42 |
-| 69 | [Antes De Que Te Vayas](https://open.spotify.com/track/498fdwkzeRwPdel1x4MIxS) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Antes De Que Te Vayas](https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD) | 4:31 |
-| 70 | [Cielo Rojo \- Duet Version](https://open.spotify.com/track/5p6n8kvFV22SN20xwawZB5) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Por Amor A México](https://open.spotify.com/album/6EHM8eB3PTm9hVHAJtJlPj) | 3:35 |
-| 71 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
+| 68 | [Antes De Que Te Vayas](https://open.spotify.com/track/498fdwkzeRwPdel1x4MIxS) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Antes De Que Te Vayas](https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD) | 4:31 |
+| 69 | [Con Mis Propias Manos](https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [Tú Sigues Siendo El Mismo](https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp) | 2:42 |
+| 70 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
+| 71 | [Cielo Rojo \- Duet Version](https://open.spotify.com/track/5p6n8kvFV22SN20xwawZB5) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Por Amor A México](https://open.spotify.com/album/6EHM8eB3PTm9hVHAJtJlPj) | 3:35 |
 | 72 | [Fallaste Corazón](https://open.spotify.com/track/3HYf9vCyDkA3JkVWp9RwxH) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:44 |
 | 73 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
 | 74 | [Ve Y Dile](https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Sin Ti](https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn) | 3:00 |
 | 75 | [Por Si Me Olvidas](https://open.spotify.com/track/1io5WvDEVRlnPVJl7hYJZI) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Chelo Interpreta A José Alfredo Jiménez](https://open.spotify.com/album/5cXbDdjm9NeZDhpJ2xYxHo) | 2:25 |
 | 76 | [Entiende Que Ya](https://open.spotify.com/track/6LaHhcm92gEEO2CYxUJ340) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Entiende Que Ya](https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ) | 2:47 |
-| 77 | [El Puente Roto \- Tema Remasterizado](https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [La Gran Colección del 60 Aniversario CBS \- Irma Serrano](https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP) | 2:37 |
-| 78 | [Échame a Mí la Culpa](https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC) | [Los Exitos De Amalia Mendoza](https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl) | 3:11 |
+| 77 | [Échame a Mí la Culpa](https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC) | [Los Exitos De Amalia Mendoza](https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl) | 3:11 |
+| 78 | [El Puente Roto \- Tema Remasterizado](https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [La Gran Colección del 60 Aniversario CBS \- Irma Serrano](https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP) | 2:37 |
 | 79 | [Uno Y Uno](https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:53 |
 | 80 | [Cielito Lindo](https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:48 |
 | 81 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 99 | [Un Mundo Raro](https://open.spotify.com/track/3zVKulPXU2MxM6UPItu1Ri) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Un Mundo Raro](https://open.spotify.com/album/56LrNumPVbrJ5Vqnuor0mb) | 2:41 |
 | 100 | [Amor de un Rato](https://open.spotify.com/track/6VenhGZLU1sw7I4qkh30ln) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 4:32 |
 
-Snapshot ID: `MCw2MDE3OTBiOGVjMGQxNDc5ZTEzNTA2ZWE0ZDZjMjI5NGMxMmEzYzgz`
+Snapshot ID: `MCw0Zjc0NzJlNWY2NTQ5YmYxOTcwN2IwMWM5N2I3MDgxNTVkZmEwMTJh`

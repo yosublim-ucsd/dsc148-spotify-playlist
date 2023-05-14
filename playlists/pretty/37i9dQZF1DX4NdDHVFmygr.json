@@ -1,12 +1,12 @@
 {
   "description": "\u00c9coutez en boucle les hits 100% marocains du moment.",
-  "num_followers": 183334,
+  "num_followers": 183795,
   "original_name": "Maroc Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzQ3OGUxNGNmOTViN2RlOGNkOWUzNThlM2M5OGYxNzA5ZTRiOTA2",
+  "snapshot_id": "MCw2YWFjY2QwYjE0OTZiZjViZDA1OTFiMmZjMGEzYmY1MmM3YWRkNGVk",
   "tracks": [
     {
       "added_at": "2023-05-12 07:49:31",
@@ -35,6 +35,26 @@
     {
       "added_at": "2023-05-12 07:49:31",
       "album": {
+        "name": "Jini",
+        "url": "https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        }
+      ],
+      "duration_ms": 122972,
+      "name": "Jini",
+      "url": "https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x"
+    },
+    {
+      "added_at": "2023-05-12 07:49:31",
+      "album": {
         "name": "AFROBOY",
         "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
       },
@@ -47,26 +67,6 @@
       "duration_ms": 191827,
       "name": "Love",
       "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
-    },
-    {
-      "added_at": "2023-05-12 07:49:31",
-      "album": {
-        "name": "Ya Nari",
-        "url": "https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB"
-      },
-      "artists": [
-        {
-          "name": "Oualid",
-          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
-        },
-        {
-          "name": "Cravata",
-          "url": "https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR"
-        }
-      ],
-      "duration_ms": 130731,
-      "name": "Ya Nari",
-      "url": "https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug"
     },
     {
       "added_at": "2023-05-12 07:49:31",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-05-12 07:49:31",
       "album": {
-        "name": "JMI",
-        "url": "https://open.spotify.com/album/7gwIZVNyGFEZf9993pp78W"
-      },
-      "artists": [
-        {
-          "name": "Lbenj",
-          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "JMI",
-      "url": "https://open.spotify.com/track/1PlEAxwiW6xk3rrVDlztcB"
-    },
-    {
-      "added_at": "2023-05-12 07:49:31",
-      "album": {
         "name": "Nar",
         "url": "https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd"
       },
@@ -159,38 +143,18 @@
     {
       "added_at": "2023-05-12 07:49:31",
       "album": {
-        "name": "MON LOVE OHO",
-        "url": "https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9"
+        "name": "JMI",
+        "url": "https://open.spotify.com/album/7gwIZVNyGFEZf9993pp78W"
       },
       "artists": [
         {
-          "name": "Liamsi",
-          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
         }
       ],
-      "duration_ms": 139714,
-      "name": "MON LOVE OHO",
-      "url": "https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP"
-    },
-    {
-      "added_at": "2023-05-12 07:49:31",
-      "album": {
-        "name": "Jini",
-        "url": "https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u"
-      },
-      "artists": [
-        {
-          "name": "Oualid",
-          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
-        },
-        {
-          "name": "F1rstman",
-          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
-        }
-      ],
-      "duration_ms": 122972,
-      "name": "Jini",
-      "url": "https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x"
+      "duration_ms": 217500,
+      "name": "JMI",
+      "url": "https://open.spotify.com/track/1PlEAxwiW6xk3rrVDlztcB"
     },
     {
       "added_at": "2023-05-12 07:49:31",
@@ -211,18 +175,58 @@
     {
       "added_at": "2023-05-12 07:49:31",
       "album": {
-        "name": "Still Alive",
-        "url": "https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc"
+        "name": "Ya Nari",
+        "url": "https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB"
       },
       "artists": [
         {
-          "name": "Raste",
-          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Cravata",
+          "url": "https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR"
         }
       ],
-      "duration_ms": 235139,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT"
+      "duration_ms": 130731,
+      "name": "Ya Nari",
+      "url": "https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug"
+    },
+    {
+      "added_at": "2023-05-13 18:11:55",
+      "album": {
+        "name": "Mandem",
+        "url": "https://open.spotify.com/album/4Lvndlgi6IBB4L4jn6d6RF"
+      },
+      "artists": [
+        {
+          "name": "OUENZA",
+          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
+        },
+        {
+          "name": "Amine K (Moroko Loko)",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        }
+      ],
+      "duration_ms": 278095,
+      "name": "Mandem",
+      "url": "https://open.spotify.com/track/68n0XVahvsr0v0usJzykTH"
+    },
+    {
+      "added_at": "2023-05-12 07:49:31",
+      "album": {
+        "name": "MON LOVE OHO",
+        "url": "https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9"
+      },
+      "artists": [
+        {
+          "name": "Liamsi",
+          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "MON LOVE OHO",
+      "url": "https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP"
     },
     {
       "added_at": "2023-05-12 07:49:31",
@@ -295,6 +299,22 @@
     {
       "added_at": "2023-05-12 07:49:31",
       "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "duration_ms": 235139,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT"
+    },
+    {
+      "added_at": "2023-05-12 07:49:31",
+      "album": {
         "name": "Heeya",
         "url": "https://open.spotify.com/album/2CFvYOAGceKa9RNyfG1rfX"
       },
@@ -339,22 +359,6 @@
       "duration_ms": 237362,
       "name": "\u0628\u0627\u0644\u0647\u062f\u0649",
       "url": "https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF"
-    },
-    {
-      "added_at": "2023-05-12 07:49:31",
-      "album": {
-        "name": "9SARA D LIL",
-        "url": "https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9"
-      },
-      "artists": [
-        {
-          "name": "MA3IZ",
-          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "9SARA D LIL",
-      "url": "https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb"
     },
     {
       "added_at": "2023-05-12 07:49:31",
@@ -411,6 +415,22 @@
       "duration_ms": 190000,
       "name": "WILI",
       "url": "https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS"
+    },
+    {
+      "added_at": "2023-05-12 07:49:31",
+      "album": {
+        "name": "9SARA D LIL",
+        "url": "https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9"
+      },
+      "artists": [
+        {
+          "name": "MA3IZ",
+          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "9SARA D LIL",
+      "url": "https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb"
     },
     {
       "added_at": "2023-05-12 07:49:31",
@@ -703,22 +723,6 @@
       "duration_ms": 196965,
       "name": "Lberra7",
       "url": "https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN"
-    },
-    {
-      "added_at": "2023-05-12 07:49:31",
-      "album": {
-        "name": "Je sais que t'as mal",
-        "url": "https://open.spotify.com/album/6kKGhPm6m2GagsZdW34Qui"
-      },
-      "artists": [
-        {
-          "name": "Oussama",
-          "url": "https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml"
-        }
-      ],
-      "duration_ms": 155071,
-      "name": "Je sais que t'as mal",
-      "url": "https://open.spotify.com/track/3TwCVgOkFhx6CBFYUYnPzP"
     },
     {
       "added_at": "2023-05-12 07:49:31",

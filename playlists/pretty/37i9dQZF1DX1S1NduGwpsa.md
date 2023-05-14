@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,455 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,510 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baby](https://open.spotify.com/track/7Lo9xvnSEyh1dodL2QS79u) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Gabi Hartmann](https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv) | 3:37 |
 | 2 | [Pennies from Heaven](https://open.spotify.com/track/4wzU95hQPK14Uascf4wkEo) | [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Pennies from Heaven](https://open.spotify.com/album/2CUBXmrfjX2rVFsU63duYv) | 5:30 |
-| 3 | [Not Here / Not Now](https://open.spotify.com/track/7fopfIiFlzdFIdHwqtNsIG) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Not Here / Not Now](https://open.spotify.com/album/0pO4nHmz5vGINmvO31sE5N) | 4:15 |
+| 3 | [Not Here / Not Now](https://open.spotify.com/track/7fopfIiFlzdFIdHwqtNsIG) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Not Here / Not Now](https://open.spotify.com/album/0pO4nHmz5vGINmvO31sE5N) | 4:15 |
 | 4 | [Back on the beat](https://open.spotify.com/track/52q5MqCCKzUjYE06orhDxX) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Back on the beat](https://open.spotify.com/album/2IOOiVxPT2N3fOYQJlubz1) | 5:10 |
 | 5 | [When You Wish Upon a Star](https://open.spotify.com/track/6EhFiHD4n3JIfrLzS11dn6) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Composure](https://open.spotify.com/album/5XuYdAL3b6oZIkDUiyciiu) | 4:45 |
 | 6 | [Rituel du soleil](https://open.spotify.com/track/28s6vG5qO8iJ6EOtqIoBQZ) | [Naïssam Jalal](https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk) | [Rituel du soleil](https://open.spotify.com/album/1349X3aKwOlh6XimmsJS5U) | 6:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [A Baptist Beat](https://open.spotify.com/track/6R7rddgouLxoW9KwWX5azf) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu) | [A Baptist Beat](https://open.spotify.com/album/2tbIMQxw0o5EvK2cCTUcKB) | 4:10 |
 | 50 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 |
 
-Snapshot ID: `MCxiZmJlM2RmNTMxYWQwNzgyYzc2NDM4MTk5YTA0OWMxNDFiNDJhZDAx`
+Snapshot ID: `MCw5NzcyM2JjMzMzYzQzMDU2Njc2MzI1NzRiMGUzMmVkNWUwZGY3OGQy`

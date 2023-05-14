@@ -4,7 +4,7 @@
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-165 songs - 10 hr 22 min
+166 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 | 2022-02-04 |  |
 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 | 2021-11-05 |  |
 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 | 2021-11-05 |  |
-| [Have A Little Faith In Me](https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Have A Little Faith In Me](https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3) | 3:42 | 2021-11-05 |  |
+| [Have A Little Faith In Me](https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Have A Little Faith In Me](https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3) | 3:42 | 2021-11-05 | 2023-05-14 |
 | [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5GK1GYXH16RdfmltogHhAk) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:33 | 2022-02-04 |  |
 | [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Heart Of Glass / Midnight Sky](https://open.spotify.com/album/4shNUtOEh07Rco2Jy5ArAF) | 3:33 | 2022-02-04 | 2022-08-13 |
 | [Heart of Gold \(Cover\)](https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 2:46 | 2021-11-05 |  |
@@ -89,6 +89,7 @@
 | [I Won't Back Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Spotify Singles](https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN) | 3:47 | 2021-11-05 | 2022-12-09 |
 | [I Would Die 4 U](https://open.spotify.com/track/38k2TOcAnlRoziKjLc3Ogd) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [The Return \(Love Comes Back\)](https://open.spotify.com/album/1UMLgFRhqyikYGgSxnkWSa) | 3:00 | 2021-11-05 | 2022-07-29 |
 | [I Would Die 4 U](https://open.spotify.com/track/54rAiXEsNi52Wmw2LMxGhe) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [I Would Die 4 U](https://open.spotify.com/album/6f1cqywnPjDqVWpQzPK4UW) | 3:00 | 2022-09-30 | 2023-05-12 |
+| [I Would Die 4 U](https://open.spotify.com/track/6rOKuNSl3gAqARtMtZMuuf) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [I Would Die 4 U](https://open.spotify.com/album/1SPMOO8krxq9JuU6DadBKm) | 3:00 | 2023-05-12 |  |
 | [I Would Die 4 U](https://open.spotify.com/track/7exBqqAMs0t2xDETXYvBAH) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [I Would Die 4 U](https://open.spotify.com/album/6DcwJRj8l5BvOpVjt7pLxS) | 3:00 | 2022-02-04 | 2023-04-30 |
 | [If It Makes You Happy](https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:15 | 2021-11-05 | 2022-07-29 |
 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 | 2022-02-04 |  |

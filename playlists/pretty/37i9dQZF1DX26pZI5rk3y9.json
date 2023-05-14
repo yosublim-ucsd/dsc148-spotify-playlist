@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 4664,
+  "num_followers": 4681,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2Y2ODQ0ZDE5YTdjNzlhNWUzODAwZWIwZTdlNzE1Mzc3MDc3NTll",
+  "snapshot_id": "MCwxNjFjMmQ0NGRjYzhjZDNhOTViMGY2ZGQzMDg2YWYxYTAxNjBhYTRk",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Howlin' Wolf",
         "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 170000,
       "name": "Spoonful",
       "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "The Sun Is Shining",
-      "url": "https://open.spotify.com/track/2oVoSWx4NLAJ6xulHAGYJx"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 165040,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/7cZmWjebbtSMIxN2MkJWuv"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "The Sun Is Shining",
+      "url": "https://open.spotify.com/track/2oVoSWx4NLAJ6xulHAGYJx"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Freddy King Sings",
-        "url": "https://open.spotify.com/album/6Y8ECXmI1sZ10MKFZ3Grgs"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 168241,
-      "name": "I Love The Woman",
-      "url": "https://open.spotify.com/track/215sDs9PQ99hynGtGtFg85"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
         "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 210866,
       "name": "Back Water Blues",
       "url": "https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Freddy King Sings",
+        "url": "https://open.spotify.com/album/6Y8ECXmI1sZ10MKFZ3Grgs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 168241,
+      "name": "I Love The Woman",
+      "url": "https://open.spotify.com/track/215sDs9PQ99hynGtGtFg85"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34"
     },
     {
-      "added_at": "2023-05-13 00:46:03",
+      "added_at": "2023-05-14 01:04:24",
       "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
@@ -695,22 +695,6 @@
       "duration_ms": 323280,
       "name": "Ridin'",
       "url": "https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "These Kind of Blues",
-      "url": "https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -731,18 +715,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Barbecue Bob Vol. 1 (1927 - 1928)",
-        "url": "https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31"
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
       "artists": [
         {
-          "name": "Barbecue Bob",
-          "url": "https://open.spotify.com/artist/5L8FCi81vASYMJNWbODEDZ"
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
         }
       ],
-      "duration_ms": 192914,
-      "name": "Barbecue Blues",
-      "url": "https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m"
+      "duration_ms": 191906,
+      "name": "These Kind of Blues",
+      "url": "https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -759,6 +743,22 @@
       "duration_ms": 161440,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Barbecue Bob Vol. 1 (1927 - 1928)",
+        "url": "https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31"
+      },
+      "artists": [
+        {
+          "name": "Barbecue Bob",
+          "url": "https://open.spotify.com/artist/5L8FCi81vASYMJNWbODEDZ"
+        }
+      ],
+      "duration_ms": 192914,
+      "name": "Barbecue Blues",
+      "url": "https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
-        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Gimme a Pigfoot and a Bottle of Beer",
-      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Sax Star: Maxwell's Best, Vol. 1",
         "url": "https://open.spotify.com/album/2kT0jx8Xe22NZtnhUzVgYB"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
+        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Gimme a Pigfoot and a Bottle of Beer",
+      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Greatest Country Blues",
         "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 168093,
       "name": "Barbecue Any Old Time",
       "url": "https://open.spotify.com/track/4IUtUHmpRJXQo8jfem5fON"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Horrifying Deatheating Bloodspider",
+        "url": "https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 135853,
+      "name": "Get the Moon Up",
+      "url": "https://open.spotify.com/track/3OU19imtvnEfnNbMwiyRDO"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -943,18 +959,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Horrifying Deatheating Bloodspider",
-        "url": "https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs"
+        "name": "Lucille Bogan (Bessie Jackson) Vol. 3 (1934-1935)",
+        "url": "https://open.spotify.com/album/4BrGdafBB8CAnhsAtDbs0i"
       },
       "artists": [
         {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
         }
       ],
-      "duration_ms": 135853,
-      "name": "Get the Moon Up",
-      "url": "https://open.spotify.com/track/3OU19imtvnEfnNbMwiyRDO"
+      "duration_ms": 162664,
+      "name": "Barbecue Blues",
+      "url": "https://open.spotify.com/track/6PsX6nmpsOFR0jjLyEzmPZ"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -971,22 +987,6 @@
       "duration_ms": 156746,
       "name": "She Cooks Me Cabbage",
       "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Lucille Bogan (Bessie Jackson) Vol. 3 (1934-1935)",
-        "url": "https://open.spotify.com/album/4BrGdafBB8CAnhsAtDbs0i"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 162664,
-      "name": "Barbecue Blues",
-      "url": "https://open.spotify.com/track/6PsX6nmpsOFR0jjLyEzmPZ"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
-        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "Mama, What About Your Daughter - Single Version",
-      "url": "https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "The Road Is Rough and Rocky",
         "url": "https://open.spotify.com/album/1dA2ra5W0ZDUJEAKR0yV7U"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 176600,
       "name": "I Got Your Ice Cold Nugrape",
       "url": "https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
+        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
+      },
+      "artists": [
+        {
+          "name": "The Art Wood Combo",
+          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
-        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
-      },
-      "artists": [
-        {
-          "name": "The Art Wood Combo",
-          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "I Was a Mod Before You Were a Mod Vol. 2",
         "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 137534,
       "name": "Crawfish",
       "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
+        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "Mama, What About Your Daughter - Single Version",
+      "url": "https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz"
     },
     {
       "added_at": "2022-12-02 14:28:08",

@@ -1,12 +1,12 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4218924,
+  "num_followers": 4219380,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTQ1YWMzMTI1MjVhZDA4OGUxYmEzMGNkNGI3Mjk2ODdmMTJjZWU3",
+  "snapshot_id": "MCxkMTUyZjU0MzAxNTRkY2M4YmFkZTdmZGU3ZDhlODAwMDI4MzBiNjFi",
   "tracks": [
     {
       "added_at": "2023-03-02 21:20:54",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-03-02 21:20:54",
       "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+        "name": "Still Sleep?",
+        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
       },
       "artists": [
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
         }
       ],
-      "duration_ms": 180522,
-      "name": "Going Bad (feat. Drake)",
-      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+      "duration_ms": 123986,
+      "name": "2055",
+      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
     },
     {
       "added_at": "2023-03-02 21:20:54",
@@ -595,18 +591,22 @@
     {
       "added_at": "2023-03-02 21:20:54",
       "album": {
-        "name": "Still Sleep?",
-        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 123986,
-      "name": "2055",
-      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
+      "duration_ms": 180522,
+      "name": "Going Bad (feat. Drake)",
+      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
     },
     {
       "added_at": "2023-03-02 21:20:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Los mejor de los 90s\. The Best of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,374 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,699 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 61 | [Ya No Queda Nada \- Salsa Version](https://open.spotify.com/track/2Jcr5m0dP68G1Zlrp7iKp3) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 3:24 |
 | 62 | [Cinco Noches](https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 5:09 |
 | 63 | [Cuando Parará La Lluvia](https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Cuando Parará La Lluvia](https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ) | 4:46 |
-| 64 | [Eres](https://open.spotify.com/track/2lqLTJzIxifX7690QwvCxF) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Romántica de Siempre](https://open.spotify.com/album/31qN90CYlcbqT0ErFJXJzi) | 4:28 |
+| 64 | [He Tratado](https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [A Pesar De Todo](https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t) | 5:03 |
 | 65 | [Me Mata La Soledad](https://open.spotify.com/track/3EKsRQDRXgXHmNxQZ76MFc) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Sensual](https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A) | 4:37 |
-| 66 | [He Tratado](https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [A Pesar De Todo](https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t) | 5:03 |
+| 66 | [Llegaste A Mi](https://open.spotify.com/track/2nIZpaxsp0CKlCg8Okfatq) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Todo A Su Tiempo](https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk) | 4:56 |
 | 67 | [De Mí Enamórate](https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [The Greatest Salsa Ever](https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM) | 5:09 |
-| 68 | [Llegaste A Mi](https://open.spotify.com/track/2nIZpaxsp0CKlCg8Okfatq) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Todo A Su Tiempo](https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk) | 4:56 |
+| 68 | [Eres](https://open.spotify.com/track/2lqLTJzIxifX7690QwvCxF) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Romántica de Siempre](https://open.spotify.com/album/31qN90CYlcbqT0ErFJXJzi) | 4:28 |
 | 69 | [Me Voy a Acostumbrar \- Versión Salsa](https://open.spotify.com/track/27dI6gpXKW1EYl0L7JHsJb) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Intensamente Con Canciones de Juan Gabriel](https://open.spotify.com/album/3OrTxdDP1E286UALbB9T0D) | 3:59 |
 | 70 | [Tù No Le Amas Le Temes](https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [20th Anniversary](https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW) | 4:27 |
 | 71 | [Juguete De Nadie](https://open.spotify.com/track/25gKDYktpgqSQGdxwDoTsh) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Super Exitos](https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT) | 5:05 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 85 | [Lo Mío Es Amor](https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Lo Mio Es Amor](https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK) | 5:09 |
 | 86 | [Dile A El](https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9) | [Anthony Cruz](https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC) | [Para Ti...](https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP) | 5:26 |
 | 87 | [Cuando Te Miro](https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 3:51 |
-| 88 | [Qué Habría Sido de Mí](https://open.spotify.com/track/7Kz4ntJk8ACKH7sojsfTTv) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Ironias](https://open.spotify.com/album/2xwNxVeLxGwduVdMVOqRzd) | 4:51 |
-| 89 | [Herida](https://open.spotify.com/track/6a09sAXkgnkfSW8HEDJzBf) | [Brenda K\. Starr](https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B) | [Te Sigo Esperando](https://open.spotify.com/album/1nrtNO5m2b5wX95GuqgtTn) | 4:52 |
+| 88 | [Herida](https://open.spotify.com/track/6a09sAXkgnkfSW8HEDJzBf) | [Brenda K\. Starr](https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B) | [Te Sigo Esperando](https://open.spotify.com/album/1nrtNO5m2b5wX95GuqgtTn) | 4:52 |
+| 89 | [Qué Habría Sido de Mí](https://open.spotify.com/track/7Kz4ntJk8ACKH7sojsfTTv) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Ironias](https://open.spotify.com/album/2xwNxVeLxGwduVdMVOqRzd) | 4:51 |
 | 90 | [Magdalena, Mi Amor \(Quimbara\)](https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:17 |
 | 91 | [Bailemos Otra Vez](https://open.spotify.com/track/7CElrb5b1CNzbbLUaBynyO) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Mis Amores](https://open.spotify.com/album/4QcUkOX9DED7QTsHLW2FN0) | 5:07 |
 | 92 | [Ese Hombre](https://open.spotify.com/track/3vFxhY2ejPkBPPI8tTFB1V) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Serie Cinco Estrellas](https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb) | 4:39 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 95 | [Date un Chance](https://open.spotify.com/track/0mW2TeZmav4gTBzsMcy811) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [20th Anniversary](https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW) | 4:46 |
 | 96 | [Puerto Rico](https://open.spotify.com/track/7hsC2wLaYgeKabMr6JGRzE) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Nacimiento Y Recuerdos](https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl) | 4:35 |
 | 97 | [Llorando](https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4) | [Orlando Collado](https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh) | [Sus Exitos](https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E) | 5:04 |
-| 98 | [No Puedo Prescindir De Ti](https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Super Exitos](https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT) | 4:10 |
-| 99 | [Deja](https://open.spotify.com/track/5kagFOpEGvv3gi5DgPyPX4) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Aparentemente](https://open.spotify.com/album/1pXqrfucKSsABnhOGmTJ7U) | 4:53 |
+| 98 | [Deja](https://open.spotify.com/track/5kagFOpEGvv3gi5DgPyPX4) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Aparentemente](https://open.spotify.com/album/1pXqrfucKSsABnhOGmTJ7U) | 4:53 |
+| 99 | [No Puedo Prescindir De Ti](https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Super Exitos](https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT) | 4:10 |
 | 100 | [Hoy Quiero Confesar](https://open.spotify.com/track/04VVASURM79ZfORL5XsJHG) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Greatest Hits \(Serie Cristal\)](https://open.spotify.com/album/2zWUGZTsdpLSDIQDasNUv6) | 4:25 |
 
-Snapshot ID: `MCw1MjY4OTAyNWVkZGMyNzk5MGVkYzM0Nzg5MzA1NWY2ZDVlYTdiNGY3`
+Snapshot ID: `MCxkOWI5ODIwZjgxMWE0OWExNDE0MGIzN2FlMGE3M2U3ODkzMTVhMTQz`

@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with one thing in common: pure rock & roll.",
-  "num_followers": 1555467,
+  "num_followers": 1555692,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjhjMzAzYzVmOWQxY2IwYzBmMmQ0MmI0ZDQ5N2RiNGEzNmQ3ZDBi",
+  "snapshot_id": "MCxiMzIwOWUzN2E5NTJkZjEwNTE1ZWE2ZTRkMDMwM2ZhZjRiYzQ4YWYx",
   "tracks": [
     {
       "added_at": "2023-04-14 20:30:47",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-04-14 20:30:47",
       "album": {
-        "name": "Black Summer",
-        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
-    },
-    {
-      "added_at": "2023-04-14 20:30:47",
-      "album": {
         "name": "Smashes Thrashes & Hits",
         "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 228560,
       "name": "Detroit Rock City",
       "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
+    },
+    {
+      "added_at": "2023-04-14 20:30:47",
+      "album": {
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
       "added_at": "2023-04-14 20:30:47",

@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-137 songs - 8 hr 33 min
+138 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Head On](https://open.spotify.com/track/3uulUpw6IvYkNlig8clyKS) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 4:45 | 2021-12-01 |  |
 | [Heart Of It](https://open.spotify.com/track/0Mweaj3stYJ09jRC8dvkJO) | [Michael Bernard Fitzgerald](https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv) | [Love Valley](https://open.spotify.com/album/7C2z6TlBtL6Z9izPzVnOmd) | 3:39 | 2021-12-01 |  |
 | [Heatwave](https://open.spotify.com/track/6rKD9axpeGAKgytwctW7f4) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:44 | 2021-12-01 |  |
-| [Here's Where You're Wrong](https://open.spotify.com/track/5qNS0ZxVczeKSs1KE2dPWF) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM) | 2:54 | 2021-12-01 |  |
+| [Here's Where You're Wrong](https://open.spotify.com/track/0zVNv6x1W7vJbLWGzF8ZDV) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/0T1lAytyrT0Qkb7qfdQgaX) | 2:54 | 2021-12-01 |  |
+| [Here's Where You're Wrong](https://open.spotify.com/track/5qNS0ZxVczeKSs1KE2dPWF) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM) | 2:54 | 2021-12-01 | 2023-05-14 |
 | [Hey You](https://open.spotify.com/track/1TTB0XzXDWd0OIwnhFe8yN) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Ghost and the Wall](https://open.spotify.com/album/5XY9DCBsTFRKm6EHhc2pGo) | 3:26 | 2021-12-01 |  |
 | [Hey You](https://open.spotify.com/track/1bFJ0r89CnY0wTz95hcKWc) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Ghost and the Wall](https://open.spotify.com/album/2qeOXQCVeG1AgUD0LQHLSF) | 3:26 | 2021-12-01 | 2022-07-29 |
 | [Houston TX](https://open.spotify.com/track/6EaQXxdO9diXNDrO2vmMtJ) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/2IsJvOVAVDq7aHN8sRhGni) | 5:16 | 2021-12-01 | 2022-07-29 |

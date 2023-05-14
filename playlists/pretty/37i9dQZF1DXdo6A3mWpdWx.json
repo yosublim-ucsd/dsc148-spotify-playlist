@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 540285,
+  "num_followers": 541534,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTA2N2ZmZWI5MzQxZDIyODhjNGQ4YmQ4NjQ4YmIyNzU5ODk3Y2Fm",
+  "snapshot_id": "MCw2ZDJmYzY2OGRlMTE1NTZjNTY0YzQ5ZmMzM2JmMGMyMTU3NDFmZWFj",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Scatman's World",
-        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
-      },
-      "artists": [
-        {
-          "name": "Scatman John",
-          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
-      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Music Sounds Better With You",
         "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 260906,
       "name": "Music Sounds Better With You - Radio Edit",
       "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Scatman's World",
+        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
+      },
+      "artists": [
+        {
+          "name": "Scatman John",
+          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
+      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 270333,
-      "name": "Un-Break My Heart",
-      "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "The Party Album!",
         "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 222458,
       "name": "We Like To Party! (The Vengabus)",
       "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 270333,
+      "name": "Un-Break My Heart",
+      "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Duophonic",
+        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 262000,
       "name": "Let Me Entertain You",
       "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Duophonic",
-        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 290493,
-      "name": "Hey Boy Hey Girl",
-      "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "No Limits",
         "url": "https://open.spotify.com/album/22s9JNTNHLw9e5wwxKdcF0"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 224220,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/7voHUmPNDuYZ1SW1mwRu26"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 290493,
+      "name": "Hey Boy Hey Girl",
+      "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Who Do You Think You Are",
-      "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 328680,
       "name": "Da Funk",
       "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Who Do You Think You Are",
+      "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "What's The 411?",
-        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 269973,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "The Party Album!",
         "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 217539,
       "name": "We're Going To Ibiza!",
       "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "What's The 411?",
+        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Pronounced Jah-Nay",
-        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
-      },
-      "artists": [
-        {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "Hey Mr. D.J.",
-      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Move Until We Fly",
         "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 240773,
       "name": "I Promised Myself",
       "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Pronounced Jah-Nay",
+        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
+      },
+      "artists": [
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Hey Mr. D.J.",
+      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Whoomp! There It Is (Radio Edit)",
-        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
-      },
-      "artists": [
-        {
-          "name": "Tag Team",
-          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Whoomp! There It Is - Radio Edit",
-      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Blacks' Magic",
         "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 213266,
       "name": "Let's Talk About Sex",
       "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Whoomp! There It Is (Radio Edit)",
+        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
+      },
+      "artists": [
+        {
+          "name": "Tag Team",
+          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Whoomp! There It Is - Radio Edit",
+      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "My Lovin' (You're Never Gonna Get It)",
-      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Robyn Is Here",
         "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 229226,
       "name": "Show Me Love - Radio Version",
       "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "My Lovin' (You're Never Gonna Get It)",
+      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
     },
     {
       "added_at": "2022-10-11 00:00:00",

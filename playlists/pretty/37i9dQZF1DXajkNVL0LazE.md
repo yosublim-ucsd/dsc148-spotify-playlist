@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,298 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,422 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
 | 2 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 |
 | 3 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
-| 4 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 |
+| 4 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 |
 | 5 | [Postcards from Italy](https://open.spotify.com/track/7H0UxIN751StFi2tznmHlg) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/4yP7cyoeE3F6EyJPZ9v47V) | 4:17 |
-| 6 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 |
+| 6 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 |
 | 7 | [John Wayne Gacy, Jr.](https://open.spotify.com/track/2R3g9k14OAcUzZYwo90Tx6) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 3:19 |
 | 8 | [Fake Palindromes](https://open.spotify.com/track/50woGYhAqV3KXvO1LG4zLg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 2:52 |
 | 9 | [Little Lion Man](https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:07 |
@@ -87,20 +87,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 77 | [Frankie's Gun!](https://open.spotify.com/track/78i6AUQv9Hp1BAQY6VCaCP) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [The Felice Brothers](https://open.spotify.com/album/7K9ScAfmIzxH46U9M7IiOT) | 4:06 |
 | 78 | [The Ballad of Love and Hate](https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Emotionalism \(Bonus Track Version\)](https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ) | 5:20 |
 | 79 | [Keep Yourself Warm](https://open.spotify.com/track/5P9mYadNNzRuDo49cKpBNs) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09) | 5:33 |
-| 80 | [Lost Coastlines](https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi) | 5:31 |
-| 81 | [Four Winds](https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Cassadaga](https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB) | 4:16 |
-| 82 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 |
-| 83 | [This Tornado Loves You](https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Middle Cyclone](https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ) | 3:19 |
-| 84 | [I Am Trying to Break Your Heart](https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 6:58 |
-| 85 | [Long Ride Home](https://open.spotify.com/track/1v76gn29TvpZg2areWXbxP) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [1000 Kisses](https://open.spotify.com/album/0bpwJNSMStRM5shqRW6ro2) | 3:33 |
-| 86 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
-| 87 | [Cello Song Feat\. Jose Gonzales](https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Music For A French Elevator And Other Oddities](https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C) | 3:54 |
-| 88 | [Special Death](https://open.spotify.com/track/5kRgOJD7wN77OHjiGhkpjL) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Advisory Committee](https://open.spotify.com/album/0gQWuaPBjGRe4S4lV7gtlC) | 2:32 |
+| 80 | [Four Winds](https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Cassadaga](https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB) | 4:16 |
+| 81 | [Lost Coastlines](https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi) | 5:31 |
+| 82 | [This Tornado Loves You](https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Middle Cyclone](https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ) | 3:19 |
+| 83 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 |
+| 84 | [Special Death](https://open.spotify.com/track/5kRgOJD7wN77OHjiGhkpjL) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Advisory Committee](https://open.spotify.com/album/0gQWuaPBjGRe4S4lV7gtlC) | 2:32 |
+| 85 | [I Am Trying to Break Your Heart](https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 6:58 |
+| 86 | [Long Ride Home](https://open.spotify.com/track/1v76gn29TvpZg2areWXbxP) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [1000 Kisses](https://open.spotify.com/album/0bpwJNSMStRM5shqRW6ro2) | 3:33 |
+| 87 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
+| 88 | [Cello Song Feat\. Jose Gonzales](https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Music For A French Elevator And Other Oddities](https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C) | 3:54 |
 | 89 | [Alone Again Or](https://open.spotify.com/track/5cG90AasL6Fd9uTwAMF1tS) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Convict Pool](https://open.spotify.com/album/2OHPi5M4JlhCTlA5zzUXoq) | 3:24 |
 | 90 | [Kathleen](https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Hello Starling](https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg) | 4:08 |
 | 91 | [Sycamore](https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Woke On A Whaleheart](https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH) | 5:35 |
-| 92 | [Knife](https://open.spotify.com/track/2L7DZcRNEA7ZGiaHC6vlJw) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta) | 5:17 |
-| 93 | [Teardrop](https://open.spotify.com/track/02C433ZVoi5cPFOSEKKzUX) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [In Our Nature](https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv) | 3:20 |
+| 92 | [Teardrop](https://open.spotify.com/track/02C433ZVoi5cPFOSEKKzUX) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [In Our Nature](https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv) | 3:20 |
+| 93 | [Knife](https://open.spotify.com/track/2L7DZcRNEA7ZGiaHC6vlJw) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta) | 5:17 |
 | 94 | [The Lonesome Border, Pt\. 1](https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc) | [Dear Nora](https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5) | [Mountain Rock](https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy) | 1:31 |
 | 95 | [Young Bride](https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:51 |
 | 96 | [If I Were](https://open.spotify.com/track/1Jri474VM7yyIlglywQOx5) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Lookaftering](https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 99 | [He Lays In The Reins](https://open.spotify.com/track/06KMxCt6MwBqgivE20KDC4) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [In The Reins](https://open.spotify.com/album/0s1mKAEcqr7od5xY3pZ921) | 3:43 |
 | 100 | [Painter in Your Pocket](https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Destroyer's Rubies](https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii) | 4:10 |
 
-Snapshot ID: `MCwxNzY1YzAzODI3ZTIzZDE0M2EzYjM1ZTMwYzExZjVhYWEyOWM3MGZh`
+Snapshot ID: `MCxjYmM5ZDY3MmY0MzY4OGM3YmQwYWFjOTVlMTM2MmZlNTYwOWZkMzQy`

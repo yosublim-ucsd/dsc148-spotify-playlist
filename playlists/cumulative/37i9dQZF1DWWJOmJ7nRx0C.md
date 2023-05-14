@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Asking Alexandria
 
-792 songs - 1 day 23 hr 27 min
+793 songs - 1 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,8 @@
 | [Lord Of Chaos](https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s) | 3:58 | 2022-02-11 | 2022-04-16 |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-05 |  |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-10 |  |
-| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-11-25 |  |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-11-25 | 2023-05-14 |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2023-05-12 |  |
 | [Love Dies Young](https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:21 | 2022-02-11 | 2022-05-20 |
 | [Love From The Other Side](https://open.spotify.com/track/5zqdoQXjMmqb1GyzTKa4E9) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 4:39 | 2023-04-07 |  |
 | [Love is Red](https://open.spotify.com/track/7Bv3EeVZG2U79f51j483rk) | [Colorblind](https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX) | [Love is Red](https://open.spotify.com/album/4oEGYiFN0HZvJJZNUnUMXJ) | 3:43 | 2022-06-10 | 2022-11-26 |

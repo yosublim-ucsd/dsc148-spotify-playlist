@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,418 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,523 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 26 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 |
 | 27 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 |
 | 28 | [Nonstop](https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:58 |
-| 29 | [changes](https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:01 |
+| 29 | [Bank Account](https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Issa Album](https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU) | 3:40 |
 | 30 | [Fight Night](https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:36 |
-| 31 | [Bank Account](https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Issa Album](https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU) | 3:40 |
+| 31 | [changes](https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:01 |
 | 32 | [Pop Out \(feat\. Lil Tjay\)](https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Die A Legend](https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w) | 2:46 |
 | 33 | [OUT WEST \(feat\. Young Thug\)](https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 2:37 |
 | 34 | [Look Back at It](https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 2:59 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 57 | [Noticed](https://open.spotify.com/track/7zLYKWcXnYeHHWidalz7rj) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Northsbest \(Extended\)](https://open.spotify.com/album/6lggWd5q9Rh66OkDE1eNDr) | 2:45 |
 | 58 | [Transportin'](https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 2:49 |
 | 59 | [I Don't Like](https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:53 |
-| 60 | [Swervin \(feat\. 6ix9ine\)](https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:09 |
-| 61 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 |
+| 60 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 |
+| 61 | [Swervin \(feat\. 6ix9ine\)](https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:09 |
 | 62 | [IFHY \(feat\. Pharrell\)](https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Wolf](https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB) | 5:19 |
 | 63 | [Poetic Justice](https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:00 |
 | 64 | [X \(feat\. Future\)](https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Savage Mode](https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 99 | [Top Off](https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:17 |
 | 100 | [100 Shots](https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Bulletproof](https://open.spotify.com/album/55GbaLX8yU1Agf7wjhez7W) | 4:24 |
 
-Snapshot ID: `MCwyMTJiNmQxODdlNWM3NDZmNTA2NjU2ODNkODgyMDJhNDJjZDAzNGE1`
+Snapshot ID: `MCxmNGRhN2ViMzUxNDE3Yzk5MjBiZjNjMGU2MTY5ZDNhMmMzODczZDVi`

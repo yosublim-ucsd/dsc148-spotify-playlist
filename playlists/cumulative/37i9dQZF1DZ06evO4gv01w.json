@@ -1473,6 +1473,28 @@
     },
     {
       "album": {
+        "name": "Southern Comfort (Trap Remix)",
+        "url": "https://open.spotify.com/album/4C3RHB97YZjgJfxCCYrySe"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Southern Comfort (Trap Remix)",
+      "url": "https://open.spotify.com/track/512wwvX0c5JkyhiF5siFL5"
+    },
+    {
+      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/5ZQXwmQwqasO0qWa7yIO1R"
       },

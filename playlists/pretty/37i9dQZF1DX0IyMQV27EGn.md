@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,891 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,954 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 27 | [No Witness](https://open.spotify.com/track/0hJJeoT5Rmi5IF3ZhC7TIZ) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 3:28 |
 | 28 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 |
 | 29 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 |
-| 30 | [Habit](https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Gabrielle Shonk](https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco) | 4:09 |
-| 31 | [Woman Go Wild](https://open.spotify.com/track/020YsiW7gnBiqTAmEg7eTc) | [Pixie Geldof](https://open.spotify.com/artist/2t0wLTcIYFtfsQU0erDjpZ) | [I'm Yours](https://open.spotify.com/album/1W9c669YOTvdVNkp2I5uCr) | 3:58 |
+| 30 | [Woman Go Wild](https://open.spotify.com/track/020YsiW7gnBiqTAmEg7eTc) | [Pixie Geldof](https://open.spotify.com/artist/2t0wLTcIYFtfsQU0erDjpZ) | [I'm Yours](https://open.spotify.com/album/1W9c669YOTvdVNkp2I5uCr) | 3:58 |
+| 31 | [Habit](https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Gabrielle Shonk](https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco) | 4:09 |
 | 32 | [Highway Vagabond](https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:53 |
 | 33 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 |
 | 34 | [Stompa](https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Harmony \(Deluxe\)](https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7) | 3:41 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 51 | [Serious Love](https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Serious Love](https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I) | 4:13 |
 | 52 | [Glass Piano](https://open.spotify.com/track/4Rz3FamBRVJ6s1d0B0XGJ4) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Kathleen II](https://open.spotify.com/album/53i39sp8XOhqNPZ9q7reFG) | 3:25 |
 | 53 | [The Dark](https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Dark](https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06) | 3:01 |
-| 54 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
-| 55 | [Occasionally](https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:14 |
+| 54 | [Occasionally](https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:14 |
+| 55 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
 | 56 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 |
 | 57 | [Get Free](https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Get Free](https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe) | 3:14 |
 | 58 | [The High Road](https://open.spotify.com/track/4pzFGh9NGkmnaZnFiTAoFb) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/5zkhFfJEVeDAIZUMt5evAd) | 4:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Left With Someone Else](https://open.spotify.com/track/0qin3yx9CCpBxiZRAwSeGJ) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [The Sting](https://open.spotify.com/album/4BIAvFCoghxvGNnxDtBYZM) | 3:15 |
 | 70 | [Hopeless Romantic](https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:30 |
 
-Snapshot ID: `MCxhNWNjN2I0NDE0ZTVkNTY5MDc0M2YzYzJlNThkOGI4ZWJmNGU3MTcz`
+Snapshot ID: `MCwwMWVmMzhkNjc4Njg1YzYyMTU0MmYzYjAwMzE0NjVhNTQ4YTU0MjZl`

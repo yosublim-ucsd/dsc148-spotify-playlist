@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Catana. \nDales play, dales power.",
-  "num_followers": 11921,
+  "num_followers": 11931,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDExMjdkZWFmYWRjOGJhNjA3MDVmNzM0ZmVhNzlkNjBhM2QxOWM5",
+  "snapshot_id": "MCxkODk0ODk5OTlkZTI4N2Y2ZjRhODk4NjcwYWZkOGQ3NDkyNzk5MTZk",
   "tracks": [
     {
       "added_at": "2023-05-03 03:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
+        "name": "\u00c0 plus",
+        "url": "https://open.spotify.com/album/0IG3DVhsvBbHuXFCFVUfEn"
+      },
+      "artists": [
+        {
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+        }
+      ],
+      "duration_ms": 190197,
+      "name": "Brillando alto",
+      "url": "https://open.spotify.com/track/4quLPeHhsbFiWrK6znBrv0"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
         "name": "1000",
         "url": "https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "\u00c0 plus",
-        "url": "https://open.spotify.com/album/0IG3DVhsvBbHuXFCFVUfEn"
-      },
-      "artists": [
-        {
-          "name": "Catana",
-          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
-        }
-      ],
-      "duration_ms": 190197,
-      "name": "Brillando alto",
-      "url": "https://open.spotify.com/track/4quLPeHhsbFiWrK6znBrv0"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "Hielo",
         "url": "https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 188076,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "00",
-        "url": "https://open.spotify.com/album/7AksLApsTy2yNIFbja6kHt"
-      },
-      "artists": [
-        {
-          "name": "Bela",
-          "url": "https://open.spotify.com/artist/6MigjLa7elvwPnuyymlHs2"
-        }
-      ],
-      "duration_ms": 77560,
-      "name": "M\u00e1gica",
-      "url": "https://open.spotify.com/track/1IshjcBxK0F1LoeQZejqoU"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -799,6 +783,22 @@
       "duration_ms": 265952,
       "name": "MARIPOSAS",
       "url": "https://open.spotify.com/track/57vFoxxvfJQKg5P2dLfGQb"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "00",
+        "url": "https://open.spotify.com/album/7AksLApsTy2yNIFbja6kHt"
+      },
+      "artists": [
+        {
+          "name": "Bela",
+          "url": "https://open.spotify.com/artist/6MigjLa7elvwPnuyymlHs2"
+        }
+      ],
+      "duration_ms": 77560,
+      "name": "M\u00e1gica",
+      "url": "https://open.spotify.com/track/1IshjcBxK0F1LoeQZejqoU"
     },
     {
       "added_at": "2023-05-03 03:00:00",

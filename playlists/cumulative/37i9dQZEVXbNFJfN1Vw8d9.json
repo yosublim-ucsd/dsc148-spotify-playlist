@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "4 PREZ",
+        "url": "https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150813,
+      "name": "4 PREZ",
+      "url": "https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr"
+    },
+    {
+      "album": {
         "name": "Warm Up",
         "url": "https://open.spotify.com/album/7IJ4Cok2sQKI7JgpPyDIWr"
       },
@@ -434,6 +452,24 @@
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "album": {
+        "name": "Acr\u00f3stico",
+        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170785,
+      "name": "Acr\u00f3stico",
+      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
     },
     {
       "album": {
@@ -838,6 +874,32 @@
       "duration_ms": 189653,
       "name": "Anda Suelta",
       "url": "https://open.spotify.com/track/5vQwugZBbpQxqe5H0GN3AY"
+    },
+    {
+      "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261713,
+      "name": "Andando",
+      "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
     },
     {
       "album": {
@@ -1990,7 +2052,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 198666,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/16dUQ4quIHDe4ZZ0wF1EMN"
@@ -4796,7 +4858,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -6274,6 +6336,24 @@
       "duration_ms": 188106,
       "name": "LA FAMA (with The Weeknd)",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
+    },
+    {
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201044,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2o6pi3nx1UAYxuBccabCMQ"
     },
     {
       "album": {
@@ -9878,10 +9958,32 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 186000,
       "name": "Paz",
       "url": "https://open.spotify.com/track/0zPR15MfQqMMotAnKesKR4"
+    },
+    {
+      "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/5wFtUYK4cSjgVc760eLlcs"
     },
     {
       "album": {
@@ -13642,7 +13744,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 180672,
       "name": "VISTA AL MAR",
       "url": "https://open.spotify.com/track/5q86iSKkBtOoNkdgEDY5WV"
@@ -14076,7 +14178,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 194400,
       "name": "YANKEE",
       "url": "https://open.spotify.com/track/0FirgnvrpCkkhdaq64Gfen"

@@ -4,7 +4,7 @@
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 24 min
+52 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Pretty Girls](https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:18 | 2022-10-28 |  |
 | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/track/6XBkVK0XMeSkXyG6lN2QDk) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [HARAM!](https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1) | 2:33 | 2022-10-28 |  |
 | [Roaring 20s](https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Roaring 20s](https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af) | 2:09 | 2022-10-28 |  |
-| [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 | 2023-02-25 |  |
+| [Rodeo \(feat\. Flo Milli\) \- A7S Remix](https://open.spotify.com/track/2mcTeFUWMOdG9AFsHt7jbJ) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Rodeo \(feat\. Flo Milli\) \[A7S Remix\]](https://open.spotify.com/album/0z2jhJxFjWF52qtWS1ZJmW) | 3:15 | 2023-05-13 |  |
+| [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 | 2023-02-25 | 2023-05-14 |
 | [Rodeo Remix \(feat\. Flo Milli\) \[Sped Up Version\]](https://open.spotify.com/track/59802nBw0MFfy5D0KywW2a) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo Remix \(feat\. Flo Milli\) \[Sped Up Version\]](https://open.spotify.com/album/2qJA56ITockA3bdWlUJEK2) | 3:07 | 2023-04-08 |  |
 | [Sexy \(Remix\) \- feat\. Flo Milli](https://open.spotify.com/track/2UchverhvMczB8NoXrNWwU) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sexy \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/4S1It1aTTWaMPblmRNy3DX) | 3:48 | 2022-10-28 |  |
 | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/track/2kzEf3Bg7S43YuSFPI3462) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/album/3rNyJVQPRgctJUoonHIfNf) | 2:56 | 2022-10-28 |  |

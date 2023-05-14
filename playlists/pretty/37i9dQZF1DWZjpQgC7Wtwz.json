@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hay tamales! \u00a1Tamales calientitos! Verdes, rojos, de dulce, de mole, \u00a1y hasta oaxaque\u00f1os!",
-  "num_followers": 66927,
+  "num_followers": 67025,
   "original_name": "La Tamalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWU4OWZmN2U0MDU1N2RkMzI4NjM3MmU4ZGY3MmE1MWY1NGEwMzM3",
+  "snapshot_id": "MCw2ODY3Mjg2ZDUyMDY4NTAyOGM2M2IwMDM5NGZhNGYxYmZiNTVhYmEz",
   "tracks": [
     {
       "added_at": "2023-01-10 23:36:39",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-01-10 23:36:39",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Fuentes de Ortiz",
-      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
-    },
-    {
-      "added_at": "2023-01-10 23:36:39",
-      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 186360,
       "name": "El Precio De La Soledad",
       "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
+    },
+    {
+      "added_at": "2023-01-10 23:36:39",
+      "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Fuentes de Ortiz",
+      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
     },
     {
       "added_at": "2023-01-10 23:36:39",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-01-10 23:36:39",
       "album": {
-        "name": "Cabron Yo Puedo",
-        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
-      },
-      "artists": [
-        {
-          "name": "Grupo Origen",
-          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
-        }
-      ],
-      "duration_ms": 195895,
-      "name": "Cabron Yo Puedo",
-      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
-    },
-    {
-      "added_at": "2023-01-10 23:36:39",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 289013,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+    },
+    {
+      "added_at": "2023-01-10 23:36:39",
+      "album": {
+        "name": "Cabron Yo Puedo",
+        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
+      },
+      "artists": [
+        {
+          "name": "Grupo Origen",
+          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+        }
+      ],
+      "duration_ms": 195895,
+      "name": "Cabron Yo Puedo",
+      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Destilando Amor",
-        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "El Primer Instinto",
         "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 206133,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Destilando Amor",
+        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
     },
     {
       "added_at": "2023-01-10 23:36:39",
@@ -889,6 +889,22 @@
       "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
     },
     {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Las flores",
+      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+    },
+    {
       "added_at": "2023-01-10 23:36:39",
       "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
@@ -911,22 +927,6 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Las flores",
-      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
     },
     {
       "added_at": "2023-01-10 23:36:39",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Mas Grande Que Nunca",
         "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 281186,
       "name": "Dese\u00e1ndote",
       "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Hola Chicuelos",
-        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Peligroso Pop",
-      "url": "https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Un Panteon Muy Vivo",
         "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 423360,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Hola Chicuelos",
+        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Peligroso Pop",
+      "url": "https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP"
     },
     {
       "added_at": "2021-11-30 20:14:28",

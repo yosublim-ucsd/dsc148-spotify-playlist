@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 
 > Canciones de rock dignas de festival para dedicarle a tu media naranja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,129 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,217 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 45 | [Llamame, Si Me Necesitas](https://open.spotify.com/track/42HQLzOUKwStGDTNlX0DzY) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:29 |
 | 46 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 |
 | 47 | [Cenit Acústico](https://open.spotify.com/track/0rHLMqXVjJlfV7GrHujBvl) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Trance](https://open.spotify.com/album/3aHa7uq45Sob1hGiKAiwxi) | 4:29 |
-| 48 | [Lo Pasado, Pasado](https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [A 30 Años](https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY) | 3:21 |
-| 49 | [Lupita](https://open.spotify.com/track/2LGgcycTOrbMQ43pEJy8Xh) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Pito Perez](https://open.spotify.com/album/6oqejsCHRGasHg4adH98C4) | 4:01 |
+| 48 | [Lupita](https://open.spotify.com/track/2LGgcycTOrbMQ43pEJy8Xh) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Pito Perez](https://open.spotify.com/album/6oqejsCHRGasHg4adH98C4) | 4:01 |
+| 49 | [Lo Pasado, Pasado](https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [A 30 Años](https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY) | 3:21 |
 | 50 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
 
-Snapshot ID: `MCw5OWFkMDE0NGU2ZDlkNWI4ZGQ5MjRiODY1ZDgzMGY4MmIyOTUwMDZm`
+Snapshot ID: `MCwzMDdjN2EwYzBjYzQxNjdhZmM1OTYwYTNhYzNhNzBiZDVmNDc4ZDg0`

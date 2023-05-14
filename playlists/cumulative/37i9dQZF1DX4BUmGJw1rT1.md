@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-159 songs - 11 hr 13 min
+160 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bring It On Home To Me](https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:10 | 2022-05-25 |  |
 | [Bring It On Home To Me](https://open.spotify.com/track/68ixAqZIHxaLsyehgzknzz) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3qenNNOnGfbu4aZBQOy8hT) | 3:10 | 2022-05-25 | 2022-07-29 |
 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 | 2022-08-18 |  |
+| [Come Home Soon](https://open.spotify.com/track/7eRtuwFqQMdzpNM6arbA5s) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Get Behind the Wheel](https://open.spotify.com/album/38uG2SenaORYitq26CJnh9) | 2:43 | 2023-05-05 |  |
 | [Come on Sunshine](https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Come on Sunshine](https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f) | 4:16 | 2022-10-10 | 2023-02-25 |
 | [Come Rain or Come Shine](https://open.spotify.com/track/2dAm3t3HT91qhKEgZFhzmv) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:11 | 2022-05-25 |  |
 | [Corinna \- From "The Natch'l Blues"](https://open.spotify.com/track/1NoIZ1658UHpicKQ9rcWYh) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 3:02 | 2022-07-29 |  |
@@ -121,7 +122,7 @@
 | [Oh Frustration](https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Oh Frustration](https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu) | 3:46 | 2022-10-03 | 2023-03-05 |
 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-05-25 |  |
 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-05-25 |  |
-| [Picture In A Frame](https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh) | [Rebecca Haviland and Whiskey Heart](https://open.spotify.com/artist/0qGNklhh1ZQijQdXDgk1tz) | [Picture In A Frame](https://open.spotify.com/album/0A0eP6PRENVryNshAfaWPc) | 4:17 | 2023-03-16 |  |
+| [Picture In A Frame](https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh) | [Rebecca Haviland and Whiskey Heart](https://open.spotify.com/artist/0qGNklhh1ZQijQdXDgk1tz) | [Picture In A Frame](https://open.spotify.com/album/0A0eP6PRENVryNshAfaWPc) | 4:17 | 2023-03-16 | 2023-05-14 |
 | [Pulling Down The Ride](https://open.spotify.com/track/1rFeL11BESHiNemWysu9eE) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7hhxms8KCwlQCWffIJpN9b) | 2:40 | 2022-10-03 | 2023-01-13 |
 | [Pulling Down The Ride](https://open.spotify.com/track/2bZNey5v7dHTruDyAAgxVg) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7wa5uPSOSbDkqmv5oUS92V) | 2:40 | 2022-09-07 | 2022-09-21 |
 | [Pulling Down The Ride](https://open.spotify.com/track/7JOMqLn74IaT8TkETwBTwS) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/2ydEbiuezhkdsJwa3l7L19) | 2:40 | 2022-09-23 | 2022-10-09 |

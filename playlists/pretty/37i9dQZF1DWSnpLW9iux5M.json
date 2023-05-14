@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.",
-  "num_followers": 54827,
+  "num_followers": 54825,
   "original_name": "Gospel Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDlmODdhYzU4MTUwNTIxYThlMTlkNDcyMjE5MTAyYjkwYmVlYzg5",
+  "snapshot_id": "MCxlZGE5YWUyMjk0MWE3MWQwNWYzNjY2MjVhYTU3MDhlZGRhOTNkMmY5",
   "tracks": [
     {
       "added_at": "2022-12-10 23:11:01",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
-        "name": "Fred Hammond Christmas... Just Remember",
-        "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
       },
       "artists": [
         {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
         }
       ],
-      "duration_ms": 230026,
-      "name": "Go Tell It On The Mountain",
-      "url": "https://open.spotify.com/track/1wJ8rs2jbN3fE1aRU3IsNa"
+      "duration_ms": 263866,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
     },
     {
       "added_at": "2022-12-10 23:11:01",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+        "name": "Fred Hammond Christmas... Just Remember",
+        "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
       },
       "artists": [
         {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
         }
       ],
-      "duration_ms": 263866,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
+      "duration_ms": 230026,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/1wJ8rs2jbN3fE1aRU3IsNa"
     },
     {
       "added_at": "2022-12-10 23:11:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
-        "name": "Silent Night: Songs For Christmas",
-        "url": "https://open.spotify.com/album/5xInXUBHp3zpSTpwUsgvmp"
-      },
-      "artists": [
-        {
-          "name": "Mahalia Jackson",
-          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
-        }
-      ],
-      "duration_ms": 234440,
-      "name": "O Little Town of Bethlehem",
-      "url": "https://open.spotify.com/track/68edTo4Prl09iToMTtqanW"
-    },
-    {
-      "added_at": "2022-12-10 23:11:01",
-      "album": {
         "name": "Infinite Christmas",
         "url": "https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 265475,
       "name": "Beautiful Christmas",
       "url": "https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0"
+    },
+    {
+      "added_at": "2022-12-10 23:11:01",
+      "album": {
+        "name": "Silent Night: Songs For Christmas",
+        "url": "https://open.spotify.com/album/5xInXUBHp3zpSTpwUsgvmp"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+        }
+      ],
+      "duration_ms": 234440,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/68edTo4Prl09iToMTtqanW"
     },
     {
       "added_at": "2022-12-10 23:11:01",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
+        "name": "A Mary Mary Christmas",
+        "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "'Tis the Season",
+      "url": "https://open.spotify.com/track/2v73c52CSbgGcYnpoGF7Dw"
+    },
+    {
+      "added_at": "2022-12-10 23:11:01",
+      "album": {
         "name": "Let There Be Peace on Earth",
         "url": "https://open.spotify.com/album/0hTxmgpCiExm895BIhQ6Vv"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
-        "name": "A Mary Mary Christmas",
-        "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "'Tis the Season",
-      "url": "https://open.spotify.com/track/2v73c52CSbgGcYnpoGF7Dw"
-    },
-    {
-      "added_at": "2022-12-10 23:11:01",
-      "album": {
         "name": "What Christmas Really Means",
         "url": "https://open.spotify.com/album/4ZNkaeKVTxeVewNBM9fLLw"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 247708,
       "name": "What Christmas Really Means",
       "url": "https://open.spotify.com/track/0ADx1ssYtTWJODfaTAfL8O"
-    },
-    {
-      "added_at": "2022-12-10 23:11:01",
-      "album": {
-        "name": "Christmas with Mahalia",
-        "url": "https://open.spotify.com/album/0MXMxhg7CR3TMsvlnwWJT0"
-      },
-      "artists": [
-        {
-          "name": "Mahalia Jackson",
-          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "It Came Upon the Midnight Clear",
-      "url": "https://open.spotify.com/track/4oA28gyvU6PMCH9nAGP2z1"
     },
     {
       "added_at": "2022-12-10 23:11:01",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
+        "name": "Christmas with Mahalia",
+        "url": "https://open.spotify.com/album/0MXMxhg7CR3TMsvlnwWJT0"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "It Came Upon the Midnight Clear",
+      "url": "https://open.spotify.com/track/4oA28gyvU6PMCH9nAGP2z1"
+    },
+    {
+      "added_at": "2022-12-10 23:11:01",
+      "album": {
         "name": "The Christmas Collection, Vol. II",
         "url": "https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
-        "name": "At Christmas",
-        "url": "https://open.spotify.com/album/3jmX3MSnMgdVtr8Lni0Sdt"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 200375,
-      "name": "Someday At Christmas",
-      "url": "https://open.spotify.com/track/0pS8XbINFfYdlFo8W8Z41L"
-    },
-    {
-      "added_at": "2022-12-10 23:11:01",
-      "album": {
         "name": "A Timeless Christmas",
         "url": "https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 324560,
       "name": "Go Tell",
       "url": "https://open.spotify.com/track/32u9xTZ9N9fJX9mMNymVhx"
+    },
+    {
+      "added_at": "2022-12-10 23:11:01",
+      "album": {
+        "name": "At Christmas",
+        "url": "https://open.spotify.com/album/3jmX3MSnMgdVtr8Lni0Sdt"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 200375,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/0pS8XbINFfYdlFo8W8Z41L"
     },
     {
       "added_at": "2022-12-10 23:11:01",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
+        "name": "Joy To The World",
+        "url": "https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 340800,
+      "name": "Glory To The Lamb",
+      "url": "https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy"
+    },
+    {
+      "added_at": "2022-12-10 23:11:01",
+      "album": {
         "name": "Gospel Heritage Christmas Vol. 2",
         "url": "https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p"
       },
@@ -1179,34 +1195,18 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
-        "name": "Joy To The World",
-        "url": "https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK"
+        "name": "You Are Our Joy Christmas - Single",
+        "url": "https://open.spotify.com/album/5ZZZb56SsULyqOgcgTzuMi"
       },
       "artists": [
         {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
         }
       ],
-      "duration_ms": 340800,
-      "name": "Glory To The Lamb",
-      "url": "https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy"
-    },
-    {
-      "added_at": "2022-12-10 23:11:01",
-      "album": {
-        "name": "A Soulful Holiday",
-        "url": "https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk"
+      "duration_ms": 228160,
+      "name": "You Are Our Joy Christmas",
+      "url": "https://open.spotify.com/track/1ubujbBg5S9NvxNtmJzOBB"
     },
     {
       "added_at": "2022-12-10 23:11:01",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
-        "name": "You Are Our Joy Christmas - Single",
-        "url": "https://open.spotify.com/album/5ZZZb56SsULyqOgcgTzuMi"
+        "name": "A Soulful Holiday",
+        "url": "https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT"
       },
       "artists": [
         {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
         }
       ],
-      "duration_ms": 228160,
-      "name": "You Are Our Joy Christmas",
-      "url": "https://open.spotify.com/track/1ubujbBg5S9NvxNtmJzOBB"
+      "duration_ms": 248093,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk"
     },
     {
       "added_at": "2022-12-10 23:11:01",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 264573,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/4DEyCl5t6wuxLZnUBQss8N"
-    },
-    {
-      "added_at": "2022-12-10 23:11:01",
-      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/0rYGez2vLeVnJGrWDu80yy"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 160055,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/0kMkVBWiiErubE4fqUwZBF"
+    },
+    {
+      "added_at": "2022-12-10 23:11:01",
+      "album": {
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4DEyCl5t6wuxLZnUBQss8N"
     },
     {
       "added_at": "2022-12-10 23:11:01",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
-        "name": "Holiday Love Sounds of Christmas",
-        "url": "https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs"
-      },
-      "artists": [
-        {
-          "name": "Joe Pace",
-          "url": "https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0"
-        },
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 298680,
-      "name": "What a Wonderful Savior",
-      "url": "https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo"
-    },
-    {
-      "added_at": "2022-12-10 23:11:01",
-      "album": {
         "name": "A Red Guerrilla CHRISTmas, Vol. 2",
         "url": "https://open.spotify.com/album/6a4PIxgqppsT0bgOTMe3ca"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 409946,
       "name": "Holy (The Crispell Legacy) (feat. Melvin Crispell III)",
       "url": "https://open.spotify.com/track/3ucYWAeWRbwmR5sUzyGjnA"
+    },
+    {
+      "added_at": "2022-12-10 23:11:01",
+      "album": {
+        "name": "Holiday Love Sounds of Christmas",
+        "url": "https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs"
+      },
+      "artists": [
+        {
+          "name": "Joe Pace",
+          "url": "https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 298680,
+      "name": "What a Wonderful Savior",
+      "url": "https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo"
     },
     {
       "added_at": "2022-12-10 23:11:01",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
-        "name": "I'm So Glad It's Christmas",
-        "url": "https://open.spotify.com/album/1mDAVcoJ8sJGTWKgVY8GB3"
-      },
-      "artists": [
-        {
-          "name": "The Rance Allen Group",
-          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "I'm So Glad It's Christmas",
-      "url": "https://open.spotify.com/track/3ooBBNfyGhJcctJuEvwQuF"
-    },
-    {
-      "added_at": "2022-12-10 23:11:01",
-      "album": {
         "name": "Black Nativity: A Gospel Christmas Musical Experience",
         "url": "https://open.spotify.com/album/0YNDjOd9X8zQatXKeBxH2X"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 194626,
       "name": "What Child Is This",
       "url": "https://open.spotify.com/track/3lcGSSpKMK42flmisBIgwC"
+    },
+    {
+      "added_at": "2022-12-10 23:11:01",
+      "album": {
+        "name": "I'm So Glad It's Christmas",
+        "url": "https://open.spotify.com/album/1mDAVcoJ8sJGTWKgVY8GB3"
+      },
+      "artists": [
+        {
+          "name": "The Rance Allen Group",
+          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "I'm So Glad It's Christmas",
+      "url": "https://open.spotify.com/track/3ooBBNfyGhJcctJuEvwQuF"
     },
     {
       "added_at": "2022-12-10 23:11:01",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2022-12-10 23:11:01",
       "album": {
-        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
-        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
-      },
-      "artists": [
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        },
-        {
-          "name": "The New Life Community Choir",
-          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Let Us Adore Him",
-      "url": "https://open.spotify.com/track/7peW5UXzirPe8Lhcsc3cxi"
-    },
-    {
-      "added_at": "2022-12-10 23:11:01",
-      "album": {
         "name": "R&B Christmas Songs",
         "url": "https://open.spotify.com/album/5ij3UzfTQaLv6etmkHNjaU"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 158700,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/6JPIOL1YBQxaorbxA9MyN6"
+    },
+    {
+      "added_at": "2022-12-10 23:11:01",
+      "album": {
+        "name": "Joy To The World",
+        "url": "https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "No Christmas Without You",
+      "url": "https://open.spotify.com/track/2OVd9bw697vfuskRx65JQi"
     }
   ],
   "unique_name": "Gospel Christmas",

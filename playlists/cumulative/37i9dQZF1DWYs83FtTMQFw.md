@@ -4,7 +4,7 @@
 
 > The hottest tracks of today ft\. Metro Boomin, Nicki Minaj, Lil Uzi Vert and more
 
-909 songs - 1 day 22 hr 24 min
+910 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-07-10 | 2021-07-31 |
 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 | 2022-10-28 | 2023-03-04 |
 | [Alcatraz](https://open.spotify.com/track/5MNBATfg8bUvBkMGIFQ1PU) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Alcatraz](https://open.spotify.com/album/3Mo0CFMWfN5VtsZ5X6KbEj) | 2:21 | 2022-05-20 | 2022-06-11 |
+| [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-13 |  |
 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 | 2021-03-14 | 2021-03-26 |
 | [Alone](https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:11 | 2022-08-12 | 2023-02-18 |
 | [Alone](https://open.spotify.com/track/7Bmcpb69GKXCmfHigdHuJO) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Alone](https://open.spotify.com/album/1slqa0Str4QSzkzREBzud4) | 3:07 | 2022-10-21 | 2022-12-03 |
@@ -753,7 +754,7 @@
 | [Stressed](https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed](https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8) | 3:03 | 2022-10-14 | 2022-11-05 |
 | [Strub Tha Ground \(Feat\. Yung Miami\)](https://open.spotify.com/track/64EQj1J59L8sGw9FtzxcSW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Strub Tha Ground \(Feat\. Yung Miami\)](https://open.spotify.com/album/1ZwJ3x0rtnmde7sukHI3xR) | 3:14 | 2021-10-23 | 2021-11-13 |
 | [Sucka Or Sum](https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sucka Or Sum](https://open.spotify.com/album/5gaVPtt0TIRuPeRfQeJ63P) | 3:09 | 2023-01-27 | 2023-03-25 |
-| [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 | 2023-05-12 |  |
+| [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 | 2023-05-12 | 2023-05-14 |
 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 | 2021-05-22 | 2021-07-24 |
 | [SUNDOWN \(feat\. Justin Bieber\)](https://open.spotify.com/track/7J9UCy56nirwKuf1IMYtE1) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 3:43 | 2022-02-04 | 2022-04-09 |
 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 | 2022-08-19 | 2023-01-14 |

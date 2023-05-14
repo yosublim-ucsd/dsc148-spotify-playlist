@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,335 likes - 90 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,380 likes - 90 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 77 | [Bud](https://open.spotify.com/track/2RB1ZrPDJe4kH2FhRcEzdO) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:35 |
 | 78 | [Crater Lake](https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM) | 1:54 |
 | 79 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
-| 80 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 |
-| 81 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 |
+| 80 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 |
+| 81 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 |
 | 82 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
 | 83 | [Pegasi](https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g) | [Jesca Hoop](https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u) | [Memories Are Now](https://open.spotify.com/album/3kDXlfIujTkCsbgmjy0Jwo) | 3:33 |
 | 84 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 89 | [Phoebe Told Me](https://open.spotify.com/track/6DQFgZEqTX5suz4luBta0M) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:56 |
 | 90 | [Sober](https://open.spotify.com/track/3fTokbLfwqwi5cMZmGcI4b) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 3:02 |
 
-Snapshot ID: `MCwyNWQzNzllZWUzMjg0MjEyYjE3YmIwYjA4NDNlNjFhNzMzMDA4Zjkx`
+Snapshot ID: `MCxiZTBhNjhjOTJjMmFjOTgzNDJhYzdmNGZmYTQzNjIyM2YzYzkzMzI3`

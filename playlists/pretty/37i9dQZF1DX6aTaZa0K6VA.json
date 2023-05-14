@@ -1,12 +1,12 @@
 {
   "description": "Super mega hits! Foto: Harry Styles",
-  "num_followers": 6566075,
+  "num_followers": 6567484,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmUyOWQ5N2RjMGQ3MDliMjhjYWU4MTZlMzFkNTVmNjU2M2JhMzdk",
+  "snapshot_id": "MCxhMjdkZjA1MmI2NTM5NjVlZGE0YzgxMDgxYWE2YzVlZjE2ODRjMjc0",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Die For You (Remix)",
-        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 232857,
-      "name": "Die For You - Remix",
-      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Die For You (Remix)",
+        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 232857,
+      "name": "Die For You - Remix",
+      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -471,6 +455,22 @@
       "duration_ms": 168926,
       "name": "Haegeum",
       "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 196453,
       "name": "Angels Like You",
       "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 268235,
       "name": "Double Fantasy (with Future)",
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Tell Me It's Real (Expanded Edition)",
         "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 229173,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -947,6 +947,26 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Memories...Do Not Open",
+        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Memories...Do Not Open",
-        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "Say It Right",
-      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
     },
     {
       "added_at": "2023-05-12 03:00:00",

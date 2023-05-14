@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu Hits hingga beberapa tahun lalu. Cover: Charlie Puth",
-  "num_followers": 569513,
+  "num_followers": 569718,
   "original_name": "Hits Banget",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzZjZjQ0NmI0MzdjYTg5N2U2N2FiZDZkMDU3YmNlY2ZmZDU5NTUy",
+  "snapshot_id": "MCxkNjkxZDI0OWU4NjVjZjQ1OWY3NTIwOGY4NDEyMzYwNjg2YTZjYzk0",
   "tracks": [
     {
       "added_at": "2023-05-04 17:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-05-04 17:00:00",
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    {
+      "added_at": "2023-05-04 17:00:00",
+      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
-    },
-    {
-      "added_at": "2023-05-04 17:00:00",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "That's What I Like",
-      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
       "added_at": "2023-05-04 17:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-04 17:00:00",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/1dQQ2QlnvXUehsRUrukKmf"
-    },
-    {
-      "added_at": "2023-05-04 17:00:00",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2023-05-04 17:00:00",
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1dQQ2QlnvXUehsRUrukKmf"
     },
     {
       "added_at": "2023-05-04 17:00:00",

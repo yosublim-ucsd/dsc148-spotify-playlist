@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska 100% hecho en México con chilito del que pica\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,104 likes - 108 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,109 likes - 108 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 60 | [Las Chicas Como Tú](https://open.spotify.com/track/262jGMuFthtLE5JrmRhQec) | [Radio Catoche](https://open.spotify.com/artist/5xghcJVVg0kwNKpf0aUdNm) | [Monstruo de Bares](https://open.spotify.com/album/47ZjISrfM9FkXYAMxjSTKZ) | 2:22 |
 | 61 | [Ni un paso atras](https://open.spotify.com/track/0DAixqXelWP3hwdUrJKP0F) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:37 |
 | 62 | [Marichú](https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [De Todo Tengo Señor](https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz) | 2:30 |
-| 63 | [Skarface](https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl) | [Los Chickléts](https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp) | [La Ciudad Es...Nuestra](https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz) | 1:00 |
-| 64 | [Espergesía](https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:34 |
+| 63 | [Espergesía](https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:34 |
+| 64 | [Skarface](https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl) | [Los Chickléts](https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp) | [La Ciudad Es...Nuestra](https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz) | 1:00 |
 | 65 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 |
 | 66 | [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Panico Latino](https://open.spotify.com/artist/4QT18Bb3BJ647bh6TWv30O) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 |
 | 67 | [Luna](https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Armada Hasta los Dientes V 1.5](https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9) | 3:56 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 78 | [Bum Bum](https://open.spotify.com/track/2qJVf6eIISbjq21DYHauO3) | [Buena Vibra Social Sound](https://open.spotify.com/artist/5qUgKXhgE42KrDsz6K4m01) | [Buena Vibra Social Sound, Vol\. 1](https://open.spotify.com/album/6gPi5aG2BtnE1gBVWUDCAu) | 3:53 |
 | 79 | [El Mundo No Esta Listo](https://open.spotify.com/track/1QwFA0yfArj0PEUau8yevB) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [El Mundo No Esta Listo](https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv) | 2:52 |
 | 80 | [alo alo](https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl) | [La trenza De La Abuela](https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM) | [Loco amor](https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL) | 3:00 |
-| 81 | [Blue Ska](https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Sueños \(Remastered\)](https://open.spotify.com/album/3vdd9bpIJGHyBpEhqS3OYx) | 3:01 |
-| 82 | [Lamento Egipcio](https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG) | [Módulo Ghetto](https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM) | [Lamento Egipcio](https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd) | 3:53 |
+| 81 | [Lamento Egipcio](https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG) | [Módulo Ghetto](https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM) | [Lamento Egipcio](https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd) | 3:53 |
+| 82 | [Blue Ska](https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Sueños \(Remastered\)](https://open.spotify.com/album/3vdd9bpIJGHyBpEhqS3OYx) | 3:01 |
 | 83 | [Lejos Otra Vez](https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [La Kruda Realidad](https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda) | 3:18 |
 | 84 | [Revoluciones](https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS) | [La Hoja Ensamble](https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE) | [Revoluciones](https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ) | 6:27 |
 | 85 | [Ciao](https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Ciao](https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce) | 4:23 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 107 | [Esta Noche](https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc) | 3:25 |
 | 108 | [El Dejado](https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:56 |
 
-Snapshot ID: `MCxkNjBkZWFlMTIwYTA1ODc1MWJlNmNmZmRkZjYxYzM2YTFlMzAyODVi`
+Snapshot ID: `MCw4ZGQ5MWNjODkxY2EwMzZkYjM2OGIyNjgzMWUwNzkwYTg1ODg2OWIz`

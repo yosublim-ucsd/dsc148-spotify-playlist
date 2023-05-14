@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 36 min
+53 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bam Bam](https://open.spotify.com/track/1kqu1lWNTNmwrRt8amTRSW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:15 | 2023-02-16 |  |
 | [Bang!](https://open.spotify.com/track/3lbzNC9c0ZAqwaZ4Yo5B6c) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:52 | 2023-02-16 |  |
 | [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 | 2023-02-16 |  |
+| [Boy’s a liar](https://open.spotify.com/track/77dqc8jtCbVyyxiEX5yzY2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Boy’s a liar](https://open.spotify.com/album/6qLtJJ9Al14QF9xzsWZX7d) | 1:58 | 2023-05-13 |  |
 | [Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/6kvCKoOvicKyHQcMHfQ8QR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/13n3AxGkZNijBNPegBW75F) | 3:36 | 2023-04-29 |  |
 | [Cake By The Ocean](https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50) | 3:24 | 2023-02-16 |  |
 | [Celestial](https://open.spotify.com/track/35vySABUNPY1XydF1PTAXp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Celestial](https://open.spotify.com/album/3rWTQxjBSROK4CmqSINoXb) | 3:30 | 2023-05-06 |  |
@@ -38,7 +39,7 @@
 | [Intentions](https://open.spotify.com/track/6gnkJg4PI3nFB2dH0p7Zcg) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:42 | 2023-02-16 |  |
 | [Kings & Queens](https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:26 | 2023-02-16 |  |
 | [Late Night Talking](https://open.spotify.com/track/60xkljg5VuJ2Syt0tq211j) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:57 | 2023-02-16 |  |
-| [Levitating](https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:04 | 2023-02-16 |  |
+| [Levitating](https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:04 | 2023-02-16 | 2023-05-14 |
 | [Love Again](https://open.spotify.com/track/4lqFiuMXlUwUgwDuvt4igC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:11 | 2023-02-16 |  |
 | [Montero \(Call Me By Your Name\)](https://open.spotify.com/track/6Dpvk8uvQyrpyCiqG46E2d) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:16 | 2023-03-04 | 2023-03-06 |
 | [Mood](https://open.spotify.com/track/788x9mdQZYIdw0sDZQn8St) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 1:59 | 2023-02-18 |  |

@@ -15454,7 +15454,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 97561,
       "name": "Malat\u00eca",
       "url": "https://open.spotify.com/track/7MYGQdJf4kucbcZnHRtfQ1"
@@ -15720,7 +15720,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 161379,
       "name": "Marolento",
       "url": "https://open.spotify.com/track/6qylu0VNKUfKiVi88WL3Ci"
@@ -16434,7 +16434,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 235858,
       "name": "Merindukanmu",
       "url": "https://open.spotify.com/track/6iWN7lzwq9LedX3F1g3sTy"
@@ -23731,6 +23731,24 @@
     },
     {
       "album": {
+        "name": "Soarele si Luna",
+        "url": "https://open.spotify.com/album/49qCedDRPg3yBRXtVmBYqJ"
+      },
+      "artists": [
+        {
+          "name": "Pasha Parfeni",
+          "url": "https://open.spotify.com/artist/1J9gxGgm6LhmCwTCdekIXb"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Soarele si Luna",
+      "url": "https://open.spotify.com/track/6SO3p9lb1qiPMN1e7iHAjv"
+    },
+    {
+      "album": {
         "name": "Sobran Motivos",
         "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
       },
@@ -27999,6 +28017,24 @@
     },
     {
       "album": {
+        "name": "Watergun",
+        "url": "https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172555,
+      "name": "Watergun",
+      "url": "https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -29686,7 +29722,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 223320,
       "name": "\u7d46\u30ce\u5947\u8de1",
       "url": "https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis"

@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 28865,
+  "num_followers": 28876,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDZhMTUxY2QzMzNiNDJlZmFmMDgzYzVmZmU2NTVhZjI5YjZhYzQ4",
+  "snapshot_id": "MCwzMzVlMDc2NDk2NmViNzJkMzdiOWQ2MmU5MzA4NTU5YjI1NTk0Njgz",
   "tracks": [
     {
       "added_at": "2022-12-20 17:52:39",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 208912,
+      "name": "The Trembling of Glass",
+      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "A Mythology of Circles",
         "url": "https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG"
       },
@@ -555,26 +571,6 @@
       "duration_ms": 212848,
       "name": "is this nature escape",
       "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Far Within Reach",
-        "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
-      },
-      "artists": [
-        {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        },
-        {
-          "name": "Ella Zwietnig",
-          "url": "https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "The Reckoning",
-      "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -611,22 +607,6 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 208912,
-      "name": "The Trembling of Glass",
-      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
         "name": "outside of your lifetime",
         "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 121000,
       "name": "Withdrawal",
       "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
+        "name": "Far Within Reach",
+        "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        },
+        {
+          "name": "Ella Zwietnig",
+          "url": "https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "The Reckoning",
+      "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -935,6 +935,26 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Cradle (Patience Rework)",
+        "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        },
+        {
+          "name": "Ben Frost",
+          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Cradle - Patience Rework",
+      "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Cradle (Patience Rework)",
-        "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
-      },
-      "artists": [
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        },
-        {
-          "name": "Ben Frost",
-          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Cradle - Patience Rework",
-      "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
     },
     {
       "added_at": "2022-12-20 17:52:39",

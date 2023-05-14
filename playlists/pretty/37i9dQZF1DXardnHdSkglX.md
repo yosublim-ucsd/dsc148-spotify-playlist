@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,547 likes - 106 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,786 likes - 106 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 105 | [Both Sides Now](https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 5:28 |
 | 106 | [Careless Whisper \(feat\. Stephenie Coker\)](https://open.spotify.com/track/78igxfQCKcsgQ1yeV0Vmpz) | [Costa Azul Quartet](https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK), [Stephenie Coker](https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 5:53 |
 
-Snapshot ID: `MCxiYzBmYTJiNDk3ZWRmMGMwNjc2MzdjOTU4YTIxYzc3MDEwOTE4OTQw`
+Snapshot ID: `MCxiNjg0OTUzNzkxODY5NjEzZTMxNzkxMDViOGE5YTBjMzliMjNlNDBm`

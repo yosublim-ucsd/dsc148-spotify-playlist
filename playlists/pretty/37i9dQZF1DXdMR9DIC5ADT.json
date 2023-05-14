@@ -1,12 +1,12 @@
 {
   "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: Jorja Smith",
-  "num_followers": 1603,
+  "num_followers": 1611,
   "original_name": "The WISHLIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmFjYmQ5ODc5NDY1Y2VhMjFhNDRkYjdjOTk3NGI1YmU4ZGEwNjQz",
+  "snapshot_id": "MCwwMjgyYjgxMzUxMjY1MmZiMTRjMGI1YTNlOTAxNTVjOTIxMjVkNjQ3",
   "tracks": [
     {
       "added_at": "2023-05-11 15:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 167538,
-      "name": "I miss you, I\u2019m sorry",
-      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
+      "duration_ms": 197465,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 197465,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
+      "duration_ms": 167538,
+      "name": "I miss you, I\u2019m sorry",
+      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -591,42 +591,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 209811,
-      "name": "Tomorrow 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
-        "name": "Let\u2019s Start Here.",
-        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "sAy sOMETHINg",
-      "url": "https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -651,6 +615,42 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "Let\u2019s Start Here.",
+        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "sAy sOMETHINg",
+      "url": "https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
     },
     {
       "added_at": "2023-05-11 15:00:00",

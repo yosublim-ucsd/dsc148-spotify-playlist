@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Jonas Brothers, Lil Durk & J\. Cole, Charlotte Cardin, and BABY GRAVY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,206 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,230 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 89 | [Jimmy's House](https://open.spotify.com/track/2qdtDf68UWK1hgicXydqsL) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Jimmy's House](https://open.spotify.com/album/5U5SvsEcdAgU9H0uivo76N) | 3:34 |
 | 90 | [Dawgcatcher](https://open.spotify.com/track/2zUNXcUrblPlCNlQJRZfmn) | [Amanda Marshall](https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO) | [Dawgcatcher](https://open.spotify.com/album/6DyWOSeOnFPb77kmjrGmPh) | 3:56 |
 | 91 | [Quand le rideau tombe](https://open.spotify.com/track/0DSYMpHAZhkXS8s0Xbwpi8) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246) | [Quand le rideau tombe](https://open.spotify.com/album/0FrO522nVjUtLMo4keDWan) | 3:08 |
-| 92 | [HIgher](https://open.spotify.com/track/21jTsW3RskhgJucF3bAZOq) | [Boogey the Beat](https://open.spotify.com/artist/0Kc8I2nrf9po7TU4VH3lnK), [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Cousins](https://open.spotify.com/album/1wnZuVgCUAAbVjqbiK8zkM) | 3:52 |
+| 92 | [Higher](https://open.spotify.com/track/21jTsW3RskhgJucF3bAZOq) | [Boogey the Beat](https://open.spotify.com/artist/0Kc8I2nrf9po7TU4VH3lnK), [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Cousins](https://open.spotify.com/album/1wnZuVgCUAAbVjqbiK8zkM) | 3:52 |
 | 93 | [Faux Rouges](https://open.spotify.com/track/0dpKiYTU2oltVeNR8hFaAm) | [Häzel](https://open.spotify.com/artist/2XuQe6qA4dziDhpLjxUzZx), [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [THIS TOO](https://open.spotify.com/album/6tXexHAySkobzl95v05V2y) | 4:40 |
 | 94 | [Up 2 U](https://open.spotify.com/track/13upxeKKuVkEKJ1sPw4C6n) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Up 2 U](https://open.spotify.com/album/2Eq0yhONFogji4pw9zMFId) | 3:13 |
 | 95 | [SOUL2SOUL](https://open.spotify.com/track/3oPxQpdUb4WsW9C9nK1Yzi) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [The Oracle](https://open.spotify.com/album/0uFLe5OZIuPbh5f22ouEs6) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [dressing room](https://open.spotify.com/track/49s62sKc0M1Mq2gS2uJgPC) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [dressing room](https://open.spotify.com/album/4wEzDAzUkRjj2Zef7iO49k) | 3:16 |
 | 100 | [Vati\-Klan](https://open.spotify.com/track/1a26LRo4cZzzwQm9dJQSSX) | [Q052](https://open.spotify.com/artist/2T6gwpmENgpNZTWLJ2bKVE) | [Vati\-Klan](https://open.spotify.com/album/0x7Zsa4qgdyFYKfnPFbN0c) | 2:58 |
 
-Snapshot ID: `MCxmYmQ4MzI3N2YyYWIyOGZjZWNkYWFhZGI4NGRmMjFmZDA3NGJiZmMz`
+Snapshot ID: `MCwyNTNlOGMzMjI2MjE1YzI0YjkxMDM4MTEzMDJiNjMwMTk1MGVlMGEx`

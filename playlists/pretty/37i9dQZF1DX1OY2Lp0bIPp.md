@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 
 > Giving motivation to your Monday\. You got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,656 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,660 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 2 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 |
 | 3 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
 | 4 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 |
-| 5 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 |
-| 6 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
+| 5 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
+| 6 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 |
 | 7 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 |
 | 8 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 |
 | 9 | [Ni\*\*as In Paris](https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:39 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 34 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
 | 35 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
 | 36 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 |
-| 37 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 |
-| 38 | [Good Feeling](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 4:08 |
+| 37 | [Good Feeling](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 4:08 |
+| 38 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 |
 | 39 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 |
 | 40 | [Headlines](https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:55 |
 | 41 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OY2Lp0bIPp.md) - [plain]
 | 91 | [Paradise](https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:42 |
 | 92 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\) \[Radio Edit\]](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 |
 | 93 | [Walking on Broken Glass](https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:13 |
-| 94 | [Runnin' \(Lose It All\)](https://open.spotify.com/track/5yZvaUVyuXfSVUaMumFi6l) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Arrow Benjamin](https://open.spotify.com/artist/2RWMTZ0AXNLBbTT2Evtbdj) | [Runnin' \(Lose It All\)](https://open.spotify.com/album/2YnYgyx7N8MkgQHCcRYfKP) | 3:33 |
-| 95 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
+| 94 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
+| 95 | [Runnin' \(Lose It All\)](https://open.spotify.com/track/5yZvaUVyuXfSVUaMumFi6l) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Arrow Benjamin](https://open.spotify.com/artist/2RWMTZ0AXNLBbTT2Evtbdj) | [Runnin' \(Lose It All\)](https://open.spotify.com/album/2YnYgyx7N8MkgQHCcRYfKP) | 3:33 |
 | 96 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 |
 | 97 | [New Shoes](https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:23 |
-| 98 | [Woman Like Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 3:49 |
-| 99 | [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 |
+| 98 | [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 |
+| 99 | [Woman Like Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 3:49 |
 | 100 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 |
 
-Snapshot ID: `MCxjODgyZmVjNTZhNzdkMDIwZTIyYTgzNjZjNzRkZmRiY2EyMGNiZGIw`
+Snapshot ID: `MCxhN2IzM2IyYWMyMTZlMTkwMDE0YzI0YjE5YzBmYWNmOGE1MGZkZGM0`

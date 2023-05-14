@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,868 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,013 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 27 | [Nights Introlude](https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K) | 4:40 |
 | 28 | [Loser \- Edit](https://open.spotify.com/track/40Q0U7FEgv7ZVo4T9YSv2R) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Loser](https://open.spotify.com/album/0jwuVql8QMl6RxFopURjAc) | 2:53 |
 | 29 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
-| 30 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
-| 31 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
+| 30 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
+| 31 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
 | 32 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 |
 | 33 | [Truth Is Light](https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 3:59 |
 | 34 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
 | 50 | [Obvs](https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 3:51 |
 
-Snapshot ID: `MCxhZjRlM2ZlZTM4NTdhNTc0YmEwM2Y2NWQzNDk4YWVkOTQxMjAzOGE0`
+Snapshot ID: `MCxjMTMzNGYzZWEwMmQ0N2Y1NDU2NDhhZTM3MjFhZThkOWM1NmEwY2I4`

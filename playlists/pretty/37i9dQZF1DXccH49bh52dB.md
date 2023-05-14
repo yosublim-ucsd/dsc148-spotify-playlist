@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,121 likes - 107 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,738 likes - 107 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 55 | [Working For It](https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 3:51 |
 | 56 | [Goodbye \(feat\. Lyse\) \- Radio Edit](https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [Lyse](https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM) | [Goodbye \(feat\. Lyse\) \[Radio Edit\]](https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4) | 3:21 |
 | 57 | [Sex](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R) | [Sex](https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG) | 3:48 |
-| 58 | [Diamond Heart](https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Diamond Heart](https://open.spotify.com/album/6PZBlxE1awuzcZTkUwWa4C) | 3:59 |
-| 59 | [Cut Your Teeth \- Kygo Remix](https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Cut Your Teeth \(Kygo Remix\)](https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h) | 6:39 |
+| 58 | [Cut Your Teeth \- Kygo Remix](https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Cut Your Teeth \(Kygo Remix\)](https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h) | 6:39 |
+| 59 | [Diamond Heart](https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Diamond Heart](https://open.spotify.com/album/6PZBlxE1awuzcZTkUwWa4C) | 3:59 |
 | 60 | [Are You With Me \- Radio Edit](https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:18 |
 | 61 | [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 |
 | 62 | [Say It \- Illenium Remix](https://open.spotify.com/track/1wfZdPy5FRWsdWaAEOG0Ml) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Skin: The Remixes](https://open.spotify.com/album/0dXzrOfFmSXgqqnSA9r3dN) | 4:27 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 106 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 |
 | 107 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MCw4MTRiMmU4OGM0M2MyMDI5M2ZlZDE0YmJhZmRiYTQ5MzkwMzBhZDcx`
+Snapshot ID: `MCxlMGQxYzAwNDQ0NDU0ZTQ2NWU3NjUyZDhmMDc4NmY0OGU3OGY0NmU0`

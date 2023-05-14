@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-251 songs - 15 hr 28 min
+252 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 | 2022-03-11 | 2023-02-25 |
 | [Last Request](https://open.spotify.com/track/3t3jjmmEisYLguDIgpVj53) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [The Anthology](https://open.spotify.com/album/12cGytJRlgjkILDYLB7tdD) | 5:35 | 2021-12-03 | 2022-07-29 |
 | [Let Me Go](https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:36 | 2023-04-08 |  |
-| [Like a Ship \- Live from Strange Manor](https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like a Ship \(Live from Strange Manor\)](https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7) | 5:12 | 2023-04-07 |  |
+| [Like a Ship \- Live from Strange Manor](https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like a Ship \(Live from Strange Manor\)](https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7) | 5:12 | 2023-04-07 | 2023-05-14 |
 | [Like You'll Never See Me Again](https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Like You'll Never See Me Again](https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP) | 3:58 | 2021-12-03 |  |
 | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ) | 3:47 | 2021-12-03 | 2022-10-04 |
 | [Love \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:53 | 2022-09-09 | 2023-05-06 |
@@ -227,6 +227,7 @@
 | [Tell Him](https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 4:40 | 2021-12-03 | 2023-02-25 |
 | [The Best Things](https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [The Best Things](https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t) | 3:16 | 2021-12-03 | 2022-07-29 |
 | [The Better Benediction \(pt.2\) \(feat\. Lisa Knowles\-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard\)](https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Lisa Knowles\-Smith](https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 4:31 | 2022-10-14 |  |
+| [The Energy](https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [The Energy](https://open.spotify.com/album/5swCVMFkOuL2gVurAan9ZD) | 3:39 | 2023-05-05 |  |
 | [The Gym](https://open.spotify.com/track/6lKIAhKMaGiLJkqAdbz6vB) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [The Gym](https://open.spotify.com/album/1aGB1YZ8nU8AciTJwe9uks) | 3:19 | 2023-04-21 |  |
 | [The List \- Acoustic](https://open.spotify.com/track/1j5n8L8OiDeBsTQhNu1xHD) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [The List \(Acoustic\)](https://open.spotify.com/album/3eEAn7oPPZVL1Zzb1vYfQv) | 4:55 | 2023-02-24 | 2023-03-04 |
 | [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 | 2022-08-26 | 2022-10-13 |

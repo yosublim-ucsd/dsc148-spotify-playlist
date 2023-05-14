@@ -1,12 +1,12 @@
 {
   "description": "Leaders of the new school...Alternative R&B. Cover: Q",
-  "num_followers": 1384930,
+  "num_followers": 1385333,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTMxNDc0ZWY0Y2Q5ODBkMTU1NmNjNDkyZmFhYTgwOWJiYjQ4MWM4",
+  "snapshot_id": "MCw1NzE2ZTIxY2JiMDJlYTZhN2U4YzMwZDUyMmJkNDljYzE3NGM5MGNi",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
+      "added_at": "2023-05-05 05:12:02",
+      "album": {
+        "name": "ODEE",
+        "url": "https://open.spotify.com/album/2kELEjzqyXH1dZbeSC8bBx"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "ODEE",
+      "url": "https://open.spotify.com/track/1DJLf5CTIbjI8gPqfZZ6Wj"
+    },
+    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Masego",
@@ -1073,6 +1089,42 @@
       "url": "https://open.spotify.com/track/39AkkoGAl2ILUDU2u9g9En"
     },
     {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "WHITE CROCS (with Ryan Trey)",
+        "url": "https://open.spotify.com/album/7qSxPZiS8uO3QTELEUvFKB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "duration_ms": 147773,
+      "name": "WHITE CROCS (with Ryan Trey)",
+      "url": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
+    },
+    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Go\u00fbter +",
@@ -1087,6 +1139,22 @@
       "duration_ms": 208192,
       "name": "in ur motion",
       "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "THE PEACH",
+        "url": "https://open.spotify.com/album/6KUysdIaL4wtPiRXFAIYUI"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 146917,
+      "name": "THE PEACH",
+      "url": "https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1113,56 +1181,20 @@
       "url": "https://open.spotify.com/track/7BNvivBdgxjl80EugbEHFA"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "WHITE CROCS (with Ryan Trey)",
-        "url": "https://open.spotify.com/album/7qSxPZiS8uO3QTELEUvFKB"
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
         }
       ],
-      "duration_ms": 147773,
-      "name": "WHITE CROCS (with Ryan Trey)",
-      "url": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "THE PEACH",
-        "url": "https://open.spotify.com/album/6KUysdIaL4wtPiRXFAIYUI"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 146917,
-      "name": "THE PEACH",
-      "url": "https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 123966,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
+      "duration_ms": 205373,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1181,22 +1213,6 @@
       "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
-      "added_at": "2023-05-05 05:12:02",
-      "album": {
-        "name": "ODEE",
-        "url": "https://open.spotify.com/album/2kELEjzqyXH1dZbeSC8bBx"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "ODEE",
-      "url": "https://open.spotify.com/track/1DJLf5CTIbjI8gPqfZZ6Wj"
-    },
-    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "LUV (I KNOW I WANT THIS FOR REAL)",
@@ -1211,22 +1227,6 @@
       "duration_ms": 193400,
       "name": "LUV (I KNOW I WANT THIS FOR REAL)",
       "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp"
-      },
-      "artists": [
-        {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1553,6 +1553,22 @@
       "url": "https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/6BMAUmCmD1hlFLjp3OjaSS"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 155115,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/5WUKybZ2qvtWjZOKbK8JwF"
+    },
+    {
       "added_at": "2023-02-24 05:23:50",
       "album": {
         "name": "Water My Heart (feat. Mereba)",
@@ -1571,6 +1587,38 @@
       "duration_ms": 222334,
       "name": "Water My Heart (feat. Mereba)",
       "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Simp",
+        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Simp",
+      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "flora + fana",
+        "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 169579,
+      "name": "BAD bad",
+      "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1593,54 +1641,6 @@
       "url": "https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/6BMAUmCmD1hlFLjp3OjaSS"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 155115,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/5WUKybZ2qvtWjZOKbK8JwF"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "flora + fana",
-        "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 169579,
-      "name": "BAD bad",
-      "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Simp",
-        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 151676,
-      "name": "Simp",
-      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Form Follows Function",
@@ -1659,6 +1659,22 @@
       "duration_ms": 160909,
       "name": "Everytime the Night Starts Calling",
       "url": "https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 180545,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
     },
     {
       "added_at": "2022-09-09 04:06:40",
@@ -1691,22 +1707,6 @@
       "duration_ms": 99454,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
-    },
-    {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "allthefeels",
-        "url": "https://open.spotify.com/album/2DXytFWgK7lHidJLxTJzT2"
-      },
-      "artists": [
-        {
-          "name": "emawk",
-          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
-        }
-      ],
-      "duration_ms": 248669,
-      "name": "whelmed",
-      "url": "https://open.spotify.com/track/4dj5RTVztRLROh8hJi8uHl"
     }
   ],
   "unique_name": "Vanguard",

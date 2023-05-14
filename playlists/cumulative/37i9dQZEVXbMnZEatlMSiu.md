@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-624 songs - 1 day 13 hr 46 min
+626 songs - 1 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-11-30 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-06 | 2022-07-16 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-20 | 2022-11-14 |
-| [I'm Alive](https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [I'm Alive](https://open.spotify.com/album/494KRb9whsEPJ0IjKS4Dji) | 2:52 | 2022-02-16 |  |
+| [I'm Alive](https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [I'm Alive](https://open.spotify.com/album/494KRb9whsEPJ0IjKS4Dji) | 2:52 | 2022-02-16 | 2023-05-14 |
 | [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 | 2022-10-12 | 2022-10-14 |
 | [ILLELLA](https://open.spotify.com/track/34vqTQQDhOppwZDbpOJoip) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/2Mg8o2HDAbaGqbLtnNuVUX) | 2:46 | 2022-10-13 | 2022-11-03 |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-05-03 | 2021-06-01 |
@@ -390,7 +390,8 @@
 | [仗着](https://open.spotify.com/track/1jIVULaXnINSJMcEvcrgHt) | [陈壹千](https://open.spotify.com/artist/21pP8kvWpNCDhy2fMOTOAf) | [仗着](https://open.spotify.com/album/2bw4rMkuOI4tEiIp9XhoNG) | 3:38 | 2023-03-01 | 2023-04-27 |
 | [仗着](https://open.spotify.com/track/2hSRWmpK1gSuMTF3IvXfcC) | [陈壹千](https://open.spotify.com/artist/21pP8kvWpNCDhy2fMOTOAf) | [仗着](https://open.spotify.com/album/78i6GdaQxd3WAEcjDOVPY6) | 3:38 | 2023-04-26 |  |
 | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/track/5f939ccwoOJXxU2Sj6RxU4) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/album/7vLFjY35aHSs0xwkzCTVAR) | 4:31 | 2022-01-05 | 2022-01-21 |
-| [但](https://open.spotify.com/track/7IsKdMqFL1SbEnF6uzAMDi) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 2:22 | 2023-04-15 |  |
+| [但](https://open.spotify.com/track/76UXxB4NOsMLZqBQs0pBO5) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW) | 2:22 | 2023-05-13 |  |
+| [但](https://open.spotify.com/track/7IsKdMqFL1SbEnF6uzAMDi) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 2:22 | 2023-04-15 | 2023-05-14 |
 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 | 2021-10-23 | 2023-03-20 |
 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 | 2022-08-24 | 2022-09-15 |
 | [你不是第一個離開的人](https://open.spotify.com/track/4VY1gqGrmHm1slHOHKOdU5) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [啓示錄](https://open.spotify.com/album/4uO5m2nHREvFrTeR7rOCDx) | 3:20 | 2022-09-24 | 2022-10-19 |
@@ -462,7 +463,8 @@
 | [屬於你 \- 電影《一周的朋友》插曲](https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [屬於你 \(電影《一周的朋友》插曲\)](https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td) | 2:57 | 2022-07-01 | 2022-07-12 |
 | [山山 \(Original Version\) ft.高仰辰 Tipsy Kao](https://open.spotify.com/track/2sk6oHrR90KgmGU0848UnA) | [大淵 MUTA](https://open.spotify.com/artist/4pWDJ1CIEJGf6AzU1HIDgM), [高仰辰 Tipsy Kao](https://open.spotify.com/artist/3Z6L2EVQVQvet1oSZcBVno) | [山山 \(Original Version\) ft\. Tipsy](https://open.spotify.com/album/4VFLLs91AJWmp2D74GNqGO) | 2:41 | 2021-04-30 | 2021-05-06 |
 | [年少有為](https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [耳朵](https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy) | 4:39 | 2021-07-26 | 2021-07-31 |
-| [床](https://open.spotify.com/track/2C1Wgc25XHm7SUGnkC920N) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 3:52 | 2023-04-15 |  |
+| [床](https://open.spotify.com/track/2C1Wgc25XHm7SUGnkC920N) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 3:52 | 2023-04-15 | 2023-05-14 |
+| [床](https://open.spotify.com/track/4DNdhYUqi5X14VLd2JrUmL) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW) | 3:52 | 2023-05-13 |  |
 | [床](https://open.spotify.com/track/5UZ8FOWUJaZMIwsPbdzMKJ) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [床](https://open.spotify.com/album/0O5CfpoY982EgydHjOg4ot) | 3:52 | 2023-04-08 | 2023-04-16 |
 | [很久以後 \- 電影《可不可以,你也剛好喜歡我》主題曲](https://open.spotify.com/track/6lZKB76djHxzO0p2Y3E8vj) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [摩天動物園](https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS) | 4:50 | 2021-03-27\* | 2021-07-09 |
 | [得意的一天 A no is a no ft\. 陳嫺靜 \- Netflix《人選之人—造浪者》片尾曲](https://open.spotify.com/track/6Uy0XOFJC3cxAxdTIQNLKI) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [得意的一天 A no is a no ft\. 陳嫺靜 \- Netflix《人選之人—造浪者》片尾曲](https://open.spotify.com/album/0I7RCQGDGZoXI2ZyUYlhNL) | 3:07 | 2023-05-09 | 2023-05-11 |
@@ -514,7 +516,7 @@
 | [日常](https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:03 | 2021-04-19 | 2021-05-14 |
 | [星辰大海](https://open.spotify.com/track/47O6EPP78iQOOma2OVsYwS) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [星辰大海](https://open.spotify.com/album/6TMqv3zCwNxM8JbNeUpk4P) | 3:27 | 2021-10-11 | 2021-12-16 |
 | [晚风告白](https://open.spotify.com/track/6ZxvapmYLdLdRCdIFR0NRQ) | [星野](https://open.spotify.com/artist/0TCVoMXRAScM2rS0pvopLM) | [晚风告白](https://open.spotify.com/album/4b3cNiY27Dw9tuQG3hcuxO) | 3:55 | 2022-12-19 | 2023-03-19 |
-| [晴天](https://open.spotify.com/track/0F02KChKwbcQ3tk4q1YxLH) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/41FqSrFn288xsdvADjJGxH) | 4:29 | 2022-07-09 | 2023-05-10 |
+| [晴天](https://open.spotify.com/track/0F02KChKwbcQ3tk4q1YxLH) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/41FqSrFn288xsdvADjJGxH) | 4:29 | 2022-07-09 |  |
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-07-15 | 2022-10-25 |
 | [最好的時光](https://open.spotify.com/track/3UNnCf5rqnVbWvGDNs2Bup) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [最好的時光](https://open.spotify.com/album/6C05yqffaG1dElVIqOlcAn) | 3:55 | 2022-08-06 | 2022-08-25 |
 | [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 | 2022-07-23 |  |

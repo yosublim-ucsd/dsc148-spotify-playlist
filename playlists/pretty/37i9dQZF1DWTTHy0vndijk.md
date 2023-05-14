@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Feverse \(피버스\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,359 likes - 57 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,628 likes - 57 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 39 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 |
 | 40 | [D N D](https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [SELF](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) | 3:07 |
 | 41 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 |
-| 42 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
-| 43 | [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 |
+| 42 | [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 |
+| 43 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
 | 44 | [Dun Dun Dance](https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 3:40 |
 | 45 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 |
 | 46 | [Anymore](https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:17 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 56 | [FUN!](https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF) | 3:03 |
 | 57 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 |
 
-Snapshot ID: `MCw4MzAzZmNkYjg3OGNlOGM3NmY4ZGJmMDFkMTAyYzAwMWNiYjc4NGM3`
+Snapshot ID: `MCxhMjQ4ZmIxMDY5YzQ3ZDQ1ZjYzMzU1MDk5ZjU1YzQzYmY0MjBiYTEy`

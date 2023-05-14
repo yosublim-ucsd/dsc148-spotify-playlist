@@ -3308,7 +3308,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 463816,
       "name": "Funkenflug",
       "url": "https://open.spotify.com/track/319lRoBVgCsDtR3M3iEfS1"
@@ -3535,6 +3535,28 @@
     },
     {
       "album": {
+        "name": "Great Southern Land",
+        "url": "https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "ICEHOUSE",
+          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Great Southern Land",
+      "url": "https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf"
+    },
+    {
+      "album": {
         "name": "Youth Is Wasted on the Young",
         "url": "https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa"
       },
@@ -3666,7 +3688,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 214560,
-      "name": "Hear You Calling",
+      "name": "Hear you calling",
       "url": "https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW"
     },
     {

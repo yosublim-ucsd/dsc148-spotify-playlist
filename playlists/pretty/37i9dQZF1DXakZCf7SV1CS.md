@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,180 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,306 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 33 | [cloak n dagger](https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [cloak n dagger](https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00) | 2:09 |
 | 34 | [stupid horse](https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:01 |
 | 35 | [movinglikeazombie](https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [hi, i'm dante](https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV) | 1:56 |
-| 36 | [you don't love me](https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [Xaxanity](https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy) | [you don't love me](https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m) | 2:02 |
-| 37 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 |
+| 36 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 |
+| 37 | [you don't love me](https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [Xaxanity](https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy) | [you don't love me](https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m) | 2:02 |
 | 38 | [BFF](https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Slayyyter](https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz) | 3:35 |
 | 39 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 |
 | 40 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 74 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 |
 | 75 | [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 |
 
-Snapshot ID: `MCwzY2M4NmQzMWM4ZmZhYTk0MDI0MzQ3NzYzMGEyZmJmY2I3ODE2NTJm`
+Snapshot ID: `MCwwZmNiMGRiNzNkMWZjNmY0NWQ4MWJjMTEyZjI5NmU3YmQ2NjNjOWE5`

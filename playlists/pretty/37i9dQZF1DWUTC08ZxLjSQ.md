@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Mazyn\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,674 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,710 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Bouhdi](https://open.spotify.com/track/2NRaSmTlbNmwYYDsDMlgYR) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Méditerranée](https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt) | 3:07 |
 | 50 | [Ouda](https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Ouda](https://open.spotify.com/album/0uelvlu1wNTweumpauIrPJ) | 5:08 |
 
-Snapshot ID: `MCxjMGMyYzQ0ZDM4MDliZDk3MDdlZTI5NTAzNmFhYWYyNGJhMmMzM2E2`
+Snapshot ID: `MCxjMDRmOWEwMWI4NGU2NjJlYmNlOTQ3ZWQzNTA3MTQ1MDA0ZjRjMzgw`

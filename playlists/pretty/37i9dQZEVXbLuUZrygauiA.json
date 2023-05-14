@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Mexico.",
-  "num_followers": 214319,
+  "num_followers": 214328,
   "original_name": "Viral 50 - Mexico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM3MjU0MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM3MzQwNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "\"Classicaloid\" Chopin Musik",
+        "url": "https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N"
+      },
+      "artists": [
+        {
+          "name": "EHAMIC",
+          "url": "https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR"
+        }
+      ],
+      "duration_ms": 190460,
+      "name": "Koinu no Carnival -From \"Minute Waltz\"-",
+      "url": "https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Denise De Kalafe 10 Exitos",
         "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
@@ -45,39 +77,7 @@
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "LAS QUE NO TIENEN PAP\u00c1",
-        "url": "https://open.spotify.com/album/4jV2xPaptwajnBeamcIhbf"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "LAS QUE NO TIENEN PAP\u00c1",
-      "url": "https://open.spotify.com/track/6TS8WvNunHz3sIePWAxYfE"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
@@ -97,23 +97,23 @@
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
-        "name": "No digas nada",
-        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
+        "name": "LAS QUE NO TIENEN PAP\u00c1",
+        "url": "https://open.spotify.com/album/4jV2xPaptwajnBeamcIhbf"
       },
       "artists": [
         {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
         }
       ],
-      "duration_ms": 222545,
-      "name": "No digas nada",
-      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
+      "duration_ms": 198626,
+      "name": "LAS QUE NO TIENEN PAP\u00c1",
+      "url": "https://open.spotify.com/track/6TS8WvNunHz3sIePWAxYfE"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
@@ -133,7 +133,23 @@
       "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "No digas nada",
+        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "No digas nada",
+      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Sea Of Problems",
         "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Resident Alien",
         "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
@@ -165,7 +181,23 @@
       "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "Por Verte Feliz",
+        "url": "https://open.spotify.com/album/14YHPggstfzTkrgllA7fh6"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Por Verte Feliz",
+      "url": "https://open.spotify.com/track/6dI0iFnBCj9YkcWgXeoRkx"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
@@ -181,7 +213,23 @@
       "url": "https://open.spotify.com/track/2o6pi3nx1UAYxuBccabCMQ"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 252818,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Las Ag\u00fcitas",
         "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
@@ -197,7 +245,7 @@
       "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "ser humano",
         "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
@@ -213,7 +261,39 @@
       "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
@@ -233,55 +313,7 @@
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 252818,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
-      },
-      "artists": [
-        {
-          "name": "Jack Black",
-          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
-        }
-      ],
-      "duration_ms": 95440,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Cupid \u2013 Twin Ver. (FIFTY FIFTY) \u2013 Sped Up Version",
         "url": "https://open.spotify.com/album/2kzO9CzI8XI1gG207XPOgk"
@@ -297,39 +329,7 @@
       "url": "https://open.spotify.com/track/3B228N0GxfUCwPyfNcJxps"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "Por Verte Feliz",
-        "url": "https://open.spotify.com/album/14YHPggstfzTkrgllA7fh6"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Por Verte Feliz",
-      "url": "https://open.spotify.com/track/6dI0iFnBCj9YkcWgXeoRkx"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "EL HECHIZO",
         "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
@@ -349,7 +349,39 @@
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "duration_ms": 95440,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 249468,
+      "name": "Te Lo Prometo",
+      "url": "https://open.spotify.com/track/609ItcFreOqmwRjmBbocds"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Que Chulada",
         "url": "https://open.spotify.com/album/35HE2PSxlcKtIIkkC1bagQ"
@@ -365,7 +397,7 @@
       "url": "https://open.spotify.com/track/0EiUeRwMQOJF3MllMJSTnp"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Qu\u00e9 Onda Perdida",
         "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
@@ -405,23 +437,7 @@
       "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "ESENCIA",
-        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 249468,
-      "name": "Te Lo Prometo",
-      "url": "https://open.spotify.com/track/609ItcFreOqmwRjmBbocds"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
@@ -441,23 +457,7 @@
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "\u30a2\u30a4\u30c9\u30eb",
-        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 213233,
-      "name": "\u30a2\u30a4\u30c9\u30eb",
-      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Imagina",
         "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
@@ -477,79 +477,23 @@
       "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
-        "name": "Classy 101",
-        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 195986,
-      "name": "Classy 101",
-      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187723,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Do You Realize??",
-      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "El Azul",
-        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 187225,
-      "name": "El Azul",
-      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Espantan",
         "url": "https://open.spotify.com/album/3YGnRsecy1lKRSevwGWJja"
@@ -569,7 +513,79 @@
       "url": "https://open.spotify.com/track/2IYCG4VXCbmqZc9pZPCPwV"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Do You Realize??",
+      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "El Azul",
+        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 187225,
+      "name": "El Azul",
+      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "Classy 101",
+        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Classy 101",
+      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187723,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "La Banda Timbiriche",
         "url": "https://open.spotify.com/album/6mnU1xZvsEOqzuvlBtABO0"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/7B7HM8ZdsnhmRWc2HlzmzK"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Creep EP",
         "url": "https://open.spotify.com/album/1w1LIhUSQLKew0dYwiVX2q"
@@ -601,39 +617,23 @@
       "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
-        "name": "FLORES",
-        "url": "https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw"
+        "name": "Soul Mining",
+        "url": "https://open.spotify.com/album/65nhz1EbSruHtMqqLJrRja"
       },
       "artists": [
         {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
         }
       ],
-      "duration_ms": 160000,
-      "name": "FLORES",
-      "url": "https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI"
+      "duration_ms": 296333,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/3zf2eLN9Yf8ayZO5cn4Xh5"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "lo que hay x aqu\u00ed",
-        "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 155031,
-      "name": "lo que hay x aqu\u00ed",
-      "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw"
@@ -653,46 +653,26 @@
       "url": "https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
-        "name": "POP CUBE",
-        "url": "https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX"
+        "name": "lo que hay x aqu\u00ed",
+        "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 210600,
-      "name": "NIGHT DANCER",
-      "url": "https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX"
+      "duration_ms": 155031,
+      "name": "lo que hay x aqu\u00ed",
+      "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
-        "name": "Las Morras",
-        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 155550,
-      "name": "Las Morras",
-      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
+        "name": "FLORES",
+        "url": "https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw"
       },
       "artists": [
         {
@@ -700,12 +680,60 @@
           "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         }
       ],
-      "duration_ms": 210413,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
+      "duration_ms": 160000,
+      "name": "FLORES",
+      "url": "https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "No Sleep Till Brooklyn",
+      "url": "https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "El Guty - Grupo Mente Maestra",
+        "url": "https://open.spotify.com/album/3pmYLwvPuloi5XhsUjAaIJ"
+      },
+      "artists": [
+        {
+          "name": "5 Music MX",
+          "url": "https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "El Guty - Grupo Mente Maestra",
+      "url": "https://open.spotify.com/track/1W9PsA33ZMpTM3nRwpPPqn"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "511",
+        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 148321,
+      "name": "AL BORDE",
+      "url": "https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "M.L.P",
         "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
@@ -725,7 +753,59 @@
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "POP CUBE",
+        "url": "https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "NIGHT DANCER",
+      "url": "https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
+      "album": {
+        "name": "Las Morras",
+        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 155550,
+      "name": "Las Morras",
+      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
+    },
+    {
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Por las Noches",
         "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
@@ -741,71 +821,35 @@
       "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
-        "name": "El Guty - Grupo Mente Maestra",
-        "url": "https://open.spotify.com/album/3pmYLwvPuloi5XhsUjAaIJ"
+        "name": "G Low Kitty",
+        "url": "https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN"
       },
       "artists": [
         {
-          "name": "5 Music MX",
-          "url": "https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH"
-        }
-      ],
-      "duration_ms": 166356,
-      "name": "El Guty - Grupo Mente Maestra",
-      "url": "https://open.spotify.com/track/1W9PsA33ZMpTM3nRwpPPqn"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "511",
-        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
-      },
-      "artists": [
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 148321,
-      "name": "AL BORDE",
-      "url": "https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
         {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "No Sleep Till Brooklyn",
-      "url": "https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "Non Binary Place",
-        "url": "https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u"
-      },
-      "artists": [
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
         {
-          "name": "Godford",
-          "url": "https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu"
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
         }
       ],
-      "duration_ms": 267911,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/0DfRIdHGNm3JfPGjPqg6GJ"
+      "duration_ms": 214897,
+      "name": "G Low Kitty",
+      "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
@@ -825,56 +869,20 @@
       "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
     },
     {
-      "added_at": "2023-05-12 12:20:11",
+      "added_at": "2023-05-13 11:45:07",
       "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
+        "name": "Non Binary Place",
+        "url": "https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u"
       },
       "artists": [
         {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+          "name": "Godford",
+          "url": "https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu"
         }
       ],
-      "duration_ms": 173134,
-      "name": "FLOWER",
-      "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "Death of a Party Girl",
-        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Blue Hair",
-      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
-    },
-    {
-      "added_at": "2023-05-12 12:20:11",
-      "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 194543,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+      "duration_ms": 267911,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/0DfRIdHGNm3JfPGjPqg6GJ"
     }
   ],
   "unique_name": "Viral 50 - Mexico",

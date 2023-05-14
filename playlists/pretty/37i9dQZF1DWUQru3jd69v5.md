@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Emanuelino in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,827 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,851 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 40 | [Cartellate](https://open.spotify.com/track/5Je9KYjoG1LWRRtjdw7SXh) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [NENNO](https://open.spotify.com/artist/7IADlwb8drI8AC1fpbvbla), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [Cartellate](https://open.spotify.com/album/4mL94h0yztqxZ67HoqOdGa) | 2:27 |
 | 41 | [VICE CITY](https://open.spotify.com/track/5kbFiVFw6CKL4pqvHUX4PX) | [Lobbuten](https://open.spotify.com/artist/047IO82bFPi1unHOJ5PnWR) | [VICE CITY](https://open.spotify.com/album/6jXnldJZPaYPyYtad8BP71) | 2:39 |
 | 42 | [Libertà](https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Libertà](https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW) | 2:21 |
-| 43 | [GIÙ](https://open.spotify.com/track/1j8ilJHqTxKlQ3DKetEJ2N) | [XWOND](https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g), [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [GIÙ](https://open.spotify.com/album/5S4rwm3ULgDEA8JLBotomw) | 2:18 |
+| 43 | [GIÙ](https://open.spotify.com/track/1j8ilJHqTxKlQ3DKetEJ2N) | [XWOND](https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g), [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Reizon](https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX) | [GIÙ](https://open.spotify.com/album/5S4rwm3ULgDEA8JLBotomw) | 2:18 |
 | 44 | [Moped](https://open.spotify.com/track/6P7sMzrgLb3JGOLHUCPsUh) | [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf) | [Moped](https://open.spotify.com/album/2aPFHvvfAtAfDXtQ5jHNxS) | 2:14 |
 | 45 | [YELAH \(feat\. Caesar, MarZa, BRESCO, Flus Brain & TOLKA\)](https://open.spotify.com/track/4vqKHaQEonXO0XVJXCJwwr) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W) | [YELAH \(feat\. Caesar, MarZa, BRESCO, Flus Brain & TOLKA\)](https://open.spotify.com/album/31cBdGeBsmh8lLDgq9I2ao) | 3:20 |
 | 46 | [MASHALLAH](https://open.spotify.com/track/22WYQTGU6FSlvoUqnS5bjF) | [Grelmos](https://open.spotify.com/artist/1u50IuLSHEITB0XFdcMUyY) | [MASHALLAH](https://open.spotify.com/album/1TdFiqQSBhSjZ7f04YA8Nb) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [CHIAMA](https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX), [VXXO](https://open.spotify.com/artist/3YtQrwxvFkTMpH0F6e4r9H) | [CHIAMA](https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP) | 2:53 |
 | 50 | [BAM BAM](https://open.spotify.com/track/4DOzvKPMrXAvTa3v9hj3A6) | [Reed](https://open.spotify.com/artist/4eFBfxE5UExIHvWamPhByA) | [BAM BAM](https://open.spotify.com/album/51DNiFLw2t85tRkvkcVr4G) | 2:40 |
 
-Snapshot ID: `MCw5NDdmZWYwNGVjNGIwM2VjNTU3MTZlODkyNGRlNTNkZWU3MGU2MWI3`
+Snapshot ID: `MCwxMjE2ZGFmMzM0OGFkNjEwZDY0MjY1M2E0NDE0NTA5ZWUyOWJiMTc2`

@@ -4,7 +4,7 @@
 
 > The best indie tracks for just hanging out.
 
-631 songs - 1 day 14 hr 9 min
+632 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [In the Dark](https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Bubblegum](https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb) | 2:19 | 2023-02-03 |  |
 | [In The Flowers](https://open.spotify.com/track/3MYwtTSyvNuHDc1VwUIubg) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In The Flowers](https://open.spotify.com/album/1hwqPMEVPbXdyPNOQq29h7) | 4:41 | 2022-03-07 | 2022-07-29 |
 | [In The Rear View](https://open.spotify.com/track/4kgXwktpr7IqnhPo84v6ul) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:04 | 2023-03-17 | 2023-04-24 |
+| [Infinity Repeating \(2013 Demo\) \[feat\. Julian Casablancas+The Voidz\]](https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB), [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Random Access Memories \(10th Anniversary Edition\)](https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0) | 3:59 | 2023-05-12 |  |
 | [Intentions](https://open.spotify.com/track/6S4NRqNCYpsxlxMtSFKxh2) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Intentions](https://open.spotify.com/album/5GykugUTWmwtCcbiYp1sda) | 3:28 | 2022-06-01 | 2022-06-20 |
 | [Intro / Set3](https://open.spotify.com/track/2fdj5KFMvuHox86ccpMnnR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 3:07 | 2020-10-16 | 2020-11-17 |
 | [Is It Light Where You Are](https://open.spotify.com/track/4ovFkkzBZV8XSh7YwTlQe2) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Is It Light Where You Are](https://open.spotify.com/album/0SBNec5DGoqI8O5szAqXHp) | 4:57 | 2021-08-27 | 2022-06-27 |
@@ -606,7 +607,7 @@
 | [We Stayed Up All Night](https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC) | 4:25 | 2020-10-16 | 2022-11-12 |
 | [Weight in Gold](https://open.spotify.com/track/1gXBi2I04CLJkTQnhNfEJT) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:23 | 2020-10-16 | 2022-04-18 |
 | [Wet Dreams](https://open.spotify.com/track/6TO72fq3wZajWVpXR83bO7) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Wet Dreams](https://open.spotify.com/album/7HOKM6aTC7eA8z0J2PdoEL) | 2:52 | 2020-10-05\* | 2022-04-21 |
-| [what a shame](https://open.spotify.com/track/4kevrm6eqiUXb3D5mRDSOB) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:48 | 2022-11-10 |  |
+| [what a shame](https://open.spotify.com/track/4kevrm6eqiUXb3D5mRDSOB) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:48 | 2022-11-10 | 2023-05-14 |
 | [what a shame](https://open.spotify.com/track/5iMyoCg4HkcYzsZzEuIvgk) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 2:48 | 2022-10-07 | 2022-10-16 |
 | [What Does It Mean To Me?](https://open.spotify.com/track/4kDqNIQiBwkqDs6jWWcHAM) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [What Does It Mean To Me?](https://open.spotify.com/album/40IbEerrh6DeFhhedn5DQx) | 2:46 | 2021-08-27 | 2022-04-18 |
 | [What Is Going On?](https://open.spotify.com/track/5Jmriws1uT4kPjz4elIExl) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What Is Going On?](https://open.spotify.com/album/4HTLtjUFQP21ZnmIjMrA40) | 3:27 | 2021-05-18 | 2022-07-29 |

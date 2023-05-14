@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDBmMmQzODc4Y2RiYzFiZGMxNzdhMjk1N2Q2NGM4YmE4NTZhMWNk",
+  "snapshot_id": "MCwwNzc4YTQxMTEwZmJkNzljZGFmMDIyZTYxNTFkYTgxNDBkMzU1ODQ2",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Melhores Aline Barros",
-        "url": "https://open.spotify.com/album/5vIVtdrGrNf7SxocqDuPui"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "Ao \u00danico",
-      "url": "https://open.spotify.com/track/0XwBn8aFHYmhHKeiwGBS4i"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Apaixonado",
         "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 337537,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Melhores Aline Barros",
+        "url": "https://open.spotify.com/album/5vIVtdrGrNf7SxocqDuPui"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Ao \u00danico",
+      "url": "https://open.spotify.com/track/0XwBn8aFHYmhHKeiwGBS4i"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 196765,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "O Natal de Todos N\u00f3s",
         "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
@@ -612,13 +628,13 @@
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
         }
       ],
-      "duration_ms": 196765,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
+      "duration_ms": 210372,
+      "name": "Dai Louvores ao Rei",
+      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -639,22 +655,6 @@
       "duration_ms": 195000,
       "name": "\u00d3, Vinde, Adoremos",
       "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        }
-      ],
-      "duration_ms": 210372,
-      "name": "Dai Louvores ao Rei",
-      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 267911,
-      "name": "O Melhor Presente",
-      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Deus Emanuel",
         "url": "https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "O Novo Natal",
-        "url": "https://open.spotify.com/album/5fva3ZEne4UOuOtXo5CSdq"
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
       "artists": [
         {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
         }
       ],
-      "duration_ms": 230658,
-      "name": "O Primeiro Natal",
-      "url": "https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA"
+      "duration_ms": 267911,
+      "name": "O Melhor Presente",
+      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -819,6 +803,22 @@
       "duration_ms": 204196,
       "name": "Natal",
       "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "O Novo Natal",
+        "url": "https://open.spotify.com/album/5fva3ZEne4UOuOtXo5CSdq"
+      },
+      "artists": [
+        {
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+        }
+      ],
+      "duration_ms": 230658,
+      "name": "O Primeiro Natal",
+      "url": "https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA"
     },
     {
       "added_at": "2022-12-09 06:26:14",

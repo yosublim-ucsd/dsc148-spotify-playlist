@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,499 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,623 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 25 | [Me Paro En La Brecha](https://open.spotify.com/track/3pM6OolQIxI5YZl77qwD3t) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Me Paro En La Brecha](https://open.spotify.com/album/7cj5YMKHlgG8M1tHfFw3Ol) | 3:51 |
 | 26 | [Dios Siempre Tiene el Control](https://open.spotify.com/track/25uL5bEmMZ0ObN8A7HH2n9) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Dios Siempre Tiene el Control](https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv) | 4:49 |
 | 27 | [Abre Mis Ojos](https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Muéstrame Tu Gloria](https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF) | 6:43 |
-| 28 | [Los Muros Caerán](https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 4:29 |
+| 28 | [No Crezcas Mas](https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Irreversible](https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV) | 4:20 |
 | 29 | [Dios de Lo Imposible](https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [David Reyes](https://open.spotify.com/artist/0Av9Hln262ro0Z8yhEg4HY), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 7:30 |
-| 30 | [No Crezcas Mas](https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Irreversible](https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV) | 4:20 |
+| 30 | [Los Muros Caerán](https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 4:29 |
 | 31 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/636y223sbqgNNVeH7s5qkp) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:52 |
 | 32 | [Gloria En Lo Alto](https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 5:00 |
 | 33 | [Soy Un Altar](https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 5:30 |
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 48 | [El Borde De Su Manto](https://open.spotify.com/track/6tYqerwTycPh7ooEszkobq) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Vivo Para Cristo](https://open.spotify.com/album/1qgCskTkH93V8WYbltMZMn) | 8:47 |
 | 49 | [Bendito Jesus](https://open.spotify.com/track/2RW5lhGNfI0dKwVrx446iT) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Devoción](https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk) | 4:56 |
 | 50 | [Yo Quiero Estar Donde Tu Estás](https://open.spotify.com/track/4yHpEcaH1WLJ2e6MlMXZXd) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Santo Es El Señor](https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS) | 5:05 |
-| 51 | [Por el poder de tu amor \(The power of your Love\)](https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Inquebrantable](https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u) | 5:29 |
-| 52 | [¿A Quién Iré?](https://open.spotify.com/track/2n3PEgcF39O9S5z6gR0175) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Vuelve](https://open.spotify.com/album/4YXb45eHQPeutBVlzBKWfI) | 6:25 |
+| 51 | [¿A Quién Iré?](https://open.spotify.com/track/2n3PEgcF39O9S5z6gR0175) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Vuelve](https://open.spotify.com/album/4YXb45eHQPeutBVlzBKWfI) | 6:25 |
+| 52 | [Por el poder de tu amor \(The power of your Love\)](https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Inquebrantable](https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u) | 5:29 |
 | 53 | [Mi Historia De Amor](https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 3:16 |
 | 54 | [El Gran Yo Soy](https://open.spotify.com/track/16YdGLnlR0Tj71dsVvNNGE) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Metamorfosis](https://open.spotify.com/album/03uDbnflTv0xXsuzFujD04) | 5:24 |
 | 55 | [No Me Digas Adiós](https://open.spotify.com/track/3egMhO3nfCiet0IGp95czv) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Dios Siempre Tiene el Control](https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv) | 4:45 |
 | 56 | [Tan Solo Cree](https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Algo Grande Viene](https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX) | 4:12 |
-| 57 | [Como Hizo David](https://open.spotify.com/track/75IhuMXXHxnSCnaWKwPjSQ) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Glorificad a Jehová](https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd) | 3:03 |
-| 58 | [Revelacion](https://open.spotify.com/track/6qYidY706dT5LxQSmbTg94) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Devoción](https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk) | 7:52 |
+| 57 | [Revelacion](https://open.spotify.com/track/6qYidY706dT5LxQSmbTg94) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Devoción](https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk) | 7:52 |
+| 58 | [Como Hizo David](https://open.spotify.com/track/75IhuMXXHxnSCnaWKwPjSQ) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Glorificad a Jehová](https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd) | 3:03 |
 | 59 | [Anhelo Conocerte Espiritu Santo](https://open.spotify.com/track/7ylsvpGbWJNgXUbqEyrxtk) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Recopilación](https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl) | 5:13 |
 | 60 | [La Ultima Palabra](https://open.spotify.com/track/5sZZC9Dx3erwSmle0ncMJw) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Vivo para Ti](https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ) | 4:23 |
 | 61 | [De Lo Más Profundo](https://open.spotify.com/track/1QNPc8xrzF78nlTFN3TM7T) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq) | 7:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Abro Mis Brazos](https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e) | [Lenny Salcedo](https://open.spotify.com/artist/3SAz8B6xf4eS1TuWnBppf8) | [Acústico](https://open.spotify.com/album/6xnrqwm4OHFjNJ7ScJut1V) | 3:49 |
 | 100 | [Tu Voluntad](https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Tu Voluntad](https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU) | 6:27 |
 
-Snapshot ID: `MCxmZGE0NGIyM2E4Y2ZiMGQzZDA4ZDhmZmYzMzU2YWUzMTA4NjU4Y2Ew`
+Snapshot ID: `MCw3ODUzMTUxNzIzMjc0OTQ3MzAyYmI1MGJhNmQ0ODNhOWExMjJkNDJh`

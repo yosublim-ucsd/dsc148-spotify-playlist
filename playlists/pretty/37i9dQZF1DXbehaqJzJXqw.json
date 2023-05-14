@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 286072,
+  "num_followers": 286581,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTQ1ZTdkYjhhNjIwYTE4NjQxYjZjNGUyMmVhZGJkYjUwYWI2NDNj",
+  "snapshot_id": "MCw3YTY0NThmM2U0YzFjNjMwODNhZjcwZjc2N2VmZDNlMjY4Mzg0N2Jm",
   "tracks": [
     {
       "added_at": "2023-05-09 09:26:49",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Blossom Dearie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Tout Doucement",
-      "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "Les ronds de carotte",
         "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 245226,
       "name": "Au caf\u00e9 de la paix",
       "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Blossom Dearie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Tout Doucement",
+      "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Le premier bonheur du jour (Remastered)",
-        "url": "https://open.spotify.com/album/1FkZQWdx8y9ZeaBZwHA6iR"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 110588,
-      "name": "Le premier bonheur du jour - Remastered",
-      "url": "https://open.spotify.com/track/69b0LLpQ926WY9blYcJAKb"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "Attraction",
         "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 222666,
       "name": "Lettre A P",
       "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Le premier bonheur du jour (Remastered)",
+        "url": "https://open.spotify.com/album/1FkZQWdx8y9ZeaBZwHA6iR"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 110588,
+      "name": "Le premier bonheur du jour - Remastered",
+      "url": "https://open.spotify.com/track/69b0LLpQ926WY9blYcJAKb"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "J'attendrai",
+      "url": "https://open.spotify.com/track/1MllJS2dPDoVBuWVMoLujP"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
         "name": "Merle Noir",
         "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "J'attendrai",
-      "url": "https://open.spotify.com/track/1MllJS2dPDoVBuWVMoLujP"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "N\u00b04",
         "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "10 chansons pour l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 169143,
-      "name": "Quand on s'balade",
-      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "La disparition",
         "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+        "name": "10 chansons pour l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
       },
       "artists": [
         {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
         }
       ],
-      "duration_ms": 111626,
-      "name": "\u00c7a valait la peine",
-      "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
+      "duration_ms": 169143,
+      "name": "Quand on s'balade",
+      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 111626,
+      "name": "\u00c7a valait la peine",
+      "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
         "name": "La Chapelle Au Clair De Lune",
         "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 187626,
       "name": "En septembre sous la pluie",
       "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "La mer opale",
-      "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1331,6 +1315,22 @@
       "duration_ms": 179653,
       "name": "L'onde am\u00e8re",
       "url": "https://open.spotify.com/track/0RnMnEHyWtyAdOUfSqouvs"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "La mer opale",
+      "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "Plus bleu que tes yeux",
+      "url": "https://open.spotify.com/track/7kZZqvxiakch8uyU9fY7hC"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
         "name": "Fourteen",
         "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "Plus bleu que tes yeux",
-      "url": "https://open.spotify.com/track/7kZZqvxiakch8uyU9fY7hC"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "Chambre Avec Vue",
         "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 234066,
       "name": "Aime moi",
       "url": "https://open.spotify.com/track/2reLiqBW2EfejTe7OixGmT"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "La disparition",
+        "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "duration_ms": 257240,
+      "name": "Mes pas dans la neige - Spanish Song Bird",
+      "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "La disparition",
-        "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
+        "name": "Tous mes r\u00eaves",
+        "url": "https://open.spotify.com/album/4QKe2jts0wXrjtSjhUW974"
       },
       "artists": [
         {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
         }
       ],
-      "duration_ms": 257240,
-      "name": "Mes pas dans la neige - Spanish Song Bird",
-      "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
+      "duration_ms": 155664,
+      "name": "Tous mes r\u00eaves",
+      "url": "https://open.spotify.com/track/2yL5SiTTbnLeddxS3mbt3v"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 302773,
-      "name": "C'est le printemps",
-      "url": "https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "Chambre Avec Vue",
         "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 168800,
       "name": "Faire des ronds dans l'eau",
       "url": "https://open.spotify.com/track/7JFT6vfzNI3Qtyyza6J55R"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 302773,
+      "name": "C'est le printemps",
+      "url": "https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Tous mes r\u00eaves",
-        "url": "https://open.spotify.com/album/4QKe2jts0wXrjtSjhUW974"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 155664,
-      "name": "Tous mes r\u00eaves",
-      "url": "https://open.spotify.com/track/2yL5SiTTbnLeddxS3mbt3v"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "Souchon dans l'air (Vol. 1)",
         "url": "https://open.spotify.com/album/5IGv8URch14ZFVg4xmWGsR"
       },
@@ -1659,22 +1659,6 @@
       "duration_ms": 214784,
       "name": "Quand j'serai K.O",
       "url": "https://open.spotify.com/track/45csvaQWw0MMkEv0pP7YMc"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
-        "name": "Quelqu'un m'a dit",
-        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 242120,
-      "name": "La noy\u00e9e",
-      "url": "https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1695,6 +1679,38 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 167199,
+      "name": "Je cherche un homme",
+      "url": "https://open.spotify.com/track/475T666btYBFZrFxxjWr0V"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 242120,
+      "name": "La noy\u00e9e",
+      "url": "https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
         "name": "Mon Amie La Rose",
         "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 123078,
       "name": "Mon Amie La Rose",
       "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
-        "name": "Comme Un Manouche Sans Guitare",
-        "url": "https://open.spotify.com/album/3LoBT4sO5ThbqUaD4fycUW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
-        }
-      ],
-      "duration_ms": 130186,
-      "name": "J'Suis Pas D'Ici",
-      "url": "https://open.spotify.com/track/61FxaViELF86usDHyVQvvq"
     }
   ],
   "unique_name": "French Jazz Caf\u00e9",

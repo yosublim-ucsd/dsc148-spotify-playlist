@@ -1,12 +1,12 @@
 {
   "description": "Milo j en la casa del Trap Argentino.",
-  "num_followers": 586556,
+  "num_followers": 586736,
   "original_name": "Trapperz Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzhmMWJkYWJlM2IxZWZmNmE0ZWNmZTM5NDkwN2IwZjIyNTk0MzNm",
+  "snapshot_id": "MCwzYjYzOGEwNDYzMWUyNzI3NzMyNDgxM2MwZmJkYTI0ZTVhYjg0ZGIx",
   "tracks": [
     {
       "added_at": "2023-05-04 19:11:30",
@@ -314,6 +314,10 @@
         {
           "name": "Akim 88",
           "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+        },
+        {
+          "name": "Despu\u00e9s de la fiesta",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
         }
       ],
       "duration_ms": 102669,

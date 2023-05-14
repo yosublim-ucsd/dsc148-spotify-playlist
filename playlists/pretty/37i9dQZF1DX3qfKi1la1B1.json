@@ -1,12 +1,12 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 109928,
+  "num_followers": 109958,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjMyMGEwN2QzNmM1OGE5MWYyZTM1YjEwNGEzOTgzZTRmZWJlNDg5",
+  "snapshot_id": "MCwzZTgwZTM5MjE2ODY0ZjcwOTIzNzRhMTEyYjYzN2I0MTJjZmJkNWU4",
   "tracks": [
     {
       "added_at": "2023-05-11 15:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 198805,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188579,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188579,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Kids Are Growing Up (Part 1)",
-        "url": "https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 121369,
-      "name": "Kids Are Growing Up (Part 1)",
-      "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "Mel Made Me Do It",
         "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 440857,
       "name": "Mel Made Me Do It",
       "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "Kids Are Growing Up (Part 1)",
+        "url": "https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 121369,
+      "name": "Kids Are Growing Up (Part 1)",
+      "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
     },
     {
       "added_at": "2023-05-11 15:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,322 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,347 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 11 | [Moliendo Café](https://open.spotify.com/track/7eOtKm3fNAeAhAoIZmJuEY) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Iag Bari](https://open.spotify.com/album/6zUrmT5eJIG2lNajO4AxJj) | 2:27 |
 | 12 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
 | 13 | [Un Gran Circo](https://open.spotify.com/track/5BwVAAJzAuzpDHeWuKdFsN) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:10 |
-| 14 | [Me cago en el amor](https://open.spotify.com/track/6nfxhYm1k0OodleIJfTepK) | [Tonino Carotone](https://open.spotify.com/artist/6rM57PYs1352JJdgKFFG2n) | [Mondo Difficile](https://open.spotify.com/album/0UbCMQfV6mZZQi0lAPAWUG) | 6:04 |
+| 14 | [Mahalageasca \- Shantel DUB](https://open.spotify.com/track/1rhlWjJHCgxCWetBwQyiKH) | [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA), [Mahala Rai Banda](https://open.spotify.com/artist/5eFcEnUv0A83EIHKVrXzg4) | [Shantology // The Bucovina Club Years](https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b) | 4:18 |
 | 15 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
-| 16 | [Mahalageasca \- Shantel DUB](https://open.spotify.com/track/1rhlWjJHCgxCWetBwQyiKH) | [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA), [Mahala Rai Banda](https://open.spotify.com/artist/5eFcEnUv0A83EIHKVrXzg4) | [Shantology // The Bucovina Club Years](https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b) | 4:18 |
+| 16 | [Me cago en el amor](https://open.spotify.com/track/6nfxhYm1k0OodleIJfTepK) | [Tonino Carotone](https://open.spotify.com/artist/6rM57PYs1352JJdgKFFG2n) | [Mondo Difficile](https://open.spotify.com/album/0UbCMQfV6mZZQi0lAPAWUG) | 6:04 |
 | 17 | [Kingdom Come](https://open.spotify.com/track/5uhJnZd0m9Xz3GafDeMJxK) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Inner Fire](https://open.spotify.com/album/2w28yTFohFkW0UnIGKqLdY) | 4:12 |
 | 18 | [Kalasnjikov](https://open.spotify.com/track/6OlCJxmWri50RLA1CrBYZ6) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Slobodan Salijevic](https://open.spotify.com/artist/2qAYOCvQeh0CluLvtMBQZL) | [Ederlezi](https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2) | 4:48 |
 | 19 | [Piel Canela](https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Mambo Ska](https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 49 | [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 |
 | 50 | [Ácaro](https://open.spotify.com/track/1u2j4CufZ3HIZIo8y2yJs7) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Ácaro](https://open.spotify.com/album/5p9sfsdqNlhSDqbotwaJj5) | 3:45 |
 
-Snapshot ID: `MCw5MjMwMDA2YTJkMDk2NjE4ZGY5NGUxZTVmMTNmMWQ2OGQ3ZjlkMjdk`
+Snapshot ID: `MCxlZjJjZDI5ZGZiM2I1OWQ1NTc0MTlkMDFlMTEyYWFhOTM2ZjQ1NTcy`

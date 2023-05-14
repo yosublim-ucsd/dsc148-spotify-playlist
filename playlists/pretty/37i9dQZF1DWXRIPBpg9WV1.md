@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,661 likes - 183 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,801 likes - 183 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 147 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/69yGmOlMXuVMBhmJipSA1r) | [Glenn Roth](https://open.spotify.com/artist/2HVU7yTOl9v0FwAnK9c78d) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/0ka00dwBBtENB19SEIM3yU) | 3:26 |
 | 148 | [You´ll Be In My heart](https://open.spotify.com/track/0SV5qCggYI52A7xPVNUeD5) | [Larry Eagler](https://open.spotify.com/artist/6BAFOyxrRfvSvjpcNxp3rs) | [You´ll Be In My heart](https://open.spotify.com/album/36q4eAeAtx39HyVxBwONzU) | 4:00 |
 | 149 | [How Deep Is Your Love](https://open.spotify.com/track/6WaePja4uzj9uw3TrZFdpM) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [How Deep Is Your Love](https://open.spotify.com/album/3foW7pDxBNyUfM4SpLFIop) | 3:21 |
-| 150 | [I Want to Break Free](https://open.spotify.com/track/1aYkNGlELBA8tjp3cVW1oT) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [I Want to Break Free](https://open.spotify.com/album/687NJvdn5hgkC5XCyILJ0u) | 1:56 |
+| 150 | [I Want to Break Free](https://open.spotify.com/track/6GmrAymqRZ6dNU3U6GhjTs) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [I Want to Break Free](https://open.spotify.com/album/1qEEGVuTf2bHa02kuvP2QP) | 1:56 |
 | 151 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/7uLOIGQT1VKBQPOaPtlt8a) | 3:26 |
 | 152 | [You're The Inspiration](https://open.spotify.com/track/0EzDeUITUHCBNdaYn8w90u) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [You're The Inspiration](https://open.spotify.com/album/4UAcuTJDr9h36ufNW53Age) | 4:16 |
 | 153 | [Circles](https://open.spotify.com/track/03dllno5Z34LGvbNGzpxJF) | [Mike Ilyas](https://open.spotify.com/artist/2owXblciNaXXMUdm6nNfDe) | [Mike Ilyas](https://open.spotify.com/album/38uIgrRbN63mXyyquWx21j) | 3:15 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 182 | [True colors](https://open.spotify.com/track/3bVwh1aRQAnMyrNDI9sjW0) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [True colors](https://open.spotify.com/album/13QfkW5FCtLmYBUq9Izmwr) | 3:38 |
 | 183 | [Love Me Like You Do](https://open.spotify.com/track/1nyxHNRjeyTlJQwsLMH7C0) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 3:18 |
 
-Snapshot ID: `MCxhMzFiMzZhYjhmYzNkZTI4NmNmMTlhNTg1NDhmNDU3NjE0ZThmZTQ0`
+Snapshot ID: `MCwzZmIyMDY5MDUwZjBlY2I2NWI1ZGMyODM0NDEyMDY4OWM5Y2NlNTE3`

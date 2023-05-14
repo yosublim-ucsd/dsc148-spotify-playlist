@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,617 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,789 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 15 | [Un Poco de Amor](https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Un Poco de Amor](https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O) | 2:51 |
 | 16 | [De Los Besos Que Te Di](https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:47 |
 | 17 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 |
-| 18 | [200 COPAS](https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:37 |
-| 19 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 |
+| 18 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 |
+| 19 | [200 COPAS](https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:37 |
 | 20 | [Fuentes De Ortiz](https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 3:33 |
 | 21 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 |
 | 22 | [La Sinvergüenza](https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Sinvergüenza](https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc) | 3:18 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 29 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 |
 | 30 | [Si Te Falta Alguien](https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 3:07 |
 | 31 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ) | 3:47 |
-| 32 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
+| 32 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 |
 | 33 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 |
-| 34 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 |
+| 34 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
 | 35 | [Sin Explicaciones](https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 2:52 |
 | 36 | [Poco](https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Poco](https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC) | 3:45 |
 | 37 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/5obxcZHZMJRx4ynD8SxEoz) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [FAVORITAS CON AMOR Vol\. 2](https://open.spotify.com/album/0syW2iMTuETtexNib0YXiQ) | 3:48 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 40 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
 | 41 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
 | 42 | [Amorcito Mío \- Live](https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:23 |
-| 43 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 |
-| 44 | [Las Locuras Mías](https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Las Locuras Mías](https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P) | 3:45 |
+| 43 | [Las Locuras Mías](https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Las Locuras Mías](https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P) | 3:45 |
+| 44 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 |
 | 45 | [2 Veces](https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [2 Veces](https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ) | 3:09 |
 | 46 | [Caballero](https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:49 |
 | 47 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 99 | [Ahora Que Puedo](https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/7fae9p1hEjCjUiY7P6VZBS) | 3:31 |
 | 100 | [No voy a Morir](https://open.spotify.com/track/5r8gJHyLCAwbzLB9RxnkIZ) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pipe Bueno](https://open.spotify.com/album/7pbGiwOwBbQrmvPgXyRbgd) | 3:22 |
 
-Snapshot ID: `MCxjM2U2OTZkZDk1YzFmZTk4OTEzOGQyOWRhOWY2NzU2Nzk1M2IzMGVi`
+Snapshot ID: `MCxlNWQwMThmZjRmYTQzNzQxZjUwOGJlMzFjNzJlZDAyNjlhNjJhZDg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,561 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,579 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 19 | [Boquerón Abandonado](https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf) | [Savia Andina](https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru) | [Lo Mejor de Savia Andina \(Música Boliviana\)](https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9) | 3:34 |
 | 20 | [Caracol](https://open.spotify.com/track/79O6v0FVZHJS7QbQZ0XHBY) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/3G3M3Tuo24paVJxC3lGMHJ) | 4:10 |
 | 21 | [Tú Me Llevas](https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0) | 4:23 |
-| 22 | [Venganza](https://open.spotify.com/track/4KoUXNSCBNWkUAOm09q4vq) | [TOURISTA](https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM) | [Fantasmas](https://open.spotify.com/album/0yEwuhTDgOxUNzzzkFsgr0) | 3:33 |
-| 23 | [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 |
+| 22 | [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 |
+| 23 | [Venganza](https://open.spotify.com/track/4KoUXNSCBNWkUAOm09q4vq) | [TOURISTA](https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM) | [Fantasmas](https://open.spotify.com/album/0yEwuhTDgOxUNzzzkFsgr0) | 3:33 |
 | 24 | [Wipala](https://open.spotify.com/track/7uxmsieVovltullEN2B8QU) | [Gonzalo Vargas](https://open.spotify.com/artist/2uo6i3LKZWHgYqpy9LM7fJ), [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 5:08 |
 | 25 | [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 |
 | 26 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 32 | [Recuerdos de Calahuayo \(Peru\)](https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq) | [Los Incas](https://open.spotify.com/artist/0XgSqpsOieBTVS8WooknPG) | [Flutes Indiennes](https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF) | 2:05 |
 | 33 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 |
 | 34 | [Uña](https://open.spotify.com/track/3rMTOUuuImnkGEGpN1dqlG) | [J\. Milchberg](https://open.spotify.com/artist/1cWw9fz7QOkKQraHRVK8hC), [U\. Ramos](https://open.spotify.com/artist/7LCu7TpIer6IjPpe6VUCRF), [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 3:18 |
-| 35 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
-| 36 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 |
+| 35 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 |
+| 36 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
 | 37 | [Baila Caporal](https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ) | [Sukay](https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B) | [Encuentros \(Meetings\)](https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL) | 4:32 |
 | 38 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
 | 39 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 46 | [Gente Mariposa](https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Aurora](https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7) | 5:17 |
 | 47 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
 | 48 | [Puñales](https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Puñales](https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m) | 2:50 |
-| 49 | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/track/5gNyonYA0mMGyewJLHupu6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/album/0wxoLfkWTTIyym169xRgfE) | 3:32 |
-| 50 | [Isla Negra](https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Morena Esperanza \(Remasterizado\)](https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY) | 4:26 |
+| 49 | [Isla Negra](https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Morena Esperanza \(Remasterizado\)](https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY) | 4:26 |
+| 50 | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/track/5gNyonYA0mMGyewJLHupu6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/album/0wxoLfkWTTIyym169xRgfE) | 3:32 |
 
-Snapshot ID: `MCxkMmZhMTEzODliMzdmNzI2OTA0YjMzYWJkNzlkMzA1YWE4ODcxZWE1`
+Snapshot ID: `MCw4ODEyNmYxMTgzY2IyOGFmNDRiMTEzOGQ2MWViZTgxMzQ1MjNlYjhk`

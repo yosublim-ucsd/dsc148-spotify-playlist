@@ -1,12 +1,12 @@
 {
   "description": "The right music can make a good tailgate great.",
-  "num_followers": 813131,
+  "num_followers": 813217,
   "original_name": "Tailgate Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDVlYzFhOGYzMTYwNDhjZTQyZDVhZjAzZWEyMmE4ZGQzZWMyYjA4",
+  "snapshot_id": "MCw2MzYxZGI3NTFiOTY5MGU1OGY5NmQ1NTQ3Njc1YmIyZDA1YjViNDIz",
   "tracks": [
     {
       "added_at": "2023-02-02 01:17:35",
@@ -223,22 +223,22 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8"
       },
       "artists": [
         {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         },
         {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 170560,
-      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
-      "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
+      "duration_ms": 203173,
+      "name": "Knee Deep (feat. Jimmy Buffett)",
+      "url": "https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -259,22 +259,22 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "You Get What You Give",
-        "url": "https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8"
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         },
         {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
         }
       ],
-      "duration_ms": 203173,
-      "name": "Knee Deep (feat. Jimmy Buffett)",
-      "url": "https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd"
+      "duration_ms": 170560,
+      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
+      "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 201986,
       "name": "Fishing In The Dark",
       "url": "https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Love, Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "Honkytonk University",
         "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 227840,
       "name": "As Good As I Once Was",
       "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "Love, Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Y'all Life",
-        "url": "https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y"
-      },
-      "artists": [
-        {
-          "name": "Walker Hayes",
-          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Y'all Life",
-      "url": "https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -1035,22 +1019,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Cole Swindell",
-        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Chillin' It",
-      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "Teenage Dixie",
         "url": "https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY"
       },
@@ -1067,22 +1035,50 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
+        "name": "Cole Swindell",
+        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
       },
       "artists": [
         {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        },
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
         }
       ],
-      "duration_ms": 193880,
-      "name": "Just the Way",
-      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
+      "duration_ms": 196746,
+      "name": "Chillin' It",
+      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "Y'all Life",
+        "url": "https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Y'all Life",
+      "url": "https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "Songs for the Saints",
+        "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 199625,
+      "name": "Get Along",
+      "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1103,18 +1099,22 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Songs for the Saints",
-        "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
         }
       ],
-      "duration_ms": 199625,
-      "name": "Get Along",
-      "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
+      "duration_ms": 193880,
+      "name": "Just the Way",
+      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Gunpowder & Lead",
-      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "Toby Keith",
         "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 211306,
       "name": "Should've Been A Cowboy",
       "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Gunpowder & Lead",
+      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Smoke A Little Smoke",
-      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 169586,
       "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
       "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Smoke A Little Smoke",
+      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 215120,
-      "name": "Round Here",
-      "url": "https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "My Kinda Party",
         "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 284960,
       "name": "My Kinda Party",
       "url": "https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 215120,
+      "name": "Round Here",
+      "url": "https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX"
     },
     {
       "added_at": "2023-02-02 01:17:35",

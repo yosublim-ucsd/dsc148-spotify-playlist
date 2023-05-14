@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 
 > This is Rauw Alejandro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,849 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,282 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 | 5 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 |
 | 6 | [Desesperados](https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:44 |
 | 7 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
-| 8 | [RON COLA](https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:06 |
-| 9 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 |
+| 8 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 |
+| 9 | [RON COLA](https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:06 |
 | 10 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
 | 11 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 |
 | 12 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 | 49 | [Al Mismo Tiempo](https://open.spotify.com/track/7CF4dWivLZf3Hdg0FKL9Eb) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Trap Cake, Vol\. 1](https://open.spotify.com/album/37rUi63O4koMFvrSC1EMam) | 4:10 |
 | 50 | [Enchule](https://open.spotify.com/track/0S9ZVNTNRzLMgb96tmmG1u) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:05 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA4MGZhZTM0M2E4OGU1OWE4NGI1OWY0OWE3OTc4MzkzNw==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA0Y2I4OTk5YzMyYWFjNDFlOGJmN2M5Mjc5ZWU4MGUxOA==`

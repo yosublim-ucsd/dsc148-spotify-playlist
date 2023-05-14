@@ -1,12 +1,12 @@
 {
   "description": "Dulce jazz ideal para estudiar o relajarse.",
-  "num_followers": 94922,
+  "num_followers": 94928,
   "original_name": "Jazz Tranquilo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGYyZDRmODdmOGMwZjY2Y2NmNTE0ZDQ5MjNiOTkyOTFjZmRkZmMy",
+  "snapshot_id": "MCw2MDVmYWI1MGE0M2IzNTc2NmQzYTZkNTQ1OTMxNjQ4NDY3YmExODMy",
   "tracks": [
     {
       "added_at": "2023-05-11 22:01:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Sometime Ago",
-        "url": "https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q"
-      },
-      "artists": [
-        {
-          "name": "Madeleine West",
-          "url": "https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4"
-        }
-      ],
-      "duration_ms": 160919,
-      "name": "Sometime Ago",
-      "url": "https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Vine Street",
         "url": "https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 146020,
       "name": "Vine Street",
       "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Sometime Ago",
+        "url": "https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q"
+      },
+      "artists": [
+        {
+          "name": "Madeleine West",
+          "url": "https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4"
+        }
+      ],
+      "duration_ms": 160919,
+      "name": "Sometime Ago",
+      "url": "https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Dipping Birds",
-        "url": "https://open.spotify.com/album/2HpAQ9RPhao2ErPp3LLlGx"
+        "name": "That\u2019s gotta be it",
+        "url": "https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG"
       },
       "artists": [
         {
-          "name": "Ben Lively",
-          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
+          "name": "Charles Daisey & Friends",
+          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
         }
       ],
-      "duration_ms": 194228,
-      "name": "Dipping Birds",
-      "url": "https://open.spotify.com/track/3JtvojpnCGBLdalXoPpw4l"
+      "duration_ms": 198715,
+      "name": "That\u2019s gotta be it",
+      "url": "https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "That\u2019s gotta be it",
-        "url": "https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG"
+        "name": "Dipping Birds",
+        "url": "https://open.spotify.com/album/2HpAQ9RPhao2ErPp3LLlGx"
       },
       "artists": [
         {
-          "name": "Charles Daisey & Friends",
-          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
+          "name": "Ben Lively",
+          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
         }
       ],
-      "duration_ms": 198715,
-      "name": "That\u2019s gotta be it",
-      "url": "https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB"
+      "duration_ms": 194228,
+      "name": "Dipping Birds",
+      "url": "https://open.spotify.com/track/3JtvojpnCGBLdalXoPpw4l"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Love on a Lonely Street",
+        "url": "https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer"
+      },
+      "artists": [
+        {
+          "name": "The Ebbing Tides",
+          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
+        }
+      ],
+      "duration_ms": 183688,
+      "name": "Love on a Lonely Street",
+      "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Just For Tonight",
         "url": "https://open.spotify.com/album/2Rnh8BfeFA5RkUdiHyP3MH"
       },
@@ -567,6 +583,22 @@
       "duration_ms": 164446,
       "name": "Just For Tonight",
       "url": "https://open.spotify.com/track/1vwtIkZtFqmekoyuHH5jxO"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Midnight Moods",
+        "url": "https://open.spotify.com/album/4LEcYRPLzM6qln70B05TS2"
+      },
+      "artists": [
+        {
+          "name": "Eight Bar Band",
+          "url": "https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa"
+        }
+      ],
+      "duration_ms": 179661,
+      "name": "Midnight Moods",
+      "url": "https://open.spotify.com/track/4nTbbttvaqWAuqs78RjFnd"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -587,34 +619,34 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Love on a Lonely Street",
-        "url": "https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer"
+        "name": "Your Shining Eyes",
+        "url": "https://open.spotify.com/album/4lsQ8Bj4OfJHhSjB0byELm"
       },
       "artists": [
         {
-          "name": "The Ebbing Tides",
-          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
+          "name": "Wildflower Trio",
+          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
         }
       ],
-      "duration_ms": 183688,
-      "name": "Love on a Lonely Street",
-      "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
+      "duration_ms": 186074,
+      "name": "Your Shining Eyes",
+      "url": "https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6"
     },
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Midnight Moods",
-        "url": "https://open.spotify.com/album/4LEcYRPLzM6qln70B05TS2"
+        "name": "Silky Smooth",
+        "url": "https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C"
       },
       "artists": [
         {
-          "name": "Eight Bar Band",
-          "url": "https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa"
+          "name": "Eira Eld",
+          "url": "https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn"
         }
       ],
-      "duration_ms": 179661,
-      "name": "Midnight Moods",
-      "url": "https://open.spotify.com/track/4nTbbttvaqWAuqs78RjFnd"
+      "duration_ms": 164440,
+      "name": "Silky Smooth",
+      "url": "https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -651,22 +683,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Silky Smooth",
-        "url": "https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C"
-      },
-      "artists": [
-        {
-          "name": "Eira Eld",
-          "url": "https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Silky Smooth",
-      "url": "https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Du & Jag",
         "url": "https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Your Shining Eyes",
-        "url": "https://open.spotify.com/album/4lsQ8Bj4OfJHhSjB0byELm"
+        "name": "Empty Embrace",
+        "url": "https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd"
       },
       "artists": [
         {
-          "name": "Wildflower Trio",
-          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
+          "name": "Halcyon Jazz Band",
+          "url": "https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n"
         }
       ],
-      "duration_ms": 186074,
-      "name": "Your Shining Eyes",
-      "url": "https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6"
+      "duration_ms": 185517,
+      "name": "Empty Embrace",
+      "url": "https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -727,22 +743,6 @@
       "duration_ms": 216174,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/08WnE2pJN9r7WirMgSFlJf"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Empty Embrace",
-        "url": "https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd"
-      },
-      "artists": [
-        {
-          "name": "Halcyon Jazz Band",
-          "url": "https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n"
-        }
-      ],
-      "duration_ms": 185517,
-      "name": "Empty Embrace",
-      "url": "https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Sincera",
-        "url": "https://open.spotify.com/album/6Pc4LLAqn9YRpwabtzoTzj"
-      },
-      "artists": [
-        {
-          "name": "The Don Mason Trio",
-          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
-        }
-      ],
-      "duration_ms": 158618,
-      "name": "Sincera",
-      "url": "https://open.spotify.com/track/4B7lJ0073KDXFgWXivllAd"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "You Know Its Me",
         "url": "https://open.spotify.com/album/2ET8mBknnRZFO1gea0toYN"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Looking Forward",
-        "url": "https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH"
+        "name": "Sincera",
+        "url": "https://open.spotify.com/album/6Pc4LLAqn9YRpwabtzoTzj"
       },
       "artists": [
         {
-          "name": "Steve Luke & Holloway",
-          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+          "name": "The Don Mason Trio",
+          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
         }
       ],
-      "duration_ms": 191874,
-      "name": "Looking Forward",
-      "url": "https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp"
+      "duration_ms": 158618,
+      "name": "Sincera",
+      "url": "https://open.spotify.com/track/4B7lJ0073KDXFgWXivllAd"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -907,6 +891,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Looking Forward",
+        "url": "https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "duration_ms": 191874,
+      "name": "Looking Forward",
+      "url": "https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 198333,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "If I could just go back",
-        "url": "https://open.spotify.com/album/6pt2EdumSP5OK6gyUEXnaH"
-      },
-      "artists": [
-        {
-          "name": "Louie Hobbs Trio",
-          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
-        }
-      ],
-      "duration_ms": 179233,
-      "name": "If I could just go back",
-      "url": "https://open.spotify.com/track/6GqR4kbLTMfwJ2hFDZclMv"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -955,6 +939,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "If I could just go back",
+        "url": "https://open.spotify.com/album/6pt2EdumSP5OK6gyUEXnaH"
+      },
+      "artists": [
+        {
+          "name": "Louie Hobbs Trio",
+          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
+        }
+      ],
+      "duration_ms": 179233,
+      "name": "If I could just go back",
+      "url": "https://open.spotify.com/track/6GqR4kbLTMfwJ2hFDZclMv"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Storvindeln",
         "url": "https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr"
       },
@@ -967,54 +967,6 @@
       "duration_ms": 216670,
       "name": "Storvindeln",
       "url": "https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Nightcaps",
-        "url": "https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Breathe the Air",
-      "url": "https://open.spotify.com/track/0w905sAFNxZ4E7M5aEc8YI"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "I Concentrate On You",
-        "url": "https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 280418,
-      "name": "I Concentrate On You",
-      "url": "https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Love In Your Arms",
-        "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
-      },
-      "artists": [
-        {
-          "name": "Paul Moretti Trio",
-          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
-        }
-      ],
-      "duration_ms": 202872,
-      "name": "Love In Your Arms",
-      "url": "https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1035,6 +987,70 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Nightcaps",
+        "url": "https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Breathe the Air",
+      "url": "https://open.spotify.com/track/0w905sAFNxZ4E7M5aEc8YI"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Love In Your Arms",
+        "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
+      },
+      "artists": [
+        {
+          "name": "Paul Moretti Trio",
+          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
+        }
+      ],
+      "duration_ms": 202872,
+      "name": "Love In Your Arms",
+      "url": "https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "I Concentrate On You",
+        "url": "https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 280418,
+      "name": "I Concentrate On You",
+      "url": "https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Journeying",
+        "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
+      },
+      "artists": [
+        {
+          "name": "The Don Mason Trio",
+          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
+        }
+      ],
+      "duration_ms": 231130,
+      "name": "Journeying",
+      "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Daydreams",
         "url": "https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx"
       },
@@ -1047,6 +1063,22 @@
       "duration_ms": 202245,
       "name": "Daydreams",
       "url": "https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Come on... Lucky!",
+        "url": "https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "duration_ms": 164859,
+      "name": "Come on... Lucky!",
+      "url": "https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1083,22 +1115,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Journeying",
-        "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
-      },
-      "artists": [
-        {
-          "name": "The Don Mason Trio",
-          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
-        }
-      ],
-      "duration_ms": 231130,
-      "name": "Journeying",
-      "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Too Young To Go Steady",
         "url": "https://open.spotify.com/album/2sba5NbOxg0eaGQGXNgjTh"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 146134,
       "name": "Too Young To Go Steady",
       "url": "https://open.spotify.com/track/23yV324zCQ7eARFz6qZxxt"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Come on... Lucky!",
-        "url": "https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX"
-      },
-      "artists": [
-        {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
-        }
-      ],
-      "duration_ms": 164859,
-      "name": "Come on... Lucky!",
-      "url": "https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Once Knowing",
-        "url": "https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW"
-      },
-      "artists": [
-        {
-          "name": "The Levon Trio",
-          "url": "https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ"
-        }
-      ],
-      "duration_ms": 194794,
-      "name": "Once Knowing",
-      "url": "https://open.spotify.com/track/05yDpj1357DbqJsH2V4DL9"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "In a quiet voice",
         "url": "https://open.spotify.com/album/3y21l63OCbOjOXR4st1swK"
       },
@@ -1175,22 +1159,6 @@
       "duration_ms": 164431,
       "name": "In a quiet voice",
       "url": "https://open.spotify.com/track/0gEwI6dLfDSdb5uykp86Xx"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Late Reflections",
-        "url": "https://open.spotify.com/album/2iJH0ujIwbtlQ41b3CBcaO"
-      },
-      "artists": [
-        {
-          "name": "Douglas Ruby Trio",
-          "url": "https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM"
-        }
-      ],
-      "duration_ms": 221269,
-      "name": "Late Reflections",
-      "url": "https://open.spotify.com/track/76RWGx3zZ46aIY4WPjsLuo"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1211,6 +1179,38 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Once Knowing",
+        "url": "https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW"
+      },
+      "artists": [
+        {
+          "name": "The Levon Trio",
+          "url": "https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ"
+        }
+      ],
+      "duration_ms": 194794,
+      "name": "Once Knowing",
+      "url": "https://open.spotify.com/track/05yDpj1357DbqJsH2V4DL9"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/2iJH0ujIwbtlQ41b3CBcaO"
+      },
+      "artists": [
+        {
+          "name": "Douglas Ruby Trio",
+          "url": "https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM"
+        }
+      ],
+      "duration_ms": 221269,
+      "name": "Late Reflections",
+      "url": "https://open.spotify.com/track/76RWGx3zZ46aIY4WPjsLuo"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Autumn In New York",
         "url": "https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 259678,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "After You've Gone",
+        "url": "https://open.spotify.com/album/2xWwdUCyFng2oWhP6MeuUy"
+      },
+      "artists": [
+        {
+          "name": "Jonas Olofsson",
+          "url": "https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "After You've Gone",
-        "url": "https://open.spotify.com/album/2xWwdUCyFng2oWhP6MeuUy"
-      },
-      "artists": [
-        {
-          "name": "Jonas Olofsson",
-          "url": "https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "From Paris with love",
         "url": "https://open.spotify.com/album/3cCLtvehudXUYm2uw571LX"
       },
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "The Beauty of Everyday Things",
-        "url": "https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk"
-      },
-      "artists": [
-        {
-          "name": "Hara Noda",
-          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
-        }
-      ],
-      "duration_ms": 203096,
-      "name": "The Beauty of Everyday Things",
-      "url": "https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "We've Been Through This Before",
-        "url": "https://open.spotify.com/album/74QY0bWf3DRBrHPujvE2IT"
-      },
-      "artists": [
-        {
-          "name": "Tore Lundblad",
-          "url": "https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2"
-        }
-      ],
-      "duration_ms": 145028,
-      "name": "We've Been Through This Before",
-      "url": "https://open.spotify.com/track/5lk6Ro1xDJJyKAqjWd78JG"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "A Real Show",
         "url": "https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 218254,
       "name": "Lake Arrowhead",
       "url": "https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "The Beauty of Everyday Things",
+        "url": "https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk"
+      },
+      "artists": [
+        {
+          "name": "Hara Noda",
+          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
+        }
+      ],
+      "duration_ms": 203096,
+      "name": "The Beauty of Everyday Things",
+      "url": "https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "We've Been Through This Before",
+        "url": "https://open.spotify.com/album/74QY0bWf3DRBrHPujvE2IT"
+      },
+      "artists": [
+        {
+          "name": "Tore Lundblad",
+          "url": "https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2"
+        }
+      ],
+      "duration_ms": 145028,
+      "name": "We've Been Through This Before",
+      "url": "https://open.spotify.com/track/5lk6Ro1xDJJyKAqjWd78JG"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Love Will Last Forever",
-        "url": "https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa"
-      },
-      "artists": [
-        {
-          "name": "Michael Stylez & Co",
-          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
-        }
-      ],
-      "duration_ms": 215917,
-      "name": "Love Will Last Forever",
-      "url": "https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Softly, Tenderly",
         "url": "https://open.spotify.com/album/4UjQcQQbyYPZnNbY4gWsPM"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 221360,
       "name": "Softly, Tenderly",
       "url": "https://open.spotify.com/track/5byMA13b3vZFCMVAgJNsCo"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Love Will Last Forever",
+        "url": "https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "duration_ms": 215917,
+      "name": "Love Will Last Forever",
+      "url": "https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Merry Monday",
-        "url": "https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y"
-      },
-      "artists": [
-        {
-          "name": "Lennie Weston",
-          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Merry Monday",
-      "url": "https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "A place I knew",
         "url": "https://open.spotify.com/album/6LVKVtWLCpQ8LU0sf5miQZ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 160866,
       "name": "A place I knew",
       "url": "https://open.spotify.com/track/08Y2U1Z3FuXOYNRZgUHXHk"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Merry Monday",
+        "url": "https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y"
+      },
+      "artists": [
+        {
+          "name": "Lennie Weston",
+          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Merry Monday",
+      "url": "https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "A Certain Smile",
+        "url": "https://open.spotify.com/album/40ynWeqMktudTHSlnMBmsS"
+      },
+      "artists": [
+        {
+          "name": "Neo Fourths Trio",
+          "url": "https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe"
+        }
+      ],
+      "duration_ms": 230930,
+      "name": "A Certain Smile",
+      "url": "https://open.spotify.com/track/4ln4s0kVCZyH0lK6MioPYk"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "She's A Class Act",
         "url": "https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 222227,
       "name": "A Sleepin' Bee",
       "url": "https://open.spotify.com/track/6JbvbDMUh0X2seQPxx0Y2n"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "A Certain Smile",
-        "url": "https://open.spotify.com/album/40ynWeqMktudTHSlnMBmsS"
-      },
-      "artists": [
-        {
-          "name": "Neo Fourths Trio",
-          "url": "https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe"
-        }
-      ],
-      "duration_ms": 230930,
-      "name": "A Certain Smile",
-      "url": "https://open.spotify.com/track/4ln4s0kVCZyH0lK6MioPYk"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Once In A While",
-        "url": "https://open.spotify.com/album/1cx3QPnfkgDUdr7SLyx4yg"
-      },
-      "artists": [
-        {
-          "name": "Bill Walton",
-          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
-        }
-      ],
-      "duration_ms": 233591,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/12SBeS47Z8b1N6FqbfXhL7"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "February Brings The Rain",
         "url": "https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 221909,
       "name": "February Brings The Rain",
       "url": "https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Once In A While",
+        "url": "https://open.spotify.com/album/1cx3QPnfkgDUdr7SLyx4yg"
+      },
+      "artists": [
+        {
+          "name": "Bill Walton",
+          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
+        }
+      ],
+      "duration_ms": 233591,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/12SBeS47Z8b1N6FqbfXhL7"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx"
-      },
-      "artists": [
-        {
-          "name": "The North Sea Trio",
-          "url": "https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco"
-        }
-      ],
-      "duration_ms": 273178,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Love In Your Arms",
         "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
       },
@@ -1851,34 +1835,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "To the Moon and Back",
-        "url": "https://open.spotify.com/album/4FjAzBoqC16rVfrMgEFujB"
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx"
       },
       "artists": [
         {
-          "name": "Anita Rosswell",
-          "url": "https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk"
+          "name": "The North Sea Trio",
+          "url": "https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco"
         }
       ],
-      "duration_ms": 159765,
-      "name": "To the Moon and Back",
-      "url": "https://open.spotify.com/track/1kbVkvLiWNDF7J4zMPtwv7"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ"
-      },
-      "artists": [
-        {
-          "name": "William Adams",
-          "url": "https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9"
-        }
-      ],
-      "duration_ms": 182995,
-      "name": "Witchcraft",
-      "url": "https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb"
+      "duration_ms": 273178,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1899,6 +1867,38 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "To the Moon and Back",
+        "url": "https://open.spotify.com/album/4FjAzBoqC16rVfrMgEFujB"
+      },
+      "artists": [
+        {
+          "name": "Anita Rosswell",
+          "url": "https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk"
+        }
+      ],
+      "duration_ms": 159765,
+      "name": "To the Moon and Back",
+      "url": "https://open.spotify.com/track/1kbVkvLiWNDF7J4zMPtwv7"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Mellow Moments",
+        "url": "https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk"
+      },
+      "artists": [
+        {
+          "name": "Leeluck & Co",
+          "url": "https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL"
+        }
+      ],
+      "duration_ms": 188838,
+      "name": "Mellow Moments",
+      "url": "https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Beautiful Sunrise",
         "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
       },
@@ -1911,6 +1911,22 @@
       "duration_ms": 327224,
       "name": "Quiet Sunset",
       "url": "https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ"
+      },
+      "artists": [
+        {
+          "name": "William Adams",
+          "url": "https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9"
+        }
+      ],
+      "duration_ms": 182995,
+      "name": "Witchcraft",
+      "url": "https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2011,22 +2027,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "My first kiss",
-        "url": "https://open.spotify.com/album/1Qhe73UDyVrdfpi6j3Ymnw"
-      },
-      "artists": [
-        {
-          "name": "Dave Oakley trio",
-          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
-        }
-      ],
-      "duration_ms": 204103,
-      "name": "My first kiss",
-      "url": "https://open.spotify.com/track/30VQy0OHXjam8lKkpsZF4Z"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Baubles, Bangles & Beads",
         "url": "https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG"
       },
@@ -2039,6 +2039,22 @@
       "duration_ms": 202427,
       "name": "Baubles, Bangles & Beads",
       "url": "https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "My first kiss",
+        "url": "https://open.spotify.com/album/1Qhe73UDyVrdfpi6j3Ymnw"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "duration_ms": 204103,
+      "name": "My first kiss",
+      "url": "https://open.spotify.com/track/30VQy0OHXjam8lKkpsZF4Z"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2059,18 +2075,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Mellow Moments",
-        "url": "https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk"
+        "name": "Notes and Nights",
+        "url": "https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4"
       },
       "artists": [
         {
-          "name": "Leeluck & Co",
-          "url": "https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL"
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
         }
       ],
-      "duration_ms": 188838,
-      "name": "Mellow Moments",
-      "url": "https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp"
+      "duration_ms": 184470,
+      "name": "Notes and Nights",
+      "url": "https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2091,18 +2107,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Notes and Nights",
-        "url": "https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4"
+        "name": "My Sweetest You",
+        "url": "https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq"
       },
       "artists": [
         {
-          "name": "Tate Jackson Trio",
-          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+          "name": "Benjamine Leroy Quartet",
+          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
         }
       ],
-      "duration_ms": 184470,
-      "name": "Notes and Nights",
-      "url": "https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp"
+      "duration_ms": 187004,
+      "name": "My Sweetest You",
+      "url": "https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2171,22 +2187,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "My Sweetest You",
-        "url": "https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq"
-      },
-      "artists": [
-        {
-          "name": "Benjamine Leroy Quartet",
-          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
-        }
-      ],
-      "duration_ms": 187004,
-      "name": "My Sweetest You",
-      "url": "https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Georgia On My Mind",
         "url": "https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq"
       },
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Just Ourselves",
-        "url": "https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB"
-      },
-      "artists": [
-        {
-          "name": "Pearl Street Trio",
-          "url": "https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k"
-        }
-      ],
-      "duration_ms": 228738,
-      "name": "Just Ourselves",
-      "url": "https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "All the Stars",
         "url": "https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 328810,
       "name": "All the Stars",
       "url": "https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Just Ourselves",
+        "url": "https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB"
+      },
+      "artists": [
+        {
+          "name": "Pearl Street Trio",
+          "url": "https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k"
+        }
+      ],
+      "duration_ms": 228738,
+      "name": "Just Ourselves",
+      "url": "https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2299,18 +2299,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Tap on my Door",
-        "url": "https://open.spotify.com/album/4pjKtKKOOKoi6ug0Mjqxi7"
+        "name": "Hometown Again",
+        "url": "https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG"
       },
       "artists": [
         {
-          "name": "Motor City Trio",
-          "url": "https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs"
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
         }
       ],
-      "duration_ms": 214503,
-      "name": "Tap on my Door",
-      "url": "https://open.spotify.com/track/4ezJCCD1FWm2VcCH8HM3zA"
+      "duration_ms": 275959,
+      "name": "Hometown Again",
+      "url": "https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2331,34 +2331,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Hometown Again",
-        "url": "https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG"
+        "name": "Tap on my Door",
+        "url": "https://open.spotify.com/album/4pjKtKKOOKoi6ug0Mjqxi7"
       },
       "artists": [
         {
-          "name": "Gottfried Barber Trio",
-          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+          "name": "Motor City Trio",
+          "url": "https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs"
         }
       ],
-      "duration_ms": 275959,
-      "name": "Hometown Again",
-      "url": "https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Sweet And Lovely",
-        "url": "https://open.spotify.com/album/5lyuMvNyS4lbRByuICf61I"
-      },
-      "artists": [
-        {
-          "name": "Nouveau Jazz Trio",
-          "url": "https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2"
-        }
-      ],
-      "duration_ms": 184991,
-      "name": "Sweet And Lovely",
-      "url": "https://open.spotify.com/track/2CWgW8oWE5Ec1CvMvawwQ6"
+      "duration_ms": 214503,
+      "name": "Tap on my Door",
+      "url": "https://open.spotify.com/track/4ezJCCD1FWm2VcCH8HM3zA"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2375,6 +2359,22 @@
       "duration_ms": 189476,
       "name": "Bring Some Lovin'",
       "url": "https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Sweet And Lovely",
+        "url": "https://open.spotify.com/album/5lyuMvNyS4lbRByuICf61I"
+      },
+      "artists": [
+        {
+          "name": "Nouveau Jazz Trio",
+          "url": "https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2"
+        }
+      ],
+      "duration_ms": 184991,
+      "name": "Sweet And Lovely",
+      "url": "https://open.spotify.com/track/2CWgW8oWE5Ec1CvMvawwQ6"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2411,38 +2411,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "All The Way",
-        "url": "https://open.spotify.com/album/44F64JbPVaSOp54y9SBsg4"
-      },
-      "artists": [
-        {
-          "name": "Akio",
-          "url": "https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A"
-        }
-      ],
-      "duration_ms": 201966,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/1BnYMsR1MIxPmMJe02Lot4"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "I Loves You, Porgy",
-        "url": "https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A"
-      },
-      "artists": [
-        {
-          "name": "Keanan Field Group",
-          "url": "https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ"
-        }
-      ],
-      "duration_ms": 210292,
-      "name": "I Loves You, Porgy",
-      "url": "https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Chimes",
         "url": "https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi"
       },
@@ -2475,6 +2443,38 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "I Loves You, Porgy",
+        "url": "https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A"
+      },
+      "artists": [
+        {
+          "name": "Keanan Field Group",
+          "url": "https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ"
+        }
+      ],
+      "duration_ms": 210292,
+      "name": "I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "All The Way",
+        "url": "https://open.spotify.com/album/44F64JbPVaSOp54y9SBsg4"
+      },
+      "artists": [
+        {
+          "name": "Akio",
+          "url": "https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A"
+        }
+      ],
+      "duration_ms": 201966,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/1BnYMsR1MIxPmMJe02Lot4"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Hum Sweet Serenades",
         "url": "https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF"
       },
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Varenne",
-        "url": "https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho"
-      },
-      "artists": [
-        {
-          "name": "Bladverk Band",
-          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
-        }
-      ],
-      "duration_ms": 224327,
-      "name": "Varenne",
-      "url": "https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Everybody Knew",
         "url": "https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 202661,
       "name": "Everybody Knew",
       "url": "https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Varenne",
+        "url": "https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho"
+      },
+      "artists": [
+        {
+          "name": "Bladverk Band",
+          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
+        }
+      ],
+      "duration_ms": 224327,
+      "name": "Varenne",
+      "url": "https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2551,6 +2551,22 @@
       "duration_ms": 290709,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "A Lucky Break",
+        "url": "https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d"
+      },
+      "artists": [
+        {
+          "name": "Tore Lundblad",
+          "url": "https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2"
+        }
+      ],
+      "duration_ms": 189204,
+      "name": "A Lucky Break",
+      "url": "https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2603,22 +2619,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "A Lucky Break",
-        "url": "https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d"
-      },
-      "artists": [
-        {
-          "name": "Tore Lundblad",
-          "url": "https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2"
-        }
-      ],
-      "duration_ms": 189204,
-      "name": "A Lucky Break",
-      "url": "https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Honey, You Are My Everything",
         "url": "https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID"
       },
@@ -2631,38 +2631,6 @@
       "duration_ms": 259642,
       "name": "Honey, You Are My Everything",
       "url": "https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Put Out The Lights",
-        "url": "https://open.spotify.com/album/3WpJUKYRgLNpnG4nPtuFbN"
-      },
-      "artists": [
-        {
-          "name": "Soft Brush Touches",
-          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
-        }
-      ],
-      "duration_ms": 174574,
-      "name": "Put Out The Lights",
-      "url": "https://open.spotify.com/track/5PQXmu4gJHZDY5ORO4xoc8"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Purple Magnolia",
-        "url": "https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f"
-      },
-      "artists": [
-        {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
-        }
-      ],
-      "duration_ms": 205631,
-      "name": "Juniper Leaves",
-      "url": "https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2683,38 +2651,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Corners of the Parlor",
-        "url": "https://open.spotify.com/album/3xY9cBUyiQdLr98m0CRntx"
-      },
-      "artists": [
-        {
-          "name": "Garry Cooper Trio",
-          "url": "https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q"
-        }
-      ],
-      "duration_ms": 130728,
-      "name": "Corners of the Parlor",
-      "url": "https://open.spotify.com/track/6aiLqhTcNWps6NmvXoi7zo"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Beautiful Sunrise",
-        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
-      },
-      "artists": [
-        {
-          "name": "Arta Porting",
-          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
-        }
-      ],
-      "duration_ms": 318512,
-      "name": "The Day that I Felt",
-      "url": "https://open.spotify.com/track/7IVkAhHfWNsc7HUxKddN1x"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Missouri and Iowa",
         "url": "https://open.spotify.com/album/32oz730TqHnkzS8tp9gSfZ"
       },
@@ -2727,6 +2663,54 @@
       "duration_ms": 205214,
       "name": "Missouri and Iowa",
       "url": "https://open.spotify.com/track/5fqBWJqsbLYMbTd8fF0NCK"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Purple Magnolia",
+        "url": "https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 205631,
+      "name": "Juniper Leaves",
+      "url": "https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Put Out The Lights",
+        "url": "https://open.spotify.com/album/3WpJUKYRgLNpnG4nPtuFbN"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "duration_ms": 174574,
+      "name": "Put Out The Lights",
+      "url": "https://open.spotify.com/track/5PQXmu4gJHZDY5ORO4xoc8"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Corners of the Parlor",
+        "url": "https://open.spotify.com/album/3xY9cBUyiQdLr98m0CRntx"
+      },
+      "artists": [
+        {
+          "name": "Garry Cooper Trio",
+          "url": "https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q"
+        }
+      ],
+      "duration_ms": 130728,
+      "name": "Corners of the Parlor",
+      "url": "https://open.spotify.com/track/6aiLqhTcNWps6NmvXoi7zo"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2747,6 +2731,38 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Beautiful Sunrise",
+        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "duration_ms": 318512,
+      "name": "The Day that I Felt",
+      "url": "https://open.spotify.com/track/7IVkAhHfWNsc7HUxKddN1x"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Guess the difference?",
+        "url": "https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh"
+      },
+      "artists": [
+        {
+          "name": "Lia Riggs Trio",
+          "url": "https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U"
+        }
+      ],
+      "duration_ms": 199923,
+      "name": "Guess the difference?",
+      "url": "https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Went Another Way",
         "url": "https://open.spotify.com/album/7dEl9BJgn3IJ5TSfwuxA0l"
       },
@@ -2759,6 +2775,38 @@
       "duration_ms": 163962,
       "name": "Went Another Way",
       "url": "https://open.spotify.com/track/6ytZNOW8k2wQ8kdFLZPzsC"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Think of refusing",
+        "url": "https://open.spotify.com/album/2hy3Rx2lNsnIR3YL4csFFZ"
+      },
+      "artists": [
+        {
+          "name": "Jazmina Tozer Three",
+          "url": "https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H"
+        }
+      ],
+      "duration_ms": 231901,
+      "name": "Think of refusing",
+      "url": "https://open.spotify.com/track/0xczcAK509NavYmwkard4Q"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Forever and Always",
+        "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
+      },
+      "artists": [
+        {
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+        }
+      ],
+      "duration_ms": 238970,
+      "name": "Forever and Always",
+      "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2795,34 +2843,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Guess the difference?",
-        "url": "https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh"
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/0xye9fPdkqLWvaW52XXpg5"
       },
       "artists": [
         {
-          "name": "Lia Riggs Trio",
-          "url": "https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U"
+          "name": "Hunter Paige",
+          "url": "https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ"
         }
       ],
-      "duration_ms": 199923,
-      "name": "Guess the difference?",
-      "url": "https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Think of refusing",
-        "url": "https://open.spotify.com/album/2hy3Rx2lNsnIR3YL4csFFZ"
-      },
-      "artists": [
-        {
-          "name": "Jazmina Tozer Three",
-          "url": "https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H"
-        }
-      ],
-      "duration_ms": 231901,
-      "name": "Think of refusing",
-      "url": "https://open.spotify.com/track/0xczcAK509NavYmwkard4Q"
+      "duration_ms": 206993,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/62LIjQ7uet2hOT9577QYoq"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2875,22 +2907,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/0xye9fPdkqLWvaW52XXpg5"
-      },
-      "artists": [
-        {
-          "name": "Hunter Paige",
-          "url": "https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ"
-        }
-      ],
-      "duration_ms": 206993,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/62LIjQ7uet2hOT9577QYoq"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI"
       },
@@ -2923,22 +2939,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "It Might As Well Be Spring",
-        "url": "https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw"
-      },
-      "artists": [
-        {
-          "name": "Mark Roswell Trio",
-          "url": "https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i"
-        }
-      ],
-      "duration_ms": 275839,
-      "name": "It Might As Well Be Spring",
-      "url": "https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Nublu",
         "url": "https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP"
       },
@@ -2951,6 +2951,22 @@
       "duration_ms": 233865,
       "name": "Nublu",
       "url": "https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "It Might As Well Be Spring",
+        "url": "https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw"
+      },
+      "artists": [
+        {
+          "name": "Mark Roswell Trio",
+          "url": "https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i"
+        }
+      ],
+      "duration_ms": 275839,
+      "name": "It Might As Well Be Spring",
+      "url": "https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -2987,34 +3003,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Life in Space",
-        "url": "https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn"
+        "name": "Walking into Love",
+        "url": "https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2"
       },
       "artists": [
         {
-          "name": "The Groove Trio",
-          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+          "name": "Nordic Swing",
+          "url": "https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4"
         }
       ],
-      "duration_ms": 254864,
-      "name": "Last Time We Kissed",
-      "url": "https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/0UuUidgi3I2YfRwng3Cdhr"
-      },
-      "artists": [
-        {
-          "name": "Karl-Erik Trio",
-          "url": "https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv"
-        }
-      ],
-      "duration_ms": 155881,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/2cByyV8EU1bya9sT6BYRuR"
+      "duration_ms": 197395,
+      "name": "Walking into Love",
+      "url": "https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -3035,18 +3035,34 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Walking into Love",
-        "url": "https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2"
+        "name": "Life in Space",
+        "url": "https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn"
       },
       "artists": [
         {
-          "name": "Nordic Swing",
-          "url": "https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4"
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
         }
       ],
-      "duration_ms": 197395,
-      "name": "Walking into Love",
-      "url": "https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5"
+      "duration_ms": 254864,
+      "name": "Last Time We Kissed",
+      "url": "https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Remembering The Rain",
+        "url": "https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "Remembering The Rain",
+      "url": "https://open.spotify.com/track/3YMMHEfRPihLMV9L2BKrWT"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -3067,6 +3083,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0UuUidgi3I2YfRwng3Cdhr"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik Trio",
+          "url": "https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv"
+        }
+      ],
+      "duration_ms": 155881,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/2cByyV8EU1bya9sT6BYRuR"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "It's Easier Than You Might Think",
         "url": "https://open.spotify.com/album/7sfucyoyWUtYk5RUOPYQBj"
       },
@@ -3079,22 +3111,6 @@
       "duration_ms": 160141,
       "name": "It's Easier Than You Might Think",
       "url": "https://open.spotify.com/track/1lC6fXNgq6Bxgz8GpTkxEY"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Remembering The Rain",
-        "url": "https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT"
-      },
-      "artists": [
-        {
-          "name": "Wonder Eve",
-          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Remembering The Rain",
-      "url": "https://open.spotify.com/track/3YMMHEfRPihLMV9L2BKrWT"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -3147,18 +3163,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Forever and Always",
-        "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
+        "name": "For the First Time",
+        "url": "https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN"
       },
       "artists": [
         {
-          "name": "The Dox Band",
-          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+          "name": "Tom Stills Quartet",
+          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
         }
       ],
-      "duration_ms": 238970,
-      "name": "Forever and Always",
-      "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
+      "duration_ms": 274021,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -3191,22 +3207,6 @@
       "duration_ms": 180318,
       "name": "Ragged Tux",
       "url": "https://open.spotify.com/track/3Xuy3E7OQ12IISyO4cm1lA"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "For the First Time",
-        "url": "https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN"
-      },
-      "artists": [
-        {
-          "name": "Tom Stills Quartet",
-          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
-        }
-      ],
-      "duration_ms": 274021,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy"
     }
   ],
   "unique_name": "Jazz Tranquilo",

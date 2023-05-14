@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 247877,
+  "num_followers": 248184,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmY1YjI5NDMxZDNhZTkxZjEwMmMyZDY0MGJjMmI1MTFkNzdkZDJi",
+  "snapshot_id": "MCxiODhiZTE4YmNhN2JkNjBhMjc5YmQxZmM4NWUwOGY0YzI2MWU0MDRl",
   "tracks": [
     {
       "added_at": "2023-05-04 21:27:18",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        }
+      ],
+      "duration_ms": 225181,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Rogue Waves",
         "url": "https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 253346,
       "name": "waves - Tame Impala Remix",
       "url": "https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        }
-      ],
-      "duration_ms": 225181,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Keeping Me Under",
-        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
+        "name": "Think About Things",
+        "url": "https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs"
       },
       "artists": [
         {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+          "name": "Da\u00f0i Freyr",
+          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
         }
       ],
-      "duration_ms": 218926,
-      "name": "Keeping Me Under",
-      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
+      "duration_ms": 173385,
+      "name": "Think About Things",
+      "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Keeping Me Under",
+        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 218926,
+      "name": "Keeping Me Under",
+      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Electric U",
         "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 171696,
       "name": "Electric U",
       "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Think About Things",
-        "url": "https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs"
-      },
-      "artists": [
-        {
-          "name": "Da\u00f0i Freyr",
-          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
-        }
-      ],
-      "duration_ms": 173385,
-      "name": "Think About Things",
-      "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Let's go to Hell",
-        "url": "https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Let's go to Hell",
-      "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Let's go to Hell",
+        "url": "https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "Let's go to Hell",
+      "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "House Hues",
         "url": "https://open.spotify.com/album/7zOq9dtIhDjmtYzKnMQU8v"
       },
@@ -907,6 +907,26 @@
       "duration_ms": 98461,
       "name": "Separated",
       "url": "https://open.spotify.com/track/5yNL07FfOxLK8onHaA7JIa"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Can\u2019t Let You Go",
+        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Little Jet",
+          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Can\u2019t Let You Go",
+      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -931,26 +951,6 @@
       "duration_ms": 176773,
       "name": "Experience",
       "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Can\u2019t Let You Go",
-        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Little Jet",
-          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Can\u2019t Let You Go",
-      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Dance Moves",
+        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 201376,
+      "name": "Dance Moves",
+      "url": "https://open.spotify.com/track/3zlJ0h0VFDMm6AIZAQzZBb"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "DAYS GO BY",
         "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 271756,
       "name": "DAYS GO BY",
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Dance Moves",
-        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 201376,
-      "name": "Dance Moves",
-      "url": "https://open.spotify.com/track/3zlJ0h0VFDMm6AIZAQzZBb"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "NOT ALONE",
-        "url": "https://open.spotify.com/album/06osQucbdoBctWgXgdFblC"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "NOT ALONE",
-      "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Tetra",
         "url": "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 207186,
       "name": "Down The Road",
       "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "NOT ALONE",
+        "url": "https://open.spotify.com/album/06osQucbdoBctWgXgdFblC"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "NOT ALONE",
+      "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Is It Magic?",
         "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS"
       },
       "artists": [
         {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         }
       ],
-      "duration_ms": 220550,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
+      "duration_ms": 208946,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1623,6 +1607,22 @@
       "duration_ms": 185213,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/3OT9zVVg5JFjXfGmn2TNrL"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 220550,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "The Lowdown",
+        "url": "https://open.spotify.com/album/6Dw27aR49vN78UE9C5pPlf"
+      },
+      "artists": [
+        {
+          "name": "Girlhood",
+          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
+        }
+      ],
+      "duration_ms": 241573,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/0Is2tnxZ7c7tnsrXCdBZZO"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "The Story Of Hugo",
         "url": "https://open.spotify.com/album/7bdEP7J8ePNrO9tdENVJIZ"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 156706,
       "name": "Best Thing",
       "url": "https://open.spotify.com/track/1nBVHNr7KSYHNj6BdhlNx3"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Duo",
-        "url": "https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 126700,
-      "name": "Duo",
-      "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
     }
   ],
   "unique_name": "Soir\u00e9e",

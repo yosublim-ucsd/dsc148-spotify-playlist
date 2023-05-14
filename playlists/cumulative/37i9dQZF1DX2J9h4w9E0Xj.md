@@ -4,7 +4,7 @@
 
 > The best new rock on the rise\. Cover: The Linda Lindas
 
-61 songs - 3 hr 12 min
+62 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Down](https://open.spotify.com/track/1K2YHBBSOIGB7UCK2gLBbI) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Down](https://open.spotify.com/album/4DGWHq0aKL2IgckAKvAEOk) | 3:00 | 2022-03-24 |  |
 | [Drive Me Home](https://open.spotify.com/track/3AmBGjKYm9c2unI4HVKhEl) | [Orchards](https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ) | [Drive Me Home](https://open.spotify.com/album/0EHwLpLAugSESONgAX8qAl) | 3:18 | 2022-03-24 |  |
 | [Endgame](https://open.spotify.com/track/7y6bW9cd1UfttzwqU2lsti) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [Endgame](https://open.spotify.com/album/4qqgxO477yvIgcKNL3PwfJ) | 2:36 | 2022-03-24 |  |
-| [FUCKBOI REJECTS](https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [F\*CKBOI REJECTS](https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG) | 2:07 | 2022-03-24 |  |
+| [FUCKBOI REJECTS](https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [F\*CKBOI REJECTS](https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG) | 2:07 | 2022-03-24 | 2023-05-14 |
+| [FUCKBOI REJECTS](https://open.spotify.com/track/580TkL4a8bKLgVbsiSoEFQ) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:07 | 2022-03-24 |  |
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-03-24 | 2022-07-29 |
 | [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 | 2022-03-24 |  |
 | [Hearts & Minds](https://open.spotify.com/track/41WEPTo5oPvOZGc1grXUQx) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Hearts & Minds](https://open.spotify.com/album/7dAAkcOthaV2P5hgxvaGvJ) | 4:02 | 2022-03-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,950 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,005 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 66 | [Dirty Old Town](https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\)](https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd) | 4:06 |
 | 67 | [Things You Can't Change](https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [In Between Minds](https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC) | 3:19 |
 | 68 | [And I Love Her](https://open.spotify.com/track/0Dv23k5ErS9XO9U2BYRI0F) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 2:42 |
-| 69 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 |
-| 70 | [England Skies](https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 3:55 |
-| 71 | [Enjoy The Silence](https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 |
-| 72 | [With Or Without You \- BBC Jo Whiley Session / 2004](https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears \(Deluxe Edition\)](https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc) | 3:30 |
+| 69 | [England Skies](https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 3:55 |
+| 70 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 |
+| 71 | [With Or Without You \- BBC Jo Whiley Session / 2004](https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears \(Deluxe Edition\)](https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc) | 3:30 |
+| 72 | [Enjoy The Silence](https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 |
 | 73 | [Paint](https://open.spotify.com/track/6OdcsvgPkIFmiyqDPgCaDy) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Paint](https://open.spotify.com/album/6fjWW4BO4crnUA3EqDWEV0) | 4:41 |
 | 74 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 |
 | 75 | [Slide](https://open.spotify.com/track/5QY4JhMKx4aBAaZcosncqd) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:23 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 87 | [Unchained Melody](https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Unchained Melody](https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG) | 2:36 |
 | 88 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 |
 | 89 | [I Do](https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu) | [Susie Suh](https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh) | [The Bakman Tapes](https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs) | 3:32 |
-| 90 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 |
-| 91 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
-| 92 | [Angeles](https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:56 |
+| 90 | [Angeles](https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:56 |
+| 91 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 |
+| 92 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
 | 93 | [Moving in Slow Motion](https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x) | [The Sweet Remains](https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK) | [Laurel & Sunset](https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4) | 3:57 |
 | 94 | [No Me Merecía La Pena](https://open.spotify.com/track/0lezFXoMcfhkGgWDwYvpJn) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [No Me Merecía La Pena](https://open.spotify.com/album/4E8avZ7MNKPAhKGmgbcLaH) | 2:51 |
-| 95 | [The Spark](https://open.spotify.com/track/1jkBuvWI9IGEz9thXiKOlP) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [In Deepest Blue \(Bonus Track Version\)](https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy) | 3:21 |
-| 96 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
-| 97 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 |
-| 98 | [I Think I Like You](https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK), [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7) | [I Think I Like You](https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27) | 2:26 |
+| 95 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
+| 96 | [The Spark](https://open.spotify.com/track/1jkBuvWI9IGEz9thXiKOlP) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [In Deepest Blue \(Bonus Track Version\)](https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy) | 3:21 |
+| 97 | [I Think I Like You](https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK), [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7) | [I Think I Like You](https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27) | 2:26 |
+| 98 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 |
 | 99 | [Rayito](https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Borneo](https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc) | 2:52 |
 | 100 | [All of Me](https://open.spotify.com/track/0Ddm2WaOg8B1OCa6zamy4K) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 3:37 |
 
-Snapshot ID: `MCw1YTE4NmE4MzYxZGVjNGI1MGQ4Njg3Y2Y4MDZkZGU1NGZhYTEyOWY2`
+Snapshot ID: `MCw0NzBlYWE0ZjRmNjM4MzJlYWUxMjU3MWRiNTM3ZWY2OTdjNTc5OTNk`

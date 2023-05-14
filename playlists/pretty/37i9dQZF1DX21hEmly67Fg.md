@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,891 likes - 84 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,032 likes - 84 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 83 | [My Heart Will Go On](https://open.spotify.com/track/7g7zKzgHOmRYYyYWr66gTW) | [Nazareno Aversa](https://open.spotify.com/artist/5i0O6tyJDlb7ADVL0W7eeT) | [Piano Cover](https://open.spotify.com/album/5JImxehtOINJnpAEIVGbJi) | 3:11 |
 | 84 | [Just The Way You Are](https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Just The Way You Are](https://open.spotify.com/album/4wKLnQ1N88dKJ6mcSAhOKq) | 3:28 |
 
-Snapshot ID: `MCwzMWQ3NzM1OTg0OWI4NmFjOTk5ZjU3ZDlkZjAyZmViZThhM2M0ODFj`
+Snapshot ID: `MCxjY2M1ZjY0YTcyYTIzOGIxNTllYWU5ZTE1NTRhYmFjMGQwOTQzMjE5`

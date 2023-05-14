@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Jana Horn
 
-333 songs - 21 hr 0 min
+335 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bindi in the Dirt](https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Bindi in the Dirt](https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm) | 3:51 | 2023-04-04 |  |
 | [Blindsided](https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF) | 3:42 | 2022-01-21 |  |
 | [Blouse](https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:15 | 2022-12-16 |  |
+| [Blouse \- Recorded At Electric Lady Studios](https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:13 | 2023-05-12 |  |
 | [Blue](https://open.spotify.com/track/4Kh8MmGnvZqBHZbhiE2rpT) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Blue](https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW) | 5:55 | 2022-04-29 | 2022-12-08 |
 | [Blue](https://open.spotify.com/track/60u8U5A6th7e2QcQ1A1Vrh) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Blue](https://open.spotify.com/album/2K8sX4ajUJNTie21tdfDyi) | 5:55 | 2022-04-13 | 2022-07-29 |
 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 | 2023-04-28 |  |
@@ -121,7 +122,7 @@
 | [Good Thing](https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Good Thing](https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5) | 4:12 | 2022-01-21 |  |
 | [Gossamer](https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Gossamer](https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z) | 3:55 | 2022-09-30 |  |
 | [Graves](https://open.spotify.com/track/2AMh8Toy9gNVutZN0V8bmn) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Graves](https://open.spotify.com/album/2Pn1ZcmnqkFAVflaBEnHkg) | 3:12 | 2022-01-21 | 2022-07-29 |
-| [Graves](https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 3:12 | 2022-04-29 |  |
+| [Graves](https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 3:12 | 2022-04-29 | 2023-05-14 |
 | [Hannah Sun](https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ) | 3:28 | 2022-10-14 | 2023-04-29 |
 | [Hannah Sun](https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 3:28 | 2023-04-28 |  |
 | [Hard Drive](https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 5:27 | 2022-04-29 |  |
@@ -220,6 +221,7 @@
 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 | 2023-02-17 |  |
 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 | 2022-04-14 |  |
 | [Other You](https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Other You / Reflection](https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z) | 5:43 | 2022-01-21 | 2022-11-13 |
+| [Own](https://open.spotify.com/track/3p7pOrxCAt2obpQ7WNa0VM) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Own](https://open.spotify.com/album/4XC9aKl4vpKP9vSZcyt1MV) | 4:59 | 2023-05-12 |  |
 | [Pareidolia](https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Two Saviors](https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh) | 4:07 | 2022-04-29 | 2023-03-04 |
 | [Pareidolia](https://open.spotify.com/track/7auhQqfbDNtYmOoLwPhGju) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Pareidolia](https://open.spotify.com/album/5lMw5oHGZQQWJVYTbn4el4) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Party's Over](https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Party's Over](https://open.spotify.com/album/6f0ynebrefkTEiM8S4akrs) | 3:23 | 2022-04-13 | 2022-07-24 |
@@ -242,7 +244,7 @@
 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 | 2022-04-13 | 2022-07-29 |
 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2023-03-17 |  |
 | [Robber](https://open.spotify.com/track/0Dmbh8ndIpIhRhhTpLRP6Z) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2BzlpJgHCH2MgTEdZNzirb) | 5:20 | 2022-01-21 | 2022-07-29 |
-| [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 | 2022-04-29 |  |
+| [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 | 2022-04-29 | 2023-05-14 |
 | [Roger](https://open.spotify.com/track/65Ht6DgQcFITmzl1tfTPbc) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Roger](https://open.spotify.com/album/2plWivfGWVm4a0xLT6ONWY) | 3:21 | 2022-04-13 | 2022-07-29 |
 | [Rolling Rolling Rolling](https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Wooh Dang](https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri) | 4:06 | 2022-04-13 | 2023-04-05 |
 | [Rubberneckers](https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Rubberneckers](https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2) | 3:28 | 2022-01-21 | 2022-11-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,098 likes - 36 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,102 likes - 36 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 31 | [When She Grows Up](https://open.spotify.com/track/44Fg7XesYHN9RIpg6oggLk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Never Regret](https://open.spotify.com/album/0iRTiQTZCcXvL4kd1lfk7X) | 3:50 |
 | 32 | [I'm Her Daddy](https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 3:18 |
 | 33 | [Things Dads Do](https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Things Dads Do](https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX) | 4:09 |
-| 34 | [I Learned From You](https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:23 |
-| 35 | [Forever Young](https://open.spotify.com/track/1qli6fjEVdmMgssWy55eiZ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Greatest Hits Volume 3](https://open.spotify.com/album/3R4p0qCYhtK1YdPtvlDD7T) | 4:56 |
+| 34 | [Forever Young](https://open.spotify.com/track/1qli6fjEVdmMgssWy55eiZ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Greatest Hits Volume 3](https://open.spotify.com/album/3R4p0qCYhtK1YdPtvlDD7T) | 4:56 |
+| 35 | [I Learned From You](https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:23 |
 | 36 | [Daddy](https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:58 |
 
-Snapshot ID: `MCwxYmU1ZGYzNzYwMzg0ODk1NDEwODU5ZTc3Y2JhNDVmYmJlNjk4NTVm`
+Snapshot ID: `MCxhZTdlN2Q4YTc2MDdjMDUxZTIwN2E4NmVjNDU5ZDU1NDZkNzgwMjlj`

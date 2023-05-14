@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 322450,
+  "num_followers": 322507,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzFlNjhkM2QwZDRiNGIwODI2Mjc3YmExODI3ZDEzZjFiZTkzYWQx",
+  "snapshot_id": "MCw3Y2E5NTU5MDM2ODZhNWFmMGFiNTUzMDY3MTA1MzExZjAxNGU2OGM2",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "BRABA",
-        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 129782,
-      "name": "BRABA",
-      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 211080,
       "name": "Dona Cila",
       "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "BRABA",
+        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 129782,
+      "name": "BRABA",
+      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "N\u00f3s VOZ Eles",
         "url": "https://open.spotify.com/album/7BPwhaHjhjWTwIopJY6FTK"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 215116,
       "name": "Pra Me Refazer",
       "url": "https://open.spotify.com/track/1KIMRoLleFJCwABBrlAOPI"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sempre a Cantar",
-        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
-      },
-      "artists": [
-        {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
-        }
-      ],
-      "duration_ms": 304866,
-      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
-      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 271293,
       "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
       "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sempre a Cantar",
+        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
+      },
+      "artists": [
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        }
+      ],
+      "duration_ms": 304866,
+      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
+      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "De Cabe\u00e7a Pra Baixo",
-        "url": "https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Cafe\u00edna",
-      "url": "https://open.spotify.com/track/1c8PttPwJZCbgV1P9V5IOB"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Virgem",
         "url": "https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 284040,
       "name": "Uma Noite E 1/2",
       "url": "https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "De Cabe\u00e7a Pra Baixo",
+        "url": "https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Cafe\u00edna",
+      "url": "https://open.spotify.com/track/1c8PttPwJZCbgV1P9V5IOB"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "\u00c9 Isso A\u00ed",
-        "url": "https://open.spotify.com/album/3Iqv2tlN9V7jt5rhicn66U"
-      },
-      "artists": [
-        {
-          "name": "Paula Lima",
-          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "\u00c9 Isso A\u00ed",
-      "url": "https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Hitz\u00e3o da Porra",
         "url": "https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 132224,
       "name": "Hitz\u00e3o da Porra",
       "url": "https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "\u00c9 Isso A\u00ed",
+        "url": "https://open.spotify.com/album/3Iqv2tlN9V7jt5rhicn66U"
+      },
+      "artists": [
+        {
+          "name": "Paula Lima",
+          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "\u00c9 Isso A\u00ed",
+      "url": "https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2"
     },
     {
       "added_at": "2022-10-07 03:01:33",

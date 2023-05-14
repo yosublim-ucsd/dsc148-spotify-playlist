@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 189786,
       "name": "Canyon Moon",
       "url": "https://open.spotify.com/track/5IhzJOXNE7ki0IIJbZbnGq"
@@ -182,6 +182,24 @@
       "duration_ms": 208906,
       "name": "Golden",
       "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191958,
+      "name": "Grapejuice",
+      "url": "https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0"
     },
     {
       "album": {
@@ -394,7 +412,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"

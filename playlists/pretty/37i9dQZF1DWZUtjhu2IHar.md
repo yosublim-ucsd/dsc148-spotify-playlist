@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 
 > Highlights from the class of 2022\. Cover: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,509 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,495 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 2 | [F.U.](https://open.spotify.com/track/2pp1JDxpXuqRINtpxl0e4h) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:47 |
 | 3 | [The Funeral](https://open.spotify.com/track/3t4zZ2SxXgQRIhc5N6a6oZ) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER) | 3:30 |
 | 4 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 |
-| 5 | [FUCKBOI REJECTS](https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [F\*CKBOI REJECTS](https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG) | 2:07 |
+| 5 | [FUCKBOI REJECTS](https://open.spotify.com/track/580TkL4a8bKLgVbsiSoEFQ) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:07 |
 | 6 | [how could you do this to me?](https://open.spotify.com/track/3fLCfvAGhyi8i4MfBjHCLB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:40 |
 | 7 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |
 | 8 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 49 | [Shooting Star \(feat\. Sum 41\)](https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Last Day On Earth](https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1) | 2:18 |
 | 50 | [SIDEWAYS \(with Travis Barker\)](https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [MY FAVORITE NIGHTMARES](https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ) | 2:04 |
 
-Snapshot ID: `MCw0OTQxMjIzNzFhYTBmMzA3NmIwYmJlODIyY2I4MWYwOTdiM2EzNzBj`
+Snapshot ID: `MCw3MTVhMDU1NDVhMmRhM2M3MGQzOWNiNjlhOGNlOGYzODc2ZDhjNzRm`

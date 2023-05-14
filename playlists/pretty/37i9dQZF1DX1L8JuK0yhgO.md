@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,931 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,929 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 10 | [dawn](https://open.spotify.com/track/43w5CjBykSk8K07M1GHZyg) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [dawn](https://open.spotify.com/album/2ES2tljkU27Bg8EbNWbPxZ) | 3:54 |
 | 11 | [近い夜明け](https://open.spotify.com/track/2a8183S8N1XtyHBbBOoFYy) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [近い夜明け](https://open.spotify.com/album/5cmjQoKSSl3HdQphqKpLvo) | 4:05 |
 | 12 | [Forgot Your Name \(feat\. Cory Henry\)](https://open.spotify.com/track/5YjXdf3xOgpix4ULgoVJnT) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Forgot Your Name \(feat\. Cory Henry\)](https://open.spotify.com/album/0mVuw95yTugX4QNeCK5CaL) | 3:38 |
-| 13 | [Ucla](https://open.spotify.com/track/1RuDYrJzmXlKngNZgWrAGn) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Vulfnik](https://open.spotify.com/album/6bs8wgjvtiI34BbchC56uB) | 2:26 |
+| 13 | [Ucla](https://open.spotify.com/track/1PP0zqqr3ESIBWs4CLpRCP) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Vulfnik](https://open.spotify.com/album/2hx7xwv78aW95cduJrslG5) | 2:26 |
 | 14 | [If The Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If The Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 |
 | 15 | [I’m The President](https://open.spotify.com/track/61KjKb7MNasVxEBMkcJblU) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [I’m The President](https://open.spotify.com/album/46uDfYz1fwX99tMqmziZ7L) | 4:07 |
 | 16 | [Pinot Noir](https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 49 | [Musaboru](https://open.spotify.com/track/3brYbbSuxEvTahx41dJ1Vn) | [mayu](https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO) | [Musaboru / Colorful](https://open.spotify.com/album/5wQvP75573asL61ZwpL3mw) | 4:26 |
 | 50 | [A Full Moon in the Sky Tonight](https://open.spotify.com/track/2HqqxhoZRN9BVRgntTEbwx) | [Ayatake Ezaki](https://open.spotify.com/artist/30XTStA4lExo4PotWkoOQT), [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [A Full Moon in the Sky Tonight](https://open.spotify.com/album/3LPknvHeKAF5Pbx2n1inFU) | 5:49 |
 
-Snapshot ID: `MCwxZjIyYzAyYzhkNTk5NjM2MzMwZGZmYmJjYmE3NWJmOGJkYmE2MGQ4`
+Snapshot ID: `MCw1OTZhZWEwYjI0N2I5YjIwNWU3OTFmOWQ2OWRhMDgzYjJmNDRmNjIw`

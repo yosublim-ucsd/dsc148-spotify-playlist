@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 104204,
+  "num_followers": 104332,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDJiMGFjZmRhYTg5ZDg4MzBhYjI2Nzc4YjQwNWQxYzViNjM1Nzlj",
+  "snapshot_id": "MCxiYzM2MzVjN2I4MmM3YmIwMDAzNjJlZDIzZDNhMjhjNjU1MzhlYTQw",
   "tracks": [
     {
       "added_at": "2023-04-28 19:03:48",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "A Mesa",
-        "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 306573,
-      "name": "A Mesa",
-      "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "S\u00f3 Tenho a Ti",
         "url": "https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 153717,
       "name": "S\u00f3 Tenho a Ti",
       "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "A Mesa",
+        "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 306573,
+      "name": "A Mesa",
+      "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Tantos Mares",
-        "url": "https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd"
-      },
-      "artists": [
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        },
-        {
-          "name": "Gabriella Stehling",
-          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "Tantos Mares",
-      "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Se Eu Cair",
         "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 193453,
       "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
       "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Tantos Mares",
+        "url": "https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd"
+      },
+      "artists": [
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Gabriella Stehling",
+          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Tantos Mares",
+      "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "360 Graus",
-        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 250485,
-      "name": "Aonde Est\u00e1 Deus?",
-      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "C\u00e2nticos I",
         "url": "https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm"
       },
@@ -363,18 +347,18 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
+        "name": "360 Graus",
+        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
       },
       "artists": [
         {
-          "name": "Jeferson Pillar",
-          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 248398,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
+      "duration_ms": 250485,
+      "name": "Aonde Est\u00e1 Deus?",
+      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -391,6 +375,22 @@
       "duration_ms": 302653,
       "name": "Deserto",
       "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
+      },
+      "artists": [
+        {
+          "name": "Jeferson Pillar",
+          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
+        }
+      ],
+      "duration_ms": 248398,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -427,6 +427,22 @@
       "duration_ms": 211386,
       "name": "Todos Um",
       "url": "https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Cuide",
+        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Cuide",
+      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -519,22 +535,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Cuide",
-        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Cuide",
-      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Experimente a Jornada",
         "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "III (Studio Sessions)",
-        "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 352173,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Al\u00e9m do Que Se V\u00ea",
         "url": "https://open.spotify.com/album/4ysGU8xBKFVw1aB1kowUQ2"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 301704,
       "name": "Al\u00e9m do Que Se V\u00ea",
       "url": "https://open.spotify.com/track/0x8YDLkajRloMiTP8UO9uM"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "III (Studio Sessions)",
+        "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 352173,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Miseric\u00f3rdia \u00c9s",
-        "url": "https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 154104,
-      "name": "Miseric\u00f3rdia \u00c9s",
-      "url": "https://open.spotify.com/track/5AKt5pJIlou7XCZvWH1hGV"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Ocideia",
         "url": "https://open.spotify.com/album/0z4207UV2U8qFqxDEYhwPy"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 263040,
       "name": "Todo Medo",
       "url": "https://open.spotify.com/track/7C0NIIqcZK4reNv9boACco"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Miseric\u00f3rdia \u00c9s",
+        "url": "https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 154104,
+      "name": "Miseric\u00f3rdia \u00c9s",
+      "url": "https://open.spotify.com/track/5AKt5pJIlou7XCZvWH1hGV"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "Leidy Murilho Ac\u00fastico",
+        "url": "https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 227046,
+      "name": "Filho - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Agora, Aqui",
         "url": "https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 205329,
       "name": "Agora, Aqui",
       "url": "https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Leidy Murilho Ac\u00fastico",
-        "url": "https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 227046,
-      "name": "Filho - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS"
     },
     {
       "added_at": "2023-04-28 19:03:48",

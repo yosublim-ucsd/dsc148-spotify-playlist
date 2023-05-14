@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 64442,
+  "num_followers": 64531,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDEwODQ5ZGIzOWM0ZWJmNmZlODAwYmViODgwMTA2OWNmZjRlMGJl",
+  "snapshot_id": "MCxiOTEwYzBkY2U2ZGIwZTcyZjAzOWE3NTE2NDI2ZTMzZGQ2Mjg5MjY3",
   "tracks": [
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "The Shape Of Things To Come",
-        "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 347413,
-      "name": "Shape Of Things That Are And Were",
-      "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
         "name": "Kenny Burrell & John Coltrane",
         "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 422680,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
+        "name": "The Shape Of Things To Come",
+        "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 347413,
+      "name": "Shape Of Things That Are And Were",
+      "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
-      },
-      "artists": [
-        {
-          "name": "Russell Malone",
-          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "For Toddlers Only",
-      "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
+      },
+      "artists": [
+        {
+          "name": "Russell Malone",
+          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "For Toddlers Only",
+      "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
         "name": "Time On My Hands",
         "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
-      },
-      "artists": [
-        {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
         "name": "Concierto (CTI Records 40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 447026,
       "name": "You'd Be So Nice To Come Home To - alt. take",
       "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+      },
+      "artists": [
+        {
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1711,6 +1711,42 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
+        "name": "Jimmy Raney Featuring Bob Brookmeyer",
+        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Raney",
+          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "How Long Has This Been Going On",
+      "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
+        "name": "These Times",
+        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 397106,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
         "name": "Sight",
         "url": "https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt"
       },
@@ -1735,38 +1771,22 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "These Times",
-        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+        "name": "At the Garden Party",
+        "url": "https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q"
       },
       "artists": [
         {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
-        "name": "Jimmy Raney Featuring Bob Brookmeyer",
-        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Raney",
-          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
+          "name": "Don Thompson",
+          "url": "https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX"
         },
         {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+          "name": "Ed Bickert",
+          "url": "https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA"
         }
       ],
-      "duration_ms": 271200,
-      "name": "How Long Has This Been Going On",
-      "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
+      "duration_ms": 394560,
+      "name": "You Are Too Beautiful",
+      "url": "https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1791,26 +1811,6 @@
       "duration_ms": 661106,
       "name": "May Dance",
       "url": "https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
-        "name": "At the Garden Party",
-        "url": "https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q"
-      },
-      "artists": [
-        {
-          "name": "Don Thompson",
-          "url": "https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX"
-        },
-        {
-          "name": "Ed Bickert",
-          "url": "https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA"
-        }
-      ],
-      "duration_ms": 394560,
-      "name": "You Are Too Beautiful",
-      "url": "https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO"
     },
     {
       "added_at": "2023-05-10 06:14:43",

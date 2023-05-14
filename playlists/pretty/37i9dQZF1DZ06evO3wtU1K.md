@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,060 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,077 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 4 | [Gracefully Broken](https://open.spotify.com/track/3TMFxaCtDbBGi0UeGH2dzc) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 5:50 |
 | 5 | [You Know My Name](https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:00 |
 | 6 | [Break Every Chain \- Live](https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 8:18 |
-| 7 | [Fill Me Up \- Live](https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 5:58 |
-| 8 | [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 |
+| 7 | [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 |
+| 8 | [Fill Me Up \- Live](https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 5:58 |
 | 9 | [What He's Done \- Live From Passion 2022](https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 6:37 |
 | 10 | [Holy Water \- Church Sessions](https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Holy Water \(Church Sessions\)](https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC) | 7:44 |
 | 11 | [Your Spirit](https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 7:51 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 44 | [Here](https://open.spotify.com/track/7enQOizrAIlq1Lu9SSmaPi) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 3:51 |
 | 45 | [Grace \- Live](https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:09 |
 | 46 | [Never Be The Same \(feat\. Tasha Cobbs Leonard, Brian Courtney Wilson & Travis Greene\)](https://open.spotify.com/track/1ZLQ9em098JEt310TDsbs2) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Gospel According To PJ](https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO) | 3:56 |
-| 47 | [Reach Out And Touch The Lord \- Live](https://open.spotify.com/track/2maSUWzwOxEKPbRCbuP7G9) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 2:30 |
-| 48 | [Pour It Out \- Live](https://open.spotify.com/track/7olw5gkH3R79UG2NFUVixB) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 5:29 |
+| 47 | [Pour It Out \- Live](https://open.spotify.com/track/7olw5gkH3R79UG2NFUVixB) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 5:29 |
+| 48 | [Reach Out And Touch The Lord \- Live](https://open.spotify.com/track/2maSUWzwOxEKPbRCbuP7G9) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 2:30 |
 | 49 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 |
 | 50 | [Warrior Of Heaven \- Live](https://open.spotify.com/track/7eozoUQaZ40JCzdVQboEBU) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 6:55 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDBmMGVhNWI0NGU0NGRmODZmYzVkYWU3ZWM4OTU3Njg5ZQ==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA3OTIxM2VlNWJjMGRhOWRhOTFiMTJiMDdiMGM2NGEzMQ==`

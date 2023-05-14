@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 143943,
+  "num_followers": 144157,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTBhOWMyOGU3Yzk3ZGJmNmNkZDkxNTk2ODBiZmJiZTIyOGJiNWI5",
+  "snapshot_id": "MCwyNzg3OWVjYmRiMDI1YzQ0ZWE1M2Q5NmVhMzZlYzU0ZGVjMjc4MTky",
   "tracks": [
     {
       "added_at": "2023-05-11 22:01:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Quarteto Jobim Morelenbaum",
-        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
       },
       "artists": [
         {
-          "name": "Quarteto Jobim-Morelenbaum",
-          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 156502,
-      "name": "\u00c1gua de Beber",
-      "url": "https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5"
+      "duration_ms": 280529,
+      "name": "Don't Think Twice, It's Alright",
+      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "The Beat Goes On",
-        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
+        "name": "Quarteto Jobim Morelenbaum",
+        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Quarteto Jobim-Morelenbaum",
+          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
         }
       ],
-      "duration_ms": 280529,
-      "name": "Don't Think Twice, It's Alright",
-      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
+      "duration_ms": 156502,
+      "name": "\u00c1gua de Beber",
+      "url": "https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Night Lights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Prelude In E Minor",
+      "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Take To The Sky",
         "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 349080,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Night Lights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Prelude In E Minor",
-      "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -551,30 +551,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "The Girl From Ipanema - The Bossa Nova Years",
-        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 304826,
-      "name": "Para Machuchar Meu Coracao",
-      "url": "https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
         "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
       },
@@ -607,18 +583,26 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
+        "name": "The Girl From Ipanema - The Bossa Nova Years",
+        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
       "artists": [
         {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 250186,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
+      "duration_ms": 304826,
+      "name": "Para Machuchar Meu Coracao",
+      "url": "https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -659,6 +643,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "chambre avec vue",
         "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 203066,
       "name": "Jazz M\u00e9diterran\u00e9e",
       "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "A Little Brighter Every Day",
+        "url": "https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp"
+      },
+      "artists": [
+        {
+          "name": "Brandon's Three",
+          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "A Little Brighter Every Day",
+      "url": "https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "A Little Brighter Every Day",
-        "url": "https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp"
-      },
-      "artists": [
-        {
-          "name": "Brandon's Three",
-          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "A Little Brighter Every Day",
-      "url": "https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Can't Help Falling in Love",
         "url": "https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 255251,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "The Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Jazz Trio",
-          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
-        }
-      ],
-      "duration_ms": 232261,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -763,6 +747,22 @@
       "duration_ms": 369280,
       "name": "Samba De Uma Nota So",
       "url": "https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "The Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Trio",
+          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
+        }
+      ],
+      "duration_ms": 232261,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Dindi",
-        "url": "https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0"
-      },
-      "artists": [
-        {
-          "name": "Clube no norte",
-          "url": "https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH"
-        }
-      ],
-      "duration_ms": 230750,
-      "name": "how insensitive",
-      "url": "https://open.spotify.com/track/3NfjsizJtx8XWnmsZxOohA"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Strangers in the Night",
         "url": "https://open.spotify.com/album/6QGyGBnji7UQ2ZHeV6vZRs"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 170418,
       "name": "Strangers in the Night",
       "url": "https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Dindi",
+        "url": "https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0"
+      },
+      "artists": [
+        {
+          "name": "Clube no norte",
+          "url": "https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH"
+        }
+      ],
+      "duration_ms": 230750,
+      "name": "how insensitive",
+      "url": "https://open.spotify.com/track/3NfjsizJtx8XWnmsZxOohA"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Vivendo",
         "url": "https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 199299,
       "name": "Vivendo",
       "url": "https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Praia \u00e0 noite",
+        "url": "https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7"
+      },
+      "artists": [
+        {
+          "name": "C. Moreira",
+          "url": "https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02"
+        }
+      ],
+      "duration_ms": 180610,
+      "name": "Praia \u00e0 noite",
+      "url": "https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Rio Bahia",
         "url": "https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 148146,
       "name": "Jo\u00e3ozinho Boa Pinta",
       "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Praia \u00e0 noite",
-        "url": "https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7"
-      },
-      "artists": [
-        {
-          "name": "C. Moreira",
-          "url": "https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02"
-        }
-      ],
-      "duration_ms": 180610,
-      "name": "Praia \u00e0 noite",
-      "url": "https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Amorosa",
-        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
-      },
-      "artists": [
-        {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "S'Wonderful",
-      "url": "https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "I've Never Been in Love Before",
         "url": "https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 236677,
       "name": "I've Never Been in Love Before",
       "url": "https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Amorosa",
+        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
+      },
+      "artists": [
+        {
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "S'Wonderful",
+      "url": "https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
+        "name": "Nara Dez Anos Depois",
+        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
         }
       ],
-      "duration_ms": 253133,
-      "name": "The Theme from \"Black Orpheus\"",
-      "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
+      "duration_ms": 137800,
+      "name": "Medita\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Nara Dez Anos Depois",
-        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
       },
       "artists": [
         {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 137800,
-      "name": "Medita\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps"
+      "duration_ms": 253133,
+      "name": "The Theme from \"Black Orpheus\"",
+      "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Quarteto Jobim Morelenbaum",
-        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Jobim-Morelenbaum",
-          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "\u00c1guas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "\u00c1guas Do Passado",
         "url": "https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 142623,
       "name": "\u00c1guas Do Passado",
       "url": "https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Quarteto Jobim Morelenbaum",
+        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
+      },
+      "artists": [
+        {
+          "name": "Quarteto Jobim-Morelenbaum",
+          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "\u00c1guas de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Greatest Hits Series--Paul Desmond",
-        "url": "https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 266480,
-      "name": "O Gato",
-      "url": "https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Blue Night Bossa",
         "url": "https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7"
       },
@@ -1683,6 +1663,26 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Greatest Hits Series--Paul Desmond",
+        "url": "https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 266480,
+      "name": "O Gato",
+      "url": "https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
       },
@@ -1695,22 +1695,6 @@
       "duration_ms": 199875,
       "name": "Rio",
       "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Aquele Frevo Ax\u00e9",
-        "url": "https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "Aquele Frevo Ax\u00e9",
-      "url": "https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1731,6 +1715,22 @@
       "duration_ms": 226906,
       "name": "You've Changed - Studio Rio Version",
       "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Aquele Frevo Ax\u00e9",
+        "url": "https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "Aquele Frevo Ax\u00e9",
+      "url": "https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m"
     },
     {
       "added_at": "2023-05-11 22:01:00",

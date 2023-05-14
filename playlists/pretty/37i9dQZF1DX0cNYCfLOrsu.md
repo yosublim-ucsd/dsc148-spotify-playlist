@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > Jada Kingdom selects the baddest in Dancehall for the gyaldem.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,057 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,078 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 17 | [Woke Up In Kingston \- Di Genius Remix](https://open.spotify.com/track/6pduFTCZWlDzWtdwk44d74) | [I DO](https://open.spotify.com/artist/2CpKPyP4X3dR9vTHqwbnR8), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Woke Up In Kingston \(Di Genius Remix\)](https://open.spotify.com/album/1I4Y5jDcag1UIZxhNgbWY4) | 3:06 |
 | 18 | [Scripture](https://open.spotify.com/track/5mxjjwz1QzSBZL92y9Gm7N) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Scripture](https://open.spotify.com/album/43DlU7NOku21Zu2nxEIlrP) | 3:13 |
 | 19 | [Perfect Timing](https://open.spotify.com/track/3sP88foDNpoLlkpsaEUDJL) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Perfect Timing](https://open.spotify.com/album/4hkk8DkNZdTRHdlbkHZ37B) | 2:58 |
-| 20 | [Ride \- Remix](https://open.spotify.com/track/3SEfX0PJAkE9mqFVMSO4QO) | [Kash Promise Move](https://open.spotify.com/artist/0n2GVhODT8CJldQoVdsMw4), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Ride \(Remix\)](https://open.spotify.com/album/5ksTZQyb1EcTen6NYlEgL5) | 3:05 |
+| 20 | [Ride \- Remix](https://open.spotify.com/track/3SEfX0PJAkE9mqFVMSO4QO) | [Kash PM](https://open.spotify.com/artist/4OVY7okNqdbMxHQIaadGJc), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Ride \(Remix\)](https://open.spotify.com/album/5ksTZQyb1EcTen6NYlEgL5) | 3:05 |
 | 21 | [I Can Feel Your Pain](https://open.spotify.com/track/0tpaQpIJnRQ8GQ0BLjQFlg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [I Can Feel Your Pain](https://open.spotify.com/album/3m0h3NcSXFHcFiJGrxx1aO) | 4:23 |
 | 22 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 |
 | 23 | [Bless\-Sin](https://open.spotify.com/track/3ngHXvYEgaZex41OjmpMJu) | [Zerimar](https://open.spotify.com/artist/7IbkKTNpBj7MORRdt3oge3) | [Bless\-Sin](https://open.spotify.com/album/3igYL8gvd1EDIrnO5fo2x3) | 3:48 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 29 | [Love Situations](https://open.spotify.com/track/18YlTPHOFfZCd4EaeqD8De) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Love Situations](https://open.spotify.com/album/3AYh9Cgmai1t6Aw6jvrQTe) | 3:24 |
 | 30 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
 
-Snapshot ID: `MCw4YjQ1ZWI0NDMxNDIxY2M1Yzc5OTc4MzYwNWQ1MTYwMDY3ZWM0OGEz`
+Snapshot ID: `MCxmMDhhMjdiZjFjOTg5MWEwZjhhODFjZTBiMGNiNzczNjdlN2YzMDhm`

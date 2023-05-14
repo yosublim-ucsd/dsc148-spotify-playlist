@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,776,544 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,776,976 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -245,7 +245,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 235 | [Bad Boys \(Theme from COPS\)](https://open.spotify.com/track/0qeKzbUsW0V4ZWRJrHNiD3) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:49 |
 | 236 | [Mellow Mood](https://open.spotify.com/track/6r9KZ2g5dXZXXLF6vOHnet) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Bunny Wailer Sings The Wailers](https://open.spotify.com/album/3D6W8G8ZtbZoeQeyBUUAhu) | 3:51 |
 | 237 | [Revolution](https://open.spotify.com/track/1nsEptcDye2MUjMJQ1N5Rh) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Reggae Anthology: Dennis Brown \- Crown Prince of Reggae \- Singles \(1972\-1985\)](https://open.spotify.com/album/1ZckZ1ISksO8vqrbQn3cic) | 4:19 |
-| 238 | [I Shot The Sheriff](https://open.spotify.com/track/71zvW0WZ0bap9gphp7Jhgp) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 4:40 |
+| 238 | [I Shot The Sheriff](https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:39 |
 | 239 | [Police & Thieves](https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police & Thieves](https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR) | 4:04 |
 | 240 | [Ku Klux Klan](https://open.spotify.com/track/1ViW8CWCiUff8iwlSpeI1r) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 3:35 |
 | 241 | [Untold Stories](https://open.spotify.com/track/57m9RMS9WpcWZFkMiP3yPV) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | ['Til Shiloh \(25th Anniversary Edition\)](https://open.spotify.com/album/44TzM9HNKi898wWhkH8FNu) | 4:33 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/4g4BE9VeeQwPOvQ5sJTpj2) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:46 |
 | 250 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
-Snapshot ID: `MCxkYTI5ZDI1ODFhNGExOTc5YmZlNjkxNDNjMzg3ZTJmMTUyYzBkMjky`
+Snapshot ID: `MCwzZDgzMjU1MjZjZTllMjVmNjFkMWM5MWIwMDhkMDhiMzhlMGRhMTE2`

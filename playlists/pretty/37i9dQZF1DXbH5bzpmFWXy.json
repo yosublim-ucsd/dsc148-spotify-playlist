@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eladio Carri\u00f3n & Peso Pluma en portada.",
-  "num_followers": 126834,
+  "num_followers": 127074,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODVmOTVmMzc4Y2U2ZWVmYjc3MzczNTNiMmI5ZjY1YThkMDAwYTJk",
+  "snapshot_id": "MCw2ZDNmYWM1N2I3MTg4NjRiNzcxMzRkMDk1Yzg1ZmVhZmVmMTc5ZTcz",
   "tracks": [
     {
       "added_at": "2023-05-05 06:00:00",
@@ -311,6 +311,26 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
+        "name": "En Paris",
+        "url": "https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR"
+      },
+      "artists": [
+        {
+          "name": "El Chachito",
+          "url": "https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 162795,
+      "name": "En Paris",
+      "url": "https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5"
+    },
+    {
+      "added_at": "2023-04-19 16:02:16",
+      "album": {
         "name": "El Gavil\u00e1n",
         "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 175295,
       "name": "El Gavil\u00e1n",
       "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
-    },
-    {
-      "added_at": "2023-04-19 16:02:16",
-      "album": {
-        "name": "En Paris",
-        "url": "https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR"
-      },
-      "artists": [
-        {
-          "name": "El Chachito",
-          "url": "https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 162795,
-      "name": "En Paris",
-      "url": "https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -819,22 +819,22 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
-        "name": "B\u00e9lico y Cholo",
-        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
+        "name": "En Blindadas",
+        "url": "https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY"
       },
       "artists": [
         {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
         },
         {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 202218,
-      "name": "B\u00e9lico y Cholo",
-      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+      "duration_ms": 190154,
+      "name": "En Blindadas",
+      "url": "https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -855,22 +855,22 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
-        "name": "En Blindadas",
-        "url": "https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY"
+        "name": "B\u00e9lico y Cholo",
+        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
       "artists": [
         {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
         }
       ],
-      "duration_ms": 190154,
-      "name": "En Blindadas",
-      "url": "https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo"
+      "duration_ms": 202218,
+      "name": "B\u00e9lico y Cholo",
+      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
+        "name": "Les Cerre La Boca",
+        "url": "https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "El Black",
+      "url": "https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X"
+    },
+    {
+      "added_at": "2023-04-19 16:02:16",
+      "album": {
         "name": "El Pickles",
         "url": "https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 182634,
       "name": "El Pickles",
       "url": "https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG"
-    },
-    {
-      "added_at": "2023-04-19 16:02:16",
-      "album": {
-        "name": "Les Cerre La Boca",
-        "url": "https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "El Black",
-      "url": "https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X"
     },
     {
       "added_at": "2023-04-19 16:02:16",

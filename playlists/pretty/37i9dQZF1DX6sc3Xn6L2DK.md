@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,600 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,618 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 28 | [No Glory in the West](https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [No Glory in the West](https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL) | 4:13 |
 | 29 | [Hot Burrito \#1](https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Gilded Palace Of Sin](https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU) | 3:37 |
 | 30 | [U.F.O.](https://open.spotify.com/track/6tHOHkapttrP6FEfXouCJ5) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:49 |
-| 31 | [Blue Pill Blues](https://open.spotify.com/track/6mFWXPietqhGexi0hkNH1B) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Singing for My Supper](https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw) | 3:07 |
-| 32 | [Rather Low](https://open.spotify.com/track/3XZo49fN68s54wUsSVy21H) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Okay, Crawdad](https://open.spotify.com/album/4Be8F6J5qKXiGz6PuEBXYp) | 3:00 |
+| 31 | [Rather Low](https://open.spotify.com/track/3XZo49fN68s54wUsSVy21H) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Okay, Crawdad](https://open.spotify.com/album/4Be8F6J5qKXiGz6PuEBXYp) | 3:00 |
+| 32 | [Blue Pill Blues](https://open.spotify.com/track/6mFWXPietqhGexi0hkNH1B) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Singing for My Supper](https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw) | 3:07 |
 | 33 | [Go Outside](https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Happy Birthday, Ratboy](https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO) | 2:49 |
 | 34 | [Riding For The Feeling](https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 6:05 |
 | 35 | [Ride Out In The Country](https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:15 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 39 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 |
 | 40 | [We Shouldn't Talk About It \(feat\. Emily Gimble\)](https://open.spotify.com/track/1ZN4HXmebT3dxEfpT83q25) | [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2), [Emily Gimble](https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK) | [Plus de Sauce](https://open.spotify.com/album/329yK2nEn3owPZOdYcFHvQ) | 2:26 |
 | 41 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 |
-| 42 | [U Do U](https://open.spotify.com/track/6V1PghqHfdiog7XTmVgaCa) | [The Kernal](https://open.spotify.com/artist/1hiClSI3M2zxypaLJfNYCu) | [U Do U](https://open.spotify.com/album/0GxM59RMcTXOsvp0otXaq0) | 3:54 |
-| 43 | [I’m Gonna Live Forever \(If It Kills Me\)](https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 5:25 |
-| 44 | [Highways](https://open.spotify.com/track/0lv8vzoworXjrezBYz912U) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:51 |
+| 42 | [I’m Gonna Live Forever \(If It Kills Me\)](https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 5:25 |
+| 43 | [Highways](https://open.spotify.com/track/0lv8vzoworXjrezBYz912U) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:51 |
+| 44 | [U Do U](https://open.spotify.com/track/6V1PghqHfdiog7XTmVgaCa) | [The Kernal](https://open.spotify.com/artist/1hiClSI3M2zxypaLJfNYCu) | [U Do U](https://open.spotify.com/album/0GxM59RMcTXOsvp0otXaq0) | 3:54 |
 | 45 | [Rivers That You Cannot See](https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Roped In](https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I) | 3:55 |
 | 46 | [Wrecking Ball](https://open.spotify.com/track/7AhLSMrjWMULOB9UH7lI7p) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 4:49 |
 | 47 | [Rendezvous USA](https://open.spotify.com/track/0WDNetEwAsjiavw67F33Mi) | [Terry Allen](https://open.spotify.com/artist/4QonkOS6ybWrJVYFWEHMZY) | [Lubbock \(on everything\)](https://open.spotify.com/album/31gOu9Ke5o3wgx1GyIDNYU) | 2:45 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 57 | [Dandelions](https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 6:34 |
 | 58 | [Cocaine Country Dancing](https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Cocaine Country Dancing](https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL) | 4:16 |
 | 59 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
-| 60 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
-| 61 | [Turn on the Dark](https://open.spotify.com/track/5KMFDh9PK8ubrWtnpDefG1) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Home on the Rage](https://open.spotify.com/album/4pZPvj5V4jfJLzPZ63LWvg) | 4:22 |
+| 60 | [Turn on the Dark](https://open.spotify.com/track/5KMFDh9PK8ubrWtnpDefG1) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Home on the Rage](https://open.spotify.com/album/4pZPvj5V4jfJLzPZ63LWvg) | 4:22 |
+| 61 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
 | 62 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
 | 63 | [Strange Fascination](https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs) | 4:18 |
 | 64 | [Are You Listening?](https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Are You Listening?](https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O) | 3:18 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 72 | [Lonesome City](https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy) | [The Black Canyon Gang](https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe) | [Wayfaring Strangers: Cosmic American Music](https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB) | 3:34 |
 | 73 | [Isn’t It](https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Isn’t It](https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC) | 2:04 |
 | 74 | [Breakfast](https://open.spotify.com/track/4FDGp2BcZSmT9dZucG4ksY) | [Darrin Bradbury](https://open.spotify.com/artist/7azO8ieqy1sOm6LkfHtH9w) | [Talking Dogs & Atom Bombs](https://open.spotify.com/album/3UTuOx53762H0mBIfB49Ma) | 3:06 |
-| 75 | [Happy Birthday, Baby](https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:45 |
+| 75 | [Toshiba Sky](https://open.spotify.com/track/72LxGUlBbiJIAnUGXBPNAv) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/1mpy274fg96Cu5cvhNStzh) | 3:16 |
 
-Snapshot ID: `MCw5MTEyMjQyYjczZWNlYjUyZmU2NWI1ZmU2ZTA3ODAxNGUxOGY2NmI2`
+Snapshot ID: `MCw1MDczY2EwNzdlMGMyZTI5MGVlZTdhMmFkMGMxMjY3NDEwYmIyMjgx`

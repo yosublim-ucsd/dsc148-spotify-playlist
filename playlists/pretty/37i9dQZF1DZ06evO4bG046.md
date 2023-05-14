@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,723 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,733 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 24 | [En el Tren a Paisandú](https://open.spotify.com/track/62Ul4vrKeJB2aDhJ6WSZU8) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 4:30 |
 | 25 | [Canción del Sur](https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 7:41 |
 | 26 | [Corre Que Te Pillo](https://open.spotify.com/track/1tqU1TAZpCp5WqLMI1yHpL) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 9:46 |
-| 27 | [Run Run Se Fue Pa'l Norte](https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 5:14 |
-| 28 | [Guajira Cosmica](https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 7:59 |
+| 27 | [Guajira Cosmica](https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 7:59 |
+| 28 | [Run Run Se Fue Pa'l Norte](https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 5:14 |
 | 29 | [Mamalluca](https://open.spotify.com/track/5cZqYxULKUnsi9cHKp78pS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 15:44 |
 | 30 | [Debajo de las Higueras](https://open.spotify.com/track/2yXSCqW7fZURhD2Uo0sOrL) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 3:29 |
 | 31 | [Foto de Primera Comunión](https://open.spotify.com/track/6QFtJ2309fzZS0ioRwzQYG) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [El Volantín](https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz) | 6:34 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 34 | [En la Cumbre de un Cerro](https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 5:09 |
 | 35 | [Violeta Ausente](https://open.spotify.com/track/2QrqeZRrMHhj8POCWHDYyQ) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 5:06 |
 | 36 | [Que o la Tumba Serás](https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [El Volantín](https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz) | 3:22 |
-| 37 | [Sueño Del Inca](https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:43 |
-| 38 | [Si Tú No Estás](https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 3:45 |
+| 37 | [Si Tú No Estás](https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 3:45 |
+| 38 | [Sueño Del Inca](https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:43 |
 | 39 | [Arauco Tiene una Pena](https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 11:07 |
 | 40 | [La Quebrá del Ají \(Remasterizado 2020\)](https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4) | 4:43 |
 | 41 | [Canción para los Pájaros](https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 4:40 |
 | 50 | [Danzas](https://open.spotify.com/track/1g5kVDd0YvwDG7XUpkDuSc) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 8:44 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDBmNTNmMjEzMjUxOTYwMjhlZmI4ZTg4ODJkNWVkMjU0MQ==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDBhNzNiOWVhODFkNzM4MGM4MmVlYTI3MzBiYmUxZTkzNA==`

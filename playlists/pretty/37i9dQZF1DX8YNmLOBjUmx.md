@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: WILLOW \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,364 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,360 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 | 45 | [Sad Girl Summer](https://open.spotify.com/track/52ITJgaQHGQ4Uxnqz44jWP) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Summer](https://open.spotify.com/album/6BD3f64782idv4IF2npufe) | 3:13 |
 | 46 | [Beautiful James](https://open.spotify.com/track/54s0TZeheZOxoVFxxmB3wA) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Never Let Me Go](https://open.spotify.com/album/19upQOw6eZRsGUGqGe6zF1) | 4:08 |
 | 47 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 |
-| 48 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 |
+| 48 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
 | 49 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 |
 | 50 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 |
 | 51 | [Times Like These](https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 | 99 | [Million Miles of Fun](https://open.spotify.com/track/62cL9ooB6JUvDoHQi1ooSO) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 2:10 |
 | 100 | [We Came To Play](https://open.spotify.com/track/5ZNAXdzYkAMDqAokJ9Ub7Z) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Trouble The Water](https://open.spotify.com/album/1sgYQT8SDu5pjb0MPPqs3t) | 2:15 |
 
-Snapshot ID: `MCxjNzFhMzg1ODRjOGU1ODViNzM3MWQwZjExY2RhMWVkYTIxNmRkMmEy`
+Snapshot ID: `MCxmNjUyN2U5ZWFjNTg5NmRlYThjYzc4ZTAwOWY4NGM3OTQ0YmU2MmFl`

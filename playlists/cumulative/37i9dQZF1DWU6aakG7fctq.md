@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Giorgio Siladi
 
-356 songs - 19 hr 57 min
+357 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [inigualable](https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [inigualable](https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq) | 2:58 | 2022-05-06 | 2022-12-16 |
 | [Insomnio](https://open.spotify.com/track/5LHQUyptPDRFp0kmNvJbiC) | [Miguee](https://open.spotify.com/artist/0CQoH1xwzWRr8WMQ4fmIyr) | [Insomnio](https://open.spotify.com/album/0EyF0fF1NPLbey0SmSAC6G) | 3:13 | 2021-11-18 | 2022-07-29 |
 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 | 2022-12-09 |  |
-| [Insurgentes](https://open.spotify.com/track/51fZQgHPcn6IZVxkzaYtwd) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/2KAixjSEqmUfFSydwMjcqo) | 2:11 | 2023-05-12 |  |
+| [Insurgentes](https://open.spotify.com/track/51fZQgHPcn6IZVxkzaYtwd) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/2KAixjSEqmUfFSydwMjcqo) | 2:11 | 2023-05-12 | 2023-05-14 |
+| [Insurgentes](https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h) | 2:11 | 2023-05-12 |  |
 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 | 2021-11-18 | 2022-08-12 |
 | [Junto a Ti](https://open.spotify.com/track/7aF0TCs1HeKfu56uN8aqIo) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Charly Salas](https://open.spotify.com/artist/4IMyzWU8HAKXwl0b1d3fzw) | [777](https://open.spotify.com/album/1ycyPY7nsBl0ijtskuAiAP) | 3:52 | 2021-11-18 | 2022-07-29 |
 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 | 2023-03-03 |  |

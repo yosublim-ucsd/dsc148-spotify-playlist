@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2000s. Cover: Usher",
-  "num_followers": 4375233,
+  "num_followers": 4376623,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmNmYzY2MjBmMzc5MDY0MmYxNDkzYzY1YTk5ZGNkZGU2ZWU4YzAy",
+  "snapshot_id": "MCwzYTUyOWVlMjZkYmUzZDhjZWFiZGY3ODk1NjNlYTFlNTJmMzAyZDVk",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/6Y3WvyUG9iE5bQYg38SPtQ"
     },
     {
-      "added_at": "2023-01-21 18:20:05",
-      "album": {
-        "name": "Memoirs of an imperfect Angel",
-        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "It's A Wrap",
-      "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "The Life",
@@ -507,6 +491,22 @@
       "duration_ms": 265533,
       "name": "Differences",
       "url": "https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ"
+    },
+    {
+      "added_at": "2023-01-21 18:20:05",
+      "album": {
+        "name": "Memoirs of an imperfect Angel",
+        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "It's A Wrap",
+      "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Trey Day",
         "url": "https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 206413,
       "name": "Can't Help but Wait",
       "url": "https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -917,6 +917,26 @@
       "url": "https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh"
     },
     {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 256346,
+      "name": "Oh (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
+    },
+    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Lucy Pearl",
@@ -931,22 +951,6 @@
       "duration_ms": 221280,
       "name": "Dance Tonight",
       "url": "https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "The Evolution",
-        "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
     },
     {
       "added_at": "2022-08-21 20:37:58",
@@ -1049,44 +1053,20 @@
       "url": "https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Southern Hummingbird",
-        "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
-      },
-      "artists": [
-        {
-          "name": "Tweet",
-          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Oops (Oh My) [feat. Missy Elliott]",
-      "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+        "name": "The Evolution",
+        "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
       },
       "artists": [
         {
           "name": "Ciara",
           "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 256346,
-      "name": "Oh (feat. Ludacris)",
-      "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
+      "duration_ms": 267413,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1107,6 +1087,26 @@
       "duration_ms": 262773,
       "name": "Shawty Is Da Shit",
       "url": "https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Southern Hummingbird",
+        "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
+      },
+      "artists": [
+        {
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Oops (Oh My) [feat. Missy Elliott]",
+      "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "BLACKsummers'night (2009)",
-        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "Pretty Wings - uncut",
-      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Ms. Kelly",
         "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 215853,
       "name": "Like This (feat. Eve)",
       "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "BLACKsummers'night (2009)",
+        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "Pretty Wings - uncut",
+      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
     },
     {
       "added_at": "2022-08-23 02:57:28",
@@ -1413,6 +1413,22 @@
       "url": "https://open.spotify.com/track/5cvMzT7kEvcxcdtcJz1vQY"
     },
     {
+      "added_at": "2023-03-04 19:43:24",
+      "album": {
+        "name": "J.E. Heartbreak",
+        "url": "https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD"
+    },
+    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "4 Ever (feat. Fabolous)",
@@ -1431,22 +1447,6 @@
       "duration_ms": 222946,
       "name": "4Ever (feat. Fabolous)",
       "url": "https://open.spotify.com/track/6ubNZ5edKBKH3MQKatUY3S"
-    },
-    {
-      "added_at": "2023-03-04 19:43:24",
-      "album": {
-        "name": "J.E. Heartbreak",
-        "url": "https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3"
-      },
-      "artists": [
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 159293,
+      "name": "Why Don't We Fall in Love",
+      "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 348893,
       "name": "Bag Lady",
       "url": "https://open.spotify.com/track/7BgUcOjSOlKJXASLgJ6bx1"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 159293,
-      "name": "Why Don't We Fall in Love",
-      "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1593,22 +1593,6 @@
       "url": "https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Platinum & Gold Collection",
-        "url": "https://open.spotify.com/album/6OlIbU9i7OaBrBqx7ZYAFS"
-      },
-      "artists": [
-        {
-          "name": "Next",
-          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/3NEzjZbeSCy72Kx1clSYgC"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Because Of You",
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "Platinum & Gold Collection",
+        "url": "https://open.spotify.com/album/6OlIbU9i7OaBrBqx7ZYAFS"
+      },
+      "artists": [
+        {
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/3NEzjZbeSCy72Kx1clSYgC"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
       },
@@ -1639,22 +1639,6 @@
       "duration_ms": 232880,
       "name": "Heaven Sent",
       "url": "https://open.spotify.com/track/2E90KUsor4U2abOJGFKtfx"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/0qEfwM5awxL1CIUXMDE1ah"
-      },
-      "artists": [
-        {
-          "name": "LeToya",
-          "url": "https://open.spotify.com/artist/5xenrbYhp4IRydrWpBe4Bx"
-        }
-      ],
-      "duration_ms": 249253,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/6GPiKalxD23rJirHKJm00X"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1671,6 +1655,22 @@
       "duration_ms": 257426,
       "name": "Need U Bad",
       "url": "https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/0qEfwM5awxL1CIUXMDE1ah"
+      },
+      "artists": [
+        {
+          "name": "LeToya",
+          "url": "https://open.spotify.com/artist/5xenrbYhp4IRydrWpBe4Bx"
+        }
+      ],
+      "duration_ms": 249253,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/6GPiKalxD23rJirHKJm00X"
     },
     {
       "added_at": "2022-02-11 05:00:00",

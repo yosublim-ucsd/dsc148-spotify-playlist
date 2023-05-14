@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 15556,
+  "num_followers": 15558,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjAxMWE3ZWI5ODY0NDM3OGM2Yzg2YWRkZmE1Y2MyM2FjMzE2YmZh",
+  "snapshot_id": "MCxlYmM5ODk3Y2M3Zjg1OTIxNmUxODJlZGM3OTY5MzBhM2ViMzEyZTRj",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -931,18 +931,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Pu\u00f1al de Sombra",
-        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+        "name": "Tal Vez Ser\u00e1 Su Voz",
+        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
       },
       "artists": [
         {
           "name": "Lidia Borda",
           "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Orquesta El Arranque",
+          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
         }
       ],
-      "duration_ms": 213476,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
+      "duration_ms": 265679,
+      "name": "Tal vez ser\u00e1 su voz",
+      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
     },
     {
       "added_at": "2022-07-08 03:00:00",

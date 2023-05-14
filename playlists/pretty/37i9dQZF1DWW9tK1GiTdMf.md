@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Stefy Evita in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,324 likes - 77 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,348 likes - 77 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 76 | [Ragazzi Fuori](https://open.spotify.com/track/1URSGryUXiYhr3StdCCKZw) | [7 Giorni](https://open.spotify.com/artist/2gKp9MmLyGNtwTI5qCj3qz) | [Ragazzi Fuori](https://open.spotify.com/album/0MDH9w5buwGrFj11nKwfgt) | 2:47 |
 | 77 | [Russian roulette](https://open.spotify.com/track/78HTk9Utv4Kh5C0QIUv2q8) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Russian roulette](https://open.spotify.com/album/1GRYhGhcPDLHnzmwY43uQq) | 4:10 |
 
-Snapshot ID: `MCwwMjQ1ODFmZTcxN2YzMmJiOTI4NzE1NTY3ODBmZDI3NWU4YjkyYjFl`
+Snapshot ID: `MCw5ZGU5Y2I3NjMzY2UwNTEzN2MxNWMxNThmYTdhYzUzZmM5YmZhNjA4`

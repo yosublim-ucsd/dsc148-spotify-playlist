@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vto24MLB41.md) - [plain]
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,968 likes - 23 songs - 51 min 22 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,093 likes - 23 songs - 51 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vto24MLB41.md) - [plain]
 | 22 | [The Creek \(Intro\)](https://open.spotify.com/track/6n5B43oRmZnwTpVfdJiVz4) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [David Barber](https://open.spotify.com/artist/5EusgoKVPcgs6V9bDKajV4) | [Bluey the Album](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 0:48 |
 | 23 | [Bluey Theme Tune](https://open.spotify.com/track/1tNdw6JWlBnXuxlMhsUI9e) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Bluey the Album](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 0:25 |
 
-Snapshot ID: `MCw4ZDA0MWU0YWZlZjZmYTMzYmNiNGE0Y2U1Y2I4M2Q2MTM2NTk1YTBj`
+Snapshot ID: `MCwzOWUwZjgxY2E1NGU2NTAzNzljYzZhZDYxMzI0OTZjODUyZjE0NmRk`

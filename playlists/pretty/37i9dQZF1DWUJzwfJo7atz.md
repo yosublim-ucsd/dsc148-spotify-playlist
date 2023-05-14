@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 
 > cute moments in fields and on dancefloors \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,838 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,000 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 14 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 |
 | 15 | [Wide Awake](https://open.spotify.com/track/5OLfObog5za3O71jQgZFsB) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 3:35 |
 | 16 | [Begin Again](https://open.spotify.com/track/6j9hfHxpXEaYzFwcSK4MhH) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 2:41 |
-| 17 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
-| 18 | [Rosewood](https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:02 |
+| 17 | [Rosewood](https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:02 |
+| 18 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
 | 19 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 |
 | 20 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/3wJrBiiTIRRfKSL2TQWR60) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:10 |
 | 21 | [Falling](https://open.spotify.com/track/79FEKK0AZpiQoC2KejLQ4k) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 1:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 49 | [Lose Your Senses](https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Lose Your Senses](https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM) | 6:28 |
 | 50 | [Endless Sky](https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Endless Sky](https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO) | 2:39 |
 
-Snapshot ID: `MCw4ZTExYjA4MjQ2NDdiMzE2N2RhOWU1NDBkNDUzYTE1N2U0YzJhZmJm`
+Snapshot ID: `MCwzNjM0NTM3Mjc3MzdkNjMzYzBlMDhlZTVkNGY0YzJkZmRkZjIwNWQ5`

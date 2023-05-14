@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,251 likes - 80 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,408 likes - 80 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 52 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 |
 | 53 | [Sunshine](https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:22 |
 | 54 | [Get to You Again](https://open.spotify.com/track/5pNiAcguRrBdYf5V0QXdir) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 4:27 |
-| 55 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
-| 56 | ['Cause I Love You](https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45) | [Lenny Williams](https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN) | [Spark Of Love \(Expanded Edition\)](https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo) | 7:09 |
-| 57 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
-| 58 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
-| 59 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 |
-| 60 | [He's Mine](https://open.spotify.com/track/1ExtJxCq3aGNe0pOMapIDr) | [MoKenStef](https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj) | [azz izz](https://open.spotify.com/album/1d26vGpJ6aO9LX8VaOjM39) | 4:14 |
+| 55 | [He's Mine](https://open.spotify.com/track/1ExtJxCq3aGNe0pOMapIDr) | [MoKenStef](https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj) | [azz izz](https://open.spotify.com/album/1d26vGpJ6aO9LX8VaOjM39) | 4:14 |
+| 56 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
+| 57 | ['Cause I Love You](https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45) | [Lenny Williams](https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN) | [Spark Of Love \(Expanded Edition\)](https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo) | 7:09 |
+| 58 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
+| 59 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
+| 60 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 |
 | 61 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 |
 | 62 | [Sleepless Nights \(feat\. Phoelix\)](https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:59 |
 | 63 | [Naked](https://open.spotify.com/track/6j5Swqhcc12eHvPQc6uaQS) | [Marques Houston](https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt) | [Naked](https://open.spotify.com/album/2kn0q8gu2DmgodwRSVNQqI) | 4:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 79 | [Fool of Me](https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Bitter](https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR) | 3:32 |
 | 80 | [Movies](https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:09 |
 
-Snapshot ID: `MCwwNGM1YjIyZjQwOGFiYWUwN2E5MTllZmM5NGE5NDQ1Y2ZlMTcwMDJl`
+Snapshot ID: `MCw0YzVhNjliZWJkNGQyNDY1ODI1MDEzM2Q3OTY5OTk2MjY3ODlhOTA4`

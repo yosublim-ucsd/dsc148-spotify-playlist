@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Tyler, The Creator",
-  "num_followers": 140418,
+  "num_followers": 140523,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTJiNmQxODdlNWM3NDZmNTA2NjU2ODNkODgyMDJhNDJjZDAzNGE1",
+  "snapshot_id": "MCxmNGRhN2ViMzUxNDE3Yzk5MjBiZjNjMGU2MTY5ZDNhMmMzODczZDVi",
   "tracks": [
     {
       "added_at": "2023-04-21 19:30:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-04-21 19:30:00",
       "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+        "name": "Issa Album",
+        "url": "https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU"
       },
       "artists": [
         {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 121886,
-      "name": "changes",
-      "url": "https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO"
+      "duration_ms": 220306,
+      "name": "Bank Account",
+      "url": "https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s"
     },
     {
       "added_at": "2023-04-21 19:30:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-04-21 19:30:00",
       "album": {
-        "name": "Issa Album",
-        "url": "https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU"
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 220306,
-      "name": "Bank Account",
-      "url": "https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s"
+      "duration_ms": 121886,
+      "name": "changes",
+      "url": "https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO"
     },
     {
       "added_at": "2023-04-21 19:30:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-04-21 19:30:00",
       "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Swervin (feat. 6ix9ine)",
-      "url": "https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6"
-    },
-    {
-      "added_at": "2023-04-21 19:30:00",
-      "album": {
         "name": "Tha Carter IV (Complete Edition)",
         "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 248586,
       "name": "6 Foot 7 Foot",
       "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+    },
+    {
+      "added_at": "2023-04-21 19:30:00",
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Swervin (feat. 6ix9ine)",
+      "url": "https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6"
     },
     {
       "added_at": "2023-04-21 19:30:00",

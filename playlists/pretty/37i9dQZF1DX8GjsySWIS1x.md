@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gamer music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,870 likes - 73 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,991 likes - 73 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 42 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
 | 43 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 |
 | 44 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 |
-| 45 | [YES MOM \(I'm The One To Beat\)](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM \(I'm The One To Beat\)](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 |
+| 45 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 |
 | 46 | [Enemies](https://open.spotify.com/track/3LBLmC8gqvt1l43kdpx43w) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:41 |
 | 47 | [El Dorado](https://open.spotify.com/track/3p94RpSxQdZocUfrzpemmm) | [Stellar](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) | [El Dorado](https://open.spotify.com/album/0zwSEVp17wHbivhkBSHJY6) | 2:16 |
 | 48 | [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5f2zZawBtGBEw24ABweErz) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/album/118EoTgIkMLl9fcutZfgaq) | 3:50 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 72 | [Tarantino](https://open.spotify.com/track/4JfaAGQUBwFU886lRnPQIQ) | [Teflon Sega](https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X), [OZZIE](https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p) | [Tarantino](https://open.spotify.com/album/4YFETS96ebbE1JzttOofco) | 3:41 |
 | 73 | [NO MIND](https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [NO MIND](https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b) | 2:52 |
 
-Snapshot ID: `MCw1ZDU5MjE4YzM5ZTk1MzBkZWFjNjYwZTdiZDJhOWNjN2Y2OGU4OGUz`
+Snapshot ID: `MCw3MTNhNGM3YjgwOWI4YTljODAyZGI2YTU0ZmRjMTZiOGQ3ZDkwYWVh`

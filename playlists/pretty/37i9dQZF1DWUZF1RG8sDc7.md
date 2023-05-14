@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,229 likes - 60 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,360 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 5 | [Una Hoja en Blanco](https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR), [Esmeralda](https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu) | [Nace Del Alma](https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW) | 4:44 |
 | 6 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 |
 | 7 | [Señora](https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 3:58 |
-| 8 | [Como Duele El Frio](https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Corazon Vallenato](https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ) | 4:58 |
-| 9 | [Tarde Lo Conoci](https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:54 |
+| 8 | [Tarde Lo Conoci](https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:54 |
+| 9 | [Como Duele El Frio](https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Corazon Vallenato](https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ) | 4:58 |
 | 10 | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu) | 3:52 |
 | 11 | [Volver](https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:54 |
 | 12 | [Los Caminos De La Vida](https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sorpresa Caribe](https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC) | 4:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 59 | [No Te Detengas](https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Gracias Mi Gente](https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX) | 4:46 |
 | 60 | [Al Fin Llegaste Tú](https://open.spotify.com/track/7jZJm3yRLCKxmJ3kxUtp6f) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Sin Límites](https://open.spotify.com/album/6aLCUh6URBoxafrNAIx9nK) | 3:52 |
 
-Snapshot ID: `MCwzMzY5MjBkODVlYjQyM2U2NmEzMzE5NTc3ZmNjNTkwMjBmMDA1MDgz`
+Snapshot ID: `MCw1MzM3MDMxODljZDY0MTlkNzk5NjhhYTVhNmRjY2U3MGExNWZkMmVl`

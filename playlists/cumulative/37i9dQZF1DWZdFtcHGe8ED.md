@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-375 songs - 1 day 2 hr 45 min
+376 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Pleasure to Kill](https://open.spotify.com/track/5PFhkQbjJge1h8k7wE1K5U) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Pleasure to Kill](https://open.spotify.com/album/5RP8ddfJnPDYvUjCbBS2Rc) | 4:08 | 2022-07-13 |  |
 | [Pleasure to Kill](https://open.spotify.com/track/1ZZjbRbY0uLQLeNddMqZJ2) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [1985\-1992 Past Life Trauma](https://open.spotify.com/album/22Ad1HDSVfWzPfOwY4DyG6) | 4:09 | 2022-07-13 | 2022-07-15 |
 | [Point Of No Return](https://open.spotify.com/track/5YJILvImepN7U7Vonz2VkB) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Point Of No Return EP](https://open.spotify.com/album/6diYp1uiFuHfCbbapfIC6y) | 4:37 | 2022-07-13 | 2023-05-07 |
+| [Point Of No Return](https://open.spotify.com/track/5nx2UgWzyJAjDvpvvnRAZ8) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Point Of No Return EP](https://open.spotify.com/album/5mO4PY6XyJAzLFOBJfx88b) | 4:37 | 2022-12-15 |  |
 | [Possessed by Fire](https://open.spotify.com/track/6wiuSleBg7fx2C5B0HwtLy) | [Exumer](https://open.spotify.com/artist/03sDKsD3y34NBAjeRHucde) | [Possessed by Fire](https://open.spotify.com/album/5C8Mjwwruh2IFfg4WbdnlR) | 5:00 | 2022-07-13 | 2022-10-05 |
 | [Post\-Truth Era](https://open.spotify.com/track/0sQJS58QryP50hsYo2CI8u) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Post\-Truth Era](https://open.spotify.com/album/0omA3faLxpyUINQMCeq4ly) | 3:53 | 2021-12-17 | 2022-07-27 |
 | [Practice What You Preach](https://open.spotify.com/track/1KmX2Q8IwwLY2AMIMOmYlw) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Practice What You Preach](https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52) | 4:57 | 2022-07-13 |  |
@@ -331,7 +332,7 @@
 | [The Four Horsemen \(Remastered\)](https://open.spotify.com/track/4YPgTCGJWAlHQ5g6eWoM8r) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 7:12 | 2022-07-13 |  |
 | [The Four Horsemen \- Remastered](https://open.spotify.com/track/5RrnDgjoFxDINI5aFQPZXt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 7:12 | 2022-07-13 | 2022-07-29 |
 | [The Knife Is Sharper Than Ever](https://open.spotify.com/track/7n1k9HArkbcYG8yFjRwteC) | [Grindpad](https://open.spotify.com/artist/7ws15SQDejPWDHPvH74DWD) | [Violence](https://open.spotify.com/album/7yvkP3ky34EnttM35nTG7C) | 5:05 | 2021-12-17 | 2022-03-01 |
-| [The Last Rager](https://open.spotify.com/track/4AuccIeDavrN0fxI2VoduG) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Last Rager](https://open.spotify.com/album/4fYFZrF8hQ8z94tQCa3zvU) | 3:15 | 2021-12-17 |  |
+| [The Last Rager](https://open.spotify.com/track/4AuccIeDavrN0fxI2VoduG) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Last Rager](https://open.spotify.com/album/4fYFZrF8hQ8z94tQCa3zvU) | 3:15 | 2021-12-17 | 2023-05-14 |
 | [The Man That Never Was](https://open.spotify.com/track/19ZMUBNaw5HopQ5ljdZj8T) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [The Man That Never Was](https://open.spotify.com/album/7hqBWYPGvk8WrGm66UgCJW) | 3:23 | 2021-12-17 |  |
 | [The Many Licit Paths](https://open.spotify.com/track/0cGj5pqSVgjMYzp0mJ4QpS) | [Crisix](https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s) | [Full HD](https://open.spotify.com/album/3CNbdTTnhByCKDlW7aONOY) | 4:52 | 2022-04-15 | 2022-07-16 |
 | [The Mold Testament](https://open.spotify.com/track/1Mfi9SE09hlCah8gFqD3t1) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [The Mold Testament](https://open.spotify.com/album/3ByQwnlkrSk20XdzoK51ER) | 4:19 | 2022-05-06 | 2022-07-16 |

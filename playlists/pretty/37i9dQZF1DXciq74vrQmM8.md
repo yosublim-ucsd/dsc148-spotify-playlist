@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. girli
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,505 likes - 90 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,757 likes - 90 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 15 | [Freak Mode \(SEBii & Slush Puppy Remix\)](https://open.spotify.com/track/5bUNlgPdu5rbuCxe3momIc) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Freak Mode \(SEBii & Slush Puppy Remix\)](https://open.spotify.com/album/7E9e1XnEaJYBXyYnnp8OHG) | 2:34 |
 | 16 | [Яitual](https://open.spotify.com/track/4yHYjLDcFlSEYnsmqYxIrA) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Яitual](https://open.spotify.com/album/405GUW3aweuZJxSAvYXOQX) | 1:24 |
 | 17 | [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 |
-| 18 | [IM FINE](https://open.spotify.com/track/77uPz7kZIBC8kmBDiiNMfh) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IM FINE](https://open.spotify.com/album/4JlIkjXKZBS80VAhVygA4r) | 2:12 |
+| 18 | [IM FINE](https://open.spotify.com/track/0nDcTpMgA3qCsvaeqQq1Xi) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 2:12 |
 | 19 | [youth+](https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["XCAPE", PT\. 1 JEAN DAWSON AS "PHOENIX"](https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV) | 2:45 |
 | 20 | [MISS ME?](https://open.spotify.com/track/6b2wKkUUBCzHpbxxtJcl2w) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [MISS ME?](https://open.spotify.com/album/3XhDFR2bBq3EU9A0tGKuH3) | 2:13 |
 | 21 | [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 89 | [Don't Wait](https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Don't Wait](https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO) | 2:08 |
 | 90 | [Swallow](https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Swallow](https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134) | 3:09 |
 
-Snapshot ID: `MCw1YWY4NDNiMmU4YTMyMGM3MTQwYzMwNTNjYzcwOGRjMGNiNzEyMDI4`
+Snapshot ID: `MCxlZDUwNDI3YTVlMjI3Y2VjMzczM2JjZGI2ZTk2YTc5ZTI2NzNhY2Jl`

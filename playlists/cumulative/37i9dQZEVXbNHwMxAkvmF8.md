@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-791 songs - 1 day 17 hr 3 min
+792 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-06-08 | 2023-02-04 |
 | [Fiatal és őrült](https://open.spotify.com/track/1iRwcHRaEGQdkZDyVsQM1h) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [M Ricch](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Idegen, Vol\. 1.](https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk) | 2:46 | 2022-06-07 | 2023-02-05 |
 | [Fiatal és őrült](https://open.spotify.com/track/3sE7DmCeV0NOU9iTuToADc) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [M Ricch](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:46 | 2023-02-04 | 2023-02-12 |
-| [Fienduló](https://open.spotify.com/track/2R26Jx9XGyA7SODZ1Fr0of) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 2:52 | 2023-03-02 | 2023-05-06 |
+| [Fienduló](https://open.spotify.com/track/2R26Jx9XGyA7SODZ1Fr0of) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 2:52 | 2023-03-02 |  |
 | [figyelj](https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:44 | 2022-08-11 |  |
 | [filter](https://open.spotify.com/track/3XcVoBCkYFn7ZMD185dcPe) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 3:30 | 2021-07-01 | 2021-07-02 |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 | 2022-06-08 |
@@ -313,7 +313,7 @@
 | [Háború](https://open.spotify.com/track/0CpBBLT7hAnDtxsxtoYwcx) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Háború](https://open.spotify.com/album/2VOvYrfWCZ5k75ROP6RcdZ) | 2:54 | 2022-04-25 | 2022-05-05 |
 | [Hátmasszázs](https://open.spotify.com/track/29MOrJUChg9gigKjgMMGEP) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Paranoia](https://open.spotify.com/album/40oR75NLHfJOhC3gSX5khZ) | 2:17 | 2021-12-10 | 2022-03-02 |
 | [Hóvirág](https://open.spotify.com/track/2iTcpG7uNXxO8nFzWz981L) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1) | [Ezt is loptuk!](https://open.spotify.com/album/0w6XAPTde5MT0NEkOwRkrU) | 2:58 | 2022-08-06 | 2022-08-14 |
-| [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2023-02-16 |  |
+| [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2023-02-16 | 2023-05-14 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-28 | 2023-02-17 |
 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 | 2022-01-01 | 2023-01-03 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-04 | 2022-06-11 |
@@ -664,7 +664,8 @@
 | [szosziazi](https://open.spotify.com/track/3DTF2AIcHMwZ1q1gz9zspi) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:26 | 2023-05-02 |  |
 | [szosziazi](https://open.spotify.com/track/4bHXbXDT0p9exqBsW49fDo) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [szosziazi](https://open.spotify.com/album/1y3BEzFK1hJ4FwOlpwKJVH) | 3:26 | 2023-03-08 | 2023-05-03 |
 | [Százszorszép](https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:26 | 2023-04-08 |  |
-| [Szélcsend](https://open.spotify.com/track/5kRKviUY95Ra2asUeqsGBX) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Szélcsend](https://open.spotify.com/album/4fOnrlqiLpbN8QXxLAJBNP) | 2:38 | 2023-03-31 |  |
+| [Szélcsend](https://open.spotify.com/track/2FLH8pUVYNRJIEZcwLyzYy) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Egyedül a sötétben](https://open.spotify.com/album/5r3kAKa7EP0BnAzIvQN3kt) | 2:38 | 2023-05-13 |  |
+| [Szélcsend](https://open.spotify.com/track/5kRKviUY95Ra2asUeqsGBX) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Szélcsend](https://open.spotify.com/album/4fOnrlqiLpbN8QXxLAJBNP) | 2:38 | 2023-03-31 | 2023-05-14 |
 | [SZÍNVAK](https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [SZÍNVAK](https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl) | 3:18 | 2022-10-31 |  |
 | [Szív](https://open.spotify.com/track/6Qg42mHmwZdqT4LpV3KnvP) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Szív](https://open.spotify.com/album/784Na2iyszGVq9oETcoU1A) | 8:50 | 2021-11-07 | 2022-08-08 |
 | [Szívedből minden kell](https://open.spotify.com/track/3G9gEBbCzfGgTdZhnzk6Up) | [Halott Pénz](https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h) | [Ha mindenkit boldoggá akarsz tenni, árulj fagyit](https://open.spotify.com/album/39U4YKkOkwZFiv2ucb0MIH) | 3:27 | 2021-05-03 | 2021-06-26 |

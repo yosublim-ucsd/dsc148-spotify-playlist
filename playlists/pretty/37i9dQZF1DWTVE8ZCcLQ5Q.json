@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Luanna e novos talentos brasileiros no horizonte.",
-  "num_followers": 421869,
+  "num_followers": 421855,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDA3MDY4Y2FkN2UwN2M0MWExMWVhZWI3NjAzYTY5Njc5MTk3OTYw",
+  "snapshot_id": "MCxiODk1OWY4MDkwNjhhYjRlMTYxODM3NTJlZTI3OThmNjAyN2EyMDgw",
   "tracks": [
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
-      },
-      "artists": [
-        {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        },
-        {
-          "name": "Aguida Beats",
-          "url": "https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1"
-        }
-      ],
-      "duration_ms": 154211,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "Putaria e Crime",
         "url": "https://open.spotify.com/album/1mt7soWCRIs5QgCOh2R8EL"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 243548,
       "name": "Putaria e Crime",
       "url": "https://open.spotify.com/track/37FfXMaqjD664lk7VcXEqr"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Aguida Beats",
+          "url": "https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1"
+        }
+      ],
+      "duration_ms": 154211,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "convoca (Prod. Maikinho)",
-      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "24K o Spotify Que Paga",
         "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 180000,
       "name": "24K o Spotify Que Paga",
       "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "convoca (Prod. Maikinho)",
+      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
     },
     {
       "added_at": "2023-04-24 21:27:43",

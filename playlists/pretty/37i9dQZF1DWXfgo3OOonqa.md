@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > fatimaaaaaa!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,556 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,584 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 68 | [TRAP MODE](https://open.spotify.com/track/4NJh6oQhRaOvYTv6meKhkh) | [Biggie Juke](https://open.spotify.com/artist/1iFBAUJba6rHRgFNOJYUDD), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [TRAP MODE](https://open.spotify.com/album/69ucNUijGB7IQlCv0cbmxG) | 1:42 |
 | 69 | [Abow](https://open.spotify.com/track/1HLrYRHtlvHvlukjOeTjTq) | [Gogge](https://open.spotify.com/artist/7nwAfxcTz13PR6B2GqWckp), [Dilly D](https://open.spotify.com/artist/4dpsCdvMMSKcvNref2AMCZ) | [Abow](https://open.spotify.com/album/5sRXqQLFyqPDjl4uBcGw3j) | 2:01 |
 | 70 | [PÅ MIN WAVE](https://open.spotify.com/track/12sbrS8EVwVRGbwijV8WE2) | [Nilo](https://open.spotify.com/artist/0keJuhsaIXm08OuJkPM1la) | [PÅ MIN WAVE](https://open.spotify.com/album/7woMbDTY5TXhIgJq2Gp22N) | 2:37 |
-| 71 | [SVÅRT FÖR DIG](https://open.spotify.com/track/3uMnb1fqxZBX6OsgqAaYdZ) | [ILIACO](https://open.spotify.com/artist/1WzH7gkbxTeqS5cgNvB7o8) | [SVÅRT FÖR DIG](https://open.spotify.com/album/6FIDJNuBlWcdLBjagI73qb) | 2:34 |
+| 71 | [SVÅRT FÖR DIG](https://open.spotify.com/track/3uMnb1fqxZBX6OsgqAaYdZ) | [ILIACO](https://open.spotify.com/artist/1WzH7gkbxTeqS5cgNvB7o8), [MM](https://open.spotify.com/artist/5eFqWWb4qNXmyd48FPVEff) | [SVÅRT FÖR DIG](https://open.spotify.com/album/6FIDJNuBlWcdLBjagI73qb) | 2:34 |
 | 72 | [BARBIE](https://open.spotify.com/track/60YYvFtSPK9D455h4Hz27X) | [$an $uci](https://open.spotify.com/artist/4kI87otDiowrxdz1kq56uY) | [BARBIE](https://open.spotify.com/album/4z5596N63afemeEd5j8F4O) | 2:00 |
 | 73 | [666](https://open.spotify.com/track/6oe7pckqiHPvNjQCO3NCME) | [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu) | [666](https://open.spotify.com/album/2eD69WbIj8fGEYdj66mvXT) | 2:11 |
 | 74 | [Hur många gånger?](https://open.spotify.com/track/3qJINVmpX4se9wN8bmgKiz) | [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7) | [Hur många gånger?](https://open.spotify.com/album/098qyzOjXRvIQAY3sz3a4g) | 2:37 |
 | 75 | [4LIFE](https://open.spotify.com/track/5bOTOVKDjDlsrRtrGZRVed) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [4LIFE](https://open.spotify.com/album/3jCGwrJnJd0tP34WN8ZFhD) | 2:45 |
 
-Snapshot ID: `MCxmOWFkZjYyMmY1YzU3MjNlY2MyMGVmYjYzYzUxMWY0YzMyMThlYTFi`
+Snapshot ID: `MCw1ZjNkZDZlMjVhYWRhYTgyMWI1OTMwMDMwYjRkMjRjN2RmNzE0YzUy`

@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-572 songs - 1 day 14 hr 32 min
+573 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Don't Blame Me](https://open.spotify.com/track/5BDOsVUha92UcNnDmZkWTR) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Don't Blame Me](https://open.spotify.com/album/2dfSee4b6Y0iOmiatGOceh) | 3:06 | 2023-03-30 |  |
 | [Don't Explain](https://open.spotify.com/track/2JncPNDwT04u0FhWxfJbi5) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:14 | 2021-12-03 | 2022-11-11 |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-11-10 |  |
-| [Don't Take Me For Granted](https://open.spotify.com/track/0pWw8k7ThQXQlODdT0MVkP) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Don't Take Me For Granted](https://open.spotify.com/album/7HEn07lzayUeSHnGSwWaAL) | 3:11 | 2023-03-16 |  |
+| [Don't Take Me For Granted](https://open.spotify.com/track/0pWw8k7ThQXQlODdT0MVkP) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Don't Take Me For Granted](https://open.spotify.com/album/7HEn07lzayUeSHnGSwWaAL) | 3:11 | 2023-03-16 | 2023-05-14 |
 | [Don't You Know I Care](https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 4:10 | 2021-12-03 | 2023-04-17 |
 | [Down and Out](https://open.spotify.com/track/61oeoAAPUXdhZZjq9F93g0) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 3:10 | 2022-01-27 | 2023-05-10 |
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-11-10 |  |
@@ -509,6 +509,7 @@
 | [Think of refusing](https://open.spotify.com/track/0xczcAK509NavYmwkard4Q) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Think of refusing](https://open.spotify.com/album/2hy3Rx2lNsnIR3YL4csFFZ) | 3:51 | 2023-04-20 |  |
 | [This Is Our Year](https://open.spotify.com/track/24USzMZvsczfg3WsjUruPc) | [Thomas Sejthen Trio](https://open.spotify.com/artist/66wuq7K0KsFPamcuZJI3LM), [Thomas Sejthen](https://open.spotify.com/artist/785HPw9fdKz7GmwfItsc2K), [Mads Ole Erhardsen](https://open.spotify.com/artist/6q6FdyAk4gR1slw690LP4o), [Jesper Bo Knudsen](https://open.spotify.com/artist/767zb5lIt0ZuBdDbiBbSUO), [Søren Bigum](https://open.spotify.com/artist/0XKjUjSwm1Am2d3M25U2rl) | [This Is Our Year](https://open.spotify.com/album/0vly6DrBxbf2tIUB33vOh0) | 6:11 | 2023-02-02 |  |
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-02 |  |
+| [This tape is good](https://open.spotify.com/track/07TfDT1EBdvlZ0yBwdiLkI) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This tape is good](https://open.spotify.com/album/7H56DNh2zsZbm0UR1Y2ODw) | 3:41 | 2023-05-11 |  |
 | [Through the Fog](https://open.spotify.com/track/6IpDhWlat8ugH1ApRcrgq1) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [In the Distance](https://open.spotify.com/album/7jWHmfsFMsxlvkgtS1WxNs) | 3:49 | 2023-04-13 | 2023-05-12 |
 | [Time On My Hands](https://open.spotify.com/track/0k0hexhhae8c7wrgr9d42v) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 1:36 | 2021-12-03 |  |
 | [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-11-10 |  |

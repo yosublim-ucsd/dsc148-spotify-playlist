@@ -2598,7 +2598,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -24078,6 +24078,28 @@
       "duration_ms": 66976,
       "name": "WAE",
       "url": "https://open.spotify.com/track/0XbpDPx8cuA9qnOSsju1MF"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/4F1iNCnuJSR2ydz9vEt0wO"
+      },
+      "artists": [
+        {
+          "name": "Fobia Kid",
+          "url": "https://open.spotify.com/artist/6qtdtH7BAqRMiG7d3djqta"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166708,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/55spL5CkRMLeP3QCmi07e0"
     },
     {
       "album": {

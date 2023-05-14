@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-339 songs - 17 hr 52 min
+340 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 | 2023-02-10 |  |
 | [Darkness](https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Darkness](https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ) | 3:01 | 2023-03-30 | 2023-04-07 |
 | [Decide](https://open.spotify.com/track/2ITf4FaTaw5iuAg0Xpa2m9) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Decide](https://open.spotify.com/album/3HB9p8Lo7VWuwfZdPXqVTD) | 2:38 | 2023-01-27 | 2023-03-16 |
+| [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 | 2023-05-12 |  |
 | [Do It Again](https://open.spotify.com/track/2bXsC1eJ9UftAkhmYRuLmA) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [Do It Again](https://open.spotify.com/album/2XuZiWSqq5CgMNjUQVWjkx) | 2:37 | 2023-01-12 | 2023-01-15 |
 | [Do They Know](https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Do They Know](https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM) | 2:02 | 2023-04-20 | 2023-05-09 |
 | [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 | 2023-01-12 |  |
@@ -105,7 +106,7 @@
 | [Gameboy Color](https://open.spotify.com/track/6MefIlx2loVSQ0JnIkKPM1) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Gameboy Color](https://open.spotify.com/album/3pCHgEhuauqOLRxBFWXm1U) | 2:34 | 2023-03-22 |  |
 | [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 | 2023-02-21 |  |
 | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6) | 2:52 | 2023-01-12 | 2023-01-19 |
-| [Ginger Me](https://open.spotify.com/track/6ihWzjaRWNX9NAHnCzkD4S) | [shy ink](https://open.spotify.com/artist/2guvMedMt6BlFklBVfFTR3), [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci) | [Ginger Me](https://open.spotify.com/album/1FjkFEI5TuOmX4UDADlFXp) | 2:46 | 2023-03-22 |  |
+| [Ginger Me](https://open.spotify.com/track/6ihWzjaRWNX9NAHnCzkD4S) | [shy ink](https://open.spotify.com/artist/2guvMedMt6BlFklBVfFTR3), [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci) | [Ginger Me](https://open.spotify.com/album/1FjkFEI5TuOmX4UDADlFXp) | 2:46 | 2023-03-22 | 2023-05-14 |
 | [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 | 2023-05-12 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-09 | 2023-01-13 |
 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 | 2023-03-23 |  |

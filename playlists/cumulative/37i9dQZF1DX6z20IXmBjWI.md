@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems.
 
-354 songs - 21 hr 59 min
+355 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Down Where The Drunkards Roll](https://open.spotify.com/track/6UAeM4hpfyirF8DsNfPqdQ) | [Richard & Linda Thompson](https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5) | [I Want To See The Bright Lights Tonight](https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt) | 4:06 | 2022-01-21 | 2022-06-09 |
 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 | 2021-12-10 |  |
 | [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2e9FxyGISHtOxXdKHTw8QP) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:31 | 2022-06-08 | 2023-04-29 |
+| [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:31 | 2023-04-28 |  |
 | [Echo \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2d7lM2tUbVZbfOvmJFn4pw) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:31 | 2021-12-10 | 2022-07-29 |
 | [Elijah \- Acoustic Version](https://open.spotify.com/track/5USnlTd40L2fKioMeNMOBJ) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Elijah \(Acoustic Version\)](https://open.spotify.com/album/6a7554MOvC2xbJxA1P2LAz) | 4:39 | 2021-12-10 | 2022-07-28 |
 | [Elijah \- Acoustic Version](https://open.spotify.com/track/6FnCRa4EVBmzHaLxKKGsCb) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Temple \(Unplugged\)](https://open.spotify.com/album/7FAc0Om3wUx1X87f01EFvW) | 4:39 | 2022-06-08 | 2023-01-28 |
@@ -162,7 +163,7 @@
 | [Love Brought Weight](https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20) | 3:05 | 2022-06-08 |  |
 | [Low](https://open.spotify.com/track/2OlPRzJZXGsOkJ6TwBgvs8) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Actor](https://open.spotify.com/album/1hdsLA6nR1UnYRW2J8jeGK) | 3:53 | 2022-01-21 | 2022-02-07 |
 | [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 | 2022-06-08 |  |
-| [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 | 2021-12-10 |  |
+| [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 | 2021-12-10 | 2023-05-14 |
 | [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 | 2022-06-08 |  |
 | [More I See](https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:03 | 2022-06-08 |  |
 | [More I See](https://open.spotify.com/track/3Bxo9PV2ye0DlIwSoUPzxZ) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [More I See](https://open.spotify.com/album/5nVmKlMumYAWOVYOtSDnWb) | 4:03 | 2021-12-10 | 2022-07-29 |

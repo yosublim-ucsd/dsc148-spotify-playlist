@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-469 songs - 19 hr 7 min
+470 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,8 @@
 | [Perfect Your Own](https://open.spotify.com/track/0ehy55QZL3X2oHqbmJwsbB) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Jazz Sessions](https://open.spotify.com/album/7HhTefYFbHAb6UPCh1GPJo) | 3:07 | 2019-05-26\* | 2020-01-14 |
 | [Pico](https://open.spotify.com/track/2FbsTN9G2FaPR3VathE4Hr) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Pico](https://open.spotify.com/album/0KShUCdCUmicwnDk2WQBZY) | 1:36 | 2019-05-26\* | 2020-03-27 |
 | [piece of you](https://open.spotify.com/track/07a7G5dHYhnqK5pqICfzV2) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [piece of you](https://open.spotify.com/album/1yhEihD2M0bqImpJ64hiUW) | 2:49 | 2022-08-04 | 2022-10-23 |
-| [piece of you](https://open.spotify.com/track/0rAxjVq1hXyaCcshqxKo5F) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [ripple room](https://open.spotify.com/album/012HxPEZF8LcbBHmu9HdT5) | 2:49 | 2022-10-20 |  |
+| [piece of you](https://open.spotify.com/track/0rAxjVq1hXyaCcshqxKo5F) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [ripple room](https://open.spotify.com/album/012HxPEZF8LcbBHmu9HdT5) | 2:49 | 2022-10-20 | 2023-05-14 |
+| [piece of you](https://open.spotify.com/track/19L7jhJgZFKBq2nVVtPHAO) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [ripple room](https://open.spotify.com/album/1PKYM3W11OpTtq6bdlwoF8) | 2:49 | 2023-05-11 |  |
 | [Pieces Of A Past](https://open.spotify.com/track/2BBDuwV65BW07iFfXYOXO7) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Pieces Of A Past](https://open.spotify.com/album/2F4y0NoL00IZMoJ57pi6UT) | 2:46 | 2021-10-10 | 2022-07-29 |
 | [Please Chill](https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6) | [Zoning Out Vol\. 2](https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn) | 2:05 | 2019-05-26\* |  |
 | [Poetree](https://open.spotify.com/track/7IJEcchCTSdeEwiK226KLG) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Poetree](https://open.spotify.com/album/0y6YtnrowoZzYGIuLovrOz) | 1:39 | 2020-06-19 | 2020-10-02 |

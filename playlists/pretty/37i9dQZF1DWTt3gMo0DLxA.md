@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,661 likes - 52 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,683 likes - 52 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 15 | [Kanne Kanne \(From "Arjun Suravaram"\)](https://open.spotify.com/track/1Ufd6lvT02tqohgJr8FEtM) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kanne Kanne \(From "Arjun Suravaram"\)](https://open.spotify.com/album/6iMuAQSexPEINcUSTwCK3f) | 4:50 |
 | 16 | [I Wanna Fly](https://open.spotify.com/track/78PoXHAbXHvOx0HMaa1a8z) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Krishnarjuna Yudham](https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8) | 3:58 |
 | 17 | [Dinchak \(From "Red"\)](https://open.spotify.com/track/0iT2FnhutL3yJh7DXy1SOG) | [Keerthana Sharma](https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7), [Saketh](https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ), [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Dinchak \(From "Red"\)](https://open.spotify.com/album/1935AnvPstXORnGqOf8rgW) | 5:19 |
-| 18 | [Whattey Beauty \- Telugu](https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50) | 3:54 |
-| 19 | [Apple Beauty](https://open.spotify.com/track/2o6DT527sOB7r20jVlyhzJ) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Janatha Garage](https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8) | 3:51 |
+| 18 | [Apple Beauty](https://open.spotify.com/track/2o6DT527sOB7r20jVlyhzJ) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Janatha Garage](https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8) | 3:51 |
+| 19 | [Whattey Beauty \- Telugu](https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50) | 3:54 |
 | 20 | [Mass Biriyani \(From "Krack"\)](https://open.spotify.com/track/1z3tN40wH9dixW1aSaRDd5) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Mass Biriyani \(From "Krack"\)](https://open.spotify.com/album/2j4BXFHljGo2IWurG8eUOY) | 3:58 |
 | 21 | [Sarrainodu](https://open.spotify.com/track/5FybVtlnyWXL6ntfToOkm3) | [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw), [Brijesh Shandilya](https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:55 |
 | 22 | [Ammadu Let's Do Kummudu](https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 3:28 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [](https://open.spotify.com/track/3Y7Dt0uszkNBMBTdxyckaV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6kooJUFnkhm3RBIfr9PgtS) | 0:00 |
 | 52 | [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 |
 
-Snapshot ID: `MCxiMjQ4YjNiNzc3Y2NhM2EyNmMyYTE1ZDlmNmRmNzkxMWNiNjQwNDAy`
+Snapshot ID: `MCw2NmFmYmMyMDZiY2M3NjNhNmNlYzlhNGNhOTI2OTQ1NzllYjFhODM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,056 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,301 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 12 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 |
 | 13 | [She's Out Of Her Mind](https://open.spotify.com/track/6EE19skJ32p58xihYj2Waa) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 2:42 |
 | 14 | [Dumpweed](https://open.spotify.com/track/5SlKhaPcdIfSjpoM2QtM4C) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:23 |
-| 15 | [Darkside](https://open.spotify.com/track/39n1y2JqVOPIdfUeLqzgfl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:00 |
+| 15 | [Down](https://open.spotify.com/track/4nXKO951m6TdWQQbH1KJH3) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:03 |
 | 16 | [Every Time I Look For You](https://open.spotify.com/track/0V7Wn8Fry7KBO5stYqpFvM) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:05 |
 | 17 | [Bored To Death](https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:55 |
 | 18 | [Aliens Exist](https://open.spotify.com/track/3nqm3DdVskqbHhmb8S8hMd) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 3:13 |
-| 19 | [Down](https://open.spotify.com/track/4nXKO951m6TdWQQbH1KJH3) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:03 |
+| 19 | [Darkside](https://open.spotify.com/track/39n1y2JqVOPIdfUeLqzgfl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:00 |
 | 20 | [Stay Together For The Kids](https://open.spotify.com/track/3YD9EehnGOf88rGSZFrnHg) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:59 |
-| 21 | [I Really Wish I Hated You](https://open.spotify.com/track/6KWcq5p0wsz97N3eoRUSH6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:11 |
+| 21 | [death bed \(feat\. beabadoobee & blink\-182\) \- bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [poems of the past](https://open.spotify.com/album/4VUCwdM2v9WfRR8mwZuVq4) | 2:13 |
 | 22 | [Going Away To College](https://open.spotify.com/track/4TofVhKSYwFXRtbYo5M3h4) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:59 |
-| 23 | [death bed \(feat\. beabadoobee & blink\-182\) \- bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [poems of the past](https://open.spotify.com/album/4VUCwdM2v9WfRR8mwZuVq4) | 2:13 |
+| 23 | [I Really Wish I Hated You](https://open.spotify.com/track/6KWcq5p0wsz97N3eoRUSH6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:11 |
 | 24 | [Online Songs](https://open.spotify.com/track/2DcxTfOm8y2UgeP81qdidR) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:25 |
 | 25 | [Stockholm Syndrome](https://open.spotify.com/track/5TxY7O9lFJJrd22FmboAXe) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:41 |
 | 26 | [IT'S ALL FADING TO BLACK \(feat\. blink\-182\)](https://open.spotify.com/track/0R6dvBlNevqkzioHLoygbI) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:31 |
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 40 | [Pin the Grenade](https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 |
 | 41 | [Ghost On The Dance Floor](https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 4:17 |
 | 42 | [P.S\. I Hope You're Happy](https://open.spotify.com/track/5GemR0Lr9CEUJVH14mAsDO) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:45 |
-| 43 | [Home Is Such A Lonely Place](https://open.spotify.com/track/7fYOZjdpOv8dBtzPnXysOG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:21 |
+| 43 | [Cynical](https://open.spotify.com/track/0oOOVSZGuPriWBqwbh0uuJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 1:55 |
 | 44 | [Blame It On My Youth](https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:05 |
 | 45 | [Misery](https://open.spotify.com/track/1gofFAslBqWqeZ1F73GaJe) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS) | 3:51 |
 | 46 | [Pathetic](https://open.spotify.com/track/3DuH3vgKy6oqhgesvbH1ZC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 2:28 |
-| 47 | [Cynical](https://open.spotify.com/track/0oOOVSZGuPriWBqwbh0uuJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 1:55 |
-| 48 | [Dogs Eating Dogs](https://open.spotify.com/track/5uqOdeWBd2gFKUAJPoy1q6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:30 |
-| 49 | [Up All Night](https://open.spotify.com/track/0sqQ9N6hY0ieocwrgxgJ9F) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:19 |
+| 47 | [Home Is Such A Lonely Place](https://open.spotify.com/track/7fYOZjdpOv8dBtzPnXysOG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:21 |
+| 48 | [Up All Night](https://open.spotify.com/track/0sqQ9N6hY0ieocwrgxgJ9F) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:19 |
+| 49 | [Dogs Eating Dogs](https://open.spotify.com/track/5uqOdeWBd2gFKUAJPoy1q6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:30 |
 | 50 | [Brohemian Rhapsody](https://open.spotify.com/track/62Cv4CoAPLMkzduuenkP6K) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS) | 0:30 |
 | 51 | [San Diego](https://open.spotify.com/track/68jM3HGqCToav6bsNY2slc) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:12 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA2N2ViNmJiZGM0MWY2MGQzZGI2M2Q5MjgzZmJkMmEyNA==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDAyMzQyZThmMWJiYzgzMTI5NzljZTRjOTg0NzRlYmRjZg==`

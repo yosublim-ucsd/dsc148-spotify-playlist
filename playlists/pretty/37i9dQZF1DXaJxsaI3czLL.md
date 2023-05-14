@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,803 likes - 70 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,839 likes - 70 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 22 | [アイ](https://open.spotify.com/track/6Iup4xhQuJL0XUrs2FeaGR) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [アイ](https://open.spotify.com/album/0lwzjwKn33XTXBCTY1BEIE) | 5:20 |
 | 23 | [猫村さんのうた](https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t) | [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50), [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [猫村さんのうた](https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0) | 2:46 |
 | 24 | [The Rose \(15th Anniversary Version\)](https://open.spotify.com/track/0XWlisVINXUSp2iEh4we66) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Simple is best](https://open.spotify.com/album/3g19wLo3HUI5Jk6gCAf4JF) | 4:17 |
-| 25 | [A Rainy Night in NY](https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [A Rainy Night in NY](https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH) | 2:58 |
+| 25 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 |
 | 26 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 |
 | 27 | [Porcelain](https://open.spotify.com/track/15Ulu5nGXTW4DQ79pT0YhC) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 4:29 |
 | 28 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 |
-| 29 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 |
+| 29 | [A Rainy Night in NY](https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [A Rainy Night in NY](https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH) | 2:58 |
 | 30 | [あなたがどこかで](https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK) | [Anzen Chitai](https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC) | [あなたがどこかで](https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF) | 4:40 |
 | 31 | [Beautiful World](https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD), [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Beautiful World](https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb) | 5:40 |
 | 32 | [光のゆくえ](https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2) | [優河 with 魔法バンド](https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [月食の夜は](https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M) | 4:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 69 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 |
 | 70 | [Apartment](https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N) | [Hikaru Arata](https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO) | [Apartment](https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT) | 4:03 |
 
-Snapshot ID: `MCxiN2M0ZTZkN2YxMjZlNGI2N2I5OTk1YmIwZTA0M2YyMGU4N2MwYTQy`
+Snapshot ID: `MCxkNzc1NWIzMjQwYzJjMTMwMGI3NTFiMzVhZTgzZjFkYWY2NjhlNWI2`

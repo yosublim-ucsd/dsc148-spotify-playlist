@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: The Milk Carton Kids
 
-498 songs - 1 day 8 hr 30 min
+499 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Eloïse \(feat\. Afrikana Soul Sister\)](https://open.spotify.com/track/0ATOQGfsQVaeGdmoTBgYDt) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1), [Afrikana Soul Sister](https://open.spotify.com/artist/2PWB0x931iv54wld77BLZR) | [Eloïse \(feat\. Afrikana Soul Sister\)](https://open.spotify.com/album/0WoIPNRl0JwSpl1dGLI8Si) | 5:27 | 2023-01-24 |  |
 | [Encuentros](https://open.spotify.com/track/2gObpoSaEHBQ7a3GXN3hFg) | [Zal Sissokho](https://open.spotify.com/artist/4eUWr7M3K05S95fIOv9IsY) | [Kora Flamenca](https://open.spotify.com/album/6myR9Yce5R64qGI6hW57mM) | 3:54 | 2022-04-25 | 2023-01-25 |
 | [Eneetii](https://open.spotify.com/track/4zW7RmgmEUjioPzFMdNkgU) | [Digawolf](https://open.spotify.com/artist/1n3823h3KZYqMR8v2QL2Zm) | [Ini \(Spirit\)](https://open.spotify.com/album/2ufKs11agZ7GsluZ0Ny6yL) | 4:37 | 2023-01-24 | 2023-04-05 |
+| [Eneetii](https://open.spotify.com/track/7MNCx7bXeAbPNOFM9b53oT) | [Digawolf](https://open.spotify.com/artist/1n3823h3KZYqMR8v2QL2Zm) | [Ini \(Spirit\)](https://open.spotify.com/album/2OzDkEu5n0zvCUTGPO37TQ) | 4:37 | 2023-01-24 |  |
 | [Erin\-Go\-Bragh / Rakish Paddy](https://open.spotify.com/track/7JoxTFpjZjTbkO0UZV5GkO) | [Kate Burke & Ruth Hazleton](https://open.spotify.com/artist/1TSPyEkn57ocOLWJ2zGk1M) | [The Bee\-Loud Glade](https://open.spotify.com/album/7knf7ebylad5fMw2ofsWno) | 5:41 | 2021-02-23 | 2022-04-26 |
 | [Eurydice](https://open.spotify.com/track/2DlaXlHWzpleZVbjxHFriJ) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [The Eternal Rocks Beneath](https://open.spotify.com/album/0HHABaGdHHS7aVI6NV4nG5) | 4:37 | 2022-04-25 | 2022-07-29 |
 | [Eurydice](https://open.spotify.com/track/2dxq3U31qBd10DmoK2NIaI) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [Eurydice](https://open.spotify.com/album/4qlcqjpeAsuyQgeuXU3FKc) | 4:37 | 2022-04-25 | 2022-11-13 |
@@ -181,7 +182,7 @@
 | [Helpless Wanderer](https://open.spotify.com/track/4Ft8AHTuhuRi0e3rMM9LHA) | [Underhill Rose](https://open.spotify.com/artist/3jrCADOrZCtzhNMCOekvPm) | [Something Real](https://open.spotify.com/album/1aLIPBFFED0RqXtI90dM8X) | 3:17 | 2022-04-25 | 2023-01-25 |
 | [Hemfärd](https://open.spotify.com/track/7s4b1Gfre0Jagqcuh534no) | [Northern Resonance](https://open.spotify.com/artist/6xMbUUCiUhAtBQj9KkSi9j) | [Northern Resonance](https://open.spotify.com/album/0ol0FVq0PrbHq3kLmCm2xE) | 4:38 | 2023-01-24 |  |
 | [Her Eyes are a Blue Million Miles](https://open.spotify.com/track/29XoN9EQQ81PmxGRrIcNMu) | [Niamh Regan](https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa) | [Her Eyes are a Blue Million Miles](https://open.spotify.com/album/2kdoljgnAVG8W2gcTpATia) | 4:23 | 2023-01-24 |  |
-| [Here I Am](https://open.spotify.com/track/6oPZuZP2Q8jTkokoQlrqoH) | [Janice Jo Lee](https://open.spotify.com/artist/0GrIS9J7yCzEygdvfQRV5u) | [Here I Am](https://open.spotify.com/album/7IOkv6AlkhP05yYPyeh7UP) | 3:41 | 2023-01-24 |  |
+| [Here I Am](https://open.spotify.com/track/6oPZuZP2Q8jTkokoQlrqoH) | [Janice Jo Lee](https://open.spotify.com/artist/0GrIS9J7yCzEygdvfQRV5u) | [Here I Am](https://open.spotify.com/album/7IOkv6AlkhP05yYPyeh7UP) | 3:41 | 2023-01-24 | 2023-05-14 |
 | [Hey Amorino](https://open.spotify.com/track/78V5paOjhScg9BJwrafYFi) | [Amanda Pascali](https://open.spotify.com/artist/4Qu36iUKxY43MhQImctqh0) | [Still It Moves](https://open.spotify.com/album/7bFksbSvgvfPYabOt41VSS) | 3:30 | 2021-02-23 | 2022-04-26 |
 | [Hey, Runner!](https://open.spotify.com/track/7kPZ7eBIrncOUBOqQaRudz) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Finch In The Pantry](https://open.spotify.com/album/3GNgRPzfWWQ6UAkcYzTTvg) | 3:56 | 2022-04-25 | 2022-09-09 |
 | [Hey, Runner!](https://open.spotify.com/track/3AWXNZZoSkvyJYAo2XxJxO) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Finch In The Pantry](https://open.spotify.com/album/5GXqDQAqbb4sJ63OGZAaSh) | 3:58 | 2022-04-25 | 2023-01-25 |

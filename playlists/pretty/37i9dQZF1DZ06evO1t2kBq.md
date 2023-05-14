@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,038 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,065 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,16 +15,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 5 | [21st Century \(Digital Boy\)](https://open.spotify.com/track/7C794YeXiiSdlvGLxgabkd) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 2:49 |
 | 6 | [New Dark Ages](https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [New Maps of Hell \(Deluxe Edition\)](https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA) | 2:47 |
 | 7 | [I Want to Conquer the World](https://open.spotify.com/track/0BlNkCzdgYi9eJXwnYUho9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 2:17 |
-| 8 | [Sinister Rouge](https://open.spotify.com/track/36aS89QHtfR02T1oHRBOe3) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:53 |
-| 9 | [Fuck You](https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 2:13 |
+| 8 | [Fuck You](https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 2:13 |
+| 9 | [Sinister Rouge](https://open.spotify.com/track/36aS89QHtfR02T1oHRBOe3) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:53 |
 | 10 | [Sorrow](https://open.spotify.com/track/5KiS8SFnu21xI74mHgfZ3D) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 3:21 |
 | 11 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
-| 12 | [Social Suicide](https://open.spotify.com/track/5zZgoYzUjsLINdPEt7VoWO) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:35 |
-| 13 | [Infected](https://open.spotify.com/track/16E7LWSzLLMPWYGNCwu7Sc) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 4:07 |
+| 12 | [Infected](https://open.spotify.com/track/16E7LWSzLLMPWYGNCwu7Sc) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 4:07 |
+| 13 | [Social Suicide](https://open.spotify.com/track/5zZgoYzUjsLINdPEt7VoWO) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:35 |
 | 14 | [We're Only Gonna Die](https://open.spotify.com/track/4c066sJzrKuIceqJ0k9ulg) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [How Could Hell Be Any Worse? \(2005 Remaster\)](https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP) | 2:12 |
 | 15 | [Suffer](https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:47 |
-| 16 | [Los Angeles Is Burning](https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 3:23 |
-| 17 | [Big Bang](https://open.spotify.com/track/318CznWjAUDlkYDHP2VYTQ) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:42 |
+| 16 | [Big Bang](https://open.spotify.com/track/318CznWjAUDlkYDHP2VYTQ) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:42 |
+| 17 | [Los Angeles Is Burning](https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 3:23 |
 | 18 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 |
 | 19 | [You Are \(The Government\)](https://open.spotify.com/track/4uKMHiWSI5omiZrSAUjrH8) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:21 |
 | 20 | [Supersonic](https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 1:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 49 | [Atomic Garden](https://open.spotify.com/track/0iKBQiTlNxTUPeBDCzlFRP) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:10 |
 | 50 | [Come Join Us](https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Gray Race](https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5) | 2:03 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA4YjVhYWM2YjgyNDBiMjkwNTAxZjJhNmU1NTA0ZDFkZA==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDAyNGNiMGYzODEwYjg3NTMwM2Y1NDI3YzRkZGFlZDlhOQ==`

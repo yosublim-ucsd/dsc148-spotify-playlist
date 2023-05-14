@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,335 likes - 46 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,384 likes - 46 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 40 | [Ganas](https://open.spotify.com/track/1aryOmpoGVqiZm7GwPWiqY) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Ganas](https://open.spotify.com/album/3O383fCaaKgZuKQhWy3KVC) | 3:34 |
 | 41 | [Brindemos](https://open.spotify.com/track/3JzxVjdPHJTaqLx2Usc1EY) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Brindemos](https://open.spotify.com/album/109eecGsDwd2Mz5QGy7m95) | 3:08 |
 | 42 | [No Te Equivoques](https://open.spotify.com/track/4JXN8t3V1vdl75IczGJcpK) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [No Te Equivoques](https://open.spotify.com/album/5tGZBD6za4M23dbQbLExY0) | 3:34 |
-| 43 | [Sólo Mía](https://open.spotify.com/track/3eXD7hq9tUrQ5gmdKNaSKQ) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sólo Mía](https://open.spotify.com/album/4JhTqi7hgyUVxDzw5nFANE) | 2:59 |
-| 44 | [Ravin'](https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Ravin'](https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ) | 3:18 |
+| 43 | [Ravin'](https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Ravin'](https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ) | 3:18 |
+| 44 | [Sólo Mía](https://open.spotify.com/track/3eXD7hq9tUrQ5gmdKNaSKQ) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sólo Mía](https://open.spotify.com/album/4JhTqi7hgyUVxDzw5nFANE) | 2:59 |
 | 45 | [Despierta](https://open.spotify.com/track/2g3ktWJ3T0gTyj6UkNKGho) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Despierta](https://open.spotify.com/album/6MegrXexsY8lv0nzzpIcTh) | 3:09 |
 | 46 | [Ela É Hit \- Ao Vivo](https://open.spotify.com/track/5YAvFOhGCLSE7MkWonlMX3) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [SIM \(Deluxe\) \(ao Vivo\)](https://open.spotify.com/album/66zKNTVsVlOHWW0Cq8uNf3) | 2:52 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA0YTJjNGQyMjIxZTZkN2ZmOGI0NjgzNmE3YWI3ZDUzNw==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA1OTI0MzA2NWVlMGE3NzIxYTFhYTI2ZGY3OGQ2ZGU4Mw==`

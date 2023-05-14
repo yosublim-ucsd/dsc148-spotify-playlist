@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 217000,
       "name": "Blue Hair",
       "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
@@ -7096,7 +7096,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 173134,
       "name": "FLOWER",
       "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
@@ -7372,7 +7372,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
@@ -8966,6 +8966,24 @@
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "album": {
+        "name": "\"Classicaloid\" Chopin Musik",
+        "url": "https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N"
+      },
+      "artists": [
+        {
+          "name": "EHAMIC",
+          "url": "https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190460,
+      "name": "Koinu no Carnival -From \"Minute Waltz\"-",
+      "url": "https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp"
     },
     {
       "album": {
@@ -18374,6 +18392,24 @@
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI"
+    },
+    {
+      "album": {
+        "name": "Soul Mining",
+        "url": "https://open.spotify.com/album/65nhz1EbSruHtMqqLJrRja"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296333,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/3zf2eLN9Yf8ayZO5cn4Xh5"
     },
     {
       "album": {

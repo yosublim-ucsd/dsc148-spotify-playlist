@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Periphery
 
-622 songs - 2 day 5 hr 33 min
+624 songs - 2 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Cafo](https://open.spotify.com/track/6i8TDqnHN7GF9uU3LJCklq) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Animals as Leaders \- Encore Edition](https://open.spotify.com/album/5hVRBZCUCcU3UIhxNikyhf) | 6:41 | 2022-07-13 |  |
 | [Call Me Trimtab](https://open.spotify.com/track/75c51YXcdI2sRe8aSr5J4K) | [22](https://open.spotify.com/artist/0Op82sqzI45fNMecmDiJDx) | [Call Me Trimtab](https://open.spotify.com/album/0hRtBhBtI9KTsx7E0exSHK) | 5:04 | 2021-12-17 | 2022-05-11 |
 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 | 2022-05-20 |  |
+| [Calypso](https://open.spotify.com/track/4e9TXq9fmYkoeNuoczOxbm) | [Their Dogs Were Astronauts](https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h) | [Momentum](https://open.spotify.com/album/6j55OYKRegHBCRIJ9ncveq) | 4:58 | 2023-05-12 |  |
 | [Canary Yellow](https://open.spotify.com/track/3BrUSRcU2SpNaF0PMU1FRY) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Canary Yellow](https://open.spotify.com/album/7lofTgPgtZHzDd2tHYB0vA) | 4:14 | 2021-12-17 | 2022-07-29 |
 | [Carbonized](https://open.spotify.com/track/4kqYSyIRLk3rxgke3cWflX) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Carbonized](https://open.spotify.com/album/4ed59wqSiswxbsBfh2jP7r) | 3:45 | 2022-03-25 |  |
 | [Centauri](https://open.spotify.com/track/547nn4xAof17b8n7pPLgpn) | [Veio](https://open.spotify.com/artist/3QY5DMEgg7H5EAttsSHSSg) | [Vitruvian](https://open.spotify.com/album/0UqADSHYcitQe4LDgJFMzO) | 8:49 | 2022-01-14 | 2022-07-09 |
@@ -140,6 +141,7 @@
 | [Dissonance](https://open.spotify.com/track/3VTipthZvRfTC2KQhJUi5q) | [Deceptic](https://open.spotify.com/artist/71waPeZf36tWy5Ha4PLupX) | [Dissonance](https://open.spotify.com/album/21JBvvner2uMhhsufWMQ8v) | 3:42 | 2022-07-13 |  |
 | [Distraction I](https://open.spotify.com/track/6J1tBtCQNDBE6k8pFXiR6w) | [Wilderun](https://open.spotify.com/artist/0wQmcChWogcmsCThY2SKES) | [Distraction I](https://open.spotify.com/album/1rytYjsfqbR0kcMY1bYmTl) | 4:56 | 2021-12-17 | 2022-07-28 |
 | [Divine](https://open.spotify.com/track/6gS9achslm44dxhxsIq574) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3) | [Divine](https://open.spotify.com/album/2TlZ2NSBCKv6oQkFmpbu05) | 3:36 | 2022-07-08 |  |
+| [Do Your Worst](https://open.spotify.com/track/2PmUzUUq57pfjCloz7U4IS) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr), [Dayshell](https://open.spotify.com/artist/4yextvMjXxQXzyQkyS1jYX) | [Do Your Worst](https://open.spotify.com/album/0UsVF1iYngI5R1ubRhvgXV) | 4:12 | 2023-05-12 |  |
 | [Dogma](https://open.spotify.com/track/5rLqQdNrDPZk4EM7Q4fzt7) | [Satyr](https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy) | [Totem](https://open.spotify.com/album/383t7dgt66V7IxTZsYCcbP) | 3:54 | 2022-07-01 |  |
 | [Domino](https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [New Age Filth](https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh) | 4:24 | 2022-01-14 | 2023-01-21 |
 | [Don't Fall Asleep](https://open.spotify.com/track/36SSNa7oRQfsCgqspu4ZMk) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Still Life](https://open.spotify.com/album/6rnBbtTt92Zmr9tJmPFsFg) | 4:47 | 2022-07-13 | 2022-07-29 |
@@ -300,7 +302,7 @@
 | [Lonewolf](https://open.spotify.com/track/3xLyoznRCxpiHesDvFuruO) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Stefan](https://open.spotify.com/artist/20Xs7JytmAIAtnNQ4Cqe0J) | [Lonewolf](https://open.spotify.com/album/3tJkL5SWXHgmqyRcXhPR3n) | 3:11 | 2022-01-28 | 2022-02-11 |
 | [Longing](https://open.spotify.com/track/6ig9kBoTHXEbVhePqzhngW) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [Ecdysis](https://open.spotify.com/album/0sFJx8Ef3rYURwU2B4jjHU) | 5:14 | 2022-01-07 |  |
 | [Lord of Liars](https://open.spotify.com/track/3z2umWMJNuuOYU25JZK4vm) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Bloodmoon: I](https://open.spotify.com/album/4rEDzWnp2RoNzSx8DjO7gY) | 3:21 | 2021-12-17 | 2023-01-21 |
-| [Lost in My Mind](https://open.spotify.com/track/0pvwcb7Uu6lVVW6Mq2jfnk) | [Lone Survivors](https://open.spotify.com/artist/4qm7V3zSCeJApeZhmSCLeh) | [Ground Zero](https://open.spotify.com/album/6a20nDS6Ark7CHoUunsiwU) | 4:28 | 2023-01-20 |  |
+| [Lost in My Mind](https://open.spotify.com/track/0pvwcb7Uu6lVVW6Mq2jfnk) | [Lone Survivors](https://open.spotify.com/artist/4qm7V3zSCeJApeZhmSCLeh) | [Ground Zero](https://open.spotify.com/album/6a20nDS6Ark7CHoUunsiwU) | 4:28 | 2023-01-20 | 2023-05-14 |
 | [Lost in my Mind](https://open.spotify.com/track/3KJBjsUATAY3jUNfZPp0Nx) | [Lone Survivors](https://open.spotify.com/artist/4qm7V3zSCeJApeZhmSCLeh) | [Lost in my Mind](https://open.spotify.com/album/44R9KfUswdil0UqQE7JY5i) | 4:28 | 2022-07-13 | 2022-07-28 |
 | [Lotus](https://open.spotify.com/track/3aUXwNbiCZRkuA0p2Ic79Y) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Lotus](https://open.spotify.com/album/4XiQU9w2Ldk1WYSa8Qm5qd) | 5:23 | 2021-12-17 | 2022-07-01 |
 | [Love in the Time of Pestilence](https://open.spotify.com/track/1L4BtGYob6EaRXLDzSmcom) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Love in the Time of Pestilence](https://open.spotify.com/album/2umQh1Vbk9Kxvpg8dlkvId) | 7:41 | 2021-12-31 | 2022-07-27 |
@@ -396,7 +398,7 @@
 | [Prey](https://open.spotify.com/track/1POkwY5CbMUqvRkS4sJoxI) | [Votum](https://open.spotify.com/artist/42ZQcu4ciEscZIXmdldg7j), [Anneke Van Giersbergen](https://open.spotify.com/artist/3Y9LpLdovSRjBwPklg3tzD) | [Duhkha](https://open.spotify.com/album/3OCjnUEvAnkAEVdj4V6pno) | 5:30 | 2022-07-08 | 2022-09-03 |
 | [Prey](https://open.spotify.com/track/39HNgQGSnSGtGOwNF2aaGO) | [Votum](https://open.spotify.com/artist/42ZQcu4ciEscZIXmdldg7j), [Anneke van Giersbergen](https://open.spotify.com/artist/1CvqeSiHVlpsZowF5YltNR) | [Duhkha](https://open.spotify.com/album/6a9vqGMytLAU7KWoTBZMXG) | 5:30 | 2021-12-17 | 2022-07-29 |
 | [Promise](https://open.spotify.com/track/0LeK6Ol47og0WdGwKegNUL) | [Voyager](https://open.spotify.com/artist/16fltNcwTM5V9rnxIlcha4) | [Promise](https://open.spotify.com/album/1C7B9slsGeLEDgzbrJcHkg) | 3:03 | 2023-05-12 |  |
-| [Promises](https://open.spotify.com/track/1WV5w169YJR8f9ZFNIKxCp) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Promises](https://open.spotify.com/album/1LHqSRxFGFsNLdH03f3Uv8) | 4:54 | 2022-04-29 |  |
+| [Promises](https://open.spotify.com/track/1WV5w169YJR8f9ZFNIKxCp) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Promises](https://open.spotify.com/album/1LHqSRxFGFsNLdH03f3Uv8) | 4:54 | 2022-04-29 | 2023-05-14 |
 | [Prosthetic](https://open.spotify.com/track/2tbGvqKO4Xep8mxb29ABOy) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Prosthetic](https://open.spotify.com/album/3pZRZbIEyFH1WVJiPoUoTr) | 5:58 | 2021-12-17 | 2022-07-29 |
 | [Prosthetic](https://open.spotify.com/track/3xxEiUfaFe7RiKzAI3XFzT) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Virus](https://open.spotify.com/album/6Qr25ZBwwxtNLYWRRYDkcW) | 5:58 | 2022-07-08 | 2022-09-03 |
 | [Prostitute Part II: Pretty Woman \(Makes Money\)](https://open.spotify.com/track/1FPMj3g1JQ29fiD6VZWVaO) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Classics](https://open.spotify.com/album/35v264N4fiM74c9ABTquX8) | 3:38 | 2022-01-07 | 2023-01-21 |

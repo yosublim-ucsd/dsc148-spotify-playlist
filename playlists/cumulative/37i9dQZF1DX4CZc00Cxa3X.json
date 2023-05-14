@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Neospecies",
+        "url": "https://open.spotify.com/album/4fPYfMsPOTS4eXPXXY69t8"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "Grassland",
+      "url": "https://open.spotify.com/track/5NInDapUdp3r3ajfMrKl7K"
+    },
+    {
+      "album": {
         "name": "The Winterstein Suite",
         "url": "https://open.spotify.com/album/6npZLJ2zQD5TnSRRdimKFN"
       },
@@ -2480,7 +2498,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 264026,
       "name": "Overture",
       "url": "https://open.spotify.com/track/0O3ZV9RJJ7MQtyumv1YKGW"

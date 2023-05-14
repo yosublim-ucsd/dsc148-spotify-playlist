@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 376704,
+  "num_followers": 376787,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzk2OGQ1Y2Y0ODRkOGY1Yjk5N2ZjMjFmOWJiOGMyMzY2YzgwMTg2",
+  "snapshot_id": "MCxkYjQyMzkwOTRkN2VkNmJmNDk0ODBkMDFlOGI4Nzk2NDQxNTk0NDAz",
   "tracks": [
     {
       "added_at": "2023-05-09 11:23:17",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "Cononbridge",
-        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Cononbridge",
-      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
         "name": "42nd Street Shuffle",
         "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 259786,
       "name": "42nd Street Shuffle",
       "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
+        "name": "Cononbridge",
+        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Cononbridge",
+      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "Let Love Be Genuine",
-        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
-      },
-      "artists": [
-        {
-          "name": "Nuvole",
-          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
-        }
-      ],
-      "duration_ms": 318620,
-      "name": "Let Love Be Genuine",
-      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
         "name": "Cloudland",
         "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 274802,
       "name": "Cloudland",
       "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
+        "name": "Let Love Be Genuine",
+        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
+      },
+      "artists": [
+        {
+          "name": "Nuvole",
+          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
+        }
+      ],
+      "duration_ms": 318620,
+      "name": "Let Love Be Genuine",
+      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "Cloud 10",
-        "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
-      },
-      "artists": [
-        {
-          "name": "Chip Wickham",
-          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
-        }
-      ],
-      "duration_ms": 329000,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/1FRaCnYzTKNG1ncxwL9bgJ"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
         "name": "Pure Imagination",
         "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 358853,
       "name": "Pure Imagination",
       "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
+        "name": "Cloud 10",
+        "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
+      },
+      "artists": [
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        }
+      ],
+      "duration_ms": 329000,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/1FRaCnYzTKNG1ncxwL9bgJ"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "For my lady",
-        "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
-      },
-      "artists": [
-        {
-          "name": "Filip Jers",
-          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "For my lady",
-      "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
         "name": "RoundAgain (feat. Brad Mehldau, Christian McBride, Brian Blade)",
         "url": "https://open.spotify.com/album/6glNa1tv5xDIevYwSvxNkm"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 360680,
       "name": "Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",
       "url": "https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
+        "name": "For my lady",
+        "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
+      },
+      "artists": [
+        {
+          "name": "Filip Jers",
+          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "For my lady",
+      "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "Jacob Karlzon Trio: Today",
-        "url": "https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm"
-      },
-      "artists": [
-        {
-          "name": "Jacob Karlzon",
-          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
-        }
-      ],
-      "duration_ms": 306826,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/3GGslX17J2F3IzVE5yIiRJ"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
         "name": "A Ballad Moment",
         "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+        "name": "Jacob Karlzon Trio: Today",
+        "url": "https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm"
       },
       "artists": [
         {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+          "name": "Jacob Karlzon",
+          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
         }
       ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+      "duration_ms": 306826,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/3GGslX17J2F3IzVE5yIiRJ"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -875,6 +859,22 @@
       "duration_ms": 215200,
       "name": "Spring of Life",
       "url": "https://open.spotify.com/track/1jfeTu7iQd0vhGSXJ1FEjw"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "In the Mountains",
-        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
-        }
-      ],
-      "duration_ms": 496933,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
         "name": "A Drums Comes True",
         "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 353280,
       "name": "Will You Still Be Mine?",
       "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
+        "name": "In the Mountains",
+        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+        }
+      ],
+      "duration_ms": 496933,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
     },
     {
       "added_at": "2023-05-09 11:23:17",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-05-09 11:23:17",
       "album": {
-        "name": "Where or When",
-        "url": "https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 230337,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17"
-    },
-    {
-      "added_at": "2023-05-09 11:23:17",
-      "album": {
         "name": "Our Songs",
         "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 224607,
       "name": "My Song",
       "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
+    },
+    {
+      "added_at": "2023-05-09 11:23:17",
+      "album": {
+        "name": "Where or When",
+        "url": "https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 230337,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17"
     },
     {
       "added_at": "2023-05-09 11:23:17",

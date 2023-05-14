@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Luz Pinos
 
-177 songs - 9 hr 48 min
+178 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [i only want you when i'm fucked up](https://open.spotify.com/track/0W0qBaCp84sKDlQdvShs9n) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/0q2LRN1sN3jd17d74QczFO) | 3:52 | 2022-08-05 | 2023-04-15 |
 | [i only want you when i'm fucked up](https://open.spotify.com/track/3Nm0hvJ46o57zUDSOQmINq) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/66rUUFDt246hX2JYzZpfOK) | 3:52 | 2022-05-20 | 2022-08-15 |
 | [i only want you when i'm fucked up](https://open.spotify.com/track/7gOcGFumqAu7wI6ygjXxxc) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [coffee & a cig](https://open.spotify.com/album/6pf1vOTQpRi0IhPiWT3UZq) | 3:52 | 2022-08-26 | 2022-11-12 |
-| [Insurgentes](https://open.spotify.com/track/51fZQgHPcn6IZVxkzaYtwd) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/2KAixjSEqmUfFSydwMjcqo) | 2:11 | 2023-05-12 |  |
+| [Insurgentes](https://open.spotify.com/track/51fZQgHPcn6IZVxkzaYtwd) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/2KAixjSEqmUfFSydwMjcqo) | 2:11 | 2023-05-12 | 2023-05-14 |
+| [Insurgentes](https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h) | 2:11 | 2023-05-12 |  |
 | [Interludio en el Ataúd](https://open.spotify.com/track/6yGcgmZiOO34DJdELn0nGn) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ) | [Canciones de Mal Gusto para Gente Depresiva](https://open.spotify.com/album/0pZmjDbReA06ma8eX6Raqx) | 3:12 | 2022-07-15 |  |
 | [Isla](https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Isla](https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb) | 3:42 | 2022-05-20 | 2023-04-15 |
 | [Jugando a los Sims](https://open.spotify.com/track/7ayopKtCQTOEDpRB5xpU6I) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cómo decirte, mi amor](https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY) | 2:39 | 2022-05-20 | 2023-04-15 |

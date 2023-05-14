@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 959189,
+  "num_followers": 959717,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDI2YmQ4YmVjOTNlMzQyZGY1YTg0NmRhYThkYzhiN2RlYzIyNzJi",
+  "snapshot_id": "MCw4YjRlYzljOWJjN2JjYmJlMmM5MjI1ZTEwOWNhMjFkYmQ3M2JhOWJj",
   "tracks": [
     {
       "added_at": "2023-03-04 17:30:31",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 161560,
       "name": "Johnny B. Goode",
       "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -315,22 +315,6 @@
       "duration_ms": 176293,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -415,34 +399,18 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 153205,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -463,6 +431,38 @@
       "duration_ms": 162493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 153205,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -495,22 +495,6 @@
       "duration_ms": 119880,
       "name": "Hit the Road Jack",
       "url": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -563,6 +547,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "Higher And Higher",
         "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Elvis (Fool)",
-        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 203680,
       "name": "Can't Take My Eyes off You",
       "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Hey Lover / Stand by Me",
-        "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
-      },
-      "artists": [
-        {
-          "name": "The Daughters Of Eve",
-          "url": "https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Hey Lover",
-      "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "From the Foundations (Expanded Edition)",
         "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 177519,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Hey Lover / Stand by Me",
+        "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
+      },
+      "artists": [
+        {
+          "name": "The Daughters Of Eve",
+          "url": "https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Hey Lover",
+      "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Do You Love Me (Now That I Can Dance)",
         "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 172946,
       "name": "Do You Love Me - Mono Single",
       "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Face to Face (Deluxe)",
         "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 210525,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Try a Little Tenderness",
+      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "Magical Mystery Tour (Remastered)",
         "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
-        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
+        "name": "How Does That Grab You?",
+        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
+      "duration_ms": 162446,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "How Does That Grab You?",
-        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162446,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 144146,
       "name": "Do Wah Diddy Diddy - 2007 Remaster",
       "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Bobby Darin",
-        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 131719,
-      "name": "Splish Splash",
-      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Animal Tracks",
         "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
       },
@@ -2167,18 +2151,18 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+        "name": "Bobby Darin",
+        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 155706,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
+      "duration_ms": 131719,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2199,6 +2183,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -2211,6 +2211,22 @@
       "duration_ms": 179426,
       "name": "Dance to the Music",
       "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2231,22 +2247,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Herman's Hermits Retrospective",
         "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
       },
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
         "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
@@ -2275,22 +2291,6 @@
       "duration_ms": 225426,
       "name": "You've Lost That Lovin' Feelin'",
       "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "The Best of Sam Cooke",
-        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 158013,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/5Iev69m1Jnf7oc79VvPjpd"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "The Best Of The Penguins",
         "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 179426,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "The Best of Sam Cooke",
+        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 158013,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/5Iev69m1Jnf7oc79VvPjpd"
     },
     {
       "added_at": "2023-03-04 17:30:31",

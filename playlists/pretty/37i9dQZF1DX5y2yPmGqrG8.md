@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,569 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,677 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,18 +25,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 15 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 |
 | 16 | [Angels](https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5) | 4:16 |
 | 17 | [Rewind Life](https://open.spotify.com/track/6Uae44PxUOJn0PdxoECEKd) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 7:00 |
-| 18 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 4:15 |
+| 18 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 |
 | 19 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 |
 | 20 | [Fear of Flying](https://open.spotify.com/track/4i1RRMLpGEDqT5vInUvwX7) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 5:39 |
-| 21 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 |
+| 21 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 4:15 |
 | 22 | [Clube Da Esquina Nº 2](https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Clube Da Esquina](https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf) | 3:38 |
-| 23 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 |
-| 24 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
-| 25 | [Gelis](https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS) | [Flako](https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm) | [Gelis](https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l) | 3:08 |
-| 26 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
-| 27 | [Briefly](https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 27:02 |
-| 28 | [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 |
-| 29 | [Movement 6](https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 8:50 |
+| 23 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
+| 24 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 |
+| 25 | [Movement 6](https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 8:50 |
+| 26 | [Gelis](https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS) | [Flako](https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm) | [Gelis](https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l) | 3:08 |
+| 27 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
+| 28 | [Briefly](https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 27:02 |
+| 29 | [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 |
 | 30 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
 | 31 | [After Midnight](https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Filoxiny](https://open.spotify.com/album/5F3jI2TClJuyIAUcbgf4Ps) | 4:43 |
 | 32 | [solari](https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 3:52 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 43 | [Limerence](https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [When Man Fails You](https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK) | 5:48 |
 | 44 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
 | 45 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
-| 46 | [Warmth in the Dark](https://open.spotify.com/track/5jMSxkwkdVCGeTxtIGlbyr) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Warmth in the Dark](https://open.spotify.com/album/0ohAn4f6Pv9lk179Exs5F6) | 3:29 |
-| 47 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 |
-| 48 | [Wurlitzer](https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Wurlitzer](https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3) | 4:17 |
-| 49 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
+| 46 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 |
+| 47 | [Warmth in the Dark](https://open.spotify.com/track/5jMSxkwkdVCGeTxtIGlbyr) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Warmth in the Dark](https://open.spotify.com/album/0ohAn4f6Pv9lk179Exs5F6) | 3:29 |
+| 48 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
+| 49 | [Wurlitzer](https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Wurlitzer](https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3) | 4:17 |
 | 50 | [Hypnagogia](https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Introspection](https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh) | 4:02 |
 
-Snapshot ID: `MCxjMjkyZjFhYjUwN2ZmNzM4MzY2NTE2ZTk1NzlhMGRhMTZhMGJkZTc2`
+Snapshot ID: `MCxhMDk4MjNlYTg4MTdmNzdiM2M4YTY0N2ZiOWNkMWNjOTFkOTFmZjdi`

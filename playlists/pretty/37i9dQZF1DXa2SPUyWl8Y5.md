@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,510 likes - 80 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,594 likes - 80 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 30 | [Unlocked](https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity](https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK) | 7:04 |
 | 31 | [Wormhole](https://open.spotify.com/track/1ZE6ebWHUSp2v6JAPpp8eS) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Wormhole](https://open.spotify.com/album/10PmsWsXc3P2jeHkyJjkpT) | 7:17 |
 | 32 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 |
-| 33 | [Spaziergang im All](https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr) | [Spaziergang im All](https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf) | 8:18 |
-| 34 | [Bird](https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Bird EP](https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec) | 5:50 |
+| 33 | [Bird](https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Bird EP](https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec) | 5:50 |
+| 34 | [Spaziergang im All](https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr) | [Spaziergang im All](https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf) | 8:18 |
 | 35 | [Four Hills](https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 4:35 |
 | 36 | [Hipotez](https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2) | [Kerem Gell](https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi) | [Hipotez](https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf) | 5:52 |
 | 37 | [Owls \- Edit](https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Owls \(Edit\)](https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq) | 3:46 |
 | 38 | [Crescendo](https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5) | [Soul Button](https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm), [Rustboy](https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu) | [Crescendo](https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP) | 6:04 |
 | 39 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 |
 | 40 | [Hegn](https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Hegn](https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI) | 6:26 |
-| 41 | [Exoplanet](https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re) | [Third Person](https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc), [Intara](https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy) | [Exoplanet](https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ) | 8:21 |
-| 42 | [Shaded](https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Shaded](https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp) | 4:50 |
+| 41 | [Shaded](https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Shaded](https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp) | 4:50 |
+| 42 | [Exoplanet](https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re) | [Third Person](https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc), [Intara](https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy) | [Exoplanet](https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ) | 8:21 |
 | 43 | [June \- Mees Salomé Remix](https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [June \(Mees Salomé Remix\)](https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ) | 7:28 |
 | 44 | [Equinox](https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Equinox](https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln) | 6:53 |
 | 45 | [Hailstorm \- Ann Clue Remix](https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v), [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Hailstorm \(Ann Clue Remix\)](https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76) | 6:22 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 51 | [Boavista \- Innellea Remix](https://open.spotify.com/track/2H66zNHEqwFckqVfxeFxIa) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Boavista](https://open.spotify.com/album/2v2BidodVf5z07M6Pofhx3) | 6:48 |
 | 52 | [Meertraum](https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Meertraum](https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1) | 6:34 |
 | 53 | [Sense of Wonder](https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Sense of Wonder](https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3) | 4:01 |
-| 54 | [Deep in My Mind \- Original Mix](https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Traum EP](https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud) | 5:16 |
-| 55 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 |
-| 56 | [Everything](https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Everything](https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp) | 6:17 |
+| 54 | [Everything](https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Everything](https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp) | 6:17 |
+| 55 | [Deep in My Mind \- Original Mix](https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Traum EP](https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud) | 5:16 |
+| 56 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 |
 | 57 | [Odyssey](https://open.spotify.com/track/7jw452od74FzquMBqkUXiY) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Odyssey](https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7) | 4:17 |
 | 58 | [Planet F](https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Planet F](https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ) | 4:01 |
 | 59 | [Eclipse](https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt) | [The Awakening](https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi) | 4:22 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 69 | [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 |
 | 70 | [Welcome](https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u) | [Schlindwein](https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6) | [Piano & Electronic Ensemble Op\. 1](https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7) | 6:15 |
 | 71 | [Entrudo \- Booka Shade Remix](https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Orchestra \(Remixes\)](https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM) | 6:52 |
-| 72 | [Someone Else](https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/0Id2ImUT5LaJT29DLnX9qE) | 6:18 |
-| 73 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 |
-| 74 | [Revolt](https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Revolt](https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT) | 4:44 |
-| 75 | [Reframed Future](https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz) | [Schlepp Geist](https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95) | [10 Years URSL \- Reframed Future](https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT) | 7:05 |
-| 76 | [Slowly](https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX) | 6:54 |
-| 77 | [Spacemodulation](https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Spacemodulation](https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D) | 7:08 |
-| 78 | [Resurrect](https://open.spotify.com/track/2lV0ovLujswvwAquxjXw4D) | [Forgotten Notes](https://open.spotify.com/artist/0UoDyIWlKQdUukk9f7snZx) | [Resurrect EP](https://open.spotify.com/album/2oPWTDFuxa9zguoGsPOYck) | 7:30 |
+| 72 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 |
+| 73 | [Someone Else](https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/0Id2ImUT5LaJT29DLnX9qE) | 6:18 |
+| 74 | [Resurrect](https://open.spotify.com/track/2lV0ovLujswvwAquxjXw4D) | [Forgotten Notes](https://open.spotify.com/artist/0UoDyIWlKQdUukk9f7snZx) | [Resurrect EP](https://open.spotify.com/album/2oPWTDFuxa9zguoGsPOYck) | 7:30 |
+| 75 | [Revolt](https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Revolt](https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT) | 4:44 |
+| 76 | [Reframed Future](https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz) | [Schlepp Geist](https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95) | [10 Years URSL \- Reframed Future](https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT) | 7:05 |
+| 77 | [Slowly](https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX) | 6:54 |
+| 78 | [Spacemodulation](https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Spacemodulation](https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D) | 7:08 |
 | 79 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 |
 | 80 | [Black Ice](https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Black Ice](https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E) | 6:20 |
 
-Snapshot ID: `MCxmOGFlMGNhOGFmMjlhMzkzZTQ0OWYxZDE5MGYxMzkyMWJiYjAzMGYz`
+Snapshot ID: `MCwxMTQxNmQyNmUyZTAwYjBiNmZlNTc5NTFkMzEyZGYwN2RkNTdkNmRl`

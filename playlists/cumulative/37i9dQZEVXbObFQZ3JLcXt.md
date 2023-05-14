@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-396 songs - 23 hr 57 min
+397 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Diggity](https://open.spotify.com/track/2JEaSgRiEra5OQrZlnyqXG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:29 | 2021-05-12 | 2021-05-16 |
 | [Dinda](https://open.spotify.com/track/49aLn6dhgqf1XOjxQGG15w) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Dinda](https://open.spotify.com/album/5uAiw6BRqGyyJ3jFsrvRY0) | 3:31 | 2021-09-19 | 2021-10-22 |
 | [Diri](https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:00 | 2022-03-05 | 2022-11-07 |
-| [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-21 |  |
+| [Disenchanted](https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:55 | 2023-05-13 |  |
+| [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-21 | 2023-05-14 |
 | [Dive Into You](https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:12 | 2021-05-12 | 2021-05-30 |
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-06-09 | 2021-06-20 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-01-22 | 2022-11-13 |
@@ -116,7 +117,7 @@
 | [Evaluasi](https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:14 | 2022-09-18 |  |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2021-11-19 | 2022-08-25 |
 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 | 2021-06-20 | 2021-08-08 |
-| [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-10-15 |  |
+| [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-10-15 | 2023-05-14 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 | 2021-10-27 | 2021-11-09 |
 | [Favorite Girl](https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 4:16 | 2022-01-10 | 2022-05-14 |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-09 | 2022-06-26 |
@@ -189,7 +190,7 @@
 | [Kelana](https://open.spotify.com/track/3yc3Lyo0iG4eFdq5LAWI0C) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:12 | 2022-03-06 | 2022-03-18 |
 | [Kenangan Manis](https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk The Talk](https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU) | 3:27 | 2021-03-27\* | 2021-06-24 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-14 |  |
-| [Kisah Sempurna](https://open.spotify.com/track/6fX8WwxAQ6rCPIC7lMgztu) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:36 | 2023-01-24 | 2023-05-08 |
+| [Kisah Sempurna](https://open.spotify.com/track/6fX8WwxAQ6rCPIC7lMgztu) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:36 | 2023-01-24 |  |
 | [Kisah Sempurna](https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Kisah Sempurna](https://open.spotify.com/album/39fz0raJs02USfEzd71c8b) | 4:36 | 2022-05-07 | 2023-01-25 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-11-26 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-29 | 2021-06-27 |

@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: La Isla Centeno",
-  "num_followers": 11046,
+  "num_followers": 11083,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDViZDliNDVmODAwZDQ4ZTEyZWJlNjBmYTI2NWE2ZjU2NzI2NmI4",
+  "snapshot_id": "MCw0NGY3N2Q1YjZlZWI5YmE3YzFiOWJlMTkzMjY3Y2VhYmJiYzNhNGNj",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Qu\u00e9 Tal",
-        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Qu\u00e9 Tal",
-      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 203950,
       "name": "La Ola",
       "url": "https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
     },
     {
       "added_at": "2023-05-12 04:01:00",

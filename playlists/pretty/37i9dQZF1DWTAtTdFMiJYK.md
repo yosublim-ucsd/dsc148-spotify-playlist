@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Utsavi Jha
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,641 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,764 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Pal Behta Jaaye](https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye](https://open.spotify.com/album/0TGb91XBYJ9BZbFpgyNMjc) | 2:54 |
 | 75 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 |
 
-Snapshot ID: `MCxlMGE1YjVhNTEyMjI4ZmQ4MjdjNzM2YjUyYWY0YzU4ZjljOWM4ZWFi`
+Snapshot ID: `MTY4MzY4NjcwMCwwMDAwMDAwMDJkM2NjOGQ2YzU2NjhmZGMyNWJjMjE0ZTg4MzY4YTY3`

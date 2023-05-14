@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-602 songs - 1 day 12 hr 11 min
+604 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-03-27\* | 2021-03-27 |
 | [Celebrity](https://open.spotify.com/track/5nCwjUUsmBuNZKn9Xu10Os) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:15 | 2021-03-27 | 2021-04-21 |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-06 |
+| [ChatMrE](https://open.spotify.com/track/47aJSdqoHoKw0XDXivA9EH) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [ChatMrE](https://open.spotify.com/album/6aXIB3Geu6VHwSePAXQV7h) | 3:51 | 2023-05-13 |  |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-16 | 2023-04-22 |
 | [Cheshire](https://open.spotify.com/track/1LJT4ctFlHUSVsfZqMeaz0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/1E5swTfZ9FF5ECxH1N7EvL) | 3:02 | 2022-12-02 | 2022-12-04 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 | 2021-12-25 | 2021-12-27 |
@@ -137,7 +138,7 @@
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/1sVm0BuqORY7fdazHTCS3K) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:57 | 2022-05-21 | 2022-05-25 |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2021-03-27\* | 2021-04-21 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-09-01 | 2021-09-12 |
-| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-03 |  |
+| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-03 | 2023-05-14 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-11 | 2022-11-28 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-11 |  |
 | [i don't smoke & i don't drink](https://open.spotify.com/track/2BQIL0U5QdqK17n5o8KZB1) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [i don't smoke & i don't drink](https://open.spotify.com/album/3p2buXwB34FSSt8c7PJxc4) | 2:50 | 2022-03-24 | 2022-08-18 |
@@ -158,6 +159,7 @@
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-16 | 2022-03-18 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-12-20 | 2021-12-29 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 | 2022-12-19 | 2022-12-29 |
+| [It's not your fault](https://open.spotify.com/track/3TvkrmX72vHZ4gYeD7Qww2) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [It's not your fault](https://open.spotify.com/album/1VRnJri54pLYvaMx15f3xJ) | 3:43 | 2023-05-13 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-25 | 2022-12-28 |
 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 | 2021-05-08 | 2021-10-08 |
 | [I’m Fine, Thx.](https://open.spotify.com/track/5shbtf9Q9Wx1DQ3bNoF3TH) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [GWENDOLYN](https://open.spotify.com/album/7MKcI6USXJ5R7chXfOozmY) | 3:41 | 2021-06-09 | 2021-06-12 |
@@ -394,7 +396,7 @@
 | [人類不宜飛行](https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [人類不宜飛行](https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT) | 3:57 | 2021-08-19 | 2022-05-08 |
 | [人類群星閃耀時](https://open.spotify.com/track/10nbKFoqDjsauhJQTHWfkg) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [人類群星閃耀時](https://open.spotify.com/album/1hLx0tCFnduODpxvYYum9o) | 5:46 | 2021-10-16 | 2022-07-31 |
 | [今生今世 \- 電影"金枝玉葉"歌曲](https://open.spotify.com/track/1mSrXFejuVyMxWgwWCYgtq) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [I am what I am](https://open.spotify.com/album/5AwQPb2mVsTaLGLMCMJgqI) | 1:42 | 2021-04-03 | 2023-04-05 |
-| [伸縮自如的愛](https://open.spotify.com/track/605Qt7cEa5igrpWkX3B76j) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [伸縮自如的愛](https://open.spotify.com/album/0h9Z9RHbLmLQAZMFjx7bBT) | 3:36 | 2023-04-21 |  |
+| [伸縮自如的愛](https://open.spotify.com/track/605Qt7cEa5igrpWkX3B76j) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [伸縮自如的愛](https://open.spotify.com/album/0h9Z9RHbLmLQAZMFjx7bBT) | 3:36 | 2023-04-21 | 2023-05-14 |
 | [作品的說話](https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [作品的說話](https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ) | 4:12 | 2022-05-01 |  |
 | [你,好不好? \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛,教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 | 2023-02-27 | 2023-03-03 |
 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 | 2023-02-28 | 2023-03-02 |

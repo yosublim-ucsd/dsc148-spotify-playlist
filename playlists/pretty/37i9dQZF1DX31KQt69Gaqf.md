@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,817 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,816 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 75 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
 | 76 | [Astronaut](https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Bel•li](https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO) | 2:52 |
 | 77 | [Pure Shores](https://open.spotify.com/track/4BfC6YSExs6vhuDrJca9Lz) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Pure Shores](https://open.spotify.com/album/1MWEYBI6r6QinmApx4QkO8) | 3:52 |
-| 78 | [Gladstone](https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Gladstone](https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw) | 2:54 |
-| 79 | [Womxn](https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:54 |
+| 78 | [Womxn](https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:54 |
+| 79 | [Gladstone](https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Gladstone](https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw) | 2:54 |
 | 80 | [Goodbye Blue](https://open.spotify.com/track/1Hl4xRC4328EyH1cgmpacP) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Goodbye Blue](https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro) | 4:01 |
 | 81 | [Caught Up & Confused](https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO) | [MarthaGunn](https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8) | [Something Good Will Happen](https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK) | 3:24 |
 | 82 | [Five and Dime](https://open.spotify.com/track/3HgwWsgkhXJ2LsEFWywrHj) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 99 | [Beautiful Disaster](https://open.spotify.com/track/5TFS4aXfVOXxodj19Wq5AG) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [SAM DOTIA](https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD) | [Four° In Winter](https://open.spotify.com/album/1CCZQvQ4cSUY9mXOlJYHC3) | 2:18 |
 | 100 | [So Simpatico \- Edit](https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [So Simpatico](https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR) | 3:05 |
 
-Snapshot ID: `MCw5ZGQ5MDUzNDhjNGFhYTMxMmQ5M2QyMWFlZjhhNjc2MjI3ZDg4ODFm`
+Snapshot ID: `MCw2M2Y3NGVmNTc1YTMwYTkzNGZmYjIzM2VlOTQzOTZhMTgwMjlhOTZk`

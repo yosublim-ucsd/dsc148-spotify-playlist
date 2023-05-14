@@ -4,7 +4,7 @@
 
 > Lovely, pop\-filled, fun.
 
-257 songs - 13 hr 26 min
+258 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bed](https://open.spotify.com/track/1W1qyvqYpF3Bf1fCTX1GM6) | [PHOEBE AXA](https://open.spotify.com/artist/0bqSQqtFaTv208uFybOlPv) | [Bed](https://open.spotify.com/album/3tmqWAYHUQRwX7Xpg0588m) | 3:15 | 2021-11-25 | 2022-06-30 |
 | [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 | 2023-01-06 |  |
 | [Better for Me](https://open.spotify.com/track/6nBEjwGB9eFeixOssxPej5) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Better for Me](https://open.spotify.com/album/0CtWFpNS16zbK3C1wHDT4v) | 2:56 | 2022-01-14 | 2022-07-28 |
+| [Better Love](https://open.spotify.com/track/5Tfei3YpA30gHiEq2cfRFk) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp) | [Better Love](https://open.spotify.com/album/7kI2gwnSmr9mm41DqGkF42) | 2:42 | 2023-05-09 |  |
 | [Big Lizard Energy](https://open.spotify.com/track/6VluWX7HW7IswLgiHrVvn7) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Big Lizard Energy](https://open.spotify.com/album/78c2Ea9FmvEBOi0gGDmfZP) | 2:37 | 2023-03-15 |  |
 | [Blu Shirt Boy](https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa) | 3:43 | 2022-10-28 | 2023-03-15 |
 | [Blu Shirt Boy](https://open.spotify.com/track/7bAT6eo8VuSTPKA52CxPTJ) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/0wIdXaa8pAUQh5H0DBVmXK) | 3:43 | 2022-09-23 | 2022-10-13 |
@@ -193,7 +194,7 @@
 | [Rosé](https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Rosé](https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX) | 2:46 | 2021-11-25 | 2022-10-29 |
 | [Run](https://open.spotify.com/track/47mdtPtT2NNtt75Zt3OOAl) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Run](https://open.spotify.com/album/4v149x8lxzqDRClUsfFXKe) | 2:46 | 2021-11-25 | 2022-07-29 |
 | [Run](https://open.spotify.com/track/6izndsBZvyN6goqhfePz1e) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 2:46 | 2022-01-21 | 2022-09-24 |
-| [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 | 2021-11-25 |  |
+| [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 | 2021-11-25 | 2023-05-14 |
 | [Rush](https://open.spotify.com/track/063vgFRCW1ruEDlX1JdpBs) | [MATT TAYLOR](https://open.spotify.com/artist/4GIFfkHPMRu6eVaVTvUJwp) | [Rush](https://open.spotify.com/album/0JkIzS9o4pgi5gjJmHMtzP) | 3:38 | 2021-11-25 | 2022-07-28 |
 | [Sad Song](https://open.spotify.com/track/2ksxz0To79bB3LBBndQVhQ) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Fragile](https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG) | 3:34 | 2021-11-25 | 2022-09-24 |
 | [Saturday](https://open.spotify.com/track/0fou77hmsWazzftndSr9Vn) | [George Pelham](https://open.spotify.com/artist/76Vy0VBFDdQSJT4pQxLDjT) | [Saturday](https://open.spotify.com/album/39KZki3HzszhNxCACS9Z0X) | 3:20 | 2022-01-14 | 2022-06-27 |

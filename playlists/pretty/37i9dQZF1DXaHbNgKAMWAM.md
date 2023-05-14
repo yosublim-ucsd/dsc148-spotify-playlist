@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,439 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,454 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 38 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 |
 | 39 | [Be My Love](https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [LOVE PLAYLIST 4 Part.1](https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5) | 3:35 |
 | 40 | [FRR](https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 3:40 |
-| 41 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 |
-| 42 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
+| 41 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
+| 42 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 |
 | 43 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
 | 44 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
 | 45 | [Dream Catcher](https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:46 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 56 | [Tale](https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:47 |
 | 57 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
 | 58 | [Like a dream](https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:17 |
-| 59 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 |
-| 60 | [I LUV U \(with MIRANI\)](https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [I LUV U \(with MIRANI\)](https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1) | 3:55 |
+| 59 | [I LUV U \(with MIRANI\)](https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [I LUV U \(with MIRANI\)](https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1) | 3:55 |
+| 60 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 |
 
-Snapshot ID: `MCxhOGUzZTgxZmNjNWViYjNkNzBhYjE0ODYzNTEyNDZlNWVjNWZjZTAw`
+Snapshot ID: `MCxmNDU2NmZkZmYyYmE4NjdmY2Y3NzhmZWZhMjY5ZjNjZjA5NzkwOGMy`

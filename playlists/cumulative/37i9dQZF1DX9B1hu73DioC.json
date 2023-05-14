@@ -5479,6 +5479,32 @@
     },
     {
       "album": {
+        "name": "Random Access Memories (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        },
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239213,
+      "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
+      "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
+    },
+    {
+      "album": {
         "name": "Intentions",
         "url": "https://open.spotify.com/album/5GykugUTWmwtCcbiYp1sda"
       },
@@ -11136,7 +11162,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 168022,
       "name": "what a shame",
       "url": "https://open.spotify.com/track/4kevrm6eqiUXb3D5mRDSOB"

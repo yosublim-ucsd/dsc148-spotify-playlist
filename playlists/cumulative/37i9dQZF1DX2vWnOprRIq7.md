@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.
 
-115 songs - 6 hr 58 min
+116 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Aburrido ;\(](https://open.spotify.com/track/4pJ4Ts3yrQypjpMx6xxNEB) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Michelle Anzo](https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb) | [Aburrido](https://open.spotify.com/album/6JhBiY6sjJ60AcY9sapS5B) | 2:58 | 2023-03-17 |  |
 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 | 2023-05-05 |  |
 | [ACAPULCO GOLD](https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH) | [ACAPULCO GOLD](https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x) | 2:58 | 2023-03-17 |  |
-| [Affaire de Colección \- Remix](https://open.spotify.com/track/0dHpIAezpDGLW27v6g7ek0) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Cherry Blossom Season](https://open.spotify.com/artist/2aPmfWsTvrWOsVPFlCDwX7) | [Affaire](https://open.spotify.com/album/2rcupujtoKYrUySHxUEsJt) | 3:36 | 2023-04-21 |  |
+| [Affaire de Colección \- Remix](https://open.spotify.com/track/0dHpIAezpDGLW27v6g7ek0) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Cherry Blossom Season](https://open.spotify.com/artist/2aPmfWsTvrWOsVPFlCDwX7) | [Affaire](https://open.spotify.com/album/2rcupujtoKYrUySHxUEsJt) | 3:36 | 2023-04-21 | 2023-05-14 |
 | [Altar](https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf) | [Altar](https://open.spotify.com/album/6gxBp3aafZ9LzXD1M2Remx) | 3:55 | 2023-03-17 |  |
 | [Amor Perfecto \- Reprise](https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Amor Perfecto \(Reprise\)](https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7) | 3:02 | 2023-03-17 |  |
 | [Amuleto](https://open.spotify.com/track/05xl9WoeOHodN07hqvjwYQ) | [El Hipnotizador Romántico](https://open.spotify.com/artist/6O5QcAwKsWhaFbmuy3SPku) | [Amuleto](https://open.spotify.com/album/2G9HvZkwU1yNSYwgWfb2gl) | 3:34 | 2023-03-17 | 2023-04-21 |
@@ -98,6 +98,7 @@
 | [Recuerdo Infinito](https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj) | [Christian Jean](https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL) | [Recuerdo Infinito](https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP) | 4:53 | 2023-03-17 |  |
 | [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 | 2023-04-14 |  |
 | [Saturno](https://open.spotify.com/track/62AxB4BpSqAhbBEdcBOrpD) | [Charlie](https://open.spotify.com/artist/2l9jciSGE6MJ4Ez7Tc9ryr) | [Cráneo](https://open.spotify.com/album/0LduVR7QbZX5tsuZ6aEg4c) | 3:20 | 2023-04-21 |  |
+| [Secreto a Voces](https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Secreto a Voces](https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7) | 3:51 | 2023-05-12 |  |
 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 | 2023-03-17 |  |
 | [Sentir](https://open.spotify.com/track/4fQLD78x6Sp5JQXII9hcXR) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Sentir](https://open.spotify.com/album/00JPUCphJMySF6oEz7IxlH) | 4:51 | 2023-03-17 |  |
 | [Ser Anti](https://open.spotify.com/track/3LVjzOOubm6PAxYFvrv8Bq) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Ser Anti](https://open.spotify.com/album/2yBuVuh9FdIe1JbG1K1G6v) | 3:44 | 2023-04-07 |  |

@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : ThirumaLi
 
-66 songs - 3 hr 49 min
+68 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 | 2021-12-03 |  |
 | [Chekuthan \(Reprise\)](https://open.spotify.com/track/6N0Z9weSdoXUzL0wbqQD4h) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan \(Reprise\)](https://open.spotify.com/album/6Qz3dfZLUwwyvzd6JHxUPa) | 1:40 | 2021-12-03 |  |
 | [CHILL OUT](https://open.spotify.com/track/1gUmzKldDiBbVUKcaxDygk) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Thudwiser](https://open.spotify.com/artist/6z8IZH6zc5YxGOGZT1ZswT) | [CHILL OUT](https://open.spotify.com/album/2jKDdkD9BVxDdYkCidRAf0) | 3:05 | 2022-06-23 |  |
-| [Christophonk \(From "Christopher"\)](https://open.spotify.com/track/3XXWboGxbRNMBMvDFmrwNx) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX) | [Christophonk \(From "Christopher"\)](https://open.spotify.com/album/5pA4niMvQrImq86LhFi0UG) | 3:03 | 2023-02-07 |  |
+| [Christophonk \(From "Christopher"\)](https://open.spotify.com/track/1dZBse9huzwfLqVGZyh7vD) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Jack Styles](https://open.spotify.com/artist/3LWPN38wkJ1YQe8J49FxzG) | [Christophonk \(From "Christopher"\)](https://open.spotify.com/album/0SV2MCJcut7l3iveH7Bz9i) | 3:03 | 2023-02-07 |  |
+| [Christophonk \(From "Christopher"\)](https://open.spotify.com/track/3XXWboGxbRNMBMvDFmrwNx) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX) | [Christophonk \(From "Christopher"\)](https://open.spotify.com/album/5pA4niMvQrImq86LhFi0UG) | 3:03 | 2023-02-07 | 2023-05-14 |
 | [Ente Kaalam](https://open.spotify.com/track/1XpVCD9Pk2ODY5F4mYyQqY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Ente Kaalam](https://open.spotify.com/album/2j6KT1OUYbkQQDPSKRupDq) | 3:02 | 2022-06-23 |  |
 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 | 2022-07-13 |  |
 | [Fly](https://open.spotify.com/track/42AVHXyJhx67wNVbAdeX8s) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 4:06 | 2022-06-23 |  |
@@ -70,7 +71,8 @@
 | [Trap Sundhari](https://open.spotify.com/track/51vzYdS2wo4peP0hu3i7au) | [GWS](https://open.spotify.com/artist/0ocYPomE3OXrf2qe3eLhsq), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Rakz Radiant](https://open.spotify.com/artist/2NXRGks1DHfqliMFosGcYJ) | [Trap Sundhari](https://open.spotify.com/album/5cqS1wz3ZmCD3ZJ8ehWa1N) | 3:54 | 2021-12-03 |  |
 | [Vayyaveli](https://open.spotify.com/track/7foOcAmVozH37pMMCdv4I0) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Vayyaveli](https://open.spotify.com/album/4s7DeJy6LGA7RcwwodVaXQ) | 2:57 | 2022-06-23 |  |
 | [Vere Level](https://open.spotify.com/track/3qKFI8feoGekhCFfTR8OPs) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Vere Level](https://open.spotify.com/album/1JrVlSYxmfdrTcPou5Urnc) | 3:34 | 2022-06-23 |  |
-| [Voice of Voiceless](https://open.spotify.com/track/2zMoJSaDqs4CqmYY2xsYce) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/75UW4S2HXK13WcZGF0jpJc) | 3:06 | 2022-10-25 |  |
+| [Voice of Voiceless](https://open.spotify.com/track/0fuSvkUjYtk5iqbyNIptZN) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/2YRk162JljfmD25M71gql8) | 3:06 | 2022-10-25 |  |
+| [Voice of Voiceless](https://open.spotify.com/track/2zMoJSaDqs4CqmYY2xsYce) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/75UW4S2HXK13WcZGF0jpJc) | 3:06 | 2022-10-25 | 2023-05-14 |
 | [Vyadhi](https://open.spotify.com/track/4rTg32mR6ETu2Aw30LPibh) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Vyadhi](https://open.spotify.com/album/1baVHC4hgzvbHqvCc7Hbpn) | 2:04 | 2022-06-23 |  |
 | [Wish](https://open.spotify.com/track/4jAcGLximA53NQ1DwOPM9S) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 3:03 | 2022-06-23 |  |
 | [Workil Aanu Karyam](https://open.spotify.com/track/7y4XcoRcRDFnVltwFp2XAm) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm) | [Workil Aanu Karyam](https://open.spotify.com/album/4xkntbV9pfipF2v9hrfLRG) | 4:57 | 2022-06-23 |  |

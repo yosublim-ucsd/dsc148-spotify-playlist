@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=cc4qsqDzSfS21lTakVte6w\">Wizkid</a>",
-  "num_followers": 585858,
+  "num_followers": 586054,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTgyNjczOGZjYWFlNDk1NWU5YTdiNmJlOTY5NzI5ZmIxODEwMTk5",
+  "snapshot_id": "MCwwYzJhM2Y3MTFkM2I3OTk0OWQ0NjhlMGEwZmJjYTQxNzBkODI5NGVm",
   "tracks": [
     {
       "added_at": "2023-01-26 17:39:34",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -227,26 +227,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 248040,
-      "name": "Essence (feat. Tems)",
-      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 116727,
       "name": "ENERGY (feat. Beam)",
       "url": "https://open.spotify.com/track/0314PeD1sQNonfVWix3B2K"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 248040,
+      "name": "Essence (feat. Tems)",
+      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "The Beauty of Becoming",
-        "url": "https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 185461,
-      "name": "In My Bed",
-      "url": "https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 203383,
       "name": "MOVE (feat. Grace Jones & Tems)",
       "url": "https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "The Beauty of Becoming",
+        "url": "https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 185461,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -731,18 +731,26 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         }
       ],
-      "duration_ms": 188741,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
+      "duration_ms": 222529,
+      "name": "ALREADY",
+      "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -771,26 +779,18 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 222529,
-      "name": "ALREADY",
-      "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
+      "duration_ms": 188741,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 187873,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
@@ -895,42 +911,6 @@
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195073,
-      "name": "Gum Body (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 187873,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -991,8 +971,8 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
       "artists": [
         {
@@ -1000,13 +980,29 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Real Life (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F"
+      "duration_ms": 195073,
+      "name": "Gum Body (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 146367,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1031,22 +1027,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 146367,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "Hamba Wena",
         "url": "https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51"
       },
@@ -1067,22 +1047,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "Bloody Samaritan",
         "url": "https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd"
       },
@@ -1095,6 +1059,22 @@
       "duration_ms": 187000,
       "name": "Bloody Samaritan",
       "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Crazy Tings",
+        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Crazy Tings",
+      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1159,6 +1139,42 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 187782,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/0N83qk5axJe71xNDXeViFQ"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Real Life (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Damn (feat. 6lack)",
         "url": "https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 168719,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/3V6NCwBywAwpAlAyGL7h0p"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 187782,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/0N83qk5axJe71xNDXeViFQ"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Get Layd",
+        "url": "https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 171730,
+      "name": "Lo Lo",
+      "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Patek",
         "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Get Layd",
-        "url": "https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 171730,
-      "name": "Lo Lo",
-      "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "Do To Me",
         "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
       },
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Big Conspiracy",
+        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 153146,
+      "name": "Repeat (feat. Koffee)",
+      "url": "https://open.spotify.com/track/6Yblv6BbZHIkyrpYl4E0Zk"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Ba Straata (feat. 2woshort, Stompiiey, ShaunMusiQ, Ftears & Madumane)",
         "url": "https://open.spotify.com/album/25plKOfn0KCUMmzBztMMu6"
       },
@@ -1479,26 +1499,6 @@
       "duration_ms": 402890,
       "name": "Ba Straata (feat. 2woshort, Stompiiey, ShaunMusiQ, Ftears & Madumane)",
       "url": "https://open.spotify.com/track/3DssiWp4pAGNvPrvHVi94f"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Big Conspiracy",
-        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 153146,
-      "name": "Repeat (feat. Koffee)",
-      "url": "https://open.spotify.com/track/6Yblv6BbZHIkyrpYl4E0Zk"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+        "name": "Antidote (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+      "duration_ms": 202626,
+      "name": "Antidote (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1695,22 +1699,18 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Antidote (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
       },
       "artists": [
         {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 202626,
-      "name": "Antidote (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188910,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0vNvd6GC6cy7BKyP2dqPZY"
       },
@@ -1891,22 +1871,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Ginger Me",
-        "url": "https://open.spotify.com/album/1jAYq6eDQAyDFvuJDWdsS4"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 205892,
-      "name": "Ginger Me",
-      "url": "https://open.spotify.com/track/28QpG4RmYhxq2YxjmQ06Ch"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "Simmer (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
       },
@@ -1923,6 +1887,42 @@
       "duration_ms": 167680,
       "name": "Simmer (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Ginger Me",
+        "url": "https://open.spotify.com/album/1jAYq6eDQAyDFvuJDWdsS4"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 205892,
+      "name": "Ginger Me",
+      "url": "https://open.spotify.com/track/28QpG4RmYhxq2YxjmQ06Ch"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188910,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
     },
     {
       "added_at": "2023-01-26 17:39:34",

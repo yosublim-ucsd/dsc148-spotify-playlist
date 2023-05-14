@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,122 likes - 46 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,121 likes - 46 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,30 +18,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 8 | [リベンジゲーム](https://open.spotify.com/track/3Ja6w6E7PvMzvJajdu3tM5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:17 |
 | 9 | [アイのシナリオ](https://open.spotify.com/track/6eltM9Os3VEdgcG5lrsoSH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 4:19 |
 | 10 | [ヒカリ証明論](https://open.spotify.com/track/2NSUuwplYLm50NDAb5qJQS) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:33 |
-| 11 | [醜い生き物](https://open.spotify.com/track/4kv8V2Buw8oBOB2oP0gas1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [醜い生き物](https://open.spotify.com/album/5aJfPshOdUKk5wRVFQyVSD) | 3:40 |
-| 12 | [ノスタルジックレインフォール](https://open.spotify.com/track/5mwLIUyGIg6QioPbyHgt2s) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:58 |
+| 11 | [ノスタルジックレインフォール](https://open.spotify.com/track/5mwLIUyGIg6QioPbyHgt2s) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:58 |
+| 12 | [醜い生き物](https://open.spotify.com/track/4kv8V2Buw8oBOB2oP0gas1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [醜い生き物](https://open.spotify.com/album/5aJfPshOdUKk5wRVFQyVSD) | 3:40 |
 | 13 | [ハートの誓い](https://open.spotify.com/track/2BzZV7zxQKHrfVebawH2NX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:27 |
 | 14 | [幸せ。](https://open.spotify.com/track/381po4CEVjsj92eHwQK8oI) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:10 |
-| 15 | [冒険のVLOG](https://open.spotify.com/track/6KtkYlgZoBno6Ai894zfSD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [冒険のVLOG](https://open.spotify.com/album/6GptwTcu5mCv9YkfXpJZVs) | 4:22 |
-| 16 | [ウルフ](https://open.spotify.com/track/1bLD37KCQnlk0IlAr4gEnz) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:51 |
+| 15 | [ウルフ](https://open.spotify.com/track/1bLD37KCQnlk0IlAr4gEnz) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:51 |
+| 16 | [冒険のVLOG](https://open.spotify.com/track/6KtkYlgZoBno6Ai894zfSD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [冒険のVLOG](https://open.spotify.com/album/6GptwTcu5mCv9YkfXpJZVs) | 4:22 |
 | 17 | [ハートの主張](https://open.spotify.com/track/5McUO0NAKaKWO22oeZgTZQ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 3:51 |
 | 18 | [ミスター・ダーリン](https://open.spotify.com/track/4fTpi0cXVxpXRAv1i38Lug) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:05 |
-| 19 | [ハンコウ予告](https://open.spotify.com/track/68xypX5iyrFelZyqqS5piG) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 4:03 |
-| 20 | [今日もサクラ舞う暁に](https://open.spotify.com/track/50m9OQ3M9AEdJAoTHGWdVt) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:15 |
+| 19 | [今日もサクラ舞う暁に](https://open.spotify.com/track/50m9OQ3M9AEdJAoTHGWdVt) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:15 |
+| 20 | [ハンコウ予告](https://open.spotify.com/track/68xypX5iyrFelZyqqS5piG) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 4:03 |
 | 21 | [color](https://open.spotify.com/track/7LTRBxH7yCV7fmkb7oDFRM) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 4:00 |
 | 22 | [世界は恋に落ちている TV size](https://open.spotify.com/track/7e1N6MUiZhwlqmaRUfmEmk) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界は恋に落ちている TVサイズver.](https://open.spotify.com/album/0k8j4qQzHC8wjSwVt1T1xC) | 1:32 |
-| 23 | [ヒロイン育成計画](https://open.spotify.com/track/4ull1xmD0JWXKdlgYSfpOj) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 3:40 |
-| 24 | [私、アイドル宣言](https://open.spotify.com/track/7HVJK5NcZTQGvWB1yWHyAB) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:27 |
+| 23 | [私、アイドル宣言](https://open.spotify.com/track/7HVJK5NcZTQGvWB1yWHyAB) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:27 |
+| 24 | [ヒロイン育成計画](https://open.spotify.com/track/4ull1xmD0JWXKdlgYSfpOj) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 3:40 |
 | 25 | [アイのシナリオ TV size](https://open.spotify.com/track/0YrVb49QPa6sGimAxP2ZDg) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [アイのシナリオ TV size](https://open.spotify.com/album/7FLJSAtkxRX1jMy85Z2v9U) | 1:30 |
 | 26 | [ラズベリー\*モンスター](https://open.spotify.com/track/19oCEhJcUnJjFWnJ8tAnvL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール](https://open.spotify.com/album/4PV8u7OxMEUJqFA1lFvNh7) | 2:55 |
-| 27 | [恋のコード](https://open.spotify.com/track/41DwwsezbdbyXoqq9KK5k5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 4:42 |
-| 28 | [カヌレ](https://open.spotify.com/track/0xdYMLOVH0DPNNg1zPofzO) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:07 |
+| 27 | [カヌレ](https://open.spotify.com/track/0xdYMLOVH0DPNNg1zPofzO) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:07 |
+| 28 | [恋のコード](https://open.spotify.com/track/41DwwsezbdbyXoqq9KK5k5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 4:42 |
 | 29 | [きっと別れるよ](https://open.spotify.com/track/5x9XCM92S3G3U8CD1dKiA7) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:44 |
 | 30 | [鬼ノ森](https://open.spotify.com/track/5bn8QRLruU48VU3an3MMNr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [鬼ノ森](https://open.spotify.com/album/11KLezHDkMMTZejfjErhiQ) | 4:35 |
-| 31 | [これ青春アンダースタンド](https://open.spotify.com/track/5KVyLT4jZZ2JQXwyEfzIKq) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT) | [恋色に咲け](https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z) | 4:12 |
-| 32 | [ツインズ](https://open.spotify.com/track/03NKMpabqVFe6hy5UUcs5j) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:57 |
+| 31 | [ツインズ](https://open.spotify.com/track/03NKMpabqVFe6hy5UUcs5j) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:57 |
+| 32 | [LOVE FIGHT](https://open.spotify.com/track/0IP24AsXkRicQbRt5HGA8Z) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [LOVE FIGHT](https://open.spotify.com/album/0uZAUiU2010CN2rBWL4Y6X) | 3:56 |
 | 33 | [あなたは恋をしてない](https://open.spotify.com/track/4rp3HCeKTq2FI2IOjTsH1V) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:54 |
-| 34 | [LOVE FIGHT](https://open.spotify.com/track/0IP24AsXkRicQbRt5HGA8Z) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [LOVE FIGHT](https://open.spotify.com/album/0uZAUiU2010CN2rBWL4Y6X) | 3:56 |
+| 34 | [これ青春アンダースタンド](https://open.spotify.com/track/5KVyLT4jZZ2JQXwyEfzIKq) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT) | [恋色に咲け](https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z) | 4:12 |
 | 35 | [サイダー](https://open.spotify.com/track/3hgxa6MGGjpQ8VQ7kbPHk2) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:49 |
 | 36 | [ビビっとラブ \-CHiCO ぼっち ver.\-](https://open.spotify.com/track/2m81ZTXEOshoGwJakzaq4Y) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ビビっとラブ \(Special Edition\)](https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU) | 3:54 |
 | 37 | [ロボット](https://open.spotify.com/track/7mAwHR99hdvTChq7V9Uxdd) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒミツ恋ゴコロ](https://open.spotify.com/album/4nnCBcpxTtsc9GQKxQSBxL) | 3:47 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 45 | [世界は恋に落ちている TV size Instrumental](https://open.spotify.com/track/6GXvMEsyk4JFJV84v2MzHp) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界は恋に落ちている TVサイズver.](https://open.spotify.com/album/0k8j4qQzHC8wjSwVt1T1xC) | 1:32 |
 | 46 | [胸キュンライト](https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 4:55 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDAzNDAyZGEyZWVmMTIxZmQ2M2M0MTFhM2RkNzNhN2I2NQ==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA3MjMxYWVhZmRjMjM1OTRkNGMxOTlmYmUxMWQ3NzJhZQ==`

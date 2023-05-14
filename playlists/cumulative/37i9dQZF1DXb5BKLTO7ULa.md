@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Zoë Tauran, Bilal Wahib
 
-1,233 songs - 2 day 17 hr 12 min
+1,234 songs - 2 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Bad Milk](https://open.spotify.com/track/6Nwc5RCF85l1ALN1Z1svQP) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk), [Michael Roman](https://open.spotify.com/artist/6ymKRGN5gpJNYqUGkxHyFH) | [Bad Milk](https://open.spotify.com/album/7z2wwVd8z2gZy5Q7nTxUHu) | 2:36 | 2023-05-11 |  |
 | [Baldia](https://open.spotify.com/track/7rCJaJ5l5Ed0BMpglihs8P) | [Qlas & Blacka](https://open.spotify.com/artist/0ltU5V1lbLkZlgXrnCeGjx) | [Baldia](https://open.spotify.com/album/6MQWHiWSckWXzMuDEydDLa) | 3:23 | 2023-05-11 |  |
 | [bandaid](https://open.spotify.com/track/0zS2VcfaVTl2fluvSaTu2z) | [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [bandaid](https://open.spotify.com/album/4U7f33E9FZ1JIWB3geixmh) | 3:24 | 2023-02-24 | 2023-03-03 |
+| [Bankoe Bitches](https://open.spotify.com/track/7DlAcSie8iZGUMGeOA5vzG) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Bankoe Bitches](https://open.spotify.com/album/12ixHUBeGXdT3CU6uue9XM) | 3:03 | 2023-05-13 |  |
 | [Be Somebody](https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Be Somebody](https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8) | 2:21 | 2023-04-06 | 2023-04-14 |
 | [Be Somebody](https://open.spotify.com/track/6GLATZeuyPYDhYs5VEOq7s) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Be Somebody](https://open.spotify.com/album/5WOxCncOqb9j4UL44wjJDt) | 4:00 | 2023-05-04 | 2023-05-12 |
 | [Be Yours](https://open.spotify.com/track/46lJyMkWR3BXZ6XLdZzhZ5) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Be Yours](https://open.spotify.com/album/5niw3k5NSVyeBxDcdA3umi) | 3:15 | 2023-03-17 | 2023-03-25 |

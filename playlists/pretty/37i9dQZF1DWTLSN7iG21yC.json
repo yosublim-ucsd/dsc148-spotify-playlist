@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 927370,
+  "num_followers": 927401,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTI3YTNiZmQ1M2U1MWU0NTRjZTY0ZDFlOTIzZjA4YTgzOWRjM2Zk",
+  "snapshot_id": "MCwwOTVjMjkxM2VmZWUwZDQ0ZGFmNmQyNzdhZjQ4ODM1MTg4ODcxMjM2",
   "tracks": [
     {
       "added_at": "2023-04-14 04:07:54",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -645,26 +645,6 @@
       "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     },
     {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Be The One (with Khalid)",
-        "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 200814,
-      "name": "Be The One (with Khalid)",
-      "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
-    },
-    {
       "added_at": "2023-04-14 04:07:54",
       "album": {
         "name": "Music Of The Spheres",
@@ -683,6 +663,26 @@
       "duration_ms": 241595,
       "name": "Let Somebody Go",
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Be The One (with Khalid)",
+        "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 200814,
+      "name": "Be The One (with Khalid)",
+      "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Heart Wants What It Wants",
-        "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 182085,
-      "name": "Heart Wants What It Wants",
-      "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 211666,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Heart Wants What It Wants",
+        "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 182085,
+      "name": "Heart Wants What It Wants",
+      "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "By The End Of The Night",
-        "url": "https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 188562,
-      "name": "By The End Of The Night",
-      "url": "https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 194275,
       "name": "Dance All Over Me",
       "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "By The End Of The Night",
+        "url": "https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 188562,
+      "name": "By The End Of The Night",
+      "url": "https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Last Train Home",
-      "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Here\u2019s Your Perfect (with salem ilese)",
         "url": "https://open.spotify.com/album/5GniWbyYasCTUi8UZO6JZA"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 158594,
       "name": "Here\u2019s Your Perfect (with salem ilese)",
       "url": "https://open.spotify.com/track/4Cw1fQBX3TaiZQwOAyddnj"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Last Train Home",
+      "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 215229,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Bad For Me (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 213283,
-      "name": "Bad For Me (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Peru (R3HAB Remix)",
         "url": "https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 149752,
       "name": "Peru - R3HAB Remix",
       "url": "https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Bad For Me (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "Bad For Me (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1979,6 +1979,26 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "Love Me Like I Am (with Jordin Sparks)",
+        "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Love Me Like I Am (with Jordin Sparks)",
+      "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "blue water road",
         "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
       },
@@ -2007,26 +2027,6 @@
       "duration_ms": 207346,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "Love Me Like I Am (with Jordin Sparks)",
-        "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Love Me Like I Am (with Jordin Sparks)",
-      "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Dark Skies",
-        "url": "https://open.spotify.com/album/02sx3jt3ifjyr8Yfq6XY0V"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 194798,
-      "name": "Dark Skies",
-      "url": "https://open.spotify.com/track/6md6TywIVmybRn604WiPdu"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Blessed & Free",
         "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 198171,
       "name": "Blessed & Free",
       "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Dark Skies",
+        "url": "https://open.spotify.com/album/02sx3jt3ifjyr8Yfq6XY0V"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 194798,
+      "name": "Dark Skies",
+      "url": "https://open.spotify.com/track/6md6TywIVmybRn604WiPdu"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "I'll Never Not Love You",
-        "url": "https://open.spotify.com/album/40Ud7EvNeSxYcpNibD0Qhu"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 218390,
-      "name": "I'll Never Not Love You",
-      "url": "https://open.spotify.com/track/3tKggonCKJgCG7nroEH2np"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "A Second to Midnight",
         "url": "https://open.spotify.com/album/6kp91tuVBPtw7HvwTJjDHr"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "I'll Never Not Love You",
+        "url": "https://open.spotify.com/album/40Ud7EvNeSxYcpNibD0Qhu"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 218390,
+      "name": "I'll Never Not Love You",
+      "url": "https://open.spotify.com/track/3tKggonCKJgCG7nroEH2np"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Mystical Magical Rhythmical Radical Ride",
-        "url": "https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 217942,
-      "name": "You Might Like It",
-      "url": "https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "KEEP IT UP",
         "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 183000,
       "name": "KEEP IT UP",
       "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Mystical Magical Rhythmical Radical Ride",
+        "url": "https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 217942,
+      "name": "You Might Like It",
+      "url": "https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g"
     },
     {
       "added_at": "2023-04-21 04:01:00",

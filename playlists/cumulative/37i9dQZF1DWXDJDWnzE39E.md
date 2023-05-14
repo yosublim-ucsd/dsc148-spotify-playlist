@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: BABYMETAL
 
-269 songs - 17 hr 32 min
+270 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-03-24 |  |
 | [Diamonds and Dark](https://open.spotify.com/track/1fNO2fYTMVnadgqF5Aqui7) | [Phantom Elite](https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX) | [Diamonds and Dark](https://open.spotify.com/album/0REvlMPAOWsiNrjin4bmdw) | 4:49 | 2020-12-07\* | 2022-07-29 |
 | [Diana](https://open.spotify.com/track/6mJ1xzqTOpUfIKVc4d5HDl) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Diana](https://open.spotify.com/album/3KQGVYjzN1c5QhhdeGwIMF) | 4:16 | 2021-05-29 | 2022-07-16 |
-| [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7), [Nathan James](https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp) | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI) | 3:13 | 2022-11-18 |  |
+| [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7), [Nathan James](https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp) | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI) | 3:13 | 2022-11-18 | 2023-05-14 |
 | [Drive](https://open.spotify.com/track/1D27ysHw4QbNyGfEe4yljT) | [Clio Cadence](https://open.spotify.com/artist/7ptBJGsem3xogV261ZUhtq) | [Drive](https://open.spotify.com/album/6fdWJnMaCRzCvsHhTvrXGU) | 3:42 | 2020-12-07\* | 2022-10-30 |
 | [Drive It Like You Stole It](https://open.spotify.com/track/74qhamOhw3kR1BCgpCnsiW) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [Drive It Like You Stole It](https://open.spotify.com/album/7sUt71Y22RFvzGHYFolvaB) | 3:33 | 2020-12-07\* | 2022-07-29 |
 | [Drive It Like You Stole It](https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [20/20](https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan) | 3:36 | 2022-03-11 | 2023-03-19 |
@@ -256,6 +256,7 @@
 | [Till the End](https://open.spotify.com/track/4mGrLbuibhtaUS5McNoUxi) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Till the End](https://open.spotify.com/album/3tGBWNAS5szJEllpKrgyX5) | 3:28 | 2020-12-07\* | 2022-07-29 |
 | [Tin Soldiers](https://open.spotify.com/track/7LvdCAqmBLiOFYReWT7crb) | [The Murder of My Sweet](https://open.spotify.com/artist/7B4zaOoCRV5xQg9ZUrl4B1) | [Tin Soldiers](https://open.spotify.com/album/2suDNX2Zms7YMC3jymUXnp) | 6:26 | 2020-12-07\* | 2020-12-11 |
 | [Ugly Fucker](https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Ugly Fucker](https://open.spotify.com/album/4XsoXgTq479PpAFbzExxF6) | 3:14 | 2020-12-07\* | 2023-02-05 |
+| [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 | 2023-03-02 |  |
 | [Umbra](https://open.spotify.com/track/6X5dxdTEbvVlzBWEZaNYYh) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei) | [Umbra](https://open.spotify.com/album/3hNt3wQ8EJzxShv4OkJJvw) | 3:57 | 2020-12-07\* | 2020-12-11 |
 | [Universe](https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Universe](https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR) | 4:03 | 2020-12-07\* | 2021-05-15 |
 | [Vakuum](https://open.spotify.com/track/36nwwsQJZbfRFZNCbqn4qH) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Vakuum](https://open.spotify.com/album/7CaOsoRykCfCIiVywFT2w5) | 5:02 | 2020-12-07\* | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > 2012 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,814 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,895 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 30 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 |
 | 31 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
 | 32 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 |
-| 33 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
+| 33 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
 | 34 | [Born To Die](https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:46 |
-| 35 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
+| 35 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 36 | [Forrest Gump](https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:14 |
-| 37 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
-| 38 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
-| 39 | [The Fall](https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:44 |
-| 40 | [Lightning Bolt](https://open.spotify.com/track/79DO6dBi8936P6EShLB209) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 2:24 |
-| 41 | [Ends of the Earth](https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c) | 4:44 |
+| 37 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
+| 38 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
+| 39 | [Ends of the Earth](https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c) | 4:44 |
+| 40 | [The Fall](https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:44 |
+| 41 | [Lightning Bolt](https://open.spotify.com/track/79DO6dBi8936P6EShLB209) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 2:24 |
 | 42 | [Mountain Sound](https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 3:31 |
 | 43 | [Dark Paradise](https://open.spotify.com/track/349XIp8EgHWJiIg5K0CUft) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:03 |
 | 44 | [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 69 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
 | 70 | [No Diggity](https://open.spotify.com/track/2xD7RvKFJl52xyds3wQFXQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking In Textures](https://open.spotify.com/album/1lqdYmOceSVAulxV7YuD7L) | 3:41 |
 | 71 | [We Come Running](https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf) | [Youngblood Hawke](https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K) | [Wake Up](https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW) | 4:07 |
-| 72 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
+| 72 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
 | 73 | [Fiction](https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:56 |
-| 74 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
+| 74 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
 | 75 | [Lazuli](https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 5:01 |
 | 76 | [Only For You](https://open.spotify.com/track/17ZnveSDBpG9QtL7zLJNPy) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [Arrow](https://open.spotify.com/album/4g4iUbyDPTz3wCy25Tvivk) | 5:08 |
 | 77 | [Tightrope](https://open.spotify.com/track/44psOy0D0SP8rcIiUgKgBs) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 3:29 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 84 | [Man On Fire](https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN) | 4:19 |
 | 85 | [Sleepless](https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 3:29 |
 | 86 | [Elevate](https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night \(Deluxe\)](https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo) | 5:08 |
-| 87 | [Yet Again](https://open.spotify.com/track/6zc0b2JM2M9DKMuLQ1XCRK) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX) | 5:18 |
+| 87 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
 | 88 | [Paddling Out](https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy To You](https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF) | 3:37 |
-| 89 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
+| 89 | [Yet Again](https://open.spotify.com/track/6zc0b2JM2M9DKMuLQ1XCRK) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX) | 5:18 |
 | 90 | [lofticries](https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:59 |
 | 91 | [Breathing Underwater](https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica \(Deluxe Edition\)](https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ) | 3:56 |
 | 92 | [Every Single Night](https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 99 | [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Delta Spirit](https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi) | 3:39 |
 | 100 | [obedear](https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
 
-Snapshot ID: `MCxlYmMwYTEyNTE5YmVlZTA1ODlmZmRlNTRjOWQzODc5Mzc3NjU4YjA2`
+Snapshot ID: `MCwwODRkNmM3ZDUwN2NkOGY0NmIxYmYxYjgxZmE5ZDg0NzU2ZjgwM2Q3`

@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-965 songs - 2 day 3 hr 7 min
+966 songs - 2 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Discourse](https://open.spotify.com/track/3tbvNiWIyOS4rJmR8b1pCz) | [Weigh the Anchor](https://open.spotify.com/artist/2mjqT7Yg4BYLmbzJJn0xb8) | [Right at Home](https://open.spotify.com/album/6wyeuVZCBxgaBwoju4iRLw) | 3:29 | 2022-01-14 | 2022-04-14 |
 | [Displacement](https://open.spotify.com/track/6pUvVBsTG47dZem4cPXhLw) | [Such Luck](https://open.spotify.com/artist/15dO6iv9muYfZhpu8BKfBU) | [Displacement](https://open.spotify.com/album/3SD2p4BjQMI79J5Yw07YJf) | 3:48 | 2022-02-04 | 2022-04-17 |
 | [Dissolution](https://open.spotify.com/track/3C8O9qGmNGLc4yGTOGCc9P) | [Awaken I Am](https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY) | [Dissolution](https://open.spotify.com/album/7JOnLbKbDlfHBc5wxianpc) | 3:44 | 2022-03-25 | 2022-04-19 |
+| [Do You Like Me Now \(feat\. Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/track/7Fjr0lI9QUhW31LKMVOba9) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Do You Like Me Now \(feat\. Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv) | 3:37 | 2023-05-12 |  |
 | [Don't Be Racist](https://open.spotify.com/track/6fhA7RAtLJDiPPLfHhkjso) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Don't Be Racist](https://open.spotify.com/album/0VCDfLWvWT06qIxoCx33Mj) | 3:13 | 2022-07-08 | 2023-04-19 |
 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 2:36 | 2022-07-08 | 2022-11-05 |
 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/6Tb41xQxfkhpuJOkaWNTMV) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/album/6tZI7NswQRx6ufyTpkzu5c) | 2:36 | 2021-12-10 | 2022-07-25 |
@@ -638,7 +639,7 @@
 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 | 2023-04-23 |  |
 | [Perception](https://open.spotify.com/track/6HvvrqiyzJIjyapQZlimYM) | [Glacier Veins](https://open.spotify.com/artist/1ABJDb5VkWotQpFDOZeene) | [The World You Want to See](https://open.spotify.com/album/1gBLyhSgwqv9ZgE6pKOMLW) | 3:47 | 2021-12-10 | 2022-05-04 |
 | [perfect](https://open.spotify.com/track/6Gn3rGrd15zSZ8t9GxWVnF) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [perfect](https://open.spotify.com/album/6ZZ67CdjZLRXAw7AZg5Kae) | 2:36 | 2022-06-24 | 2023-04-12 |
-| [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-17 |  |
+| [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-17 | 2023-05-14 |
 | [Perfume \(feat\. Awsten Knight\)](https://open.spotify.com/track/2cWMwxmJ2TPuPLcNQdEaq5) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Awsten Knight](https://open.spotify.com/artist/6ORwdLfpd4q9V1BlktwYfZ) | [Perfume \(feat\. Awsten Knight\)](https://open.spotify.com/album/1qqoHvXacvsatI0g8bO2L7) | 2:50 | 2021-12-10 | 2022-06-18 |
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-26 | 2023-04-24 |
 | [phuck u](https://open.spotify.com/track/0kJv6Szx4qBhr7byrlgzgH) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [phuck u](https://open.spotify.com/album/7Ft8Bqn9YSbK1GS4iT2M0k) | 2:41 | 2021-12-10 | 2022-07-29 |

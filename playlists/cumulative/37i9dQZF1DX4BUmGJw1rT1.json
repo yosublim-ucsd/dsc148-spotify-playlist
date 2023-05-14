@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Get Behind the Wheel",
+        "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
+      },
+      "artists": [
+        {
+          "name": "Eilen Jewell",
+          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163534,
+      "name": "Come Home Soon",
+      "url": "https://open.spotify.com/track/7eRtuwFqQMdzpNM6arbA5s"
+    },
+    {
+      "album": {
         "name": "Come on Sunshine",
         "url": "https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f"
       },
@@ -2150,7 +2168,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 257790,
       "name": "Picture In A Frame",
       "url": "https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh"

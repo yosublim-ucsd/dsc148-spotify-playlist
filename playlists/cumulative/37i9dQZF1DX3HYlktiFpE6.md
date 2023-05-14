@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-144 songs - 7 hr 40 min
+145 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Right Round](https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1), [Kay](https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 3:16 | 2021-12-24 |  |
 | [Right Round](https://open.spotify.com/track/4Gx4trpKEbcJy6JarDuNvR) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1), [Kay](https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB) | [Pitch Perfect Soundtrack](https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2) | 3:16 | 2021-12-24 | 2022-07-18 |
 | [Ring of Fire \(feat\. Avi Kaplan\)](https://open.spotify.com/track/5i9A1n1s82jh53IGLldPG6) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7), [Avi Kaplan](https://open.spotify.com/artist/6mLJ8OuY32n8iDAyy95pdy) | [Crazy Life](https://open.spotify.com/album/7qn9BbiBucTH28IoyEGMyy) | 2:21 | 2021-12-24 | 2023-03-23 |
-| [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/3YlqY0ICO5DZj2ay8vRjJ1) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/0dAsLsV88EZovxVFjbSZHa) | 3:30 | 2021-12-24 |  |
+| [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/3YlqY0ICO5DZj2ay8vRjJ1) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/0dAsLsV88EZovxVFjbSZHa) | 3:30 | 2021-12-24 | 2023-05-14 |
+| [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/5w1lIJMhKXptAHIiMOYkCr) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Everyday Sounds I](https://open.spotify.com/album/7sbf6Hl244nxyDjyMlzm4U) | 3:30 | 2021-12-24 |  |
 | [Sensitive \(feat\. Scott Hoying\)](https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:58 | 2023-03-10 |  |
 | [Set Fire to the Rain](https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq) | [Cornell Class Notes](https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF) | [Full Disclosure](https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu) | 3:56 | 2021-12-24 |  |
 | [Shut up and Dance](https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:47 | 2021-12-24 |  |

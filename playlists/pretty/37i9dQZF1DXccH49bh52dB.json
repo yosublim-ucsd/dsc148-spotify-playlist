@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 447121,
+  "num_followers": 447738,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTRiMmU4OGM0M2MyMDI5M2ZlZDE0YmJhZmRiYTQ5MzkwMzBhZDcx",
+  "snapshot_id": "MCxlMGQxYzAwNDQ0NDU0ZTQ2NWU3NjUyZDhmMDc4NmY0OGU3OGY0NmU0",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Diamond Heart",
-        "url": "https://open.spotify.com/album/6PZBlxE1awuzcZTkUwWa4C"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sophia Somajo",
-          "url": "https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z"
-        }
-      ],
-      "duration_ms": 239834,
-      "name": "Diamond Heart",
-      "url": "https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Cut Your Teeth (Kygo Remix)",
         "url": "https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 399013,
       "name": "Cut Your Teeth - Kygo Remix",
       "url": "https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Diamond Heart",
+        "url": "https://open.spotify.com/album/6PZBlxE1awuzcZTkUwWa4C"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sophia Somajo",
+          "url": "https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z"
+        }
+      ],
+      "duration_ms": 239834,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT"
     },
     {
       "added_at": "2022-01-18 14:54:04",

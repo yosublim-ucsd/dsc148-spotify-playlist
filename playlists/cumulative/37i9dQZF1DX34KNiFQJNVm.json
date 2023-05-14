@@ -33690,12 +33690,12 @@
       },
       "artists": [
         {
-          "name": "Babidi",
-          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
-        },
-        {
           "name": "Drako",
           "url": "https://open.spotify.com/artist/0t8ncMSqGZOIly3U2hlbMp"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
         }
       ],
       "date_added": "2023-05-12",
@@ -53986,7 +53986,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 214560,
-      "name": "Hear You Calling",
+      "name": "Hear you calling",
       "url": "https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW"
     },
     {

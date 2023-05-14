@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,068 likes - 33 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,070 likes - 33 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 21 | [Insaaf](https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Talvar](https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT) | 3:20 |
 | 22 | [Inayaat](https://open.spotify.com/track/0SvzXilENkZzu9O1NPGs2K) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:47 |
 | 23 | [Sharabi](https://open.spotify.com/track/3vIyVXqOTGNtLDoZ2zQ7Hw) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 13:35 |
-| 24 | [Na Ja Balam](https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bird Under Water](https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R) | 5:27 |
-| 25 | [Forgotten Land](https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [SPELLJAMS](https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa) | 7:49 |
-| 26 | [The Warmth of Parents' Hands](https://open.spotify.com/track/4vzzXwWj4z2CObySCtDV4h) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Backbone \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:41 |
+| 24 | [The Warmth of Parents' Hands](https://open.spotify.com/track/4vzzXwWj4z2CObySCtDV4h) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Backbone \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:41 |
+| 25 | [Na Ja Balam](https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bird Under Water](https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R) | 5:27 |
+| 26 | [Forgotten Land](https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [SPELLJAMS](https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa) | 7:49 |
 | 27 | [Island No\. 2](https://open.spotify.com/track/33FLHXMkJplhhT9gino6ad) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 7:57 |
-| 28 | [En Route to Unfriending \(Live\)](https://open.spotify.com/track/5h12CCqstNZAeUJqYeTfCx) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6) | [Resonant Bodies \(Live\)](https://open.spotify.com/album/4xZgFllOjdl5xPInHpiUXD) | 13:46 |
-| 29 | [Dil Jalaney Ki Baat](https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Qais Essar](https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD) | [Revolution \(Remix\)](https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm) | 10:35 |
-| 30 | [Coming Home, Pt\. 2](https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Backbone \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 2:48 |
+| 28 | [Coming Home, Pt\. 2](https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Backbone \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 2:48 |
+| 29 | [En Route to Unfriending \(Live\)](https://open.spotify.com/track/5h12CCqstNZAeUJqYeTfCx) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6) | [Resonant Bodies \(Live\)](https://open.spotify.com/album/4xZgFllOjdl5xPInHpiUXD) | 13:46 |
+| 30 | [Dil Jalaney Ki Baat](https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Qais Essar](https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD) | [Revolution \(Remix\)](https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm) | 10:35 |
 | 31 | [Island No\. 3](https://open.spotify.com/track/0E4l6jS1tqDw8QCdtoclMz) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 17:44 |
 | 32 | [Rainy Streets](https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Backbone \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 6:50 |
 | 33 | [Ovid's Metamorphoses](https://open.spotify.com/track/2XDK6xpeeESGknHrfXW9Od) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 15:11 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA3MmExNDYyNDc5MDYwN2IwYzExM2I2Y2QxZDk5ZjhiYw==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA2OWQ0MmI1YTIxMTNkYThlNTc5MzQ4MWI1NWQ1NTYwNQ==`

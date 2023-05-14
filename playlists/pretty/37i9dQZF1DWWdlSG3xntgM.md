@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những nhạc phẩm đi vào lòng người từ nhiều thế hệ\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,215 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,223 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 46 | [Về đâu mái tóc người thương](https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0) | 5:17 |
 | 47 | [Một người đi](https://open.spotify.com/track/5l2aK6ogZ7qHDrxZDOqm0V) | [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH), [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Phận tơ tằm](https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig) | 5:21 |
 | 48 | [Lại Nhớ Người Yêu](https://open.spotify.com/track/0nDTdQm4QBUeqKyADkGvH1) | [Thien Quang](https://open.spotify.com/artist/58mUjJjKQywcSmunX8z30H), [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Đường Tím Ngày Xưa](https://open.spotify.com/album/0su8JLaHcq9OM5TgIusVXO) | 4:53 |
-| 49 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q) | 5:00 |
-| 50 | [Không Bao Giờ Quên Anh](https://open.spotify.com/track/4hY9mmmaps6GIR0MEUrqpZ) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Không Bao Giờ Quên Anh](https://open.spotify.com/album/1uxJL4jDieeXnXQMVYg0MQ) | 6:07 |
+| 49 | [Không Bao Giờ Quên Anh](https://open.spotify.com/track/4hY9mmmaps6GIR0MEUrqpZ) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Không Bao Giờ Quên Anh](https://open.spotify.com/album/1uxJL4jDieeXnXQMVYg0MQ) | 6:07 |
+| 50 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q) | 5:00 |
 
-Snapshot ID: `MCxkOGQ4NmEwZTFlYWFiNTg0NGE1ODA3NGNjMzYyMTU0ODVkNDE3NTVj`
+Snapshot ID: `MCw4ZjgwYjQ3MDIwMTU3MjUwY2IzNTA1YTZlYTY3OGI2MThmMmU1Mzcx`

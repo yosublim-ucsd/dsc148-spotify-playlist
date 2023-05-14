@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,522 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,608 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 16 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
 | 17 | [New York City](https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 2:01 |
 | 18 | [Voice of Rebellion](https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y) | [Pro\-Pain](https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8) | [Voice of Rebellion](https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR) | 4:01 |
-| 19 | [Chasing the Dragon](https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx) | 3:23 |
-| 20 | [Blistered](https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH) | 2:27 |
+| 19 | [Blistered](https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH) | 2:27 |
+| 20 | [Chasing the Dragon](https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx) | 3:23 |
 | 21 | [Thorn In My Side](https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:36 |
 | 22 | [Hail Destroyer](https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/4zR3343ue909iFnr6odhK3) | 3:16 |
 | 23 | [Burning Season](https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [For Those Who Were Crucified](https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m) | 1:56 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 31 | [Can't Take It Away](https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C) | [Kill Your Idols](https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT) | [This Is Just the Beginning](https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1) | 1:36 |
 | 32 | [Break Down the Walls](https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 2:04 |
 | 33 | [Mailer, Meet Jim](https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a) | [Western Addiction](https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA) | [Cognicide](https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH) | 1:37 |
-| 34 | [I Know Why](https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:50 |
-| 35 | [Just Can't Hate Enough](https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 1:44 |
+| 34 | [Just Can't Hate Enough](https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 1:44 |
+| 35 | [I Know Why](https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:50 |
 | 36 | [Animal Farm](https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Death Knows Your Name](https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK) | 3:40 |
 | 37 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 |
 | 38 | [You Ignore Them All](https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Sound Of The Republic](https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Over the Years](https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Friendship Loyalty Commitment](https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I) | 2:05 |
 | 50 | [Choices Made](https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL) | [CIV](https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9) | [Set Your Goals](https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda) | 2:28 |
 
-Snapshot ID: `MCxhMmE5Y2YwMTA0Y2NkOTFlOTIzYmI0OGY2ODAxNmZiNDU1Y2EyMTI5`
+Snapshot ID: `MCw1MTUwZDRlNDNhNGM3ZjU2N2Q5MmNjMjY1NTlhYWQwYTkyMmE1Zjg2`

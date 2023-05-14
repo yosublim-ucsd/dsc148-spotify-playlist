@@ -4,12 +4,13 @@
 
 > canzoni su cui piangere 🥀
 
-104 songs - 6 hr 17 min
+105 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 | 2022-05-04 |  |
 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 | 2022-05-04 |  |
+| [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-11 |  |
 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 | 2022-05-04 |  |
 | [Anchor](https://open.spotify.com/track/6x6XKEUcCJGUACD4Xh7KuP) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Anchor](https://open.spotify.com/album/7FTALPLhRQiMuMyaSd1M5d) | 4:16 | 2022-05-04 | 2022-07-29 |
 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 | 2022-06-22 |  |
@@ -68,7 +69,7 @@
 | [Let Me Love You Like A Woman](https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:20 | 2022-06-22 |  |
 | [Let Me Love You Like A Woman](https://open.spotify.com/track/4HvE2E9rXJDcQhE4YfeNuG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Let Me Love You Like A Woman](https://open.spotify.com/album/6yEZH1HexM9sqOX34qUE4u) | 3:20 | 2022-05-04 | 2022-07-29 |
 | [lie to me](https://open.spotify.com/track/4f9IfFvBFm7Gsf1IVEudyf) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [lie to me](https://open.spotify.com/album/4BAEubwvC2r7bPRKlmRxUO) | 2:57 | 2022-05-04 |  |
-| [Like Everybody Else \- Acoustic](https://open.spotify.com/track/4cRVPfsnX1r3S3GzXRy2wt) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Like Everybody Else \(Acoustic\)](https://open.spotify.com/album/0usdDFkfTwgtgdFKUjeuS8) | 3:14 | 2022-06-22 |  |
+| [Like Everybody Else \- Acoustic](https://open.spotify.com/track/4cRVPfsnX1r3S3GzXRy2wt) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Like Everybody Else \(Acoustic\)](https://open.spotify.com/album/0usdDFkfTwgtgdFKUjeuS8) | 3:14 | 2022-06-22 | 2023-05-14 |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 | 2022-05-04 |  |
 | [Lonely Star](https://open.spotify.com/track/5v7R1oGmAtsUFHJg66awep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Lonely Star](https://open.spotify.com/album/1qmgvWOYMWHW5jLcV6rZzr) | 3:57 | 2022-05-04 | 2022-05-28 |
 | [Lonely Star](https://open.spotify.com/track/7Amz41doI0DKoXLrF0KvYK) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:57 | 2022-10-27 | 2022-11-13 |

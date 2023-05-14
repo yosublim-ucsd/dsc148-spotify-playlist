@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 127033,
+  "num_followers": 127128,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDI2MjllYTA3ODA2MjI0ZGE5N2RmZmI0MDZkNzQ1ODYyODM4NWVl",
+  "snapshot_id": "MCw3NTE5NjNiOTFjNzJkYWQ4ZWVhZDRlYTdjMDI5OWE1NjI3N2UyYzQ0",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -411,38 +411,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 198935,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/4ebAsaLYZZBzADj1Vfmcc4"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "I Fall to Pieces",
-        "url": "https://open.spotify.com/album/0AgqUaoymiX2pAQlHlwZKr"
-      },
-      "artists": [
-        {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        }
-      ],
-      "duration_ms": 171513,
-      "name": "I Fall to Pieces",
-      "url": "https://open.spotify.com/track/34QBDcwnUMlQCGpjUhXN8u"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "I Like You",
         "url": "https://open.spotify.com/album/7zfyRI2P40FLVcTG9eeOG7"
       },
@@ -459,6 +427,22 @@
       "duration_ms": 242481,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/2Tjx2DINx4qil9xunhu5cO"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 198935,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/4ebAsaLYZZBzADj1Vfmcc4"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -483,6 +467,22 @@
       "duration_ms": 159497,
       "name": "Sleeping Satellite",
       "url": "https://open.spotify.com/track/6mqDkgdHcTSkUujnJZtFnJ"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "I Fall to Pieces",
+        "url": "https://open.spotify.com/album/0AgqUaoymiX2pAQlHlwZKr"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        }
+      ],
+      "duration_ms": 171513,
+      "name": "I Fall to Pieces",
+      "url": "https://open.spotify.com/track/34QBDcwnUMlQCGpjUhXN8u"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Soledade",
-          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
-        }
-      ],
-      "duration_ms": 200269,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ"
       },
       "artists": [
         {
-          "name": "Quiana Lynell",
-          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Just A Little Lovin' (Early In The Mornin')",
-      "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
+      "duration_ms": 200269,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -615,6 +599,22 @@
       "duration_ms": 206004,
       "name": "Don't Need The Real Thing",
       "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
+      },
+      "artists": [
+        {
+          "name": "Quiana Lynell",
+          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Just A Little Lovin' (Early In The Mornin')",
+      "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "That's What Friends Are For",
-        "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "That's What Friends Are For",
-      "url": "https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "A Good Goodbye",
         "url": "https://open.spotify.com/album/6RG4OSNR3OfIj9R3GiHWiZ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 213939,
       "name": "A Good Goodbye",
       "url": "https://open.spotify.com/track/44YADxNo3TdpkwEr5DvV2B"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "That's What Friends Are For",
+        "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "That's What Friends Are For",
+      "url": "https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Losing Grip",
+        "url": "https://open.spotify.com/album/0wA2eGX60XryWU9BJBDUAb"
+      },
+      "artists": [
+        {
+          "name": "Stella Starlight Trio",
+          "url": "https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y"
+        },
+        {
+          "name": "Cassandra Beck",
+          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
+        }
+      ],
+      "duration_ms": 250384,
+      "name": "Losing Grip",
+      "url": "https://open.spotify.com/track/2ZQLf4N4B9PNZBYZF6QXse"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "For Seasons to Come",
         "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
       },
@@ -771,22 +791,6 @@
       "duration_ms": 229965,
       "name": "Some Day",
       "url": "https://open.spotify.com/track/21bjp8uUBmejTKO4axhhL9"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "Endings Are Beginnings",
-      "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -807,22 +811,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Losing Grip",
-        "url": "https://open.spotify.com/album/0wA2eGX60XryWU9BJBDUAb"
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
       },
       "artists": [
         {
-          "name": "Stella Starlight Trio",
-          "url": "https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y"
-        },
-        {
-          "name": "Cassandra Beck",
-          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 250384,
-      "name": "Losing Grip",
-      "url": "https://open.spotify.com/track/2ZQLf4N4B9PNZBYZF6QXse"
+      "duration_ms": 189733,
+      "name": "Endings Are Beginnings",
+      "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Melodic Canvas",
-        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
-      },
-      "artists": [
-        {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Crazy He Calls Me",
         "url": "https://open.spotify.com/album/6SVe88s5f4nGY0mqlIuNv3"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Melodic Canvas",
+        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
+      },
+      "artists": [
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "duration_ms": 207396,
+      "name": "Do You Believe",
+      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Softly Loudly",
         "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
       },
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
+        "name": "Gin & Jazz",
+        "url": "https://open.spotify.com/album/1RNLGn3sx62f64k9wfi2PI"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Andy Jordan",
+          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
         }
       ],
-      "duration_ms": 188413,
-      "name": "You Can't Hide Away From Love",
-      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
+      "duration_ms": 148000,
+      "name": "Gin & Jazz",
+      "url": "https://open.spotify.com/track/2x8CeYZEcidanPDrtlbh6T"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Gin & Jazz",
-        "url": "https://open.spotify.com/album/1RNLGn3sx62f64k9wfi2PI"
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
       },
       "artists": [
         {
-          "name": "Andy Jordan",
-          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Gin & Jazz",
-      "url": "https://open.spotify.com/track/2x8CeYZEcidanPDrtlbh6T"
+      "duration_ms": 188413,
+      "name": "You Can't Hide Away From Love",
+      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
-      },
-      "artists": [
-        {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
-        }
-      ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Enough to Be on Your Way",
         "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Free Afternoon",
-        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
       "artists": [
         {
-          "name": "Guilherme Cunha Ribeiro",
-          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
         }
       ],
-      "duration_ms": 233013,
-      "name": "A Better One for You",
-      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 295560,
       "name": "Move Me No Mountain",
       "url": "https://open.spotify.com/track/4obdTojML5jR0RzMOmJEJa"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Free Afternoon",
+        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Cunha Ribeiro",
+          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "A Better One for You",
+      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "It's Complicated",
+        "url": "https://open.spotify.com/album/2wakq28QTH960KEygvzPXl"
+      },
+      "artists": [
+        {
+          "name": "Andy Jordan",
+          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
+        }
+      ],
+      "duration_ms": 208273,
+      "name": "It's Complicated",
+      "url": "https://open.spotify.com/track/6w9GAp3fgHFeDpYHDAaApX"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Trying Times",
         "url": "https://open.spotify.com/album/5BA2kBYkdmrhKWtk3YY8ti"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "It's Complicated",
-        "url": "https://open.spotify.com/album/2wakq28QTH960KEygvzPXl"
-      },
-      "artists": [
-        {
-          "name": "Andy Jordan",
-          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
-        }
-      ],
-      "duration_ms": 208273,
-      "name": "It's Complicated",
-      "url": "https://open.spotify.com/track/6w9GAp3fgHFeDpYHDAaApX"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Same Soul",
         "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
       },
@@ -1171,6 +1171,38 @@
       "duration_ms": 293504,
       "name": "Your Hands",
       "url": "https://open.spotify.com/track/5L2WZHdSzV9rCsK6KWxb2E"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
+      },
+      "artists": [
+        {
+          "name": "Susan Wong",
+          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
+        }
+      ],
+      "duration_ms": 164652,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "The Composers' Voice: Celebrating Australian Women Composers",
+        "url": "https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y"
+      },
+      "artists": [
+        {
+          "name": "Elly Hoyt",
+          "url": "https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1227,38 +1259,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
-      },
-      "artists": [
-        {
-          "name": "Susan Wong",
-          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
-        }
-      ],
-      "duration_ms": 164652,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "The Composers' Voice: Celebrating Australian Women Composers",
-        "url": "https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y"
-      },
-      "artists": [
-        {
-          "name": "Elly Hoyt",
-          "url": "https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Don't Forget Me (When I'm Gone)",
         "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 184250,
       "name": "Don't Forget Me (When I'm Gone)",
       "url": "https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "This Is Not Jazz",
+        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Adventure Of A Lifetime",
+      "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1319,54 +1335,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "This Is Not Jazz",
-        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
-      },
-      "artists": [
-        {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
-        }
-      ],
-      "duration_ms": 299106,
-      "name": "Adventure Of A Lifetime",
-      "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Softly Loudly",
-        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
-      },
-      "artists": [
-        {
-          "name": "Emma Nabarro-Steel",
-          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
-        }
-      ],
-      "duration_ms": 235539,
-      "name": "Love is Easy",
-      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Kettle",
-        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Kettle",
-      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Riders on the Storm",
         "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
       },
@@ -1387,6 +1355,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Softly Loudly",
+        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+      },
+      "artists": [
+        {
+          "name": "Emma Nabarro-Steel",
+          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+        }
+      ],
+      "duration_ms": 235539,
+      "name": "Love is Easy",
+      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 232004,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Kettle",
+        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
+      },
+      "artists": [
+        {
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Kettle",
+      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Sorrows Into Silk",
-        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
+        "name": "Not For Me",
+        "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
       },
       "artists": [
         {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
         }
       ],
-      "duration_ms": 138320,
-      "name": "Lime",
-      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
+      "duration_ms": 243170,
+      "name": "Not for Me",
+      "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Not For Me",
-        "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
+        "name": "Sorrows Into Silk",
+        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
       },
       "artists": [
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
         }
       ],
-      "duration_ms": 243170,
-      "name": "Not for Me",
-      "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
+      "duration_ms": 138320,
+      "name": "Lime",
+      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "a letter to my 17 year old",
-        "url": "https://open.spotify.com/album/48SUVfdwm8K3U67cS5QC2h"
-      },
-      "artists": [
-        {
-          "name": "Ardhito Pramono",
-          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
-        }
-      ],
-      "duration_ms": 210412,
-      "name": "bitterlove",
-      "url": "https://open.spotify.com/track/2q5ug5CRRG0nBCLBTprsl6"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ"
       },
@@ -1679,34 +1663,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Day by Day",
-        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
+        "name": "a letter to my 17 year old",
+        "url": "https://open.spotify.com/album/48SUVfdwm8K3U67cS5QC2h"
       },
       "artists": [
         {
-          "name": "Francesca Castro",
-          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
+          "name": "Ardhito Pramono",
+          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
         }
       ],
-      "duration_ms": 394997,
-      "name": "Cup of Tea",
-      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Strangers in Disguise",
-        "url": "https://open.spotify.com/album/7p6Fu4k7F97W60BV2Bz4KK"
-      },
-      "artists": [
-        {
-          "name": "Anthony Lazaro",
-          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
-        }
-      ],
-      "duration_ms": 166635,
-      "name": "Strangers in Disguise",
-      "url": "https://open.spotify.com/track/4rIoGSsuUE9KOhYwkhX4Ls"
+      "duration_ms": 210412,
+      "name": "bitterlove",
+      "url": "https://open.spotify.com/track/2q5ug5CRRG0nBCLBTprsl6"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1727,6 +1695,38 @@
       "duration_ms": 286678,
       "name": "Much Rain",
       "url": "https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Strangers in Disguise",
+        "url": "https://open.spotify.com/album/7p6Fu4k7F97W60BV2Bz4KK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        }
+      ],
+      "duration_ms": 166635,
+      "name": "Strangers in Disguise",
+      "url": "https://open.spotify.com/track/4rIoGSsuUE9KOhYwkhX4Ls"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "One Less Lonely Girl",
+        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
+      },
+      "artists": [
+        {
+          "name": "Nikki Ocean",
+          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
+        }
+      ],
+      "duration_ms": 236648,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
     }
   ],
   "unique_name": "Jazz Pop",

@@ -5298,7 +5298,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 149508,
       "name": "Dach",
       "url": "https://open.spotify.com/track/1ryBtjEDxoMI1YsHzJ3zRw"
@@ -7511,6 +7511,24 @@
     },
     {
       "album": {
+        "name": "FIFI HOLLYWOOD",
+        "url": "https://open.spotify.com/album/6WhoqWY5ivv11ihH43J9l6"
+      },
+      "artists": [
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183884,
+      "name": "FIFI HOLLYWOOD",
+      "url": "https://open.spotify.com/track/3VjEZW12YW8yIxjKIzUZfi"
+    },
+    {
+      "album": {
         "name": "Fight Club",
         "url": "https://open.spotify.com/album/1XNJspeyxcjk6EZTLB32Mj"
       },
@@ -9200,7 +9218,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -12712,7 +12730,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 186761,
       "name": "Lottery (feat. LU KALA)",
       "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
@@ -14018,7 +14036,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 156800,
       "name": "Moje Najlepsze Lata",
       "url": "https://open.spotify.com/track/1A3oSCIOhJ2KlMTzC2lYcJ"
@@ -15106,7 +15124,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 251500,
       "name": "najlepszy dzie\u0144 w moim \u017cyciu",
       "url": "https://open.spotify.com/track/1U5tyGeq6tFW6WNTmPluvx"
@@ -16638,7 +16656,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 225767,
       "name": "ostatnia nadzieja",
       "url": "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
@@ -19526,7 +19544,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 151048,
       "name": "Rarara",
       "url": "https://open.spotify.com/track/1VEzvYlDWGz3KhxGg73jHG"
@@ -21823,6 +21841,28 @@
     },
     {
       "album": {
+        "name": "Ta Noc",
+        "url": "https://open.spotify.com/album/2TIcs8XvTusGW2xr1YSrx2"
+      },
+      "artists": [
+        {
+          "name": "Kuba\u0144czyk",
+          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Ta Noc",
+      "url": "https://open.spotify.com/track/7ADOC6GgrL0WlJEQ0ERKru"
+    },
+    {
+      "album": {
         "name": "Tak naprawd\u0119",
         "url": "https://open.spotify.com/album/3YW0mDl7sNIsBuHuRV0hsN"
       },
@@ -23120,7 +23160,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"

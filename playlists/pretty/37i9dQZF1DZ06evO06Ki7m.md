@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06Ki7m.md) - [plain]
 
 > This is Metro Boomin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,874 likes - 38 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,049 likes - 38 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06Ki7m.md) - [plain]
 | 30 | [Car Sick \(feat\. NAV & Metro Boomin\)](https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:39 |
 | 31 | [Disrespectful](https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:40 |
 | 32 | [Minute](https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 4:25 |
-| 33 | [Savage Mode](https://open.spotify.com/track/52hRcWmjRNFuVJv3Qi7EeF) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Savage Mode](https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b) | 4:09 |
+| 33 | [Ocean Drive](https://open.spotify.com/track/1UyLFPOIG7E1OfamPQLOfD) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Savage Mode](https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b) | 3:47 |
 | 34 | [Go Legend \(& Metro Boomin\)](https://open.spotify.com/track/3wAI7MIQtTgwcRmwchPZBc) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Double Or Nothing \(& Metro Boomin\)](https://open.spotify.com/album/0llyIxX3nDC3hobbGibVZl) | 4:28 |
 | 35 | [Mad Stalkers](https://open.spotify.com/track/6HR1z11h0ROUlWP4Kx8Z7G) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 3:22 |
 | 36 | [Held Me Down](https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 3:48 |
-| 37 | [Ocean Drive](https://open.spotify.com/track/1UyLFPOIG7E1OfamPQLOfD) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Savage Mode](https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b) | 3:47 |
+| 37 | [Savage Mode](https://open.spotify.com/track/52hRcWmjRNFuVJv3Qi7EeF) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Savage Mode](https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b) | 4:09 |
 | 38 | [Hit](https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 2:49 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDBmNzBlOWMxMjc4YWY2ODg2YWZhYzdkZDhhOTlmYWRkMg==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA3Y2E3MTAyYzZiYjhjYTA3NzViNTA0YjI4MTMxM2YwMA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 
 > This is Heroes Del Silencio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,396 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,477 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 8 | [La sirena varada](https://open.spotify.com/track/185xDOLU8KPZKqhUICnjRz) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu Del Vino\- Edición Especial](https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3) | 4:17 |
 | 9 | [La carta](https://open.spotify.com/track/2RzZSZbfu3jir4udOhyd75) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 3:07 |
 | 10 | [El estanque \- Live](https://open.spotify.com/track/2vrVlidqD4TPASvwqlBztv) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 4:40 |
-| 11 | [Hechizo](https://open.spotify.com/track/4IIXnqZUndaRlMwomxZwIr) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 4:36 |
-| 12 | [Opio](https://open.spotify.com/track/1uEOy1YhgBr0qCmTrvJhaA) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 6:18 |
+| 11 | [Opio](https://open.spotify.com/track/1uEOy1YhgBr0qCmTrvJhaA) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 6:18 |
+| 12 | [Hechizo](https://open.spotify.com/track/4IIXnqZUndaRlMwomxZwIr) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 4:36 |
 | 13 | [Malas intenciones](https://open.spotify.com/track/7Fi4oyVjarzUUZHTUwS3Wu) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 3:49 |
 | 14 | [Con nombre de guerra](https://open.spotify.com/track/5nzYLJv8lWcD7Zkdgu7ImS) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 4:16 |
-| 15 | [Senda](https://open.spotify.com/track/1sgk7dkImoLiq4XZU8JZE2) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 3:53 |
-| 16 | [Avalancha](https://open.spotify.com/track/2QWiLP3WiFMtmJ08nUTWUC) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 5:58 |
+| 15 | [Avalancha](https://open.spotify.com/track/2QWiLP3WiFMtmJ08nUTWUC) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 5:58 |
+| 16 | [Senda](https://open.spotify.com/track/1sgk7dkImoLiq4XZU8JZE2) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 3:53 |
 | 17 | [Oración](https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 4:08 |
 | 18 | [La herida](https://open.spotify.com/track/2aegLCwIWlVYvCjUf641Qr) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 6:54 |
 | 19 | [Agosto \- Live](https://open.spotify.com/track/2UDS1eIYjO5iAuggMGQTbo) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 49 | [Días De Borrasca \(Víspera De Resplandores\) \(Direct](https://open.spotify.com/track/0UtqkyNb7h29EvFyYxgG3R) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Parasiempre](https://open.spotify.com/album/3hLMxN4If95jDUnv4ebMxI) | 5:57 |
 | 50 | [...16](https://open.spotify.com/track/3iWYIYKVgcG7sfGqXwy1ZH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 3:53 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA1OTFlZWE0NDJlZWM3M2I4Yzc1ZjliYWJlODYyYjM1Yg==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDBjNzk5Yzg0MWY4NzE4ZWQwODM4OTgxYmNmNTliNTIxOQ==`

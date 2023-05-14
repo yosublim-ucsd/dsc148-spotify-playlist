@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 90547,
+  "num_followers": 90623,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGFjYmQyNjA4ZTk2OGFmNjNjYjc2NDE1ZjFhYmVlYzQxNjE5M2Zi",
+  "snapshot_id": "MCxhZmExODkxODAxNjhiM2Q0MmI3NzcxNmEwNzc5Zjk1ZmY3OWMzYjdi",
   "tracks": [
     {
       "added_at": "2023-05-12 03:01:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 150799,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
     },
     {
       "added_at": "2023-05-12 03:01:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
+        "name": "Scene 1 - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 180100,
+      "name": "Scene 1 - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/10BWEQ0WDTc9JlG1kfNZI5"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
         "name": "Good Morning Gorgeous (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 174636,
       "name": "Good Morning Gorgeous (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
-        "name": "Scene 1 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 180100,
-      "name": "Scene 1 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/10BWEQ0WDTc9JlG1kfNZI5"
     },
     {
       "added_at": "2023-05-12 03:01:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
-        "name": "Body Music (Deluxe)",
-        "url": "https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd"
-      },
-      "artists": [
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "Friends To Lovers",
-      "url": "https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
         "name": "Starfruit",
         "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 205720,
       "name": "You Got One",
       "url": "https://open.spotify.com/track/7DhOcyCu9WjUxY5kYNskVa"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
+        "name": "Body Music (Deluxe)",
+        "url": "https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd"
+      },
+      "artists": [
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "Friends To Lovers",
+      "url": "https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF"
     },
     {
       "added_at": "2023-05-12 03:01:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
+        "name": "The Beauty Created",
+        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Come To My Room",
+      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
         "name": "Type Of Day",
         "url": "https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 187541,
       "name": "Type Of Day",
       "url": "https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
-        "name": "The Beauty Created",
-        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 271453,
-      "name": "Come To My Room",
-      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
     },
     {
       "added_at": "2023-05-12 03:01:00",

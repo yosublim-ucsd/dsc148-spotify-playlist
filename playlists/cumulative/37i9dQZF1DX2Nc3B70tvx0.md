@@ -4,7 +4,7 @@
 
 > The best & biggest indie songs of 2023 so far\. Cover: Suki Waterhouse
 
-1,577 songs - 3 day 22 hr 33 min
+1,579 songs - 3 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [\(You\) On My Arm](https://open.spotify.com/track/5amHfOkbZVOopRkYqB4aqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [\(You\) On My Arm](https://open.spotify.com/album/4DOK0sUNU39awhzjWS3JL6) | 4:05 | 2023-02-17 |  |
 | [10 Steps](https://open.spotify.com/track/4U2GQlVHIerwX78jHpkOYN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [10 Steps](https://open.spotify.com/album/2garISLyF8l9yII625vI6R) | 3:29 | 2021-09-08 | 2022-01-29 |
 | [10/10](https://open.spotify.com/track/0tByDZgQzoNfFFmpgleB0s) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [10/10](https://open.spotify.com/album/1dIQCUmv1flCLWByivrbxQ) | 2:26 | 2019-09-21 | 2019-11-09 |
-| [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg) | 3:36 | 2023-04-21 |  |
+| [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg) | 3:36 | 2023-04-21 | 2023-05-14 |
 | [10:36](https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [10:36](https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz) | 3:15 | 2022-06-23 | 2022-08-25 |
 | [17](https://open.spotify.com/track/1yrJuYAIcCH9oNS9T0QJPt) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 3:06 | 2021-09-03 | 2022-04-09 |
 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 | 2020-12-22 | 2021-12-10 |
@@ -978,6 +978,7 @@
 | [Now I'm In It](https://open.spotify.com/track/5K7x78NAL50rhfhm73ePNb) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Now I'm In It](https://open.spotify.com/album/3ZQmXtYVICH0hhck3f53rm) | 3:24 | 2019-11-09 | 2020-03-27 |
 | [Now That You're Gone](https://open.spotify.com/track/0t3BGP2os4LjXL9TVQn6O0) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Sunday Driver / Now That You're Gone](https://open.spotify.com/album/0vOrIwTMeu6vTRRkBkdkoG) | 3:56 | 2019-05-26\* | 2019-08-13 |
 | [nrvs again](https://open.spotify.com/track/4WugVoKEajXnwN3JjqmUdC) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [nrvs again](https://open.spotify.com/album/4vaILOzSe7nAFfwzMho1Wq) | 3:38 | 2021-03-10 | 2021-03-19 |
+| [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7) | 3:04 | 2023-05-11 |  |
 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 | 2019-05-26\* | 2019-08-13 |
 | [NW3](https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [NW3](https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff) | 3:53 | 2022-02-04 | 2022-06-20 |
 | [O.O.Y.O.](https://open.spotify.com/track/3AMrhCf84s9V9LYdabaY93) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [O.O.Y.O.](https://open.spotify.com/album/1dVUykuYltFbm0VhxNu82I) | 4:01 | 2023-01-20 | 2023-02-01 |
@@ -1293,6 +1294,7 @@
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-20 | 2023-01-06 |
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 | 2022-11-11 | 2023-02-11 |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 | 2022-07-12 | 2022-09-17 |
+| [Super Ego](https://open.spotify.com/track/46OscqytdMz8h0NtyntdWh) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Super Ego](https://open.spotify.com/album/0bvbLTwlDDLD6N6Eh2LAtg) | 4:17 | 2023-05-11 |  |
 | [Superposition](https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:50 | 2019-05-26\* | 2019-08-13 |
 | [Surfing in Iceland](https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Surfing in Iceland](https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q) | 4:32 | 2022-10-20 | 2023-01-14 |
 | [Sweet](https://open.spotify.com/track/1RESyaoEkLAUmX0NEjMfUS) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad](https://open.spotify.com/album/4DN3XbB33kHTJA7HhI0RFI) | 3:42 | 2021-02-22 | 2021-03-23 |
@@ -1576,7 +1578,7 @@
 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 | 2022-04-08 | 2022-04-19 |
 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2020-05-01 | 2020-07-24 |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-20 | 2023-03-03 |
-| [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-08 |  |
+| [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-08 | 2023-05-14 |
 | [Your Boyfriend's Gun](https://open.spotify.com/track/2znEmrkaWXpgAin2E4RkAE) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Your Boyfriend's Gun](https://open.spotify.com/album/3333v41jpj7CNGF2lnUgIx) | 3:01 | 2019-11-01 | 2020-03-14 |
 | [Your Light](https://open.spotify.com/track/6vYRwtuNmaQJg7SlcrMdPs) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Your Light](https://open.spotify.com/album/08Ry44RWNOnXiw7gZlBXkg) | 5:07 | 2019-09-21 | 2020-07-03 |
 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 | 2023-04-21 | 2023-05-06 |

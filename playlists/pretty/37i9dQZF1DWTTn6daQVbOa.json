@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Tom Waits.",
-  "num_followers": 463967,
+  "num_followers": 464344,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTNhNjlkZWU2YTExZDZjODM0MzY5NjBiMjZmNWVlNmJiODQyOWMx",
+  "snapshot_id": "MCw0Yjg3Y2JhMzcwZWYxZmFmN2IxZjFlNGZiYTE1MWJiMWZmZTM5NGQy",
   "tracks": [
     {
       "added_at": "2022-09-23 05:26:33",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 180693,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "On the Waters",
-        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Make It with You",
-      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 256239,
       "name": "Waiting In Vain",
       "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "On the Waters",
+        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Make It with You",
+      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Teaser And The Firecat (Remastered 2021)",
-        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Morning Has Broken - Remastered 2021",
-      "url": "https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "City to City",
         "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 365626,
       "name": "Baker Street",
       "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Teaser And The Firecat (Remastered 2021)",
+        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Morning Has Broken - Remastered 2021",
+      "url": "https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "I Got a Name",
-        "url": "https://open.spotify.com/album/4ieaeNOAdq6VoYQrY0hkhq"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "I'll Have To Say I Love You In A Song",
-      "url": "https://open.spotify.com/track/4t8tx6o7oM6Ax66ZUU361y"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 278040,
       "name": "After the Love Has Gone",
       "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "I Got a Name",
+        "url": "https://open.spotify.com/album/4ieaeNOAdq6VoYQrY0hkhq"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "I'll Have To Say I Love You In A Song",
+      "url": "https://open.spotify.com/track/4t8tx6o7oM6Ax66ZUU361y"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 174533,
-      "name": "Sharing The Night Together",
-      "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "B.J. Thomas",
         "url": "https://open.spotify.com/album/3BKmp3IRv514x7Yv0D1fXc"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 178146,
       "name": "Raindrops Keep Fallin' on My Head - Rerecorded",
       "url": "https://open.spotify.com/track/1oOnOS4xNZOMpCT0lKTNo2"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Sharing The Night Together",
+      "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "52nd Street",
-        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
         }
       ],
-      "duration_ms": 233506,
-      "name": "Honesty",
-      "url": "https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW"
+      "duration_ms": 181893,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Sky's The Limit",
         "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 228160,
       "name": "Just My Imagination (Running Away With Me)",
       "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "52nd Street",
+        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "David Soul",
-        "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
-      },
-      "artists": [
-        {
-          "name": "David Soul",
-          "url": "https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "Don't give up on us",
-      "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Three Degrees",
         "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 178746,
       "name": "When Will I See You Again",
       "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "David Soul",
+        "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
+      },
+      "artists": [
+        {
+          "name": "David Soul",
+          "url": "https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "Don't give up on us",
+      "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "First Under The Wire (Remastered 2022)",
         "url": "https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp"
       },
@@ -1763,18 +1747,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "I'll Never Fall in Love Again",
-        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
         }
       ],
-      "duration_ms": 174840,
-      "name": "I'll Never Fall in Love Again",
-      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1791,6 +1775,22 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "I'll Never Fall in Love Again",
+        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "I'll Never Fall in Love Again",
+      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Michael Johnson Album",
-        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
-      },
-      "artists": [
-        {
-          "name": "Michael Johnson",
-          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Bluer Than Blue",
-      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Michael Johnson Album",
+        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
+      },
+      "artists": [
+        {
+          "name": "Michael Johnson",
+          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Bluer Than Blue",
+      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Spiral Staircase (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4g0FobFyVjCK1evYB6A4jY"
-      },
-      "artists": [
-        {
-          "name": "Ralph McTell",
-          "url": "https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "Streets of London",
-      "url": "https://open.spotify.com/track/0P49pJa288tm8gKbFcofn9"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 291866,
       "name": "The Name Of The Game",
       "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Spiral Staircase (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4g0FobFyVjCK1evYB6A4jY"
+      },
+      "artists": [
+        {
+          "name": "Ralph McTell",
+          "url": "https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/0P49pJa288tm8gKbFcofn9"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "All The Great Love Songs",
         "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 217426,
       "name": "Three Times A Lady",
       "url": "https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "I Robot (Expanded Edition)",
-        "url": "https://open.spotify.com/album/44VunLimdsXo2C6figBmwj"
-      },
-      "artists": [
-        {
-          "name": "The Alan Parsons Project",
-          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "I Wouldn't Want to Be Like You",
-      "url": "https://open.spotify.com/track/5dbcQ5D5EnBK4mO3Oygzeu"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Keeper Of The Castle",
         "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 187773,
       "name": "Ain't No Woman (Like The One I've Got)",
       "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "I Robot (Expanded Edition)",
+        "url": "https://open.spotify.com/album/44VunLimdsXo2C6figBmwj"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "I Wouldn't Want to Be Like You",
+      "url": "https://open.spotify.com/track/5dbcQ5D5EnBK4mO3Oygzeu"
     },
     {
       "added_at": "2022-09-23 05:26:33",

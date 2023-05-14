@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Angel Dior & Flow 28",
-  "num_followers": 84450,
+  "num_followers": 84533,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmU1YjgwZWVkMzg2NjQ4MWJkY2IzNzZkMmFiZmIxMGIyNTE5NzY3",
+  "snapshot_id": "MCxhZDA4NjRjMWI2NzgxNzVhY2FkZmFkOTY3MzYzZTRjOWQ0NTZlZDg0",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Superman Sin Capa",
+        "url": "https://open.spotify.com/album/5veo7dGGy2WgRuEJ9kBYnr"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "duration_ms": 230280,
+      "name": "Superman Sin Capa",
+      "url": "https://open.spotify.com/track/0DddndOK6s6sMu06cwNcFM"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Molly",
         "url": "https://open.spotify.com/album/2FoFaHoCjmLKxuA1bfi9BO"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 175333,
       "name": "Menea Tu Chapa",
       "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Superman Sin Capa",
-        "url": "https://open.spotify.com/album/5veo7dGGy2WgRuEJ9kBYnr"
-      },
-      "artists": [
-        {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
-        }
-      ],
-      "duration_ms": 230280,
-      "name": "Superman Sin Capa",
-      "url": "https://open.spotify.com/track/0DddndOK6s6sMu06cwNcFM"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Mueve Eso",
-        "url": "https://open.spotify.com/album/137Kiv3H9ygMvm5fGy8BcR"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Luigui Bleand",
-          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
-        }
-      ],
-      "duration_ms": 142862,
-      "name": "Mueve Eso",
-      "url": "https://open.spotify.com/track/05I7jRJLZWfHgnuv2w7f75"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Y Eso?",
         "url": "https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N"
       },
@@ -1115,6 +1095,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Mueve Eso",
+        "url": "https://open.spotify.com/album/137Kiv3H9ygMvm5fGy8BcR"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Luigui Bleand",
+          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
+        }
+      ],
+      "duration_ms": 142862,
+      "name": "Mueve Eso",
+      "url": "https://open.spotify.com/track/05I7jRJLZWfHgnuv2w7f75"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Plakiti",
         "url": "https://open.spotify.com/album/5F3LG8ycUgNQXnhgMYDEBf"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 135314,
       "name": "Plakiti",
       "url": "https://open.spotify.com/track/0qY84Aa0tT2okICVVrvhQU"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Yo Me Monto",
-        "url": "https://open.spotify.com/album/3ooHyFyPuv9lCPeVJaHLi6"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 172314,
-      "name": "Yo Me Monto",
-      "url": "https://open.spotify.com/track/4p6H5XmF6knuep5BFkLYgR"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 337339,
       "name": "CHOKOO",
       "url": "https://open.spotify.com/track/2FsQB3Gu39JwQUiR2TBaHa"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Yo Me Monto",
+        "url": "https://open.spotify.com/album/3ooHyFyPuv9lCPeVJaHLi6"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 172314,
+      "name": "Yo Me Monto",
+      "url": "https://open.spotify.com/track/4p6H5XmF6knuep5BFkLYgR"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Yo Quiero",
-        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
-      },
-      "artists": [
-        {
-          "name": "Sarodj",
-          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Yo Quiero",
-      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Alta Gama (Remix)",
         "url": "https://open.spotify.com/album/2tHgaFBDtWi0r8Mz3WOnKk"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 220706,
       "name": "Mensaje Directo (DM)",
       "url": "https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Yo Quiero",
+        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
+      },
+      "artists": [
+        {
+          "name": "Sarodj",
+          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Yo Quiero",
+      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1871,8 +1871,8 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "MANDA LA UBI",
-        "url": "https://open.spotify.com/album/4xBxE3eoLkI5n4gH5Jni8P"
+        "name": "El Que No Salta Es Paco (Remix)",
+        "url": "https://open.spotify.com/album/1JQPIPt2Ml2ALdzYUNMfLc"
       },
       "artists": [
         {
@@ -1880,21 +1880,21 @@
           "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
         },
         {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
           "name": "Carlitos Junior",
           "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
         },
         {
-          "name": "Balbi El Chamako",
-          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "Tracy McGrady",
+          "url": "https://open.spotify.com/artist/1hIultpwJP5CAVoT4qeNGH"
         }
       ],
-      "duration_ms": 234075,
-      "name": "MANDA LA UBI",
-      "url": "https://open.spotify.com/track/2S87nHmmhCD3qsKLwcCU74"
+      "duration_ms": 248209,
+      "name": "El Que No Salta Es Paco - Remix",
+      "url": "https://open.spotify.com/track/5WXnRHsxuuTKVzEbLT1Lnn"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "La Libreta",
-        "url": "https://open.spotify.com/album/1MZOBdiRgaQ7TvuGUzwzIN"
-      },
-      "artists": [
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        },
-        {
-          "name": "Atomic Otro Way",
-          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
-        }
-      ],
-      "duration_ms": 205348,
-      "name": "Ponte Freca",
-      "url": "https://open.spotify.com/track/66yTiMUt2nv74sPqiPqHEp"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Calle",
         "url": "https://open.spotify.com/album/69UK8GlVtjwme70scA812r"
       },
@@ -2007,8 +1987,28 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "El Que No Salta Es Paco (Remix)",
-        "url": "https://open.spotify.com/album/1JQPIPt2Ml2ALdzYUNMfLc"
+        "name": "La Libreta",
+        "url": "https://open.spotify.com/album/1MZOBdiRgaQ7TvuGUzwzIN"
+      },
+      "artists": [
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "Atomic Otro Way",
+          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+        }
+      ],
+      "duration_ms": 205348,
+      "name": "Ponte Freca",
+      "url": "https://open.spotify.com/track/66yTiMUt2nv74sPqiPqHEp"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "MANDA LA UBI",
+        "url": "https://open.spotify.com/album/4xBxE3eoLkI5n4gH5Jni8P"
       },
       "artists": [
         {
@@ -2016,21 +2016,21 @@
           "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
         },
         {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
           "name": "Carlitos Junior",
           "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
         },
         {
-          "name": "Kiddtetoon",
-          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
-        },
-        {
-          "name": "Tracy McGrady",
-          "url": "https://open.spotify.com/artist/1hIultpwJP5CAVoT4qeNGH"
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
         }
       ],
-      "duration_ms": 248209,
-      "name": "El Que No Salta Es Paco - Remix",
-      "url": "https://open.spotify.com/track/5WXnRHsxuuTKVzEbLT1Lnn"
+      "duration_ms": 234075,
+      "name": "MANDA LA UBI",
+      "url": "https://open.spotify.com/track/2S87nHmmhCD3qsKLwcCU74"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2207,26 +2207,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Lleg\u00f3 el Domi",
-        "url": "https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC"
-      },
-      "artists": [
-        {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "H\u00e1blale de Cualto",
-      "url": "https://open.spotify.com/track/4zRITqNT5onefyu56kOI9W"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "La Gente Ta' Loca (Remix)",
         "url": "https://open.spotify.com/album/7FSljR58CzFZISeEMj5bO1"
       },
@@ -2247,6 +2227,26 @@
       "duration_ms": 218487,
       "name": "La Gente Ta' Loca - Remix",
       "url": "https://open.spotify.com/track/1xnkJ7O4Sz7D6vxPyjZkQt"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Lleg\u00f3 el Domi",
+        "url": "https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC"
+      },
+      "artists": [
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "H\u00e1blale de Cualto",
+      "url": "https://open.spotify.com/track/4zRITqNT5onefyu56kOI9W"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2367,26 +2367,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Cambiando el Juego",
-        "url": "https://open.spotify.com/album/1JLwZcj57nk69vrlbCLym5"
-      },
-      "artists": [
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Los Pomposos (feat. Yomel El Meloso)",
-      "url": "https://open.spotify.com/track/1RgNUug3wnBqPNGKLHTnxG"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Co\u00f1o",
         "url": "https://open.spotify.com/album/36c1aJqb2XjJ8rr8qH4RfI"
       },
@@ -2407,6 +2387,26 @@
       "duration_ms": 181208,
       "name": "Co\u00f1o (with Puri & El Bloonel)",
       "url": "https://open.spotify.com/track/7sVPUTrksjfvDMyiDaAHWO"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Cambiando el Juego",
+        "url": "https://open.spotify.com/album/1JLwZcj57nk69vrlbCLym5"
+      },
+      "artists": [
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Los Pomposos (feat. Yomel El Meloso)",
+      "url": "https://open.spotify.com/track/1RgNUug3wnBqPNGKLHTnxG"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2543,6 +2543,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Latino 60 presenta Zumbando (US Edition) [Salsa Bachata Merengue Reggaeton Dembow Fitness]",
+        "url": "https://open.spotify.com/album/4R35k47ew84Pw8rEFAUXz0"
+      },
+      "artists": [
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "De Amor Nadie Se Muere",
+      "url": "https://open.spotify.com/track/1gqiddfDt6rVlXrA3OLWcH"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Flotaera",
         "url": "https://open.spotify.com/album/1pdt1WhLnsRZ2zZ9laqKe4"
       },
@@ -2559,22 +2575,6 @@
       "duration_ms": 144406,
       "name": "Flotaera",
       "url": "https://open.spotify.com/track/0axj1N7mJkA71nD8qNqLPM"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Latino 60 presenta Zumbando (US Edition) [Salsa Bachata Merengue Reggaeton Dembow Fitness]",
-        "url": "https://open.spotify.com/album/4R35k47ew84Pw8rEFAUXz0"
-      },
-      "artists": [
-        {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "De Amor Nadie Se Muere",
-      "url": "https://open.spotify.com/track/1gqiddfDt6rVlXrA3OLWcH"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2995,30 +2995,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Mente De Pecao (Remix)",
-        "url": "https://open.spotify.com/album/5ZANgJBteL8p3FJAYu6It8"
-      },
-      "artists": [
-        {
-          "name": "Diamond la Mafia",
-          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
-        },
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        },
-        {
-          "name": "Atomic Otro Way",
-          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
-        }
-      ],
-      "duration_ms": 200058,
-      "name": "Mente De Pecao - Remix",
-      "url": "https://open.spotify.com/track/1IOOAeDyZwGYqnLQCsEKrC"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Vaina Bakana",
         "url": "https://open.spotify.com/album/63VzRHrUrmftA2NbRrgzk8"
       },
@@ -3047,6 +3023,30 @@
       "duration_ms": 162037,
       "name": "Llevo la Vainita",
       "url": "https://open.spotify.com/track/0PtuUiKPpQqEp2W4CasynB"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Mente De Pecao (Remix)",
+        "url": "https://open.spotify.com/album/5ZANgJBteL8p3FJAYu6It8"
+      },
+      "artists": [
+        {
+          "name": "Diamond la Mafia",
+          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "Atomic Otro Way",
+          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+        }
+      ],
+      "duration_ms": 200058,
+      "name": "Mente De Pecao - Remix",
+      "url": "https://open.spotify.com/track/1IOOAeDyZwGYqnLQCsEKrC"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -3087,18 +3087,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "La Gomita",
-        "url": "https://open.spotify.com/album/1TQ1nTb1tVfHnQOUtXKTx4"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/6Q600rdy08nCJuabWw7qeR"
       },
       "artists": [
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
         }
       ],
-      "duration_ms": 163346,
-      "name": "La Gomita",
-      "url": "https://open.spotify.com/track/0QQbO11ji2wf2VitEQpCZL"
+      "duration_ms": 195492,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

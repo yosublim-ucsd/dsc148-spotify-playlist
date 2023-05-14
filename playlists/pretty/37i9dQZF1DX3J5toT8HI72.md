@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > Grandes músicas para você curtir com seu amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,095 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,195 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 59 | [Não É Comum Mas É Normal](https://open.spotify.com/track/3qK4cPOkKJ00tAWeFBFMXm) | [Lan Lanh](https://open.spotify.com/artist/7uPgOaM3jjmkwuua1RgZHg), [Nanda Costa](https://open.spotify.com/artist/1zWJTFpRoMlT21OaXniRsb) | [Não É Comum Mas É Normal](https://open.spotify.com/album/2BLOshVN7dKtfMzA89mQhH) | 3:25 |
 | 60 | [Ouro](https://open.spotify.com/track/1VJ93t38cXKJc58CZxyO2O) | [Jhama](https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma) | [Ouro](https://open.spotify.com/album/52gcfCi6jBmWSEg3DuNVeR) | 2:58 |
 
-Snapshot ID: `MCw4ZThkOTAyODc3ODhjNzlhOGY5OGVkZDViOTY3MzEwZTMzNWExNmJh`
+Snapshot ID: `MCxmNmVhYmI2OGU1ZWYzOGMyYWNiNTJhZmFmZWI5MGI4Y2NkOWE2Y2M2`

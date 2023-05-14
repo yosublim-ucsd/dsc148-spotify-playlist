@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 28335,
+  "num_followers": 28396,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTk3Mjg2NjA3MTljMjFmYmFkYWY0ZmM5MGE4NjY4Y2YwMTYwYWM1",
+  "snapshot_id": "MCwyMjc2N2JiYTkyYWNhNThjNDg1Njg3NGU2OTY2OTQwZTZhYzdmMWE1",
   "tracks": [
     {
       "added_at": "2023-05-11 23:00:00",
@@ -639,6 +639,26 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "HALLELUJAH (feat. Blaqbonez)",
+        "url": "https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "HALLELUJAH (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Overloading (OVERDOSE)",
         "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
       },
@@ -675,22 +695,18 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "HALLELUJAH (feat. Blaqbonez)",
-        "url": "https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z"
+        "name": "Love Is Not Enough, Vol. 2",
+        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 137142,
-      "name": "HALLELUJAH (feat. Blaqbonez)",
-      "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
+      "duration_ms": 149243,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -711,22 +727,6 @@
       "duration_ms": 213991,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Love Is Not Enough, Vol. 2",
-        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149243,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
@@ -827,18 +843,26 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+        "name": "Soweto (with Omah Lay & Tempoe)",
+        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Kolomental",
-      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+      "duration_ms": 182857,
+      "name": "Soweto (with Omah Lay & Tempoe)",
+      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -859,22 +883,6 @@
       "duration_ms": 155789,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -951,6 +959,42 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Dada (feat. Davido) [Remix]",
         "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
       },
@@ -967,22 +1011,6 @@
       "duration_ms": 177692,
       "name": "Dada (feat. Davido) [Remix]",
       "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1011,26 +1039,18 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Soweto (with Omah Lay & Tempoe)",
-        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Soweto (with Omah Lay & Tempoe)",
-      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
+      "duration_ms": 197000,
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1051,42 +1071,18 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
       "artists": [
         {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
         }
       ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Bienvenue",
-        "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
-      },
-      "artists": [
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bienvenue",
-      "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1111,18 +1107,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+        "name": "Bienvenue",
+        "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
       },
       "artists": [
         {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 211265,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+      "duration_ms": 176000,
+      "name": "Bienvenue",
+      "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "For Daddy",
+        "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 153232,
+      "name": "For Daddy",
+      "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Let There Be Light",
         "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
       },
@@ -1339,38 +1355,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Ara (Gen Gen Tin)",
-        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Ara (Gen Gen Tin)",
-      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "For Daddy",
-        "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 153232,
-      "name": "For Daddy",
-      "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Great Is He",
         "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 166801,
       "name": "Aboboyaa (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Ara (Gen Gen Tin)",
+        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Ara (Gen Gen Tin)",
+      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Otilo (Izz Gone)",
         "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 162782,
       "name": "Otilo (Izz Gone)",
       "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1491,6 +1491,26 @@
       "duration_ms": 186446,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Great Is He (Deluxe)",
+        "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 227313,
+      "name": "Celebrate (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1551,26 +1571,6 @@
       "duration_ms": 218230,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Great Is He (Deluxe)",
-        "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 227313,
-      "name": "Celebrate (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48"
     }
   ],
   "unique_name": "Party Dey!",

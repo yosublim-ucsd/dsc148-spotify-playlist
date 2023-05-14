@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que prende la fiesta!",
-  "num_followers": 567018,
+  "num_followers": 567638,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Njk2NWQyMzIxMGFlNTY3OTA0OTRjOTQzZDBkOTg4MzQ0NTI2NTll",
+  "snapshot_id": "MCw0YjdkMzliZjQ0MTI2ZTc3ZDY2YjIxMDAxMTdkYjZiZjgwYTgzMTU2",
   "tracks": [
     {
       "added_at": "2023-05-05 19:02:02",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-05-05 19:02:02",
       "album": {
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+    },
+    {
+      "added_at": "2023-05-05 19:02:02",
+      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
-    },
-    {
-      "added_at": "2023-05-05 19:02:02",
-      "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2023-05-05 19:02:02",
@@ -663,6 +663,54 @@
     {
       "added_at": "2023-05-05 19:02:02",
       "album": {
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 315293,
+      "name": "Sali\u00f3 El Sol",
+      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+    },
+    {
+      "added_at": "2023-05-05 19:02:02",
+      "album": {
+        "name": "Sola (Remix)",
+        "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 307910,
+      "name": "Sola (Remix)",
+      "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
+    },
+    {
+      "added_at": "2023-05-05 19:02:02",
+      "album": {
         "name": "God's Project",
         "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
@@ -679,22 +727,6 @@
       "duration_ms": 267786,
       "name": "Ella Y Yo - Featuring Don Omar",
       "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
-    },
-    {
-      "added_at": "2023-05-05 19:02:02",
-      "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 315293,
-      "name": "Sali\u00f3 El Sol",
-      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
     },
     {
       "added_at": "2023-05-05 19:02:02",
@@ -731,38 +763,6 @@
       "duration_ms": 176142,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
-    },
-    {
-      "added_at": "2023-05-05 19:02:02",
-      "album": {
-        "name": "Sola (Remix)",
-        "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 307910,
-      "name": "Sola (Remix)",
-      "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
     },
     {
       "added_at": "2023-05-05 19:02:02",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-05-05 19:02:02",
       "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2023-05-05 19:02:02",
+      "album": {
         "name": "Butakera",
         "url": "https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 143402,
       "name": "Butakera",
       "url": "https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH"
-    },
-    {
-      "added_at": "2023-05-05 19:02:02",
-      "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2023-05-05 19:02:02",
@@ -1551,6 +1551,30 @@
     {
       "added_at": "2023-05-05 19:02:02",
       "album": {
+        "name": "KrING",
+        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "HASTA ABAJO",
+      "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
+    },
+    {
+      "added_at": "2023-05-05 19:02:02",
+      "album": {
         "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
         "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
       },
@@ -1575,30 +1599,6 @@
       "duration_ms": 229426,
       "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
       "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
-    },
-    {
-      "added_at": "2023-05-05 19:02:02",
-      "album": {
-        "name": "KrING",
-        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
-      },
-      "artists": [
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "HASTA ABAJO",
-      "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
     },
     {
       "added_at": "2023-05-05 19:02:02",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-05-05 19:02:02",
       "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
-    },
-    {
-      "added_at": "2023-05-05 19:02:02",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 256519,
       "name": "Cuando Te Bes\u00e9",
       "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
+    },
+    {
+      "added_at": "2023-05-05 19:02:02",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2023-05-05 19:02:02",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2023-05-05 19:02:02",
       "album": {
-        "name": "CALLEJERO FINO | Mission 10",
-        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 168994,
-      "name": "CALLEJERO FINO | Mission 10",
-      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
-    },
-    {
-      "added_at": "2023-05-05 19:02:02",
-      "album": {
         "name": "Fiel (Remix)",
         "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
       },
@@ -2055,18 +2035,22 @@
     {
       "added_at": "2023-05-05 19:02:02",
       "album": {
-        "name": "D\u00f3nde Est\u00e1s",
-        "url": "https://open.spotify.com/album/0ZyvU9dSoBua8NOYnAP0x3"
+        "name": "CALLEJERO FINO | Mission 10",
+        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         }
       ],
-      "duration_ms": 153560,
-      "name": "D\u00f3nde Est\u00e1s",
-      "url": "https://open.spotify.com/track/16DNJ8y6k97DxuMyV49W7V"
+      "duration_ms": 168994,
+      "name": "CALLEJERO FINO | Mission 10",
+      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
     },
     {
       "added_at": "2023-05-05 19:02:02",
@@ -2083,6 +2067,22 @@
       "duration_ms": 194800,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
+    },
+    {
+      "added_at": "2023-05-05 19:02:02",
+      "album": {
+        "name": "D\u00f3nde Est\u00e1s",
+        "url": "https://open.spotify.com/album/0ZyvU9dSoBua8NOYnAP0x3"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "D\u00f3nde Est\u00e1s",
+      "url": "https://open.spotify.com/track/16DNJ8y6k97DxuMyV49W7V"
     },
     {
       "added_at": "2023-05-05 19:02:02",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2023-05-05 19:02:02",
       "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 194989,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
+    },
+    {
+      "added_at": "2023-05-05 19:02:02",
+      "album": {
         "name": "Poblado",
         "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 201596,
       "name": "Poblado",
       "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
-    },
-    {
-      "added_at": "2023-05-05 19:02:02",
-      "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 194989,
-      "name": "Color\u00edn Colorado",
-      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
     }
   ],
   "unique_name": "Joda",

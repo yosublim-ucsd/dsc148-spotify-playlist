@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-255 songs - 13 hr 54 min
+256 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 | 2021-12-25 | 2022-04-08 |
 | [Jabha Fraso](https://open.spotify.com/track/5lS1g9BokChTZaLbymsxbz) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [Jabha Fraso](https://open.spotify.com/album/6vUgmqUiOCNQT7HBGJt859) | 3:19 | 2022-05-10 | 2022-06-25 |
 | [Jamais de la vie](https://open.spotify.com/track/6RzXRaw6AnyIvK7tDLppd4) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Jamais de la vie](https://open.spotify.com/album/2PcSVRu7i7SCeEJl6iDXTy) | 3:49 | 2022-11-07 | 2023-02-03 |
-| [Je sais que t'as mal](https://open.spotify.com/track/3TwCVgOkFhx6CBFYUYnPzP) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Je sais que t'as mal](https://open.spotify.com/album/6kKGhPm6m2GagsZdW34Qui) | 2:35 | 2023-03-22 |  |
+| [Je sais que t'as mal](https://open.spotify.com/track/3TwCVgOkFhx6CBFYUYnPzP) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Je sais que t'as mal](https://open.spotify.com/album/6kKGhPm6m2GagsZdW34Qui) | 2:35 | 2023-03-22 | 2023-05-14 |
 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 | 2023-02-26 |  |
 | [JMI](https://open.spotify.com/track/1PlEAxwiW6xk3rrVDlztcB) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [JMI](https://open.spotify.com/album/7gwIZVNyGFEZf9993pp78W) | 3:37 | 2023-05-08 |  |
 | [JOANA](https://open.spotify.com/track/2uIua5r0wjdDpnLb50j1w6) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [JOANA](https://open.spotify.com/album/1vVJee8FApTIXNgiQXxf2O) | 3:01 | 2023-02-09 | 2023-02-21 |
@@ -165,6 +165,7 @@
 | [Mali](https://open.spotify.com/track/5SF2WNB9s2MPDhZjF4opBG) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Méditerranée](https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt) | 2:36 | 2022-10-10 | 2022-10-12 |
 | [Maliach](https://open.spotify.com/track/1pUhEW4SsZjUZ6qs669zPs) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Maliach](https://open.spotify.com/album/3mXeI0v55leircJtBVNAyT) | 2:53 | 2023-02-21 |  |
 | [Mamacita](https://open.spotify.com/track/4P8HPmYPNCNxqHlYMovXRv) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [G.O.A.T](https://open.spotify.com/album/6NiSCshnU058O2fJ03ahDc) | 3:18 | 2022-03-05 | 2022-05-27 |
+| [Mandem](https://open.spotify.com/track/68n0XVahvsr0v0usJzykTH) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Mandem](https://open.spotify.com/album/4Lvndlgi6IBB4L4jn6d6RF) | 4:38 | 2023-05-13 |  |
 | [Mankhalik Matkhalini](https://open.spotify.com/track/7IxGDdtOCXlgsnZGtQCL8P) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Yousra](https://open.spotify.com/artist/2hCrlLMEy5nMm00yVVOY6h) | [Mankhalik Matkhalini](https://open.spotify.com/album/5l8TksASDKz7pmNFIt77gh) | 3:31 | 2021-12-25 | 2022-01-28 |
 | [Marfoud](https://open.spotify.com/track/56Bs6dWaxizARR9y1Ghs5y) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Marfoud](https://open.spotify.com/album/0xaytxkgDNmIjvnh1pCQ9p) | 3:23 | 2021-12-25 | 2022-03-15 |
 | [Maria](https://open.spotify.com/track/2ieat98TO6yujpLeTsb9U4) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:13 | 2023-01-06 | 2023-02-19 |

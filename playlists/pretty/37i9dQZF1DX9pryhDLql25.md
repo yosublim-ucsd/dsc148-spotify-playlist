@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > pov: fresh produce is in your reusable tote, the flowers are in bloom, and you’re sipping on an iced coffee perusing through knick knacks
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,128 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,208 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 49 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
 | 50 | [I Am Not Afraid](https://open.spotify.com/track/5pD6DyYeglUby2x5CXrqfA) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [In the Night](https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh) | 2:44 |
 
-Snapshot ID: `MCxmYzZjMmE3MThmYjg0YzliNGI4MTIzYWE3ZDMwOWQ1YTkwYjIzZjdh`
+Snapshot ID: `MCxhODZhY2U2N2JlZjNhNzVhYjY0NTc1MmU3Y2U1ZWIyOTQ1YzQ0ZGZh`

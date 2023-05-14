@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Gentle Bones",
-  "num_followers": 10967,
+  "num_followers": 10988,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzA2ZDcyNWRkMzQ3ZGFjZmVjYmYwYTJmOWVmZDc5NjdmZGVjZjc0",
+  "snapshot_id": "MCw1MDliNzQ1ODVkMjQwNDQ3MGQxMmZmZDc5MjZlZjQ1MDE4ZTU5NTkw",
   "tracks": [
     {
       "added_at": "2023-05-11 16:00:00",
@@ -217,7 +217,7 @@
       "artists": [
         {
           "name": "Adam Shamil",
-          "url": "https://open.spotify.com/artist/1I5vpxVAdm5ENsPwqJ6n83"
+          "url": "https://open.spotify.com/artist/265xQSicrleiCPLKL5x80w"
         }
       ],
       "duration_ms": 193954,
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
+        "name": "Dreamin' of You",
+        "url": "https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 188131,
+      "name": "Dreamin' of You",
+      "url": "https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U"
+    },
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
         "name": "Tutur Batin",
         "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
-        "name": "Dreamin' of You",
-        "url": "https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 188131,
-      "name": "Dreamin' of You",
-      "url": "https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U"
-    },
-    {
-      "added_at": "2023-05-11 16:00:00",
-      "album": {
         "name": "Hal Hebat (Cover)",
         "url": "https://open.spotify.com/album/3uokqKRBBG16lrgwUNVIO0"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 251454,
       "name": "Terima Kasih Cinta",
       "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
-    },
-    {
-      "added_at": "2023-05-11 16:00:00",
-      "album": {
-        "name": "Merakit",
-        "url": "https://open.spotify.com/album/5u9zb0LiJTVpTyhNUgNkLp"
-      },
-      "artists": [
-        {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Buka Hati",
-      "url": "https://open.spotify.com/track/3TuqUJ3OXEc68FdhoE2kaU"
     },
     {
       "added_at": "2023-05-11 16:00:00",
@@ -811,6 +795,22 @@
       "duration_ms": 264644,
       "name": "Terus Hidup",
       "url": "https://open.spotify.com/track/3sUY5xI83n8KX0rjpfxoQu"
+    },
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
+        "name": "Merakit",
+        "url": "https://open.spotify.com/album/5u9zb0LiJTVpTyhNUgNkLp"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Buka Hati",
+      "url": "https://open.spotify.com/track/3TuqUJ3OXEc68FdhoE2kaU"
     },
     {
       "added_at": "2023-05-11 16:00:00",

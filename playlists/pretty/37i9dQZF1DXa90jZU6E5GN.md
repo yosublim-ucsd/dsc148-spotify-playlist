@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 
 > make the whole place shimmer ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,587 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,934 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 67 | [Potential Breakup Song](https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/49mFTJkOKu0labagCQyURy) | 3:38 |
 | 68 | [Independence Day](https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Way That I Am](https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d) | 3:24 |
 | 69 | [The Way You Love Me](https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 3:06 |
-| 70 | [Better Dig Two](https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1) | 3:14 |
+| 70 | [Hell on Heels](https://open.spotify.com/track/0sgnJ5LFjEy2IuQ99NEZ1C) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Hell On Heels](https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc) | 3:14 |
 | 71 | [Dirty Laundry](https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:24 |
-| 72 | [Hell on Heels](https://open.spotify.com/track/0sgnJ5LFjEy2IuQ99NEZ1C) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Hell On Heels](https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc) | 3:14 |
-| 73 | [Ready to Run](https://open.spotify.com/track/7yNTZj1ugKCeRJdSP1meOk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 3:51 |
+| 72 | [Ready to Run](https://open.spotify.com/track/7yNTZj1ugKCeRJdSP1meOk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 3:51 |
+| 73 | [Better Dig Two](https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1) | 3:14 |
 | 74 | [Wasting All These Tears](https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Frame By Frame](https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn) | 3:35 |
 | 75 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 76 | [John Wayne](https://open.spotify.com/track/3d0VZU6Mf2hdZRHA4zry8S) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 2:54 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 91 | [I Feel A Sin Comin' On](https://open.spotify.com/track/2UJCeZzKOzrH6utaz7NoFr) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Annie Up](https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG) | 3:18 |
 | 92 | [Off The Deep End](https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Off The Deep End](https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f) | 3:16 |
 | 93 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 |
-| 94 | [Buy My Own Drinks](https://open.spotify.com/track/3WBY2lhKzkxaG5bNscQrOG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/0BUbVHeDmGXl3lzOENF9Wc) | 3:26 |
-| 95 | [It Didn't](https://open.spotify.com/track/6ITA2Sf9ksBL8uCDPBaRcM) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [It Didn't](https://open.spotify.com/album/1w7fYtjzCp5c04VqpQclVd) | 2:58 |
+| 94 | [It Didn't](https://open.spotify.com/track/6ITA2Sf9ksBL8uCDPBaRcM) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [It Didn't](https://open.spotify.com/album/1w7fYtjzCp5c04VqpQclVd) | 2:58 |
+| 95 | [Buy My Own Drinks](https://open.spotify.com/track/3WBY2lhKzkxaG5bNscQrOG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/0BUbVHeDmGXl3lzOENF9Wc) | 3:26 |
 | 96 | [I CAN'T HELP MYSELF](https://open.spotify.com/track/5NZviEn3DnOa2ZYqP5gIl2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:21 |
 | 97 | [Diane](https://open.spotify.com/track/6UJnsETEQRL6kZtSUy2nFF) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:32 |
 | 98 | [Paris \(Ooh La La\)](https://open.spotify.com/track/34saS5yPSyoZ6QYwC7YGfe) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [Grace Potter & The Nocturnals](https://open.spotify.com/album/24DTOqINfaO2aJFKws5xHp) | 3:15 |
 | 99 | [You And I](https://open.spotify.com/track/6szOfaZn6H3rZXnUqgJ4R7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 5:07 |
 | 100 | [Piece of My Heart](https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 4:01 |
 
-Snapshot ID: `MCwyZTExNThlZmFjOTg0ZmI1MDhkNGQ2ZDkzNjE2NzIwMWRlOTY5ZjVl`
+Snapshot ID: `MCwzOGE3ZmVmY2E0ZDNhMjkxMDNmZjJmZjA0NjYxYzQ3ZTdlNWZjODEw`

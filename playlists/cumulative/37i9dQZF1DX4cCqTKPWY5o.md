@@ -4,7 +4,7 @@
 
 > Move it and groove it to these great tunes!
 
-92 songs - 4 hr 52 min
+93 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/track/1bxa0TPdBMHPeZFHe0adCw) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/album/40Obfin2HVz6rEL5kIqstb) | 2:54 | 2022-03-31 | 2022-11-13 |
 | [Everything Is Awesome!!!](https://open.spotify.com/track/65DU3ad0BY3N1TNn58ofmK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [The LEGO® Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3is3Hewrn1qkXlgCSoPe3t) | 2:43 | 2022-03-31 | 2022-07-29 |
 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 | 2022-07-15 |  |
-| [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:42 | 2022-03-31 |  |
+| [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:42 | 2022-03-31 | 2023-05-14 |
 | [Fancy Like](https://open.spotify.com/track/0zvvCso2UalzEEc8MLJPFx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:21 | 2022-03-31 | 2022-07-12 |
 | [Fever](https://open.spotify.com/track/3tkBrXOx3LGwtAgSq09JaP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Fever](https://open.spotify.com/album/02NQLQzsXIOFAO5QSIvSn4) | 2:20 | 2022-03-31 | 2022-07-23 |
 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 | 2022-03-31 |  |
@@ -85,6 +85,7 @@
 | [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 | 2022-03-31 | 2022-06-01 |
 | [Sharky Shuffle](https://open.spotify.com/track/39u8hIOvO92EaXnXN71NFp) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Baby Shark Workout](https://open.spotify.com/album/3JubnncU4MHZxvcQrLaoJO) | 1:10 | 2022-03-31 | 2022-07-16 |
 | [STAY](https://open.spotify.com/track/2IKHl3w9vstJH5bGuFOKnf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [STAY](https://open.spotify.com/album/4beiC4EtRtovImB28vhtYk) | 2:19 | 2022-03-31 | 2022-07-28 |
+| [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 | 2023-05-13 |  |
 | [Sunroof](https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:27 | 2023-01-20 |  |
 | [Supalonely](https://open.spotify.com/track/69OnePtJae8GBBJ884fU86) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Supalonely](https://open.spotify.com/album/0Y1syKjdu4ysX2nGTG7gPw) | 3:41 | 2022-03-31 | 2022-07-05 |
 | [Take on Me \- Kygo Remix](https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Take on Me \(Kygo Remix\)](https://open.spotify.com/album/3R2Movau61LViutgG8JYtV) | 3:46 | 2022-03-31 |  |

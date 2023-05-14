@@ -1,12 +1,12 @@
 {
   "description": "~ have a lovely time ~",
-  "num_followers": 128331,
+  "num_followers": 128476,
   "original_name": "The Picnic List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGY4Y2U5MjBhOTBlMDAwMjUxZDBiNWE4ZmYwNzkzYzI2NzlmMTMy",
+  "snapshot_id": "MCw3OWEzMDNhOGNhMDU1MzVkYjliMjNkMjdmZDUyNzNiMDQzMDIyNGU3",
   "tracks": [
     {
       "added_at": "2023-05-03 09:55:39",
@@ -84,7 +84,7 @@
           "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
         }
       ],
-      "duration_ms": 133540,
+      "duration_ms": 131590,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz"
     },
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
+        "name": "4runner",
+        "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 265453,
+      "name": "4runner",
+      "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
         "name": "Crowded House",
         "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 160280,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
-        "name": "4runner",
-        "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 265453,
-      "name": "4runner",
-      "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 153205,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "Loving is Easy",
         "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 155720,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 153205,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "the rainbow cassette",
-        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 125256,
-      "name": "dumb dumb",
-      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "Billy Ocean (Expanded Edition)",
         "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 179013,
       "name": "Love Really Hurts Without You",
       "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "the rainbow cassette",
+        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 125256,
+      "name": "dumb dumb",
+      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Backyard Boy (Stripped)",
-        "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 129240,
-      "name": "Backyard Boy",
-      "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 369600,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "Backyard Boy (Stripped)",
+        "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 129240,
+      "name": "Backyard Boy",
+      "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Everybody Needs Someone (feat. Vance Joy)",
-        "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 178819,
-      "name": "Everybody Needs Someone (feat. Vance Joy)",
-      "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "Everybody Needs Someone (feat. Vance Joy)",
+        "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 178819,
+      "name": "Everybody Needs Someone (feat. Vance Joy)",
+      "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 230146,
       "name": "So Good At Being in Trouble",
       "url": "https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 394266,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "Shut Down, Vol. 2 (Remastered)",
         "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 169933,
       "name": "Don't Worry Baby - Remastered 2001",
       "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 394266,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
       "added_at": "2023-05-03 09:55:39",

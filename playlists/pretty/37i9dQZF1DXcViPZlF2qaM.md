@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,496 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,552 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 14 | [Llévame en un Beso](https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Película Muda, Pt\. 2](https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW) | 5:03 |
 | 15 | [Reza en Voz Alta](https://open.spotify.com/track/3iXA6VYCudT4ZaKw7xBHKT) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Reza en Voz Alta](https://open.spotify.com/album/3modoSnNXdsJx7c6rUqfg4) | 4:00 |
 | 16 | [Lluvia con Nieve](https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averiguá](https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY) | 2:57 |
-| 17 | [Canción de Bañar la Luna](https://open.spotify.com/track/518wotaL3vqUUBCyGV2WSb) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Uno](https://open.spotify.com/album/7lhWIJPpVRmPU1ozYnRtdE) | 2:53 |
-| 18 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
+| 17 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
+| 18 | [Canción de Bañar la Luna](https://open.spotify.com/track/518wotaL3vqUUBCyGV2WSb) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Uno](https://open.spotify.com/album/7lhWIJPpVRmPU1ozYnRtdE) | 2:53 |
 | 19 | [Pajarito colibrí](https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:08 |
 | 20 | [Guajira Sicodélica](https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Sicodélicos](https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12) | 3:32 |
 | 21 | [La Vida](https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:37 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 38 | [Silencio](https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:38 |
 | 39 | [La Cumbia Del Cafe Martinez](https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 3:57 |
 | 40 | [Duda Morena](https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX) | 4:53 |
-| 41 | [Kristina](https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Kristina](https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT) | 3:58 |
-| 42 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
+| 41 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
+| 42 | [Kristina](https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Kristina](https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT) | 3:58 |
 | 43 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 |
 | 44 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
 | 45 | [Tú Ve](https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tú Ve](https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4) | 3:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 59 | [Chango](https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt) | 3:38 |
 | 60 | [Supersticioso](https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Instantes Decisivos Edición Deluxe](https://open.spotify.com/album/1UhsU0waoToMeZcaG5W13w) | 2:46 |
 
-Snapshot ID: `MCxlMTkxZjI4NzE3YjE2YjQxNzM3ODU5YWY0YzViMjUwZmMyZjZlMWJm`
+Snapshot ID: `MCwzYzdkZWY3OWMwNDNmNjY3MTQzMmI3ZTE4MWY1NmE5MmNmYzgwY2U2`

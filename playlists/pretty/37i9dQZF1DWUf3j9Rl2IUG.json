@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV?si=ynr0I0KxSX6SD4OsUgCRUQ\"> Kizz Daniel</a> ",
-  "num_followers": 55577,
+  "num_followers": 55721,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGFmZTZmZDY4YjJhZDI0M2JiNDE4ZGQ4ZWJiZGRiNzAwZGIyM2Y5",
+  "snapshot_id": "MCw5NmIxNDBlNDZhN2M4NmU2MzllNWY3MjNjYjdkMmM0NTlmNjA3ZTE4",
   "tracks": [
     {
       "added_at": "2023-05-11 23:00:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Duffel Bag",
+        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 127067,
+      "name": "Duffel Bag",
+      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "GWAGWALADA",
         "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Duffel Bag",
-        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 127067,
-      "name": "Duffel Bag",
-      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Bandana",
         "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Who Is Your Guy?",
-        "url": "https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        }
-      ],
-      "duration_ms": 160407,
-      "name": "Who Is Your Guy?",
-      "url": "https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "HALLELUJAH (feat. Blaqbonez)",
         "url": "https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 137142,
       "name": "HALLELUJAH (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Who Is Your Guy?",
+        "url": "https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "duration_ms": 160407,
+      "name": "Who Is Your Guy?",
+      "url": "https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -763,38 +763,26 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+        "name": "Soweto (with Omah Lay & Tempoe)",
+        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Kolomental",
-      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Who Is Your Guy? (Remix)",
-        "url": "https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Who Is Your Guy? - Remix",
-      "url": "https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px"
+      "duration_ms": 182857,
+      "name": "Soweto (with Omah Lay & Tempoe)",
+      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -819,22 +807,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Omo Ope",
         "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
       },
@@ -851,6 +823,22 @@
       "duration_ms": 166153,
       "name": "Omo Ope (feat. Olamide)",
       "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -875,6 +863,26 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Who Is Your Guy? (Remix)",
+        "url": "https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Who Is Your Guy? - Remix",
+      "url": "https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Traboski",
         "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
       },
@@ -891,26 +899,18 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Soweto (with Omah Lay & Tempoe)",
-        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Soweto (with Omah Lay & Tempoe)",
-      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
+      "duration_ms": 197000,
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Grit & Lust",
         "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 153523,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 211265,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "For Daddy",
+        "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 153232,
+      "name": "For Daddy",
+      "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Let There Be Light",
         "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "For Daddy",
-        "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 153232,
-      "name": "For Daddy",
-      "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Currency",
         "url": "https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT"
       },
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 186446,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2023-05-11 23:00:00",

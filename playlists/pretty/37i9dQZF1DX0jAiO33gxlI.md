@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Coruja Bc1, Mc Luanna, Febem
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,849 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,873 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 9 | [Taz Mania](https://open.spotify.com/track/5ahYKNg76j1PzLWfOQ9JyB) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG) | [Taz Mania](https://open.spotify.com/album/3JAKgyTMTA8bfS48g6IL7e) | 2:29 |
 | 10 | [Pedaço do Céu](https://open.spotify.com/track/0qP9VZOspgCzkDff3Xcl92) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [TK](https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j) | [Pedaço do Céu](https://open.spotify.com/album/3dPqGV0oeig8vHcCVWPfW3) | 3:14 |
 | 11 | [Temporal](https://open.spotify.com/track/34GZuwizVX296NJvDEYsm6) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Temporal](https://open.spotify.com/album/3GgZ4RkxYss5bwINbxE85d) | 4:37 |
-| 12 | [Desde Que Eu Não Tinha Nada](https://open.spotify.com/track/5RcI8wb122fcezQ3x8UjIT) | [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul), [Drako](https://open.spotify.com/artist/0t8ncMSqGZOIly3U2hlbMp) | [Desde Que Eu Não Tinha Nada](https://open.spotify.com/album/1NxlweKjAoZCVaqtplaYBa) | 2:34 |
+| 12 | [Desde Que Eu Não Tinha Nada](https://open.spotify.com/track/5RcI8wb122fcezQ3x8UjIT) | [Drako](https://open.spotify.com/artist/0t8ncMSqGZOIly3U2hlbMp), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Desde Que Eu Não Tinha Nada](https://open.spotify.com/album/1NxlweKjAoZCVaqtplaYBa) | 2:34 |
 | 13 | [Lote 88](https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Lote 88](https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY) | 3:42 |
 | 14 | [Lei do Pêndulo](https://open.spotify.com/track/6oYxXoVIpiAylIhEx2a8NW) | [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Dropallien](https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD) | [Lei do Pêndulo](https://open.spotify.com/album/6VmXelVoetY2g4mZDAEzcT) | 3:18 |
 | 15 | [Verde Online](https://open.spotify.com/track/30QhGizp9OMGqbskR9WLWx) | [Set](https://open.spotify.com/artist/3DCEBDdzHGVNYKpBtaDx8Q), [BRK Mallone](https://open.spotify.com/artist/0G2IMBWGCrKOWPwFIhM3Ye) | [Complexo Guache](https://open.spotify.com/album/19lTjd5ID3ZiFFwtWb1W4C) | 2:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/track/07UJUwwyi3JLEEtbawn3CL) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/2O5WdoR4ZPa7PtVdT16Nzo) | 5:09 |
 | 75 | [Real Drill](https://open.spotify.com/track/3gpSCMnVZELrg4b5oMmRIN) | [Favela Cria](https://open.spotify.com/artist/5wVwUloN5ZKdvMQiUMoDsO), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH), [Índio ADL](https://open.spotify.com/artist/1ultT7e5kxNqpJ0ygWz9wQ) | [Real Drill](https://open.spotify.com/album/5KtB6XyDMiqSQibKfcmzqp) | 4:38 |
 
-Snapshot ID: `MCw4NmRkNWJhNTliNzQxMjQ0NTdmYTAzOTYxMzk1NTNmYmI2OGY5MTYy`
+Snapshot ID: `MCw1MTNiMzdjZjE4NzljMDVkMjQzZDc2YmVkZTQxNjVhOGUyMDFiNjNm`

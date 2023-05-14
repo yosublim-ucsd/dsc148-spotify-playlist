@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1073645,
+  "num_followers": 1073721,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzgwNzkyZWQ5ZDZhZTg5ZGUxY2YzMmRkYzRlNDI0ZDU2MTQwYmE1",
+  "snapshot_id": "MCwyMjhkNzA0Yjc3NjY0ZGQ3MGIyZGM4OWEzM2E2Yjg3OGI3ZmFjMmMy",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -383,6 +383,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+      },
+      "artists": [
+        {
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 205200,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Come and Get Your Love",
-        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
-      },
-      "artists": [
-        {
-          "name": "Redbone",
-          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Come and Get Your Love - Single Version",
-      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -563,6 +563,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -611,18 +611,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK"
-      },
-      "artists": [
-        {
-          "name": "Karmin",
-          "url": "https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG"
-        }
-      ],
-      "duration_ms": 227146,
-      "name": "Brokenhearted",
-      "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "You Can't Stop The Bum Rush",
         "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 265533,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK"
+      },
+      "artists": [
+        {
+          "name": "Karmin",
+          "url": "https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG"
+        }
+      ],
+      "duration_ms": 227146,
+      "name": "Brokenhearted",
+      "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "The Soul Sessions",
-        "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Super Duper Love",
-      "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "You Got the Love",
         "url": "https://open.spotify.com/album/2FkSbzjwgmF6KvU2tQCOgs"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 193600,
       "name": "You Got The Love - New Voyager Radio Edit",
       "url": "https://open.spotify.com/track/1otmOO4ilwTSIUDBnR6wCF"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "The Soul Sessions",
+        "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Super Duper Love",
+      "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/5D7wyvS4OM7u1PvEH2k3FO"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 205250,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2020-08-27 16:10:25",

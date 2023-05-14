@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,113 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,141 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 45 | [Tierra Mestiza](https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l) | [Gerardo Tamez](https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF), [Terceto De Guitarras De La Ciudad De Mexico](https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV) | [Querencia](https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL) | 3:39 |
 | 46 | [Ilha Do Amor](https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi) | [Ailani Akoni](https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k) | [Ilha Do Amor](https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43) | 2:27 |
 | 47 | [Isla de los Bienaventurados \(Bulerías\)](https://open.spotify.com/track/3CHxIC1JZewDlGqR039lrt) | [Cañizares](https://open.spotify.com/artist/1PySKBegwK588WYnOnrsPP) | [El Mito de la Caverna](https://open.spotify.com/album/0SD94n8I6upvFQolNEblFl) | 3:48 |
-| 48 | [Black Orpheus](https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 3:01 |
+| 48 | [Siena](https://open.spotify.com/track/6hebly36sQyqXZerurmsuO) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:11 |
 | 49 | [My Foolish Heart](https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Paz](https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k) | 5:04 |
-| 50 | [Siena](https://open.spotify.com/track/6hebly36sQyqXZerurmsuO) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:11 |
+| 50 | [Black Orpheus](https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 3:01 |
 | 51 | [Vivienne \- Rumba](https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv) | [Rafael Cortés](https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY) | [Asi lo siento](https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD) | 3:17 |
-| 52 | [Rumbita \(Guitar Version\)](https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ) | [Guitarras De Oro](https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M) | [Música De España](https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC) | 3:41 |
-| 53 | [Bossanova in My Heart](https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [Only In Paris](https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw) | 2:58 |
+| 52 | [Bossanova in My Heart](https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [Only In Paris](https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw) | 2:58 |
+| 53 | [Rumbita \(Guitar Version\)](https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ) | [Guitarras De Oro](https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M) | [Música De España](https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC) | 3:41 |
 | 54 | [Tiempos Pasados](https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Parque De María Luisa](https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI) | 2:14 |
 | 55 | [La Fuente](https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [La Fuente](https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J) | 2:42 |
 | 56 | [Meu coração](https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3) | [Xavier Hermenegildo](https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC) | [Meu coração](https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq) | 2:23 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 69 | [Adelita Mazurka](https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Spanish Guitar EP](https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk) | 2:12 |
 | 70 | [El Primero](https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [El Primero](https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV) | 2:24 |
 | 71 | [Tristango](https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Tristango](https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC) | 3:19 |
-| 72 | [Libertango](https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Latin Style](https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu) | 4:06 |
-| 73 | [Dan\-Son](https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2) | [Enrico Chapela](https://open.spotify.com/artist/2nJVCarJHG5EjOGTitbA4K), [Cuarteto de Guitarras de la Ciudad de México](https://open.spotify.com/artist/2QL42RATuYg1tMBhGDFwBV) | [Sones y Danzones de Buena Madera](https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00) | 6:10 |
-| 74 | [Tavernas' Hasapikos \- Instrumental](https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06) | [Yiorgos Zabetas](https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM) | [Colours of Greece / Instrumentals of Greek Music](https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w) | 2:40 |
+| 72 | [Tavernas' Hasapikos \- Instrumental](https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06) | [Yiorgos Zabetas](https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM) | [Colours of Greece / Instrumentals of Greek Music](https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w) | 2:40 |
+| 73 | [Libertango](https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Latin Style](https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu) | 4:06 |
+| 74 | [Dan\-Son](https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2) | [Enrico Chapela](https://open.spotify.com/artist/2nJVCarJHG5EjOGTitbA4K), [Cuarteto de Guitarras de la Ciudad de México](https://open.spotify.com/artist/2QL42RATuYg1tMBhGDFwBV) | [Sones y Danzones de Buena Madera](https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00) | 6:10 |
 | 75 | [Porgy and Bess: Summertime \- The Sound of Music: My Favorite Things \- Autumn Leaves \(arr\. J\. Carter\)](https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Contemporary Spanish Guitar: Kindred Spirits](https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV) | 6:42 |
 
-Snapshot ID: `MCwxMWIzY2FkYzQ4YzAxZWMwZWMwNDU1MTI1ZTg0ZWFlMWYwMTM4ZTcw`
+Snapshot ID: `MCw2Y2JiZThhZTUwODNlOWRjYjRmMGY3MDA4NmU0NmVmOWVkNDZiNzg3`

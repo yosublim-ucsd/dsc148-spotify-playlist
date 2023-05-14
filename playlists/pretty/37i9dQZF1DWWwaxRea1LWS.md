@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Celebrate 10 years of Random Access Memories and party like it's the early 2010s\. Cover: Daft Punk\.  \#SpotifyTBT
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,214,998 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,215,360 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 |
 | 50 | [Lights \- Single Version](https://open.spotify.com/track/5qftsSFD6Qgndcx13SSqQj) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) | 3:31 |
 
-Snapshot ID: `MCxkMTYwM2IwMjIxMmZlYWNlOGNjNTVlMDlhYzQyODc2MTE3NjgwNTIw`
+Snapshot ID: `MCw3MWY3YjFmNTBhMGM0ZGFkYWE3YjUyMTFmMjNiMWY0NjgwMGE4YWRl`

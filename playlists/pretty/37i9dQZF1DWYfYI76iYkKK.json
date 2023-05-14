@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 119401,
+  "num_followers": 119452,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWJmODA4NGIxYzZmZDZjYmVlOWZiNWQ3ZTNjZGMzMGFhMTk0NDA2",
+  "snapshot_id": "MCxmZWFjZDc0M2Q3M2JiNmExNjkzY2M3ZGE5MjYyMDJjN2U1NDQyY2Jl",
   "tracks": [
     {
       "added_at": "2023-05-11 16:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
-        "name": "\u8b0e\u4e4b\u97f3",
-        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
-      },
-      "artists": [
-        {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
-        }
-      ],
-      "duration_ms": 301666,
-      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
-      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
-    },
-    {
-      "added_at": "2023-05-11 16:00:00",
-      "album": {
         "name": "\u623f\u9593\u88e1\u7684\u5927\u8c61",
         "url": "https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 205371,
       "name": "\u6b63\u60f3\u8457\u4f60\u5462",
       "url": "https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry"
+    },
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
+        "name": "\u8b0e\u4e4b\u97f3",
+        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        }
+      ],
+      "duration_ms": 301666,
+      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
+      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
     },
     {
       "added_at": "2023-05-11 16:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
-        "name": "I Know You Know-\u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
-        "url": "https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ"
+        "name": "\u84cb\u4e16\u82f1\u96c4",
+        "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
       },
       "artists": [
         {
-          "name": "\u674e\u6cbb\u5ef7",
-          "url": "https://open.spotify.com/artist/5RkHWm6vOA31T32qyjQxgd"
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
         }
       ],
-      "duration_ms": 244474,
-      "name": "I Know You Know - \u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/4ec3HOKBBbkjTvoGteQncK"
+      "duration_ms": 286733,
+      "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
+      "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

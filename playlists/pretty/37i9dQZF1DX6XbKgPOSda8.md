@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,264 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,477 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,18 +77,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 67 | [La Colegiada](https://open.spotify.com/track/0EYVTuGER9NV3k7FT5oX1E) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 3:40 |
 | 68 | [Soy Maraquero](https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII) | [Kual](https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo) | [Lo Mas Ka\-Bron Sonidero](https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA) | 5:00 |
 | 69 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
-| 70 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 |
-| 71 | [El Viejo Del Sombrerón](https://open.spotify.com/track/287DFeg3xmSQbiu2shxHlI) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La Morocha](https://open.spotify.com/artist/5nWfqSJHayE4qvjUxoQfMu) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:15 |
+| 70 | [El Viejo Del Sombrerón](https://open.spotify.com/track/287DFeg3xmSQbiu2shxHlI) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La Morocha](https://open.spotify.com/artist/5nWfqSJHayE4qvjUxoQfMu) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:15 |
+| 71 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 |
 | 72 | [Rumba Frenesi](https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia Sonidera \(En México\)](https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B) | 5:11 |
 | 73 | [Cumbia De Los Estados](https://open.spotify.com/track/4n0kXy9VtZQnh1oOLIOQ6D) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia \- Auténticos Embajadores De La Cumbia](https://open.spotify.com/album/3rX1cWMO3LNCi4uSD2eKxg) | 4:01 |
 | 74 | [Vuela Mariposa](https://open.spotify.com/track/4F8AQkyQSTb19us1XLfVf2) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Prometiendo Amor](https://open.spotify.com/album/3M5IHxICkEH22lqBgDXnHu) | 3:26 |
 | 75 | [La Cumbia Del Garrote](https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY) | [Los Del Garrote](https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx) | [Los Del Garrote](https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX) | 3:17 |
 | 76 | [Cumbia de los Pajaritos](https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:51 |
 | 77 | [Todo Lo Encuentro En Ti](https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Fake Lover](https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz) | 3:24 |
-| 78 | [Destilando Amor](https://open.spotify.com/track/6Gi35T5449ZbiGpzn9cfBl) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 3:34 |
+| 78 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
 | 79 | [Mi Cucu](https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 3:54 |
-| 80 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
-| 81 | [Tú Eres La Razón \- Electrocumbia Remake](https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Tú Eres La Razón \(Electrocumbia Remake\)](https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w) | 3:15 |
+| 80 | [Tú Eres La Razón \- Electrocumbia Remake](https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Tú Eres La Razón \(Electrocumbia Remake\)](https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w) | 3:15 |
+| 81 | [Destilando Amor](https://open.spotify.com/track/6Gi35T5449ZbiGpzn9cfBl) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 3:34 |
 | 82 | [Te Daré Una Rosa](https://open.spotify.com/track/7CHWKwGjWiNIJt44XUlW1s) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Quién Te Robo el Corazón](https://open.spotify.com/album/1iV1YdOYq0BdmtF8HcXhWo) | 3:31 |
 | 83 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
 | 84 | [Corazón Enamorado](https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 99 | [Vuela Mariposa](https://open.spotify.com/track/0Bug1bbPyzpXmS0o0X878J) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/7IOXamyEMVDDWuF37WM1gH) | 3:56 |
 | 100 | [El Santo Del Amor](https://open.spotify.com/track/1ypgaZINEPR74L2c5W3h0A) | [Campeche Show](https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh), [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Con Nuestros Amigos](https://open.spotify.com/album/2E1bI25YNoU7UaD2PDyGOK) | 3:12 |
 
-Snapshot ID: `MCwyZjM2NzNhZDFjYWNmZmEwNGY3NmMzYTNlOGVkNWI3ZDc5OTU4MTQz`
+Snapshot ID: `MCw0MDEwOWNmYzQ0ZDhjOTg2M2M2ZTE3ODlkNDdiMTM2ZWExZDQ5NTJl`

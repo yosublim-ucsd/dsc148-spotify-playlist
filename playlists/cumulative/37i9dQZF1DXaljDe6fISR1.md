@@ -4,12 +4,13 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-103 songs - 8 hr 5 min
+104 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Missiva](https://open.spotify.com/track/18xHNWWJjSidNHJMUNgyPq) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [A Missiva](https://open.spotify.com/album/4Ckrl8zQcpGx5dLJ7L7wkn) | 5:43 | 2022-03-11 |  |
-| [A Segunda Chance](https://open.spotify.com/track/2ACJ3FD4AYYoulkzAOJxHV) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [A Segunda Chance](https://open.spotify.com/album/28kO3Vpk51BEQOCVaHglhW) | 4:47 | 2022-03-11 |  |
+| [A Segunda Chance](https://open.spotify.com/track/2ACJ3FD4AYYoulkzAOJxHV) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [A Segunda Chance](https://open.spotify.com/album/28kO3Vpk51BEQOCVaHglhW) | 4:47 | 2022-03-11 | 2023-05-14 |
+| [A Segunda Chance](https://open.spotify.com/track/6mlfPRn5tuqkX57PbqIuuv) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [A Segunda Chance](https://open.spotify.com/album/0TQY04GHOOuo1bPAXYxE97) | 4:47 | 2023-03-10 |  |
 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/1Rn7tUyMiTVxlu4H53cAzV) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe\)](https://open.spotify.com/album/67NEEqfjTcla2g5k9TP2rZ) | 4:01 | 2022-04-22 |  |
 | [Antes das 6:00, Pt\. 2 \- Bônus Track](https://open.spotify.com/track/5j3YKrNyW499GveM158BQ9) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe Edition\)](https://open.spotify.com/album/2TqY7KgM8rrqskj3YcplOq) | 4:01 | 2022-03-11 | 2022-07-29 |
 | [Aqui Se Faz, Aqui Se Paga](https://open.spotify.com/track/1igxsbMliCInUe2UjRBqWT) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF) | [Em Meio A Tudo Isso A História Continua](https://open.spotify.com/album/3dyCnPBExZyDzmFYDPnG2I) | 5:12 | 2022-03-11 | 2022-04-02 |

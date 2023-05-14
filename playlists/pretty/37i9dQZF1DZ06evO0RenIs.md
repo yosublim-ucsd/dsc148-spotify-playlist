@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,137 likes - 44 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,149 likes - 44 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 32 | [Rally](https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:16 |
 | 33 | [Love for Granted](https://open.spotify.com/track/3Yrk1Ytp3Vg1IRshQud90x) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:24 |
 | 34 | [Telefono](https://open.spotify.com/track/0YDMGiwxjDbZwqtCnkDHot) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP) | 3:45 |
-| 35 | [Summer Days](https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:15 |
+| 35 | [Definitive Breaks](https://open.spotify.com/track/1BfKwzPvTyt45fXq7zUQPZ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 1:40 |
 | 36 | [Drakkar Noir](https://open.spotify.com/track/0ggkwqbg3SgEGz4XcEVYJq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:22 |
 | 37 | [Victim of the Crime](https://open.spotify.com/track/2ThMLsmAtcKOmXaEgKdJ93) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:05 |
 | 38 | [Goodbye Soleil](https://open.spotify.com/track/6BqVLNQ0RGU8cytLaHLuo6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP) | 3:55 |
-| 39 | [Definitive Breaks](https://open.spotify.com/track/1BfKwzPvTyt45fXq7zUQPZ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 1:40 |
+| 39 | [Summer Days](https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:15 |
 | 40 | [S.O.S In Bel Air](https://open.spotify.com/track/0xk4qhVCcETeg8rh4nvE5h) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 3:43 |
 | 41 | [Fior Di Latte](https://open.spotify.com/track/4JFXNDchRuhicS7fh2civh) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP) | 4:03 |
 | 42 | [Honeymoon](https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 5:00 |
 | 43 | [Bourgeois](https://open.spotify.com/track/77p0SZ7bEyMlsKMS6cv43z) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 4:53 |
 | 44 | [Tuttifrutti](https://open.spotify.com/track/0R98IdPkYNH36q3DhAO3NB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP) | 3:52 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA4NzBlNzg5YWM2ZDY0MmE5MjQyOTVlZWMzMzI1M2Q2Mw==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA0NDNiOTQ3NTEwNWIxMjMwMTdmMmYyYjY4ZTVjNjc4ZQ==`

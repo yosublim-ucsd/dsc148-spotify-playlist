@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Helen Ochoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,106 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,096 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 23 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 |
 | 24 | [Reza y Reza](https://open.spotify.com/track/5E6xWFQoze67ByZgxsuNoM) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Reza y Reza](https://open.spotify.com/album/1Yw0c3gRC5VgTo6Qylq824) | 2:52 |
 | 25 | [Ismael \(En Vivo\)](https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Ismael \(En Vivo\)](https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T) | 2:43 |
-| 26 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
-| 27 | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 |
+| 26 | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 |
+| 27 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
 | 28 | [La Chacalosa](https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:40 |
 | 29 | [Ese es el problema](https://open.spotify.com/track/1IGv4Ii6V0pg7rni1N5SJi) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Ese es el problema](https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f) | 2:47 |
 | 30 | [Triste Recuerdo](https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9) | 3:23 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 49 | [El Chico Aquel](https://open.spotify.com/track/3AiXSswmE5CCsFN8brUd92) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [El Chico Aquel](https://open.spotify.com/album/2qcqsiuYR9K2JVfPfpkcgd) | 2:40 |
 | 50 | [Te Me Sigues Antojando](https://open.spotify.com/track/1lmHmsQN66qHztoYgWrzZy) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [Te Me Sigues Antojando](https://open.spotify.com/album/5MmoawkYlXuROoreINB1k6) | 3:05 |
 | 51 | [Cuéntenle Mentiras](https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Sheyla](https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh) | [Cuéntenle Mentiras](https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY) | 3:18 |
-| 52 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f) | 3:30 |
-| 53 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
+| 52 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
+| 53 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f) | 3:30 |
 | 54 | [JGL \(En Vivo\)](https://open.spotify.com/track/4FzRo5Y4DbzFR0fLS8yUj4) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [JGL \(En Vivo\)](https://open.spotify.com/album/4PLBipDpht78qYtb1j7msz) | 2:46 |
 | 55 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
 | 56 | [Muy Buena o Estúpida](https://open.spotify.com/track/6BvnqnmSLdAOVc3OxNziik) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Pa' Nosotras 8M](https://open.spotify.com/album/134W5TBnMj7LOuxl0LfT01) | 3:00 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 64 | [Uno de los Buenos](https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Uno de los Buenos](https://open.spotify.com/album/2AvHahqBPECo32t4COxfak) | 2:56 |
 | 65 | [Porque tengo ganas](https://open.spotify.com/track/1NhYdNcgFUaM8NxhQIUcr6) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Porque tengo ganas](https://open.spotify.com/album/5HNGVRUvb5ivWwIIGMshw3) | 3:48 |
 
-Snapshot ID: `MCwxZDIwYzYzZjQzODA0N2JiNmIzZmQ5M2Y5ZmEyYjkyZGQ4YjE4MGYy`
+Snapshot ID: `MCxmNjJmZjFjN2I4OTJkM2U1NDg0ZGRkNzAyOTcwYmFhOTJlNDFjOTAy`

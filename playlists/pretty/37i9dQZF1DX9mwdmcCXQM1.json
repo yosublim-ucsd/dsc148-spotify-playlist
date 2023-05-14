@@ -1,12 +1,12 @@
 {
   "description": "lista na dm",
-  "num_followers": 60574,
+  "num_followers": 60598,
   "original_name": "minha party pfta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTI5OGZmZjQxYzEwZDUxZjY4YmEwMzI5ZjYyNzk1NTZmYmQxODA0",
+  "snapshot_id": "MCxlZjY0OGVjNWFiMTg0NjZjYWI0NWNiNTYzYjU5ZjE2MWFmNDgxMDk1",
   "tracks": [
     {
       "added_at": "2022-08-03 18:37:08",
@@ -367,26 +367,22 @@
     {
       "added_at": "2022-08-03 18:37:08",
       "album": {
-        "name": "Cold Heart (PNAU Remix)",
-        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
+        "name": "Memories...Do Not Open",
+        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+      "duration_ms": 247160,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
     },
     {
       "added_at": "2022-08-03 18:37:08",
@@ -407,22 +403,26 @@
     {
       "added_at": "2022-08-03 18:37:08",
       "album": {
-        "name": "Memories...Do Not Open",
-        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 247160,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
       "added_at": "2022-08-03 18:37:08",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-08-03 18:37:08",
       "album": {
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 192789,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
+    },
+    {
+      "added_at": "2022-08-03 18:37:08",
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2022-08-03 18:37:08",
       "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
       },
       "artists": [
         {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
         }
       ],
-      "duration_ms": 192789,
-      "name": "Safe And Sound",
-      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
       "added_at": "2022-08-03 18:37:08",
@@ -711,22 +727,6 @@
       "duration_ms": 157497,
       "name": "Mount Everest",
       "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
-    },
-    {
-      "added_at": "2022-08-03 18:37:08",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
       "added_at": "2022-08-03 18:37:08",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-08-03 18:37:08",
       "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "added_at": "2022-08-03 18:37:08",
+      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2022-08-03 18:37:08",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
       "added_at": "2022-08-03 18:37:08",
@@ -863,26 +863,6 @@
     {
       "added_at": "2022-08-03 18:37:08",
       "album": {
-        "name": "INDUSTRY BABY (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2022-08-03 18:37:08",
-      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
+    },
+    {
+      "added_at": "2022-08-03 18:37:08",
+      "album": {
+        "name": "INDUSTRY BABY (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
     },
     {
       "added_at": "2022-08-03 18:37:08",

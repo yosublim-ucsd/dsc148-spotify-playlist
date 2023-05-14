@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 378676,
+  "num_followers": 378695,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTRiNGU3MTk4MGQ0ZWQ5OWJiNzJlZjdmMzBiNjI4NTUxMjEwMTNl",
+  "snapshot_id": "MCxkZjA4MmU3YTMwNjE3OTM5ZTE0ZTUyYWUzOTBlZWIyNzM5MDgwNmQ5",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -205,7 +205,7 @@
       "artists": [
         {
           "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+          "url": "https://open.spotify.com/artist/1pMyMaKdKUPbRu37t3Y2VP"
         }
       ],
       "duration_ms": 210613,
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "On the Lookout",
         "url": "https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 229560,
       "name": "On the Lookout",
       "url": "https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "False Art",
-        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 183454,
-      "name": "False Art",
-      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 199768,
       "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
       "url": "https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "False Art",
+        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 183454,
+      "name": "False Art",
+      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Californian Soil",
+        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 199996,
+      "name": "Lose Your Head",
+      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Awaken (Feel Alive)",
         "url": "https://open.spotify.com/album/3G2IDH5CJxDMVaX8mQ9kVp"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 180204,
       "name": "Awaken (Feel Alive)",
       "url": "https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 199996,
-      "name": "Lose Your Head",
-      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -815,26 +815,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Heiress",
-        "url": "https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a"
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
       },
       "artists": [
         {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        },
-        {
-          "name": "Ed Tullett",
-          "url": "https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn"
-        },
-        {
-          "name": "Lowswimmer",
-          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
         }
       ],
-      "duration_ms": 232613,
-      "name": "Silvery",
-      "url": "https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt"
+      "duration_ms": 152051,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -855,18 +847,26 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
+        "name": "Heiress",
+        "url": "https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a"
       },
       "artists": [
         {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        },
+        {
+          "name": "Ed Tullett",
+          "url": "https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn"
+        },
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
         }
       ],
-      "duration_ms": 152051,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
+      "duration_ms": 232613,
+      "name": "Silvery",
+      "url": "https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
-      },
-      "artists": [
-        {
-          "name": "BEKA",
-          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
-        }
-      ],
-      "duration_ms": 235464,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Black Rain",
         "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
+      },
+      "artists": [
+        {
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+        }
+      ],
+      "duration_ms": 235464,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "ACT ONE (The Complete Collection)",
-        "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Hunger",
         "url": "https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 192792,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "ACT ONE (The Complete Collection)",
+        "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
-      },
-      "artists": [
-        {
-          "name": "Ayoni",
-          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Santa Monica",
-      "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Gold (Flume Re-Work)",
         "url": "https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 267231,
       "name": "Gold - Flume Re-Work",
       "url": "https://open.spotify.com/track/7oELjqBCLfUKhsR5IGCS6N"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
+      },
+      "artists": [
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
     },
     {
       "added_at": "2023-01-11 21:01:15",

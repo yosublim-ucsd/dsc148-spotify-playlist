@@ -4,7 +4,7 @@
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-226 songs - 15 hr 38 min
+228 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,14 +24,14 @@
 | [Akudama](https://open.spotify.com/track/6WJHdM16lYFUz4mUnrULi9) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Akudama](https://open.spotify.com/album/2FbtFDP3evBSzytt0VFJxS) | 2:37 | 2021-03-29 | 2022-07-26 |
 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 | 2021-03-29 | 2023-02-25 |
 | [Amaranth](https://open.spotify.com/track/0RsOUnm1wNpbXxZ8a4abOP) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 3:51 | 2021-03-29 | 2022-11-14 |
-| [Amaranth](https://open.spotify.com/track/1vzqcPRQ6P1Uw7NZ5M77wJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) | 3:51 | 2021-03-29 |  |
+| [Amaranth](https://open.spotify.com/track/1vzqcPRQ6P1Uw7NZ5M77wJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) | 3:51 | 2021-03-29 | 2023-05-14 |
 | [Angel Of Death](https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:51 | 2021-08-11 |  |
 | [Animals](https://open.spotify.com/track/1Td7TGT1XtK2ojUjz1mGUV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Animals](https://open.spotify.com/album/75pgJat1FOBpDBBNPwaCW8) | 4:04 | 2021-03-29 | 2022-07-29 |
 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 | 2021-03-29 |  |
 | [Annihilation](https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Annihilation](https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV) | 3:10 | 2021-03-29 | 2022-07-29 |
 | [Another Life](https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 3:25 | 2021-03-29 |  |
 | [Another World](https://open.spotify.com/track/5hsq03E3do2gWhyOVV2Api) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Another World](https://open.spotify.com/album/4tyLNMywFElpCHVQUZVWVa) | 4:24 | 2021-03-29 | 2022-07-29 |
-| [Archangel](https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Archangel](https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2) | 3:23 | 2021-03-29 |  |
+| [Archangel](https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Archangel](https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2) | 3:23 | 2021-03-29 | 2023-05-14 |
 | [Archangel](https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:23 | 2021-03-29 | 2023-01-02 |
 | [Armed To The Teeth](https://open.spotify.com/track/7CMBg4DxJSfDCcGDsRnzqM) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Ballistic, Sadistic](https://open.spotify.com/album/6aGmL5PVbZgU3QjnuwiohE) | 4:26 | 2021-03-29 | 2022-07-29 |
 | [As Above, So Below](https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 | 2021-03-29 |  |
@@ -203,10 +203,12 @@
 | [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 | 2021-03-29 | 2022-07-29 |
 | [The End of All We Know](https://open.spotify.com/track/28uXRxTn0ztyqUjtMtHYJa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Fracture](https://open.spotify.com/album/0m0oTvI6SHfVmYHuq4jU8p) | 4:12 | 2021-03-29 | 2022-08-30 |
 | [The Nexus](https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV) | 3:16 | 2021-03-29 | 2023-04-29 |
+| [The Nexus](https://open.spotify.com/track/3cSJXlpx1lAP8vGAh8mEXB) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6HURHOREgzRB1e00Uu99ki) | 3:16 | 2023-04-04 |  |
 | [The Remedy](https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:03 | 2021-03-29 |  |
 | [The Remedy](https://open.spotify.com/track/69ow35I1jI6gYI45H1Bw7e) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/5aaWL7zYiYR0421K3UTmX1) | 4:03 | 2021-03-29 | 2022-07-29 |
 | [The Signal Fire](https://open.spotify.com/track/5kP32cKaf8ln4PSoY6sD13) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l), [Howard Jones](https://open.spotify.com/artist/4T0p8Zo2nJdSoCDTrV9jgW) | [Atonement](https://open.spotify.com/album/5k1IQPbz37ctTDrw4vbvtp) | 3:05 | 2021-03-29 |  |
 | [The Signal Fire \(feat\. Howard Jones\)](https://open.spotify.com/track/2Fup9XFE9sXWu9Qft2Q7ZB) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l), [Howard Jones](https://open.spotify.com/artist/4T0p8Zo2nJdSoCDTrV9jgW) | [Atonement](https://open.spotify.com/album/6kkUp557e0o5k0dRBfohJZ) | 3:05 | 2021-03-29 | 2022-07-29 |
+| [The Time Is Now](https://open.spotify.com/track/0vMpw8pTVb7egqdVaKwy6U) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [In Our Wake](https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8) | 3:19 | 2023-04-04 |  |
 | [The Time Is Now](https://open.spotify.com/track/4Q9uL0DWDcpCV1tE14xqnt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [In Our Wake](https://open.spotify.com/album/2CzkXD7h92NTeWu8seWhjt) | 3:19 | 2023-02-18 | 2023-05-08 |
 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 | 2021-03-29 | 2022-07-29 |
 | [The Trooper \- 2015 Remaster](https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 \- Remaster\)](https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm) | 4:12 | 2021-03-29 |  |

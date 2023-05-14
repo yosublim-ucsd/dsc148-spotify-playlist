@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293813,
+      "name": "Another Lonely Christmas",
+      "url": "https://open.spotify.com/track/26F1nzp6tCtXsiDcBCfZcg"
+    },
+    {
+      "album": {
         "name": "Christmas In My Heart (Expanded Edition)",
         "url": "https://open.spotify.com/album/2jQQOtQEPL3QGdsTDrO8mu"
       },
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 153466,
       "name": "The Little Boy That Santa Claus Forgot - 1990 Remaster",
       "url": "https://open.spotify.com/track/4nYhFybm5G4ETNt19pcKzs"

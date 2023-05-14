@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,399,883 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,400,344 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 27 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
 | 28 | [Titig](https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci) | [MC Einstein](https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Jekkpot](https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Titig](https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W) | 4:19 |
 | 29 | [Tell Me Where It Hurts](https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3) | [MYMP](https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY) | [Versions & Beyond](https://open.spotify.com/album/5ak2XNLAZyBKcUuvtZImhZ) | 4:13 |
-| 30 | [Di Na Muli](https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Sid & Aya \(Not a Love Story\) \[Original Movie Soundtrack\]](https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U) | 4:20 |
-| 31 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 |
+| 30 | [Nadarang](https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx) | 3:54 |
+| 31 | [Di Na Muli](https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Sid & Aya \(Not a Love Story\) \[Original Movie Soundtrack\]](https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U) | 4:20 |
 | 32 | [Mahika](https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Mahika](https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA) | 3:30 |
-| 33 | [Nadarang](https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx) | 3:54 |
+| 33 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 |
 | 34 | [Teka Lang](https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v) | [Emman](https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG) | [Teka Lang](https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE) | 3:16 |
 | 35 | [Pauwi Nako](https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [Bullet D](https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Pauwi Nako](https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh) | 5:41 |
 | 36 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 45 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 |
 | 46 | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/track/00mBzIWv5gHOYxwuEJXjOG) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/album/7xconhHQKj7Be4P2KvUmFz) | 4:45 |
 | 47 | [Simpleng Tao](https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3) | [Gloc 9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD) | [G9](https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG) | 4:04 |
-| 48 | [Hindi Tayo Pwede](https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 5:03 |
-| 49 | [12:51](https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q) | [krissy & ericka](https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V) | [Twelve: Fifty One \(International Version\)](https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ) | 4:06 |
-| 50 | [Till My Heartaches End \- From "The Significant Other"](https://open.spotify.com/track/4isDU5tDNqFLQ5xQ9NgPmz) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Till My Heartaches End \(From "The Significant Other"\)](https://open.spotify.com/album/6Mt2ypZ8Q48fAdqiVkw1kH) | 4:16 |
+| 48 | [Till My Heartaches End \- From "The Significant Other"](https://open.spotify.com/track/4isDU5tDNqFLQ5xQ9NgPmz) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Till My Heartaches End \(From "The Significant Other"\)](https://open.spotify.com/album/6Mt2ypZ8Q48fAdqiVkw1kH) | 4:16 |
+| 49 | [Hindi Tayo Pwede](https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 5:03 |
+| 50 | [12:51](https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q) | [krissy & ericka](https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V) | [Twelve: Fifty One \(International Version\)](https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ) | 4:06 |
 
-Snapshot ID: `MCxhNjc0ZmQwYTFkYTY4ZDM4MWI5NWY0MjdhOGMxOWQ4NzkyM2I1MzAz`
+Snapshot ID: `MCwzOWI5NDI2MDUzYmUxYzVhOWEyMzBkNDBhZjdlYmZjNjI1OTdmNDUy`

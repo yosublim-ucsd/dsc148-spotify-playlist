@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,352 likes - 150 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,569 likes - 150 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Meet Me in the Bottom](https://open.spotify.com/track/7iiHpRaetFtBweEMVnG1TH) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Meet Me in the Bottom / Friends](https://open.spotify.com/album/2SWixsPxllhYc2iLEx6Yd5) | 3:08 |
 | 150 | [Louder](https://open.spotify.com/track/2DzqISlf588gxZuIWQN9LM) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Fortress](https://open.spotify.com/album/32A8uyNy25uuVwIBpbBGN9) | 2:45 |
 
-Snapshot ID: `MCw3NDcyZTgyMDFmODlhMDdlZDg2NWRkYWFiM2M0YTUyNTE1ZTZlYjcx`
+Snapshot ID: `MCxkMWMwMTBlZmI4YTg3ZTBkNDFmZDMwZDExYmFlZDNkOGUwNWI1MDgw`

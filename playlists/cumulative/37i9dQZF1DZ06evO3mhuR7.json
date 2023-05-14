@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 627093,
       "name": "Close Encounters",
       "url": "https://open.spotify.com/track/1aeZX0loVCwqh1x9k7SpVw"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 261141,
       "name": "Hold Me Upsetter",
       "url": "https://open.spotify.com/track/3bMR9NyBHxt1pZadTvGbRs"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 627320,
       "name": "living in recycled times - feat. Rachel D'arcy",
       "url": "https://open.spotify.com/track/4B8tHSIgUzn0w6Vw3b9gHI"
@@ -1080,6 +1080,28 @@
       "duration_ms": 244311,
       "name": "Man in the Moon",
       "url": "https://open.spotify.com/track/2IdEhAIOQS0T6d79DBaTr6"
+    },
+    {
+      "album": {
+        "name": "Mermaids",
+        "url": "https://open.spotify.com/album/6ukjrEXIdCzo1V6lYg0Y5Y"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Hills",
+          "url": "https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF"
+        },
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108766,
+      "name": "Mermaids",
+      "url": "https://open.spotify.com/track/5AlFvNIcCgMQz0iux2zyVk"
     },
     {
       "album": {

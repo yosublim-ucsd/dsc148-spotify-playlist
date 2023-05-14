@@ -4,7 +4,7 @@
 
 > groovy.
 
-124 songs - 8 hr 38 min
+125 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [About a Stranger](https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1) | [Chris Robinson Brotherhood](https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A) | [Phosphorescent Harvest](https://open.spotify.com/album/1ZDQsr1Vgc48eLezq4xvBL) | 5:07 | 2021-10-08 | 2022-07-11 |
 | [Ain't Nothin' New](https://open.spotify.com/track/6qvbWKdhfVHfkR0GaWHTKF) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Ain't Nothin' New](https://open.spotify.com/album/7vTOqwGGe6RUUlte30qi5F) | 4:58 | 2021-10-08 | 2022-07-29 |
 | [All In My Head](https://open.spotify.com/track/1Q55tboRIfofEepjqB8n8P) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/3l12R0s3By5uisnybE2Cbk) | 3:21 | 2021-10-08 | 2022-06-15 |
+| [Amoeba \- Recorded At Electric Lady Studios](https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:44 | 2023-05-12 |  |
 | [Apollo's Mood](https://open.spotify.com/track/1N9WgSJAca6uaXFHTktS97) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/2UkCnAUvgigPDKmVjw9dQR) | 4:31 | 2021-10-08 | 2022-07-29 |
 | [Apollo's Mood](https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ) | 4:31 | 2023-04-07 |  |
 | [Apollo's Mood](https://open.spotify.com/track/6j1GazXT78zw8orKRsZVt5) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/4XipjE8vNOXj7Xc9FlD962) | 4:31 | 2022-07-22 | 2023-04-30 |
@@ -92,7 +93,7 @@
 | [Pretty Little Lazies](https://open.spotify.com/track/48TSuxtSV3nLsHLbwSw2UY) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Destroyer](https://open.spotify.com/album/6i91Krcop9ZJeTzPLqhPZO) | 4:58 | 2021-10-08 | 2022-07-29 |
 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 | 2021-10-08 |  |
 | [Real You](https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:49 | 2021-10-08 |  |
-| [Renegade](https://open.spotify.com/track/4e6RmWaibb8xQgda9JcWRf) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Renegade](https://open.spotify.com/album/4MKMt6xC0PXKlFHnQqZurJ) | 3:54 | 2022-07-22 |  |
+| [Renegade](https://open.spotify.com/track/4e6RmWaibb8xQgda9JcWRf) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Renegade](https://open.spotify.com/album/4MKMt6xC0PXKlFHnQqZurJ) | 3:54 | 2022-07-22 | 2023-05-14 |
 | [Renegade](https://open.spotify.com/track/5HiIz6ICFx1VgoxjxX4ywc) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Renegade](https://open.spotify.com/album/4JgEQ2lgKAZievIQsRh7lI) | 3:54 | 2021-10-08 | 2022-07-28 |
 | [Replica](https://open.spotify.com/track/6oWRYpDQbgl8N6gkb5KSkR) | [Cory Hanson](https://open.spotify.com/artist/2XG4LWrmKXFA1PqnUsuPj6) | [The Unborn Capitalist From Limbo](https://open.spotify.com/album/21UK10eBA1kdKwRDON3q7H) | 4:08 | 2022-07-22 |  |
 | [Replica](https://open.spotify.com/track/7xGMxT9ehrOlWjJwEyhuk2) | [Cory Hanson](https://open.spotify.com/artist/2XG4LWrmKXFA1PqnUsuPj6) | [The Unborn Capitalist From Limbo](https://open.spotify.com/album/6yg69QGmlM2MDcX1Bdo2RN) | 4:08 | 2021-10-08 | 2022-07-29 |

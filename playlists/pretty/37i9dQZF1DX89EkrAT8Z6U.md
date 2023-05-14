@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > A mixtape for the perfect anime fight scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,598 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,525 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 22 | [Erase Your Social](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Perfect LUV Tape](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67) | 3:19 |
 | 23 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 |
 | 24 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 |
-| 25 | [By the Sword](https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [By the Sword](https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa) | 2:05 |
-| 26 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 |
-| 27 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
+| 25 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
+| 26 | [By the Sword](https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [By the Sword](https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa) | 2:05 |
+| 27 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 |
 | 28 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 |
 | 29 | [GOSHA](https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:00 |
 | 30 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 43 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 |
 | 44 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 |
 | 45 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 |
-| 46 | [WTH](https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:39 |
-| 47 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
+| 46 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
+| 47 | [WTH](https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:39 |
 | 48 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 |
 | 49 | [LED](https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS) | 2:14 |
 | 50 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 61 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 |
 | 62 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 |
 | 63 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
-| 64 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
-| 65 | [She Bad](https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7) | 1:45 |
-| 66 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 |
+| 64 | [She Bad](https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7) | 1:45 |
+| 65 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 |
+| 66 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
 | 67 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 |
 | 68 | [Trap Anthem](https://open.spotify.com/track/427vwwlrlHy0JZPVt8rzYS) | [MC Virgins](https://open.spotify.com/artist/3iNL7rw7fpmysjZvhB8vi7), [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Trap Anthem](https://open.spotify.com/album/0RYvZMaunWeYkHDYMLPwhe) | 2:12 |
 | 69 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
 | 75 | [EXORCIST](https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [KILL!](https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE) | 1:34 |
 
-Snapshot ID: `MCw2NGRjMTM0NThiY2FkOGFjYTkzNjc0MzU4NDJmOTk5Nzc0M2Q5ZTcz`
+Snapshot ID: `MCxkMTdjNGI5ZTE2Yjc4ZmE5Y2EzY2YxYzdiMjMxNDBiYWYyNTllM2M0`

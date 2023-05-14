@@ -4,7 +4,7 @@
 
 > The playlist sin fronteras\. Cover: Grupo Frontera & Bad Bunny
 
-349 songs - 18 hr 20 min
+350 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [911](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 | 2022-12-09 | 2022-12-31 |
 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 | 2021-12-21 | 2022-07-09 |
 | [A Mi Modo](https://open.spotify.com/track/4yTTya8odDhObFpaoUL23T) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [A Mi Modo](https://open.spotify.com/album/5ieqS1Hv44JfmKTyNnWjV2) | 3:09 | 2022-11-04 | 2023-02-04 |
+| [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 | 2023-05-13 |  |
 | [Agarra Tu Camino](https://open.spotify.com/track/4HXIyu3N5yVTd4qHMbU7cK) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Agarra Tu Camino](https://open.spotify.com/album/7d5gCEbYhn607U8FQuTQ3B) | 3:54 | 2021-12-21 | 2022-03-12 |
 | [Aguardiente](https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aguardiente](https://open.spotify.com/album/6OSCKBZsN0mw3jZdLKpsga) | 2:22 | 2022-04-22 | 2022-05-28 |
 | [Ahí Donde Me Ven](https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:04 | 2022-03-04 | 2022-04-02 |

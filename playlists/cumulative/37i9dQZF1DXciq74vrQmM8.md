@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. girli
 
-524 songs - 1 day 0 hr 43 min
+525 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [IDontFeelTheSame.](https://open.spotify.com/track/0JuzXipMC0pA7dTw6ZWRDh) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH), [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7) | [IDontFeelTheSame.](https://open.spotify.com/album/4wsM8oy5MdDrbUye37S6X1) | 2:40 | 2022-06-09 | 2022-09-23 |
 | [IDONTWANNATALKTOYOU! \(with renforshort\)](https://open.spotify.com/track/39LAVN7bpAOvpCwA06dvWZ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CHASING HARMONY](https://open.spotify.com/album/2bAyamw2R64VLAFsQW20xc) | 2:18 | 2021-12-27 | 2022-02-13 |
 | [iLike](https://open.spotify.com/track/38Drg2g9PNCZZo4j2omrkh) | [hidingthehurt](https://open.spotify.com/artist/1ZEMLFeC3e4J8Y9exK3dKp) | [iLike](https://open.spotify.com/album/3sI6zGLdEv7Wb6KOjLSN89) | 2:33 | 2022-01-19 | 2022-07-22 |
-| [IM FINE](https://open.spotify.com/track/77uPz7kZIBC8kmBDiiNMfh) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IM FINE](https://open.spotify.com/album/4JlIkjXKZBS80VAhVygA4r) | 2:12 | 2022-09-22 |  |
+| [IM FINE](https://open.spotify.com/track/0nDcTpMgA3qCsvaeqQq1Xi) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 2:12 | 2023-05-12 |  |
+| [IM FINE](https://open.spotify.com/track/77uPz7kZIBC8kmBDiiNMfh) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IM FINE](https://open.spotify.com/album/4JlIkjXKZBS80VAhVygA4r) | 2:12 | 2022-09-22 | 2023-05-14 |
 | [Imposter Syndrome](https://open.spotify.com/track/7zce3JYJfyVYF8UmLYvQsq) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Imposter Syndrome](https://open.spotify.com/album/5rSanFwFS56tJs4AvV34t1) | 2:38 | 2023-02-03 | 2023-03-31 |
 | [In Bloom \[WHOKILLEDXIX Remix\]](https://open.spotify.com/track/07f1H1TlstbEnq0E0nhyx1) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH), [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [In Bloom \[WHOKILLEDXIX Remix\]](https://open.spotify.com/album/0oKsaBnhRnfevCUsiB1jbp) | 4:30 | 2022-08-18 | 2022-11-11 |
 | [IN YOUR BLOOD](https://open.spotify.com/track/2evPSkNE3z0unewvQVPoI8) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf) | [IN YOUR BLOOD](https://open.spotify.com/album/3btxaWRqZYDZxB6QtSBDnN) | 3:44 | 2021-12-27 | 2022-04-29 |

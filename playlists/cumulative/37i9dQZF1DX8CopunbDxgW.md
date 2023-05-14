@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Overmono
 
-794 songs - 2 day 4 hr 9 min
+795 songs - 2 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 | 2022-09-17 | 2022-10-06 |
 | [Can't Help But Think About You](https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Can't Help But Think About You](https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www) | 3:28 | 2023-02-24 |  |
 | [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-03-31 |  |
+| [Candle Flame \- Opolopo Remix](https://open.spotify.com/track/6rGww3K64vpXmxa0azKA8L) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Candle Flame \(Opolopo Remix\)](https://open.spotify.com/album/1TgevMR4b6rX7wxXI252us) | 5:53 | 2023-05-12 |  |
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2021-12-10 | 2022-04-20 |
 | [Can’t Let You Go](https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Can’t Let You Go](https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8) | 2:53 | 2023-02-17 |  |
 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 | 2021-09-10 | 2023-01-06 |
@@ -336,7 +337,7 @@
 | [I Just Wanna Dance](https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [I Just Wanna Dance](https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts) | 2:43 | 2023-01-06 | 2023-04-12 |
 | [I Keep](https://open.spotify.com/track/1572n5ACOGAwWhBX3Ix9jM) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Space Island](https://open.spotify.com/album/6dWmsPNUlFB8uTsqxrePTI) | 3:46 | 2022-02-18 | 2022-07-28 |
 | [I See You Sometimes](https://open.spotify.com/track/1E9oCoLMhffbcovDHF9bH5) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [I See You Sometimes](https://open.spotify.com/album/6173eST6eRM4yM0Xd7x503) | 3:05 | 2021-12-29 | 2022-04-15 |
-| [I Think I Like You](https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK), [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7) | [I Think I Like You](https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27) | 2:26 | 2023-03-10 |  |
+| [I Think I Like You](https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK), [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7) | [I Think I Like You](https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27) | 2:26 | 2023-03-10 | 2023-05-14 |
 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 | 2021-03-12 | 2022-02-12 |
 | [I Want You](https://open.spotify.com/track/757Myoc63izEaBWatHbUUs) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [I Want You](https://open.spotify.com/album/5VE3UEUfktGy9CuMOglplR) | 3:55 | 2021-05-14 | 2022-02-02 |
 | [I You She](https://open.spotify.com/track/5kppyqAYdcHnGY3W1KdA1J) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [I YOU SHE](https://open.spotify.com/album/7tBQBS0T6plojk62SkKyvm) | 3:16 | 2021-12-03 | 2022-02-02 |

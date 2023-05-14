@@ -2918,10 +2918,28 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 168235,
       "name": "Kadha Sollava",
       "url": "https://open.spotify.com/track/1zAobZROnbDbk2MMAWawlv"
+    },
+    {
+      "album": {
+        "name": "Kadha Sollava",
+        "url": "https://open.spotify.com/album/68elX72BSUN5eH5SWrH1XE"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168235,
+      "name": "Kadha Sollava",
+      "url": "https://open.spotify.com/track/48OzFwA6DSCqMRijia83fZ"
     },
     {
       "album": {
@@ -7232,7 +7250,7 @@
     {
       "album": {
         "name": "Summertime Kaadhal",
-        "url": "https://open.spotify.com/album/0uMFEpvLWVwlb507BCDyiP"
+        "url": "https://open.spotify.com/album/4PQgAODNFSmImNMjN76aHN"
       },
       "artists": [
         {
@@ -7243,6 +7261,24 @@
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178321,
+      "name": "Summertime Kaadhal",
+      "url": "https://open.spotify.com/track/3L0p5KOOlxL9InRN6oBXwj"
+    },
+    {
+      "album": {
+        "name": "Summertime Kaadhal",
+        "url": "https://open.spotify.com/album/0uMFEpvLWVwlb507BCDyiP"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Vinayagamoorthy",
+          "url": "https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
       "duration_ms": 178321,
       "name": "Summertime Kaadhal",
       "url": "https://open.spotify.com/track/5nkn93sR9oU8XBuWRnpC44"

@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36">Trip Lee</a>
 
-779 songs - 1 day 15 hr 9 min
+780 songs - 1 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Dangerous](https://open.spotify.com/track/5FVQWfXM8a3e2BuEx6Qh0K) | [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Dangerous](https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL) | 2:32 | 2022-03-12 | 2022-08-07 |
 | [Day 1](https://open.spotify.com/track/0ktqGcOTQ7Tz7LBDVCbt03) | [E.i\. the King](https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO) | [The Incarceration Part 1: The Bid](https://open.spotify.com/album/251VDcYqagXD8VABB3iMIq) | 3:49 | 2022-06-25 | 2022-07-28 |
 | [DAY ONES](https://open.spotify.com/track/1aazpUqKkCSHqZ09O8rVHT) | [outr.cty](https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w), [DJLC](https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ) | [DAY ONES](https://open.spotify.com/album/3hM9N5646a6RPl9IlX6muD) | 3:12 | 2022-07-17 | 2022-09-12 |
-| [Deep Cuts](https://open.spotify.com/track/68mQ2H5BymI1HBLYAfJ93p) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Deep Cuts](https://open.spotify.com/album/57yLZZ78kKXmXQm1O5YUbp) | 3:13 | 2023-03-25 |  |
+| [Deep Cuts](https://open.spotify.com/track/68mQ2H5BymI1HBLYAfJ93p) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Deep Cuts](https://open.spotify.com/album/57yLZZ78kKXmXQm1O5YUbp) | 3:13 | 2023-03-25 | 2023-05-14 |
 | [Deep End](https://open.spotify.com/track/0sMr52Vbn6WMkYLupCmO2h) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Deep End](https://open.spotify.com/album/0r4OA7mOtPjXsL48uVrgp8) | 2:39 | 2021-12-11 | 2022-01-25 |
 | [Deep End](https://open.spotify.com/track/0QyCYdkhrrpilgmIfPsDhm) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Deep End](https://open.spotify.com/album/3OJz91GFHb814zxUy8pv57) | 2:28 | 2022-09-16 | 2022-10-12 |
 | [Deep End](https://open.spotify.com/track/3cYEVwZXZpdFAYSFhQVnKN) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk), [Mog Trey](https://open.spotify.com/artist/6uBQ2Se4TsboLp4ybm5FvN) | [Deep End](https://open.spotify.com/album/6S4O1WabVhXOXLoolmkgcB) | 3:22 | 2021-12-11 | 2022-05-28 |
@@ -483,6 +483,7 @@
 | [OBJ](https://open.spotify.com/track/0hAnE1agFKDyJllMoxT3f1) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Mirror Talk](https://open.spotify.com/album/2oRFdjmAAE46TQTy4GWtGe) | 2:14 | 2022-03-12 | 2022-08-07 |
 | [Obvious](https://open.spotify.com/track/4IiFVaOYaKvQ8IDxIxdEkX) | [Double Atl](https://open.spotify.com/artist/5IVXa5D4ctnpdKOHrWHDMh), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Obvious](https://open.spotify.com/album/495qhvw3b9LR0MvoTcvJYQ) | 2:28 | 2022-02-27 | 2022-04-27 |
 | [Off the Backboard](https://open.spotify.com/track/1g6tuWP8l6QyqvefovKRTE) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Off the Backboard](https://open.spotify.com/album/6bjrtax6VVPlyrHiBpfWFJ) | 2:02 | 2022-10-14 | 2022-11-12 |
+| [OH YHWH](https://open.spotify.com/track/5PIvQYomJsN556rV4IIZal) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [OH YHWH](https://open.spotify.com/album/4biIpv7wVXmhf06UAxyrA7) | 3:03 | 2023-04-28 |  |
 | [Okay](https://open.spotify.com/track/3W83exgQnWggvGqB0F6i35) | [Jay Scribe](https://open.spotify.com/artist/0j7Sg6xQXHEhywlC6UJBbl) | [Okay](https://open.spotify.com/album/1HmM7Zy0QP4IIpVrKMTSGB) | 2:33 | 2022-06-25 | 2022-07-01 |
 | [Okay](https://open.spotify.com/track/3wCmNjOiXyDRNXFpLiPgFP) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [BIRDS](https://open.spotify.com/album/5XrOSKh3JxXCQQzxw5r9ag) | 2:59 | 2021-12-11 | 2022-02-02 |
 | [Old Me](https://open.spotify.com/track/1CYddBLXud7wVxcM2en4e3) | [5ive](https://open.spotify.com/artist/3mQZ0BGNOmrrl2Vv0FJXSY), [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Old Me](https://open.spotify.com/album/0ebvKdwj1s5MqbWXnkwK76) | 3:31 | 2022-04-29 | 2022-07-30 |

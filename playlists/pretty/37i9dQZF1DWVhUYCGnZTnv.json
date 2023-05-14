@@ -1,12 +1,12 @@
 {
   "description": "Your very own time capsule: a nostalgic look back on the past four years.",
-  "num_followers": 247,
+  "num_followers": 250,
   "original_name": "CLASS OF 2020 mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODAwYzdlZTJjMDc1ZmRlYWI5YTViNjdiNThjOTQwYjQ3NmQyZmQ5",
+  "snapshot_id": "MCxmNjViZWMzOTJmNWEwY2VjZGYyZTZjMDc3OGRjN2JmYjhkM2Q5YTIz",
   "tracks": [
     {
       "added_at": "2020-06-26 19:55:08",
@@ -323,22 +323,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -647,38 +647,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 249213,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196077,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -699,6 +667,38 @@
       "duration_ms": 207454,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
       "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 249213,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Godzilla (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -1071,6 +1051,26 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Godzilla (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "?",
         "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 135090,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 196652,
-      "name": "The Box",
-      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1151,6 +1135,22 @@
       "duration_ms": 213593,
       "name": "MIDDLE CHILD",
       "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 196652,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "i am > i was",
+        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+      "duration_ms": 288624,
+      "name": "a lot",
+      "url": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1239,22 +1255,6 @@
       "duration_ms": 180434,
       "name": "Ballin' (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "i am > i was",
-        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 288624,
-      "name": "a lot",
-      "url": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 200379,
-      "name": "ocean eyes",
-      "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1379,18 +1363,34 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
+      "duration_ms": 200379,
+      "name": "ocean eyes",
+      "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "ORANGE SODA",
+      "url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1415,34 +1415,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "DIE FOR MY BITCH",
-        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 129882,
-      "name": "ORANGE SODA",
-      "url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Perception",
-        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 212120,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
+      "duration_ms": 208733,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1459,6 +1443,22 @@
       "duration_ms": 195920,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 212120,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1519,22 +1519,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Shawn Mendes (Deluxe)",
-        "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 190799,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1555,18 +1551,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+        "name": "Shawn Mendes (Deluxe)",
+        "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Beautiful Crazy",
-      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
+      "duration_ms": 190799,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 219320,
       "name": "Work",
       "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
@@ -1983,22 +1999,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "T R A P S O U L",
         "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
       },
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Bellyache",
-        "url": "https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179172,
-      "name": "bellyache",
-      "url": "https://open.spotify.com/track/51NFxnQvaosfDDutk0tams"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Bellyache",
+        "url": "https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179172,
+      "name": "bellyache",
+      "url": "https://open.spotify.com/track/51NFxnQvaosfDDutk0tams"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2259,6 +2259,30 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories Remix (feat. Nipsey Hussle & YG)",
+      "url": "https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Nicotine",
         "url": "https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z"
       },
@@ -2287,30 +2311,6 @@
       "duration_ms": 188343,
       "name": "hot girl bummer",
       "url": "https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories Remix (feat. Nipsey Hussle & YG)",
-      "url": "https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2435,26 +2435,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 157066,
-      "name": "Old Town Road - Remix",
-      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
@@ -2471,6 +2451,26 @@
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "7 EP",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "Old Town Road - Remix",
+      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
     },
     {
       "added_at": "2020-06-26 19:55:08",

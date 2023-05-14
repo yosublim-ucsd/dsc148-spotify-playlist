@@ -800,10 +800,32 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 104333,
       "name": "Kabadi",
       "url": "https://open.spotify.com/track/0jxmBpNYgkyy50CGQjH9a1"
+    },
+    {
+      "album": {
+        "name": "Hits of Vidyasagar, Vol.2",
+        "url": "https://open.spotify.com/album/4OfIlSpH8igO4cgLpxfauy"
+      },
+      "artists": [
+        {
+          "name": "Maran",
+          "url": "https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ"
+        },
+        {
+          "name": "Jayamoorthy",
+          "url": "https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102714,
+      "name": "Kabadi (From \"Gilli\")",
+      "url": "https://open.spotify.com/track/7yQIczg03l615JDNRfirj1"
     },
     {
       "album": {
@@ -1092,7 +1114,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 83173,
       "name": "Manmadhan Theme Music",
       "url": "https://open.spotify.com/track/5Q0ffIynfGqumKoJuqjlEC"
@@ -1110,7 +1132,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 83174,
       "name": "Manmadhan Theme Music",
       "url": "https://open.spotify.com/track/3v3a6pzDuXm1FBvbEf0XgL"
@@ -1462,7 +1484,7 @@
     {
       "album": {
         "name": "Run & Die (Theme) (From \"Enemy\")",
-        "url": "https://open.spotify.com/album/1oe0ZZiRCbXSGdVXrVmJXt"
+        "url": "https://open.spotify.com/album/2n7a9BCCvdrcF8cKx7EI7b"
       },
       "artists": [
         {
@@ -1477,6 +1499,28 @@
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 106285,
+      "name": "Run & Die (Theme)",
+      "url": "https://open.spotify.com/track/0lGGJoZaNbzbbrXtJmi7g7"
+    },
+    {
+      "album": {
+        "name": "Run & Die (Theme) (From \"Enemy\")",
+        "url": "https://open.spotify.com/album/1oe0ZZiRCbXSGdVXrVmJXt"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Lavita M. Lobo",
+          "url": "https://open.spotify.com/artist/3hJ618EY1h9PG60hO1GKki"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
       "duration_ms": 106285,
       "name": "Run & Die (Theme) (From \"Enemy\")",
       "url": "https://open.spotify.com/track/4hfogIWEnO6xFf5D7qlQ1e"

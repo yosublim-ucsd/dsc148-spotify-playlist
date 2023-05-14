@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,848 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,018 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 26 | [Second Sermon \- Remix](https://open.spotify.com/track/4DdaGKeVkjQbPHzpoHGafk) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 3:14 |
 | 27 | [Donne\-moi l’accord](https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 3:06 |
 | 28 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:15 |
-| 29 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
-| 30 | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 2:47 |
+| 29 | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 2:47 |
+| 30 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
 | 31 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 |
 | 32 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 |
 | 33 | [Jerusalema \(feat\. Burna Boy & Nomcebo Zikode\) \- Remix](https://open.spotify.com/track/1dmES1X8l1AnFBy2gR3wYA) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema \(Deluxe\)](https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR) | 5:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [All Eyes on Me \(feat\. Burna Boy, Da L.E.S\. & JR\)](https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy), [JR](https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 4:18 |
 | 50 | [Last Last \- Burna Boy Sped Up Version](https://open.spotify.com/track/2lLTD38nzUR8Lku7dq7Jm2) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last \(Burna Boy Sped Up Version\)](https://open.spotify.com/album/0AcNAH4aRIf6jtz2w1lbHI) | 2:11 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA5MzQwY2VjMGY1ZTI2Yzc4MzEwZTk2MmY1YjNmOTIxMQ==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA4MDlmMTVhMGZlN2I3NGY2ZGU2NTc2ODBmY2Y5YTk5MQ==`

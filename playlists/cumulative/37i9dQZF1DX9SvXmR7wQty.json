@@ -25358,7 +25358,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 176821,
       "name": "Photographies",
       "url": "https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F"
@@ -27248,6 +27248,28 @@
       "duration_ms": 122985,
       "name": "Quiconque meurt, meurt \u00e0 douleur",
       "url": "https://open.spotify.com/track/7uZM6lu93fsaaIKOMRXagN"
+    },
+    {
+      "album": {
+        "name": "Melvin de Paris",
+        "url": "https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202760,
+      "name": "Quoi de neuf b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu"
     },
     {
       "album": {

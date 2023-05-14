@@ -4,14 +4,14 @@
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-33 songs - 1 hr 54 min
+34 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3rd Measurement in C](https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:38 | 2022-10-25 |  |
 | [Changing](https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:46 | 2022-10-25 |  |
 | [Collapse](https://open.spotify.com/track/4iLRzDTNc3NbTyQ0w5cAOd) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:15 | 2022-10-25 |  |
-| [Control and The Urge to Pray](https://open.spotify.com/track/1HiAniCwjwIap3YoeqB807) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 4:17 | 2022-10-25 |  |
+| [Control and The Urge to Pray](https://open.spotify.com/track/1HiAniCwjwIap3YoeqB807) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 4:17 | 2022-10-25 | 2023-05-14 |
 | [Count Back from TEN](https://open.spotify.com/track/69ycJyqz0Sy7jk5hQ43afA) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 3:06 | 2022-10-25 |  |
 | [Deep Down](https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:25 | 2022-10-25 |  |
 | [Finding Home](https://open.spotify.com/track/6rOx8Ymk3bv7k7DBcxqjwp) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:09 | 2022-10-26 | 2022-11-03 |
@@ -29,6 +29,7 @@
 | [Move Slow](https://open.spotify.com/track/7d4BF0jqyQAoaU9kz1AlV3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Ncis: The Official Tv Soundtrack \- Vol\. 2](https://open.spotify.com/album/576fyLLci8j617RWwYX54O) | 3:08 | 2022-10-25 |  |
 | [New Angel](https://open.spotify.com/track/7mph7O5E7n3wKJcy2jNx0w) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w) | 2:56 | 2022-10-25 |  |
 | [On My Own](https://open.spotify.com/track/4V6qDAzkekP88eUeKKIeoI) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 5:17 | 2022-10-25 | 2023-05-01 |
+| [Racing Toward a Red Light](https://open.spotify.com/track/5BUol6mbHtjJk9giZVW7KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 2:54 | 2023-05-13 |  |
 | [Say Goodbye](https://open.spotify.com/track/4v27q8gqCrira7ffcjnNGq) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 5:04 | 2022-10-25 |  |
 | [Second Guesses](https://open.spotify.com/track/78j1GGl7Tlm00RnvCkwMM6) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 4:08 | 2022-10-25 |  |
 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 | 2022-10-25 |  |

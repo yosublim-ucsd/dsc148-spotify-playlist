@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,282 songs - 2 day 18 hr 6 min
+1,283 songs - 2 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,7 @@
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-03-23 | 2022-03-28 |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-01-19 | 2022-03-24 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-23 | 2022-10-16 |
-| [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-05-02 |  |
+| [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-05-02 | 2023-05-14 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-01-17 | 2022-01-26 |
 | [I Got Summer on My Mind](https://open.spotify.com/track/2vQ5HpRpn8S2qlrZbLsaFr) | [Elli Eli](https://open.spotify.com/artist/7r1VJ53RGn5jqR98Sgpe9l), [Raritto San](https://open.spotify.com/artist/1W87sh4ExQH85Jy3BuVX43) | [I Got Summer On My Mind](https://open.spotify.com/album/1aBTzwMCesh4ERMJOfQvjX) | 3:25 | 2022-03-05 | 2022-04-09 |
 | [I Know \- PR1SVX Edit](https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:13 | 2023-04-18 | 2023-04-30 |
@@ -761,6 +761,7 @@
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-01-26 | 2022-03-09 |
 | [Mulher do Fim do Mundo](https://open.spotify.com/track/6JyyilCXZPb8fm0tQPqjUZ) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Mulher do Fim do Mundo](https://open.spotify.com/album/0I316eFTjobTdyH5xtniYe) | 4:37 | 2022-01-21 | 2022-01-30 |
 | [Mulher maravilha](https://open.spotify.com/track/35wrYyA8UwP4fqEO6XwLeP) | [Duduca & Dalvan](https://open.spotify.com/artist/3EMOVqtPqnQBmzBFiaZzuS) | [Gigantes](https://open.spotify.com/album/3ZB9tYu46gkEZIF2xDesWE) | 3:33 | 2023-04-23 | 2023-04-30 |
+| [Mutante](https://open.spotify.com/track/5rShS5dwU8nIe21jlQnbxK) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Saúde](https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR) | 3:24 | 2023-05-13 |  |
 | [My Paradise \- Vintage Culture Remix](https://open.spotify.com/track/4l1k3bK6OGwfRqbW5HiyT3) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [My Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/1DtjbG6Y6mma7ZjIqgNKlm) | 2:50 | 2022-09-27 | 2022-10-01 |
 | [Mágico do Som](https://open.spotify.com/track/0eumeycOAI8ew5qRzFJbEr) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Mágico do Som](https://open.spotify.com/album/6elOu6PrCxDHrnOT9E2wjC) | 2:01 | 2022-04-10 | 2022-04-27 |
 | [Média Boa \- Ao Vivo](https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Média Boa \(Ao Vivo\)](https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj) | 2:28 | 2022-10-04 | 2023-01-09 |

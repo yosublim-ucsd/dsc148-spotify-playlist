@@ -795,6 +795,28 @@
     },
     {
       "album": {
+        "name": "MVP (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173948,
+      "name": "MVP (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
+    },
+    {
+      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
@@ -1116,7 +1138,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 174333,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/735RSTb2xbtWbDtKD9XDYi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 
 > This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,717 likes - 44 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,840 likes - 44 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 32 | [Old Friends](https://open.spotify.com/track/7vJRHZP1PuNwjUcoCsWlul) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:35 |
 | 33 | [The Times They Are A\-Changin'](https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:50 |
 | 34 | [You Don't Know Where Your Interest Lies \- Single B\-Side \- 1968](https://open.spotify.com/track/0umD849rktmP7fcXCSukYk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends](https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl) | 2:18 |
-| 35 | [Slip Slidin' Away \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3sfwzml4pqeGyeK1aTEmAF) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:42 |
+| 35 | [A Heart In New York \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/6IyU2LIPfopCfbWewM2UdO) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 3:01 |
 | 36 | [Punky's Dilemma](https://open.spotify.com/track/5UsyaEfEsenoqvWkbVU0Wp) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:12 |
 | 37 | [Old Friends / Bookends Theme \- Live in Toledo, OH \- November 1969](https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:22 |
 | 38 | [Citizen of the Planet](https://open.spotify.com/track/1ir7Or967weO0kwfatM7W5) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 3:14 |
-| 39 | [A Heart In New York \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/6IyU2LIPfopCfbWewM2UdO) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 3:01 |
+| 39 | [Slip Slidin' Away \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3sfwzml4pqeGyeK1aTEmAF) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:42 |
 | 40 | [Hey, Schoolgirl \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/0gLKbk1cOAy2bbBOsbPALz) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 0:45 |
 | 41 | [American Tune \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/6xoFYGW7KJsF4SfTz8nxOk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:35 |
 | 42 | [Tom and Jerry Story \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 2:14 |
 | 43 | [Me and Julio Down by the Schoolyard \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/48mETFQ8n1Cq04eR32eyAn) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 3:47 |
 | 44 | [Kodachrome / Mabellene \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/1f4CJp5p2OWS0dsyK1symi) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 5:49 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA2NDljMzkxZTFhMTcwMzNhMTlkZWJmZjM0YjA5MGM4YQ==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDBmNjc4ZGFiZTQ3MDMyNzYyNTdlNDUxOThiNDYxN2NjZg==`

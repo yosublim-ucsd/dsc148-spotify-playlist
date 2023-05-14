@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-113 songs - 7 hr 43 min
+114 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Purpose](https://open.spotify.com/track/3YtGpYYI3RvOsyuJNjZrvK) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2023-02-09 |  |
 | [Saraba!](https://open.spotify.com/track/2cpOJenpWVZrF6ag98V9aU) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:59 | 2023-03-28 | 2023-04-05 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2023-02-09 |  |
+| [Stand by me, Stand by you.](https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 | 2023-05-10 |  |
 | [Subtitle](https://open.spotify.com/track/4zrKPIygugUDKGFEjVwpSB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/12sWDwrDnaBl0EagZU4sXV) | 5:05 | 2023-02-09 |  |
 | [Sukijanaiyo](https://open.spotify.com/track/1e83LbYSYSdqwcYsuq3sA8) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 4:46 | 2023-03-16 | 2023-03-23 |
 | [Sukijanaiyo](https://open.spotify.com/track/23AdLPEUScszzqA51mU6wq) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Sukijanaiyo](https://open.spotify.com/album/6ZkWBopcFVcuB2K8Gxj8r7) | 4:48 | 2023-02-09 | 2023-03-18 |
@@ -97,7 +98,7 @@
 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 | 2023-02-09 | 2023-03-03 |
 | [恋だろ](https://open.spotify.com/track/0ir7DGXo3hxaPa82h1vrOj) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [恋だろ](https://open.spotify.com/album/0WkjisVaB4pwRf521uF6Qa) | 4:42 | 2023-02-09 | 2023-03-18 |
 | [恋人ごっこ](https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 3:20 | 2023-02-09 |  |
-| [恋人じゃなくなった日](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [恋人じゃなくなった日](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) | 3:44 | 2023-02-14 |  |
+| [恋人じゃなくなった日](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [恋人じゃなくなった日](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) | 3:44 | 2023-02-14 | 2023-05-14 |
 | [恋風邪にのせて](https://open.spotify.com/track/6z5zopmol2EeKDjeRH2QfM) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/25RY2kxcFBcrcOk47aZspA) | 4:15 | 2023-02-09 | 2023-04-05 |
 | [愛とか恋とか](https://open.spotify.com/track/4McP7SOTK2NWkydOcDCajC) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [愛とか恋とか](https://open.spotify.com/album/4z3h8ucXGzCkhEWhIlkvTZ) | 3:52 | 2023-02-09 |  |
 | [愛の花](https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/34svnrcYhteBFCSQMLnfYZ) | 4:00 | 2023-04-05 | 2023-04-06 |

@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 216204,
       "name": "Affaire de Colecci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0dHpIAezpDGLW27v6g7ek0"
@@ -1734,6 +1734,28 @@
       "duration_ms": 200875,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/62AxB4BpSqAhbBEdcBOrpD"
+    },
+    {
+      "album": {
+        "name": "Secreto a Voces",
+        "url": "https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7"
+      },
+      "artists": [
+        {
+          "name": "Juan Baro",
+          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
+        },
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231569,
+      "name": "Secreto a Voces",
+      "url": "https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c"
     },
     {
       "album": {

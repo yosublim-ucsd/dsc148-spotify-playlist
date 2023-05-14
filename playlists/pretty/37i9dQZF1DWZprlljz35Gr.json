@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 7416,
+  "num_followers": 7432,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmE0MDEyYWJmOTU4MGY0ZDY0NDg0MmQ2MTI4OWNmZTljYzMxYzgw",
+  "snapshot_id": "MCwxNzcyYmZhMGM5MjI3Mjc3YmUzZWIxMDk3NGM1ZjE4ZjEyZTQ2YzJh",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Good Girl Blues",
+        "url": "https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G"
+      },
+      "artists": [
+        {
+          "name": "The Soul Of John Black",
+          "url": "https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Swamp Thang",
+      "url": "https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Why Not?",
         "url": "https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 380406,
       "name": "Robot Blues",
       "url": "https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Good Girl Blues",
-        "url": "https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G"
-      },
-      "artists": [
-        {
-          "name": "The Soul Of John Black",
-          "url": "https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Swamp Thang",
-      "url": "https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj"
     },
     {
       "added_at": "2020-12-01 05:01:00",

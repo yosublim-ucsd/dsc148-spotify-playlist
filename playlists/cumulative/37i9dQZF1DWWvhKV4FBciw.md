@@ -4,7 +4,7 @@
 
 > A selection of the greatest funk & soul records ever made.
 
-185 songs - 11 hr 17 min
+186 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [California Soul](https://open.spotify.com/track/0lNvrXhFOCbHXmxNLGIC7q) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life \(LPR\)](https://open.spotify.com/album/3RUdAHsBOskqStLs3juHm2) | 2:57 | 2020-09-10 | 2022-07-29 |
 | [Can You Get To That](https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 2:49 | 2020-09-10 |  |
 | [Can You Get To That](https://open.spotify.com/track/6QUngYwZ65et2ye7Bj85EK) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/32mkDUhwDI9JCnKLjm5RGw) | 2:51 | 2020-09-10 | 2022-07-29 |
-| [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 | 2022-09-23 |  |
+| [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 | 2022-09-23 | 2023-05-14 |
 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 | 2020-09-10 |  |
 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 | 2022-09-23 | 2023-02-01 |
 | [Dancing In The Street](https://open.spotify.com/track/3UoUMTLrAmjlHSmuC8aEKq) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/5AckP5jdfjCNnjj5JbM1uH) | 2:45 | 2020-09-10 | 2022-07-29 |
@@ -73,6 +73,7 @@
 | [How Do I Let a Good Man Down?](https://open.spotify.com/track/30lSYnB1aJjmxuJFXhJuhD) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 3:02 | 2022-09-23 | 2023-02-23 |
 | [How Do I Let a Good Man Down?](https://open.spotify.com/track/7lWv5nVZoX3Dkk2KnZS2jV) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1ARyfw246YulT9j3B2qfXl) | 3:02 | 2020-09-10 | 2022-07-29 |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2020-09-10 | 2023-05-01 |
+| [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 | 2022-09-23 |  |
 | [How Long Do I Have To Wait For You?](https://open.spotify.com/track/4fMXQkXkfmO6KWKVwxvkWT) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1ARyfw246YulT9j3B2qfXl) | 4:03 | 2020-09-10 | 2022-07-29 |
 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/2xVtBEcsM6s2RsH8wkirhS) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va), [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Best Of Rotary Connection](https://open.spotify.com/album/51eqNHht7wUBpKBc9fbsxK) | 5:49 | 2020-09-10 | 2022-07-28 |
 | [I Believe In Miracles \- Extended Version](https://open.spotify.com/track/2Udsvry9IltDkelRQ7X4WU) | [Jackson Sisters](https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ) | [The Collection](https://open.spotify.com/album/7gYiORFv31o8Auo1UQqGqc) | 4:52 | 2020-09-10 | 2022-07-29 |

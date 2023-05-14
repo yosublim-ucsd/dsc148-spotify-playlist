@@ -4,7 +4,7 @@
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 51 min
+72 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ahí Estás Tú](https://open.spotify.com/track/7yB5njwxAYnmjO12woRXTc) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 3:11 | 2022-06-01 | 2022-10-19 |
 | [Andamos En El Ruedo](https://open.spotify.com/track/2azbAaKzJqSueV04vjqSaL) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 2:46 | 2022-06-01 |  |
 | [Borrachos Por Amor](https://open.spotify.com/track/756car8F1QRXlZBmafNRcV) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:22 | 2022-06-01 | 2023-05-09 |
-| [Cinderella de Mis Noches](https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Exotic Corridos](https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY) | 2:53 | 2022-06-01 |  |
+| [Cinderella de Mis Noches](https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Exotic Corridos](https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY) | 2:53 | 2022-06-01 | 2023-05-14 |
 | [Como Decía El Compa Ariel \- En Vivo](https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Como Decía El Compa Ariel \(En Vivo\)](https://open.spotify.com/album/2CCxv6n3BrljYorG3PwxZb) | 3:10 | 2022-06-01 |  |
 | [Como los Vaqueros](https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:28 | 2022-06-01 | 2023-05-10 |
 | [Como No Me Iba a Enamorar \- En Vivo](https://open.spotify.com/track/5yd7ST6KDmVLgsDVzGPq7x) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Chander Vidal](https://open.spotify.com/artist/3ql6bdb3wndJAC9tEyw1Nx) | [Desde Navolato Vengo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9) | 3:23 | 2022-06-01 | 2022-10-13 |
@@ -53,6 +53,7 @@
 | [Para Ti Papá](https://open.spotify.com/track/1kqSCTQ2KReQ2bzmEcFvnI) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Para Ti Papá](https://open.spotify.com/album/383d57AAMCzhhvbc1RKGZU) | 4:14 | 2022-06-01 |  |
 | [Por Ti](https://open.spotify.com/track/6EoJjlaHxHGuDGYQd2xMJB) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:42 | 2023-05-11 |  |
 | [Porque Llegaste Tu](https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:04 | 2023-05-07 |  |
+| [Que Bonita Estas](https://open.spotify.com/track/6e8Oe2rA2Vk7m556wEN1sX) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:51 | 2023-05-13 |  |
 | [Que Bonito](https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Que Bonito](https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr) | 2:40 | 2022-06-01 |  |
 | [Que Bonito Es Querer](https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:29 | 2022-06-01 |  |
 | [Que La Quieran \(Que La Cuiden\)](https://open.spotify.com/track/1axqKw987jqGeTfjm9tOuv) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Que La Quieran \(Que La Cuiden\)](https://open.spotify.com/album/4pLO8dVJIBjoxiRjIM2KRG) | 3:14 | 2022-06-01 |  |

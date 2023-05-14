@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: PG
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,763 likes - 70 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,814 likes - 70 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 14 | [Assume A Responsa](https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 4:19 |
 | 15 | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f) | 4:01 |
 | 16 | [Medley Leão de Judá](https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 80's](https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu) | 4:56 |
-| 17 | [Cordeiro e Leão](https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Cordeiro e Leão](https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI) | 3:56 |
+| 17 | [Retrato](https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Retrato](https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8) | 5:33 |
 | 18 | [Que o Cordeiro Receba \- Ao Vivo](https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75) | [Flavio Vasques](https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf), [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Santificado \(Ao Vivo\)](https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1) | 9:22 |
-| 19 | [Retrato](https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Retrato](https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8) | 5:33 |
+| 19 | [Cordeiro e Leão](https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Cordeiro e Leão](https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI) | 3:56 |
 | 20 | [A Estátua](https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Diego Rox](https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg) | [A Estátua](https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK) | 3:27 |
 | 21 | [Onde Tem Lenha](https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Jeff Damaceno](https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Onde Tem Lenha](https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI) | 9:54 |
 | 22 | [Baile das Máscaras](https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Baile das Máscaras](https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t) | 3:35 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 49 | [O que o céu começa o céu termina \- Ao Vivo](https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [O que o céu começa o céu termina \(Ao Vivo\)](https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9) | 4:11 |
 | 50 | [Te Seguirei](https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Te Seguirei](https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E) | 4:50 |
 | 51 | [Náufrago](https://open.spotify.com/track/4S59qX21KI984gd80DhHCx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Hoje](https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z) | 4:04 |
-| 52 | [Louco \(feat\. PG\)](https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Louco \(feat\. PG\)](https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg) | 5:09 |
-| 53 | [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 |
+| 52 | [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 |
+| 53 | [Louco \(feat\. PG\)](https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Louco \(feat\. PG\)](https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg) | 5:09 |
 | 54 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
 | 55 | [Não Há Variação](https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ) | [Redentto](https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj) | [Não Há Variação](https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr) | 4:25 |
 | 56 | [Socorre\-Me](https://open.spotify.com/track/2cHtur9bWnYwsq6pbuJT1i) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Quarantine Session](https://open.spotify.com/album/6m8Wrjp6evIkYI0fLlH6Uw) | 3:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Descanso](https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Descanso](https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH) | 6:43 |
 | 70 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 |
 
-Snapshot ID: `MCxjY2I2OTJkYmU4ZDIzOGRhNmJhNWMyYjdmM2VlMmFkZTVmMTM4OTZm`
+Snapshot ID: `MCw3YThhMjQyNzQzNWNiNDE4MDVmODc0NTcxM2NkYTk4YTMyZTM3ZmRk`

@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-605 songs - 1 day 23 hr 55 min
+606 songs - 1 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Don't Take Your Love From Me](https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem On My Mind](https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd) | 4:52 | 2022-10-27 |  |
 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 | 2022-10-27 |  |
 | [Donna Lee](https://open.spotify.com/track/2u9OxJTn3Of4aMYp9K71kE) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Complete Savoy & Dial Master Takes](https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT) | 2:34 | 2022-12-07 |  |
+| [Donna Lee](https://open.spotify.com/track/1zWG5Jk6mcC1ewXlYYVaxC) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Jaco Pastorius](https://open.spotify.com/album/6SsT4Zyev0zS7eocL0B72m) | 2:27 | 2023-05-09 |  |
 | [Dorene Don't Cry, I \- Remastered](https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:14 | 2022-10-27 | 2023-04-29 |
 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 | 2022-10-27 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 | 2022-10-27 |  |
@@ -476,7 +477,7 @@
 | [Stolen Moments](https://open.spotify.com/track/1sce5VJvCOYYDAR9rp9KdG) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 8:45 | 2022-10-27 |  |
 | [Stompin At The Savoy](https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [B\. G\. In Hi Fi](https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct) | 3:15 | 2022-10-27 |  |
 | [Stompin' At The Savoy](https://open.spotify.com/track/1YwL0oRz2KmlNcO2ahQWOn) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 3:09 | 2022-10-27 |  |
-| [Stompin' At The Savoy \- 1956 Version](https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 4:09 | 2022-10-27 |  |
+| [Stompin' At The Savoy \- 1956 Version](https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 4:09 | 2022-10-27 | 2023-05-14 |
 | [Stop, Look, Listen \(To Your Heart\)](https://open.spotify.com/track/24Wg5AQK6AaNyZBTpL1unQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 4:56 | 2022-10-27 |  |
 | [Stormy Weather](https://open.spotify.com/track/5PocwBP4qm33W4eQSZyVBZ) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 3:34 | 2022-10-27 |  |
 | [Stormy Weather](https://open.spotify.com/track/32pQP3XD7rIYraHKMVq9pu) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 10:35 | 2022-10-27 |  |

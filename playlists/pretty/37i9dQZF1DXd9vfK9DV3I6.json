@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 249137,
+  "num_followers": 249382,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YThkOTk4M2VkYzg4ODdiYTg0MTI2MGM4YjcxZmQzNzY3MjM4M2Uy",
+  "snapshot_id": "MCw2ODg4ZGE5NWJiNjVmNGVmYjU0OTIyYzNlYjI1ZDllM2U3NWE0Nzdi",
   "tracks": [
     {
       "added_at": "2023-04-28 15:20:33",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Love of You (The Violin Song)",
-        "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
-      },
-      "artists": [
-        {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
-        },
-        {
-          "name": "Brianna",
-          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
-        }
-      ],
-      "duration_ms": 160575,
-      "name": "Love of You (The Violin Song)",
-      "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Che Danestam (Seventh Soul Remix)",
         "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 506666,
       "name": "Che Danestam - Seventh Soul Remix",
       "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "Love of You (The Violin Song)",
+        "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
+      },
+      "artists": [
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        },
+        {
+          "name": "Brianna",
+          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+        }
+      ],
+      "duration_ms": 160575,
+      "name": "Love of You (The Violin Song)",
+      "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Sireli",
-        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
-      },
-      "artists": [
-        {
-          "name": "Viken Arman",
-          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
-        }
-      ],
-      "duration_ms": 381818,
-      "name": "Souq",
-      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -1059,22 +1043,18 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Sakaratou Achiqin",
-        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
+        "name": "Sireli",
+        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
       },
       "artists": [
         {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Mawal Lotfi",
-          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
         }
       ],
-      "duration_ms": 139415,
-      "name": "Sakaratou Achiqin",
-      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
+      "duration_ms": 381818,
+      "name": "Souq",
+      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1091,6 +1071,26 @@
       "duration_ms": 270015,
       "name": "La rose \u00e9ternelle",
       "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "Sakaratou Achiqin",
+        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Mawal Lotfi",
+          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
+        }
+      ],
+      "duration_ms": 139415,
+      "name": "Sakaratou Achiqin",
+      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
-      },
-      "artists": [
-        {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
-        }
-      ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
@@ -1571,26 +1551,22 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
       },
       "artists": [
         {
-          "name": "Frauble",
-          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
         },
         {
-          "name": "Behmer",
-          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
-        },
-        {
-          "name": "Galwaro",
-          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
         }
       ],
-      "duration_ms": 176164,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1623,6 +1599,30 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
+      },
+      "artists": [
+        {
+          "name": "Frauble",
+          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
+        },
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        },
+        {
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+        }
+      ],
+      "duration_ms": 176164,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "3ala bali",
         "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
@@ -1639,26 +1639,6 @@
       "duration_ms": 210132,
       "name": "3ala bali",
       "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
-      },
-      "artists": [
-        {
-          "name": "IV-IN",
-          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 262641,
-      "name": "Vestido Preto",
-      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1699,6 +1679,26 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
+      },
+      "artists": [
+        {
+          "name": "IV-IN",
+          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 262641,
+      "name": "Vestido Preto",
+      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
@@ -1715,26 +1715,6 @@
       "duration_ms": 334889,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "Arab Money",
-        "url": "https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5"
-      },
-      "artists": [
-        {
-          "name": "Moonlight",
-          "url": "https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ"
-        },
-        {
-          "name": "Dayana",
-          "url": "https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Arab Money",
-      "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1759,6 +1739,26 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "Arab Money",
+        "url": "https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5"
+      },
+      "artists": [
+        {
+          "name": "Moonlight",
+          "url": "https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ"
+        },
+        {
+          "name": "Dayana",
+          "url": "https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Arab Money",
+      "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Moulayiten",
         "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Mawjou3 Galbi",
-        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        },
-        {
-          "name": "Najwa Farouk",
-          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Mawjou3 Galbi",
-      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Mindreader",
         "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
       },
@@ -1815,26 +1795,22 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Stop the Time",
-        "url": "https://open.spotify.com/album/23WqBmAtkeKhjzmxYpgVqu"
+        "name": "Mawjou3 Galbi",
+        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
       },
       "artists": [
         {
-          "name": "Pad\u00e9",
-          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
         },
         {
-          "name": "G\u00f6rkem Sala",
-          "url": "https://open.spotify.com/artist/7dsJIPuXciM0pz4G7CA3ZC"
-        },
-        {
-          "name": "Basia Janyga",
-          "url": "https://open.spotify.com/artist/3pNENhK1BGW2aQljN5xyUR"
+          "name": "Najwa Farouk",
+          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
         }
       ],
-      "duration_ms": 181161,
-      "name": "Stop the Time",
-      "url": "https://open.spotify.com/track/6JmAYUDf96VAP0jzHOcHdF"
+      "duration_ms": 198200,
+      "name": "Mawjou3 Galbi",
+      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1891,6 +1867,30 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "Stop the Time",
+        "url": "https://open.spotify.com/album/23WqBmAtkeKhjzmxYpgVqu"
+      },
+      "artists": [
+        {
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+        },
+        {
+          "name": "G\u00f6rkem Sala",
+          "url": "https://open.spotify.com/artist/7dsJIPuXciM0pz4G7CA3ZC"
+        },
+        {
+          "name": "Basia Janyga",
+          "url": "https://open.spotify.com/artist/3pNENhK1BGW2aQljN5xyUR"
+        }
+      ],
+      "duration_ms": 181161,
+      "name": "Stop the Time",
+      "url": "https://open.spotify.com/track/6JmAYUDf96VAP0jzHOcHdF"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
       },
@@ -1927,30 +1927,22 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
+        "name": "Isla Bonita",
+        "url": "https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU"
       },
       "artists": [
         {
-          "name": "Billy Esteban",
-          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
         },
         {
-          "name": "Ghenwa Nemnom",
-          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Yohan & David",
-          "url": "https://open.spotify.com/artist/2qeOIsxc6nlKxjjAHVJvik"
+          "name": "MD DJ",
+          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
         }
       ],
-      "duration_ms": 452950,
-      "name": "Mosaic - Yohan & David Remix",
-      "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
+      "duration_ms": 181000,
+      "name": "Isla Bonita - Radio Edit",
+      "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
     }
   ],
   "unique_name": "mosaic",

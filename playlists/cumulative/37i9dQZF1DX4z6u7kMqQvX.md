@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-424 songs - 1 day 0 hr 10 min
+425 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Lo Que Hoy Quieras](https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Que Hoy Quieras](https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR) | 2:55 | 2022-05-09 |  |
 | [Lo que necesitas es amor](https://open.spotify.com/track/1uFjS7vaCWrw9I3CiXOMdY) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Lo que necesitas es amor](https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe) | 5:03 | 2022-01-07 | 2023-03-03 |
 | [Lo Que Quieras](https://open.spotify.com/track/33mcpZMTT27FkyjnJ848Dz) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Todo Lo Sólido Se Desvanece en el Aire](https://open.spotify.com/album/1LGH4NHBhLBQtFL6Ouqicf) | 4:29 | 2022-01-07 | 2022-07-16 |
-| [Lo Que Quieras](https://open.spotify.com/track/3eeVnrODL1rVq94TQaYK8p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Todo Lo Sólido Se Desvanece en el Aire](https://open.spotify.com/album/3wLGZ4KdmOcXmWNHpuRo0t) | 4:29 | 2023-03-03 |  |
+| [Lo Que Quieras](https://open.spotify.com/track/3eeVnrODL1rVq94TQaYK8p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Todo Lo Sólido Se Desvanece en el Aire](https://open.spotify.com/album/3wLGZ4KdmOcXmWNHpuRo0t) | 4:29 | 2023-03-03 | 2023-05-14 |
 | [Lo Que Siento](https://open.spotify.com/track/47mhQpxuG4lA6ah7hqDvVe) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Lo Que Siento](https://open.spotify.com/album/1y8ohzuv7bF94pXkIkAfBT) | 4:30 | 2022-01-28 | 2022-07-20 |
 | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8) | [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW) | 3:31 | 2022-01-07 | 2022-07-29 |
 | [Lo Quiero Ya](https://open.spotify.com/track/43srqItOQC7eURQ2Re0HKt) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Lo Quiero Ya](https://open.spotify.com/album/15rgy51NaYmffcxPkPumS4) | 1:56 | 2022-07-15 | 2022-07-20 |
@@ -368,6 +368,7 @@
 | [Sueño Tsunami](https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv) | 2:57 | 2022-12-16 |  |
 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 | 2022-01-07 |  |
 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 | 2023-01-29 | 2023-03-03 |
+| [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 | 2023-05-12 |  |
 | [Tarde](https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Tarde](https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD) | 3:58 | 2022-01-28 | 2022-06-25 |
 | [Te Alejas Más De Mí](https://open.spotify.com/track/5C2oCLLrtnYI8nNVOOruar) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Te Alejas Más De Mí](https://open.spotify.com/album/6xQCTmwCep5eHgdOOOYmO9) | 3:39 | 2022-01-07 |  |
 | [Te Choca Te Checa](https://open.spotify.com/track/2Ng0PljkpZeMpHHTOQ5rOk) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Te Choca Te Checa](https://open.spotify.com/album/0vK6o7eQkYJaWSjtPhlONL) | 2:10 | 2022-01-28 | 2022-07-27 |

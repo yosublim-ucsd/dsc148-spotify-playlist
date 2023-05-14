@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 
 > Il sound giusto per creare in cucina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,501 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,507 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 51 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:34 |
 | 52 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 |
 | 53 | [Por Causa De Você, Menina](https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:47 |
-| 54 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/1dx48GQoWg5u6ssXmihkV2) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 |
-| 55 | [Lonely Teardrops](https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Lonely Teardrops](https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT) | 2:46 |
+| 54 | [Lonely Teardrops](https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Lonely Teardrops](https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT) | 2:46 |
+| 55 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/1dx48GQoWg5u6ssXmihkV2) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 |
 | 56 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 |
 | 57 | [You Can Get It If You Really Want](https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK) | 2:42 |
 | 58 | [Soy El Rey](https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 3:05 |
 | 59 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 |
-| 60 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Elegance: The Birth Of The Modern Jazz Quartet](https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC) | 3:29 |
-| 61 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
-| 62 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 |
-| 63 | [Mi Swing es Tropical](https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3) | 3:42 |
+| 60 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
+| 61 | [Mi Swing es Tropical](https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3) | 3:42 |
+| 62 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Elegance: The Birth Of The Modern Jazz Quartet](https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC) | 3:29 |
+| 63 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 |
 | 64 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
 | 65 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
 | 66 | [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 76 | [The Shade of the Mango Tree](https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Bonfa Burrows Brazil](https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq) | 3:54 |
 | 77 | [O Morro \(Não Tem Vez\)](https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:56 |
 | 78 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
-| 79 | [Vem Menina](https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk) | 4:19 |
-| 80 | [Amor em Jacumã](https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K) | 3:34 |
+| 79 | [Amor em Jacumã](https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K) | 3:34 |
+| 80 | [Vem Menina](https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk) | 4:19 |
 
-Snapshot ID: `MCxlYzE1NTI3ZWU4MzQ5ZDFkMWI3YmU5ZmFkMjdkYzhhNWEzYmI1MjE3`
+Snapshot ID: `MCw5ZjdkMDQyY2U5ZDhkOTU0MjI4NjllM2NkZGEyNjI3OTRjNDRkNzg1`

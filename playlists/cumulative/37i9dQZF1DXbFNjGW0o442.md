@@ -4,11 +4,12 @@
 
 > Guerreras del rock latinoamericano\. Foto: Ana Sanz
 
-236 songs - 14 hr 8 min
+237 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#3](https://open.spotify.com/track/1uRihlRJsDwZDua2HzUTMs) | [Caro Luisa](https://open.spotify.com/artist/5jpYEIn8PiFl8HmZ0sFpOb) | [\#3](https://open.spotify.com/album/2ngqOCSgr6VREfGkEsmm3m) | 3:45 | 2022-01-20 | 2022-07-28 |
+| [02:51](https://open.spotify.com/track/6ZxMFRBxRW0jLWiVs9RKFB) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [02:51](https://open.spotify.com/album/38Uuksmr3lpYuUQGbH2YIl) | 4:11 | 2023-05-12 |  |
 | [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-01-20 | 2022-11-02 |
 | [2 Espinas](https://open.spotify.com/track/4WlGBEqRSW6lRGatGMB4h0) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [2 Espinas](https://open.spotify.com/album/79pU5sxVgLMHTRG4gbMzvV) | 3:31 | 2022-01-20 | 2023-05-11 |
 | [420](https://open.spotify.com/track/3YwPUBBP5zKXqnsmpbOKka) | [Boconas](https://open.spotify.com/artist/5QUMXH6cu4OHbGqT4uQRJI) | [420](https://open.spotify.com/album/5TWt1ln4nz4OxObp3QJPqW) | 2:36 | 2022-01-20 | 2022-07-17 |
@@ -99,8 +100,8 @@
 | [Génesis](https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 4:26 | 2022-01-20 |  |
 | [Hey](https://open.spotify.com/track/58GQd1iu8VizO0lYM1pMs7) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Hey](https://open.spotify.com/album/0OBfPwgHs21rpksGctLtzM) | 3:12 | 2022-01-20 | 2022-07-28 |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-01-20 |  |
-| [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-01-20 | 2022-07-29 |
-| [Hola](https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Hola](https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu) | 2:05 | 2022-01-20 |  |
+| [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-01-20 |  |
+| [Hola](https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Hola](https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu) | 2:05 | 2022-01-20 | 2023-05-14 |
 | [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 | 2022-01-20 | 2023-03-22 |
 | [Héroes Anónimos](https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B) | [Metrópoli](https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2) | [Viaje al Más Acá \(Remastered 2020\)](https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet) | 3:12 | 2022-01-20 |  |
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2022-11-11 |  |
@@ -195,7 +196,7 @@
 | [Qué Va a Ser de Mí](https://open.spotify.com/track/5mAvpLtNWuJ4yZkHz0qW35) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N) | [Qué Va a Ser de Mí](https://open.spotify.com/album/53Bep0Jp0mCwzRqTPjUj2X) | 3:53 | 2022-01-20 | 2022-07-29 |
 | [Salir](https://open.spotify.com/track/4DWqEzUWaYMiTg0cFcHQk3) | [LibertinA](https://open.spotify.com/artist/6M9b9Bk5yqLe7up4eluePE) | [Klapaucius](https://open.spotify.com/album/40IzdWlqqOgu9tMwG6ymbv) | 2:15 | 2022-01-20 | 2022-07-29 |
 | [Santa Rita](https://open.spotify.com/track/5zczgX7px6Eeq2DvHLOD6Z) | [Lu Martinez](https://open.spotify.com/artist/2WW3y6gc1uo1THXmvocwJu) | [El Calor](https://open.spotify.com/album/1pwQ4NwOfZNsjMVNKas5zO) | 3:16 | 2022-01-20 | 2022-07-28 |
-| [Se Trata de Ti](https://open.spotify.com/track/5MHwWwRvXkIG9lpGZxlqLb) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Se Trata de Ti](https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc) | 4:25 | 2022-01-20 |  |
+| [Se Trata de Ti](https://open.spotify.com/track/5MHwWwRvXkIG9lpGZxlqLb) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Se Trata de Ti](https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc) | 4:25 | 2022-01-20 | 2023-05-14 |
 | [Ser Humano](https://open.spotify.com/track/5RcDXoxRQIlxsjJnQbkMGm) | [Natalia y La Forquetina](https://open.spotify.com/artist/2aotoGt6dVYi7Mr3YRmDK3) | [Casa](https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc) | 3:30 | 2022-01-20 |  |
 | [Shangri\-La](https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Onírica](https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef) | 3:43 | 2022-01-20 | 2023-03-18 |
 | [Si Me Canso de Callar](https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:38 | 2022-01-20 | 2023-04-15 |

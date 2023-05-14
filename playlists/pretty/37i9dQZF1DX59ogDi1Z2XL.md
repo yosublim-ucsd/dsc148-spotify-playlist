@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Sukha, AR Paisley, Prodgk, Sunny Malton
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,468 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,486 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [B.G.A](https://open.spotify.com/track/3d0Q8lgAV5eBdLm6P2Mu4k) | [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [B.G.A](https://open.spotify.com/album/6Z3PqPEQsp7bWiFGr0gtNf) | 1:47 |
 | 100 | [Finesse Demons](https://open.spotify.com/track/4aG1LGfEqZh5UQmtyAogoU) | [Jimmy Yitty](https://open.spotify.com/artist/2oOPVizPrUkoNmnqo7wdBx) | [Finesse Demons](https://open.spotify.com/album/1nV2gt4a6uNV2U9GLES9Wt) | 2:30 |
 
-Snapshot ID: `MCwwNDhmMTMzNzdiYzU3ZjQ3OWJhMzMxYzA2YWExZTllNGQ5ZjYyOTg3`
+Snapshot ID: `MCxjYWNlNzhmZDUxYmRlZDEwOGZkNjQyNmJlN2JkZWU2MDM4MGMzMmMy`

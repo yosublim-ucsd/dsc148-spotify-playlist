@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Las m\u00e1s poderosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Natanael Cano.",
+  "description": "\u00a1Las m\u00e1s poderosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Eden Mu\u00f1oz & Junior H.",
   "name": "La Reina: \u00c9xitos de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -122,6 +122,28 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
+    },
+    {
+      "album": {
+        "name": "Abcdario",
+        "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220650,
+      "name": "Abcdario",
+      "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
     },
     {
       "album": {
@@ -300,7 +322,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 281100,
       "name": "Amor",
       "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"

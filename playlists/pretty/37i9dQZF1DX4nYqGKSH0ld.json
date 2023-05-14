@@ -1,12 +1,12 @@
 {
   "description": "Get ready for good feels and fireworks!",
-  "num_followers": 132040,
+  "num_followers": 132041,
   "original_name": "4th of July Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWFlNDQxNGFhMzdkNTNjZDM0YjIxY2M2NDI4Mzc4ZGE0ZDM0NGFm",
+  "snapshot_id": "MCw0NWM1ODVlY2M2YmUwNzc2ZDRmYzg2MDExMWIwYzAzMmQ3ZDc2NzNh",
   "tracks": [
     {
       "added_at": "2022-07-04 20:41:30",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": "2022-07-04 20:41:30",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
+        "name": "True Believers",
+        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
-        "name": "True Believers",
-        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
     },
     {
       "added_at": "2022-07-04 20:41:30",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
         "name": "How Can You Mend A Broken Heart",
         "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 196213,
       "name": "More Than A Woman",
       "url": "https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
     },
     {
       "added_at": "2022-07-04 20:41:30",

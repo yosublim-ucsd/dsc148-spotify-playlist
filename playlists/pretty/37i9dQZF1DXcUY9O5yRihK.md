@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 
 > bossa vibes and a romantic daydream
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,474 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,579 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 | 12 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
 | 13 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:42 |
 | 14 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 |
-| 15 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:13 |
+| 15 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 |
 | 16 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 17 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 |
 | 18 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 | 59 | [When I Look Into Your Eyes](https://open.spotify.com/track/6h0zYPs9wEj3ydlgwpibSL) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Lanie](https://open.spotify.com/artist/1qUDBm1ALFrHogBczA8KIF) | [When I Look Into Your Eyes](https://open.spotify.com/album/6wT9XMbBpXNZTkXGatvKiV) | 2:30 |
 | 60 | [Cozy](https://open.spotify.com/track/0XzcZKCGW2eCVNGMS03GYt) | [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV), [Still Haze](https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z) | [Cozy](https://open.spotify.com/album/1gU8z2DBmS5Ic39RLx1jry) | 1:49 |
 
-Snapshot ID: `MCw1ZDZjYWM4MzE2OWY0M2RkMGY3NjNiODFkYjgyNmFjYzE0NWMwNGY3`
+Snapshot ID: `MCxlODA2MGFkNDYwMDJmNmNiYjZhMTMyZDk0ZjM3NDliZjcwODA1MjIx`

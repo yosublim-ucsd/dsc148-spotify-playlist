@@ -1,12 +1,12 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Justin Quiles, Myke Towers, Ozuna",
-  "num_followers": 391770,
+  "num_followers": 392141,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDY1NjMxNTljNmQwZjQ5YzQ1MjBkOWQ3NTNmNDJiODQzZjg0ZWYy",
+  "snapshot_id": "MCw2NDBjOTQ5YWMyZDZhNjYwMDNmZTE0ZmYxODQzNDRmYzg1YTUxYzEz",
   "tracks": [
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "Loco Por Perrearte (Remix)",
-        "url": "https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199148,
-      "name": "Loco Por Perrearte - Remix",
-      "url": "https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "El Efecto (Remix)",
         "url": "https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 289898,
       "name": "El Efecto - Remix",
       "url": "https://open.spotify.com/track/74j34STf8L6uADnTN69ohv"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "Loco Por Perrearte (Remix)",
+        "url": "https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "Loco Por Perrearte - Remix",
+      "url": "https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1231,6 +1231,30 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
+        "name": "Ella No Es Tuya (Remix)",
+        "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Ella No Es Tuya - Remix",
+      "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
         "name": "LOKOTRON REMIX",
         "url": "https://open.spotify.com/album/20AWnC24OYqJyZfmzcEc9N"
       },
@@ -1263,30 +1287,6 @@
       "duration_ms": 370666,
       "name": "LOKOTRON REMIX",
       "url": "https://open.spotify.com/track/5uq1p5tvZhSTRpZZTwuQPj"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
-        "name": "Ella No Es Tuya (Remix)",
-        "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Ella No Es Tuya - Remix",
-      "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 197374,
-      "name": "Gladiador - Remix",
-      "url": "https://open.spotify.com/track/1IbYD5V9zCvkPfIPcWqerO"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "Dream Girl (Remix)",
         "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 197374,
+      "name": "Gladiador - Remix",
+      "url": "https://open.spotify.com/track/1IbYD5V9zCvkPfIPcWqerO"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1783,30 +1783,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "7 L\u00e1grimas (Remix)",
-        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
-      },
-      "artists": [
-        {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "GARABATTO",
-          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
-        }
-      ],
-      "duration_ms": 202894,
-      "name": "7 L\u00e1grimas - Remix",
-      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "Poblado (Remix)",
         "url": "https://open.spotify.com/album/1avDIEjBJ9ayO1Lj7LxNM7"
       },
@@ -1843,6 +1819,30 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
+        "name": "7 L\u00e1grimas (Remix)",
+        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
+      },
+      "artists": [
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "GARABATTO",
+          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
+        }
+      ],
+      "duration_ms": 202894,
+      "name": "7 L\u00e1grimas - Remix",
+      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -1867,26 +1867,6 @@
       "duration_ms": 280274,
       "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1919,6 +1899,26 @@
       "duration_ms": 349546,
       "name": "Fiel - Remix",
       "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "Mbappe (Remix)",
-        "url": "https://open.spotify.com/album/1AJXKqkuN7bzSGBWcpiE2h"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 237344,
-      "name": "Mbappe - Remix",
-      "url": "https://open.spotify.com/track/21ocGfx68UnoPH89sXkhzu"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "Travesuras (Remix)",
         "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
       },
@@ -2135,6 +2115,30 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "2:50 Remix",
+        "url": "https://open.spotify.com/album/0hbwAcjGBGP2gutKpQHA8d"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 231708,
+      "name": "2:50 Remix",
+      "url": "https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy"
     }
   ],
   "unique_name": "Remixes Urbanos",

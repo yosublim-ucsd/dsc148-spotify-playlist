@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: Ashley McBryde\n",
-  "num_followers": 538731,
+  "num_followers": 539053,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDg3ZjAxZWI0MmRiMTA5NzQ3NGY3NjFmNzViZjg4Nzc5ODdiOTg4",
+  "snapshot_id": "MCw4MmY4YjExMzI2YTMxYjQwOGZhNDk2MzYwOGEwNGU1OWJhNDMwNGY1",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 187899,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 240265,
       "name": "Fuss & Fight",
       "url": "https://open.spotify.com/track/0NCnQYoe5YdxFjJQgEM5rX"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 187899,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Anything Goes",
-        "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Hayden Coffman",
+          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
         }
       ],
-      "duration_ms": 230586,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
+      "duration_ms": 198113,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
       },
       "artists": [
         {
-          "name": "Hayden Coffman",
-          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 198113,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
+      "duration_ms": 230586,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
+      "duration_ms": 156610,
+      "name": "Money Spent",
+      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 156610,
-      "name": "Money Spent",
-      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -775,22 +775,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Ride It Hard",
-        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 150861,
-      "name": "Ride It Hard",
-      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -859,18 +855,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+        "name": "Ride It Hard",
+        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+      "duration_ms": 150861,
+      "name": "Ride It Hard",
+      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 147508,
-      "name": "Heavy Pour",
-      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Greenbroke",
         "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
@@ -919,22 +903,6 @@
       "duration_ms": 218528,
       "name": "Trailer Park",
       "url": "https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Come Get Your Memory",
-        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Come Get Your Memory",
-      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -955,18 +923,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Home Team",
-        "url": "https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd"
+        "name": "Come Get Your Memory",
+        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
       },
       "artists": [
         {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
         }
       ],
-      "duration_ms": 196281,
-      "name": "Home Team",
-      "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
+      "duration_ms": 171000,
+      "name": "Come Get Your Memory",
+      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -987,6 +955,38 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Home Team",
+        "url": "https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "duration_ms": 196281,
+      "name": "Home Team",
+      "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 147508,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Like an Arrow",
         "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 247008,
       "name": "Waiting for the Thunder",
       "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "She's No Good for Me",
-        "url": "https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu"
-      },
-      "artists": [
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 205651,
-      "name": "She's No Good for Me",
-      "url": "https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "She's No Good for Me",
+        "url": "https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 205651,
+      "name": "She's No Good for Me",
+      "url": "https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Black Motorcycle",
         "url": "https://open.spotify.com/album/3wDgQbUdgEP3CgQOullMeo"
       },
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Up To No Good",
-        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
+        "name": "I Only Date Cowboys",
+        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
         }
       ],
-      "duration_ms": 133629,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
+      "duration_ms": 176813,
+      "name": "I Only Date Cowboys",
+      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "I Only Date Cowboys",
-        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
       },
       "artists": [
         {
-          "name": "Kylie Morgan",
-          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 176813,
-      "name": "I Only Date Cowboys",
-      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
+      "duration_ms": 133629,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Wait Outside",
-      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "NATE SMITH (DELUXE)",
         "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 261359,
       "name": "Sleeve",
       "url": "https://open.spotify.com/track/586I425aeO3QMzvSZcUOEd"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Wait Outside",
+      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1495,22 +1495,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "What Do I Know (feat. HARDY)",
-        "url": "https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ"
+        "name": "The Wolf",
+        "url": "https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR"
       },
       "artists": [
         {
-          "name": "Robert Counts",
-          "url": "https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 208418,
-      "name": "What Do I Know (feat. HARDY)",
-      "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
+      "duration_ms": 337239,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1531,34 +1527,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Wolf",
-        "url": "https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR"
+        "name": "What Do I Know (feat. HARDY)",
+        "url": "https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 337239,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Black Powder Soul",
-        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
-      },
-      "artists": [
+          "name": "Robert Counts",
+          "url": "https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9"
+        },
         {
-          "name": "Taylor McCall",
-          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 216153,
-      "name": "Black Powder Soul",
-      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
+      "duration_ms": 208418,
+      "name": "What Do I Know (feat. HARDY)",
+      "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1575,6 +1559,22 @@
       "duration_ms": 233973,
       "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
       "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Black Powder Soul",
+        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
+      },
+      "artists": [
+        {
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
+        }
+      ],
+      "duration_ms": 216153,
+      "name": "Black Powder Soul",
+      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
     },
     {
       "added_at": "2023-05-12 04:00:00",

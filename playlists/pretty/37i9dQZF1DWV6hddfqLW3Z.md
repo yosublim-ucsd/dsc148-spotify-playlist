@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,895 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,097 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 18 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
 | 19 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 |
 | 20 | [Acender as Velas](https://open.spotify.com/track/4EeEwcqSLV8QmguC33sxE6) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Negra Ópera](https://open.spotify.com/album/12ruJLnnZM4RlCAlxPSq6f) | 4:27 |
-| 21 | [Bem Melhor](https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Bem Melhor](https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4) | 3:03 |
-| 22 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
-| 23 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 |
-| 24 | [Beija Eu](https://open.spotify.com/track/7tkka2fYf1erIg8wy8r9Lt) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Mais](https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M) | 3:14 |
-| 25 | [Oceano](https://open.spotify.com/track/3iof6EclqePezHDibBiykI) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA) | 4:56 |
+| 21 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
+| 22 | [Bem Melhor](https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Bem Melhor](https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4) | 3:03 |
+| 23 | [Lança Perfume](https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:10 |
+| 24 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 |
+| 25 | [Beija Eu](https://open.spotify.com/track/7tkka2fYf1erIg8wy8r9Lt) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Mais](https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M) | 3:14 |
 | 26 | [Amarelo, azul e branco](https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:21 |
-| 27 | [Lança Perfume](https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:10 |
+| 27 | [Oceano](https://open.spotify.com/track/3iof6EclqePezHDibBiykI) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA) | 4:56 |
 | 28 | [Felicidade](https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:12 |
 | 29 | [Partilhar](https://open.spotify.com/track/3WVBQjDRoUUTJnWVaUUEHL) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 5:37 |
 | 30 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 39 | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN) | 3:28 |
 | 40 | [Voce E Linda \- Remixed Original Album](https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Uns](https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3) | 4:52 |
 | 41 | [Nossa Conversa](https://open.spotify.com/track/5LMD7LjRhnBrDiTUVja4nG) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda) | 4:04 |
-| 42 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
+| 42 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 |
 | 43 | [Mais Bonito Não Há](https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Mais Bonito Não Há](https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd) | 3:57 |
-| 44 | [Brasil pandeiro](https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:55 |
-| 45 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 |
+| 44 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
+| 45 | [Brasil pandeiro](https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:55 |
 | 46 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 |
 | 47 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 |
 | 48 | [Pra Me Refazer](https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Pra Me Refazer](https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5) | 3:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Calmô](https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Calmô](https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1) | 4:14 |
 | 70 | [Palavras No Corpo](https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Palavras No Corpo](https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM) | 4:02 |
 
-Snapshot ID: `MCxiNWRjZDJlZDdlODYzODYwYThkZjg1NjY2YThiNzAxNzZkZmM5MmYw`
+Snapshot ID: `MCw2MTgzZmI1ZDc3MjMwZTg1YTNlMzFmMTQzOTEzYWRkMjg1ZWU4ZDBj`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-609 songs - 1 day 12 hr 18 min
+610 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-18 | 2022-09-18 |
 | [Attention, please!](https://open.spotify.com/track/59qDYPZPkMPl8qSYRig1xn) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 2:47 | 2021-10-14 | 2021-10-16 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-07-31 | 2022-10-29 |
-| [Babalik Sa'yo \(from "2 Good 2 Be True"\)](https://open.spotify.com/track/2e7iqtA42EPXTtiiAlblC1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Babalik Sa'yo \(from "2 Good 2 Be True"\)](https://open.spotify.com/album/5Sw8579gMyFd8JcKaeEbXx) | 3:49 | 2022-08-25 |  |
+| [Babalik Sa'yo \(from "2 Good 2 Be True"\)](https://open.spotify.com/track/2e7iqtA42EPXTtiiAlblC1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Babalik Sa'yo \(from "2 Good 2 Be True"\)](https://open.spotify.com/album/5Sw8579gMyFd8JcKaeEbXx) | 3:49 | 2022-08-25 | 2023-05-14 |
 | [Babe \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/0v4z1tuZvn6LGknom9Qx7d) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:44 | 2021-11-14 | 2021-11-19 |
 | [Baby Blue Love](https://open.spotify.com/track/7Jzo3IObpANz6giPTUrihB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:46 | 2021-06-13 | 2021-06-14 |
 | [Back To December](https://open.spotify.com/track/0tr6XR58KBdDYd8qvHVTs8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Package\)](https://open.spotify.com/album/6S6JQWzUrJVcJLK4fi74Fw) | 4:53 | 2022-12-02 | 2022-12-08 |
@@ -448,6 +448,7 @@
 | [Runaway](https://open.spotify.com/track/238Ra1ggmx3wUkHyZ8EjST) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:27 | 2021-06-09 | 2021-06-12 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-03 | 2022-09-17 |
 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 | 2022-05-02 | 2022-09-18 |
+| [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 | 2023-05-13 |  |
 | [Sad Beautiful Tragic \(Taylor's Version\)](https://open.spotify.com/track/21SralRv4ucDT3i1rYrr85) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 4:44 | 2021-11-14 | 2021-11-14 |
 | [Sad Beautiful Tragic \(Taylor's Version\)](https://open.spotify.com/track/73qMN9bXy7MSPwwGfH3wQr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:44 | 2021-11-14 | 2021-11-17 |
 | [Samahan Mo Ako](https://open.spotify.com/track/1mXxolyhAm7eP91K48L57k) | [Je](https://open.spotify.com/artist/1NIQyQhhLxI07lSrY00HVB) | [Samahan Mo Ako](https://open.spotify.com/album/3cQnZJpy16sCjo52KUiEDL) | 3:32 | 2021-04-17 | 2021-07-01 |

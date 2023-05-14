@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5740,
+  "num_followers": 5745,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzNlMjY2NTg2ZWU4MzJjZmJkZGFmMWIzZjg4MGM4YzA2ZDA1YmVk",
+  "snapshot_id": "MCwxYmJiNzZiYjYxYjg0NDEzMzFkZTkwNmZiMjFkYmI5NjNmYmQ4NTQ1",
   "tracks": [
     {
       "added_at": "2023-05-05 08:16:27",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
+        "name": "Track 03",
+        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
         "name": "California Love",
         "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 228066,
       "name": "California Love (feat. JENO of NCT)",
       "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
-        "name": "Track 03",
-        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
-      },
-      "artists": [
-        {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -591,22 +591,18 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Like a Diamond",
-        "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
+        "name": "#mood",
+        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
       },
       "artists": [
         {
-          "name": "KangHyeWon",
-          "url": "https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6"
-        },
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
         }
       ],
-      "duration_ms": 196586,
-      "name": "Like a Diamond (With. Stella Jang)",
-      "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
+      "duration_ms": 181120,
+      "name": "#mood",
+      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -631,18 +627,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "#mood",
-        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
+        "name": "Like a Diamond",
+        "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+          "name": "KangHyeWon",
+          "url": "https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6"
+        },
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 181120,
-      "name": "#mood",
-      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
+      "duration_ms": 196586,
+      "name": "Like a Diamond (With. Stella Jang)",
+      "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -675,6 +675,26 @@
       "duration_ms": 207293,
       "name": "Cloudy",
       "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
+        "name": "BOKE (Remix) (feat. kojikoji)",
+        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE (Remix) (feat. kojikoji)",
+      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -735,22 +755,6 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 221369,
-      "name": "BETTER (with MINO)",
-      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX"
       },
@@ -771,6 +775,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 221369,
+      "name": "BETTER (with MINO)",
+      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
         "name": "24\u2103",
         "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 176759,
       "name": "20MIN",
       "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
-        "name": "BOKE (Remix) (feat. kojikoji)",
-        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "BOKE (Remix) (feat. kojikoji)",
-      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -855,18 +855,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+        "name": "kibun (feat. vntermude)",
+        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "vntermude",
+          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
         }
       ],
-      "duration_ms": 235693,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
+      "duration_ms": 168498,
+      "name": "kibun (feat. vntermude)",
+      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
     },
     {
       "added_at": "2023-05-05 08:16:27",

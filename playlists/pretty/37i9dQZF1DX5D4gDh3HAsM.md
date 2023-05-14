@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,834 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,794 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 33 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Breaking It Up!](https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX) | 2:25 |
 | 34 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 |
 | 35 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag) | 4:16 |
-| 36 | [Home For The Holidays](https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 3:34 |
-| 37 | [Santa Baby](https://open.spotify.com/track/1VKndPOz75Bk97MT4Jg46Z) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Santa Baby](https://open.spotify.com/album/2RqEmOKf7AE3yeGMAQR3mJ) | 2:56 |
+| 36 | [Santa Baby](https://open.spotify.com/track/1VKndPOz75Bk97MT4Jg46Z) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Santa Baby](https://open.spotify.com/album/2RqEmOKf7AE3yeGMAQR3mJ) | 2:56 |
+| 37 | [Home For The Holidays](https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 3:34 |
 | 38 | [Silver Bells](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 |
-| 39 | [That Holiday Feeling](https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [The Merriest](https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF) | 3:57 |
-| 40 | [Christmas Time Is Here](https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:20 |
+| 39 | [Christmas Time Is Here](https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:20 |
+| 40 | [That Holiday Feeling](https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [The Merriest](https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF) | 3:57 |
 | 41 | [A Nightingale Sang In Berkeley Square \(duet with Gloria Estefan\)](https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined](https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare) | 4:59 |
 | 42 | [Christmas Time Is Here](https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8) | 3:46 |
 | 43 | [Winter Wonderland](https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 49 | [Dech The Hall Boughs Of Holly](https://open.spotify.com/track/1ckWK9gPj5z6Ikb5gi6Xhh) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX) | 3:42 |
 | 50 | [The Little Things](https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 3:43 |
 
-Snapshot ID: `MCw2NTFmYjA2YTIwZmM0M2Y5NjcxNjI5Zjc1ODNiNGFkM2E5NzEwY2M2`
+Snapshot ID: `MCwyNTNmOTQ5ODIxZmRkMTUzNjJmYzhjYWRkMjViYWE3M2JlOWQyOTEz`

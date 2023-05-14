@@ -4,7 +4,7 @@
 
 > Tune in, bliss out
 
-121 songs - 7 hr 48 min
+122 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Glory](https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [mixed feelings](https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0) | [Glory](https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j) | 2:24 | 2022-12-01 | 2023-03-07 |
 | [Golden](https://open.spotify.com/track/4ATL5bJmPMHl2mv1X1EwsE) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc), [Sahara Beck](https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3) | [Golden](https://open.spotify.com/album/7CGAMG5LYr2l7VrJE4WY8f) | 2:28 | 2023-04-06 | 2023-05-08 |
 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 | 2022-12-01 |  |
-| [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-12-01 |  |
+| [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-12-01 | 2023-05-14 |
 | [HAUNTED](https://open.spotify.com/track/0kWaEuv3fZXOPeBNMG6iGc) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [HAUNTED](https://open.spotify.com/album/02TfV5DbvB82aAL0zVgZGj) | 5:15 | 2022-12-01 | 2023-01-16 |
 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 | 2022-12-01 |  |
 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 | 2022-12-01 |  |
@@ -62,6 +62,7 @@
 | [Hopedrunk Everasking](https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:19 | 2023-02-23 |  |
 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 | 2023-04-06 |  |
 | [If Love Is A Skill](https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:37 | 2023-03-31 |  |
+| [Infinity Repeating \(2013 Demo\) \[feat\. Julian Casablancas+The Voidz\]](https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB), [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Random Access Memories \(10th Anniversary Edition\)](https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0) | 3:59 | 2023-05-11 |  |
 | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 | 2023-03-02 |  |
 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 | 2022-12-01 | 2023-03-11 |
 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 | 2022-12-01 |  |

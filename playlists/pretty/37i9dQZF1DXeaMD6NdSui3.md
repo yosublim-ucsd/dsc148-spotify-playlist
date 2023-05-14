@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Simply Texas blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,653 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,772 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 8 | [Honest I Do \(feat\. Gary Clark, Jr.\)](https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO) | [Omar and The Howlers](https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Too Much is not enough](https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD) | 2:21 |
 | 9 | [Dengue Woman Blues](https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:23 |
 | 10 | [Pride and Joy](https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 3:39 |
-| 11 | [Have Blues, Will Travel](https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC) | 4:07 |
+| 11 | [I Got My Mojo Working](https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:46 |
 | 12 | [I Ain't Drunk \- Remastered](https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 4:07 |
-| 13 | [I Got My Mojo Working](https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:46 |
+| 13 | [Have Blues, Will Travel](https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC) | 4:07 |
 | 14 | [We The People](https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [We The People](https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV) | 4:20 |
 | 15 | [Wait On Time](https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:03 |
 | 16 | [Texas Flood](https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 5:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 
-Snapshot ID: `MCxjNTllNTc5NTg5OTkxNWJjOWUzZDEwNDNkZjNiMDJlYjNmODliMDUw`
+Snapshot ID: `MCxlMTUwZWVjZTczZjcxYzNmNjIwZThkZDhhNWYyNjUzOTFlYTljMTJl`

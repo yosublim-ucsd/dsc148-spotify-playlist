@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,516 likes - 37 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,597 likes - 38 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 6 | [O' Lord \- Radio Version](https://open.spotify.com/track/357bDEZq4rcIFHPiaS8HwP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [O' Lord \(Radio Version\)](https://open.spotify.com/album/5NT627KAFeQP8g6zXPl3Iy) | 3:30 |
 | 7 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 |
 | 8 | [How Can It Be](https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 4:19 |
-| 9 | [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 |
-| 10 | [Tremble](https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tremble](https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx) | 4:59 |
+| 9 | [Tremble](https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tremble](https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx) | 4:59 |
+| 10 | [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 |
 | 11 | [Look Up Child](https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:03 |
 | 12 | [Come Alive \(Dry Bones\)](https://open.spotify.com/track/0cc2WXV2i8Jl3LhPKlZho1) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:55 |
-| 13 | [Waiting](https://open.spotify.com/track/1vzInuUvpmqKFwe289blUH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Waiting](https://open.spotify.com/album/13az638Bzrvi5f9zw9JpTt) | 3:11 |
-| 14 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
+| 13 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
+| 14 | [Waiting](https://open.spotify.com/track/1vzInuUvpmqKFwe289blUH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Waiting](https://open.spotify.com/album/13az638Bzrvi5f9zw9JpTt) | 3:11 |
 | 15 | [Love Like This](https://open.spotify.com/track/3DBu7OhZ58syQ7PotgqXV2) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:14 |
 | 16 | [I Won't Let You Go](https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [I Won't Let You Go](https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R) | 4:07 |
 | 17 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8) | 5:38 |
@@ -44,6 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 34 | [A Place Called Earth](https://open.spotify.com/track/4NUtKsTfiLOdgZDlwE07dN) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Departures](https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj) | 4:03 |
 | 35 | [Almost Human \- from the Original Motion Picture Soundtrack Blade Runner 2049](https://open.spotify.com/track/1dVWjFxNtwdWf3IftD4fCH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Almost Human \(from the Original Motion Picture Soundtrack Blade Runner 2049\)](https://open.spotify.com/album/1X5V3BzjJZ2tge9pWwNe5z) | 3:22 |
 | 36 | [Rescata](https://open.spotify.com/track/1pnxPNMoofeCPhXvukMtHo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 3:35 |
-| 37 | [What It Takes \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [What It Takes](https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ) | 3:46 |
+| 37 | [To Know Me](https://open.spotify.com/track/6Vxz9qvJdej63DrR8othbd) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:31 |
+| 38 | [What It Takes \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [What It Takes](https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ) | 3:46 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA1YjYzN2JmNDdlYjZkOTJlZThkYmZlODU1YzRiMWZjZA==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA3MmY2NDkzZjU5ZTdmNjVkZTMxZmU1NTMxNWVmNjJlYw==`

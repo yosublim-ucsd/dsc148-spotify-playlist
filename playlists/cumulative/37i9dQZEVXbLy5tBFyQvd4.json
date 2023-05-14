@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Acr\u00f3stico",
+        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170785,
+      "name": "Acr\u00f3stico",
+      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
+    },
+    {
+      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
@@ -2322,10 +2340,32 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 190553,
       "name": "Di Que Si",
       "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
+    },
+    {
+      "album": {
+        "name": "Don't Stop The Magic",
+        "url": "https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190553,
+      "name": "Di Que S\u00ed",
+      "url": "https://open.spotify.com/track/0pliiCOWPN0IId8sXAqNJr"
     },
     {
       "album": {
@@ -2402,7 +2442,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 113019,
       "name": "Dijeron Que No La Iba Lograr",
       "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
@@ -2818,7 +2858,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 214397,
       "name": "El Belicon",
       "url": "https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N"
@@ -5696,7 +5736,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -6706,7 +6746,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
@@ -8486,7 +8526,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
@@ -9820,6 +9860,24 @@
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "album": {
+        "name": "The Planet",
+        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "The Planet",
+      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
     },
     {
       "album": {

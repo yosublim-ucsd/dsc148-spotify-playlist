@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 
 > Rock for the road\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,174 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,189 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 | 24 | [Monkey Wrench](https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 3:51 |
 | 25 | [Shine](https://open.spotify.com/track/77YKoNCjP5hWqiXMRG2839) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Hints, Allegations & Things Left Unsaid](https://open.spotify.com/album/2B2KQTgQr3UhQf4n2VtoUG) | 5:06 |
 | 26 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
-| 27 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 |
+| 27 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 | 28 | [Hash Pipe](https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:06 |
-| 29 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
+| 29 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 |
 | 30 | [Inside Out](https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Eve 6](https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW) | 3:39 |
 | 31 | [Under Cover of Darkness](https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:55 |
 | 32 | [Lump](https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:14 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 | 49 | [The Hardest Button to Button](https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:32 |
 | 50 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 |
 | 51 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
-| 52 | [Cold Hard Bitch](https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 4:03 |
-| 53 | [Hard To Explain](https://open.spotify.com/track/0OM9ri37LIbPc9hffwsyb1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:44 |
+| 52 | [Hard To Explain](https://open.spotify.com/track/0OM9ri37LIbPc9hffwsyb1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:44 |
+| 53 | [Cold Hard Bitch](https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 4:03 |
 | 54 | [Rope](https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:19 |
 | 55 | [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 |
 | 56 | [Pork And Beans](https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ) | 3:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFCN8nsm6zC.md) - [plain]
 | 69 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 |
 | 70 | [Girl From Mars](https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 3:30 |
 
-Snapshot ID: `MCwwMzg1MGU1M2NiM2NkYmIzZmQ0NWZiNzk5MzY2MzZhNDRmY2RjNDc5`
+Snapshot ID: `MCw5MTc0MWYxZTdhNTdkNzQ4MWMwYWQ4Y2FkMzI1MjZhZTAwZGU5Mzc1`

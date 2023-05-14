@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 
 > Still in rotation\. Cover: Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,030,360 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,030,937 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 | 34 | [Rude Boy](https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Rated R](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) | 3:42 |
 | 35 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 |
 | 36 | [Infrunami](https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 2:58 |
-| 37 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 |
-| 38 | [Location](https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:39 |
+| 37 | [Location](https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:39 |
+| 38 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 |
 | 39 | [Could've Been \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:12 |
 | 40 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
 | 41 | [Playing Games \(with Bryson Tiller\) \- Extended Version](https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 | 74 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 |
 | 75 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 |
 
-Snapshot ID: `MCwxOTU1NTJmODg1ZmQwNDNiNTEwOGNkZjNmNDMxNTNlMjQ0Yjk3YmY1`
+Snapshot ID: `MCxjMDg2NmViMTNmODhlMjkzN2FlMTE0MWZlZGU5NmM1MmFlMTdkNzQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,081 likes - 80 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,560 likes - 80 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 9 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
 | 10 | [Christine](https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 2:59 |
 | 11 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
-| 12 | [Танцевать](https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 3:22 |
-| 13 | [Under the Milky Way](https://open.spotify.com/track/1RCtHLyq1xIbgGMrYRrKJ2) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:57 |
+| 12 | [Under the Milky Way](https://open.spotify.com/track/1RCtHLyq1xIbgGMrYRrKJ2) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:57 |
+| 13 | [Танцевать](https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 3:22 |
 | 14 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
 | 15 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
 | 16 | [Helena](https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:19 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 59 | [Snake Dance](https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ) | [The March Violets](https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19) | [The Botanic Verses](https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh) | 4:06 |
 | 60 | [Ivo](https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:53 |
 | 61 | [Twenty Four Hours \- 2007 Remaster](https://open.spotify.com/track/36HznXQNGoen7dwq4Vv6nP) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 4:28 |
-| 62 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 |
+| 62 | [Wasteland](https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Gods Own Medicine](https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV) | 5:40 |
 | 63 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
-| 64 | [Wasteland](https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Gods Own Medicine](https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV) | 5:40 |
+| 64 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 |
 | 65 | [Blasphemous Rumours](https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Catching Up with Depeche Mode](https://open.spotify.com/album/1fuXkfdOh71JbMvOLIXpX9) | 5:06 |
 | 66 | [Medusa](https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Medusa](https://open.spotify.com/album/3DBGxdFyynAak3dRiy54Jv) | 5:53 |
 | 67 | [Incubus Succubus II](https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv) | 4:45 |
-| 68 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 |
-| 69 | [Ghost Rider \- 2019 \- Remaster](https://open.spotify.com/track/0SlVvyU9LWTzsnPc8lcoUs) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 2:33 |
+| 68 | [Ghost Rider \- 2019 \- Remaster](https://open.spotify.com/track/0SlVvyU9LWTzsnPc8lcoUs) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 2:33 |
+| 69 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 |
 | 70 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
 | 71 | [Moonchild](https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [The Nephilim](https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP) | 5:40 |
 | 72 | [Не Смешно / Ne Smeshno](https://open.spotify.com/track/0eA4Bqcjt58ORsG9VFMSmt) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Monument](https://open.spotify.com/album/7I9n0t27YMnNqf8pIfTG9z) | 3:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [Break the Chain](https://open.spotify.com/track/6kKRKC9D910aeIwvvsQ4us) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/2PH0lFIOpfK13q72nnP5Fn) | 4:46 |
 | 80 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
 
-Snapshot ID: `MCwyYTFjZGQzY2ViNTJlZGRkZWI2ODA2MTBiNTk5ODVkNmY4YjBmMjMx`
+Snapshot ID: `MCxiZDMyMDBiMDg1NjUxMTRhN2JhMzBiYjY0OGIyNGVkMTM2MzRiMGJh`

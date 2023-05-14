@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 19478,
+  "num_followers": 19525,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODgwN2Y2MjFkMjBkZmIxOWEyZWM5YzQ5ZjFlMjEzN2FhZjgzMDcz",
+  "snapshot_id": "MCw4MjFmNzA1OWQ1ZTczYTM0NGI0ZjM1NTE3MWY1N2QwNjc1ZDg4MTEx",
   "tracks": [
     {
       "added_at": "2023-05-12 14:27:26",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-05-12 14:27:26",
       "album": {
-        "name": "TAKE ME HIGH",
-        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 220531,
-      "name": "TAKE ME HIGH",
-      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
-    },
-    {
-      "added_at": "2023-05-12 14:27:26",
-      "album": {
         "name": "Bionic Boy",
         "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 206265,
       "name": "Bionic Boy",
       "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
+    },
+    {
+      "added_at": "2023-05-12 14:27:26",
+      "album": {
+        "name": "TAKE ME HIGH",
+        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220531,
+      "name": "TAKE ME HIGH",
+      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
     },
     {
       "added_at": "2023-05-12 14:27:26",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-12 14:27:26",
       "album": {
-        "name": "Clapped",
-        "url": "https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ"
-      },
-      "artists": [
-        {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "Clapped",
-      "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
-    },
-    {
-      "added_at": "2023-05-12 14:27:26",
-      "album": {
         "name": "Ole",
         "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2023-05-12 14:27:26",
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
+        "name": "Clapped",
+        "url": "https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ"
       },
       "artists": [
         {
-          "name": "The Shooters",
-          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
         }
       ],
-      "duration_ms": 178609,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
+      "duration_ms": 210932,
+      "name": "Clapped",
+      "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
     },
     {
       "added_at": "2023-05-12 14:27:26",
@@ -851,6 +835,22 @@
       "duration_ms": 203487,
       "name": "Zigazigahhhh",
       "url": "https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC"
+    },
+    {
+      "added_at": "2023-05-12 14:27:26",
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
+      },
+      "artists": [
+        {
+          "name": "The Shooters",
+          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
+        }
+      ],
+      "duration_ms": 178609,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
     },
     {
       "added_at": "2023-05-12 14:27:26",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-12 14:27:26",
       "album": {
-        "name": "N NIGHT",
-        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
-      },
-      "artists": [
-        {
-          "name": "Wheats",
-          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
-        }
-      ],
-      "duration_ms": 454000,
-      "name": "N NIGHT",
-      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
-    },
-    {
-      "added_at": "2023-05-12 14:27:26",
-      "album": {
         "name": "Fuck The Regs EP",
         "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 204836,
       "name": "Fuck The Regs",
       "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
+    },
+    {
+      "added_at": "2023-05-12 14:27:26",
+      "album": {
+        "name": "N NIGHT",
+        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
+      },
+      "artists": [
+        {
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+        }
+      ],
+      "duration_ms": 454000,
+      "name": "N NIGHT",
+      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
       "added_at": "2023-05-12 14:27:26",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-05-12 14:27:26",
       "album": {
+        "name": "Honey Bee",
+        "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        }
+      ],
+      "duration_ms": 263931,
+      "name": "Honey Bee - Edit",
+      "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
+    },
+    {
+      "added_at": "2023-05-12 14:27:26",
+      "album": {
         "name": "Beeper Blowing Up",
         "url": "https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 218130,
       "name": "Beeper Blowing Up",
       "url": "https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw"
-    },
-    {
-      "added_at": "2023-05-12 14:27:26",
-      "album": {
-        "name": "Honey Bee",
-        "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
-      },
-      "artists": [
-        {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
-        }
-      ],
-      "duration_ms": 263931,
-      "name": "Honey Bee - Edit",
-      "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
     },
     {
       "added_at": "2023-05-12 14:27:26",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2023-05-12 14:27:26",
       "album": {
-        "name": "Hush Hush EP",
-        "url": "https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ"
-      },
-      "artists": [
-        {
-          "name": "Serge Devant",
-          "url": "https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP"
-        },
-        {
-          "name": "Forrest",
-          "url": "https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3"
-        }
-      ],
-      "duration_ms": 243809,
-      "name": "Flashback feat. Forrest",
-      "url": "https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q"
-    },
-    {
-      "added_at": "2023-05-12 14:27:26",
-      "album": {
         "name": "No Me Impolta",
         "url": "https://open.spotify.com/album/1X9E0MIGqDHoAPpNYRouPd"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 358153,
       "name": "No Me Impolta",
       "url": "https://open.spotify.com/track/5vG4pTCchrIsTlKAsjHuL4"
+    },
+    {
+      "added_at": "2023-05-12 14:27:26",
+      "album": {
+        "name": "Hush Hush EP",
+        "url": "https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ"
+      },
+      "artists": [
+        {
+          "name": "Serge Devant",
+          "url": "https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP"
+        },
+        {
+          "name": "Forrest",
+          "url": "https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3"
+        }
+      ],
+      "duration_ms": 243809,
+      "name": "Flashback feat. Forrest",
+      "url": "https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q"
     },
     {
       "added_at": "2023-05-12 14:27:26",

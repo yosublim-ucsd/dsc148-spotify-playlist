@@ -4,7 +4,7 @@
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Nicole Horts
 
-435 songs - 23 hr 27 min
+437 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Agua](https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:20 | 2021-12-02 | 2022-01-25 |
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2022-05-06 | 2023-02-17 |
 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 | 2021-12-02 | 2022-03-22 |
-| [Aleros/Pompeii](https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:00 | 2023-03-15 |  |
+| [Aleros/Pompeii](https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:00 | 2023-03-15 | 2023-05-14 |
 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 | 2022-10-28 | 2023-02-17 |
 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-03-01 | 2023-03-16 |
 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 | 2022-04-08 | 2023-02-17 |
@@ -278,6 +278,7 @@
 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 | 2022-05-06 | 2022-10-29 |
 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 | 2023-01-10 | 2023-02-03 |
 | [NIÑO ETERNO](https://open.spotify.com/track/01QtjLgSh2PXid128hIWiB) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 2:41 | 2023-02-17 | 2023-04-14 |
+| [No Eres Tu Soy Yo](https://open.spotify.com/track/54VlZOOuzrHbUsiMrZh5wq) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [No Eres Tu Soy Yo](https://open.spotify.com/album/5C4QoLSXHFPDn4qTAHUcd2) | 3:42 | 2023-05-12 |  |
 | [No Es Normal](https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Se Siente Diferente](https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y) | 3:32 | 2021-12-02 | 2023-02-16 |
 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 | 2023-02-02 | 2023-02-17 |
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2022-10-24 | 2023-02-17 |
@@ -285,7 +286,7 @@
 | [No Necesito](https://open.spotify.com/track/2xyyyQRwvw8oVo5nKiBNh4) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [No Necesito](https://open.spotify.com/album/2vJrccNi8aJxBdwHVmpNQw) | 3:04 | 2021-12-02 | 2022-01-25 |
 | [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 | 2023-03-01 |  |
 | [No Quiero Llegar](https://open.spotify.com/track/6f3jXPScNHBPi2MdaXSAbD) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [No Quiero Llegar](https://open.spotify.com/album/0sDILyPpj276t7sl9FaezS) | 3:43 | 2023-05-05 |  |
-| [NORTE A SUR](https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF) | [Cyluz](https://open.spotify.com/artist/6B2ybhyaJT5yd7V5dMX8BQ), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NORTE A SUR](https://open.spotify.com/album/0Cfa8A3NCWF9pgPKZHbgOO) | 2:32 | 2023-02-17 |  |
+| [NORTE A SUR](https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF) | [Cyluz](https://open.spotify.com/artist/6B2ybhyaJT5yd7V5dMX8BQ), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NORTE A SUR](https://open.spotify.com/album/0Cfa8A3NCWF9pgPKZHbgOO) | 2:32 | 2023-02-17 | 2023-05-14 |
 | [Nosotras](https://open.spotify.com/track/4nFDjLt6B26zHLmc1Tz8rn) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Contragolpe](https://open.spotify.com/album/09og5AoFa5Qq8Tlny8t0BG) | 2:47 | 2021-12-02 | 2022-05-26 |
 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 | 2021-12-02 | 2022-10-28 |
 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 | 2022-01-24 | 2022-01-29 |
@@ -295,6 +296,7 @@
 | [Obvious](https://open.spotify.com/track/3FgRARovapxaCgbLxtZSmm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 2:57 | 2021-12-02 | 2022-03-22 |
 | [Ocho Rios](https://open.spotify.com/track/5XUuMp2i5ojqcDOSusChqL) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:33 | 2023-04-13 | 2023-05-13 |
 | [Odio](https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Odio](https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj) | 2:33 | 2022-10-28 | 2023-02-17 |
+| [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 | 2023-05-12 |  |
 | [OG Black](https://open.spotify.com/track/4Zqp1yolC5Llwva0JTXXVj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:10 | 2021-12-02 | 2022-04-20 |
 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 | 2023-04-20 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-06 | 2023-02-17 |

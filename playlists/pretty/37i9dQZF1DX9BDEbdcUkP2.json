@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 98002,
+  "num_followers": 98087,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmFkM2RhNGFhY2M2Mzc1MGM0NjJhMDg2MTA4YzU4YTdhY2Y0ZmVi",
+  "snapshot_id": "MCw1YjJiYWM0OGVjYjkyOTRkM2YzODE2ODFmNTNjN2I2NjMyZTg0NmQ1",
   "tracks": [
     {
       "added_at": "2022-04-16 03:31:06",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Help! - Remastered 2009",
-      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Music From Big Pink (Remastered)",
         "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 274493,
       "name": "The Weight - Remastered 2000",
       "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Help! - Remastered 2009",
+      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Please Please Me (Remastered)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 141693,
       "name": "Love Me Do - Remastered 2009",
       "url": "https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 189386,
-      "name": "Get Back - Remastered 2009",
-      "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 189386,
+      "name": "Get Back - Remastered 2009",
+      "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Save the Last Dance for Me",
-        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Save the Last Dance for Me",
-      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Sings Lonely and Blue",
         "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 145533,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Save the Last Dance for Me",
+      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Herman's Hermits Retrospective",
-        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
       "artists": [
         {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
         }
       ],
-      "duration_ms": 153506,
-      "name": "I'm Into Something Good",
-      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     }
   ],
   "unique_name": "Summer Hits of the 60s",

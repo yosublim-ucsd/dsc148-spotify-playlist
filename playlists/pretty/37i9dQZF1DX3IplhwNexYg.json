@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Gengahr",
-  "num_followers": 111298,
+  "num_followers": 111304,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTJiZGM4ZTM4YzM3YjQ1NmFjMzhkMmRiMDJhZjM3ODI4OGMxMGRm",
+  "snapshot_id": "MCxkZmMxYjE4NWEwM2E5OWFiNmFiNjNiZWZhMmQyMGFlZWM3NGE4MWM5",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Kool Aid",
-        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "Kool Aid",
-      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Struggle",
         "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 261384,
       "name": "Fingers of Steel",
       "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Kool Aid",
+        "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Emotional Creature",
         "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Waste My Life",
         "url": "https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 160853,
       "name": "Waste My Life",
       "url": "https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Twigs",
-          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Food for Worms",
         "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 213009,
       "name": "Swampy",
       "url": "https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Last Together",
-        "url": "https://open.spotify.com/album/1jfzgHMJyZUTchRliRmz3F"
+        "name": "Head of the Love Club",
+        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
       },
       "artists": [
         {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
         }
       ],
-      "duration_ms": 198473,
-      "name": "Last Together",
-      "url": "https://open.spotify.com/track/3mBV6qqVvE1NcuLmD2vTg6"
+      "duration_ms": 149090,
+      "name": "King of Nothing",
+      "url": "https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Last Together",
+        "url": "https://open.spotify.com/album/1jfzgHMJyZUTchRliRmz3F"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 198473,
+      "name": "Last Together",
+      "url": "https://open.spotify.com/track/3mBV6qqVvE1NcuLmD2vTg6"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Everybody's Saying Thursday's The Weekend",
         "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Head of the Love Club",
-        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
       },
       "artists": [
         {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
         }
       ],
-      "duration_ms": 149090,
-      "name": "King of Nothing",
-      "url": "https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl"
+      "duration_ms": 248243,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -935,22 +951,6 @@
       "duration_ms": 233600,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 248243,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Fading Like A Picture",
-        "url": "https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Fading Like A Picture",
-      "url": "https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Gulp!",
         "url": "https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 178212,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Fading Like A Picture",
+        "url": "https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Fading Like A Picture",
+      "url": "https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "A Fistful of Peaches",
-        "url": "https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 212288,
-      "name": "Cut the Cord",
-      "url": "https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "A Fistful of Peaches",
+        "url": "https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 212288,
+      "name": "Cut the Cord",
+      "url": "https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Blondshell",
         "url": "https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y"
       },
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Break!",
-        "url": "https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct"
+        "name": "Miss Power",
+        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
       },
       "artists": [
         {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Thick of the Honey",
-      "url": "https://open.spotify.com/track/4o4LGrbQuSeJZEoLxIOVSx"
+      "duration_ms": 137840,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Miss Power",
-        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct"
       },
       "artists": [
         {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
         }
       ],
-      "duration_ms": 137840,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
+      "duration_ms": 137000,
+      "name": "Thick of the Honey",
+      "url": "https://open.spotify.com/track/4o4LGrbQuSeJZEoLxIOVSx"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
+        "name": "Guitar Music",
+        "url": "https://open.spotify.com/album/6aYwIBompOG7x0c2BukbgI"
       },
       "artists": [
         {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+          "name": "Courting",
+          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
         }
       ],
-      "duration_ms": 156600,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
+      "duration_ms": 199328,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/5yqJYw5xgVn46fc0IZ55Mz"
     }
   ],
   "unique_name": "pulp",

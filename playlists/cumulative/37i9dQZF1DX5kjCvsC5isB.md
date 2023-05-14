@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Kelsy Karter
 
-303 songs - 15 hr 49 min
+304 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 | 2022-04-01 |  |
 | [Loser](https://open.spotify.com/track/4AY7vvKJ5URWd61B5Q6S5Z) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Loser](https://open.spotify.com/album/15SJkF9Ly3LLe2a5dYmy6i) | 2:03 | 2021-07-30 | 2022-06-25 |
 | [Lost](https://open.spotify.com/track/4fwDcSZbxu3VfFKI2KYP3d) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Lost](https://open.spotify.com/album/5B4asLndg9G6ap6Nrh1DGq) | 2:33 | 2022-03-04 | 2022-06-25 |
-| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-10-07 |  |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-10-07 | 2023-05-14 |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2022-12-22 |  |
 | [Love Me or Hate Me](https://open.spotify.com/track/4GRefOK1YJuoy8yB77FnNK) | [Kelsy Karter](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Missing Person](https://open.spotify.com/album/4dDRscWeWjAJ4WtlcsRDEW) | 3:16 | 2021-07-30 | 2022-03-12 |
 | [Love You Better](https://open.spotify.com/track/1nXKFCz88CcR0ACWmyHrDS) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Love You Better](https://open.spotify.com/album/5Rr2SAaepFLbCSI955PEf9) | 3:57 | 2021-07-30 | 2022-01-15 |
 | [Low Budget Horror](https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Low Budget Horror](https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK) | 3:01 | 2022-01-21 | 2022-06-25 |

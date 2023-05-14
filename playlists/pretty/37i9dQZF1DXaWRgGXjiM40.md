@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,865 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,242 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 8 | [Liberdade Provisória \- Live \- Ibirapuera / 2019](https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 3:06 |
 | 9 | [Supera \- Ao Vivo](https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5) | 2:27 |
 | 10 | [Caso Indefinido \- Ao Vivo](https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [In The Cities \- Ao Vivo Em Cuiabá](https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX) | 5:13 |
-| 11 | [O Que É Que Tem](https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:35 |
-| 12 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
-| 13 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 |
-| 14 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 |
+| 11 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
+| 12 | [O Que É Que Tem](https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:35 |
+| 13 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 |
+| 14 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 |
 | 15 | [Bem Pior Que Eu \- Ao Vivo](https://open.spotify.com/track/4UANYptjv2kpV6IY7IjXoJ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 2:48 |
 | 16 | [Anti Amor \- Ao Vivo](https://open.spotify.com/track/3zlU0V45H1FcjZeGEVt8ih) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 2:45 |
 | 17 | [Dois Enganados](https://open.spotify.com/track/7McCAKExE8KsI2q4Y8wx4U) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Pra Ouvir Tomando Uma, Vol\. 1](https://open.spotify.com/album/34wbTHXH6UAGPJKrl3VXOs) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 49 | [Áudio \- Ao Vivo em Brasília](https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília \- EP1](https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL) | 3:10 |
 | 50 | [Apelido Carinhoso](https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco do Gusttavo Lima, Vol\. 2](https://open.spotify.com/album/1quJKGITMBDF2S4x0Zl2Vn) | 3:19 |
 
-Snapshot ID: `MCxhNWY4MDM5OGY3NjM1M2I2NzlhYTllMTUyYmRkNmJlNDhkMGRjZjU0`
+Snapshot ID: `MCw4MDJkZjI0ZDQzYjRhOGM0NjY1Yzc5NTBlMWNjNzVkNDI0NzVhNDY3`

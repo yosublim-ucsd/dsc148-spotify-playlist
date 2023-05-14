@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 216775,
       "name": "100-99 (feat. GoldLink)",
       "url": "https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd"
@@ -18061,6 +18061,28 @@
     },
     {
       "album": {
+        "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7"
+      },
+      "artists": [
+        {
+          "name": "Alan Palomo",
+          "url": "https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184284,
+      "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO"
+    },
+    {
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb"
       },
@@ -23939,6 +23961,24 @@
     },
     {
       "album": {
+        "name": "Super Ego",
+        "url": "https://open.spotify.com/album/0bvbLTwlDDLD6N6Eh2LAtg"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257153,
+      "name": "Super Ego",
+      "url": "https://open.spotify.com/track/46OscqytdMz8h0NtyntdWh"
+    },
+    {
+      "album": {
         "name": "Mirror Master",
         "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
       },
@@ -29228,7 +29268,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 279040,
       "name": "Younger & Dumber",
       "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"

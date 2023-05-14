@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 7117,
+  "num_followers": 7140,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODU0NWMxZGYzOGRkZTViYmU2YTc3MzA0OTQ1YWMxYTIyODQyMDhk",
+  "snapshot_id": "MCw1ZGNiNjY0ZjEwNjE1YTY0M2RjZDA5MWUzYjBiMzg2ZTgzMWUzNjRj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Crabs In A Bucket",
-        "url": "https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15"
-      },
-      "artists": [
-        {
-          "name": "Nines",
-          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
-        }
-      ],
-      "duration_ms": 177295,
-      "name": "Movie Knights",
-      "url": "https://open.spotify.com/track/5E03l2EB3TAf2xIX7QK5Cc"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Big Spang - EP",
         "url": "https://open.spotify.com/album/7ccP54HOejyla6bAxCiWuc"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 193026,
       "name": "Dancing Man",
       "url": "https://open.spotify.com/track/5zeREfNqh2ly52wCB6h3Ca"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "Crabs In A Bucket",
+        "url": "https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15"
+      },
+      "artists": [
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        }
+      ],
+      "duration_ms": 177295,
+      "name": "Movie Knights",
+      "url": "https://open.spotify.com/track/5E03l2EB3TAf2xIX7QK5Cc"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Wow... That's Crazy",
-        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Love Me Nina / Semiautomatic",
-      "url": "https://open.spotify.com/track/6kzkaR1UEKP0XjlK4jFgC7"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Walk in Da Park",
         "url": "https://open.spotify.com/album/2UAWSIueBxqi7bXSoKxQ7v"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 170560,
       "name": "You Raised Me",
       "url": "https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "Wow... That's Crazy",
+        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Love Me Nina / Semiautomatic",
+      "url": "https://open.spotify.com/track/6kzkaR1UEKP0XjlK4jFgC7"
     }
   ],
   "unique_name": "Damson Idris' Taste",

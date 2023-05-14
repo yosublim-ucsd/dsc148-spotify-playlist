@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 108947,
+  "num_followers": 109016,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjQ0NWUyYTc2NTU5ZTkzMjJhYzQ0MWVmY2JiZmMzMzExYjBmNjNh",
+  "snapshot_id": "MCw2YTYwZGRkNTdjMGYxOGNlMGVlZTIxZjkxZTQ4MTE5NjlmZGIxNTk4",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Keyboard Suites, Vol. 2",
-        "url": "https://open.spotify.com/album/3UdKO86YCgjHG20bXFiIRR"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Philip Edward Fisher",
-          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Keyboard Suite No. 5 in E Major, HWV 430: IV. Air and Doubles (\"Harmonious Blacksmith\")",
-      "url": "https://open.spotify.com/track/2bYyrku1w6I6hjHkiIND1x"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Dixit Dominus / Salve Regina / Nisi Dominus",
         "url": "https://open.spotify.com/album/1MBPFCji7GQORO2bXUlUwS"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 334466,
       "name": "Dixit Dominus Domino meo",
       "url": "https://open.spotify.com/track/2m8EwexHkPVQCNpSTidgPf"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 2",
+        "url": "https://open.spotify.com/album/3UdKO86YCgjHG20bXFiIRR"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Keyboard Suite No. 5 in E Major, HWV 430: IV. Air and Doubles (\"Harmonious Blacksmith\")",
+      "url": "https://open.spotify.com/track/2bYyrku1w6I6hjHkiIND1x"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1151,6 +1151,30 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Water & Fireworks Music",
+        "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Prague Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        }
+      ],
+      "duration_ms": 60480,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
+      "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Athalia",
         "url": "https://open.spotify.com/album/6tiExi2Ol2HpGMPTtBvAcU"
       },
@@ -1199,30 +1223,6 @@
       "duration_ms": 309360,
       "name": "Athalia, HWV 52: Part 1 - No. 1 Sinfonia: Allegro - Grave - Allegro",
       "url": "https://open.spotify.com/track/04OWdUznQBH1jS7WLPQvJL"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Water & Fireworks Music",
-        "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Prague Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL"
-        },
-        {
-          "name": "Sir Charles Mackerras",
-          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
-        }
-      ],
-      "duration_ms": 60480,
-      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
-      "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1527,6 +1527,34 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Peaceful Handel",
+        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Christina Wieland",
+          "url": "https://open.spotify.com/artist/0pwEmXXpHyP7CYrkMmNzEf"
+        },
+        {
+          "name": "Frankfurt Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
+      "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Judas Maccabaeus",
         "url": "https://open.spotify.com/album/7aIYizHCqmbKfn7vK8PINm"
       },
@@ -1555,34 +1583,6 @@
       "duration_ms": 395026,
       "name": "Judas Maccabaeus, HWV 63, Act III: Duet \"O lovely peace\"",
       "url": "https://open.spotify.com/track/1o8KteyWoKK4HGEuUOCzS6"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Peaceful Handel",
-        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Christina Wieland",
-          "url": "https://open.spotify.com/artist/0pwEmXXpHyP7CYrkMmNzEf"
-        },
-        {
-          "name": "Frankfurt Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
-        },
-        {
-          "name": "Joachim Carlos Martini",
-          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
-      "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
     },
     {
       "added_at": "2022-06-28 08:56:25",

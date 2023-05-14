@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Javier Solís
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,669 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,066 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 29 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
 | 30 | [La Farsante](https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:55 |
 | 31 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 |
-| 32 | [El Malo](https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:57 |
-| 33 | [Mi Talismán](https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 4:48 |
+| 32 | [Mi Talismán](https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 4:48 |
+| 33 | [El Malo](https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:57 |
 | 34 | [Llamarada](https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:24 |
 | 35 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 |
 | 36 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 38 | [Me Vas A Extrañar](https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 4:20 |
 | 39 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
 | 40 | [La Gran Señora](https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 4:12 |
-| 41 | [Tú Lo Decidiste](https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:49 |
-| 42 | [Soñador Eterno](https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:13 |
+| 41 | [Soñador Eterno](https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:13 |
+| 42 | [Tú Lo Decidiste](https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:49 |
 | 43 | [Soy lo prohibido](https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:04 |
 | 44 | [En el Último Trago](https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Gracias \(with Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH) | 2:17 |
 | 45 | [Esclavo y Amo](https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Los Boleros Morunos Solis](https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq) | 2:57 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 48 | [Perdóname](https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 3:31 |
 | 49 | [Insensible A Ti \(Me Pone A Mil\)](https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Orgullo De Mujer](https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3) | 4:03 |
 | 50 | [Una Página Más](https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [A Todas Las Que Amé](https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA) | 2:41 |
-| 51 | [No Entiendo](https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:43 |
-| 52 | [Yo...El Aventurero](https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [La Más Completa Colección](https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA) | 2:59 |
+| 51 | [Yo...El Aventurero](https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [La Más Completa Colección](https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA) | 2:59 |
+| 52 | [No Entiendo](https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:43 |
 | 53 | [Me Caí De La Nube](https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:49 |
 | 54 | [Por Una Mujer Bonita](https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 2:44 |
 | 55 | [El Rey](https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:09 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 67 | [Ebrio De Amor](https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Orgullo Ranchero](https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni) | 3:38 |
 | 68 | [Rata De Dos Patas](https://open.spotify.com/track/2okIVxq5V9JDpATsGA3t36) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Taco Placero](https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh) | 3:38 |
 | 69 | [Y...](https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:39 |
-| 70 | [Esta Noche Voy a Verla](https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 2:39 |
-| 71 | [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 |
+| 70 | [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 |
+| 71 | [Esta Noche Voy a Verla](https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 2:39 |
 | 72 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:23 |
 | 73 | [No](https://open.spotify.com/track/60tK9PZkMuCb5Uwv28oIJM) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Grandes Exitos A La Manera De Alejandro Fernandez](https://open.spotify.com/album/3PEIsRKWPx5w1RSoOnrOoh) | 3:15 |
 | 74 | [Libro Abierto](https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 99 | [Himno A La Humildad](https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:25 |
 | 100 | [Bohemio de Afición](https://open.spotify.com/track/3lwkAPnI2i1eFWWPt0mq15) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [La Gran Colección del 60 Aniversario CBS \- Gerardo Reyes](https://open.spotify.com/album/2BFXXLvrX2PZ5WqWxAzg39) | 3:17 |
 
-Snapshot ID: `MCwzNjFlZmVlZTMzODE0N2QzMDFiNzU1MzVlMTJjYmI5MTU5YTA5ZmI3`
+Snapshot ID: `MCw5ODM2NWYwMzhkOWNkZTE0YTQ4OWYxY2M2OThiMWI3YmE5OWJhYWM4`

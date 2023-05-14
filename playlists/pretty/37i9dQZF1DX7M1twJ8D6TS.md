@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,618 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,731 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 21 | [To Be Loved By You](https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [To Be Loved By You](https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu) | 3:18 |
 | 22 | [Pretty Things](https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning In Dreams](https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS) | 4:28 |
 | 23 | [Pay No Rent](https://open.spotify.com/track/4FIIaVhMlCDlIRPUWtd7Ax) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Long Way from Your Heart](https://open.spotify.com/album/04ffYrjCuXYHdWvFXzGeW9) | 4:01 |
-| 24 | [Ain't a Train](https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a) | 3:05 |
-| 25 | [Bury My Bones](https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Bury My Bones](https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu) | 4:19 |
+| 24 | [Bury My Bones](https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Bury My Bones](https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu) | 4:19 |
+| 25 | [Ain't a Train](https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a) | 3:05 |
 | 26 | [Austin](https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Austin](https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG) | 4:34 |
 | 27 | [Some Things Never Change](https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:20 |
 | 28 | [Shine Out](https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP) | [Kody West](https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek) | [Green](https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA) | 3:53 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 48 | [Hey Moon](https://open.spotify.com/track/55UgjwzWbQqOGMu66RHQRe) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 2:54 |
 | 49 | [Leave Me My Heart](https://open.spotify.com/track/6oAp4G5TCSVu8S76x51h4N) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last \(Deluxe Edition\)](https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy) | 3:17 |
 | 50 | [You, Me and a Bottle](https://open.spotify.com/track/5l2vsw5MtFyUcFmsuguNcW) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Hellbent](https://open.spotify.com/album/2OySP5MCjKzroGIQmljuib) | 3:13 |
-| 51 | [He Ain't a Cowboy](https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [He Ain't a Cowboy](https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0) | 3:13 |
-| 52 | [Can Down](https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Can Down](https://open.spotify.com/album/42exaEEpqgK20M7sFz6dIF) | 3:08 |
+| 51 | [Happier Alone](https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Black Sheep](https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1) | 3:44 |
+| 52 | [He Ain't a Cowboy](https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [He Ain't a Cowboy](https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0) | 3:13 |
 | 53 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 |
-| 54 | [Happier Alone](https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Black Sheep](https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1) | 3:44 |
+| 54 | [Can Down](https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Can Down](https://open.spotify.com/album/42exaEEpqgK20M7sFz6dIF) | 3:08 |
 | 55 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 |
 | 56 | [Javelina](https://open.spotify.com/track/46YBC6L6URk7rZ3FiZH6AS) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Javelina](https://open.spotify.com/album/5tyO5E9XvwHp2QxF3VOKVq) | 3:28 |
 | 57 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 94 | [Paycheck to Paycheck](https://open.spotify.com/track/2rK7rEmSllMs6iIJzle9oM) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Paycheck to Paycheck](https://open.spotify.com/album/3snVS5Ve1YUMpLyYELK00B) | 2:36 |
 | 95 | [In the Dark](https://open.spotify.com/track/7nlNwrNlmvOZVBuP00ax0v) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [In the Dark](https://open.spotify.com/album/3X6pi4gHeBN14Lt9ItfOiX) | 3:52 |
 | 96 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 |
-| 97 | [I Didn't Think About Rain](https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [I Didn't Think About Rain](https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO) | 4:12 |
+| 97 | [Loser Mentality](https://open.spotify.com/track/0kh5IPMmmY2LUPDij2H3T6) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Abstract Art of an Unstable Mind](https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW) | 3:12 |
 | 98 | [First Dirt Road](https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [First Dirt Road](https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3) | 3:23 |
-| 99 | [Loser Mentality](https://open.spotify.com/track/0kh5IPMmmY2LUPDij2H3T6) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Abstract Art of an Unstable Mind](https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW) | 3:12 |
+| 99 | [I Didn't Think About Rain](https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [I Didn't Think About Rain](https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO) | 4:12 |
 | 100 | [Keep on Moving](https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Keep on Moving](https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc) | 3:16 |
 
-Snapshot ID: `MCw2YzM4OTk5OGM0NzNlYWM4YzM5OTkwYjg1YTU0NTNhZTdlMWRjOTBl`
+Snapshot ID: `MCxlOWFlZTNiY2JjMDc1ZjU0YjM5MDk1NjJhZGIzNDlmNTlkZGIxOTI4`

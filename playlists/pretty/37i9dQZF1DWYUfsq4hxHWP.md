@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Abbey Cone, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,750 likes - 110 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,784 likes - 110 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 109 | [High Road](https://open.spotify.com/track/1wIeiRZ1u1BEY25BoAPbde) | [Rachel Wiggins](https://open.spotify.com/artist/58OPHOw8pfpLzzEGc2wyYp) | [High Road](https://open.spotify.com/album/0evY6hVLSDH5rh1nBvj63N) | 3:00 |
 | 110 | [Lonely Look Like](https://open.spotify.com/track/6IHdxPB9IwXTDNTW6KsSIo) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Lonely Look Like](https://open.spotify.com/album/0LVucQtYyQ51s1kVbZKhmA) | 3:44 |
 
-Snapshot ID: `MCxmYzczZmNjOGZhYTgxMDNkMzQ0OWZmNWY5MzZkN2Q4Y2YyNjEwMjAw`
+Snapshot ID: `MCwxNjdkM2YyMDljMmU0OTdjODA3MTNkOTAwMjJlMjY5ZThjZGNmMDAx`

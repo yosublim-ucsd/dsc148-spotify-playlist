@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,464 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,475 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [That's Not What My Friends Say](https://open.spotify.com/track/21qvsxlG1BCkUlsdzfxu05) | [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [That's Not What My Friends Say](https://open.spotify.com/album/3Hc1CUGdJNXXD1NQeEpBgy) | 2:47 |
 | 100 | [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 |
 
-Snapshot ID: `MCxhM2RkYTU3M2Y2NzFjNTk2OTVjMTdiOTMwNmFkNzExZjAzMjg3ZTNh`
+Snapshot ID: `MCwxZTNjM2RmOGE4NGNkMjE1MTcxM2UwZmIwYjkwNWE3ZjM3OWNjYTQ0`

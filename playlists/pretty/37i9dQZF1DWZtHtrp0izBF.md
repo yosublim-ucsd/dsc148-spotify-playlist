@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,142 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,246 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 49 | [Felices los 4 \(feat\. Marc Anthony\) \- Salsa Version](https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 4:02 |
 | 50 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 |
 
-Snapshot ID: `MCw1YzdmMjBlNzE5NmU4YzQ5YmEwYjBiOTI1ODQ4MWJlYjM4ZDlmNTk5`
+Snapshot ID: `MCwxOTQ5NWFkMjUzZDc4NDllZDFiOGI2NzI2MGU2NDljNDQ5MGJiMGUy`

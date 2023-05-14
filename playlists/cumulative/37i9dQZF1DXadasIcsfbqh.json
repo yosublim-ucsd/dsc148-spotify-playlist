@@ -2128,7 +2128,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 214238,
       "name": "Leave You Alone",
       "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
@@ -2150,6 +2150,28 @@
       "duration_ms": 230632,
       "name": "Left You For Me",
       "url": "https://open.spotify.com/track/2c6RxNOmFQ5Vfnay17glsh"
+    },
+    {
+      "album": {
+        "name": "Life Goes On (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210208,
+      "name": "Life Goes On (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
     },
     {
       "album": {
@@ -2458,6 +2480,28 @@
       "duration_ms": 153337,
       "name": "Memory",
       "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
+    },
+    {
+      "album": {
+        "name": "More Than Yesterday (feat. Russell Dickerson)",
+        "url": "https://open.spotify.com/album/4Guul13nGTNGzV05VTMwqC"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187661,
+      "name": "More Than Yesterday (feat. Russell Dickerson)",
+      "url": "https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH"
     },
     {
       "album": {
@@ -2809,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Penniless & Broke",
+        "url": "https://open.spotify.com/album/16lLoTcCLcQTGQ2jc6RSZx"
+      },
+      "artists": [
+        {
+          "name": "Jordana Bryant",
+          "url": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219040,
+      "name": "Penniless & Broke",
+      "url": "https://open.spotify.com/track/26TL1SaQwfeu2RUEpICMOh"
+    },
+    {
+      "album": {
         "name": "Pickup",
         "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
       },
@@ -2838,7 +2900,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 203600,
       "name": "Pink Champagne",
       "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
@@ -2860,7 +2922,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 160289,
       "name": "Praise The Lord (feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U"

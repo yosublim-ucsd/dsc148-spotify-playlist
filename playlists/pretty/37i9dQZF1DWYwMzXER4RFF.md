@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,132 likes - 55 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,224 likes - 55 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 10 | [Fingers of Steel](https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:21 |
 | 11 | [Total Football](https://open.spotify.com/track/7z81vC7eTE5y4hqk9yCx7F) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 4:01 |
 | 12 | [Blue Sheen](https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 1:58 |
-| 13 | [American Nightmare](https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [American Nightmare](https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT) | 3:09 |
-| 14 | [Don't Cling To Life](https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz) | 2:26 |
-| 15 | [Lucky](https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX) | 2:33 |
+| 13 | [Lucky](https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX) | 2:33 |
+| 14 | [American Nightmare](https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [American Nightmare](https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT) | 3:09 |
+| 15 | [Don't Cling To Life](https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz) | 2:26 |
 | 16 | [Troglodyte](https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World](https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt) | 3:19 |
 | 17 | [Houseplants](https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx) | 4:18 |
 | 18 | [One Rizla](https://open.spotify.com/track/5McXC8UIDBlBciOLyRVZ7E) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Songs of Praise](https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH) | 3:34 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 48 | [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 |
 | 49 | [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 |
 | 50 | [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 |
-| 51 | [Happy Feet](https://open.spotify.com/track/3rIii6N9TMUWA4ObdkfJvw) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Happy Feet](https://open.spotify.com/album/6pjU8QXWzeuCed73NlF5er) | 4:11 |
-| 52 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
-| 53 | [Paul](https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands with Jamie](https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9) | 6:53 |
+| 51 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
+| 52 | [Paul](https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands with Jamie](https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9) | 6:53 |
+| 53 | [Happy Feet](https://open.spotify.com/track/3rIii6N9TMUWA4ObdkfJvw) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Happy Feet](https://open.spotify.com/album/6pjU8QXWzeuCed73NlF5er) | 4:11 |
 | 54 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 |
 | 55 | [Paddling](https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 6:15 |
 
-Snapshot ID: `MCw0NTc3YzZmODllZmNhNmNiYWE1NjQwNzMxMTJkM2E5ZWRkYzY2MGY1`
+Snapshot ID: `MCw3YTQ1MzlmY2YzNmY0Nzk5YjIyYjcyN2IxMjA2OGI5YTQ2YTAzOTk0`

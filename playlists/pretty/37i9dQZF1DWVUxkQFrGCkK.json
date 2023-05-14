@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 167635,
+  "num_followers": 167807,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2E0MzM5Y2U1NmU0ZjUzYjU5MjM3NmQ3ZjRkOGJiODIwNjZlNzli",
+  "snapshot_id": "MCw1YjQ2MDk4MWRiMTViMDY2NDdmYTBjN2ViMmZlZGZmMWU1MGNhZDdj",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1075,18 +1075,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148"
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Jodie Knight",
+          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
         }
       ],
-      "duration_ms": 226620,
-      "name": "Everything Is Going To Be Alright",
-      "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
+      "duration_ms": 243477,
+      "name": "Fragments",
+      "url": "https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1111,22 +1115,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG"
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Jodie Knight",
-          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 243477,
-      "name": "Fragments",
-      "url": "https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh"
+      "duration_ms": 226620,
+      "name": "Everything Is Going To Be Alright",
+      "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "GOOD TIMES (Sofia Kourtesis Remix)",
         "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Interior",
         "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
       },
@@ -1335,6 +1335,26 @@
       "duration_ms": 228734,
       "name": "Interior - Edit",
       "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Celestial Strut",
+        "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
+      },
+      "artists": [
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        },
+        {
+          "name": "Kuyen",
+          "url": "https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b"
+        }
+      ],
+      "duration_ms": 349257,
+      "name": "Found Your Love",
+      "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1379,42 +1399,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Celestial Strut",
-        "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
-      },
-      "artists": [
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        },
-        {
-          "name": "Kuyen",
-          "url": "https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b"
-        }
-      ],
-      "duration_ms": 349257,
-      "name": "Found Your Love",
-      "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
-      },
-      "artists": [
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        }
-      ],
-      "duration_ms": 295230,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "The Reset",
         "url": "https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Tramuntana",
-        "url": "https://open.spotify.com/album/3Cwmn46NId4XNE7YO6vqXg"
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
       },
       "artists": [
         {
-          "name": "KAASI",
-          "url": "https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6"
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         }
       ],
-      "duration_ms": 320000,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/0QdgJdMgEQTrjCAFxxcZZm"
+      "duration_ms": 295230,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 229240,
       "name": "Your Love - After Dark Remix",
       "url": "https://open.spotify.com/track/0mofRY35dqIZBdexSEjTfq"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Tramuntana",
+        "url": "https://open.spotify.com/album/3Cwmn46NId4XNE7YO6vqXg"
+      },
+      "artists": [
+        {
+          "name": "KAASI",
+          "url": "https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/0QdgJdMgEQTrjCAFxxcZZm"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1507,6 +1507,42 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "AFRAID",
+        "url": "https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "AFRAID",
+      "url": "https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/6ScB0G0BWQO3x3XEYwmz2J"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 268871,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/4GQdoFuNNiN3GGj6UrtVR4"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Talisman",
         "url": "https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9"
       },
@@ -1543,42 +1579,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/6ScB0G0BWQO3x3XEYwmz2J"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 268871,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/4GQdoFuNNiN3GGj6UrtVR4"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "AFRAID",
-        "url": "https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "AFRAID",
-      "url": "https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Lifeboat",
         "url": "https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 286937,
       "name": "Lifeboat",
       "url": "https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "JOY (Easy To Improve)",
+        "url": "https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 206892,
+      "name": "JOY (Easy To Improve)",
+      "url": "https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1611,22 +1627,6 @@
       "duration_ms": 184655,
       "name": "A Little Shy",
       "url": "https://open.spotify.com/track/7DNLNZ7ygyHB6dPIiEdyyx"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "JOY (Easy To Improve)",
-        "url": "https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 206892,
-      "name": "JOY (Easy To Improve)",
-      "url": "https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D"
     },
     {
       "added_at": "2023-05-11 22:00:00",

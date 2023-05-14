@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of Rock in Canada in 2022.<br/> Cover: TALK \#SpotifyWrapped
 
-81 songs - 4 hr 31 min
+82 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2022-11-30 |  |
 | [Like A Drug](https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5) | 3:32 | 2022-11-30 |  |
 | [Like A Drug](https://open.spotify.com/track/72R08p6rgsH9xCYu5xcfCS) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Vol\. 1](https://open.spotify.com/album/0C4HBTbxm3KCIHMGBKV4Zj) | 3:32 | 2022-11-30 | 2023-05-04 |
-| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-11-30 |  |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-11-30 | 2023-05-14 |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2022-11-30 |  |
 | [Love Is All I Bring](https://open.spotify.com/track/3YDfEw7uM8Rg9Hwa5FEVdB) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Lose My Cool](https://open.spotify.com/album/02ywTruEAT82sHErogZXzP) | 3:27 | 2022-11-30 |  |
 | [Love Me \(When You're Gone\)](https://open.spotify.com/track/461uGnpHqAbSRC0SuNruAf) | [WHALES•TALK](https://open.spotify.com/artist/0CqDdSmQpezWGxxjvDGzqT) | [Love Me \(When You're Gone\)](https://open.spotify.com/album/5UOtvaBqXxOko6UWYFvxhA) | 2:37 | 2022-11-30 |  |
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-11-30 |  |

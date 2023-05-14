@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,550 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,581 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 31 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
 | 32 | [Renuevame](https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz) | [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [Lo Mejor De Mi, Para El](https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG) | 5:16 |
 | 33 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
-| 34 | [No Puedo Ni Quiero](https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Punto y Aparte](https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM) | 3:34 |
-| 35 | [Camino Al Cielo \(Versión Merengue\)](https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 3:24 |
+| 34 | [Camino Al Cielo \(Versión Merengue\)](https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 3:24 |
+| 35 | [No Puedo Ni Quiero](https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Punto y Aparte](https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM) | 3:34 |
 | 36 | [Yo Te Prometo](https://open.spotify.com/track/78qhDtLwEUei6bkEWlG06O) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Niko La Fábrica](https://open.spotify.com/artist/77gpdl9ket58wQczszbrno) | [Corazón](https://open.spotify.com/album/45Ww8247fdYO93oBrloSsN) | 3:44 |
 | 37 | [Tu Amor](https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Melissa Hermosillo](https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP) | [Tu Amor](https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90) | 3:12 |
 | 38 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 49 | [Desde Mi Alma](https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z) | [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Desde Mi Alma](https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD) | 4:08 |
 | 50 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
 
-Snapshot ID: `MCxmMmZhODM2MjBmZTNmN2MyMGJhMTczN2JkZTk1ODVjMjIwYjVhMmE5`
+Snapshot ID: `MCw0NjAzMmNkNjc4YzJjNTEzZGZlNzYzOWQzZDI1NDQ2MWM5YTBmMWEz`

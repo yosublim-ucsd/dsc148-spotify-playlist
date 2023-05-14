@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,669 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,818 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 28 | [The Auctioneer](https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [At Your Request…](https://open.spotify.com/album/6B6fsYtcD8oJSmMEl4rJ85) | 2:48 |
 | 29 | [Get Rhythm](https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:13 |
 | 30 | [Rebel Rouser](https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [The Best Of Duane Eddy](https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf) | 2:33 |
-| 31 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
+| 31 | [Kisses Sweeter Than Wine](https://open.spotify.com/track/2luRltDp0ZG4ORi3lA8NsB) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [Jimmie Rodgers](https://open.spotify.com/album/4LyR43XAMvLzC7IHxH9KAl) | 2:22 |
 | 32 | [Heartbreak Hotel](https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:07 |
 | 33 | [They're Hanging Me Tonight](https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:04 |
-| 34 | [Kisses Sweeter Than Wine](https://open.spotify.com/track/2luRltDp0ZG4ORi3lA8NsB) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [Jimmie Rodgers](https://open.spotify.com/album/4LyR43XAMvLzC7IHxH9KAl) | 2:22 |
+| 34 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
 | 35 | [Cold, Cold Heart](https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Memorial Album \(Expanded Edition\)](https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS) | 2:45 |
 | 36 | [I Ain't Never \- Single Version](https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 1:53 |
 | 37 | [The Wild Side Of Life](https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0), [Hank Thompson And His Brazos Valley Boys](https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk) | [Songs Of The Brazos Valley](https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc) | 2:44 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 49 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 |
 | 50 | [Money Honey \- Remastered](https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:14 |
 | 51 | [Crazy Arms](https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:32 |
-| 52 | [I Love You Because](https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Margaret](https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn) | 2:07 |
-| 53 | [Under Your Spell Again](https://open.spotify.com/track/62aHZDM8REF3iJKIVcNoRK) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:44 |
+| 52 | [Under Your Spell Again](https://open.spotify.com/track/62aHZDM8REF3iJKIVcNoRK) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:44 |
+| 53 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
 | 54 | [The Three Bells](https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA) | [The Browns](https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji) | [Pure..\. Country](https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR) | 2:49 |
-| 55 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
+| 55 | [I Love You Because](https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Margaret](https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn) | 2:07 |
 | 56 | [Beautiful Lies](https://open.spotify.com/track/0TOnG6XkBU2Z9YBCCiRtMW) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty) | [The Best Of Jean Shepard](https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB) | 2:50 |
 | 57 | [Chattanoogie Shoe Shine Boy \- 1949 Single Version](https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 2:49 |
 | 58 | [Why Baby Why](https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [22 Early Starday Recordings](https://open.spotify.com/album/5M4EJHZXWDI2XOaudxpg6G) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [Send Me the Pillow You Dream On](https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Golden Hits](https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk) | 2:31 |
 | 75 | [I Don't Hurt Anymore \- Remastered](https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo) | [Hank Snow & His Rainbow Ranch Boys](https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:55 |
 
-Snapshot ID: `MCwzN2FjYmZjNThkOGQwN2VkODhjN2MxODIxMTQ2NzQyYWQwODAwMDE4`
+Snapshot ID: `MCwzZmJkMDVhNGE2MGEwZDI2Njc1ZTEwNzhlM2UyMTU0ZTUyMjA1ODE2`

@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 201391,
       "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
@@ -4872,7 +4872,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 168926,
       "name": "Haegeum",
       "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
@@ -10223,7 +10223,7 @@
       "artists": [
         {
           "name": "AIMAN Qusailah",
-          "url": "https://open.spotify.com/artist/0bRrG7MbH41AdjYpZKC7sk"
+          "url": "https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D"
         }
       ],
       "date_added": "2023-04-28",
@@ -12692,7 +12692,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 226466,
       "name": "The Color Violet",
       "url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"
@@ -12822,6 +12822,24 @@
       "duration_ms": 162840,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/4g6zpIxbj9jb8ewGrV1kCE"
+    },
+    {
+      "album": {
+        "name": "The Planet",
+        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "The Planet",
+      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
     },
     {
       "album": {
@@ -13312,7 +13330,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -14758,7 +14776,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 285291,
       "name": "\u0627\u0644\u0641\u064a\u0646 \u0628\u0627\u0628",
       "url": "https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1"
@@ -15886,7 +15904,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 324721,
       "name": "\u0648\u0641\u0631 \u0627\u0644\u0623\u0639\u0630\u0627\u0631",
       "url": "https://open.spotify.com/track/4U0DuUjKUOnRLrY7iBQ3kU"

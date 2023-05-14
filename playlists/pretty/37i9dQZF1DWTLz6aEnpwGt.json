@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 39451,
+  "num_followers": 39495,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWYwOTAzZDNlOGQxYmU1MWEyNTczZWM1NzdiMTNlM2M5Yjg2MzFh",
+  "snapshot_id": "MCwwZmFiMjZkZWYyOGZmOTQ4NzA1OWNkNjc5ZmY0YWI0YjlmOWY4Y2Q2",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -499,8 +499,8 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach",
-        "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
+        "name": "Bach, J.S.: French Suites Nos. 1-2 / Italian Concerto / Chromatic Fantasia and Fugue",
+        "url": "https://open.spotify.com/album/3WHDztwanWiA1DvORNNBx6"
       },
       "artists": [
         {
@@ -508,17 +508,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Lucas Jussen",
-          "url": "https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI"
-        },
-        {
-          "name": "Arthur Jussen",
-          "url": "https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars"
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
         }
       ],
-      "duration_ms": 297280,
-      "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 2. Adagio ovvero Largo (performed on two pianos)",
-      "url": "https://open.spotify.com/track/1MikehMkm3ZWWV1R7C0sgG"
+      "duration_ms": 84973,
+      "name": "French Suite No. 2 in C Minor, BWV 813: IV. Air",
+      "url": "https://open.spotify.com/track/4LTlvSoS9iupihOSMdzrhR"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -543,8 +539,8 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach, J.S.: French Suites Nos. 1-2 / Italian Concerto / Chromatic Fantasia and Fugue",
-        "url": "https://open.spotify.com/album/3WHDztwanWiA1DvORNNBx6"
+        "name": "Bach",
+        "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
       },
       "artists": [
         {
@@ -552,13 +548,17 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+          "name": "Lucas Jussen",
+          "url": "https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI"
+        },
+        {
+          "name": "Arthur Jussen",
+          "url": "https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars"
         }
       ],
-      "duration_ms": 84973,
-      "name": "French Suite No. 2 in C Minor, BWV 813: IV. Air",
-      "url": "https://open.spotify.com/track/4LTlvSoS9iupihOSMdzrhR"
+      "duration_ms": 297280,
+      "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 2. Adagio ovvero Largo (performed on two pianos)",
+      "url": "https://open.spotify.com/track/1MikehMkm3ZWWV1R7C0sgG"
     },
     {
       "added_at": "2022-08-19 10:45:11",

@@ -1,12 +1,12 @@
 {
   "description": "all-day bops you can always rely on \u25e1\u0308\n",
-  "num_followers": 166266,
+  "num_followers": 166304,
   "original_name": "free refills",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDlhMTU3ZjUyZDc5MmVjNDVkMGI3YjdiODk5ZjFhM2NkNGVmMDU3",
+  "snapshot_id": "MCxiMjMzM2I0YTk2M2FkNzZmZThkYzVhMzI5NDJiMWQ4MDg4ODkyM2Nl",
   "tracks": [
     {
       "added_at": "2023-02-10 00:29:15",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
+        "name": "BADLANDS",
+        "url": "https://open.spotify.com/album/5U5rt98q8Jqx4lP3RdqYfO"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 249499,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/1TnUURhehaoMWKAqQtirm6"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
         "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "BADLANDS",
-        "url": "https://open.spotify.com/album/5U5rt98q8Jqx4lP3RdqYfO"
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 249499,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/1TnUURhehaoMWKAqQtirm6"
+      "duration_ms": 212320,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y"
     },
     {
       "added_at": "2023-01-18 17:37:10",
@@ -1199,22 +1215,6 @@
       "duration_ms": 135013,
       "name": "on & on",
       "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 199232,
-      "name": "Ode to a Conversation Stuck in Your Throat",
-      "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Give Up (Deluxe 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 266506,
       "name": "Such Great Heights - Remastered",
       "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 199232,
+      "name": "Ode to a Conversation Stuck in Your Throat",
+      "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Modus Vivendi",
-        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Guilty Conscience",
-      "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Modus Vivendi",
+        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Guilty Conscience",
+      "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Rx",
-        "url": "https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "forever&more",
-      "url": "https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 164186,
       "name": "Something Good Can Work",
       "url": "https://open.spotify.com/track/59kNaCxnyX7Ezt1m6KxGLY"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Rx",
+        "url": "https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "forever&more",
+      "url": "https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "National Anthem",
-      "url": "https://open.spotify.com/track/2nvXyajLAAV9Iwy8K9EbUd"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "I Still Have Faith In You / Don't Shut Me Down",
         "url": "https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 238800,
       "name": "Don't Shut Me Down",
       "url": "https://open.spotify.com/track/2AHnmlkyZbnxqSA66B7jK3"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "National Anthem",
+      "url": "https://open.spotify.com/track/2nvXyajLAAV9Iwy8K9EbUd"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Poundshop Kardashians",
         "url": "https://open.spotify.com/album/3786cITcKTrcxtezOgZKME"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 159295,
       "name": "Poundshop Kardashians",
       "url": "https://open.spotify.com/track/0qWgm1JTDWdfJX9Lsj8mdR"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 177641,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -2279,6 +2263,22 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 177641,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
         "name": "INSIDE",
         "url": "https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a"
       },
@@ -2291,6 +2291,22 @@
       "duration_ms": 212860,
       "name": "All Eyes On Me (Song Only)",
       "url": "https://open.spotify.com/track/5RXycwlyNdmAYB5srQ4lk2"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2339,22 +2355,6 @@
       "duration_ms": 212713,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Z",
-        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3oUSdLtRYOSvXcLMrHctv7"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "So Long, See You Tomorrow",
         "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
       },
@@ -2455,18 +2439,18 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "I Don't Wanna Talk (I Just Wanna Dance)",
-        "url": "https://open.spotify.com/album/4Rmv2DGTZuxsULDbhU5L49"
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 195190,
-      "name": "I Don't Wanna Talk (I Just Wanna Dance)",
-      "url": "https://open.spotify.com/track/3oqztHfES8jYMyrxPMzWwc"
+      "duration_ms": 219642,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3oUSdLtRYOSvXcLMrHctv7"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -2487,6 +2471,22 @@
       "duration_ms": 149068,
       "name": "Marlboro Nights 2",
       "url": "https://open.spotify.com/track/5YSoAMG654oXW5Cz4VkFvL"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "I Don't Wanna Talk (I Just Wanna Dance)",
+        "url": "https://open.spotify.com/album/4Rmv2DGTZuxsULDbhU5L49"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 195190,
+      "name": "I Don't Wanna Talk (I Just Wanna Dance)",
+      "url": "https://open.spotify.com/track/3oqztHfES8jYMyrxPMzWwc"
     },
     {
       "added_at": "2023-01-04 23:35:04",

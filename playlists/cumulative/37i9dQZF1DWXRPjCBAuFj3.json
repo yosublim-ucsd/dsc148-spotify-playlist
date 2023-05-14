@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 187453,
       "name": "AIN'T GONNA ANSWER",
       "url": "https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O"
@@ -816,6 +816,32 @@
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
+    },
+    {
+      "album": {
+        "name": "En temps r\u00e9el",
+        "url": "https://open.spotify.com/album/3Axd0NV5EcNnWzkvHqijzQ"
+      },
+      "artists": [
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "C'est carr\u00e9 le S",
+      "url": "https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8"
     },
     {
       "album": {
@@ -4278,7 +4304,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 217954,
       "name": "Peso a Peso",
       "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
@@ -4318,6 +4344,32 @@
       "duration_ms": 120133,
       "name": "piccolo",
       "url": "https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz"
+    },
+    {
+      "album": {
+        "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
+        "url": "https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218172,
+      "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
+      "url": "https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA"
     },
     {
       "album": {

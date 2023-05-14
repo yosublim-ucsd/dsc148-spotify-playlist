@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,507 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,631 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 75 | [Cuidado](https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 4:02 |
 | 76 | [Cursis Melodías](https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [HU HU HU](https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf) | 4:27 |
 | 77 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
-| 78 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
-| 79 | [Bailar Bien, Bailar Mal](https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 3:45 |
+| 78 | [Bailar Bien, Bailar Mal](https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 3:45 |
+| 79 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
 | 80 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
 | 81 | [Oscuridad](https://open.spotify.com/track/46ii3SsKP0k6qZYo0mYKi6) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/6LEhYzZ4z4xjIBJeDPIqll) | 3:30 |
 | 82 | [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 95 | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1) | 2:50 |
 | 96 | [Eva](https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Eva](https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl) | 3:44 |
 | 97 | [Cuando](https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:10 |
-| 98 | [Alexander](https://open.spotify.com/track/0F4PEHuH9rGeVZDFNVqTbN) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [The Future Sugar](https://open.spotify.com/album/1k4iFJs342EvXCEqQ3kt3V) | 3:30 |
-| 99 | [Inercia](https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5) | [MKRNI](https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp) | [Canciones](https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR) | 3:54 |
+| 98 | [Inercia](https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5) | [MKRNI](https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp) | [Canciones](https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR) | 3:54 |
+| 99 | [Alexander](https://open.spotify.com/track/0F4PEHuH9rGeVZDFNVqTbN) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [The Future Sugar](https://open.spotify.com/album/1k4iFJs342EvXCEqQ3kt3V) | 3:30 |
 | 100 | [Flor](https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita: Remixes](https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39) | 3:09 |
 
-Snapshot ID: `MCwyMTNkNGY4MzU3NDNiNDE3MDBkYmNiZTlhNzA0YzkwMTA1MmIwY2E1`
+Snapshot ID: `MCw4OGFiZWJhYzU5ZWI3MjYzMTM5YWY0NmM1NzE2N2JmM2NiZDM2YzM5`

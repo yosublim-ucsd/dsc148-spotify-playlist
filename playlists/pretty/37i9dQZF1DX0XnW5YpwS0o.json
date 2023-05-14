@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 67726,
+  "num_followers": 67841,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzM2MWY4ZDliOWFlNWQyOTk1YmIyMGE3ODI5ZWJlYWI0N2Q4OWQ5",
+  "snapshot_id": "MCwzMDNkZmQ3NWQ3ODk5YjQ5M2NjYjk0M2NhN2ViMjIwMDI0MDg2NTU1",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 281406,
-      "name": "Life Itself",
-      "url": "https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD"
+      "duration_ms": 206493,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -539,6 +523,22 @@
       "duration_ms": 248880,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 281406,
+      "name": "Life Itself",
+      "url": "https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -587,6 +587,22 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -655,22 +671,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "I Can't Go on Without You",
-      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "A Moon Shaped Pool",
         "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 194760,
       "name": "Running with the Wolves",
       "url": "https://open.spotify.com/track/6qMMJiCtrlHmxGyFUStff8"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "Hot Blood",
+      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -787,22 +803,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 218600,
-      "name": "Hot Blood",
-      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "My Thoughts On You",
         "url": "https://open.spotify.com/album/6itEtMM5U5hc5klRxnDvBx"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 243509,
-      "name": "Season 2 Episode 3",
-      "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Two Vines",
         "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
       },
       "artists": [
         {
-          "name": "The Lagoons",
-          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 261773,
-      "name": "California",
-      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
+      "duration_ms": 243509,
+      "name": "Season 2 Episode 3",
+      "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -895,6 +879,22 @@
       "duration_ms": 197426,
       "name": "Silvertongue",
       "url": "https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
+      },
+      "artists": [
+        {
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "California",
+      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Teens Of Denial",
-        "url": "https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 374653,
-      "name": "Drunk Drivers/Killer Whales",
-      "url": "https://open.spotify.com/track/75hwtYcghca6YKW4i6C6fP"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "The Colour In Anything",
         "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Teens Of Denial",
+        "url": "https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 374653,
+      "name": "Drunk Drivers/Killer Whales",
+      "url": "https://open.spotify.com/track/75hwtYcghca6YKW4i6C6fP"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "A Moon Shaped Pool",
         "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
       },
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 220609,
-      "name": "Burn the Witch",
-      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
+      "duration_ms": 281011,
+      "name": "Decks Dark",
+      "url": "https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 298026,
       "name": "GLOWED UP",
       "url": "https://open.spotify.com/track/4v20N4W83XDJORt7WCedII"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Twice",
-      "url": "https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1192,9 +1192,29 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 281011,
-      "name": "Decks Dark",
-      "url": "https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY"
+      "duration_ms": 220609,
+      "name": "Burn the Witch",
+      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Lessons in Love",
+        "url": "https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        },
+        {
+          "name": "GRADES",
+          "url": "https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY"
+        }
+      ],
+      "duration_ms": 232490,
+      "name": "If You Let Me",
+      "url": "https://open.spotify.com/track/5T5b5ZLAUPjtGUTdaH8KLd"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1227,26 +1247,6 @@
       "duration_ms": 272680,
       "name": "Easier",
       "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "Lessons in Love",
-        "url": "https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "GRADES",
-          "url": "https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY"
-        }
-      ],
-      "duration_ms": 232490,
-      "name": "If You Let Me",
-      "url": "https://open.spotify.com/track/5T5b5ZLAUPjtGUTdaH8KLd"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Half the World Away",
+      "url": "https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 257546,
       "name": "Don't Touch My Hair (feat. Sampha)",
       "url": "https://open.spotify.com/track/2TyCAfhwu5tRqFW8VnGMIL"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Half the World Away",
-      "url": "https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor"
     },
     {
       "added_at": "2021-09-22 14:36:46",

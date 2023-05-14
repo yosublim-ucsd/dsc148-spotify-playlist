@@ -234,6 +234,24 @@
     {
       "album": {
         "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280546,
+      "name": "Cerca De La Revolucion",
+      "url": "https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd"
+    },
+    {
+      "album": {
+        "name": "Piano Bar",
         "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
       },
       "artists": [
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 224400,
       "name": "Quieren Rock",
       "url": "https://open.spotify.com/track/7KZWjw7JURpLC80tasSdlR"

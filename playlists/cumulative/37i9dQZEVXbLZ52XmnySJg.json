@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 279107,
       "name": "Deva Deva",
       "url": "https://open.spotify.com/track/4SqPZorSDuUtvdJwVGeZRC"
@@ -4796,6 +4796,32 @@
       "duration_ms": 324880,
       "name": "Haan Tu Hain",
       "url": "https://open.spotify.com/track/4vgCpNUUcpEIBifidhQOnR"
+    },
+    {
+      "album": {
+        "name": "Haath Varthi",
+        "url": "https://open.spotify.com/album/6H44Nod2PTvbTuu7PnUZWg"
+      },
+      "artists": [
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Phenom",
+          "url": "https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149570,
+      "name": "Haath Varthi",
+      "url": "https://open.spotify.com/track/0H8I33DTtRS9nEZX2FLJV5"
     },
     {
       "album": {
@@ -9418,7 +9444,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -9988,7 +10014,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 224146,
       "name": "Pasoori",
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
@@ -10094,7 +10120,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -10112,7 +10138,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"

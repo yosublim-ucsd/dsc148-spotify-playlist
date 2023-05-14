@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-379 songs - 23 hr 53 min
+380 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Bloodline](https://open.spotify.com/track/2gYLeC5Ikd8DFSJfwGZJp3) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Alien](https://open.spotify.com/album/29q56s9HFBRPKUmSfkeFZx) | 3:25 | 2023-03-23 |  |
 | [Blow](https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow](https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr) | 2:44 | 2022-06-10 |  |
 | [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 | 2022-07-13 |  |
-| [Born For Greatness](https://open.spotify.com/track/2VDdoBA24QICNHn5JkJwyE) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Born For Greatness](https://open.spotify.com/album/3GmdjyqCdD62n5JW8ZEfgZ) | 3:47 | 2022-07-13 |  |
+| [Born For Greatness](https://open.spotify.com/track/2VDdoBA24QICNHn5JkJwyE) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Born For Greatness](https://open.spotify.com/album/3GmdjyqCdD62n5JW8ZEfgZ) | 3:47 | 2022-07-13 | 2023-05-14 |
 | [Born For One Thing](https://open.spotify.com/track/3imV0hhAWp4YQGP9gdm8xe) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Born For One Thing](https://open.spotify.com/album/7jfuAetoPfNCY70BaQVwMd) | 4:20 | 2021-11-12 | 2022-04-30 |
 | [Brand New Numb](https://open.spotify.com/track/0vPkRB52RENZMpHybpFKYK) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 3:42 | 2022-06-17 |  |
 | [Brand New Numb](https://open.spotify.com/track/4KTgD62vgozCfk2Inbo9fm) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Brand New Numb/Disguise](https://open.spotify.com/album/4v1UzWSBBr1RICtdwTIn7E) | 3:42 | 2021-11-12 | 2022-07-29 |
@@ -124,7 +124,7 @@
 | [Du hast](https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) | 3:54 | 2022-06-17 |  |
 | [Dumptruck](https://open.spotify.com/track/3a0xTF3rUKUcUbzsz7A2oM) | [Wilson](https://open.spotify.com/artist/2Uiis5cmcUvukNK7OlpW8s) | [Dumptruck](https://open.spotify.com/album/6nm95zn2umHhVNl1IO0Ouo) | 3:37 | 2021-11-12 | 2022-07-23 |
 | [Dumptruck](https://open.spotify.com/track/7DnrADDBDIIXw2ZlU5q49W) | [Wilson](https://open.spotify.com/artist/2Uiis5cmcUvukNK7OlpW8s) | [Tasty Nasty](https://open.spotify.com/album/4rmzbSTWvNnPwVL21u7bdd) | 3:37 | 2022-11-02 | 2022-11-13 |
-| [Earthbound](https://open.spotify.com/track/1DKbMKbzeZ57yo6yI4MeXe) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Earthbound](https://open.spotify.com/album/5F0t9Dkxsx4pX6Z57aWXkZ) | 3:42 | 2023-04-04 | 2023-05-02 |
+| [Earthbound](https://open.spotify.com/track/1DKbMKbzeZ57yo6yI4MeXe) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Earthbound](https://open.spotify.com/album/5F0t9Dkxsx4pX6Z57aWXkZ) | 3:42 | 2023-04-04 |  |
 | [Elite](https://open.spotify.com/track/3jnYlchDDAiLzfkPPy12ig) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:01 | 2022-09-28 | 2022-10-22 |
 | [Empire \(Let Them Sing\)](https://open.spotify.com/track/1DbdQp5dwuawBGmxSHw6Fr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:45 | 2022-07-13 | 2022-09-28 |
 | [Eye of the Storm](https://open.spotify.com/track/6QtGvxBKckuEtXKBbqC3JX) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm \(Into The Vortex Remix\)](https://open.spotify.com/album/2iM1tpyAgGWg9h7eANqNz9) | 3:54 | 2022-07-27 | 2022-11-23 |
@@ -205,6 +205,7 @@
 | [Let It Burn](https://open.spotify.com/track/74XK6loeWil2omwM9VMZdi) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [The Moon and the Fool](https://open.spotify.com/album/770sGenNXg0Upc6FFYrX09) | 4:01 | 2021-11-12 | 2022-07-29 |
 | [Let The Chaos Reign](https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Let The Chaos Reign](https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8) | 3:18 | 2021-11-12 |  |
 | [Let The Dark Do The Rest](https://open.spotify.com/track/7aZsMvEdZBsZHUG3OGbPpD) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:39 | 2022-07-13 | 2022-09-28 |
+| [Letting You Go](https://open.spotify.com/track/4h7Sc2UWOxz07UmQ60kQNQ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB) | 3:43 | 2023-05-05 |  |
 | [Letting You Go](https://open.spotify.com/track/3ip0BsC1XPBNtmAUQRpIX5) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Letting You Go](https://open.spotify.com/album/1j9ekPeYd7pV8atvch8chi) | 3:43 | 2022-07-13 | 2022-07-20 |
 | [Letting You Go](https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:43 | 2022-07-13 | 2023-05-04 |
 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 | 2022-07-13 |  |
@@ -269,7 +270,7 @@
 | [Rainbow Veins](https://open.spotify.com/track/7cjlfruK9Oqw7k5wAZGO72) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Rainbow Veins](https://open.spotify.com/album/7moGhJvy4szDPEEgvgffGj) | 4:58 | 2021-11-12 | 2022-07-29 |
 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 | 2022-06-17 |  |
 | [Raise Your Horns](https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy) | 4:23 | 2022-04-04 | 2022-04-19 |
-| [Rapture](https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Erase Me](https://open.spotify.com/album/7431Bc80pipMjt6v3qm0UL) | 3:34 | 2022-11-02 |  |
+| [Rapture](https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Erase Me](https://open.spotify.com/album/7431Bc80pipMjt6v3qm0UL) | 3:34 | 2022-11-02 | 2023-05-14 |
 | [Rapture](https://open.spotify.com/track/3YJFW63JqYWDkHIm0fAhn5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Rapture](https://open.spotify.com/album/1T3CqW6EYKmimsv2aWtzRa) | 3:34 | 2022-07-13 | 2022-07-28 |
 | [Rational Gaze](https://open.spotify.com/track/5uqr3lCMWkyQx6yTvoMl4F) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Nothing](https://open.spotify.com/album/4ucDcX8iPgBKY9zAJyHOjy) | 5:04 | 2022-11-02 | 2023-02-02 |
 | [READY TO DIE](https://open.spotify.com/track/0FnsGa4AZ9XlW92BHfz8yg) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [READY TO DIE](https://open.spotify.com/album/45uDqpJtxEdoiQFDkmYnjM) | 4:06 | 2022-07-13 | 2022-07-29 |

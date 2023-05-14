@@ -1,12 +1,12 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 9926112,
+  "num_followers": 9927748,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDI4NWVkYzliYmQ4Zjc5ZjMwYmQ0NDVlMTYzZjAxZGZkZTQyOWE2",
+  "snapshot_id": "MCxhNzU5NTc5YjRjYWI5YWEyN2I4YWY5YTVjZTNlOWUyMjdiMmU3YmE4",
   "tracks": [
     {
       "added_at": "2023-05-12 14:33:07",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 172933,
       "name": "PUFFIN ON ZOOTIEZ",
       "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "PUNTO 40",
-        "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 190654,
-      "name": "PUNTO 40",
-      "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -1107,6 +1087,26 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
+        "name": "PUNTO 40",
+        "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 190654,
+      "name": "PUNTO 40",
+      "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "SHOOTING STAR",
-        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
+        "name": "Area Codes",
+        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 203556,
-      "name": "SHOOTING STAR",
-      "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
+      "duration_ms": 139325,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -1163,6 +1163,22 @@
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
+        "name": "SHOOTING STAR",
+        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 203556,
+      "name": "SHOOTING STAR",
+      "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -1251,22 +1267,6 @@
       "duration_ms": 135746,
       "name": "Element",
       "url": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
-        "name": "Area Codes",
-        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 139325,
-      "name": "Area Codes",
-      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -1503,26 +1519,6 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "Hot In It",
-        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
       },
@@ -1567,18 +1563,22 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "Go Hard",
-        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 217610,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Chills (LA Hills)",
-      "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
       },
@@ -1695,6 +1675,26 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
+        "name": "Tell Me Why (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
+      },
+      "artists": [
+        {
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Tell Me Why - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -1715,26 +1715,6 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
-        "name": "Tell Me Why (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
-      },
-      "artists": [
-        {
-          "name": "Supermode",
-          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Tell Me Why - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -1771,6 +1751,26 @@
       "duration_ms": 145666,
       "name": "MONEY ON THE DASH",
       "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Chills (LA Hills)",
+      "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -1847,30 +1847,6 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "Rumble",
-        "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 146571,
-      "name": "Rumble",
-      "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
         "name": "Rainfall (Praise You)",
         "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
       },
@@ -1903,6 +1879,30 @@
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 146571,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 151776,
+      "name": "Dah Dah DahDah",
+      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
-        "name": "Who is Nardo Wick?? (Deluxe)",
-        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 151776,
-      "name": "Dah Dah DahDah",
-      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN",
+      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
         "name": "Upside Down (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
       },
@@ -2343,22 +2359,6 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "CALL DA FIREMAN",
-        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN",
-      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
         "name": "Heute Nacht",
         "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
       },
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 175163,
-      "name": "High",
-      "url": "https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
         "name": "Baila Conmigo",
         "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
       },
@@ -2483,22 +2467,18 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "Do It Better (feat. Zoe Wees)",
-        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         }
       ],
-      "duration_ms": 170045,
-      "name": "Do It Better (feat. Zoe Wees)",
-      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
+      "duration_ms": 175163,
+      "name": "High",
+      "url": "https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -2515,6 +2495,26 @@
       "duration_ms": 273997,
       "name": "SUMMER RENAISSANCE",
       "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
+        "name": "Do It Better (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 170045,
+      "name": "Do It Better (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -2735,22 +2735,6 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "B4 AVA",
-        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 215303,
-      "name": "Man in the Mirror",
-      "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
         "name": "Call Me (with R3HAB & Timmy Trumpet)",
         "url": "https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ"
       },
@@ -2771,6 +2755,22 @@
       "duration_ms": 178309,
       "name": "Call Me (with R3HAB & Timmy Trumpet)",
       "url": "https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 215303,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -2831,6 +2831,22 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -2859,38 +2875,6 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 172540,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 161636,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
         "name": "Turn On The Lights again.. (feat. Future) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
@@ -2915,6 +2899,22 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161636,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -3207,22 +3207,6 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "CHAMPIONS",
-        "url": "https://open.spotify.com/album/59YcRgHMJ2jyNEv7kR12rn"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "CHAMPIONS",
-      "url": "https://open.spotify.com/track/7ezboaARv4FY1k0WFoINWC"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -3239,6 +3223,22 @@
       "duration_ms": 168053,
       "name": "Beg for You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
+        "name": "CHAMPIONS",
+        "url": "https://open.spotify.com/album/59YcRgHMJ2jyNEv7kR12rn"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "CHAMPIONS",
+      "url": "https://open.spotify.com/track/7ezboaARv4FY1k0WFoINWC"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -3443,22 +3443,6 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "BET",
-        "url": "https://open.spotify.com/album/3LSep2wdPolkSYoB1QB7IV"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "BET",
-      "url": "https://open.spotify.com/track/3TJTvFCoVZaWWTRuaIPkMl"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
         "name": "Ininna Tora",
         "url": "https://open.spotify.com/album/62oEG3Jyw8Pgp9HfUnzY0G"
       },
@@ -3479,6 +3463,22 @@
       "duration_ms": 204598,
       "name": "Ininna Tora",
       "url": "https://open.spotify.com/track/2iQMxfQyEyypb0MCFYaLlE"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
+        "name": "BET",
+        "url": "https://open.spotify.com/album/3LSep2wdPolkSYoB1QB7IV"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "BET",
+      "url": "https://open.spotify.com/track/3TJTvFCoVZaWWTRuaIPkMl"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -3559,6 +3559,26 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
+        "name": "We Go Up",
+        "url": "https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 255188,
+      "name": "We Go Up (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/3zQ61IRdlSbEyYQlwQZZxS"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
         "name": "DRMVRSE",
         "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
       },
@@ -3579,26 +3599,6 @@
       "duration_ms": 231440,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/1iA7DyrJbukpd4X2EcT9Xd"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
-        "name": "We Go Up",
-        "url": "https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 255188,
-      "name": "We Go Up (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/3zQ61IRdlSbEyYQlwQZZxS"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -3675,6 +3675,26 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
+        "name": "THE FORMULA",
+        "url": "https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv"
+      },
+      "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 227633,
+      "name": "THE FORMULA",
+      "url": "https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
         "name": "Love We Lost (with R3HAB)",
         "url": "https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG"
       },
@@ -3715,26 +3735,6 @@
     {
       "added_at": "2023-05-12 14:33:07",
       "album": {
-        "name": "THE FORMULA",
-        "url": "https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv"
-      },
-      "artists": [
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 227633,
-      "name": "THE FORMULA",
-      "url": "https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
         "name": "Wheelie (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
       },
@@ -3751,6 +3751,22 @@
       "duration_ms": 170270,
       "name": "Wheelie (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+    },
+    {
+      "added_at": "2023-05-12 14:33:07",
+      "album": {
+        "name": "Road to CASABLANCO.",
+        "url": "https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 99280,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/2tDOCMuKSX9IEo9TJ4pBBk"
     },
     {
       "added_at": "2023-05-12 14:33:07",
@@ -3791,22 +3807,6 @@
       "duration_ms": 148538,
       "name": "BUBBLEGUM",
       "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
-    },
-    {
-      "added_at": "2023-05-12 14:33:07",
-      "album": {
-        "name": "Road to CASABLANCO.",
-        "url": "https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 99280,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/2tDOCMuKSX9IEo9TJ4pBBk"
     },
     {
       "added_at": "2023-05-12 14:33:07",

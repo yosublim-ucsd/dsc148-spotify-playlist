@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-816 songs - 1 day 21 hr 8 min
+817 songs - 1 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4), [DJ Bel da CDD](https://open.spotify.com/artist/6cBgK7jLKrcynjD5E6mKNu), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Desenrola Bate Joga de Ladin \(feat\. DJ Biel do Furduncinho\)](https://open.spotify.com/album/4aLn9qslaoycfYA4NzXLp4) | 1:55 | 2022-04-16 | 2022-08-03 |
 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 | 2022-09-10 | 2023-04-30 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-29 | 2022-09-11 |
-| [DIAMANTE](https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [ANTI$$OCIAL](https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI) | 3:24 | 2023-04-02 |  |
+| [DIAMANTE](https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [ANTI$$OCIAL](https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI) | 3:24 | 2023-04-02 | 2023-05-14 |
 | [DIAS](https://open.spotify.com/track/56hVdyqQWCMYfKopnVRCwQ) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:49 | 2023-01-21 | 2023-02-20 |
 | [Die For You](https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 4:20 | 2022-12-01 | 2023-04-26 |
 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2023-03-15 | 2023-05-07 |
@@ -426,6 +426,7 @@
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:29 | 2021-03-27\* | 2021-04-04 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-14 |
 | [Lost Cause](https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:32 | 2021-08-01 | 2021-08-05 |
+| [Loucamente](https://open.spotify.com/track/7dmP18O7QHHwf2VXjBauJ3) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Los Romeros](https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI) | [Loucamente](https://open.spotify.com/album/4uuGVn3VQKek2PYwMLfH33) | 3:42 | 2023-05-13 |  |
 | [Louis V, Menina Linda](https://open.spotify.com/track/2jPACjKR21inTnWeo3eHla) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw) | [Louis V, Menina Linda](https://open.spotify.com/album/60NnC6VY4C2LehfrT5xFCQ) | 3:35 | 2021-10-04 | 2021-11-24 |
 | [Love Again](https://open.spotify.com/track/4G3SXR53RWS5hplFJ53jbA) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Heartbreak & Other Stories](https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU) | 3:28 | 2023-03-18 |  |
 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 | 2022-12-14 | 2023-03-19 |

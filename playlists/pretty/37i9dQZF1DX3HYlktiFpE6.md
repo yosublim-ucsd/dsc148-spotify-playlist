@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,041 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,073 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 53 | [Daft Punk](https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 2](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) | 4:08 |
 | 54 | [Attention](https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 2:51 |
 | 55 | [Rhythm of Love / Can't Help Falling in Love \- EP Version](https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack: Volume 2](https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6) | 3:33 |
-| 56 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/3YlqY0ICO5DZj2ay8vRjJ1) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/0dAsLsV88EZovxVFjbSZHa) | 3:30 |
+| 56 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/5w1lIJMhKXptAHIiMOYkCr) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Everyday Sounds I](https://open.spotify.com/album/7sbf6Hl244nxyDjyMlzm4U) | 3:30 |
 | 57 | [Riff Off: Mickey/Like A Virgin/Hit Me With Your Best Shot/S&M/Let’s Talk About Sex/I’ll Make Love To You/Feels Like The First Time/No Diggity](https://open.spotify.com/track/0phwM5a6TdLBDl0F9bk5fl) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ), [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1), [The Bu Harmonics](https://open.spotify.com/artist/3ZqvXNT2zEezA2VUT90CYy) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 3:44 |
 | 58 | [Can't Hold Us](https://open.spotify.com/track/00FaBIFXUfzaaVcsQmTTJY) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 2](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) | 3:18 |
 | 59 | [I See Fire](https://open.spotify.com/track/1ZapqbVeMR92xHFDDJcTy3) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 99 | [Misty Mountains](https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:19 |
 | 100 | [Text Me Merry Christmas \(feat\. Kristen Bell\)](https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 2:40 |
 
-Snapshot ID: `MCxkYjc3YTRhNTdhNjU3ZDVhN2Q3YTY1Y2I4NmYwNjljODJkNzM2MjIw`
+Snapshot ID: `MCxlMzlkZmE5MjM3MDc0YzBjOWE2NGRmMmU0NDllZWRmNjg4MDU1OTZk`

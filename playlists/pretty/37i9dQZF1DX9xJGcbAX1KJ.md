@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,594 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,618 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 27 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
 | 28 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 |
 | 29 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 |
-| 30 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 |
-| 31 | [Rather Be](https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 4:07 |
+| 30 | [Rather Be](https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 4:07 |
+| 31 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 |
 | 32 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
 | 33 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 |
 | 34 | [Electric Feel](https://open.spotify.com/track/4ImkB7exKgLcZ8sYH4K9oW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Electric Feel](https://open.spotify.com/album/1lki2iEbNgVFSq0VgH8C7L) | 3:19 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 47 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 |
 | 48 | [Say It Ain't So \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce) | [Calpurnia](https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5) | [Spotify Singles](https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo) | 4:03 |
 | 49 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 |
-| 50 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
+| 50 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 |
 
-Snapshot ID: `MCw0YzQ5NGVjMjc2NWQxNDhjN2QxMzY2ZDgwZTI3M2UxMWUzNDQ5Nzdl`
+Snapshot ID: `MCwxODg2NDg3MmU5NjZlYmEzNjU3OWM0ZmM4NTc4Y2EyZGI4N2Q1MDBk`

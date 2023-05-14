@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,941 likes - 60 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,383 likes - 60 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 20 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 |
 | 21 | [Run Away](https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Run Away](https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK) | 4:22 |
 | 22 | [Stay There](https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Stay There](https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF) | 3:53 |
-| 23 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u don't want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 |
-| 24 | [The Mirage](https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj) | 6:11 |
+| 23 | [The Mirage](https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj) | 6:11 |
+| 24 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 |
 | 25 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
-| 26 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 |
-| 27 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 |
+| 26 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 |
+| 27 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u don't want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 |
 | 28 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 |
 | 29 | [Never Ending](https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Never Ending](https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo) | 4:02 |
 | 30 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Unfold Me](https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Unfold Voices EP](https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T) | 6:31 |
 | 60 | [4 Lovers](https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Lia Paris](https://open.spotify.com/artist/666RdmjetOG6FaFpsCHLnZ) | [4 Lovers](https://open.spotify.com/album/5GgmtwqzcDMMyE7xt6eun3) | 5:48 |
 
-Snapshot ID: `MCw0YTQ3YmU0NzhmYjJlODRlMGE2Y2Y2YjQwZWUzOTQ1Yzg4YTFkZjAy`
+Snapshot ID: `MCw3NTkwZTNlZWU2OWEyMmE4ZDg1YTkwZmEwZGI2NjQ2MjkwZmJmMWRl`

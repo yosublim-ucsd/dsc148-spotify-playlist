@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,901,208 likes - 75 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,901,862 likes - 75 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Deus Emanuel](https://open.spotify.com/track/03SWHCfQMEKBcTd6E6jvgP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Emanuel](https://open.spotify.com/album/5yZ3LemPIfc59PbOqv0Gq4) | 5:16 |
 | 75 | [Deus Faz Além \- Ao Vivo](https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Deus Faz Além \(Ao Vivo\)](https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B) | 4:50 |
 
-Snapshot ID: `MCxmMDYxNzk0NDQ5NDNjZWI4ODc1ZjJkMjRiODVmODRhZWViYWE3MWEx`
+Snapshot ID: `MCw0NzBiMGU3YTk0MTNhZTcwMGFlNTY3MzJiNGIzOGQxMTA1NDIxMWFh`

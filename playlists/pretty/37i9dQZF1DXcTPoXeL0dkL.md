@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,018 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,117 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 34 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 |
 | 35 | [Infiel](https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX) | 4:06 |
 | 36 | [A Blanco y Negro](https://open.spotify.com/track/1CrKa4fjUJCjpcXXPeLuYu) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Más Unidos Que Nunca](https://open.spotify.com/album/20WkxKAK5cgqE6B3Llet7k) | 4:40 |
-| 37 | [El Santo Cachon](https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:29 |
-| 38 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 |
+| 37 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 |
+| 38 | [El Santo Cachon](https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:29 |
 | 39 | [Pregúntele a Su Hija](https://open.spotify.com/track/4tU8cB6Sjtj7vJfD06KoZn) | [Farid Ortiz](https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN), [Emilio Oviedo](https://open.spotify.com/artist/0gp7YgvBbdKBOd6dJIYY8z) | [Sólo Clasicos](https://open.spotify.com/album/5x7mrRtR1jPqBH6N2BuXou) | 4:40 |
 | 40 | [No Te Detengas](https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Gracias Mi Gente](https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX) | 4:46 |
 | 41 | [No Comprendi Tu Amor](https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG), [Álvaro López](https://open.spotify.com/artist/6TzsQhITSRn9p0E3WVXloO) | [Coleccion Top 50](https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY) | 4:42 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 51 | [Calidad de Vida](https://open.spotify.com/track/1gUn7fbTiX5QJ6xvmWNpi2) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Original](https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P) | 4:20 |
 | 52 | [Qué Sera de Mí](https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Internacional](https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0) | 4:37 |
 | 53 | [Ceniza Fria](https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Leyenda](https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF) | 4:01 |
-| 54 | [Mi Muchacho](https://open.spotify.com/track/1A8Fko18JWELjgXtGHaL11) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj) | [El Mundo](https://open.spotify.com/album/0E9KgSm12LLUUZBXN7oEty) | 4:46 |
+| 54 | [Bonita](https://open.spotify.com/track/08y1d8caxqEkRqAcfFlTGP) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj) | [Con Mucho Estilo](https://open.spotify.com/album/4UykEyTY8ZFyineGSX1uOB) | 5:04 |
 | 55 | [El Mochuelo](https://open.spotify.com/track/1dQQtzeKGUtVTUzLoRI01j) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 4:56 |
 | 56 | [Donde Estas](https://open.spotify.com/track/7vyGzPh1AAGCWa6OXYweZH) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:25 |
 | 57 | [Mi Hermano Y Yo](https://open.spotify.com/track/2uzLV2UzrpT2BFbYXwc5hZ) | [Los Hermanos Zuleta](https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME) | [Coleccion Top 50](https://open.spotify.com/album/3dFyFNzHUjgkFf1bzjsCGz) | 4:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 59 | [muero por verla luis mateus vallenato](https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 4:43 |
 | 60 | [Parranda en el Cafetal](https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:12 |
 
-Snapshot ID: `MCw1MWIwYmQ3ODJlNWQ4NzAzOGEzMGMyYWUxZmIxNWYyODA5ZjBkODRi`
+Snapshot ID: `MCxkM2U3MTIxYjAxMDEwY2ZiOTNhMDQ2MjJmMDMxODk1MGFmNzUzYmY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,765 likes - 102 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,874 likes - 102 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 71 | [SNAKE EYES](https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [SNAKE EYES](https://open.spotify.com/album/3S6MFjq2tvxbK8pWhQBnvQ) | 2:10 |
 | 72 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 |
 | 73 | [All I Wanna Do Is Hate](https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [All I Wanna Do Is Hate](https://open.spotify.com/album/2A4OPZOkKblkfpMi1zUCfz) | 2:45 |
-| 74 | [I Can't Take It](https://open.spotify.com/track/2sXbIjNt3TiYbZi6Dn9ZNg) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Aaron Gillespie of Underoath](https://open.spotify.com/artist/04A2VLhqkl5uVeGqVYa3fQ) | [I Can't Take It](https://open.spotify.com/album/4KtBKPNEhb9m7sO2YKhblT) | 2:52 |
+| 74 | [I Can't Take It](https://open.spotify.com/track/2sXbIjNt3TiYbZi6Dn9ZNg) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [I Can't Take It](https://open.spotify.com/album/4KtBKPNEhb9m7sO2YKhblT) | 2:52 |
 | 75 | [My Fall](https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Plus Ultra](https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk) | 3:14 |
 | 76 | [The Clutch](https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [The Clutch](https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD) | 3:10 |
 | 77 | [Love & War](https://open.spotify.com/track/2MxErftY5S07dFtIdxQOSF) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [God's Favorite](https://open.spotify.com/album/5Nt5QeIInvUuWahaoCB9Li) | 3:40 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 101 | [Stockholm](https://open.spotify.com/track/16oMvdrGRE4vSLx42eM0M0) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stockholm](https://open.spotify.com/album/4vYParxuIGyTZvjAGT5Gt0) | 3:17 |
 | 102 | [Television Promises](https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Television Promises](https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT) | 3:39 |
 
-Snapshot ID: `MCxmMGVjZDAxMDRkMDE3MGE1MDk2Yzk1MjYzNDFmMDhkODUwZTJlYTBh`
+Snapshot ID: `MCxmNGQ0ZjFkY2FlN2JkZDJkNjRiMGZkOTQ5OGZkOTY5NzI0ZmFiNTU4`

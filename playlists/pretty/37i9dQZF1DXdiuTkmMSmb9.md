@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Dau Dau
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,019 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,049 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 84 | [Abena](https://open.spotify.com/track/7zo5cuRZ2huGvHhfVrztr3) | [Kwame Anthem](https://open.spotify.com/artist/43FZHTH6FsPw5jEXT9yJp9) | [Abena](https://open.spotify.com/album/5hZpDWuDVdcVN8maH0WR8d) | 3:25 |
 | 85 | [Anogo](https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Anogo](https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT) | 3:10 |
 
-Snapshot ID: `MCw5MTU0ODgzOTBhODAxZWE5NmM4OWU5MTM2ZDNkNDRkNmZhNzI5OTE4`
+Snapshot ID: `MCwxYzFiYTJjOTNlMmFlNDU2M2ZmZGM4OTgxMTlhMDFmY2RjYjY2ZWRm`

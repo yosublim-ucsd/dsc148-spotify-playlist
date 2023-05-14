@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Becky Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,142 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,202 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 79 | [Massive](https://open.spotify.com/track/7cbzuRgdV64qeeG1iYzuxz) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Massive](https://open.spotify.com/album/2AuYnhDnzFPzWuqq0hAgRv) | 2:52 |
 | 80 | [Lucid Love](https://open.spotify.com/track/4lxezjHzTpF81nMNixy1OS) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Lucid Love](https://open.spotify.com/album/4fyUu9Mo0l6bRztTTe0ouz) | 3:08 |
 
-Snapshot ID: `MCwxY2I0NDE1MWEyZTcwMjc4M2U1MTk5ZTU1MmIyZjVjMzQyMDc2Nzdk`
+Snapshot ID: `MCxkZWE3NjE0OWU4ZTE3ZDgyNzJlMGY1NzI3NDRjMmVjNzlmZmVkZGZi`

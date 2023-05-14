@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sHwck3IBzT.md) - [plain]
 
 > Top 50 of the best Amapiano songs in 2022! Cover: <a href="https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj?si=Uk\_hEIv1Srqx4tP648aJlw">Q\-Mark</a>, <a href="https://open.spotify.com/artist/2nvb7E4RLPQVXoUPRaHLuJ?si=4tdpQThsQDW06fmJwCH4Nw">TpZee</a> and <a href="https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO?si=fuYAFYXcScGQGzC0cjn2nw">Afriikan Papi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,208 likes - 52 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,445 likes - 52 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sHwck3IBzT.md) - [plain]
 | 51 | [Zula Zula \(Hub Way\)](https://open.spotify.com/track/250LeBpQ03TW3VHZdg4YiC) | [Villosoul](https://open.spotify.com/artist/0FHhvenQRrT7rXAowL3GJX), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Acutedose](https://open.spotify.com/artist/59cBgFfIKC6v5lRPaq5lGU) | [Zula Zula \(Hub Way\)](https://open.spotify.com/album/0ZPO0PGzqCQhTMUwdOW1my) | 7:34 |
 | 52 | [Banyana](https://open.spotify.com/track/3rj4UYvUttaCsXNEuEqAyy) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Banyana](https://open.spotify.com/album/2k5u0sNv2ERDu8eAIvRCC1) | 6:51 |
 
-Snapshot ID: `MCxmMGRlOTY1ZjU0MjA0NWNjODRmZGFiZWNhZTFjZjdjYmFjMmViNjVh`
+Snapshot ID: `MCxhNDg2ZjE1MGU4MjcyNzE1ZDYyNzhkYWRmY2JhYWFhNGFhMTlhZWE0`

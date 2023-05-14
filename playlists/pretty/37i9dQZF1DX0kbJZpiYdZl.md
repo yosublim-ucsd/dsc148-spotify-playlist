@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 
 > The hottest tracks in the United States\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,277 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,483 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 | 49 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 |
 | 50 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
 
-Snapshot ID: `MCxmNTA3MTRlM2UzNzI1MTBhNzliNGJlZWRlNmJjYTVkZjUzMTQ2NzFh`
+Snapshot ID: `MCw3NzI2OTNjZjgwM2E4MzZmNzY0MWY3MTcyNjAyMTkzMjU1MzY3ODA0`

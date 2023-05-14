@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 56503,
+  "num_followers": 56585,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTczNWQ3NTFjYzhjMDdjMDdkODE3MWYzMDBjZDRiZWVkNjU0Y2E4",
+  "snapshot_id": "MCwxODVhMmRjNTBlZTg5MzMzNGEwNjA2ODQ2NGY4ZDEzNzdkNWVmYTBh",
   "tracks": [
     {
       "added_at": "2023-05-09 14:13:45",
@@ -515,8 +515,8 @@
     {
       "added_at": "2023-05-09 14:13:45",
       "album": {
-        "name": "Get Happy! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
+        "name": "Ella Swings Gently With Nelson",
+        "url": "https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 142333,
-      "name": "A-Tisket, A-Tasket",
-      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
+      "duration_ms": 202226,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/0qZo9OzKPzg58Ts9ad4Bcy"
     },
     {
       "added_at": "2023-05-09 14:13:45",
@@ -647,8 +647,8 @@
     {
       "added_at": "2023-05-09 14:13:45",
       "album": {
-        "name": "Ella Swings Gently With Nelson",
-        "url": "https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG"
+        "name": "Get Happy! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 202226,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/0qZo9OzKPzg58Ts9ad4Bcy"
+      "duration_ms": 142333,
+      "name": "A-Tisket, A-Tasket",
+      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
     },
     {
       "added_at": "2023-05-09 14:13:45",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-05-09 14:13:45",
       "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 381373,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
+    },
+    {
+      "added_at": "2023-05-09 14:13:45",
+      "album": {
         "name": "Inside Betty Carter",
         "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 110933,
       "name": "It's A Big Wide Wonderful World",
       "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
-    },
-    {
-      "added_at": "2023-05-09 14:13:45",
-      "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 156546,
-      "name": "(How Little It Matters) How Little We Know",
-      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
     },
     {
       "added_at": "2023-05-09 14:13:45",
@@ -811,34 +811,18 @@
     {
       "added_at": "2023-05-09 14:13:45",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
         }
       ],
-      "duration_ms": 381373,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
-    },
-    {
-      "added_at": "2023-05-09 14:13:45",
-      "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Scotch & Soda",
-      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
+      "duration_ms": 156546,
+      "name": "(How Little It Matters) How Little We Know",
+      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
     },
     {
       "added_at": "2023-05-09 14:13:45",
@@ -855,6 +839,22 @@
       "duration_ms": 175386,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz"
+    },
+    {
+      "added_at": "2023-05-09 14:13:45",
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Scotch & Soda",
+      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
     },
     {
       "added_at": "2023-05-09 14:13:45",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2023-05-09 14:13:45",
       "album": {
+        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
+        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
+      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
+    },
+    {
+      "added_at": "2023-05-09 14:13:45",
+      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 145933,
       "name": "Happy Talk",
       "url": "https://open.spotify.com/track/7ahQIRq0EOeY9UYVvABDFp"
-    },
-    {
-      "added_at": "2023-05-09 14:13:45",
-      "album": {
-        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
-        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
-      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
     },
     {
       "added_at": "2023-05-09 14:13:45",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2023-05-09 14:13:45",
       "album": {
-        "name": "Saga Jazz: Easy to Love (Modern Series)",
-        "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
       "artists": [
         {
-          "name": "Chet Baker Quartet",
-          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
         }
       ],
-      "duration_ms": 167853,
-      "name": "Happy Little Sunbeam",
-      "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
+      "duration_ms": 176026,
+      "name": "What a Little Moonlight Can Do (with Teddy Wilson & His Orchestra)",
+      "url": "https://open.spotify.com/track/0uWaNJQHQty3YkfLtiJSpT"
     },
     {
       "added_at": "2023-05-09 14:13:45",
@@ -1203,22 +1207,6 @@
     {
       "added_at": "2023-05-09 14:13:45",
       "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "This Time The Dream's On Me - Remastered",
-      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
-    },
-    {
-      "added_at": "2023-05-09 14:13:45",
-      "album": {
         "name": "Julie... At Home",
         "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
       },
@@ -1235,22 +1223,34 @@
     {
       "added_at": "2023-05-09 14:13:45",
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 176026,
-      "name": "What a Little Moonlight Can Do (with Teddy Wilson & His Orchestra)",
-      "url": "https://open.spotify.com/track/0uWaNJQHQty3YkfLtiJSpT"
+      "duration_ms": 139906,
+      "name": "This Time The Dream's On Me - Remastered",
+      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
+    },
+    {
+      "added_at": "2023-05-09 14:13:45",
+      "album": {
+        "name": "Saga Jazz: Easy to Love (Modern Series)",
+        "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker Quartet",
+          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
+        }
+      ],
+      "duration_ms": 167853,
+      "name": "Happy Little Sunbeam",
+      "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
     },
     {
       "added_at": "2023-05-09 14:13:45",

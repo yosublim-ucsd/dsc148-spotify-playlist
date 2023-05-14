@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Saiko",
-  "num_followers": 64053,
+  "num_followers": 64086,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2IzMjRlNDg2YzI0ZTIxMGFmNTUwYjVjZGU0ZDY5MzRiZWM4NDIw",
+  "snapshot_id": "MCw4OTE0ODU5MmU0Yzg5OGFiYzRjOGMzZTlmMzg1ODkyZjY4YTQ2ZDdi",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -367,30 +367,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Los Malvekes",
-        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
+        "name": "Locura y Maldad",
+        "url": "https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j"
       },
       "artists": [
         {
           "name": "Cris Mj",
           "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Simon la Letra",
-          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
-        },
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Los Malvekes",
-      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+      "duration_ms": 200000,
+      "name": "Locura y Maldad",
+      "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -483,18 +471,30 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Locura y Maldad",
-        "url": "https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j"
+        "name": "Los Malvekes",
+        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
       },
       "artists": [
         {
           "name": "Cris Mj",
           "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Locura y Maldad",
-      "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
+      "duration_ms": 218000,
+      "name": "Los Malvekes",
+      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Q-Lito",
+        "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Q-Lito",
+      "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "HOR\u00d3SCOPO",
         "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 248659,
       "name": "HOR\u00d3SCOPO",
       "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Q-Lito",
-        "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Q-Lito",
-      "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
     },
     {
       "added_at": "2023-05-12 03:00:00",

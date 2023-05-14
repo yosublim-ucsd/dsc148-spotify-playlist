@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-627 songs - 1 day 11 hr 42 min
+628 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-16 | 2021-11-17 |
 | [Alla Allah](https://open.spotify.com/track/64GCalyvsLphPpEevk9dWB) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Alla Allah](https://open.spotify.com/album/45o4zMEFQ7QXv4lemk8bdA) | 2:40 | 2021-08-26 | 2021-09-03 |
 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2022-11-19 |  |
-| [Aloomek](https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 5:06 | 2022-02-19 |  |
+| [Aloomek](https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 5:06 | 2022-02-19 | 2023-05-14 |
 | [Amaken El Sahar](https://open.spotify.com/track/7lYXrmbJhunVGUYDGvZcL5) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Amaken El Sahar](https://open.spotify.com/album/4O72F4w5CdsrzEIbvi9al7) | 4:11 | 2021-06-11 | 2022-01-26 |
 | [Amar](https://open.spotify.com/track/19QZmE8ctW3y569h1TkL5W) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI) | 3:12 | 2023-04-23 |  |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-26 |  |
@@ -460,7 +460,7 @@
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:02 | 2022-12-04 | 2022-12-09 |
 | [Sutra](https://open.spotify.com/track/2cns6AtYN36k2N6T5zaXZD) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Sutra](https://open.spotify.com/album/1leaz6N1vTWJ9kp2KBIAgZ) | 2:53 | 2022-07-27 | 2022-07-31 |
 | [SWLGN](https://open.spotify.com/track/4I4l381Nz6wjjcphptEFMj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [SWLGN](https://open.spotify.com/album/6IZQTVy9JL7uPxYHJhAYqX) | 2:52 | 2021-08-28 | 2021-08-29 |
-| [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 | 2022-01-04 |  |
+| [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 | 2022-01-04 | 2023-05-14 |
 | [Tab Aoulak \- Karkouba](https://open.spotify.com/track/10kAWGJi58siX7qOKFt2uY) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Tab Aoulak \- Karkouba](https://open.spotify.com/album/2dNRGgO2tkZiaVLOPcgDjP) | 3:46 | 2023-04-11 |  |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-08-19 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
@@ -483,6 +483,7 @@
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-04-30 | 2022-05-02 |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 | 2022-11-01 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-12 |
+| [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-13 |  |
 | [Too Many Nights \(feat\. Don Toliver & with Future\)](https://open.spotify.com/track/4DGrMHTVjxecZbYStawUK1) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:19 | 2022-12-04 | 2022-12-09 |
 | [TOTLOB AMA TOTLOB](https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TOTLOB AMA TOTLOB](https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk) | 5:12 | 2021-10-08 | 2021-11-25 |
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-11-14 | 2022-02-02 |
@@ -578,7 +579,7 @@
 | [ستو أنا](https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb), [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [مكتوب عليا \(أغاني المسلسل التلفزيوني الأصلي\)](https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs) | 2:21 | 2022-05-13 | 2022-09-26 |
 | [ستو انا](https://open.spotify.com/track/7fHN1jiFCjB18VXoU7PjzA) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb) | [ستو انا](https://open.spotify.com/album/19k0mVkRkPiLSbuJQ8M7tD) | 2:21 | 2022-05-02 | 2022-05-14 |
 | [سحمد](https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:17 | 2022-07-22 | 2022-07-25 |
-| [سكرتي](https://open.spotify.com/track/2FntmtxOqyNgZkxaZchEn0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/2criZC8fjpHOKf1A7ApYzz) | 3:30 | 2022-04-05 | 2023-05-11 |
+| [سكرتي](https://open.spotify.com/track/2FntmtxOqyNgZkxaZchEn0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/2criZC8fjpHOKf1A7ApYzz) | 3:30 | 2022-04-05 |  |
 | [سكرتي](https://open.spotify.com/track/3pY3PPvp77FNQq01n4UrS1) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/1EplYRbtXvBW1IlPWWs9Yq) | 3:30 | 2021-03-27\* | 2022-04-06 |
 | [سيري](https://open.spotify.com/track/6GC2ckZFyjdbAfAHPYRER2) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [سيري](https://open.spotify.com/album/5NHI0t2ytAVZTVIM0XfTBZ) | 3:33 | 2022-04-05 | 2022-04-23 |
 | [شيراتون](https://open.spotify.com/track/3S2aU4rUZXbVOxyVzgzXQ5) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [شيراتون](https://open.spotify.com/album/0aB2clpFGE0NgXtRKtO5PS) | 3:34 | 2021-03-27\* | 2022-03-01 |

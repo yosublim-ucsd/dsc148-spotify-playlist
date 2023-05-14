@@ -1,12 +1,12 @@
 {
   "description": "Pop ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2016373,
+  "num_followers": 2016390,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2NjOTY3M2VmZDY5ZWMzODgxOTUyOWYxZjczMjNhNDA3MjY5NTcx",
+  "snapshot_id": "MCw5OTc0MzgzZTA5Njk1Njk0MGY1MWUzZmM3OTNkN2Q4YjhmMzIxY2Vl",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -55,22 +55,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 148723,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 258412,
       "name": "Volv\u00ed a Nacer - Live from Spotify",
       "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Tiempo Para Perder",
+        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 220862,
+      "name": "Tiempo Para Perder",
+      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Tiempo Para Perder",
-        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
       "artists": [
         {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 220862,
-      "name": "Tiempo Para Perder",
-      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
+      "duration_ms": 224600,
+      "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "desde que estas en mi vida",
         "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 202826,
       "name": "desde que estas en mi vida",
       "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "A M\u00ed y a Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
+        "name": "plan (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
       },
       "artists": [
         {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
         }
       ],
-      "duration_ms": 157617,
-      "name": "A M\u00ed y a Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
+      "duration_ms": 201000,
+      "name": "plan (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "plan (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
+        "name": "A M\u00ed y a Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
       },
       "artists": [
         {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
         }
       ],
-      "duration_ms": 201000,
-      "name": "plan (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
+      "duration_ms": 157617,
+      "name": "A M\u00ed y a Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 255650,
-      "name": "La Carretera - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Shakira MTV Unplugged",
         "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
       },
@@ -1151,22 +1135,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/3pwczzHwIn3RthlqHGum2V"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
       },
       "artists": [
         {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        },
-        {
-          "name": "Jaguayano",
-          "url": "https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 185186,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
+      "duration_ms": 255650,
+      "name": "La Carretera - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1187,6 +1167,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 195917,
+      "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
+      "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Tr3s Presents Juanes MTV Unplugged",
         "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/3pwczzHwIn3RthlqHGum2V"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        },
+        {
+          "name": "Jaguayano",
+          "url": "https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG"
         }
       ],
-      "duration_ms": 195917,
-      "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
-      "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
+      "duration_ms": 185186,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Souvenir (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Lucah",
-          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
-        }
-      ],
-      "duration_ms": 198213,
-      "name": "Souvenir - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Velero",
         "url": "https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 136595,
       "name": "Velero",
       "url": "https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Souvenir (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "Souvenir - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Hasta Que Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL"
-      },
-      "artists": [
-        {
-          "name": "Juliana Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z"
-        }
-      ],
-      "duration_ms": 191052,
-      "name": "Hasta Que Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 204734,
       "name": "Un Vuelo A La (feat. Jessie Reyez) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Hasta Que Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL"
+      },
+      "artists": [
+        {
+          "name": "Juliana Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z"
+        }
+      ],
+      "duration_ms": 191052,
+      "name": "Hasta Que Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr"
     },
     {
       "added_at": "2023-05-05 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,443 likes - 48 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,448 likes - 49 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 13 | [I Always Get My Man](https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:49 |
 | 14 | [Hit 'Em Back](https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back](https://open.spotify.com/album/1kN8MM4zOwjHKzFw6epZuX) | 4:33 |
 | 15 | [Would You Take My Blood?](https://open.spotify.com/track/0w71ZSQaqjxYAhoxhMaQKw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 3:46 |
-| 16 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
+| 16 | [Gullah Geechee](https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:35 |
 | 17 | [When A Woman's Had Enough](https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:54 |
 | 18 | [Love Song](https://open.spotify.com/track/1YpPzjF3LgUr6htLKCnVei) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:03 |
 | 19 | [In The Blood Of The Blues](https://open.spotify.com/track/6ZmqDRKnUzyS1L3Df2BrRk) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:52 |
-| 20 | [Gullah Geechee](https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:35 |
+| 20 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
 | 21 | [Outskirts Of Love](https://open.spotify.com/track/7Kkr2utF6dANb5z8c3ztSK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:05 |
 | 22 | [Livin' On Love](https://open.spotify.com/track/012eGP4EqQ7hkgoL19Jp0u) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 4:03 |
 | 23 | [Promised Myself](https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 5:19 |
@@ -53,8 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 43 | [Who Stole My Radio?](https://open.spotify.com/track/0Jei5BgldWjnvWsg5lMZXB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/2PXMx2oAHiqmjrpnLX70dU) | 3:57 |
 | 44 | [Should Have Come Home](https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:30 |
 | 45 | [Hand In Hand](https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2) | [Ian Siegal](https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Stone by Stone](https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl) | 4:28 |
-| 46 | [The Other Woman](https://open.spotify.com/track/08iJoM0fYwdZJ86Ts3KJCH) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:18 |
+| 46 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
 | 47 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/5vYM0NGLtGNidLnC34Ij4L) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 4:21 |
-| 48 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
+| 48 | [The Other Woman](https://open.spotify.com/track/08iJoM0fYwdZJ86Ts3KJCH) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:18 |
+| 49 | [I Sing The Blues](https://open.spotify.com/track/6yDMznqxh0KFnifAL5a9C1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 4:59 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA5ZmFiNzdjNzIwMDExZDczZDA2NjZkMGJhMDFlYzlhYw==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA0OTRlOTNlZjg5MGYxN2YxMzgwMTc3MGNhNzU4OGYxYQ==`

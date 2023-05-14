@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: 2pac
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,911 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,473 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 47 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
 | 48 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 49 | [I'm a Player \- Street Version](https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Get In Where You Fit In](https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1) | 6:01 |
-| 50 | [It's Funky Enough \- Remastered Single](https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 4:29 |
+| 50 | [Jackin' For Beats](https://open.spotify.com/track/2I7lgP1f5p5cKH7aNHtEEx) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Kill At Will](https://open.spotify.com/album/7oeFV70h2fDapspboicRP5) | 2:57 |
 
-Snapshot ID: `MCxmMDkwZDE1ZjRlZmU4NGYyZjAyODNkNWE0YzhlMTdhMjQyY2Y2ZmM4`
+Snapshot ID: `MCw3ODQ1ZjIzYTczMWNkZTM3YzY1NTEwOWNkM2FhNjlmZGJiMTZmMTQ4`

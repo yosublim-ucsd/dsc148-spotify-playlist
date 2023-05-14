@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,009 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,021 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 12 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:06 |
 | 13 | [Beyond The Pale](https://open.spotify.com/track/2kHl3Ngt6kJsCuwq23KMIE) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 4:31 |
 | 14 | [Hallowed Be Thy Name](https://open.spotify.com/track/6PIT9IUAnHFlQ78tj8rrSy) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 7:27 |
-| 15 | [Bulldozer](https://open.spotify.com/track/6T5xfC1iWSXttGlq3rTtNo) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Supercharger](https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1) | 4:35 |
+| 15 | [Ten Ton Hammer](https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:14 |
 | 16 | [MY HANDS ARE EMPTY](https://open.spotify.com/track/4RqYIpKL0gu6iCXhDwTVGz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 5:29 |
-| 17 | [Ten Ton Hammer](https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:14 |
-| 18 | [Bastards](https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 5:04 |
-| 19 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 |
+| 17 | [Bulldozer](https://open.spotify.com/track/6T5xfC1iWSXttGlq3rTtNo) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Supercharger](https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1) | 4:35 |
+| 18 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 |
+| 19 | [Bastards](https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 5:04 |
 | 20 | [ARRØWS IN WØRDS FRØM THE SKY](https://open.spotify.com/track/3G0A7kcQeYbyPH8euw6M5a) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 5:55 |
 | 21 | [Now We Die](https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 7:10 |
-| 22 | [Stop The Bleeding \(Feat\. Jesse Leach\)](https://open.spotify.com/track/0yK3bCcDM5cDDykBlQ5S2w) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Civil Unrest](https://open.spotify.com/album/42eklVVP8Eosdti7osH01B) | 3:03 |
-| 23 | [Darkness Within](https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 6:27 |
+| 22 | [Darkness Within](https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 6:27 |
+| 23 | [Stop The Bleeding \(Feat\. Jesse Leach\)](https://open.spotify.com/track/0yK3bCcDM5cDDykBlQ5S2w) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Civil Unrest](https://open.spotify.com/album/42eklVVP8Eosdti7osH01B) | 3:03 |
 | 24 | [SLAUGHTER THE MARTYR](https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 10:25 |
 | 25 | [Halo](https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 9:02 |
 | 26 | [Take My Scars](https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:19 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 31 | [Bulletproof](https://open.spotify.com/track/3niNvr5rU58SPKdtGeMSJD) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Civil Unrest](https://open.spotify.com/album/42eklVVP8Eosdti7osH01B) | 4:59 |
 | 32 | [None but My Own](https://open.spotify.com/track/2VH5baF4DFeG4Lk7E7L6pB) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 6:14 |
 | 33 | [Behind A Mask](https://open.spotify.com/track/7bcjXWbCi5FpRf48oca8JJ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 4:07 |
-| 34 | [Desire to Fire](https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:48 |
-| 35 | [Aesthetics of Hate](https://open.spotify.com/track/2dy8eXtNCrLcpT006adx5g) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 6:30 |
+| 34 | [Aesthetics of Hate](https://open.spotify.com/track/2dy8eXtNCrLcpT006adx5g) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 6:30 |
+| 35 | [Desire to Fire](https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:48 |
 | 36 | [Blood for Blood](https://open.spotify.com/track/3v4qL2RefiQZnMCQNrZYyH) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 3:40 |
 | 37 | [Kaleidoscope](https://open.spotify.com/track/2fNqGK13Fde9WpJ1naARev) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 4:03 |
 | 38 | [Ghosts Will Haunt My Bones](https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 49 | [Battery](https://open.spotify.com/track/41qtH15yLXrhzzP2Dx9Vcm) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 5:04 |
 | 50 | [Beneath The Silt](https://open.spotify.com/track/1kIkgIEMPwhZMe0klLtmVP) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 4:43 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDAyOTU5MGQzODMwN2E3ZjRmMGIyM2RmZGU2NDhmYzNmMw==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDBjODRjZDQwZmE1Njc0N2VjYTg5ZTFlZjViYjY3MjhiOQ==`

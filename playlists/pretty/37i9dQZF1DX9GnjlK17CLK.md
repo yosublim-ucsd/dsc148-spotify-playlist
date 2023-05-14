@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,474 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,620 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 30 | [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 |
 | 31 | [Spoonful](https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 4:55 |
 | 32 | [Call It Stormy Monday](https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 9:00 |
-| 33 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
-| 34 | [Walkin' Blues](https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [East West](https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3) | 3:19 |
+| 33 | [Walkin' Blues](https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [East West](https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3) | 3:19 |
+| 34 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
 | 35 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
 | 36 | [Strollin' With Bones](https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings, 1950\-1954](https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX) | 2:30 |
 | 37 | [Motherless Children](https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Boulevard](https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E) | 4:51 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 51 | [Sweet Home Chicago](https://open.spotify.com/track/1vshrZ49jUnyLM6udiv2vo) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Buddy Guy/ Freddie King/ Sonny Boy Williamson](https://open.spotify.com/album/0K4t8v6w7lXab6n0yTNkA9) | 4:24 |
 | 52 | [Wound Up Tight](https://open.spotify.com/track/3a4PKaIVUkFTl2k9PV93yh) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Wound Up Tight](https://open.spotify.com/album/3dvXGTbdS5eesvKcBTOkXM) | 5:18 |
 | 53 | [Ain't Superstitious](https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 3:30 |
-| 54 | [Coming Home](https://open.spotify.com/track/2ovvpvMVd1ZcvP0qttCnDa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 2:41 |
-| 55 | [All for Business](https://open.spotify.com/track/6AMdol1lcjmxZIuhU9AUes) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [Chicago Blues Legend](https://open.spotify.com/album/5ZGbl7pSynpLgc5HV5dxdI) | 3:19 |
+| 54 | [All for Business](https://open.spotify.com/track/6AMdol1lcjmxZIuhU9AUes) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [Chicago Blues Legend](https://open.spotify.com/album/5ZGbl7pSynpLgc5HV5dxdI) | 3:19 |
+| 55 | [Coming Home](https://open.spotify.com/track/2ovvpvMVd1ZcvP0qttCnDa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 2:41 |
 | 56 | [The Stumble](https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 2:51 |
 | 57 | [4:59am](https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Blues 100](https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe) | 4:43 |
 | 58 | [Nine Below Zero](https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [His Best](https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj) | 3:27 |
-| 59 | [Shake Your Moneymaker](https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:13 |
-| 60 | [My Love Strikes Like Lightning](https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Electric Blues: 1970s](https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue) | 4:10 |
+| 59 | [My Love Strikes Like Lightning](https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Electric Blues: 1970s](https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue) | 4:10 |
+| 60 | [I'm gonna let you go](https://open.spotify.com/track/21W05izeUBHiH5GCcxNCwt) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Chicago Blues Session Volume 12](https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE) | 3:34 |
 
-Snapshot ID: `MCw4NGIwOTc4YjAyOGEyNTU4MGE3MjljZTkyNjllNGMzOTkzY2M4MDg4`
+Snapshot ID: `MCxmMzA2NGY2YmZjODlkYTEzZGZhNDEyNzU2NDMxYmIzZmIxNTU5NDk3`

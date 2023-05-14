@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 
 > Cuddle up and relax with these country tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,970 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,019 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 50 | [UNIVERSE](https://open.spotify.com/track/0BhWiby1vUZaFUzmKvk9YK) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:56 |
 | 51 | [From the Ground Up](https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Obsessed](https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB) | 4:13 |
 | 52 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
-| 53 | [Best Shot](https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 3:15 |
-| 54 | [Better Man](https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:23 |
+| 53 | [Better Man](https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:23 |
+| 54 | [Best Shot](https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 3:15 |
 | 55 | [Jesus, Take the Wheel](https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:46 |
 | 56 | [Most People Are Good](https://open.spotify.com/track/79LAFAkR1ATb4iIQvZuCL0) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What Makes You Country](https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy) | 3:41 |
 | 57 | [You Make It Easy](https://open.spotify.com/track/2ZxTjs4EdJl4Y9YByIiNoo) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [You Make It Easy](https://open.spotify.com/album/0EVP8vXYQaq3kr0kWv8rNG) | 3:16 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 72 | [The Long Way](https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:28 |
 | 73 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 |
 | 74 | [Every Little Thing](https://open.spotify.com/track/1Dm4iAvqwYrZjgSFJNW5TG) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing \(Big Machine Radio Release Special\)](https://open.spotify.com/album/39oSpHIfcM8sHBWh9340Aj) | 3:01 |
-| 75 | [All About It](https://open.spotify.com/track/0j2e7Gu19gy0ZqIOQyN4xj) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:05 |
+| 75 | [Break Down Here](https://open.spotify.com/track/1xsGrsVJwG9zel8pefzVeo) | [Julie Roberts](https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba) | [Julie Roberts](https://open.spotify.com/album/6KnZp9UWIWTP6XqANgXaTi) | 4:05 |
 
-Snapshot ID: `MCwyZmJjZWM1ZTVmNTM3MTU0NDc5MTU3MjhjZjliZDUwYTIxOWI1NzUy`
+Snapshot ID: `MCxhYTBhYzJkMGM5N2I3MzAyYTVkMGJhM2IwMGQzYzRhMjg3MDYxYTNj`

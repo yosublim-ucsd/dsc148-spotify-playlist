@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > eclectic ethereal feeling\. cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,606,599 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,606,680 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 42 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
 | 43 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 |
 | 44 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 |
-| 45 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
-| 46 | [Paradise Circus](https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 4:57 |
+| 45 | [Paradise Circus](https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 4:57 |
+| 46 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
 | 47 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 |
 | 48 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 49 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 74 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 75 | [Crushxd](https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crushxd](https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo) | 3:06 |
 
-Snapshot ID: `MCxiMmZhZDRhM2E1MzVhZmIwMDRhNzdiMzI4Njc5YzRhMjIzZjM2NWQ0`
+Snapshot ID: `MCxkYzVmMzJlMTk3NDFhNWZkZjM3ZWJiNjA5ZWFlM2U0MGQwM2RkMDI2`

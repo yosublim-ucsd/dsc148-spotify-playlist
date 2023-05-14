@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Zeds Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,831 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,859 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 84 | [LoveLove.mp3](https://open.spotify.com/track/08ultjBV79qGVM3psldUmD) | [Max Wassen](https://open.spotify.com/artist/3tUS9mNjww0E2uwqbHbHz1), [Adam Trigger](https://open.spotify.com/artist/6nXmnBpdFvzImqLQb3HBa9) | [LoveLove.mp3](https://open.spotify.com/album/4Su4SSuzPDlTut8x6Sjzqu) | 2:37 |
 | 85 | [Ocean](https://open.spotify.com/track/3UMun1cKfBA7NPlVXcF7Ul) | [Kisaya](https://open.spotify.com/artist/51Rmu9mstzis4wE5v6c28R) | [Ocean](https://open.spotify.com/album/4QsV0Pg8ME7G5oJ9R5MniF) | 3:05 |
 
-Snapshot ID: `MCw4N2EyODNmZTc1ZjBkM2YwYjFjZjdkYjQwYzNhMDA1ZGY5NDJmN2Ix`
+Snapshot ID: `MCwyY2FiNzE5YzYxNWFkMTYzMjlkYWY5Njk4MjkyYjg5ZThjOWFiZWQy`

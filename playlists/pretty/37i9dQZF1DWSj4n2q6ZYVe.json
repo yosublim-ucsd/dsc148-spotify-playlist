@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 355838,
+  "num_followers": 356374,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODRkNmNjZTEyYjc2NjliMjZkMmJiYTM0NDZmNDhlN2FmODRiMmJm",
+  "snapshot_id": "MCwwYjI0OWU1NzliMzdhYmZkYjUyZWZmMzI3OGExYThiNzRiZmNiNzk4",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "D.A.N.C.E",
-      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Evacuate The Dancefloor",
         "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 205884,
       "name": "Evacuate The Dancefloor - Radio Edit",
       "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "D.A.N.C.E",
+      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -755,6 +755,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 197124,
+      "name": "Everytime We Touch",
+      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 234400,
       "name": "Starlight - Radio Edit",
       "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 197124,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Invaders Must Die",
-        "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Omen",
-      "url": "https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "24 Carat Gold",
         "url": "https://open.spotify.com/album/72HzYTzhgXhhU93yvhzyEl"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 234933,
       "name": "The Logical Song",
       "url": "https://open.spotify.com/track/3DwhQpLOuJB7uSCGrjRZM2"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Invaders Must Die",
+        "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
+        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/57nKL06bKwjaM5Y0aMtY9v"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Hold Your Colour",
         "url": "https://open.spotify.com/album/5wHNla8BT8KcqMhAbvqoPU"
       },
@@ -1095,26 +1115,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
-        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sharon Den Adel",
-          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "In And Out Of Love",
-      "url": "https://open.spotify.com/track/57nKL06bKwjaM5Y0aMtY9v"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "It Just Won't Do",
         "url": "https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 198000,
       "name": "It Just Won't Do - Radio Edit",
       "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "24 Carat Gold",
+        "url": "https://open.spotify.com/album/72HzYTzhgXhhU93yvhzyEl"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/1SdBWc2nHNZ3gHzGVQuqcl"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "24 Carat Gold",
-        "url": "https://open.spotify.com/album/72HzYTzhgXhhU93yvhzyEl"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/1SdBWc2nHNZ3gHzGVQuqcl"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Belle Epoque",
         "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 231093,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "In Silico",
-        "url": "https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 313346,
-      "name": "Propane Nightmares",
-      "url": "https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1283,6 +1267,22 @@
       "duration_ms": 184586,
       "name": "Voyage voyage",
       "url": "https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "In Silico",
+        "url": "https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 313346,
+      "name": "Propane Nightmares",
+      "url": "https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Call On Me (Remixes)",
-        "url": "https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/25F37dHEAbzandtlTRIcV2"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Jumping All over the World - Whatever You Want",
         "url": "https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 214453,
       "name": "Weekend!",
       "url": "https://open.spotify.com/track/6Jx4JErTfpI67ZUn7bIBTW"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Call On Me (Remixes)",
+        "url": "https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/25F37dHEAbzandtlTRIcV2"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Jumping All over the World - Whatever You Want",
-        "url": "https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "One (Always Hardcore)",
-      "url": "https://open.spotify.com/track/43mBap9Sm9WSCJLRHFLPMD"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Bad Romance Remixes",
         "url": "https://open.spotify.com/album/4d8Ltw4bT71vjo052hlzhY"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 440266,
       "name": "Becoming Insane",
       "url": "https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Zoopreme Volume 01",
+        "url": "https://open.spotify.com/album/0mEy3RBuVUwWFrx5yfM897"
+      },
+      "artists": [
+        {
+          "name": "Manian",
+          "url": "https://open.spotify.com/artist/2zgkC2iqDlq3FcI2B7ChnD"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Welcome to the Club - Video Edit",
+      "url": "https://open.spotify.com/track/7k1ec3h9VeecxLSUbnGxAN"
     }
   ],
   "unique_name": "Dance Hits 2000s",

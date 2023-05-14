@@ -2612,10 +2612,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 131647,
       "name": "Insurgentes",
       "url": "https://open.spotify.com/track/51fZQgHPcn6IZVxkzaYtwd"
+    },
+    {
+      "album": {
+        "name": "Insurgentes",
+        "url": "https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131647,
+      "name": "Insurgentes",
+      "url": "https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF"
     },
     {
       "album": {

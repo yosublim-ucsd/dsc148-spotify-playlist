@@ -4,7 +4,7 @@
 
 > Highlights from the class of 2022\. Cover: YUNGBLUD
 
-115 songs - 5 hr 36 min
+116 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/4nEYidcaoFBLj9veMFc0Qf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:31 | 2021-12-01 | 2022-12-01 |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2021-12-01 | 2022-12-01 |
 | [Freaks & Geeks](https://open.spotify.com/track/6SXMyJ44dyZo4Vz34ikIzG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:20 | 2022-11-30 |  |
-| [FUCKBOI REJECTS](https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [F\*CKBOI REJECTS](https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG) | 2:07 | 2022-11-30 |  |
+| [FUCKBOI REJECTS](https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [F\*CKBOI REJECTS](https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG) | 2:07 | 2022-11-30 | 2023-05-14 |
+| [FUCKBOI REJECTS](https://open.spotify.com/track/580TkL4a8bKLgVbsiSoEFQ) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:07 | 2022-11-30 |  |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-11-30 | 2023-02-01 |
 | [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2022-11-30 | 2023-04-17 |
 | [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 | 2022-11-30 |  |

@@ -4,7 +4,7 @@
 
 > La banda sonora para tus cenas en casa.
 
-203 songs - 13 hr 11 min
+204 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2021-01-19 |  |
 | [Hold You in My Arms](https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 5:06 | 2021-01-19 |  |
 | [Home](https://open.spotify.com/track/79nGvSoOQr3WHK3Y96Qt0u) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [From Here To Now To You](https://open.spotify.com/album/61427AKV7p3p30uvrniI4L) | 3:02 | 2021-01-19 | 2022-07-24 |
+| [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 | 2023-05-11 |  |
 | [I Am a Rock](https://open.spotify.com/track/0byOqNZN9ailhoORv5Ps0Z) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:49 | 2021-01-19 | 2023-05-07 |
 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2021-01-19 |  |
 | [I Say A Little Prayer](https://open.spotify.com/track/6bBwFPgVdWxuc4uWEyALCa) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Definitive Soul: Aretha Franklin](https://open.spotify.com/album/2TQwwjsqs7dsHWkzcTa36n) | 3:34 | 2021-01-19 | 2022-07-29 |
@@ -172,7 +173,7 @@
 | [The Blower's Daughter](https://open.spotify.com/track/4A97ukPiSDVpxfOryjr68D) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Fix You \- Don't Give Up](https://open.spotify.com/album/27dyHDrbDUbrsBHlVpOKmO) | 4:46 | 2021-01-19 | 2022-11-13 |
 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 | 2021-01-19 | 2023-05-12 |
 | [The Blower's Daughter](https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La) | 4:46 | 2021-01-19 | 2022-07-29 |
-| [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 | 2021-01-19 |  |
+| [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 | 2021-01-19 | 2023-05-14 |
 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 | 2021-01-19 |  |
 | [The Look You Gave](https://open.spotify.com/track/7zZL4B0OjORzgedZ5YHDXw) | [Williamsburg Quartet](https://open.spotify.com/artist/6DA5wkpfxPI7JwNla5FNje) | [All About You](https://open.spotify.com/album/2nJszo5U1ARkuv9d9AVFAg) | 3:59 | 2021-01-19 | 2022-07-24 |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2021-01-19 |  |

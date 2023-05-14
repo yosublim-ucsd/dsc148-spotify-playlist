@@ -1,12 +1,12 @@
 {
   "description": "Hit del passato e nuovi brani per la tua giornata perfetta.",
-  "num_followers": 173892,
+  "num_followers": 173935,
   "original_name": "La vita \u00e8 bella!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzI0N2FkZTZmNjAwMTIxMTVkYjkxNTRhZWNhYTVmNDc3MzVlZjhk",
+  "snapshot_id": "MCw5OTE5OGJkYWI4Y2YxYWQzZTE5ZTc0NzllNjRkZWUzY2IwZjdlNTA5",
   "tracks": [
     {
       "added_at": "2022-11-25 15:21:04",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-11-25 15:21:04",
       "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Renegades",
-      "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
-    },
-    {
-      "added_at": "2022-11-25 15:21:04",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 248335,
       "name": "It's Not Living (If It's Not With You)",
       "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
+    },
+    {
+      "added_at": "2022-11-25 15:21:04",
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
     },
     {
       "added_at": "2022-11-25 15:21:04",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-11-25 15:21:04",
       "album": {
-        "name": "Day & Age (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
-    },
-    {
-      "added_at": "2022-11-25 15:21:04",
-      "album": {
         "name": "Left Of The Middle",
         "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 244666,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "added_at": "2022-11-25 15:21:04",
+      "album": {
+        "name": "Day & Age (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
     },
     {
       "added_at": "2022-11-25 15:21:04",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-25 15:21:04",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 187682,
-      "name": "Anyone For You (Tiger Lily)",
-      "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
-    },
-    {
-      "added_at": "2022-11-25 15:21:04",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+    },
+    {
+      "added_at": "2022-11-25 15:21:04",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 187682,
+      "name": "Anyone For You (Tiger Lily)",
+      "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
     },
     {
       "added_at": "2022-11-25 15:21:04",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-11-25 15:21:04",
       "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+    },
+    {
+      "added_at": "2022-11-25 15:21:04",
+      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
         "url": "https://open.spotify.com/album/2sjjFDjZSCYD5eBCsi0fDW"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 210772,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
       "url": "https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x"
-    },
-    {
-      "added_at": "2022-11-25 15:21:04",
-      "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2022-11-25 15:21:04",

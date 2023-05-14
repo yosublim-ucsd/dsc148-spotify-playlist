@@ -3848,10 +3848,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 211847,
       "name": "If Texas Had a Heart",
       "url": "https://open.spotify.com/track/2MFiN48Uw7dIjwnTDAYk04"
+    },
+    {
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Micaela",
+          "url": "https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211847,
+      "name": "If Texas Had a Heart",
+      "url": "https://open.spotify.com/track/7dpjo7JoXTMJJzXjBS45Oh"
     },
     {
       "album": {
@@ -6608,10 +6626,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 214519,
       "name": "The Bar Guy",
       "url": "https://open.spotify.com/track/1N7c1NQGE4LMMJMpUE9MSP"
+    },
+    {
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Micaela",
+          "url": "https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214519,
+      "name": "The Bar Guy",
+      "url": "https://open.spotify.com/track/73PETz82LOgrKAlxtpCPu7"
     },
     {
       "album": {

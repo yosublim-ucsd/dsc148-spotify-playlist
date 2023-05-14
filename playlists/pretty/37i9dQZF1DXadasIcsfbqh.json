@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Jordan Davis",
-  "num_followers": 131126,
+  "num_followers": 131328,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmRlNzVmMWMxZGY0ZDMyZjFlNGQwYTg2YmM1NTZjOGUwNThmMzk5",
+  "snapshot_id": "MCxlMWI3NjUxYTM5N2YyYWU1ZTE4NDE4YTU3NGM0ZWE0NzEzMmIwN2I3",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Giddy Up!",
-        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+        "name": "What If I Don't",
+        "url": "https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Shaylen",
+          "url": "https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ"
         }
       ],
-      "duration_ms": 162665,
-      "name": "Giddy Up!",
-      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
+      "duration_ms": 201544,
+      "name": "What If I Don't",
+      "url": "https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "What If I Don't",
-        "url": "https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC"
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
       },
       "artists": [
         {
-          "name": "Shaylen",
-          "url": "https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 201544,
-      "name": "What If I Don't",
-      "url": "https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R"
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1043,18 +1043,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Mercury Lane",
-        "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
+        "name": "Life Goes On (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
       },
       "artists": [
         {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 172280,
-      "name": "Make Me Want To",
-      "url": "https://open.spotify.com/track/0AYbVoeF03NYhM0fvKjAuU"
+      "duration_ms": 210208,
+      "name": "Life Goes On (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1071,6 +1075,22 @@
       "duration_ms": 169736,
       "name": "Better Liar",
       "url": "https://open.spotify.com/track/4HykouKy5aX0JT3oplCi1O"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Mercury Lane",
+        "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/0AYbVoeF03NYhM0fvKjAuU"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1127,22 +1147,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Grand",
-        "url": "https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Grand",
-      "url": "https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Mood Swings",
         "url": "https://open.spotify.com/album/3psE2QZTcNFhLGUpY76F4s"
       },
@@ -1155,6 +1159,22 @@
       "duration_ms": 178813,
       "name": "la di da",
       "url": "https://open.spotify.com/track/6doGgaQHLno4lTLbgkWd6b"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Grand",
+        "url": "https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Grand",
+      "url": "https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1279,6 +1299,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Russell Dickerson",
+        "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Line By Line (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
       },
@@ -1295,22 +1331,6 @@
       "duration_ms": 208186,
       "name": "Line By Line (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Russell Dickerson",
-        "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1367,6 +1387,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Home Sweet",
+        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Home Sweet",
+      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Lost My Heartbreak",
         "url": "https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4"
       },
@@ -1383,18 +1419,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Home Sweet",
-        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 205946,
-      "name": "Home Sweet",
-      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
+      "duration_ms": 180800,
+      "name": "justified",
+      "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1415,22 +1451,6 @@
       "duration_ms": 181621,
       "name": "Cowgirls (feat. ERNEST)",
       "url": "https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "justified",
-      "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "What's It Gonna Take",
-        "url": "https://open.spotify.com/album/1p2FLEALTHFqwBM1t98LCS"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 177365,
-      "name": "What's It Gonna Take",
-      "url": "https://open.spotify.com/track/4lfWuvMmfoONgwFH3jpN73"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Paying For It",
         "url": "https://open.spotify.com/album/4FelfT4bTsX1obV8487WSX"
       },
@@ -1631,22 +1631,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Between You & Me (feat. Ashley Cooke)",
-        "url": "https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe"
+        "name": "More Than Yesterday (feat. Russell Dickerson)",
+        "url": "https://open.spotify.com/album/4Guul13nGTNGzV05VTMwqC"
       },
       "artists": [
         {
-          "name": "Roman Alexander",
-          "url": "https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH"
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
         },
         {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 169019,
-      "name": "Between You & Me (feat. Ashley Cooke)",
-      "url": "https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997"
+      "duration_ms": 187661,
+      "name": "More Than Yesterday (feat. Russell Dickerson)",
+      "url": "https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1663,6 +1663,46 @@
       "duration_ms": 211850,
       "name": "I Can't Take You Anywhere",
       "url": "https://open.spotify.com/track/6qy96hXke3U5vSxZe5klYp"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "What's It Gonna Take",
+        "url": "https://open.spotify.com/album/1p2FLEALTHFqwBM1t98LCS"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 177365,
+      "name": "What's It Gonna Take",
+      "url": "https://open.spotify.com/track/4lfWuvMmfoONgwFH3jpN73"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Between You & Me (feat. Ashley Cooke)",
+        "url": "https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe"
+      },
+      "artists": [
+        {
+          "name": "Roman Alexander",
+          "url": "https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH"
+        },
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "duration_ms": 169019,
+      "name": "Between You & Me (feat. Ashley Cooke)",
+      "url": "https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1703,42 +1743,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Praise The Lord (feat. Thomas Rhett)",
-        "url": "https://open.spotify.com/album/19IBYeeXLti2wekxA8913l"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 160289,
-      "name": "Praise The Lord (feat. Thomas Rhett)",
-      "url": "https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Leave You Alone",
-        "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 214238,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Breakups",
         "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
       },
@@ -1755,18 +1759,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+        "name": "Penniless & Broke",
+        "url": "https://open.spotify.com/album/16lLoTcCLcQTGQ2jc6RSZx"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Jordana Bryant",
+          "url": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Pink Champagne",
-      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
+      "duration_ms": 219040,
+      "name": "Penniless & Broke",
+      "url": "https://open.spotify.com/track/26TL1SaQwfeu2RUEpICMOh"
     }
   ],
   "unique_name": "Pop Country",

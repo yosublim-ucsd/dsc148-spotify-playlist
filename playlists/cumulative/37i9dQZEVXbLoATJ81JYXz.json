@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "2015",
+        "url": "https://open.spotify.com/album/3NBxtU1YIACo3KYk8LLza4"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179830,
+      "name": "2015",
+      "url": "https://open.spotify.com/track/0P1TGA6W7GAng1a97T1ILG"
+    },
+    {
+      "album": {
         "name": "2022",
         "url": "https://open.spotify.com/album/4b50TZmLWKcvuMCr2FcxKp"
       },
@@ -532,7 +550,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 128772,
       "name": "5 SHOTS",
       "url": "https://open.spotify.com/track/5CqyzTnsaP20NBBiDZZe5H"
@@ -3762,7 +3780,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -7996,7 +8014,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 193360,
       "name": "Fr\u00e5n och med Du",
       "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
@@ -9112,6 +9130,24 @@
       "duration_ms": 183508,
       "name": "Grytan",
       "url": "https://open.spotify.com/track/2y8vVlyyZG9TLHY2MrNrTp"
+    },
+    {
+      "album": {
+        "name": "Gr\u00e4t",
+        "url": "https://open.spotify.com/album/15S6L5LQiWcBNtrEPHufAp"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194394,
+      "name": "Gr\u00e4t",
+      "url": "https://open.spotify.com/track/1VJBnmHm3gUyJnPKetgC3j"
     },
     {
       "album": {
@@ -11198,7 +11234,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -13416,6 +13452,28 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
+    },
+    {
+      "album": {
+        "name": "Ledare",
+        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161258,
+      "name": "Ledare",
+      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
     },
     {
       "album": {
@@ -16866,7 +16924,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 171000,
       "name": "N\u00e4tterna i G\u00f6teborg",
       "url": "https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR"
@@ -16938,7 +16996,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 151168,
       "name": "N\u00e5nting I Luften",
       "url": "https://open.spotify.com/track/321RwsoTVlohBMx1nkOHmZ"
@@ -16960,6 +17018,24 @@
       "duration_ms": 213473,
       "name": "N\u00e5t i vattnet",
       "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
+    },
+    {
+      "album": {
+        "name": "N\u00e5t som verkligen \u00e4r bra",
+        "url": "https://open.spotify.com/album/14quXCtH6SS5oZi1pk2GRO"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296480,
+      "name": "N\u00e5t som verkligen \u00e4r bra",
+      "url": "https://open.spotify.com/track/6igXxXBlP0umLjNSTspm4V"
     },
     {
       "album": {

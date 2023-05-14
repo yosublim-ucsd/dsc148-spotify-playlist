@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "We Love You",
+        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
+    },
+    {
+      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
       },

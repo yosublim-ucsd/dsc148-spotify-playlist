@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 32278,
+  "num_followers": 32348,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGU2YzhlODc1MzA3ZmZhNWU4NThhMTVkODBhMmI3ZGJhZWJiZjg3",
+  "snapshot_id": "MCxhNGM0MzZiM2E4ZWMxNjYzY2Y5NWI0ZWU3NjQ5NTJiMWRhZWRmYzFi",
   "tracks": [
     {
       "added_at": "2023-05-11 23:00:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Eurotape",
+        "url": "https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        },
+        {
+          "name": "tripsyhell",
+          "url": "https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Fada",
+      "url": "https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Jony Driver",
         "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
       },
@@ -811,22 +831,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Aleluia",
-        "url": "https://open.spotify.com/album/6kXdYalPHFucKRbnK0KzTD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy P",
-          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Aleluia",
-      "url": "https://open.spotify.com/track/6uCHzPdg4soaXghzZcmloN"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "GUUD",
         "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
       },
@@ -839,6 +843,22 @@
       "duration_ms": 168631,
       "name": "GUUD",
       "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Aleluia",
+        "url": "https://open.spotify.com/album/6kXdYalPHFucKRbnK0KzTD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Aleluia",
+      "url": "https://open.spotify.com/track/6uCHzPdg4soaXghzZcmloN"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -859,26 +879,6 @@
       "duration_ms": 176747,
       "name": "Ser Tua",
       "url": "https://open.spotify.com/track/5FbRfLcCPfony92UnLd2vQ"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Eurotape",
-        "url": "https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6"
-      },
-      "artists": [
-        {
-          "name": "Chico da Tina",
-          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
-        },
-        {
-          "name": "tripsyhell",
-          "url": "https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Fada",
-      "url": "https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "N\u00e3o Me Leves a Mal",
-        "url": "https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP"
-      },
-      "artists": [
-        {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
-        }
-      ],
-      "duration_ms": 240763,
-      "name": "N\u00e3o Me Leves a Mal",
-      "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Confortable",
         "url": "https://open.spotify.com/album/6bRjSUOtBfPiUSb47hlh5Y"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 168484,
       "name": "Confortable",
       "url": "https://open.spotify.com/track/7A6yZH0XOkn1qhgaNnOKYZ"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "N\u00e3o Me Leves a Mal",
+        "url": "https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 240763,
+      "name": "N\u00e3o Me Leves a Mal",
+      "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1111,38 +1111,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj"
-      },
-      "artists": [
-        {
-          "name": "Curl",
-          "url": "https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y"
-        }
-      ],
-      "duration_ms": 216831,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Compensa",
-        "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
-      },
-      "artists": [
-        {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Compensa",
-      "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "LUZ",
         "url": "https://open.spotify.com/album/2EihWuZWFX3O8L6kSPGmm6"
       },
@@ -1159,22 +1127,50 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Filtros",
-        "url": "https://open.spotify.com/album/1lDlsWp44yKP7kCe04msjo"
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj"
       },
       "artists": [
         {
-          "name": "Idelsa",
-          "url": "https://open.spotify.com/artist/0mXFos6Vf02A5AReZz9i5p"
-        },
-        {
-          "name": "Yara Bonga",
-          "url": "https://open.spotify.com/artist/6BhSNJjeu7P8rEP2lOQ4Pw"
+          "name": "Curl",
+          "url": "https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y"
         }
       ],
-      "duration_ms": 188194,
-      "name": "Filtros",
-      "url": "https://open.spotify.com/track/1FDIrQqgzUyG0sc6kYusDI"
+      "duration_ms": 216831,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 279423,
+      "name": "Depois da Chuva",
+      "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Nu Ta Combina",
+        "url": "https://open.spotify.com/album/0HrHUZGAPxXZtenHkbPczt"
+      },
+      "artists": [
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        }
+      ],
+      "duration_ms": 200851,
+      "name": "Impressionanti",
+      "url": "https://open.spotify.com/track/0yiExFdxS1wafmmTcKdEHA"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1207,6 +1203,42 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Filtros",
+        "url": "https://open.spotify.com/album/1lDlsWp44yKP7kCe04msjo"
+      },
+      "artists": [
+        {
+          "name": "Idelsa",
+          "url": "https://open.spotify.com/artist/0mXFos6Vf02A5AReZz9i5p"
+        },
+        {
+          "name": "Yara Bonga",
+          "url": "https://open.spotify.com/artist/6BhSNJjeu7P8rEP2lOQ4Pw"
+        }
+      ],
+      "duration_ms": 188194,
+      "name": "Filtros",
+      "url": "https://open.spotify.com/track/1FDIrQqgzUyG0sc6kYusDI"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Compensa",
+        "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Compensa",
+      "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "de longe",
         "url": "https://open.spotify.com/album/04GuuwxXFyYKrApJTvDobv"
       },
@@ -1231,6 +1263,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "HEADS or TAILS",
+        "url": "https://open.spotify.com/album/1AMSJVpNiXRLssl0IZd8WS"
+      },
+      "artists": [
+        {
+          "name": "THE F LIBRA",
+          "url": "https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm"
+        }
+      ],
+      "duration_ms": 221597,
+      "name": "HEADS or TAILS",
+      "url": "https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Ansiedade",
         "url": "https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV"
       },
@@ -1247,6 +1295,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Golo",
+        "url": "https://open.spotify.com/album/4xIBKZiRrMQVeL45RJmb3x"
+      },
+      "artists": [
+        {
+          "name": "Ricky Boy",
+          "url": "https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ"
+        }
+      ],
+      "duration_ms": 145549,
+      "name": "Golo",
+      "url": "https://open.spotify.com/track/1u8ZgP6zZOdT9pUUrq3lfq"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Ngana Zambi",
         "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
@@ -1256,25 +1320,9 @@
           "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 279423,
-      "name": "Depois da Chuva",
-      "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "HEADS or TAILS",
-        "url": "https://open.spotify.com/album/1AMSJVpNiXRLssl0IZd8WS"
-      },
-      "artists": [
-        {
-          "name": "THE F LIBRA",
-          "url": "https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm"
-        }
-      ],
-      "duration_ms": 221597,
-      "name": "HEADS or TAILS",
-      "url": "https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI"
+      "duration_ms": 256144,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1295,54 +1343,6 @@
       "duration_ms": 246000,
       "name": "Sinergy",
       "url": "https://open.spotify.com/track/6psG1I3i4mW8Fe97svskoK"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Acabar Na Cama",
-        "url": "https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ"
-      },
-      "artists": [
-        {
-          "name": "Hugo Pina",
-          "url": "https://open.spotify.com/artist/2BKFTDHOy7xXbeibvKsOHu"
-        }
-      ],
-      "duration_ms": 156534,
-      "name": "Acabar Na Cama",
-      "url": "https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Nu Ta Combina",
-        "url": "https://open.spotify.com/album/0HrHUZGAPxXZtenHkbPczt"
-      },
-      "artists": [
-        {
-          "name": "DreNaz",
-          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
-        }
-      ],
-      "duration_ms": 200851,
-      "name": "Impressionanti",
-      "url": "https://open.spotify.com/track/0yiExFdxS1wafmmTcKdEHA"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Cora\u00e7\u00e3o Dormente",
-        "url": "https://open.spotify.com/album/0BCWwL9UBCjQcqj2BoLp7m"
-      },
-      "artists": [
-        {
-          "name": "Calalo",
-          "url": "https://open.spotify.com/artist/6Ou70gVIleVNUiJV3uKZjs"
-        }
-      ],
-      "duration_ms": 179384,
-      "name": "Cora\u00e7\u00e3o Dormente",
-      "url": "https://open.spotify.com/track/2huId19fBOPEzLbcIFok7a"
     }
   ],
   "unique_name": "Seda",

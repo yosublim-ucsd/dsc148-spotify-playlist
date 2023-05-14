@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 30 years of Brooks & Dunn's iconic album \"Hard Workin' Man\" on 90s Country! ",
-  "num_followers": 1560132,
+  "num_followers": 1561114,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzFhZWRhMTViYWQ3MmM5NTYxNDU1NTU3OTJjZTdjZTg4ZGIzYzli",
+  "snapshot_id": "MCwyYjljMWU5MjZjMmIwNjNjNjdiODhkOWFmZjJkZWRkMDNiNWYwNjQ0",
   "tracks": [
     {
       "added_at": "2023-01-20 04:30:15",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "I Like It, I Love It",
-      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Carrying Your Love With Me",
         "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 232426,
       "name": "Carrying Your Love With Me",
       "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "I Like It, I Love It",
+      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+        "name": "Always Never The Same",
+        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
       },
       "artists": [
         {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
+      "duration_ms": 219600,
+      "name": "Write This Down",
+      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
         }
       ],
-      "duration_ms": 158626,
-      "name": "Little Bitty",
-      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Always Never The Same",
-        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 219600,
-      "name": "Write This Down",
-      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
+      "duration_ms": 158626,
+      "name": "Little Bitty",
+      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 285200,
-      "name": "Fast as You",
-      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Hard Workin' Man",
         "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 178493,
       "name": "Hard Workin' Man",
       "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 285200,
+      "name": "Fast as You",
+      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "I'm Gonna Be Somebody",
-      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "American Pride",
         "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 168640,
       "name": "I'm in a Hurry (And Don't Know Why)",
       "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "I'm Gonna Be Somebody",
+      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
+        "name": "Here In The Real World",
+        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Chasin' That Neon Rainbow",
+      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
         "name": "Six Days On The Road",
         "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 213706,
       "name": "Take It Easy - 2006 Remaster",
       "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
-        "name": "Here In The Real World",
-        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Chasin' That Neon Rainbow",
-      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Gone Country",
-      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Brand New Man",
         "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 197640,
       "name": "Boot Scootin' Boogie",
       "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Used To Want To Be A Cowboy",
+        "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
+      },
+      "artists": [
+        {
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "This Cowboy's Hat",
+      "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Used To Want To Be A Cowboy",
-        "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
       },
       "artists": [
         {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 245173,
-      "name": "This Cowboy's Hat",
-      "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
+      "duration_ms": 260493,
+      "name": "Gone Country",
+      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "It Matters to Me",
-        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
         }
       ],
-      "duration_ms": 197666,
-      "name": "It Matters to Me",
-      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
+      "duration_ms": 223973,
+      "name": "One Way Ticket (Because I Can)",
+      "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+        "name": "It Matters to Me",
+        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
       },
       "artists": [
         {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 223973,
-      "name": "One Way Ticket (Because I Can)",
-      "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
+      "duration_ms": 197666,
+      "name": "It Matters to Me",
+      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Thinkin' Problem",
-        "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
       "artists": [
         {
-          "name": "David Ball",
-          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
         }
       ],
-      "duration_ms": 181133,
-      "name": "Thinkin' Problem",
-      "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
+      "duration_ms": 169546,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+        "name": "Greatest Hits: Mark Chesnutt",
+        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
       },
       "artists": [
         {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
         }
       ],
-      "duration_ms": 169546,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
+      "duration_ms": 163560,
+      "name": "It's A Little Too Late - 1996 Greatest Hits Version",
+      "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Greatest Hits: Mark Chesnutt",
-        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
+        "name": "Thinkin' Problem",
+        "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
       },
       "artists": [
         {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+          "name": "David Ball",
+          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
         }
       ],
-      "duration_ms": 163560,
-      "name": "It's A Little Too Late - 1996 Greatest Hits Version",
-      "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
+      "duration_ms": 181133,
+      "name": "Thinkin' Problem",
+      "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "The Tractors",
-        "url": "https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96"
-      },
-      "artists": [
-        {
-          "name": "The Tractors",
-          "url": "https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Baby Likes To Rock It",
-      "url": "https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Sticks and Stones",
         "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 218053,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "The Tractors",
+        "url": "https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96"
+      },
+      "artists": [
+        {
+          "name": "The Tractors",
+          "url": "https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Baby Likes To Rock It",
+      "url": "https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Love Travels",
-        "url": "https://open.spotify.com/album/0CJHlDOZfCIVARQkcMgQ7m"
-      },
-      "artists": [
-        {
-          "name": "Kathy Mattea",
-          "url": "https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "455 Rocket",
-      "url": "https://open.spotify.com/track/7FtuKCaePFfKqGetBYHxS1"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "From the Heart",
         "url": "https://open.spotify.com/album/36m9tDH81Nn65T9qoGqWdl"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 191840,
       "name": "Why Didn't I Think of That",
       "url": "https://open.spotify.com/track/3w3oF0IAR3A14cnKhecsNV"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Love Travels",
+        "url": "https://open.spotify.com/album/0CJHlDOZfCIVARQkcMgQ7m"
+      },
+      "artists": [
+        {
+          "name": "Kathy Mattea",
+          "url": "https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "455 Rocket",
+      "url": "https://open.spotify.com/track/7FtuKCaePFfKqGetBYHxS1"
     }
   ],
   "unique_name": "90s Country",

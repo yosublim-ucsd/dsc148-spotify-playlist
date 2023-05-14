@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Adi Oasis
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,887 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,968 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You're The First, The Last, My Everything](https://open.spotify.com/track/3gAmMKK21W3eR47UPj2dH9) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [You're The First, The Last, My Everything](https://open.spotify.com/album/30nK4pCgMfIOcwD8lPcftR) | 3:39 |
-| 2 | [I Can’t Party](https://open.spotify.com/track/00oQQmRQTVONwfEnoSxG97) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/6bs8wgjvtiI34BbchC56uB) | 2:25 |
+| 2 | [I Can’t Party](https://open.spotify.com/track/31gtPpV9n1BA6gPEWvTSwe) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/2hx7xwv78aW95cduJrslG5) | 2:25 |
 | 3 | [Over It](https://open.spotify.com/track/7HBNVNTJcQBlSKoxvwJcsH) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Over It](https://open.spotify.com/album/1F7PbXOe9Fxopa97vqhRZb) | 3:46 |
 | 4 | [Closer](https://open.spotify.com/track/6x6cHK0rqhlBI8majXkXEd) | [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Giacomo Turra](https://open.spotify.com/artist/7FZ7QjjU3oULdlzZr6GJCw) | [Closer](https://open.spotify.com/album/2Bg43PYGoh1o6VL7tiRGfN) | 2:31 |
 | 5 | [Ambrosia \(feat\. John Givez\)](https://open.spotify.com/track/1vvkcDxmRcen5VA46QjE45) | [XV](https://open.spotify.com/artist/4GKRKf0FAK4nLtmL3u3JQ9), [MIKE SUMMERS](https://open.spotify.com/artist/3zZSB45PLm0xRMHSOQ59V8), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [Ambrosia \(feat\. John Givez\)](https://open.spotify.com/album/02sQMLc0VZX3pwya3TAC6S) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [SUPASTYLiN'](https://open.spotify.com/track/6DTHsrDEHgUvKrPQA13Grf) | [ONiGS](https://open.spotify.com/artist/3NmkWUyK2zHZgVaqqXJlrC), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [SUPASTYLiN'](https://open.spotify.com/album/0zzeBNXA3Dy4TWHE1sn50D) | 3:17 |
 | 100 | [Worthy](https://open.spotify.com/track/1krA127HmUwvlJXTqNiozw) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:05 |
 
-Snapshot ID: `MCw2ZDgyN2VjNTI5ZDkzY2MxZTlkOTMxN2I3NDkxNTdlMjE3NTAxYjQ4`
+Snapshot ID: `MCxmOTA5YTVjOTViNTcwM2Q2ZDRmMzJkZWIxOGJjZDM3ZjNmMjAyZjVj`

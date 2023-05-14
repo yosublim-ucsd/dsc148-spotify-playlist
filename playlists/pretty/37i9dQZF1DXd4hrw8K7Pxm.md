@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,228 likes - 54 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,238 likes - 54 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 35 | [When I'm Gone](https://open.spotify.com/track/6cDHqIoWHmkGE7V7kWJZFJ) | [Kate Voegele](https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S) | [Wild Card](https://open.spotify.com/album/3HaN8jyz7S3POpsPTym57Q) | 2:33 |
 | 36 | [Perfect](https://open.spotify.com/track/3D8yrQUKBcOKpJglrRT0MT) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Perfect](https://open.spotify.com/album/3L87d5pBbyRyi5VYnC3Mk7) | 4:48 |
 | 37 | [Scars To Your Beautiful](https://open.spotify.com/track/4JPM6TuFJgccpoKLKmleDD) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Scars To Your Beautiful](https://open.spotify.com/album/7wMuoQxclWrghUMcDyzMhJ) | 4:17 |
-| 38 | [Love Me Like You Do](https://open.spotify.com/track/7njSEvkpdA2L0nD9gBSD23) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Max S](https://open.spotify.com/artist/1m5VSemGnXm5vbaLtsqqp9) | [Piano Acoustic Covers Vol 1](https://open.spotify.com/album/4qHAgErNddHMr88Uc30hSb) | 3:11 |
+| 38 | [Love Me Like You Do](https://open.spotify.com/track/4oRaemfDggCMYgva45EThN) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm) | [Piano Acoustic Covers Vol 1](https://open.spotify.com/album/6PhMR9fnGEdkBwM2tZ5yF6) | 3:11 |
 | 39 | [Cherry Wine](https://open.spotify.com/track/6oK27xUYzHIfWWh23AXP6J) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Cherry Wine](https://open.spotify.com/album/6imYiXp740TloANkvozGA5) | 3:47 |
-| 40 | [Like I'm Gonna Lose You](https://open.spotify.com/track/3QRoTJ1vIlh3e5Ze8kph1b) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Chris Collins](https://open.spotify.com/artist/4s93zlqCp8gzg7znyuB933), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2SW2MjxjlpLRba9xJJD3ni) | 2:56 |
+| 40 | [Like I'm Gonna Lose You](https://open.spotify.com/track/4ioYjahy2a3ZJSclomwyz9) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Chris Collins](https://open.spotify.com/artist/1FHygtukKTWaZEEWu0fi2y), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Kurt & Company Vol 5](https://open.spotify.com/album/2QOCDi7gtEoyDNWe1tPKYc) | 2:56 |
 | 41 | [Use Somebody](https://open.spotify.com/track/4LBhBtcGb6aOn2pbgOdyN5) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [The Living Room Sessions Vol\. 1](https://open.spotify.com/album/1eF6bx49eA7EsTvdZZ4KNj) | 3:24 |
 | 42 | [Counting Stars](https://open.spotify.com/track/6O33j9aabTuZcD1U40LdtM) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/3tCHNcehvK6wsvuvFAkpgH) | 2:56 |
 | 43 | [A Thousand Years](https://open.spotify.com/track/46ESgLX4lWUw2PGnt9nK7j) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 3:41 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 48 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
 | 49 | [I Should've Known Better](https://open.spotify.com/track/1ZwuOZGxT9D1s1xUtsKAd9) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [This Side](https://open.spotify.com/album/22nQdZSid64plYdy5zRHew) | 4:27 |
 | 50 | [Yellow](https://open.spotify.com/track/2wrRcjk6zBa1IcZWOwBAxy) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Sexual Woman](https://open.spotify.com/album/5d5Ekx6AcVFzC2lJyVQCbH) | 4:14 |
-| 51 | [When We Were Young](https://open.spotify.com/track/696wSwPa5AldCfs3kHpWSl) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [When We Were Young](https://open.spotify.com/album/73srYNTUXbpxSTlDwzfV5Q) | 4:34 |
+| 51 | [When We Were Young](https://open.spotify.com/track/1YVoMqzFOpoDIOKDobMnbf) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [When We Were Young](https://open.spotify.com/album/4KCOBJ333wMPqlZEDemk2w) | 4:34 |
 | 52 | [One Republic Mash\-Up](https://open.spotify.com/track/0Qn7h2I9Fajtj7lgvkho8y) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Covers Part III](https://open.spotify.com/album/0I5Ex3qsCsSPEZ1wlgVsE7) | 2:37 |
 | 53 | [Let It Go](https://open.spotify.com/track/2bYvSAL6llWo0Sdunh2syC) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I), [Tanner Townsend](https://open.spotify.com/artist/1vgJ0JDHRTjDKpUpm3dQaE) | [Let It Go](https://open.spotify.com/album/5QnjKvKE0Ztxd7rnmcqI18) | 4:04 |
 | 54 | [True Colors](https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Changing Of The Seasons](https://open.spotify.com/album/3lDLnElZehSq7Vbs9T2hSR) | 2:20 |
 
-Snapshot ID: `MCxjZWQ2OTFlODZhYzk4M2NlNzQwYjA4N2RiN2Y4MzViMzQ0MThlYzIz`
+Snapshot ID: `MCxjYzlhNjY1NmI4OTQ4ZTgwZGQ3ZjE2MWE3NDEyNmM3NmQ2NjAxOTNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 
 > canto de tristeza porque lo nuestro terminó
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,226 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,296 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 46 | [Perdóname](https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Superstar](https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS) | 3:52 |
 | 47 | [Duele](https://open.spotify.com/track/3qZ4beZNwiXKqGoopSzYBe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Hecho En México \(Edición Especial\)](https://open.spotify.com/album/5VRiykfzXrzfY84WE1rRxj) | 3:13 |
 | 48 | [Perdón Por Tus Lágrimas](https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Siempre Te Amaré](https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos) | 3:57 |
-| 49 | [Como Perro Con Rabia](https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Rey Del Jaripeo](https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY) | 3:14 |
-| 50 | [Por Qué Nos Dijimos Adiós](https://open.spotify.com/track/738XO2aKhfoHC1yvySbBry) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Serie Sensacional Regional Mexican Yndio](https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2) | 3:10 |
+| 49 | [Por Qué Nos Dijimos Adiós](https://open.spotify.com/track/738XO2aKhfoHC1yvySbBry) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Serie Sensacional Regional Mexican Yndio](https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2) | 3:10 |
+| 50 | [Como Perro Con Rabia](https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Rey Del Jaripeo](https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY) | 3:14 |
 
-Snapshot ID: `MCw1NDg0YmI5N2U3Y2VlOWVhMjJhZWJhYzZkMGRhNDhmYzYwNGY3MzQ0`
+Snapshot ID: `MCw2YjAwYTg4MTIzNTA0ZDQ0NzRmNDk3OGQ3MDI5NzZmNDJkMjdiYTc0`

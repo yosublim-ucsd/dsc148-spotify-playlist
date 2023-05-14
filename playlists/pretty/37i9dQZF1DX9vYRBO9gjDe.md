@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。5月9日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,179 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,293 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [I'm here saying nothing](https://open.spotify.com/track/3pTAbMbxBVwRlPGex9BGiJ) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [I'm here saying nothing](https://open.spotify.com/album/3C562bFM0zquzQjF4YB71I) | 3:26 |
 | 50 | [愛の波](https://open.spotify.com/track/2pitZk9jjMrkHVHgtEyx12) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [愛の波](https://open.spotify.com/album/2mBNWnAlpgGhAOeNlbZXRu) | 3:43 |
 
-Snapshot ID: `MCwwOTMxY2I5YjNmNzY1YjNmMjRjODJmNDY3NDI2MmY5ZWRjYTJkZGRl`
+Snapshot ID: `MCxhYTg3YjFiZjU0Zjk1YjAzYzdlM2RjNjEyY2YyOWZmOTEyZTU1ZmUx`

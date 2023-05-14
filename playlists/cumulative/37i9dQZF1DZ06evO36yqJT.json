@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "All of the Glory (Radio Edit)",
+        "url": "https://open.spotify.com/album/3IgDiA4bnDEceIX5QdFXra"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236404,
+      "name": "All of the Glory - Radio Edit",
+      "url": "https://open.spotify.com/track/3vT51y9jySDGf4xGKx6XHE"
+    },
+    {
+      "album": {
         "name": "Hymns",
         "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
       },
@@ -547,6 +565,24 @@
     },
     {
       "album": {
+        "name": "A Miracle In Harlem",
+        "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538666,
+      "name": "Medley: Faded Rose/This Joy/Sweeping Through This City",
+      "url": "https://open.spotify.com/track/1HPUAGsXYKyEQ2EcAbOl5W"
+    },
+    {
+      "album": {
         "name": "Harvest Collection: Shirley Caesar",
         "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
       },
@@ -594,7 +630,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 234893,
       "name": "One More Battle to Fight",
       "url": "https://open.spotify.com/track/2Eo3KpOd2i4yY05IYRSwcP"

@@ -1,12 +1,12 @@
 {
   "description": "The best & biggest indie songs of 2023 so far. Cover: Suki Waterhouse",
-  "num_followers": 2232225,
+  "num_followers": 2232462,
   "original_name": "Ultimate Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzhmOGZhNGViN2E0MGI2ZDAxNGY2ZTY3YWE1NzYzMGY2NDU3YTY4",
+  "snapshot_id": "MCw3Mzk4MmY5YjY3ZjQxMzZlYzhiNDRhMmI4MTJiM2FlOGE5ODE0YWI3",
   "tracks": [
     {
       "added_at": "2023-04-25 18:25:18",
@@ -701,6 +701,22 @@
       "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
     },
     {
+      "added_at": "2023-05-11 23:52:26",
+      "album": {
+        "name": "sever the blight",
+        "url": "https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "sever the blight",
+      "url": "https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf"
+    },
+    {
       "added_at": "2023-04-13 16:12:42",
       "album": {
         "name": "Lying Through Their Teeth",
@@ -747,22 +763,6 @@
       "duration_ms": 242922,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
-    },
-    {
-      "added_at": "2023-05-11 23:52:26",
-      "album": {
-        "name": "sever the blight",
-        "url": "https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "sever the blight",
-      "url": "https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 183852,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
-    },
-    {
       "added_at": "2023-04-21 01:46:20",
       "album": {
         "name": "Seaforth",
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "Pineapple Sunrise",
-        "url": "https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
       },
       "artists": [
         {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 176349,
-      "name": "Pineapple Sunrise",
-      "url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n"
+      "duration_ms": 183852,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -923,6 +907,22 @@
       "duration_ms": 153110,
       "name": "Open My Door",
       "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Pineapple Sunrise",
+        "url": "https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 176349,
+      "name": "Pineapple Sunrise",
+      "url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n"
     },
     {
       "added_at": "2023-04-21 01:46:20",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
-    },
-    {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
         "name": "Multitudes",
         "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 201174,
       "name": "Hiding Out In The Open",
       "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
     },
     {
-      "added_at": "2023-04-21 01:46:20",
-      "album": {
-        "name": "Crushxd",
-        "url": "https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 186946,
-      "name": "Crushxd",
-      "url": "https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So"
-    },
-    {
       "added_at": "2023-04-13 16:12:42",
       "album": {
         "name": "Rivals EP",
@@ -1057,20 +1041,20 @@
       "url": "https://open.spotify.com/track/3LYHDM11CDhhJdbRW9LfkL"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
+      "added_at": "2023-04-21 01:46:20",
       "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+        "name": "Crushxd",
+        "url": "https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo"
       },
       "artists": [
         {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
         }
       ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+      "duration_ms": 186946,
+      "name": "Crushxd",
+      "url": "https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 187860,
       "name": "How Far We've Come",
       "url": "https://open.spotify.com/track/53XX6aX3DurJGTYWtsu4VO"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2023-04-14 01:22:02",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "Driving",
-        "url": "https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m"
-      },
-      "artists": [
-        {
-          "name": "DWLLRS",
-          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
-        }
-      ],
-      "duration_ms": 189280,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "High Life",
@@ -1139,6 +1123,22 @@
       "duration_ms": 174663,
       "name": "High Life",
       "url": "https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m"
+      },
+      "artists": [
+        {
+          "name": "DWLLRS",
+          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+        }
+      ],
+      "duration_ms": 189280,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "Window",
-        "url": "https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 183839,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo"
-    },
-    {
       "added_at": "2023-04-14 01:22:02",
       "album": {
         "name": "Slugs of Love",
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "All We've Ever Wanted",
-        "url": "https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4"
+        "name": "Window",
+        "url": "https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW"
       },
       "artists": [
         {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
         }
       ],
-      "duration_ms": 183858,
-      "name": "All We've Ever Wanted",
-      "url": "https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs"
+      "duration_ms": 183839,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "Stereo Mind Game",
-        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
+        "name": "All We've Ever Wanted",
+        "url": "https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
         }
       ],
-      "duration_ms": 285839,
-      "name": "To Rage",
-      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
+      "duration_ms": 183858,
+      "name": "All We've Ever Wanted",
+      "url": "https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1351,6 +1335,22 @@
       "duration_ms": 586506,
       "name": "Turbines/Pigs - Live at Bush Hall",
       "url": "https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 285839,
+      "name": "To Rage",
+      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1481,20 +1481,20 @@
       "url": "https://open.spotify.com/track/57ge8V32XiTBS89Hrg7x37"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
+      "added_at": "2023-04-21 01:46:20",
       "album": {
-        "name": "Like a Brother",
-        "url": "https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM"
+        "name": "Advantage",
+        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
       },
       "artists": [
         {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
         }
       ],
-      "duration_ms": 212373,
-      "name": "Like a Brother",
-      "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
+      "duration_ms": 205813,
+      "name": "Advantage",
+      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1515,6 +1515,38 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
+        "name": "Like a Brother",
+        "url": "https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Like a Brother",
+      "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "This Is A Photograph II b/w Five Easy Pieces Revisited",
+        "url": "https://open.spotify.com/album/5kJujmcvvFCvimewrYxG30"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "This Is A Photograph II",
+      "url": "https://open.spotify.com/track/6KA2evNFZqRYZd1RlYhIP3"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
       },
@@ -1527,22 +1559,6 @@
       "duration_ms": 224760,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
-    },
-    {
-      "added_at": "2023-04-21 01:46:20",
-      "album": {
-        "name": "Advantage",
-        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
-      },
-      "artists": [
-        {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Advantage",
-      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1561,20 +1577,20 @@
       "url": "https://open.spotify.com/track/4E76b5eScYyjahibva76Bk"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "This Is A Photograph II b/w Five Easy Pieces Revisited",
-        "url": "https://open.spotify.com/album/5kJujmcvvFCvimewrYxG30"
+        "name": "i wanna be your right hand",
+        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
       },
       "artists": [
         {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
         }
       ],
-      "duration_ms": 176053,
-      "name": "This Is A Photograph II",
-      "url": "https://open.spotify.com/track/6KA2evNFZqRYZd1RlYhIP3"
+      "duration_ms": 148533,
+      "name": "i wanna be your right hand",
+      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
     },
     {
       "added_at": "2023-04-14 01:22:02",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2023-04-13 16:12:42",
       "album": {
-        "name": "i wanna be your right hand",
-        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 148533,
-      "name": "i wanna be your right hand",
-      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
-    },
-    {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
         "name": "Nothing's Free",
         "url": "https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ"
       },
@@ -1623,42 +1623,6 @@
       "duration_ms": 278760,
       "name": "Nothing's Free",
       "url": "https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS"
-    },
-    {
-      "added_at": "2023-04-13 16:12:42",
-      "album": {
-        "name": "Night Vision",
-        "url": "https://open.spotify.com/album/4lN4JWv9uMwvZ7eL1XviGa"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Night Vision",
-      "url": "https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6"
-    },
-    {
-      "added_at": "2023-04-21 01:46:20",
-      "album": {
-        "name": "100-99 (feat. GoldLink)",
-        "url": "https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg"
-      },
-      "artists": [
-        {
-          "name": "Albert Hammond Jr",
-          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 216775,
-      "name": "100-99 (feat. GoldLink)",
-      "url": "https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd"
     },
     {
       "added_at": "2023-04-13 16:12:42",
@@ -1677,20 +1641,56 @@
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
     },
     {
-      "added_at": "2023-04-13 16:12:42",
+      "added_at": "2023-05-11 23:52:26",
       "album": {
-        "name": "Younger & Dumber",
-        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
+        "name": "Super Ego",
+        "url": "https://open.spotify.com/album/0bvbLTwlDDLD6N6Eh2LAtg"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
         }
       ],
-      "duration_ms": 279040,
-      "name": "Younger & Dumber",
-      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
+      "duration_ms": 257153,
+      "name": "Super Ego",
+      "url": "https://open.spotify.com/track/46OscqytdMz8h0NtyntdWh"
+    },
+    {
+      "added_at": "2023-04-13 16:12:42",
+      "album": {
+        "name": "Night Vision",
+        "url": "https://open.spotify.com/album/4lN4JWv9uMwvZ7eL1XviGa"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6"
+    },
+    {
+      "added_at": "2023-05-11 23:52:26",
+      "album": {
+        "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7"
+      },
+      "artists": [
+        {
+          "name": "Alan Palomo",
+          "url": "https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 184284,
+      "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO"
     }
   ],
   "unique_name": "Ultimate Indie",

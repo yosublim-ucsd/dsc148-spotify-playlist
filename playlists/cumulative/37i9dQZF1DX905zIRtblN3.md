@@ -2,9 +2,9 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Natanael Cano.
+> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Eden Muñoz & Junior H.
 
-287 songs - 15 hr 15 min
+288 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 | 2022-12-09 | 2023-04-15 |
 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 | 2021-12-17 | 2022-04-22 |
 | [A Mí Me Gustas Tú](https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq), [Oscar Iván Trevíno](https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz) | [A Mí Me Gustas Tú](https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy) | 3:06 | 2022-11-04 | 2023-02-04 |
+| [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 | 2023-05-13 |  |
 | [Aca Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 | 2021-12-17 | 2022-01-04 |
 | [Acurrucar](https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Acurrucar](https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK) | 2:58 | 2021-12-17 | 2022-01-18 |
 | [Afuera Está Lloviendo](https://open.spotify.com/track/3z6s6qPDYCpW44Zfpy4HWS) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 2:59 | 2022-06-20 | 2022-07-09 |
@@ -22,7 +23,7 @@
 | [Aka Entre el Humo](https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Aka Entre el Humo](https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K) | 3:19 | 2022-09-23 | 2022-11-19 |
 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2022-08-18 | 2022-11-29 |
 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 | 2022-11-28 |  |
-| [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 | 2023-03-03 |  |
+| [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 | 2023-03-03 | 2023-05-14 |
 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 | 2021-12-17 | 2022-07-16 |
 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 | 2022-03-03 | 2022-04-02 |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-02-22 | 2022-11-29 |

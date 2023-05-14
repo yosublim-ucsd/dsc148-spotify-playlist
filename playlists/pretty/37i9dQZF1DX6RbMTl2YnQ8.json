@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n\n",
-  "num_followers": 168767,
+  "num_followers": 169007,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDJlMjAzYWJkZjM0OWQyMzM0MDA0NDdiZTQ3ZGUwYmU3M2U1OWE0",
+  "snapshot_id": "MCw0MzA2NThmMGRhNjk0NGUzMmUxZGM3Y2MwZDUwYjViNmQ0NDY0ZGRj",
   "tracks": [
     {
       "added_at": "2022-07-06 19:51:55",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 156197,
-      "name": "Irresponsables",
-      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "El Primer Instinto",
         "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 206133,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 156197,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 317626,
-      "name": "Labios Compartidos",
-      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Dance And Dense Denso",
         "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 210133,
       "name": "Frijolero",
       "url": "https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 317626,
+      "name": "Labios Compartidos",
+      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
+        "name": "Defecto Perfecto",
+        "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Sognare",
+      "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 328906,
       "name": "El Duelo (feat. Ely Guerra)",
       "url": "https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
-        "name": "Defecto Perfecto",
-        "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
-      },
-      "artists": [
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 313933,
-      "name": "Sognare",
-      "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
     },
     {
       "added_at": "2022-07-06 19:51:55",

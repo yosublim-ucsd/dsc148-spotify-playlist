@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,554 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,617 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 |
 | 100 | [Inhale, Exhale](https://open.spotify.com/track/0ym3MgItsOpHT9q5DDpXLo) | [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq) | [Inhale, Exhale](https://open.spotify.com/album/70M8wlJqNIfDZzdW01FBb1) | 2:27 |
 
-Snapshot ID: `MCw2YzA5NTE1MGVhNGYzOTRjZjkzYmZlMWVjMzQ1YWUzZTc5ZDRlNDlm`
+Snapshot ID: `MCw1YjRhY2Y2M2I5ZDNkZTY2MDdkYjk5YmNhMGVkZmU2ZTIzMTA3YmY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 
 > This is Foo Fighters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,420 likes - 51 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,653 likes - 51 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 | 50 | [In Your Honor](https://open.spotify.com/track/06LzBUkKZpPAWiEwB6iVri) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:50 |
 | 51 | [The Feast and The Famine](https://open.spotify.com/track/1M4Wy6jRce1x17qyE7yQAB) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Sonic Highways](https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9) | 3:49 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA3MzA1NjdmYzBhNTczMTg4ZTc5MWZiOTdhYTQ0ZDNjMA==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDBkZTA0ZGE3NmFjOTU3NDQzNzU3MjY0ODJhZTU4NjA2ZA==`

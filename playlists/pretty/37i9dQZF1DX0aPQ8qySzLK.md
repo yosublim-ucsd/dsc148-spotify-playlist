@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,230 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,232 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 27 | [Your Life Is a Story](https://open.spotify.com/track/6AZaYGEOY2ySnSx2rhi60n) | [Sean Watson Graham](https://open.spotify.com/artist/6S7fQrvmDgkoTQHHQiExI6) | [Your Life Is a Story](https://open.spotify.com/album/5xqd7CVNgLepx0CoZCWDzH) | 3:47 |
 | 28 | [Fight Alone](https://open.spotify.com/track/2oqbhlV8cldODDmPZOMSiv) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Train of Thoughts](https://open.spotify.com/album/66vmDvKQOqSaUq0HzVKu8B) | 3:54 |
 | 29 | [Sapling](https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 4:17 |
-| 30 | [Here's Where You're Wrong](https://open.spotify.com/track/5qNS0ZxVczeKSs1KE2dPWF) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM) | 2:54 |
+| 30 | [Here's Where You're Wrong](https://open.spotify.com/track/0zVNv6x1W7vJbLWGzF8ZDV) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/0T1lAytyrT0Qkb7qfdQgaX) | 2:54 |
 | 31 | [The Captain Is Drunk](https://open.spotify.com/track/5z9VyMWkBCHB8iSVaLq3jk) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [The Captain Is Drunk](https://open.spotify.com/album/06CC7BEzIgw7a9zkKQKsOE) | 3:07 |
 | 32 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |
 | 33 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 99 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 |
 | 100 | [Full Size Render](https://open.spotify.com/track/0eNHKjlypkRo1v9HZ8UOdM) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/0n7Wt3JEnLARfOgdCFnxIC) | 2:58 |
 
-Snapshot ID: `MCxmMmZkN2MzZDE2ZjFmZjljNWQ1ZTE0MWViMDAwNGM1OWMxNGJiZjky`
+Snapshot ID: `MCw1ZDRlZWI3NTJmZDE5YmIwZDY4NGY4MTU0NDRhMDVkZDc4YzEwMmFh`

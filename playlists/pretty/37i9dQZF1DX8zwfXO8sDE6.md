@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,305 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,365 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 13 | [Summer Connection](https://open.spotify.com/track/7jRBeWs7TvE8N8W4tEk3nb) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [SUNSHOWER](https://open.spotify.com/album/53YDN7b4vQ5MLMSPcnh9Os) | 4:30 |
 | 14 | [COBALT HOUR](https://open.spotify.com/track/0DGvE0SStlcRCcgmNb1WQB) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:33 |
 | 15 | [Shinin’ You, Shinin’ Day](https://open.spotify.com/track/4PW7Cq7lNMIrEnojsB0jHC) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [Char](https://open.spotify.com/album/1YwI8GobyuUmdxaOLIODKp) | 5:55 |
-| 16 | [心のままに](https://open.spotify.com/track/3cFDlM8SZQ1qcjbaJ8hGcH) | [朝比奈 マリア](https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM) | [MARIA](https://open.spotify.com/album/6yiuP8vYVD7SmBLDFzP8sm) | 3:49 |
+| 16 | [It's the Falling in Love](https://open.spotify.com/track/051QXVSpUF3jmPni6iUabU) | [Hatsumi Shibata](https://open.spotify.com/artist/2NmZjnTUfF6MFpkHcopO96) | [Hazumide Daite](https://open.spotify.com/album/0lJRWgC32yBLDFbYIXUJK8) | 3:04 |
 | 17 | [Suna no Onna](https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [BAND WAGON \(Remastered 2017\)](https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt) | 3:55 |
-| 18 | [It's the Falling in Love](https://open.spotify.com/track/051QXVSpUF3jmPni6iUabU) | [Hatsumi Shibata](https://open.spotify.com/artist/2NmZjnTUfF6MFpkHcopO96) | [Hazumide Daite](https://open.spotify.com/album/0lJRWgC32yBLDFbYIXUJK8) | 3:04 |
+| 18 | [心のままに](https://open.spotify.com/track/3cFDlM8SZQ1qcjbaJ8hGcH) | [朝比奈 マリア](https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM) | [MARIA](https://open.spotify.com/album/6yiuP8vYVD7SmBLDFzP8sm) | 3:49 |
 | 19 | [ボンボヤージ波止場](https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [モーニング](https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ) | 4:02 |
 | 20 | [CLOSE YOUR EYES](https://open.spotify.com/track/5dwr3ShkKRoGoHBbZmyQu0) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 4:54 |
 | 21 | [THE TOKYO TASTE](https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm) | [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 49 | [タバコロード 20](https://open.spotify.com/track/4RElLCLpSglu5Q3GmoSEMY) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Late Late Summer](https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz) | 4:16 |
 | 50 | [キッシング・フィッシュ \- 2017 リマスター](https://open.spotify.com/track/1z5DFbLuxGIyGZ475T2L7v) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Kissing Fish \(2017 リマスター\)](https://open.spotify.com/album/0lYuIvIxDgtshJa2CUjMTQ) | 4:39 |
 
-Snapshot ID: `MCw0OWNmNTIwN2Y1MTMxYmNmNjYxNWIzYzJhNmMzNmVjMGRlZmEyMzRh`
+Snapshot ID: `MCw2NGViOTFjZDYwZDZhY2JiMjQ0ODVkODk5ZTQwNjVmZTZkNDM5OTlj`

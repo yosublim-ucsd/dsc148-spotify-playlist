@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-596 songs - 1 day 14 hr 48 min
+598 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Areyousure?](https://open.spotify.com/track/28k8On9ntqr6JFDahJk0SW) | [Yoofee](https://open.spotify.com/artist/0KoziTqE9AN9MrAWeTRGKI) | [Areyousure?](https://open.spotify.com/album/73TEvbpg4LZb2t0BQhDYMV) | 4:00 | 2022-12-03 | 2023-01-07 |
 | [Aruda](https://open.spotify.com/track/4PJThfd1HgQH2voP3wudW2) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Aruda](https://open.spotify.com/album/3WWiy18arnZpiJz727FSMI) | 4:12 | 2022-11-12 | 2022-11-19 |
 | [Aslong As Your Happy \- Placid Angles Remix](https://open.spotify.com/track/2LOUWzuIf0uZdTL0pFYkNK) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp), [Placid Angles](https://open.spotify.com/artist/4OBt2MzBg9UmaACOI95QcX) | [Midnight FM \(Remixes\)](https://open.spotify.com/album/38wgWY1U51LpzfALrU2d5z) | 6:44 | 2023-03-31 | 2023-04-15 |
+| [Aspirin](https://open.spotify.com/track/0bsdo8CM58RrF4aXg9vZBs) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Aspirin](https://open.spotify.com/album/3qxIR5WOrNlTio5OZ0Mhg5) | 3:10 | 2023-05-13 |  |
 | [Assumptions \- Kaytranada Edit](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Edit\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 | 2023-03-31 | 2023-04-15 |
 | [Astaroth](https://open.spotify.com/track/3X8ysEARTRnVX9Lz21oZFz) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [BLVDE RUNNER](https://open.spotify.com/artist/3dlwdtRsjEKZVMULcYbfeX), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Astaroth](https://open.spotify.com/album/24F8FGsBIUMwx3KUKviXuD) | 3:44 | 2022-11-12 | 2022-11-19 |
 | [Ay Papi](https://open.spotify.com/track/1VTcFepbqaj7FWJnATtUXy) | [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Ay Papi](https://open.spotify.com/album/6YQXQrTa9xPCSfMjt0WRBq) | 3:07 | 2023-01-28 | 2023-02-12 |
@@ -418,6 +419,7 @@
 | [Possibly Impossible \- Crackazat Dub](https://open.spotify.com/track/3k5kxMx9RK7QD7s3AikyH9) | [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [Dave Giles II](https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Possibly Impossible \(Crackazat Dub\)](https://open.spotify.com/album/1ZDeFy4AD01pj0daI9fwsB) | 5:08 | 2022-12-03 | 2023-01-07 |
 | [Postcard](https://open.spotify.com/track/5j0uhG5Jl9C6I0K7xMG2Cj) | [Simon Hinter](https://open.spotify.com/artist/0srFR4SiuKqyNwipA8SPTl) | [Telling Spelling / Postcard](https://open.spotify.com/album/370yEu6eXXVJwhR29LkwSr) | 4:59 | 2022-11-04 | 2022-11-13 |
 | [Praise the Day \(MARTEN HØRGER Remix\)](https://open.spotify.com/track/7JcWezUWycUsV9HPrSq7Zs) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free Moksi \(Remix Album\)](https://open.spotify.com/album/5lXzTEhpKccRu5YI6szi56) | 3:30 | 2022-11-04 | 2022-11-13 |
+| [Prayer](https://open.spotify.com/track/556EvdXoVoBPcS8UW3F9P9) | [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Prayer](https://open.spotify.com/album/7lzF0BCgbMpP9aFbsPje5l) | 4:23 | 2023-05-13 |  |
 | [Priestess](https://open.spotify.com/track/2rxhteylfypbbWmahDNklT) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Fantasy](https://open.spotify.com/album/1rDjHlur6uZheIHpBdmLEF) | 4:07 | 2022-11-04 | 2022-11-13 |
 | [Quantum Love](https://open.spotify.com/track/5dJXIANf7rjEXtfBxKSArq) | [Integral Bread](https://open.spotify.com/artist/2qBtD1XQ3tY8PNUOSrQJwB) | [Anjunadeep Explorations 21: Curated by Tony McGuinness](https://open.spotify.com/album/6bM7XsnzOm7ZipRDiuEzMr) | 3:53 | 2022-11-04 | 2022-11-13 |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-01-06 | 2023-01-14 |

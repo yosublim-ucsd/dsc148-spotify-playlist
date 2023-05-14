@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,400 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,717 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 38 | [A Little Respect](https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:33 |
 | 39 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
 | 40 | [Fade To Grey](https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [Visage](https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf) | 3:59 |
-| 41 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
+| 41 | [I Will Dare](https://open.spotify.com/track/1MV5BzujqyRQ417qj0rXNS) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Let It Be \(Expanded\)](https://open.spotify.com/album/4LwFCUyV4wM6SEg84PaLuL) | 3:17 |
 | 42 | [Debaser](https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:51 |
-| 43 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
-| 44 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
-| 45 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
-| 46 | [I Will Dare](https://open.spotify.com/track/1MV5BzujqyRQ417qj0rXNS) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Let It Be \(Expanded\)](https://open.spotify.com/album/4LwFCUyV4wM6SEg84PaLuL) | 3:17 |
+| 43 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
+| 44 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
+| 45 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
+| 46 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
 | 47 | [Cloudbusting](https://open.spotify.com/track/373vZ0g1dpWaUcrbh0WKhd) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 5:10 |
 | 48 | [Waterfall \- Remastered](https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:38 |
 | 49 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [Crash](https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Lovely](https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR) | 2:31 |
 | 80 | [Our Lips Are Sealed](https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx) | 2:51 |
 
-Snapshot ID: `MCwxYzdhYWY0M2Q1MzUyYzFmNzM4OTY4MTkxNWZkMjkyMTVkZGZjMWQx`
+Snapshot ID: `MCw0NWJmZWI3YWQzNTU5ZTI1ODMyNGYyNDQ4OTljNzc0YmJhM2FhZjY2`

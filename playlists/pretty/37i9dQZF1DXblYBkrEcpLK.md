@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,239 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,539 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
 | 50 | [センチメートル](https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 3:47 |
 
-Snapshot ID: `MCwzNWM2Njg5Yzk0OGMzOGFjNDkwNmYyOTdmMDgwYWZhZmFiZTJkYjQ4`
+Snapshot ID: `MCw5ODQ1NmIzMWU3Yjk2OGE4MmU4YTYzODg3MmVjMGJlZDRjYTIxMTY2`

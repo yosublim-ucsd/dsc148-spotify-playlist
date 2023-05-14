@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 336451,
+  "num_followers": 336595,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTZiZmE4ZjM4M2M0MzEzZTU2YzQyYWQ5MGE2ZDIwOTMzOWY4Nzgx",
+  "snapshot_id": "MCxkMTg0NDg1ZjE2NjE0MjM3MGNmNmVlNzhmMjRiZTViMGUyODM1ZjIw",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -421,22 +421,6 @@
       "url": "https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 287645,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Long in the Tooth",
@@ -451,6 +435,22 @@
       "duration_ms": 179546,
       "name": "The Wrangler",
       "url": "https://open.spotify.com/track/2BXKQbIgsKd1ojy5JTfPz3"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 287645,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Good Luck With That",
-        "url": "https://open.spotify.com/album/3oSXZcUOdRgh1jiIjCFeiK"
-      },
-      "artists": [
-        {
-          "name": "Wolcott Curran Collective",
-          "url": "https://open.spotify.com/artist/5iJNcFVVTSBVdgoAY52ox5"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "Good Luck With That",
-      "url": "https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu"
-    },
-    {
       "added_at": "2021-07-09 04:01:00",
       "album": {
         "name": "Praise Me Now",
@@ -859,18 +843,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+        "name": "Good Luck With That",
+        "url": "https://open.spotify.com/album/3oSXZcUOdRgh1jiIjCFeiK"
       },
       "artists": [
         {
-          "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
+          "name": "Wolcott Curran Collective",
+          "url": "https://open.spotify.com/artist/5iJNcFVVTSBVdgoAY52ox5"
         }
       ],
-      "duration_ms": 255093,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
+      "duration_ms": 250680,
+      "name": "Good Luck With That",
+      "url": "https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -887,6 +871,22 @@
       "duration_ms": 210560,
       "name": "Keb's Bucket",
       "url": "https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Soto",
+          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -977,6 +977,22 @@
       "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Fox",
+        "url": "https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J"
+      },
+      "artists": [
+        {
+          "name": "The Filthy Six",
+          "url": "https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp"
+        }
+      ],
+      "duration_ms": 357480,
+      "name": "Down Frenchmen St",
+      "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
+    },
+    {
       "added_at": "2021-11-26 05:01:00",
       "album": {
         "name": "Sir Somebody",
@@ -995,18 +1011,34 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Fox",
-        "url": "https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J"
+        "name": "The Olympians",
+        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
       },
       "artists": [
         {
-          "name": "The Filthy Six",
-          "url": "https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp"
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
         }
       ],
-      "duration_ms": 357480,
-      "name": "Down Frenchmen St",
-      "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
+      "duration_ms": 217053,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/2WBAMsMuWEkQaO35GLAMyJ"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Assassin (The Paisley Park Session)",
+        "url": "https://open.spotify.com/album/4sj2In3VzdEOey1GlGlVhl"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 202457,
+      "name": "Assassin - The Paisley Park Session",
+      "url": "https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn"
     },
     {
       "added_at": "2022-01-07 05:02:00",
@@ -1025,38 +1057,6 @@
       "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
     },
     {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Smokeshow",
-        "url": "https://open.spotify.com/album/41lISa0NJIZ5ftQ36VmZs3"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 242424,
-      "name": "Smokeshow",
-      "url": "https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Olympians",
-        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
-      },
-      "artists": [
-        {
-          "name": "The Olympians",
-          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/2WBAMsMuWEkQaO35GLAMyJ"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Funkedemia",
@@ -1071,6 +1071,22 @@
       "duration_ms": 133381,
       "name": "Funkedemia",
       "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "We Are All Shining Stars",
+        "url": "https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK"
+      },
+      "artists": [
+        {
+          "name": "Funky Destination",
+          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
+        }
+      ],
+      "duration_ms": 198966,
+      "name": "Everybody's Inn",
+      "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 302288,
       "name": "Bunny Hop",
       "url": "https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "We Are All Shining Stars",
-        "url": "https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK"
-      },
-      "artists": [
-        {
-          "name": "Funky Destination",
-          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
-        }
-      ],
-      "duration_ms": 198966,
-      "name": "Everybody's Inn",
-      "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1169,10 +1169,10 @@
       "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
+      "added_at": "2021-12-10 05:01:00",
       "album": {
-        "name": "Assassin (The Paisley Park Session)",
-        "url": "https://open.spotify.com/album/4sj2In3VzdEOey1GlGlVhl"
+        "name": "Smokeshow",
+        "url": "https://open.spotify.com/album/41lISa0NJIZ5ftQ36VmZs3"
       },
       "artists": [
         {
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
         }
       ],
-      "duration_ms": 202457,
-      "name": "Assassin - The Paisley Park Session",
-      "url": "https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn"
+      "duration_ms": 242424,
+      "name": "Smokeshow",
+      "url": "https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1217,6 +1217,26 @@
       "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
     },
     {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Psychic Powers",
+        "url": "https://open.spotify.com/album/4JWBQMTD8OEsmELMJPxcTu"
+      },
+      "artists": [
+        {
+          "name": "Janko Nilovic",
+          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
+        },
+        {
+          "name": "The Soul Surfers",
+          "url": "https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "Psychic Powers",
+      "url": "https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS"
+    },
+    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Say Goodbye",
@@ -1239,26 +1259,6 @@
       "duration_ms": 187214,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Psychic Powers",
-        "url": "https://open.spotify.com/album/4JWBQMTD8OEsmELMJPxcTu"
-      },
-      "artists": [
-        {
-          "name": "Janko Nilovic",
-          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
-        },
-        {
-          "name": "The Soul Surfers",
-          "url": "https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "Psychic Powers",
-      "url": "https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1373,20 +1373,28 @@
       "url": "https://open.spotify.com/track/7yFIDeG04tRKHMDNrQXe5J"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Jump Up (7\" edit)",
-        "url": "https://open.spotify.com/album/6uLsmgSr8BEleapqyoeJqg"
+        "name": "Kerria Lacca",
+        "url": "https://open.spotify.com/album/5OPFNyGr1RVrrlvcD0YWOi"
       },
       "artists": [
         {
           "name": "Redtenbacher's Funkestra",
           "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        },
+        {
+          "name": "Mike Outram",
+          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
+        },
+        {
+          "name": "Tucker Antell",
+          "url": "https://open.spotify.com/artist/1rBvgsax33Ry0dbohgsFit"
         }
       ],
-      "duration_ms": 222944,
-      "name": "Jump Up - 7\" edit",
-      "url": "https://open.spotify.com/track/6UAvcih8yeFJgSe6Hj8AGQ"
+      "duration_ms": 299705,
+      "name": "Kerria Lacca",
+      "url": "https://open.spotify.com/track/6ZNXFAxCA4SjBBTt3tm6PG"
     }
   ],
   "unique_name": "Instrumental Funk",

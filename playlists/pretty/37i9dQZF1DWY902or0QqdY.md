@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 
 > Clásicos que son el curita perfecto para tu corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,704 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,765 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 | 47 | [I Won't Last A Day Without You](https://open.spotify.com/track/42CX3VhPsCG75BFp07r9Vj) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [A Song For You](https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov) | 3:52 |
 | 48 | [Sorry Seems To Be The Hardest Word](https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 3:48 |
 | 49 | [I Don't Wanna Lose You](https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 4:13 |
-| 50 | [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:25 |
-| 51 | [I'm Not In Love](https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [20th Century Masters: The Millennium Collection: Best Of 10CC](https://open.spotify.com/album/0NdAeRKEfxR075pjL5Ecjl) | 6:08 |
+| 50 | [I'm Not In Love](https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [20th Century Masters: The Millennium Collection: Best Of 10CC](https://open.spotify.com/album/0NdAeRKEfxR075pjL5Ecjl) | 6:08 |
+| 51 | [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:25 |
 | 52 | [How Can You Mend A Broken Heart](https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Trafalgar](https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV) | 3:57 |
 | 53 | [Telephone Line](https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 4:40 |
 | 54 | [All Out of Love](https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 4:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY902or0QqdY.md) - [plain]
 | 69 | [If I Can't Have You](https://open.spotify.com/track/7hIo2An8IJ0gBtzogU7Lud) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [Saturday Night Fever \(The Original Movie Soundtrack\)](https://open.spotify.com/album/6kFmH2VMMFaUrK4QhY4hLi) | 2:58 |
 | 70 | [The Most Beautiful Girl](https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Charlie Rich \- 16 Biggest Hits](https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib) | 2:42 |
 
-Snapshot ID: `MCw0MzQzZjVmM2IxNzY2Y2IzNGQ4MmQyNTlkYjI1M2Y3MjdkYWIyMGNk`
+Snapshot ID: `MCw0OTgwMmIzODdmYTA0MjU2YTM3OGI4ZmU0MTdkOGQ3NjYwYzY2NGVl`

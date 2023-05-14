@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! LAGOS y Reik en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,895 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,963 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [Frida](https://open.spotify.com/track/4FJ3UEXLSb071ZWAmoYjyx) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Frida](https://open.spotify.com/album/55k1P0FF1ouQ4JbhP3VjCK) | 2:47 |
 | 50 | [Morena Mujer](https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Morena Mujer](https://open.spotify.com/album/52Enkie6zGmASAECzepRp1) | 2:54 |
 
-Snapshot ID: `MCwxNzdiNWRhYmMyZmVhNGVlNzM4MDVlZDRmNzQ3ZmZiNGFkYWFlM2E1`
+Snapshot ID: `MCxlZWVhNDJlZTc3ODE1MzViZTU1OTkzNmM4NTVmMDRmMTM5YzE3NDhm`

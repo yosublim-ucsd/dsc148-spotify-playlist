@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=4k9MtP1ARD\-dYt\-6PrSzVw">Myztro</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,379 likes - 54 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,138 likes - 54 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 53 | [MANZISA](https://open.spotify.com/track/2gveTjpu8rP0Peq0Qny7Q0) | [Boontle RSA](https://open.spotify.com/artist/47krblknOhmovlOAbneemK), [Al xapo](https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY), [Bhut\_manandi\_nand](https://open.spotify.com/artist/0BDl7gFAktUaHMANT7tZIM) | [MANZISA](https://open.spotify.com/album/76KSOFJpGKsYmNGOFQPYz6) | 7:30 |
 | 54 | [Quantum Sounds](https://open.spotify.com/track/1wRVZ49rN1urWuFgkHRyuF) | [De Tories](https://open.spotify.com/artist/3iY9EMGIsjRayDYl5TvSPk), [Citykingrsa](https://open.spotify.com/artist/2Mudgi66HA90FPyhrTFLNr) | [Quantum Sounds](https://open.spotify.com/album/5c4ZZgkPLIk8TASBsXe8Ix) | 4:49 |
 
-Snapshot ID: `MCxjZmJiYmI4Yzk3OTVmODgwZWUwOTRhZDkzZjM2MjUyMzhmM2FhMzZk`
+Snapshot ID: `MCw1NmU0YmE2ZWU4YjY2YmNjYzIyMjVhMmU0YWQyNzBhZGExZDY4MTRj`

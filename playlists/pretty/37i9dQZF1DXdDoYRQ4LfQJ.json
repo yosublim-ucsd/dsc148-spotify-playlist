@@ -1,12 +1,12 @@
 {
   "description": "The hottest corridos in the US! Bien Al Tiro con Fuerza Regida, Calle 24 & Angel Ureta",
-  "num_followers": 195091,
+  "num_followers": 195334,
   "original_name": "Al Tiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGRmYzA0YjllNDA0Yzk4NGQ4NTU1ZmNiOTY0NWM5M2M2MjkzY2Ey",
+  "snapshot_id": "MCxkODE2N2M4MDgxZDlhYjUyOWYzOWQ5MDg1OTVlYWMxMGQ5ZjU2MTUw",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -595,22 +595,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "B\u00e9lico y Cholo",
-        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
       "artists": [
         {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 202218,
-      "name": "B\u00e9lico y Cholo",
-      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+      "duration_ms": 154760,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -651,18 +647,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+        "name": "B\u00e9lico y Cholo",
+        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
         }
       ],
-      "duration_ms": 154760,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
+      "duration_ms": 202218,
+      "name": "B\u00e9lico y Cholo",
+      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 180007,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Selfies",
-        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 180007,
-      "name": "Selfies",
-      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 213943,
-      "name": "Porte Exuberante",
-      "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Se\u00f1alado por Costumbre",
         "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
       },
@@ -959,18 +939,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Carteles",
-        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 125818,
-      "name": "El B\u00e9lico",
-      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
+      "duration_ms": 213943,
+      "name": "Porte Exuberante",
+      "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -987,6 +971,22 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Soy Buen Amigo",
+        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 153967,
+      "name": "Soy Buen Amigo",
+      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Carteles",
+        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 125818,
+      "name": "El B\u00e9lico",
+      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "El Pickles",
         "url": "https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 163893,
       "name": "Todos Hablan, Nada Saben",
       "url": "https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Soy Buen Amigo",
-        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 153967,
-      "name": "Soy Buen Amigo",
-      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 156792,
-      "name": "Vida Ventajosa",
-      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 137323,
       "name": "El Circo",
       "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 156792,
+      "name": "Vida Ventajosa",
+      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "La Chapiza",
-        "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "La Chapiza",
-      "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Gracias (En Vivo)",
         "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 235221,
       "name": "Gracias - En Vivo",
       "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "La Chapiza",
+        "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "La Chapiza",
+      "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
     },
     {
       "added_at": "2023-04-21 04:00:00",

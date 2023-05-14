@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: نانسي عجرم
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,110 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,263 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [قرشين \- من مسلسل الصفارة](https://open.spotify.com/track/1QuYAH5uQbKbgwIIoNAyeY) | [Ahmed Amin](https://open.spotify.com/artist/3ZH8mm61aosyZjnCbkT2r4) | [قرشين \(من مسلسل الصفارة\)](https://open.spotify.com/album/2xQ9rA1RUl12vpUZ6I8IKn) | 2:30 |
 | 50 | [ضرب نار \- تتر بداية المسلسل](https://open.spotify.com/track/1m0IonlGzhsZwYfuaMlvdI) | [Mohamed El helw](https://open.spotify.com/artist/3dcqyPdXEFFEYsVkgJpqJK), [Hanan Mady](https://open.spotify.com/artist/6JiYm4VkRDfzUbKuRdO6xZ) | [ضرب نار \(تتر بداية المسلسل\)](https://open.spotify.com/album/5KCPJ0yrhgiA7j50Zn1Fn5) | 3:37 |
 
-Snapshot ID: `MCwwZDVmODVmNDM5M2ZjOTdhODA4Y2NmMTJhMTRmYzdkOTk2NDNlNDZi`
+Snapshot ID: `MCxhOTA2YjA4ODExMDdlMGI4ZDBkMDZhMmE1ZTliNTA4Y2VjMzZiODc1`

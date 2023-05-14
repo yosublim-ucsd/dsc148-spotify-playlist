@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Thirty Seconds To Mars
 
-624 songs - 1 day 11 hr 19 min
+625 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,8 @@
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-05 |  |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-10 |  |
 | [Lost In The Grandeur](https://open.spotify.com/track/6whiIhWVTRqFpA2Aa8DSAr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Lost In The Grandeur](https://open.spotify.com/album/5s4ZVN1095ucWudIEWuiTM) | 3:50 | 2022-02-04 | 2022-02-26 |
-| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-11-25 |  |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-11-25 | 2023-05-14 |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2023-05-12 |  |
 | [Love Brand New](https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Love Brand New](https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX) | 3:18 | 2022-03-25 | 2022-11-26 |
 | [Love Dies Young](https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:21 | 2022-04-15 | 2023-01-21 |
 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 | 2023-01-20 | 2023-03-25 |

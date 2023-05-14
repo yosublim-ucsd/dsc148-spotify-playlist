@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: Miya Folick
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,735 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,834 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 56 | [Pretty Girl hi!](https://open.spotify.com/track/2Mee0OQcf0X2059JwUd4Vj) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Pretty Girl hi!](https://open.spotify.com/album/0MUA9dXULszXctZbOqYCUV) | 1:52 |
 | 57 | [death proof](https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 2:56 |
 | 58 | [Self Love](https://open.spotify.com/track/2MBVnShnrBNvjdtMBCWkbp) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Found](https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx) | 2:24 |
-| 59 | [Olympus](https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:36 |
-| 60 | [The Melting Of The Sun](https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 4:17 |
-| 61 | [Madonna](https://open.spotify.com/track/0ocqOdnVSxojdhFEodwjl0) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:53 |
-| 62 | [Vacation](https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF) | 3:47 |
-| 63 | [Jason](https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 3:05 |
-| 64 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 |
+| 59 | [Vacation](https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF) | 3:47 |
+| 60 | [Olympus](https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:36 |
+| 61 | [The Melting Of The Sun](https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 4:17 |
+| 62 | [Madonna](https://open.spotify.com/track/0ocqOdnVSxojdhFEodwjl0) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:53 |
+| 63 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 |
+| 64 | [Jason](https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 3:05 |
 | 65 | [Change](https://open.spotify.com/track/41FCZduFUjoymvDXb6ZviB) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Who Am I?](https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO) | 2:52 |
 | 66 | [Chosen Family \(with Elton John\)](https://open.spotify.com/track/02XbzKFSMItMn60v2MmChs) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Chosen Family \(with Elton John\)](https://open.spotify.com/album/7iV4NiIjNFK2QvamKHGU8i) | 4:39 |
 | 67 | [QUEEN BEE](https://open.spotify.com/track/3faVsOc6GJnh01unAc8D7I) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:28 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 69 | [El Dorado](https://open.spotify.com/track/6x93hzBoL7HpirMN2P48co) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Peak](https://open.spotify.com/album/3DlqoysgHCd3CLV4LUOCnh) | 3:50 |
 | 70 | [You're Still The One](https://open.spotify.com/track/3P87k30Y8InwhW8Vx9YOZR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [You're Still The One](https://open.spotify.com/album/5ZKBjx5wcE0c99n1zXUna4) | 2:44 |
 | 71 | [Queen](https://open.spotify.com/track/5Y5WLk0oI5MZSJMyK88upb) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Queen](https://open.spotify.com/album/34lYIGfJoCuFH8D1YRRFIp) | 3:16 |
-| 72 | [Ophelia](https://open.spotify.com/track/3v87pWnjTC90f3yj9OKqYP) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [We Slept at Last](https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz) | 3:33 |
-| 73 | [Before the World Was Big](https://open.spotify.com/track/1H0yDK57cwQ51e7vQcRzmR) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Before The World Was Big](https://open.spotify.com/album/0VGncmMQs6Cy7MOus51q3P) | 2:21 |
+| 72 | [Before the World Was Big](https://open.spotify.com/track/1H0yDK57cwQ51e7vQcRzmR) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Before The World Was Big](https://open.spotify.com/album/0VGncmMQs6Cy7MOus51q3P) | 2:21 |
+| 73 | [Ophelia](https://open.spotify.com/track/3v87pWnjTC90f3yj9OKqYP) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [We Slept at Last](https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz) | 3:33 |
 | 74 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 |
 | 75 | [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 |
 
-Snapshot ID: `MCw5OGRkOWM3NTVlMDNhMmQ1ODUxYTA2N2Q0ZjFhNWNhMmVkNmM2ZGY3`
+Snapshot ID: `MCw0NWIxNWVhOTVhZmJjNjI2ZGU3Zjc2OWI4NWY5Mjk2MjRmNTc5N2M4`

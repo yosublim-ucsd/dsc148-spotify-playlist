@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Pedro Martins Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,692 likes - 75 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,739 likes - 75 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Convent Court](https://open.spotify.com/track/44paiDTjnjl4BMYfRxOKio) | [Alex Weitz](https://open.spotify.com/artist/6lQ6kYKqnZIG6gy30EzOw8), [Marcus Printup](https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf) | [Rule of Thirds](https://open.spotify.com/album/3xSa7hmC7qWcPRfM8mgXbk) | 6:15 |
 | 75 | [theme of kotaro](https://open.spotify.com/track/0db9pJdumI8Rai2KJiNU5r) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [change key](https://open.spotify.com/album/5qyqFAtzppQcR4rDvSMaiV) | 3:28 |
 
-Snapshot ID: `MCxiZmY4MjQ5MzdmZTljYmY4MGM0YzlhOGY1NTM2NjNlOTE5NGFkZDgz`
+Snapshot ID: `MCwyMzhhNWVlZTFhZWE4NDA0NDc3NTljNmRiYWYyNzE4YWQ3M2UxZDFk`

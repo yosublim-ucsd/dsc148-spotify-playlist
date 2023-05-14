@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: Frank Ocean
 
-554 songs - 1 day 6 hr 48 min
+555 songs - 1 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Secret \(feat\. Summer Walker\)](https://open.spotify.com/track/67lKDoCZbRCJDa4RT68eme) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Secret \(feat\. Summer Walker\)](https://open.spotify.com/album/5wZsPqpKY7l4dpmRSrDm1Q) | 3:30 | 2022-04-01 | 2023-02-25 |
 | [Sextasy](https://open.spotify.com/track/5jlLBqK31dOqXECKn3jlMX) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Sextasy](https://open.spotify.com/album/5AHaOSqgHl1KLpfujwLpRR) | 3:45 | 2022-04-01 | 2022-04-18 |
 | [Shine](https://open.spotify.com/track/4IXbOaE1P02n6451QBZ10X) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [ELEMENTS Vol\. 1](https://open.spotify.com/album/1c39zRl2zcy9c4rZoLLEGm) | 4:19 | 2022-03-11 | 2022-04-02 |
-| [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-16 |  |
+| [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-16 | 2023-05-14 |
 | [Shot & Wine](https://open.spotify.com/track/0UbMVs2WW36wJINYMWb0XH) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Shot & Wine](https://open.spotify.com/album/6Pw2d9njmTHIVIVaESslCy) | 3:28 | 2022-04-01 | 2022-04-21 |
 | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/0XPlSuCVQ1nOhzTpFgnDSz) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/album/0iHBfyXdfH9Fpeh8BPsVJP) | 3:14 | 2022-04-01 | 2022-04-10 |
 | [SHOWING YOU](https://open.spotify.com/track/7ggHBbAUjEVpwBSUM0TNyK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/4QTfWxMZjLRhQ9zxomi4t4) | 4:46 | 2022-04-01 | 2022-04-14 |
@@ -442,6 +442,7 @@
 | [Smile \(feat\. H.E.R.\)](https://open.spotify.com/track/3Rp8FNCr3yxM3fGFy99LN8) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Smile \(feat\. H.E.R.\)](https://open.spotify.com/album/0QzHIYIoMCUnCKwHqZOmqs) | 4:11 | 2022-04-01 | 2022-07-24 |
 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 | 2022-07-28 |  |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2022-03-11 | 2022-07-29 |
+| [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-05-13 |  |
 | [Snowchild](https://open.spotify.com/track/3WlbeuhfRSqU7ylK2Ui5U7) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 4:07 | 2022-04-01 | 2022-11-16 |
 | [SOMETHING](https://open.spotify.com/track/2XsOdKqJUscFGLk8DgiAjS) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 3:59 | 2022-04-01 | 2022-04-20 |
 | [Something New \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/33z5crv3IO5U2BOi8xod92) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Something New \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/23v9U72YT4KljW8FpdJErK) | 3:20 | 2022-04-01 | 2022-04-21 |

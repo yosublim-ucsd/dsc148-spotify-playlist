@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 116653,
+  "num_followers": 116772,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTllNTc5NTg5OTkxNWJjOWUzZDEwNDNkZjNiMDJlYjNmODliMDUw",
+  "snapshot_id": "MCxlMTUwZWVjZTczZjcxYzNmNjIwZThkZDhhNWYyNjUzOTFlYTljMTJl",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -173,20 +173,20 @@
       "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
+      "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Have Blues, Will Travel",
-        "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
       },
       "artists": [
         {
-          "name": "Smokin' Joe Kubek & Bnois King",
-          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
         }
       ],
-      "duration_ms": 247373,
-      "name": "Have Blues, Will Travel",
-      "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
+      "duration_ms": 286960,
+      "name": "I Got My Mojo Working",
+      "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -205,20 +205,20 @@
       "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
+        "name": "Have Blues, Will Travel",
+        "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Smokin' Joe Kubek & Bnois King",
+          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
         }
       ],
-      "duration_ms": 286960,
-      "name": "I Got My Mojo Working",
-      "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
+      "duration_ms": 247373,
+      "name": "Have Blues, Will Travel",
+      "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
     },
     {
       "added_at": "2016-03-18 21:56:19",

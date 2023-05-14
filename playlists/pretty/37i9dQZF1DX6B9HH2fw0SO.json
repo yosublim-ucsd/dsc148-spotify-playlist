@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 46163,
+  "num_followers": 46248,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDc2ODhhODQ2YTNlN2JhZjFlZTc1YzA2ZjQ3YzlhNDNiZDViZjJl",
+  "snapshot_id": "MCw3YzA4Zjk1ZTliZWQxZDc0Y2FlOTI3ZTIwYjljYjZjM2ZhNDIyMWYx",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -383,18 +383,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 239508,
-      "name": "Death with Dignity",
-      "url": "https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY"
+      "duration_ms": 262209,
+      "name": "Meet Me in the Woods",
+      "url": "https://open.spotify.com/track/1bqrRn1pJWowNLA5N9L6uW"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -415,18 +415,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 262209,
-      "name": "Meet Me in the Woods",
-      "url": "https://open.spotify.com/track/1bqrRn1pJWowNLA5N9L6uW"
+      "duration_ms": 239508,
+      "name": "Death with Dignity",
+      "url": "https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Peripheral Vision",
-        "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
-      },
-      "artists": [
-        {
-          "name": "Turnover",
-          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
-        }
-      ],
-      "duration_ms": 195984,
-      "name": "Cutting My Fingers Off",
-      "url": "https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "If I Should Go Before You",
         "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Peripheral Vision",
+        "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
+      },
+      "artists": [
+        {
+          "name": "Turnover",
+          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
+        }
+      ],
+      "duration_ms": 195984,
+      "name": "Cutting My Fingers Off",
+      "url": "https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 221226,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Sound & Color (Deluxe)",
-        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Vallis Alps",
+        "url": "https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        }
+      ],
+      "duration_ms": 324106,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Oh Wonder",
         "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
       },
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Vallis Alps",
-        "url": "https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2"
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
       },
       "artists": [
         {
-          "name": "Vallis Alps",
-          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 324106,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
+      "duration_ms": 268853,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1271,22 +1271,6 @@
       "duration_ms": 234773,
       "name": "Tongues",
       "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Sound & Color (Deluxe)",
-        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 232530,
-      "name": "Don't Wanna Fight",
-      "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 232530,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Every Open Eye",
         "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Hold My Home (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0TVRC5LerpnNkti1gWsuW7"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "All This Could Be Yours",
-      "url": "https://open.spotify.com/track/1bbcAQuGuAxKS1HM96B8uh"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/4LX7YTmfrI758TVF1xSvtt"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 227368,
       "name": "Painting Greys",
       "url": "https://open.spotify.com/track/00ML9bd4jcQYGJ1h9dWR2q"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Hold My Home (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0TVRC5LerpnNkti1gWsuW7"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "All This Could Be Yours",
+      "url": "https://open.spotify.com/track/1bbcAQuGuAxKS1HM96B8uh"
     },
     {
       "added_at": "2021-09-14 05:14:45",

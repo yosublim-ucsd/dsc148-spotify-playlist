@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Leoni Torres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,828,206 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,828,317 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 92 | [Pa'lante y Pa'tras \- Remix](https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH) | [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Nuestra Esquina](https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD) | 3:33 |
 | 93 | [Mis Ojos Lloran por Tí](https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [Mis Ojos Lloran por Tí](https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R) | 4:18 |
 | 94 | [No Vale La Pena](https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Legends](https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT) | 5:58 |
-| 95 | [Bailando A Tu Son](https://open.spotify.com/track/3vrPR7zhJKvVG5INzVu8l6) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Debut y Segunda Tanda, Vol.1](https://open.spotify.com/album/1m8xBkNoOgnAPnHL5VLdem) | 4:36 |
-| 96 | [Cuenta Conmigo](https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Leyendas: Salsa Romántica](https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X) | 5:04 |
+| 95 | [Cuenta Conmigo](https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Leyendas: Salsa Romántica](https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X) | 5:04 |
+| 96 | [Bailando A Tu Son](https://open.spotify.com/track/3vrPR7zhJKvVG5INzVu8l6) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Debut y Segunda Tanda, Vol.1](https://open.spotify.com/album/1m8xBkNoOgnAPnHL5VLdem) | 4:36 |
 | 97 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 |
 | 98 | [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 |
 | 99 | [Te Busqué](https://open.spotify.com/track/5K9NRlBuwqa2rzXoNE9HIe) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Te Busqué](https://open.spotify.com/album/3DX1rHY2W0L0BgMp1ZkPUf) | 3:58 |
-| 100 | [Ven a Medellín](https://open.spotify.com/track/2BoOKq8gU4QNSRkdSLQXYk) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Afirmando](https://open.spotify.com/album/4YrnCdJtjxxZVMNfCsgHpl) | 5:35 |
+| 100 | [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 |
 
-Snapshot ID: `MCxhZTFjYzFmZjlkM2Q3YzRmZGQ0OWQxYTMwM2QzNjEwNDk2YTdlNjA1`
+Snapshot ID: `MCxiMjc3Mjk1ODBjNjk4MWRiMTY3NTdhYzRkNGFkOTI5NWExMDE0MTVi`

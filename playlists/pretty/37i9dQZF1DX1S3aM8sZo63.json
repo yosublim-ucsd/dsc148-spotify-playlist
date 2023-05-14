@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas!",
-  "num_followers": 834471,
+  "num_followers": 834603,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTE4MzM3MGRiYjJlNzI0ZDNiMjRhYjZkMGU0NjViZDVlYjEwZGRl",
+  "snapshot_id": "MCwxNTQ3YzVkYzQ1NDM3ZTMwMzAyMDc3ZTY5YmQ2YmE5NGQ4YTA5YmEz",
   "tracks": [
     {
       "added_at": "2023-04-21 19:03:27",
@@ -107,18 +107,22 @@
     {
       "added_at": "2023-04-21 19:03:27",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
     },
     {
       "added_at": "2023-04-21 19:03:27",
@@ -139,22 +143,18 @@
     {
       "added_at": "2023-04-21 19:03:27",
       "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2023-04-21 19:03:27",
@@ -207,6 +207,22 @@
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
+    },
+    {
+      "added_at": "2023-04-21 19:03:27",
+      "album": {
+        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 246131,
+      "name": "Tu - Live",
+      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
     },
     {
       "added_at": "2023-04-21 19:03:27",
@@ -275,22 +291,6 @@
       "duration_ms": 194266,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
-    },
-    {
-      "added_at": "2023-04-21 19:03:27",
-      "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 246131,
-      "name": "Tu - Live",
-      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
     },
     {
       "added_at": "2023-04-21 19:03:27",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-04-21 19:03:27",
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 167897,
-      "name": "Le Hace Falta Un Beso",
-      "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
-    },
-    {
-      "added_at": "2023-04-21 19:03:27",
-      "album": {
         "name": "10\u00ba Aniversario",
         "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 153493,
       "name": "Hermosa Experiencia",
       "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
+    },
+    {
+      "added_at": "2023-04-21 19:03:27",
+      "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 167897,
+      "name": "Le Hace Falta Un Beso",
+      "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
     },
     {
       "added_at": "2023-04-21 19:03:27",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-21 19:03:27",
       "album": {
-        "name": "La Mejor De Todas",
-        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
-    },
-    {
-      "added_at": "2023-04-21 19:03:27",
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 171026,
       "name": "Te Quiero As\u00ed",
       "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
+    },
+    {
+      "added_at": "2023-04-21 19:03:27",
+      "album": {
+        "name": "La Mejor De Todas",
+        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
     },
     {
       "added_at": "2023-04-21 19:03:27",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-04-21 19:03:27",
       "album": {
-        "name": "M\u00edranos Ahora",
-        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "M\u00edranos Ahora",
-      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
-    },
-    {
-      "added_at": "2023-04-21 19:03:27",
-      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 145560,
       "name": "Ma\u00f1ana Voy A Conquistarla",
       "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
+    },
+    {
+      "added_at": "2023-04-21 19:03:27",
+      "album": {
+        "name": "M\u00edranos Ahora",
+        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "M\u00edranos Ahora",
+      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
     },
     {
       "added_at": "2023-04-21 19:03:27",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-04-21 19:03:27",
       "album": {
-        "name": "Mi Mayor Anhelo",
-        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
-    },
-    {
-      "added_at": "2023-04-21 19:03:27",
-      "album": {
         "name": "Acurrucar",
         "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 178700,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
+    },
+    {
+      "added_at": "2023-04-21 19:03:27",
+      "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
     },
     {
       "added_at": "2023-04-21 19:03:27",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-04-21 19:03:27",
       "album": {
-        "name": "Exitos De Mariano Barba",
-        "url": "https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR"
-      },
-      "artists": [
-        {
-          "name": "Mariano Barba",
-          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Una Noche M\u00e1s Contigo",
-      "url": "https://open.spotify.com/track/3hyZDNRrpnUo2ScK2J6fe7"
-    },
-    {
-      "added_at": "2023-04-21 19:03:27",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2023-04-21 19:03:27",
       "album": {
-        "name": "Te Invito a Ser Feliz",
-        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
+        "name": "Exitos De Mariano Barba",
+        "url": "https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
         }
       ],
-      "duration_ms": 196406,
-      "name": "Te Invito a Ser Feliz",
-      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
+      "duration_ms": 250120,
+      "name": "Una Noche M\u00e1s Contigo",
+      "url": "https://open.spotify.com/track/3hyZDNRrpnUo2ScK2J6fe7"
     },
     {
       "added_at": "2023-04-21 19:03:27",
@@ -1131,6 +1115,22 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
+    },
+    {
+      "added_at": "2023-04-21 19:03:27",
+      "album": {
+        "name": "Te Invito a Ser Feliz",
+        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 196406,
+      "name": "Te Invito a Ser Feliz",
+      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
     },
     {
       "added_at": "2023-04-21 19:03:27",

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-302 songs - 16 hr 31 min
+304 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [5MINUTES](https://open.spotify.com/track/4f96bCyt3UILSEJbfBUMqg) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O), [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [5MINUTES](https://open.spotify.com/album/26VyhByd0y1RsgrYus5bOz) | 3:08 | 2022-07-07 | 2022-08-19 |
 | [777](https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG) | [Ziki Ks](https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [777](https://open.spotify.com/album/2cJ1jf9Oo3mhiDK7dLJfeq) | 3:10 | 2023-02-10 |  |
 | [Acabar mal](https://open.spotify.com/track/67E0HoObbP1fReMzWihfye) | [Roley](https://open.spotify.com/artist/3PGL3pitV1oSwtjqZZJrMh), [Vi Ci](https://open.spotify.com/artist/70u6V1hQWgLW5aBLvabc3X), [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g) | [Acabar mal](https://open.spotify.com/album/0UcqcXheDTaE2GuMNGs4dv) | 2:45 | 2023-01-06 | 2023-01-27 |
-| [Acabar Na Cama](https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso) | [Hugo Pina](https://open.spotify.com/artist/2BKFTDHOy7xXbeibvKsOHu) | [Acabar Na Cama](https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ) | 2:36 | 2023-05-11 |  |
+| [Acabar Na Cama](https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso) | [Hugo Pina](https://open.spotify.com/artist/2BKFTDHOy7xXbeibvKsOHu) | [Acabar Na Cama](https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ) | 2:36 | 2023-05-11 | 2023-05-14 |
 | [Acabou](https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN) | [MEGGY](https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd), [Joy Jnr](https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt) | [Acabou](https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr) | 3:32 | 2023-01-27 | 2023-02-17 |
 | [Acalma a Alma](https://open.spotify.com/track/0iflJ9xdeYbwgDwzx6PqUW) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Acalma a Alma](https://open.spotify.com/album/4LtGjHnhhSqKbPQsD6sXDB) | 2:40 | 2023-01-20 | 2023-02-10 |
 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 | 2022-12-02 | 2022-12-13 |
@@ -39,6 +39,7 @@
 | [Até que vc volte](https://open.spotify.com/track/3WYMFOTpwNfbuT8vS67V3D) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Até que vc volte](https://open.spotify.com/album/7kRzljKDGhYWAe6Z6kRMVr) | 2:01 | 2023-03-03 | 2023-03-23 |
 | [aventura](https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [aventura](https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la) | 3:18 | 2023-04-27 |  |
 | [Baby](https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3) | [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8) | [Baby](https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC) | 3:41 | 2023-03-03 | 2023-03-31 |
+| [Backstage](https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:16 | 2023-05-11 |  |
 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 | 2022-07-07 | 2023-05-13 |
 | [BAD](https://open.spotify.com/track/7eavXubalNqQjOGnvDneKp) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [BAD](https://open.spotify.com/album/1rm8wxsO4JFwV3Qt4hVgtH) | 2:39 | 2023-03-24 | 2023-04-14 |
 | [Bad Like You](https://open.spotify.com/track/2Gle4hosXEnrkdTu2YMwsH) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Come quarantine w me](https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi) | 4:27 | 2022-07-07 | 2023-04-28 |
@@ -75,7 +76,7 @@
 | [Contigo](https://open.spotify.com/track/6T0xKuYzSIz1AbfcCqcJNu) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Contigo](https://open.spotify.com/album/0nDhqtYEUXpkKWfqgXMXY4) | 3:06 | 2023-02-10 | 2023-03-02 |
 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 | 2022-07-07 |  |
 | [Coração de Prata](https://open.spotify.com/track/3kX8pwkuFxnCmzZAxP5VeR) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Coração de Prata](https://open.spotify.com/album/2dSNU471jKPFqhF2cmvey7) | 2:56 | 2023-01-06 | 2023-01-19 |
-| [Coração Dormente](https://open.spotify.com/track/2huId19fBOPEzLbcIFok7a) | [Calalo](https://open.spotify.com/artist/6Ou70gVIleVNUiJV3uKZjs) | [Coração Dormente](https://open.spotify.com/album/0BCWwL9UBCjQcqj2BoLp7m) | 2:59 | 2023-05-11 |  |
+| [Coração Dormente](https://open.spotify.com/track/2huId19fBOPEzLbcIFok7a) | [Calalo](https://open.spotify.com/artist/6Ou70gVIleVNUiJV3uKZjs) | [Coração Dormente](https://open.spotify.com/album/0BCWwL9UBCjQcqj2BoLp7m) | 2:59 | 2023-05-11 | 2023-05-14 |
 | [Culpa Do Álcool](https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Culpa Do Álcool](https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW) | 2:13 | 2023-04-13 |  |
 | [Cupid](https://open.spotify.com/track/23WXbyhKyMT8dowZx3Bu7I) | [King Cizzy](https://open.spotify.com/artist/3ZTBddrm597Yp0BM5aLLUN) | [Cupid](https://open.spotify.com/album/4MUjU07dZASo1tDM1MDGY6) | 2:56 | 2022-12-23 | 2023-01-21 |
 | [Curvas](https://open.spotify.com/track/6qyEXFoHVLdKmM2gNLGfnW) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Jotta R](https://open.spotify.com/artist/0u2OA1XApgS4rozZ1iWTRZ) | [Curvas](https://open.spotify.com/album/2dZGlThlyesP83r0z5bVXu) | 4:20 | 2022-07-07 | 2022-08-19 |
@@ -131,6 +132,7 @@
 | [Ghetto](https://open.spotify.com/track/6nu1Oh470nGqYRBe2KbxsS) | [Pilitchi](https://open.spotify.com/artist/4nDlpuHI1FcvN8RVEiixY4) | [Ghetto](https://open.spotify.com/album/6dbePtPdJQwhnBMYE3KlvD) | 2:56 | 2023-03-03 | 2023-03-25 |
 | [Gloss](https://open.spotify.com/track/2HxXsZGRITgwkos69ZZtUe) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Gloss](https://open.spotify.com/album/7KmJth0jOfGllWzKPDOEwp) | 3:30 | 2023-03-03 | 2023-03-31 |
 | [Going Now](https://open.spotify.com/track/5UV8AqgYXjTn1T9RFxXsm7) | [Fenzil Ferreira](https://open.spotify.com/artist/5CJIUlZZ22FVlDmaRzozSJ) | [Drama](https://open.spotify.com/album/6qInMSJMIQMkUNZkICKUDd) | 3:20 | 2022-10-06 | 2022-10-28 |
+| [Golo](https://open.spotify.com/track/1u8ZgP6zZOdT9pUUrq3lfq) | [Ricky Boy](https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ) | [Golo](https://open.spotify.com/album/4xIBKZiRrMQVeL45RJmb3x) | 2:25 | 2023-05-11 |  |
 | [Gravidade Zero](https://open.spotify.com/track/4CPBgtJlRGtq36zNoS4FnW) | [Domi](https://open.spotify.com/artist/7FaGlrXXBuq0XrlerWfI3n) | [Gravidade Zero](https://open.spotify.com/album/1VQeGBvu1rCtWl2pR1SuEc) | 3:04 | 2023-01-27 | 2023-02-17 |
 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 | 2022-07-07 |  |
 | [HEADS or TAILS](https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [HEADS or TAILS](https://open.spotify.com/album/1AMSJVpNiXRLssl0IZd8WS) | 3:41 | 2023-05-11 |  |

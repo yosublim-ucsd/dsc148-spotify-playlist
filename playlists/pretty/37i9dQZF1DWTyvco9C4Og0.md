@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 
 > Las leyendas del mariachi están aquí\. Christian Nodal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,638 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,827 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 33 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
 | 34 | [Un Cumbión Dolido](https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Un Cumbión Dolido](https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK) | 3:55 |
 | 35 | [Soy lo prohibido](https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:04 |
-| 36 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF) | 3:48 |
-| 37 | [La Gran Señora](https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 4:12 |
+| 36 | [La Gran Señora](https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 4:12 |
+| 37 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF) | 3:48 |
 | 38 | [Tu Sangre en Mi Cuerpo](https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:58 |
 | 39 | [Decepciones](https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Decepciones](https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT) | 3:43 |
 | 40 | [Te Lloré Un Río \- Versión Mariacheño](https://open.spotify.com/track/04firplM7voiFmGWNTI3Va) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 99 | [Cucurrucucu Paloma](https://open.spotify.com/track/5VTlMAQ0x9EdDyehNQor8D) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p), [Mariachi Guadalajara De Silvestre Vargas](https://open.spotify.com/artist/4nAScEAjSATCbdeccIftls) | [Canciones Populares](https://open.spotify.com/album/6mTzA7zGzLhmYSQycC8f09) | 3:15 |
 | 100 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:03 |
 
-Snapshot ID: `MCw3MWNmZWY4NmIwYjcwZGY1Njc4OGEyOWM5NGEyMzAyMDBlMWFkOGIx`
+Snapshot ID: `MCxkOGZmOTA3MTQ3ZDY5ODA5ODMzM2JkZGI1ZWQ0OTgzN2IyYzg2Y2Zm`

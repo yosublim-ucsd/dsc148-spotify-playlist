@@ -1,12 +1,12 @@
 {
   "description": "Las superestrellas del agua y el jab\u00f3n.",
-  "num_followers": 101228,
+  "num_followers": 101348,
   "original_name": "Cantando en el Ba\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTNkYWE0Nzc0NDc3NTk3NzA1NDIzYmU0MzBjZjRhZGFhNzY1NzQ4",
+  "snapshot_id": "MCw1MTk0MDRiNzQ0ZmMzNzIzZGQ0OGQ1M2VkY2Y5Nzc4NDU0ZTU3NGI4",
   "tracks": [
     {
       "added_at": "2023-02-24 17:07:31",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-02-24 17:07:31",
       "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2023-02-24 17:07:31",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2023-02-24 17:07:31",
+      "album": {
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
     },
     {
       "added_at": "2023-02-24 17:07:31",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-02-24 17:07:31",
       "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
-    },
-    {
-      "added_at": "2023-02-24 17:07:31",
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 231826,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
+    },
+    {
+      "added_at": "2023-02-24 17:07:31",
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
     },
     {
       "added_at": "2023-02-24 17:07:31",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-02-24 17:07:31",
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
-    },
-    {
-      "added_at": "2023-02-24 17:07:31",
-      "album": {
         "name": "Delirium (Deluxe)",
         "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 252534,
       "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
       "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
+    },
+    {
+      "added_at": "2023-02-24 17:07:31",
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "added_at": "2023-02-24 17:07:31",

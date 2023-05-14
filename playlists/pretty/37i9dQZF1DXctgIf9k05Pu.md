@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 
 > Aesthetic vibes that just make sense.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,843 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,893 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 7 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
 | 8 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 |
 | 9 | [kishu inu](https://open.spotify.com/track/42yJL8dXr3S4c0kO6bfpBS) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [kishu inu](https://open.spotify.com/album/4lgPT8tIzb69EMZ7lm30WO) | 2:16 |
-| 10 | [Resonance](https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M) | 3:32 |
-| 11 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 |
+| 10 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 |
+| 11 | [Resonance](https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M) | 3:32 |
 | 12 | [walk but in a garden](https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/03Glq418UekVfi6ud34yeg) | 1:54 |
 | 13 | [I'll Bite Your Soul](https://open.spotify.com/track/71qKWIBggc7poNXclWN53M) | [SHRK](https://open.spotify.com/artist/3bDsGKWVVP8NdrqpiB0rEp), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Love](https://open.spotify.com/album/4zjCyRjagCO2YX65OBCQKK) | 2:03 |
 | 14 | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1) | [Sista Prod](https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61), [Subvrbs](https://open.spotify.com/artist/0NVy1xEsz4i8pX33Scv75n) | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/album/5UYjxc4HIYeesKS0WJlhEI) | 2:34 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 44 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
 | 45 | [Day in Paris](https://open.spotify.com/track/5uuD5CBnuAF6VoC57WLxol) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [Day in Paris](https://open.spotify.com/album/71Xu2aatGYldckWmQHeYSF) | 3:17 |
 | 46 | [fountain](https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [recreation](https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg) | 1:52 |
-| 47 | [Summer Picnic](https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Summer Picnic](https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND) | 1:55 |
-| 48 | [Aesthetic](https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/3OWiPXLWYWCvQ9nIKvTQkk) | 2:38 |
-| 49 | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e](https://open.spotify.com/track/7wfSTHU2eVUFw2gErRxe65) | [Alan Kittza](https://open.spotify.com/artist/021SWwsqcZJY6PSg8m5s4Q) | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e](https://open.spotify.com/album/2aYVlvE7FHPL1nqChkUGH8) | 2:01 |
+| 47 | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e](https://open.spotify.com/track/7wfSTHU2eVUFw2gErRxe65) | [Alan Kittza](https://open.spotify.com/artist/021SWwsqcZJY6PSg8m5s4Q) | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e](https://open.spotify.com/album/2aYVlvE7FHPL1nqChkUGH8) | 2:01 |
+| 48 | [Summer Picnic](https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Summer Picnic](https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND) | 1:55 |
+| 49 | [Aesthetic](https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/3OWiPXLWYWCvQ9nIKvTQkk) | 2:38 |
 | 50 | [Aesthetic Girl](https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Aesthetic Girl](https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX) | 4:18 |
 
-Snapshot ID: `MCwwYjUzOWJkM2FlNzE2MWUxOGEzYTM2Y2IzMDkzZGVjYzQ1N2QyZjIy`
+Snapshot ID: `MCxhYzdmMDZlNGJhOGM4YzZlZjU5YzA1MjY5YmYxOGEzMWQwMTE4NmFk`

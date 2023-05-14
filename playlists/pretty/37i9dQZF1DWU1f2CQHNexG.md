@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Depeche Mode.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,108 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,283 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 29 | [Cruel Summer](https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [Bananarama \(Collector's Edition\)](https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW) | 3:35 |
 | 30 | [Love My Way](https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Forever Now](https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV) | 3:33 |
 | 31 | [Rock Me Amadeus](https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Falco 3](https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh) | 3:22 |
-| 32 | [The Sun Always Shines on T.V.](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 5:02 |
-| 33 | [Here Comes the Rain Again \- Remastered Version](https://open.spotify.com/track/78RIER8V6EhrqVPOBi2GYa) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Touch \(Reissue \- Deluxe Edition\)](https://open.spotify.com/album/4pGwe5BW8GVtIP8ruoa1jB) | 4:54 |
+| 32 | [Here Comes the Rain Again \- Remastered Version](https://open.spotify.com/track/78RIER8V6EhrqVPOBi2GYa) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Touch \(Reissue \- Deluxe Edition\)](https://open.spotify.com/album/4pGwe5BW8GVtIP8ruoa1jB) | 4:54 |
+| 33 | [The Sun Always Shines on T.V.](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 5:02 |
 | 34 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
 | 35 | [Major Tom \(Coming Home\)](https://open.spotify.com/track/709ffFK4o4MtG1NKoLvOma) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [The Different Story \(World Of Lust And Crime\)](https://open.spotify.com/album/4YHQCvzRhFPYki87AK5Pdg) | 5:01 |
 | 36 | [Cars](https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0) | 3:58 |
 | 37 | [Fade To Grey](https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [Visage](https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf) | 3:59 |
 | 38 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
-| 39 | [Gloria](https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [The Best of Branigan](https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW) | 4:55 |
-| 40 | [Hold Me Now](https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX) | 4:46 |
+| 39 | [Hold Me Now](https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX) | 4:46 |
+| 40 | [Gloria](https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [The Best of Branigan](https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW) | 4:55 |
 | 41 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
 | 42 | [Always Something There to Remind Me \- 2018 Remaster](https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Naked Eyes](https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR) | 3:39 |
 | 43 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 46 | [True Faith](https://open.spotify.com/track/4fpxnJGDWFxjGvLJOqPPt8) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 5:55 |
 | 47 | [Cities In Dust](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:51 |
 | 48 | [The Model \- 2009 Remaster](https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 3:40 |
-| 49 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 |
-| 50 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
+| 49 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
+| 50 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 |
 | 51 | [Only You](https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:15 |
 | 52 | [If You Leave \- Remastered 2019](https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Souvenir](https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs) | 4:29 |
 | 53 | [Obsession](https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3) | [Animotion](https://open.spotify.com/artist/6eQHjJJa52LUGjBKP5UPos) | [Obsession: The Best Of Animotion](https://open.spotify.com/album/5BG5Z2wbth8YRlOtlrlAFC) | 5:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 74 | [The Sound Of The Crowd \- Remastered 2002](https://open.spotify.com/track/44ZIKFdQNivuldITWWDsM5) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 4:06 |
 | 75 | [Being Boiled](https://open.spotify.com/track/6fbeOOv9u5JQwZx4pyW4mY) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Travelogue](https://open.spotify.com/album/3nRP83YnVmP4TTyEzieq2H) | 4:21 |
 
-Snapshot ID: `MCwyYmFjMjVhZTNhMmIzYjQ1Njk1ZGY4ODViNDI1ZWI1NmViN2EzZDNj`
+Snapshot ID: `MCwxNjZiNDZkNTU4NjM4NzBkNDQyYWFjNGMyMGRmZDgzZjlmMDIxNjM0`

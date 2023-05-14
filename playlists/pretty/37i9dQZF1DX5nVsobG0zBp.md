@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,653 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,719 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 45 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
 | 46 | [Popo](https://open.spotify.com/track/24QcmVdz7CwEYhohJxJ4EX) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Harley KSD](https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D) | [Popo](https://open.spotify.com/album/6V1YM7CbiOwqwIEa73riB3) | 3:19 |
 | 47 | [SACA LÁ](https://open.spotify.com/track/2LtF00zFSSWzsYtoVYy28k) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [SACA LÁ](https://open.spotify.com/album/2hI0hN3tuadLZ95pr8hAEC) | 3:42 |
-| 48 | [Floating](https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Floating](https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW) | 3:06 |
-| 49 | [Andalé](https://open.spotify.com/track/0rYRDCNedo3Pg9VTQd4aRT) | [Minguito 283](https://open.spotify.com/artist/1LvFNnGu8V8HBP8Qy2bhYv) | [Andalé](https://open.spotify.com/album/4Z1dmBdlH5t0e9Bhw780gU) | 3:21 |
+| 48 | [Andalé](https://open.spotify.com/track/0rYRDCNedo3Pg9VTQd4aRT) | [Minguito 283](https://open.spotify.com/artist/1LvFNnGu8V8HBP8Qy2bhYv) | [Andalé](https://open.spotify.com/album/4Z1dmBdlH5t0e9Bhw780gU) | 3:21 |
+| 49 | [Floating](https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Floating](https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW) | 3:06 |
 | 50 | [Tranquilo](https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Tranquilo](https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD) | 4:23 |
 | 51 | [P de Pablito](https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [P de Pablito](https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF) | 3:02 |
 | 52 | [Sendo Assim](https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6) | [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Mechelas](https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1) | 5:14 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 68 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
 | 69 | [Beber Para Esquecer](https://open.spotify.com/track/76kNdRaqzgvYGB9tBIxUSf) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Beber Para Esquecer](https://open.spotify.com/album/3kHspN9UQgOo4q8f3y7N3K) | 3:03 |
 | 70 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 |
-| 71 | [VIDA DE ARTISTA](https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [VIDA DE ARTISTA](https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk) | 3:12 |
-| 72 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
+| 71 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
+| 72 | [VIDA DE ARTISTA](https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [VIDA DE ARTISTA](https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk) | 3:12 |
 | 73 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
 | 74 | [Rubi](https://open.spotify.com/track/4aStXzYiJWQvdspHEn6GJN) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Midas](https://open.spotify.com/artist/6bLqHfd3myOdJyC4z6Blhj) | [Rubi](https://open.spotify.com/album/5GZRN9j6B5N7Gk5jtvaRtM) | 3:43 |
-| 75 | [É Verdade](https://open.spotify.com/track/3pnhXjwXLLMfNrS9k9HbKh) | [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I) | [É Verdade](https://open.spotify.com/album/4sPk4ZLCKNjScABbBrTYFw) | 3:29 |
+| 75 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
 
-Snapshot ID: `MCwxMDVhN2RlODhlNTNmOTI2NjFlZjMyYTNkN2EwNTdhY2ViY2UzOTc5`
+Snapshot ID: `MCwwZGQ0OTcyZmI0NTQxNWEyYmMyMTVlYzQwZmQwODlmNWU1YTEyNWRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,468 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,512 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,18 +48,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 38 | [Seeing Other People](https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Without People](https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra) | 3:06 |
 | 39 | [Chemicals](https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Chemicals](https://open.spotify.com/album/2aInGJWGVkBDcMZZfYVvA1) | 3:19 |
 | 40 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
-| 41 | [Morning Theft](https://open.spotify.com/track/0WlRW4CG9ccUi96tP7GAwL) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 3:39 |
-| 42 | [The Lily](https://open.spotify.com/track/6clgEkDsjM0QGLRPH7GAwx) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [The Wind Rose EP](https://open.spotify.com/album/282IyhL4hVih0WwLOwrvtl) | 4:14 |
+| 41 | [The Lily](https://open.spotify.com/track/6clgEkDsjM0QGLRPH7GAwx) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [The Wind Rose EP](https://open.spotify.com/album/282IyhL4hVih0WwLOwrvtl) | 4:14 |
+| 42 | [Morning Theft](https://open.spotify.com/track/0WlRW4CG9ccUi96tP7GAwL) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 3:39 |
 | 43 | [Stars](https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM) | [Sam Airey](https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw) | [In Darkened Rooms](https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7) | 5:22 |
 | 44 | [Kyoto \- Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 |
 | 45 | [Donoughmore](https://open.spotify.com/track/3hcMGfmZBzpR9l1tkk5Iy2) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 3:15 |
-| 46 | [No One's Gonna Love You \- Live from Spotify Sweden](https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Spotify Sessions](https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX) | 3:59 |
-| 47 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
+| 46 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
+| 47 | [No One's Gonna Love You \- Live from Spotify Sweden](https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Spotify Sessions](https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX) | 3:59 |
 | 48 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
 | 49 | [In a Week \(feat\. Karen Cowley\)](https://open.spotify.com/track/5F55SiWwEEytk6vsQXHxQW) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Karen Cowley](https://open.spotify.com/artist/0pANuDFzZpuOm7NK5L478T) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 5:18 |
 | 50 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 |
-| 51 | [Fall](https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 2:59 |
-| 52 | [Fickle Heart](https://open.spotify.com/track/6tQ0NRz73GtyDKklLzgJlD) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/1bUQh6ejZ3TWI2uilCJN5Z) | 3:21 |
+| 51 | [Fickle Heart](https://open.spotify.com/track/6tQ0NRz73GtyDKklLzgJlD) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/1bUQh6ejZ3TWI2uilCJN5Z) | 3:21 |
+| 52 | [Fall](https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 2:59 |
 | 53 | [Caught in the Strange](https://open.spotify.com/track/67SFgwRk1tnYDIIB10j78g) | [Racing Glaciers](https://open.spotify.com/artist/11iuJcoaqtToPVCJ3DeBev) | [Caught in the Strange \(Deluxe\)](https://open.spotify.com/album/74vkVl8dlwKGSv9Unn6JKf) | 3:25 |
 | 54 | [Ricochet](https://open.spotify.com/track/6If4a7ytTXliui3vJVi9px) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/3OaA2qwULCg9W9QTvMv1iy) | 3:20 |
 | 55 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 59 | [Dark Child \- Single Edit](https://open.spotify.com/track/0vmVWuvmYuhVNV7t0B6fSc) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Dark Child](https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN) | 3:57 |
 | 60 | [Crying Wolf](https://open.spotify.com/track/2Fp9c5VhgUHFDhW4v9jQA0) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 3:29 |
 
-Snapshot ID: `MCw1Y2NkMmQ0ZjRmZWI4ZWY2NTM2ZjM5ZjZkMGZiZmU5ZmE2ZTdiOGZm`
+Snapshot ID: `MCxmZGJiZjBjNzkyZGRiMmU3M2ZkOTAxMTZlOGVlMGQ4OTQ5YWNiZmFj`

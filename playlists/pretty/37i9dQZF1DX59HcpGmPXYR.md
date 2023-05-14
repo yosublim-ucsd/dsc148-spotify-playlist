@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 
 > The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride\. Cover: Tove Lo
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,604 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,689 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 | 59 | [Nails, Hair, Hips, Heels](https://open.spotify.com/track/3gWIY6WqA34ZRy8QVjTq5v) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/7HuGa9781G05ax5o354dpo) | 3:56 |
 | 60 | [Grace Kelly](https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life in Cartoon Motion](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) | 3:07 |
 
-Snapshot ID: `MCxkNzU2NTRmN2MyZmM1ZDY3ZTQyMjFhMzgzMTAzYzdlZDJkOGFkYWM0`
+Snapshot ID: `MCxiYzI3MGVkY2JjNTVjMzM1MzU0YzhmYjY5NDljMGI5YjRmZjRiYzgx`

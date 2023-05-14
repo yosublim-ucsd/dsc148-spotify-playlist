@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 227972,
+  "num_followers": 228021,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWJlMWI1YmMyZWI3YTEzYTRkZGRhOGIwNDI3MzA5NTU3ZGRkODg4",
+  "snapshot_id": "MCwyNjViMDA4ODM1YjAyMzMxYTkyZTE2Njc0ZWFlNmEyOTljNDQyOTNm",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Talk of the Town",
-        "url": "https://open.spotify.com/album/0zvyYHDg3kFHlcXmVfwL8B"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 207471,
-      "name": "Talk of the Town",
-      "url": "https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "I Believe It Now",
         "url": "https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 228886,
       "name": "I Believe It Now",
       "url": "https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/0zvyYHDg3kFHlcXmVfwL8B"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 207471,
+      "name": "Talk of the Town",
+      "url": "https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Leaving The 99 (Remix)",
+        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
+      },
+      "artists": [
+        {
+          "name": "Billy Ballenger",
+          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
+        }
+      ],
+      "duration_ms": 242468,
+      "name": "Leaving The 99 - Remix",
+      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 209230,
       "name": "Need You",
       "url": "https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Leaving The 99 (Remix)",
-        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
-      },
-      "artists": [
-        {
-          "name": "Billy Ballenger",
-          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
-        }
-      ],
-      "duration_ms": 242468,
-      "name": "Leaving The 99 - Remix",
-      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Something to Say",
-        "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 244172,
-      "name": "Something to Say",
-      "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "BURNING IN THE RAIN",
         "url": "https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 202000,
       "name": "BURNING IN THE RAIN",
       "url": "https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Something to Say",
+        "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        }
+      ],
+      "duration_ms": 244172,
+      "name": "Something to Say",
+      "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Keep Hopin'",
-        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
-      },
-      "artists": [
-        {
-          "name": "The Scally Brothers",
-          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "Keep Hopin'",
-      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 222108,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Keep Hopin'",
+        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
+      },
+      "artists": [
+        {
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "Keep Hopin'",
+      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Break Out (Live)",
-        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
-      },
-      "artists": [
-        {
-          "name": "Woodlands Worship",
-          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Break Out - Live",
-      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Rapzilla.com Presents: Freshmen 2021",
         "url": "https://open.spotify.com/album/4HtfMKAYg8lbnR1HKFZ03h"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
+        "name": "Break Out (Live)",
+        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
       },
       "artists": [
         {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+          "name": "Woodlands Worship",
+          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
         }
       ],
-      "duration_ms": 232703,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
+      "duration_ms": 222960,
+      "name": "Break Out - Live",
+      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1631,6 +1615,22 @@
       "duration_ms": 205625,
       "name": "Against the Wall",
       "url": "https://open.spotify.com/track/5K1JLIgK0p1suxreWPoFc0"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        }
+      ],
+      "duration_ms": 232703,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
     },
     {
       "added_at": "2022-12-16 05:02:00",

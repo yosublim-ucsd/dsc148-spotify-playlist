@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Stay relaxed with these easy, laid\-back songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,050,934 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,051,191 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 36 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 |
 | 37 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 |
 | 38 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
-| 39 | [I Burned LA Down](https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:15 |
-| 40 | [My God Has A Telephone](https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx) | [The Flying Stars Of Brooklyn NY](https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [My God Has a Telephone](https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk) | 2:55 |
+| 39 | [My God Has A Telephone](https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx) | [The Flying Stars Of Brooklyn NY](https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [My God Has a Telephone](https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk) | 2:55 |
+| 40 | [I Burned LA Down](https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:15 |
 | 41 | [Kids in Love](https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 2:47 |
-| 42 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
+| 42 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 | 43 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
 | 44 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 |
-| 45 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
+| 45 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
 | 46 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 |
 | 47 | [Changes](https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Spirit Moves](https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5) | 2:41 |
 | 48 | [Until You](https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem) | 3:18 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 88 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
 | 89 | [Steady Love](https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:44 |
 | 90 | [Witness](https://open.spotify.com/track/56GEhx9XahoD6sxkJwczod) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:54 |
-| 91 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 |
-| 92 | [Mockingbird](https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 4:37 |
+| 91 | [Mockingbird](https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 4:37 |
+| 92 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 |
 | 93 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 |
 | 94 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 |
 | 95 | [I Want More](https://open.spotify.com/track/4xQRRue5qsu2tULiz7UDKi) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Want More / Break My Baby](https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 99 | [I Got You](https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Work Hard and Be Nice](https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR) | 3:36 |
 | 100 | [sunday](https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:13 |
 
-Snapshot ID: `MCw4YjVlOWFhYWVhOWI2MWI4NzFlYmQxZTljY2VkODY1ZGM5Mzk4YjZm`
+Snapshot ID: `MCwxMjcyODY1ZDI1YWE5NWI5Y2I4NWRhNWU3NzFlZDA5NzkwZDVlZTcx`

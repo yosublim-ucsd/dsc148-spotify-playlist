@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > MEAU op de cover van de vernieuwde Je Moerstaal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,245 likes - 90 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,322 likes - 90 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 7 | [Terug In M'n Armen](https://open.spotify.com/track/6pwln6CjzTKZJuYdoA0jSc) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 3:27 |
 | 8 | [Zonder](https://open.spotify.com/track/3sibTlz0NOn4dq7oPnXx9w) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Zonder](https://open.spotify.com/album/4F1nbImQVRxby0QYoHvcLN) | 2:47 |
 | 9 | [Sexy](https://open.spotify.com/track/3ep4UFsL9NFPrTSReiJAWn) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Sexy](https://open.spotify.com/album/6F47aUJVE7SBwQ4KDJaOek) | 2:12 |
-| 10 | [Bliksem & Donder](https://open.spotify.com/track/5yLofVcRARtVdO6Ja3YXsB) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/5QhJLfKlFbZHjtQSXKNUb4) | 2:53 |
-| 11 | [Nooit Meer Los](https://open.spotify.com/track/3GhQVwKsqwHk6dFsW6mp9d) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Donkerblauw](https://open.spotify.com/album/6bK5UIQOHzcBlwUMZbBopk) | 2:49 |
-| 12 | [Tranquilo](https://open.spotify.com/track/3E46A8yOgmLZMg4wml4II6) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Tranquilo](https://open.spotify.com/album/3l8SohnYNEwrffmjs6lTwx) | 2:36 |
+| 10 | [Tranquilo](https://open.spotify.com/track/3E46A8yOgmLZMg4wml4II6) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Tranquilo](https://open.spotify.com/album/3l8SohnYNEwrffmjs6lTwx) | 2:36 |
+| 11 | [Bliksem & Donder](https://open.spotify.com/track/5yLofVcRARtVdO6Ja3YXsB) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/5QhJLfKlFbZHjtQSXKNUb4) | 2:53 |
+| 12 | [Nooit Meer Los](https://open.spotify.com/track/3GhQVwKsqwHk6dFsW6mp9d) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Donkerblauw](https://open.spotify.com/album/6bK5UIQOHzcBlwUMZbBopk) | 2:49 |
 | 13 | [Alles Al](https://open.spotify.com/track/57rACaa3LKTruOGUENOXjW) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Alles Al](https://open.spotify.com/album/3QxGactgkMfFmkUaqvr0mP) | 3:04 |
 | 14 | [Zonder Jou](https://open.spotify.com/track/7vi24RDlbTnQOqDBrWt2K6) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [FOUR JUNO](https://open.spotify.com/album/0nbHgLf8m1peS94gicQQVJ) | 2:12 |
 | 15 | [Ze Is Pas Net Begonnen \(Leerstage / Werkstage\)](https://open.spotify.com/track/3oZYSdQ1tCqi8uoRqGAext) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Ze Is Pas Net Begonnen \(Leerstage / Werkstage\)](https://open.spotify.com/album/6dCuGy0Vmc6QQkeW5zZroi) | 4:11 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Ik Ben Vrij](https://open.spotify.com/track/1666b4ps2A30GgSoB0Kd4b) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Ik Ben Vrij](https://open.spotify.com/album/6mK9STMoJ4CuVZLEbCZS8J) | 3:27 |
 | 90 | [SLAAPTEKORT](https://open.spotify.com/track/7GVzocMyWJndhsbUbyKvwa) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [SLAAPTEKORT](https://open.spotify.com/album/1RAZp1zZua1mGZREIWvKL6) | 2:21 |
 
-Snapshot ID: `MCwzNWExZGYyYTUzOTlkYTNkMTFkYjdlZTI4MGE5NGU2OGRmYWU0NTcy`
+Snapshot ID: `MCxiMDMwZWFkZjZkZjEzZmNhOWQ5OGY4NzlmZDZlOWRlODJmMDdhYmU3`

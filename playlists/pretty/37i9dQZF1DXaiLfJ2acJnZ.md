@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,675 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,692 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 45 | [Self\-Portrait](https://open.spotify.com/track/0vcCSUW0GskE8uN2xdj60f) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Self\-Portrait](https://open.spotify.com/album/6knL6sodlU2l6vZKbD33e0) | 2:21 |
 | 46 | [X&Y](https://open.spotify.com/track/5s8msIjj5PJ5UBNsjddZBL) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [X&Y](https://open.spotify.com/album/0nTp6hAIuLmbxoWX0gWmYM) | 2:17 |
 | 47 | [I Feel Love](https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:13 |
-| 48 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 |
-| 49 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 |
-| 50 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 |
+| 48 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 |
+| 49 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 |
+| 50 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 |
 | 51 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 |
 | 52 | [More](https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [More](https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL) | 3:48 |
 | 53 | [Blue Skies](https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL) | 2:39 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 77 | [Thinking About You](https://open.spotify.com/track/5qOlWfTdKPafaINlhpVY5V) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Thinking About You](https://open.spotify.com/album/138lSNAApov9p0YikNh5gh) | 3:21 |
 | 78 | [You Give Me More](https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Meet You There](https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e) | 2:58 |
 | 79 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
-| 80 | [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 |
+| 80 | [Better Love](https://open.spotify.com/track/5Tfei3YpA30gHiEq2cfRFk) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp) | [Better Love](https://open.spotify.com/album/7kI2gwnSmr9mm41DqGkF42) | 2:42 |
 
-Snapshot ID: `MCw5MDczOTViODFiM2FiNzBkN2ViYTI2YzE5OGZmY2NhN2VhMTFlMjI5`
+Snapshot ID: `MCw5ZGQ3YWVmMDZhMWY0MTc3ZGRmZTEzMTY5YmY2YTI0YzllYTI1Zjlh`

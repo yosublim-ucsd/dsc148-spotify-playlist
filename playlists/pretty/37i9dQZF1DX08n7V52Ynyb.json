@@ -1,12 +1,12 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 29436,
+  "num_followers": 29496,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzM1Nzg3ZjNhMzgxY2UwNDcwZTcxN2JhMDJhOTU3YjA2ZTNjMjk2",
+  "snapshot_id": "MCw1MWIyNGYwNDIyMzc2NTkxOTJiZWE2MDg5ODYxNmUyOGVkNzcxZmFm",
   "tracks": [
     {
       "added_at": "2023-05-10 06:57:46",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
-        "name": "Coming Forth by Day",
-        "url": "https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Wilson",
-          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 230493,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
+        "name": "Coming Forth by Day",
+        "url": "https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Wilson",
+          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 403429,
+      "name": "Confession / The Other Woman",
+      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
         "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
         "url": "https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q"
       },
@@ -723,6 +739,22 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
+        "name": "Undefined",
+        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
         "name": "Once Upon A Summertime",
         "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
       },
@@ -739,18 +771,18 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+        "name": "Same Soul",
+        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
       },
       "artists": [
         {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+          "name": "Karen Rosenberg",
+          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
         }
       ],
-      "duration_ms": 403429,
-      "name": "Confession / The Other Woman",
-      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
+      "duration_ms": 380380,
+      "name": "Behind Me",
+      "url": "https://open.spotify.com/track/56aMKNhh10LMs7zzPvICNS"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -791,38 +823,6 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
-        "name": "Undefined",
-        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Undefined",
-      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
-        "name": "Same Soul",
-        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
-      },
-      "artists": [
-        {
-          "name": "Karen Rosenberg",
-          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
-        }
-      ],
-      "duration_ms": 380380,
-      "name": "Behind Me",
-      "url": "https://open.spotify.com/track/56aMKNhh10LMs7zzPvICNS"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
         "name": "Perhaps You\u2019ll Wonder Why",
         "url": "https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr"
       },
@@ -839,42 +839,6 @@
       "duration_ms": 285306,
       "name": "Perhaps You'll Wonder Why",
       "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
-        "name": "The Women Who Raised Me",
-        "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 216274,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/5aCK19OZrLt5chyuYDY7mq"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
-        "name": "Spring Waltz",
-        "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Spring Waltz",
-      "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -915,6 +879,42 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
+        "name": "Spring Waltz",
+        "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
+      },
+      "artists": [
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "Spring Waltz",
+      "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
+        "name": "The Women Who Raised Me",
+        "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 216274,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/5aCK19OZrLt5chyuYDY7mq"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
         "name": "Laura Benanti",
         "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
       },
@@ -927,6 +927,26 @@
       "duration_ms": 264653,
       "name": "Go Slow",
       "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
+        "name": "April Fooled Me",
+        "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "April Fooled Me",
+      "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -963,22 +983,18 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
-        "name": "April Fooled Me",
-        "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
+        "name": "Try Your Wings",
+        "url": "https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT"
       },
       "artists": [
         {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+          "name": "Silva & Steini",
+          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
         }
       ],
-      "duration_ms": 231400,
-      "name": "April Fooled Me",
-      "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
+      "duration_ms": 174000,
+      "name": "Try Your Wings",
+      "url": "https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -1019,22 +1035,6 @@
       "duration_ms": 326019,
       "name": "Spring Can Really Hang You up the Most",
       "url": "https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
-        "name": "Try Your Wings",
-        "url": "https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT"
-      },
-      "artists": [
-        {
-          "name": "Silva & Steini",
-          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Try Your Wings",
-      "url": "https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -1147,54 +1147,6 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
-        "name": "Easy Come, Easy Go Blues",
-        "url": "https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 152654,
-      "name": "Easy Come, Easy Go Blues",
-      "url": "https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
-        "name": "Musa",
-        "url": "https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "Paco Soto",
-          "url": "https://open.spotify.com/artist/5WvleVXgt2bK1LRn1zlp4Q"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        }
-      ],
-      "duration_ms": 181923,
-      "name": "The Sweetest Sounds",
-      "url": "https://open.spotify.com/track/6RU16zKipfEnU5qENAxvBK"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
       },
@@ -1211,18 +1163,18 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
-        "name": "Roadhouse",
-        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
+        "name": "Easy Come, Easy Go Blues",
+        "url": "https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp"
       },
       "artists": [
         {
-          "name": "Ruth Cameron",
-          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
         }
       ],
-      "duration_ms": 333666,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/0KiIVvicncLbgf0Gl3OXAI"
+      "duration_ms": 152654,
+      "name": "Easy Come, Easy Go Blues",
+      "url": "https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -1263,6 +1215,54 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
+        "name": "Roadhouse",
+        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
+      },
+      "artists": [
+        {
+          "name": "Ruth Cameron",
+          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
+        }
+      ],
+      "duration_ms": 333666,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/0KiIVvicncLbgf0Gl3OXAI"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
+        "name": "Musa",
+        "url": "https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Paco Soto",
+          "url": "https://open.spotify.com/artist/5WvleVXgt2bK1LRn1zlp4Q"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        }
+      ],
+      "duration_ms": 181923,
+      "name": "The Sweetest Sounds",
+      "url": "https://open.spotify.com/track/6RU16zKipfEnU5qENAxvBK"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 376085,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
-        "name": "Blues in the City",
-        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
-      },
-      "artists": [
-        {
-          "name": "Laverne Butler",
-          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -1339,6 +1323,22 @@
       "duration_ms": 219000,
       "name": "Maybe You'll Be There",
       "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
+        "name": "Blues in the City",
+        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
+      },
+      "artists": [
+        {
+          "name": "Laverne Butler",
+          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
-        "name": "Stations",
-        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 293124,
-      "name": "The Streets of Berlin",
-      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
         "name": "I Fall in Love Too Easily",
         "url": "https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 268973,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/0e1AN11cklltbh13wD66E8"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
+        "name": "Stations",
+        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 293124,
+      "name": "The Streets of Berlin",
+      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
-        "name": "Come What May",
-        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 345120,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/2ShXVI9NNJwVnYGBWRd7nd"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
         "name": "City Garden",
         "url": "https://open.spotify.com/album/2WF1uyK8XP5PEa1KbeZNC1"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 394453,
       "name": "City Garden",
       "url": "https://open.spotify.com/track/3aK6okIXyrM2nVDCSHB9v6"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 345120,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/2ShXVI9NNJwVnYGBWRd7nd"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
+        "name": "Julian",
+        "url": "https://open.spotify.com/album/63QrOaQz8pdeXGG7XfTAYb"
+      },
+      "artists": [
+        {
+          "name": "Lina Nyberg",
+          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
+        },
+        {
+          "name": "Josef Kallerdahl",
+          "url": "https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN"
+        }
+      ],
+      "duration_ms": 221112,
+      "name": "Julian",
+      "url": "https://open.spotify.com/track/6KRCAadm61n78dKm8UfamO"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
         "name": "It Happens Like That",
         "url": "https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo"
       },
@@ -1643,26 +1663,6 @@
       "duration_ms": 256685,
       "name": "There You Are",
       "url": "https://open.spotify.com/track/1g30SgnZXLzcgHj9eVszPs"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
-        "name": "Julian",
-        "url": "https://open.spotify.com/album/63QrOaQz8pdeXGG7XfTAYb"
-      },
-      "artists": [
-        {
-          "name": "Lina Nyberg",
-          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
-        },
-        {
-          "name": "Josef Kallerdahl",
-          "url": "https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN"
-        }
-      ],
-      "duration_ms": 221112,
-      "name": "Julian",
-      "url": "https://open.spotify.com/track/6KRCAadm61n78dKm8UfamO"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 279746,
-      "name": "Once Upon a Summertime",
-      "url": "https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6"
-    },
-    {
-      "added_at": "2023-05-10 06:57:46",
-      "album": {
         "name": "The Dream Is You: Vanessa Rubin Sings Tadd Dameron",
         "url": "https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO"
       },
@@ -1751,22 +1735,18 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
-        "name": "It Ends Now",
-        "url": "https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4"
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
       },
       "artists": [
         {
-          "name": "Hannes Bennich",
-          "url": "https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET"
-        },
-        {
-          "name": "Helen Salim",
-          "url": "https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI"
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
         }
       ],
-      "duration_ms": 363893,
-      "name": "It Ends Now",
-      "url": "https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd"
+      "duration_ms": 279746,
+      "name": "Once Upon a Summertime",
+      "url": "https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -1787,18 +1767,38 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
-        "name": "The Art of Jazz with Miriam Netti",
-        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
       },
       "artists": [
         {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+          "name": "Silva & Steini",
+          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
         }
       ],
-      "duration_ms": 320250,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
+      "duration_ms": 187500,
+      "name": "It Might As Well Be Spring",
+      "url": "https://open.spotify.com/track/28poKvc9L6xJdDp8h7lwEL"
+    },
+    {
+      "added_at": "2023-05-10 06:57:46",
+      "album": {
+        "name": "It Ends Now",
+        "url": "https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4"
+      },
+      "artists": [
+        {
+          "name": "Hannes Bennich",
+          "url": "https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET"
+        },
+        {
+          "name": "Helen Salim",
+          "url": "https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI"
+        }
+      ],
+      "duration_ms": 363893,
+      "name": "It Ends Now",
+      "url": "https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd"
     },
     {
       "added_at": "2023-05-10 06:57:46",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2023-05-10 06:57:46",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
       },
       "artists": [
         {
-          "name": "Silva & Steini",
-          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
         }
       ],
-      "duration_ms": 187500,
-      "name": "It Might As Well Be Spring",
-      "url": "https://open.spotify.com/track/28poKvc9L6xJdDp8h7lwEL"
+      "duration_ms": 320250,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
     },
     {
       "added_at": "2023-05-10 06:57:46",

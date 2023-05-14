@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Becky Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,502 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,581 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 84 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
 | 85 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 |
 
-Snapshot ID: `MCxiZDM3YmRhODkyNWUxOGUwNDQwYjJhMDRjYTQ2MWNmZTVjOTY2MmNi`
+Snapshot ID: `MCxiZTdmMDYzZjE1YWQwZjNiZmM1M2NjYjIzY2U1YzQyNmVkNzhiNTI0`

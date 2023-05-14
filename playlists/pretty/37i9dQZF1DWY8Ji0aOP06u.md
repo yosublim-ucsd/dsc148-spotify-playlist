@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ji0aOP06u.md) - [plain]
 
 > Nordic underground pioneer <a href="spotify:artist:5vdjF79d5d2m12FOkJhxHB">Jeremy Olander</a> steps up to the decks to take you on a journey through melody!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,571 likes - 11 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,572 likes - 11 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ji0aOP06u.md) - [plain]
 | 10 | [Andköln \- Original Mix \- Mixed](https://open.spotify.com/track/52SONwk3rrUAQC8B74FQS0) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Andköln \- Original Mix \(Mixed\)](https://open.spotify.com/album/672cMFYGF0j0ldrgNdnJxM) | 4:30 |
 | 11 | [Galheera \- Original Mix \- Mixed](https://open.spotify.com/track/7vQvXCt2ODMa18lNekf6G7) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Galheera \- Original Mix \(Mixed\)](https://open.spotify.com/album/4U3ZXofukd4sR17WNI6HeI) | 7:37 |
 
-Snapshot ID: `MCw0NzgxMjI4Y2RkN2ZkNWI4ODA3ZTFhNWI4OGU5ODU4OGRlYmQwNjI3`
+Snapshot ID: `MCw4NzVlNDFlYzBjZWJlN2FlYWIwZDdiODhmYzA4MjQ2MDc3MDQ3OTY0`

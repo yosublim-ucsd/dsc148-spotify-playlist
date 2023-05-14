@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,640 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,898 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 35 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 |
 | 36 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 |
 | 37 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
-| 38 | [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 |
-| 39 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 |
-| 40 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 |
-| 41 | [Knowing Me, Knowing You](https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:01 |
+| 38 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 |
+| 39 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 |
+| 40 | [Knowing Me, Knowing You](https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:01 |
+| 41 | [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 |
 | 42 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 |
 | 43 | [All You Had To Do Was Stay](https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:13 |
 | 44 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 |
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 48 | [aftermath](https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [aftermath](https://open.spotify.com/album/1fwElcYJZ9su3GXu627HNs) | 2:46 |
 | 49 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 |
 | 50 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 |
-| 51 | [Hopeless Romantic](https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hopeless Romantic](https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2) | 3:01 |
-| 52 | [Tornado Warnings](https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:24 |
-| 53 | [Sorry To Me Too](https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Sorry To Me Too](https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS) | 3:29 |
-| 54 | [Stupid Feelings](https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Stupid Feelings](https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa) | 2:46 |
-| 55 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
+| 51 | [Tornado Warnings](https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:24 |
+| 52 | [Hopeless Romantic](https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hopeless Romantic](https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2) | 3:01 |
+| 53 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
+| 54 | [Sorry To Me Too](https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Sorry To Me Too](https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS) | 3:29 |
+| 55 | [Stupid Feelings](https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Stupid Feelings](https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa) | 2:46 |
 | 56 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 |
 | 57 | [Talking to Yourself](https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:53 |
 | 58 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 68 | [You Let Me Down](https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:13 |
 | 69 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 |
 | 70 | [Guess We Lied...](https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:31 |
-| 71 | [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 |
-| 72 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 |
+| 71 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 |
+| 72 | [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 |
 | 73 | [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 |
 | 74 | [simple times](https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:47 |
 | 75 | [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 |
 
-Snapshot ID: `MCwwZDVmY2VjODUyNzY0ZDQ1NjRkNDgzMGMxZDViODMwYzUxZmI3NmUz`
+Snapshot ID: `MCwxZmU0ZTBjZmJlZDAyODA5YzcwY2Q2MmZiNWJlOTNiODlmNzU2Yzlh`

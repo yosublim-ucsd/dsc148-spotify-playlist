@@ -4,7 +4,7 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-314 songs - 18 hr 56 min
+315 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2021-12-07 | 2022-07-29 |
 | [All Mine](https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [All Mine](https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO) | 2:28 | 2021-12-07 |  |
 | [All the Leaves Are Falling](https://open.spotify.com/track/5klodtfP8ubHr30XuWtZoA) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Molly Sterling](https://open.spotify.com/artist/5XUqgFooJpMOg8CaWml0q3) | [All the Leaves Are Falling](https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI) | 4:08 | 2021-12-07 | 2022-04-21 |
-| [All Up To You](https://open.spotify.com/track/2ucJBU4uvj0RgWPY4PgVVV) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/7BMMTfxpwX5ZOPrDxxrHIU) | 3:08 | 2022-06-20 |  |
+| [All Up To You](https://open.spotify.com/track/2ucJBU4uvj0RgWPY4PgVVV) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/7BMMTfxpwX5ZOPrDxxrHIU) | 3:08 | 2022-06-20 | 2023-05-14 |
 | [All Up To You](https://open.spotify.com/track/3ekJniZIwlux13AXz5ILzR) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/2PEpAb0cmbdF4TAtcHzvOp) | 3:08 | 2021-12-07 | 2022-04-18 |
 | [Alright](https://open.spotify.com/track/6lOgdgJ7fdTmvQuUV3JrEH) | [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Real](https://open.spotify.com/album/5fZ4UkwUPHAgEtSvaKBOmT) | 2:59 | 2022-04-11 | 2022-04-21 |
 | [Anyone Around](https://open.spotify.com/track/15fzONpuDzch5temggfVIv) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [All the Time](https://open.spotify.com/album/11yM9uazEEt9YjNwvMLhkA) | 2:49 | 2022-06-20 | 2022-11-13 |
@@ -79,6 +79,7 @@
 | [Cute](https://open.spotify.com/track/6wbDXy6VCM9D0G8cLvhKUd) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J), [ZULA](https://open.spotify.com/artist/6tWqBIxAeRmld2npkzFZf3) | [Cute](https://open.spotify.com/album/51IqICZxYZc1R5j4Teh7XL) | 3:03 | 2021-12-07 | 2022-07-29 |
 | [Dancing on my Own](https://open.spotify.com/track/2AFGJ4Ul9oTOADze6ovYNb) | [Bone Slim](https://open.spotify.com/artist/5VoreVetRqMEFui6KpGdt2), [Subculture](https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx) | [Dancing on my Own](https://open.spotify.com/album/6IjF7arrtlqcYJDdW0KhSc) | 3:22 | 2022-04-11 | 2022-04-21 |
 | [Dark Days](https://open.spotify.com/track/7uVs1CPR9XUU68NvGlOVeS) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [Dark Days](https://open.spotify.com/album/23kL4YG4eeiHyG0cYiEOg3) | 2:42 | 2021-12-07 | 2022-04-20 |
+| [Debold](https://open.spotify.com/track/249L7XvMpl08wN5vhivz1j) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g) | 2:43 | 2022-06-20 |  |
 | [Debold](https://open.spotify.com/track/3pwR6SvdZq6GVpmSDz41QQ) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5) | 2:43 | 2022-06-20 | 2023-05-06 |
 | [Debold](https://open.spotify.com/track/6TNBx9lvDcqLq1GQCPNJqH) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/50156iq4owa0BXegpAf1Mg) | 2:43 | 2021-12-07 | 2022-10-14 |
 | [Deep Blue](https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Deep Blue](https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY) | 3:16 | 2022-06-20 | 2023-05-08 |

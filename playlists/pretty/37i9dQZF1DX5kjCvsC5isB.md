@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Kelsy Karter
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,212 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,311 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
-| 2 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 |
+| 2 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
 | 3 | [<maybe> it's my fault](https://open.spotify.com/track/5qMq8ITRVuTwqd2pDL0gff) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:39 |
 | 4 | [Cover You](https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Cover You](https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3) | 3:01 |
 | 5 | [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 124 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 | 125 | [IH8EVERY1](https://open.spotify.com/track/41pILuwCEPKC8RLLR9XGT1) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [IH8EVERY1](https://open.spotify.com/album/1Kd1SH6GxOvyEhyH501d3h) | 2:47 |
 
-Snapshot ID: `MCxlMjQ1YThkMDVmMjMxMjNkOTE1MTMzODgyYzRkN2FiMDM1ZmViNWQx`
+Snapshot ID: `MCxkZGJhNTRmYzE4NDRiZWNhOTA2ZmRhMTFjYTA4MDY0NGRkYjhiMTY5`

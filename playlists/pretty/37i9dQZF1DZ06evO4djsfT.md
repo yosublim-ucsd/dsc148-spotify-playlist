@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,469 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,485 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 46 | [On 10](https://open.spotify.com/track/2KR3XkJdsVJrF1ISG1QbLy) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [On 10](https://open.spotify.com/album/1o2f9ssb08V2XSRichmBT1) | 3:07 |
 | 47 | [Lights Go Out](https://open.spotify.com/track/5TYKPiZtHh02L0Xx8Prkiv) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Justin Ebach](https://open.spotify.com/artist/7lAEeQHAtYITsUktcK80m9) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 4:19 |
 | 48 | [I Am Not the One](https://open.spotify.com/track/5PRBy8y79B3xM2Kx3tJbmb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:29 |
-| 49 | [DNOU2](https://open.spotify.com/track/5E1Np2je3NS2ucYjgoZwrM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [DNOU2](https://open.spotify.com/album/3cCoAz0jHGTo5SQXBi2w69) | 3:44 |
-| 50 | [Tempo](https://open.spotify.com/track/2qFykEZQhO43nt6Kbg0IFk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Tempo](https://open.spotify.com/album/7CHHpR5lbHnnNdY2blhDhi) | 4:00 |
+| 49 | [Tempo](https://open.spotify.com/track/2qFykEZQhO43nt6Kbg0IFk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Tempo](https://open.spotify.com/album/7CHHpR5lbHnnNdY2blhDhi) | 4:00 |
+| 50 | [DNOU2](https://open.spotify.com/track/5E1Np2je3NS2ucYjgoZwrM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [DNOU2](https://open.spotify.com/album/3cCoAz0jHGTo5SQXBi2w69) | 3:44 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA3NTJiNjdjOGJjNTFiZjlhOGIwNjZhOGM4NmJiZGUwMg==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDAxOGUxNDE5NjI5Mjc5NjBkZTJkZGZiNDcxNTdlNmRhOQ==`

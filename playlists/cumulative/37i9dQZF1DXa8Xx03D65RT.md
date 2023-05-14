@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-614 songs - 1 day 1 hr 59 min
+615 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Close](https://open.spotify.com/track/5tUoI7u3zsCo9KCx5s3GQh) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Close](https://open.spotify.com/album/1xEqzwfnOa644zQG71fg1n) | 2:36 | 2022-05-27 |  |
 | [Clouds in California](https://open.spotify.com/track/3tdgtBtRw98JhUrwx7APJL) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Clouds in California](https://open.spotify.com/album/2zOmolnLpU26hcN2ff4MhW) | 1:49 | 2022-05-27 | 2022-09-24 |
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2022-05-27 |  |
-| [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 | 2022-05-27 |  |
+| [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 | 2022-05-27 | 2023-05-14 |
 | [Coming Back](https://open.spotify.com/track/7bziJO7BnTUSodDC4yWmRg) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Coming Back](https://open.spotify.com/album/0K8DGq9aZZw4naCh9LfJif) | 2:29 | 2023-05-03 |  |
 | [Compromise](https://open.spotify.com/track/7kymECxyr5OUG87vGN1vB2) | [Chris Snelling](https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp) | [Compromise](https://open.spotify.com/album/7r0yb6MxfuZ463XY9Qrvvo) | 2:31 | 2022-07-20 |  |
 | [Connotations](https://open.spotify.com/track/7BohLbjDypEKLJ9CGQbyXT) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Connotations](https://open.spotify.com/album/0aUFSGKClWb4CVfqj7utGs) | 2:51 | 2022-05-27 | 2022-07-21 |
@@ -237,7 +237,7 @@
 | [I Remember](https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [I Remember](https://open.spotify.com/album/1yI3LXQAcNZx7LWVfFJLZg) | 2:22 | 2022-05-27 | 2022-07-21 |
 | [I Try](https://open.spotify.com/track/2iqN4qtrdyp43YZONn3sgF) | [Helena Gabriel](https://open.spotify.com/artist/5AW3NFlJDX8SX4LoHNTZOO) | [I Try](https://open.spotify.com/album/6EZsJTZbEkW91ZFgpzCchU) | 1:49 | 2022-05-27 | 2023-03-19 |
 | [If Only](https://open.spotify.com/track/3NBuhsRRawz3pK7Y8MImwX) | [Jamie Bendrodt](https://open.spotify.com/artist/3NBXKIjJCcTcDmhq7cbyei) | [If Only](https://open.spotify.com/album/7K5p6bRBT9M1a9qzTPtvmQ) | 2:04 | 2022-05-27 | 2022-09-24 |
-| [Il mio cuore brucia per te](https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Il mio cuore brucia per te](https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy) | 2:10 | 2022-05-27 | 2023-05-12 |
+| [Il mio cuore brucia per te](https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Il mio cuore brucia per te](https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy) | 2:10 | 2022-05-27 |  |
 | [Illusive Appearance](https://open.spotify.com/track/1TjW6B6oAQTyh4ca3r32DA) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Illusive Appearance](https://open.spotify.com/album/1B1fTeAhsxFmMQtRvsRqSF) | 3:09 | 2022-05-27 | 2022-09-24 |
 | [Imbolc](https://open.spotify.com/track/0Lac4ar1MABDEvZ0RFIA36) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Imbolc](https://open.spotify.com/album/0J6pG8QWSeb8jShtQ0MWi3) | 2:56 | 2022-07-20 |  |
 | [Impuissance](https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL) | [Luisa Amogida](https://open.spotify.com/artist/6G62bUbzGc5W2y0yxeHEKj) | [Impuissance](https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay) | 2:03 | 2022-05-27 | 2023-05-04 |
@@ -499,7 +499,7 @@
 | [Spørsmål](https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:16 | 2022-05-27 | 2022-09-24 |
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2022-05-27 |  |
 | [Stay](https://open.spotify.com/track/3gorfBRE1Ojs4PO9ruF7zU) | [OEN](https://open.spotify.com/artist/4RPFMzyyG8F2ygQzFLLFGD) | [Lonely Nights](https://open.spotify.com/album/5p8qHNadHlMX8Gn2uoNJlH) | 2:34 | 2022-05-27 | 2023-01-09 |
-| [Stay](https://open.spotify.com/track/39HXQGuVvKb1xk37coVqgb) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Stay](https://open.spotify.com/album/59jBPp7XmMmJqTLVmB1oxK) | 2:37 | 2022-05-27 |  |
+| [Stay](https://open.spotify.com/track/39HXQGuVvKb1xk37coVqgb) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Stay](https://open.spotify.com/album/59jBPp7XmMmJqTLVmB1oxK) | 2:37 | 2022-05-27 | 2023-05-14 |
 | [Still Drifting](https://open.spotify.com/track/6QUj5aZj21pFhsT94CCYz1) | [Hayden Cargile](https://open.spotify.com/artist/6QrTfzchTKSeDGSBqLbk1o) | [Still Drifting](https://open.spotify.com/album/72wXUUjSAGLmQstNGlrGAe) | 2:10 | 2023-04-18 |  |
 | [Storr](https://open.spotify.com/track/1FsASiGx3ay1qxeqZA9sdP) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Storr](https://open.spotify.com/album/2HKmEzAH66lNarpba1JyoU) | 3:17 | 2022-07-20 |  |
 | [Storybook](https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Storybook](https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI) | 2:21 | 2022-05-27 | 2022-09-24 |
@@ -616,6 +616,7 @@
 | [Winter Warmth](https://open.spotify.com/track/7i7EzSHTyUnZiSuwkVjnYR) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [Winter Warmth](https://open.spotify.com/album/5YfDgNzucWkIgaceuAAAmf) | 2:02 | 2023-02-06 |  |
 | [With Ease](https://open.spotify.com/track/66nC6l1EsEIqarOvSwmotT) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [With Ease](https://open.spotify.com/album/1LCrc34gyc6h3YdC7e7D5c) | 2:39 | 2023-04-18 |  |
 | [Withered](https://open.spotify.com/track/310HxzWeWPw1htCdY9I4oq) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Withered](https://open.spotify.com/album/5YmSYIJSqjLPOcQEZ9AH6e) | 1:52 | 2023-01-31 |  |
+| [Without You](https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Without You](https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR) | 2:37 | 2023-05-09 |  |
 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 | 2022-05-27 | 2023-03-28 |
 | [Yearn](https://open.spotify.com/track/6cgdhsPAVKmQRRwbW0PuXT) | [Lillia Nava](https://open.spotify.com/artist/2UTWoxg77Il2GH1iI67BIZ) | [Yearn](https://open.spotify.com/album/62Cxt0A2ySZkUMbus2ibi1) | 2:46 | 2022-05-27 | 2022-09-24 |
 | [Yellow Entropy](https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Yellow Entropy](https://open.spotify.com/album/7hJKROzZs61p529YVcxaWM) | 2:11 | 2022-05-27 |  |

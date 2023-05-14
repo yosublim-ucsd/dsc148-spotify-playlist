@@ -4,7 +4,7 @@
 
 > Rock with a Drop Cover: ILLENIUM \\m/
 
-299 songs - 17 hr 7 min
+300 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Hollow](https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Hollow](https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd) | 4:00 | 2023-01-30 |  |
 | [Hurting on Purpose \(feat\. K.Flay\)](https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 2:09 | 2021-12-10 |  |
 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [create together vol\. 3](https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2) | 4:01 | 2022-07-01 | 2022-09-29 |
-| [i don’t wanna write sad songs anymore](https://open.spotify.com/track/5lrOg4024hpqo39lVsr2nM) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [i don’t wanna write sad songs anymore \(Acoustic\)](https://open.spotify.com/album/3GLUq3a8bnqClIZl32Q7dS) | 4:01 | 2023-04-28 |  |
+| [i don’t wanna write sad songs anymore](https://open.spotify.com/track/5lrOg4024hpqo39lVsr2nM) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [i don’t wanna write sad songs anymore \(Acoustic\)](https://open.spotify.com/album/3GLUq3a8bnqClIZl32Q7dS) | 4:01 | 2023-04-28 | 2023-05-14 |
 | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/track/5CkicabyzDs7F7Froa503f) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU) | 4:10 | 2022-01-28 |  |
 | [I'm Losing Myself](https://open.spotify.com/track/1iPBZhlxcsMnkdXBiAs1VS) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [Prock House](https://open.spotify.com/album/6WmVszxhoZlftm89rz5FFq) | 2:47 | 2021-12-10 | 2022-04-21 |
 | [Immortal](https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv) | 4:08 | 2023-01-30 |  |
@@ -201,6 +201,7 @@
 | [One More Time](https://open.spotify.com/track/7isayXQEPtwsmuAqq7tZoM) | [Finnet](https://open.spotify.com/artist/083SNs2t2ngrAeHw1M8sPw), [Stay up Late](https://open.spotify.com/artist/5iOsQV7xht5LcNOqxkTFw0) | [One More Time](https://open.spotify.com/album/4J2xMk08UWQ6Rp8OjyRTF1) | 2:55 | 2021-12-10 | 2022-06-24 |
 | [Our Fire](https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Onyx](https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97) | 4:19 | 2022-01-18 |  |
 | [Out Of My Head](https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Thrashout](https://open.spotify.com/artist/06gQPVgdmLJUAo4HdW8oLy) | [Out Of My Head](https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ) | 2:43 | 2022-06-24 |  |
+| [Out Of Options \(feat\. midwxst\)](https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Out Of Options \(feat\. midwxst\)](https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV) | 2:36 | 2023-05-12 |  |
 | [Pain Killer](https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:32 | 2022-06-24 |  |
 | [Pain Killer](https://open.spotify.com/track/5eIAOdzmt3Nxd7XDFzek9U) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Pain Killer](https://open.spotify.com/album/23wL0znsNvRZ2TPT2Hh6YK) | 3:32 | 2021-12-10 | 2022-07-29 |
 | [Paper Thin](https://open.spotify.com/track/7c2IApOeLTZfrB5dVScRUP) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom DeLonge](https://open.spotify.com/artist/5h7oZ7t5CU9lst1mIrjp3R), [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Paper Thin](https://open.spotify.com/album/1URt4b8uzVuqXU7R9H4EXA) | 3:17 | 2021-12-10 | 2023-03-04 |

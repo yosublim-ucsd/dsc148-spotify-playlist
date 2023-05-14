@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best Fresh Finds tracks from around the world this year\. Cover: Katherine Li \#SpotifyWrapped
 
-83 songs - 4 hr 28 min
+84 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Open \- Remix](https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Open \(Remix\)](https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C) | 3:28 | 2023-01-18 |  |
 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2023-01-18 |  |
 | [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 | 2023-01-18 |  |
-| [Post Nut Clarity](https://open.spotify.com/track/5x8iG69NpBmQZAILYYPtha) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/1f4vL67T8K1M0ZdQN5gOpO) | 1:53 | 2023-01-18 |  |
+| [Post Nut Clarity](https://open.spotify.com/track/0x4OOb9FGytaKhWbZv2PzM) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/39h4yFYVKjRcrPtI1h46Fy) | 1:53 | 2023-01-18 |  |
+| [Post Nut Clarity](https://open.spotify.com/track/5x8iG69NpBmQZAILYYPtha) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/1f4vL67T8K1M0ZdQN5gOpO) | 1:53 | 2023-01-18 | 2023-05-14 |
 | [Post Nut Clarity](https://open.spotify.com/track/6ZqYNVWAseR8ySw7oR8eId) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/43pHwudMD8sBnNart82tfO) | 1:53 | 2023-01-18 | 2023-02-17 |
 | [R0C3](https://open.spotify.com/track/7ypfiRbfysMyijThXfG6on) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [R0C3](https://open.spotify.com/album/1Ho1bXQnQWKM6CELfcMR0X) | 2:10 | 2023-01-18 |  |
 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 | 2023-01-18 |  |

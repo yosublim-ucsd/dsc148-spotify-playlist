@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 
 > For those whose year was full of angst and anger \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,414 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,630 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 | 38 | [debbie downer](https://open.spotify.com/track/1qLJumn3KJfEmvSifyjtfc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:39 |
 | 39 | [Oxygen](https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:10 |
 | 40 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 |
-| 41 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 |
+| 41 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
 | 42 | [just wanna rock \- Sped Up Version](https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [just wanna rock \(Lil Uzi Vert\) \[Sped Up Version\]](https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji) | 1:40 |
 | 43 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
 | 44 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 | 49 | [Doritos & Fritos](https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:16 |
 | 50 | [Cbat](https://open.spotify.com/track/1JGGsCZ9zhgPJIsPy0pwt9) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Satin Panthers](https://open.spotify.com/album/7uKK7YRySFa1cXI5ICijFW) | 2:51 |
 
-Snapshot ID: `MCxkNzk0NTIyYTNmZGRmYjlkY2U0YzBhODgwMmQ5MTE5MTcxZDhkNmUw`
+Snapshot ID: `MCxhOTY5Y2ZiNWEyZTMzZmUxNWM1ZThlMzI5NjhjOGQ1OWNhMTUwZjMy`

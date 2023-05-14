@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring James Hype.
 
-554 songs - 1 day 10 hr 43 min
+555 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Free Yourself \- Paul Woolford Remix](https://open.spotify.com/track/6HakCt8rCQejqqoB3RKj4Y) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Free Yourself \(Paul Woolford Remix\)](https://open.spotify.com/album/4eSdCOymBMoeuqHH1V6yeL) | 3:01 | 2022-08-12 | 2022-09-17 |
 | [Freedom \(You Bring Me\)](https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Freedom \(You Bring Me\)](https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP) | 3:08 | 2021-07-25 | 2022-07-29 |
 | [Friends](https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Friends](https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w) | 2:27 | 2023-03-31 |  |
+| [Friends](https://open.spotify.com/track/4kwbbhuemSkRWvtN5dkWmb) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Friends](https://open.spotify.com/album/7ebm9IP2zYl77waFn1r5Xl) | 2:37 | 2023-05-12 |  |
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-01-14 | 2022-07-25 |
 | [German Fall](https://open.spotify.com/track/6ja7vQ6mi5B4ino7LucXKk) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Seasons](https://open.spotify.com/album/4nTMSRO2Ioe0sn7ETzfrxo) | 7:12 | 2021-12-17 | 2022-06-19 |
 | [Get Down](https://open.spotify.com/track/5X0xPDFHNQc3FX4ZSXht0P) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Maui](https://open.spotify.com/artist/2BlkvS9gorfA8g1p9rAcXk), [Terri B!](https://open.spotify.com/artist/6eke2ECTHhJgqVsArc8t5z) | [Get Down](https://open.spotify.com/album/2QppzjWG87Ptjc8eMY2suh) | 3:26 | 2022-03-28 | 2022-04-16 |
@@ -481,7 +482,7 @@
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-09-26 | 2023-04-09 |
 | [Tell You What It Is](https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is](https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu) | 3:07 | 2022-05-27 | 2022-09-17 |
 | [Temptation](https://open.spotify.com/track/3MqzqG6fij34pDxd29mikA) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Temptation](https://open.spotify.com/album/46ylD5cDHV4oEUA5nfSa3t) | 3:12 | 2021-03-27\* | 2022-07-29 |
-| [Temptation](https://open.spotify.com/track/5UkoWcFsdWn8NtSAh73Vli) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Temptation](https://open.spotify.com/album/3xxhyf3KiklWpiPbtiUizi) | 3:12 | 2022-05-27 |  |
+| [Temptation](https://open.spotify.com/track/5UkoWcFsdWn8NtSAh73Vli) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Temptation](https://open.spotify.com/album/3xxhyf3KiklWpiPbtiUizi) | 3:12 | 2022-05-27 | 2023-05-14 |
 | [The Calling](https://open.spotify.com/track/4ANmPUsA3LAvOSP8xen6Vt) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Calling](https://open.spotify.com/album/0Zq4pT3WEPhlGjaerScLLY) | 3:17 | 2022-05-27 | 2023-05-13 |
 | [The Chant](https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [The Chant](https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb) | 3:06 | 2021-04-03 | 2022-07-23 |
 | [The Darkness That You Fear \- The Blessed Madonna Remix](https://open.spotify.com/track/35FGcyIC9Pai3BxcJJYTNk) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [The Darkness That You Fear \(The Blessed Madonna Remix\)](https://open.spotify.com/album/79eRDC0vTIE3cdBJ2YEUYW) | 6:19 | 2021-06-27 | 2022-04-21 |

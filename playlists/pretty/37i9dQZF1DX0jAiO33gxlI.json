@@ -1,12 +1,12 @@
 {
   "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Coruja Bc1, Mc Luanna, Febem",
-  "num_followers": 223849,
+  "num_followers": 223873,
   "original_name": "Presen\u00e7a Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmRkNWJhNTliNzQxMjQ0NTdmYTAzOTYxMzk1NTNmYmI2OGY5MTYy",
+  "snapshot_id": "MCw1MTNiMzdjZjE4NzljMDVkMjQzZDc2YmVkZTQxNjVhOGUyMDFiNjNm",
   "tracks": [
     {
       "added_at": "2023-05-12 03:01:00",
@@ -276,12 +276,12 @@
       },
       "artists": [
         {
-          "name": "Babidi",
-          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
-        },
-        {
           "name": "Drako",
           "url": "https://open.spotify.com/artist/0t8ncMSqGZOIly3U2hlbMp"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
         }
       ],
       "duration_ms": 154160,

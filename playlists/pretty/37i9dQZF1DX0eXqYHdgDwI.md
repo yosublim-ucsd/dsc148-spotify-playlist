@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 
 > canzoni su cui piangere 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,960 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,997 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 7 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 |
 | 8 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 |
 | 9 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
-| 10 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
-| 11 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
-| 12 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
+| 10 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
+| 11 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
+| 12 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 13 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
 | 14 | [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 |
 | 15 | [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 52 | [Wish I Was Better](https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Wish I Was Better](https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr) | 2:20 |
 | 53 | [What They'll Say About Us](https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:01 |
 | 54 | [if this is the last time](https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:23 |
-| 55 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 |
-| 56 | [Outnumbered \- Acoustic](https://open.spotify.com/track/7FCdJdGEOBCHqZAYRoZAWV) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Outnumbered \(Acoustic\)](https://open.spotify.com/album/4nk0xj3tr6st2yzimGINin) | 3:54 |
-| 57 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
-| 58 | [Let Her Go \- Acoustic](https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF) | 4:26 |
-| 59 | [Creep](https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Creep](https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF) | 4:37 |
-| 60 | [Like Everybody Else \- Acoustic](https://open.spotify.com/track/4cRVPfsnX1r3S3GzXRy2wt) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Like Everybody Else \(Acoustic\)](https://open.spotify.com/album/0usdDFkfTwgtgdFKUjeuS8) | 3:14 |
+| 55 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 |
+| 56 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 |
+| 57 | [Outnumbered \- Acoustic](https://open.spotify.com/track/7FCdJdGEOBCHqZAYRoZAWV) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Outnumbered \(Acoustic\)](https://open.spotify.com/album/4nk0xj3tr6st2yzimGINin) | 3:54 |
+| 58 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
+| 59 | [Let Her Go \- Acoustic](https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF) | 4:26 |
+| 60 | [Creep](https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Creep](https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF) | 4:37 |
 
-Snapshot ID: `MCw0NDJhNTIxZjdkNGFiMTM5NmViZDE3ZTMyNzIxYmVkYjMyYmZiZjQ2`
+Snapshot ID: `MCxjZDM5YmEzZDIwNWY3ZjgyZDNlZDE5OTNlODgwYmIwZWE2ZjVmOTM1`

@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: blink-182",
-  "num_followers": 56644,
+  "num_followers": 56664,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjMwMGIwYTIwYzRiMTM0Y2QwODEzYzI2ODE0MTllODU0MjhlYTNl",
+  "snapshot_id": "MCw0ZTI2MjYwYmU0YzRkZmJmOTI1ZTgyZTQ5NmJlMjRhZDMyM2E0NjA5",
   "tracks": [
     {
       "added_at": "2023-04-21 13:55:20",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 309053,
-      "name": "The Adults Are Talking",
-      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Sempiternal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 228146,
       "name": "Can You Feel My Heart",
       "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 309053,
+      "name": "The Adults Are Talking",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
         "name": "LIVING THINGS",
         "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
@@ -387,18 +403,18 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+        "name": "Mirrorball / Mind Over Matter (Reprise)",
+        "url": "https://open.spotify.com/album/2Xp4fbuZF8UNC3b774j7zE"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
         }
       ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
+      "duration_ms": 230866,
+      "name": "Mind Over Matter (Reprise)",
+      "url": "https://open.spotify.com/track/77KnJc8o5G1eKVwX5ywMeZ"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -415,22 +431,6 @@
       "duration_ms": 259093,
       "name": "Sail",
       "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
-        "name": "Mirrorball / Mind Over Matter (Reprise)",
-        "url": "https://open.spotify.com/album/2Xp4fbuZF8UNC3b774j7zE"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "Mind Over Matter (Reprise)",
-      "url": "https://open.spotify.com/track/77KnJc8o5G1eKVwX5ywMeZ"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "The End Is Where We Begin",
-        "url": "https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn"
-      },
-      "artists": [
-        {
-          "name": "Thousand Foot Krutch",
-          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
-        }
-      ],
-      "duration_ms": 236898,
-      "name": "Courtesy Call",
-      "url": "https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 195747,
       "name": "sTraNgeRs",
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "The End Is Where We Begin",
+        "url": "https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        }
+      ],
+      "duration_ms": 236898,
+      "name": "Courtesy Call",
+      "url": "https://open.spotify.com/track/0AOmbw8AwDnwXhHC3OhdVB"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 145147,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Servant Of The Mind (Deluxe)",
         "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 267826,
       "name": "Shotgun Blues",
       "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 145147,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Mechanical Bull (Expanded Edition)",
         "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 210133,
       "name": "Wait for Me",
       "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
         "name": "Lightning Bolt",
         "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Lux \u00c6terna",
-      "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
     },
     {
       "added_at": "2023-04-21 13:55:20",

@@ -4,7 +4,7 @@
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-147 songs - 9 hr 20 min
+148 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 | 2021-12-15 |  |
 | [Halcyon Days](https://open.spotify.com/track/7sFg1mQSgQMicsQtDNvjhD) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Halcyon Days](https://open.spotify.com/album/2hlMvvoBnaXybXY2qxxx8k) | 3:08 | 2021-12-15 | 2022-11-13 |
 | [Happy Birthday, Baby](https://open.spotify.com/track/0lPhxCOJ4RrJL8gzfFEdcf) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 3:45 | 2021-12-15 | 2022-07-28 |
-| [Happy Birthday, Baby](https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:45 | 2021-12-15 |  |
+| [Happy Birthday, Baby](https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:45 | 2021-12-15 | 2023-05-14 |
 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 | 2021-12-15 |  |
 | [Hermosa Drive](https://open.spotify.com/track/6WysaBBSPIpoVPCbF4Rys4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hermosa Drive](https://open.spotify.com/album/1W9chSfuRIMlDR9h1KLeO7) | 3:54 | 2022-10-14 |  |
 | [Highways](https://open.spotify.com/track/0lv8vzoworXjrezBYz912U) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:51 | 2021-12-15 |  |
@@ -129,6 +129,7 @@
 | [Thunderbird](https://open.spotify.com/track/36gUdwmMhZXcwOSaUkTPty) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:28 | 2022-10-28 |  |
 | [Toshiba Sky](https://open.spotify.com/track/0BAmbyXYoRTP0Pf9SkPUjr) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/54g5o5xaRVed25fqwz7QEO) | 3:16 | 2021-12-15 | 2023-04-30 |
 | [Toshiba Sky](https://open.spotify.com/track/2xmNUTjFh6DeZIXgc6CfU1) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/1THPaJ3KhIRPBpAvCaG163) | 3:16 | 2021-12-15 | 2022-07-29 |
+| [Toshiba Sky](https://open.spotify.com/track/72LxGUlBbiJIAnUGXBPNAv) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/1mpy274fg96Cu5cvhNStzh) | 3:16 | 2023-05-12 |  |
 | [Turn on the Dark](https://open.spotify.com/track/4w3onFNS34k4XqMEBdlCt8) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Turn on the Dark](https://open.spotify.com/album/6ifEePgVw8lxcOpH6InUvz) | 4:22 | 2021-12-15 | 2022-07-29 |
 | [Turn on the Dark](https://open.spotify.com/track/5HV810LjKwzNg61eHL0RzH) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Home on the Rage](https://open.spotify.com/album/4O4dpDZFNMWRSaJaUZcDTm) | 4:22 | 2021-12-15 | 2022-11-01 |
 | [Turn on the Dark](https://open.spotify.com/track/5KMFDh9PK8ubrWtnpDefG1) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Home on the Rage](https://open.spotify.com/album/4pZPvj5V4jfJLzPZ63LWvg) | 4:22 | 2023-03-28 |  |

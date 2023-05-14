@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,991 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,976 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 2 | [Holly Jolly Christmas](https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 1:59 |
 | 3 | [Deck The Halls](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 |
 | 4 | [Happy Holiday / The Holiday Season](https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:36 |
-| 5 | [Diddly Squat](https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:05 |
-| 6 | [Skating](https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Definitive Vince Guaraldi](https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d) | 2:24 |
+| 5 | [Skating](https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Definitive Vince Guaraldi](https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d) | 2:24 |
+| 6 | [Diddly Squat](https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:05 |
 | 7 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/4QFV8KtVhzDsDvNcH4sUkr) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:18 |
 | 8 | [Warm In December](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |
 | 9 | ['Zat You, Santa Claus? \- Single Version](https://open.spotify.com/track/4Kh0X8pMk2yIFf4jnGXrTZ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:49 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 36 | [Christmas Night In Harlem \- Single Version](https://open.spotify.com/track/7vev9Pk7OHfsrhn4eH6BWF) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:39 |
 | 37 | [Show Me The Magic](https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Show Me The Magic](https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq) | 2:30 |
 | 38 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Sonny Parker](https://open.spotify.com/artist/70RwoGWutTm2ztdpEBmwdv) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:42 |
-| 39 | [The Very Best Day This Year](https://open.spotify.com/track/4tS8ySaehAjC9hd54xCesZ) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Mark Armstrong](https://open.spotify.com/artist/2heBrCXNrnKh0sOfaaThiy), [Steve Memmolo](https://open.spotify.com/artist/316EMLib9M7s8r6hxFnBtv) | [The Season's Back Again](https://open.spotify.com/album/1TFxAeGNb72icOOpa5jxHE) | 2:56 |
-| 40 | [Poppa Santa Claus](https://open.spotify.com/track/6xF6R6029v5XsSL0yFFW2X) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Their Complete Recordings Together](https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7) | 3:13 |
+| 39 | [Poppa Santa Claus](https://open.spotify.com/track/6xF6R6029v5XsSL0yFFW2X) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Their Complete Recordings Together](https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7) | 3:13 |
+| 40 | [The Very Best Day This Year](https://open.spotify.com/track/4tS8ySaehAjC9hd54xCesZ) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Mark Armstrong](https://open.spotify.com/artist/2heBrCXNrnKh0sOfaaThiy), [Steve Memmolo](https://open.spotify.com/artist/316EMLib9M7s8r6hxFnBtv) | [The Season's Back Again](https://open.spotify.com/album/1TFxAeGNb72icOOpa5jxHE) | 2:56 |
 | 41 | [Mr\. Christmas](https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B) | 3:36 |
 | 42 | [Mele Kalikimaka](https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:33 |
 | 43 | [Little Saint Nick](https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Little Saint Nick](https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw) | 3:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [Santa Claus Got Stuck \(In My Chimney\)](https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Complete Decca Singles Vol\. 4: 1950\-1955](https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM) | 3:09 |
 | 70 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
 
-Snapshot ID: `MCxlODhjYTZkY2VlZDFiYjM4M2IyYmQ1ZTk3ZDViODI4NjU5YWEyMTIx`
+Snapshot ID: `MCwyOWNhOWZkNTUxN2Y0NTUxZjA0Nzk1MjJhZDJhMTdlZWZjZjA3MmRj`

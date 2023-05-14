@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100 % ska latinoamericano\. Los Caligaris en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,621 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,723 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 68 | [La Caída y la Gloria](https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 2:17 |
 | 69 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
 | 70 | [Qué Vas a Hacer Conmigo](https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Supersonico](https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz) | 3:26 |
-| 71 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 |
-| 72 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
+| 71 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
+| 72 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 |
 | 73 | [Recuerdos](https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Mugre](https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835) | 3:42 |
 | 74 | [Criminales Sudamericanos](https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Antihéroes](https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd) | 3:19 |
 | 75 | [Sueños](https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Sound System](https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Esta Noche](https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc) | 3:25 |
 | 100 | [Pánico](https://open.spotify.com/track/7Kc2F4G4fuYUdDFqrKPqqj) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Kung Fu Monkeys](https://open.spotify.com/artist/15Yhd7Hu91iZ1pfb9gegDf) | [A2í 5uena!, Vol 1](https://open.spotify.com/album/32IXwoxYqeTDQSZd2H9PIS) | 4:05 |
 
-Snapshot ID: `MCxhMzkzNTY3ZDNjMjkzZmI4NTAzYWVmOGVhNWZiYWQzZGYyNDc0M2Vm`
+Snapshot ID: `MCxjOTY5ZDk4M2ZkNjE3ZTAyZjAxMjA0ZjA2MGIwOWU0MjdiYTEwYTcy`

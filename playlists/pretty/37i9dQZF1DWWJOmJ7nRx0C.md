@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Asking Alexandria
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,152 likes - 151 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,335 likes - 151 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 147 | [Hell Finds You Everywhere \(feat\. Noah Sebastian\)](https://open.spotify.com/track/6EfGrYJ8Kw4xuNRd7UzQA3) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN), [Noah Sebastian](https://open.spotify.com/artist/3w0i7biKO0q6DGVXCKzhj9) | [Hell Finds You Everywhere](https://open.spotify.com/album/4MF4pjJyipArWvVHiPSSVl) | 3:24 |
 | 148 | [Carousel](https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Carousel](https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o) | 3:05 |
 | 149 | [The Worst Kind](https://open.spotify.com/track/68NsFKEslaIX8YsNv0msDL) | [Shallow Side](https://open.spotify.com/artist/4i4Ra7cGv6zxiRtRSrhm1I) | [The Worst Kind](https://open.spotify.com/album/4OzYla5HjGa9PRBW2n3bAd) | 3:24 |
-| 150 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 |
+| 150 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
 | 151 | [One More Day](https://open.spotify.com/track/4x9A6Ymy2u6FfoE4ba4iP3) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 4:28 |
 
-Snapshot ID: `MCwxMWE1NDMxNWI2ZmMxOTE0YTUwMTY4ZjQ1MWMyYmFkZWE0NTkzMzZj`
+Snapshot ID: `MCw0YWViYjg3Y2E4Yjc4M2UyMzg5OTE4Njk1MWViNTllMWY1OWExNTRh`

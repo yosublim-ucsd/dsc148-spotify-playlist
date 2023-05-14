@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Juan Pablo Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,056 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,054 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 17 | [Ojos de Cielo](https://open.spotify.com/track/1HKzWPetJfzkgAHmnZdV4z) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Ojos de Cielo](https://open.spotify.com/album/44la6aUgTeYz3yZ4zzt1f3) | 3:56 |
 | 18 | [Dime Quién Te Crees](https://open.spotify.com/track/2X3ExwVJneq6ZBgQ5RYttn) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Dime Quién Te Crees](https://open.spotify.com/album/40ekzsY4RSZwUBflHazKMO) | 3:54 |
 | 19 | [Nube Negra](https://open.spotify.com/track/3ZeKDpDvthhspRGiosXkIQ) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Nube Negra](https://open.spotify.com/album/1hfFHStwTqvGuaERkgjyka) | 3:05 |
-| 20 | [Insurgentes](https://open.spotify.com/track/51fZQgHPcn6IZVxkzaYtwd) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/2KAixjSEqmUfFSydwMjcqo) | 2:11 |
+| 20 | [Insurgentes](https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h) | 2:11 |
 | 21 | [mujer especial](https://open.spotify.com/track/2yPr4Kant3QT2XB6WoaiML) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [mujer especial](https://open.spotify.com/album/1kcd7864unT0On5KdEbjm3) | 2:06 |
 | 22 | [Serpiente](https://open.spotify.com/track/3SwIQLdc5lHUOPtrMeWR12) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Serpiente](https://open.spotify.com/album/5lK69LFTJhA6lakZaWLD1h) | 3:25 |
 | 23 | [Flor de cempasúchil](https://open.spotify.com/track/4KIdlhcRYcuiHZ3rbiguhF) | [Landabur](https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF), [Lucía Covarrubias](https://open.spotify.com/artist/1PkahVFP71A6sk6Ww0ZSi1) | [Flor de cempasúchil](https://open.spotify.com/album/3pGfVBixybp8CFSpwXtHtg) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [La Monogamia](https://open.spotify.com/track/2Q4ysVnSa2XtoDN1i0ch5v) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML), [Celia Becks](https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1) | [La Monogamia](https://open.spotify.com/album/4P15qCuwHfsvrK2CZbR5r2) | 3:57 |
 | 50 | [Que Venís](https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u) | [Juli Gervasoni](https://open.spotify.com/artist/70QkZI7RFWVIDcRG69SdYb), [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Que Venís](https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2) | 3:50 |
 
-Snapshot ID: `MCwzMGJkZGZjYjA5OGRiMTM5ZmE1OTY2ZmEzZWY3ZTU2Mzg4YWNlYmI5`
+Snapshot ID: `MCw1MzA0MWVjMzM3YTkxMGIxYjI5NGViM2Y1NzAzZjgzMTIxYjkwYmQw`

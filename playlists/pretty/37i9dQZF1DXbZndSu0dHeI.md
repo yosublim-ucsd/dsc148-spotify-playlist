@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Sometimes it's nice to be nice, you know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,852 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,898 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 16 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
 | 17 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
 | 18 | [Call Me When You Land](https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Call Me When You Land](https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D) | 4:47 |
-| 19 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
-| 20 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
+| 19 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
+| 20 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
 | 21 | [honey](https://open.spotify.com/track/6pXe0HxGT1xufKGhZYqweC) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:14 |
 | 22 | [Anyone Else But You](https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy) | [The Moldy Peaches](https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU) | [The Moldy Peaches](https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236) | 3:00 |
 | 23 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
 | 24 | [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 |
 | 25 | [Secrets from a Girl \(Who's Seen it All\)](https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:38 |
-| 26 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
-| 27 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 |
+| 26 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 |
+| 27 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
 | 28 | [Deep In Love](https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 5:09 |
 | 29 | [Birdcage](https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:22 |
 | 30 | [When U Love Somebody](https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Mouthfuls](https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2) | 4:31 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 55 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
 | 56 | [Intertwined](https://open.spotify.com/track/5fML9iqXgkXu7hUOYlE1aB) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju) | 2:41 |
 | 57 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
-| 58 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
-| 59 | [Wild Side](https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:55 |
+| 58 | [Wild Side](https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:55 |
+| 59 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
 | 60 | [Hallelujah](https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 3:20 |
 | 61 | [So My Darling](https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling](https://open.spotify.com/album/1U269hAxxYxkknYfpeCVku) | 4:29 |
 | 62 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz) | 4:37 |
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 65 | [supposed to](https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [supposed to](https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU) | 2:54 |
 | 66 | [Static](https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M) | 3:55 |
 | 67 | [More Like You](https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:40 |
-| 68 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
-| 69 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
+| 68 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
+| 69 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
 | 70 | [All My Little Words](https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:46 |
-| 71 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
-| 72 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
-| 73 | [Something To Talk About](https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [About A Boy Soundtrack](https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx) | 3:40 |
+| 71 | [Something To Talk About](https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [About A Boy Soundtrack](https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx) | 3:40 |
+| 72 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
+| 73 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
 | 74 | [Sorry I Am](https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 4:01 |
 | 75 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 |
 | 76 | [The Boy With The Arab Strap](https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With The Arab Strap](https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7) | 5:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 79 | [Far Out](https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:18 |
 | 80 | [French Navy](https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg) | 3:18 |
 
-Snapshot ID: `MCw5NmFiNWQwOTcwNTE1ZGY1ODE0Y2RhMDUxMmRiNDIyYzJjNzYyYTVm`
+Snapshot ID: `MCw0MGY2MjYyYmI1MTYwYjgyZGQ1NWYzZDYzNmFiODVmY2ZlN2Q5YjQy`

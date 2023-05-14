@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,982 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,987 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 20 | [Sl\*t Him Out](https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 2:52 |
 | 21 | [Change Your Life \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:11 |
 | 22 | [Waiting For \(feat\. Jamila Woods\)](https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:20 |
-| 23 | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly) | 2:18 |
-| 24 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 |
+| 23 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 |
+| 24 | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly) | 2:18 |
 | 25 | [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 |
 | 26 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 |
 | 27 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 46 | [Back Together](https://open.spotify.com/track/1KoXAHzunI8OY34GwmnIQV) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Back Together](https://open.spotify.com/album/5aW4rl6oNbpoL0LwteyYNH) | 4:09 |
 | 47 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
 | 48 | [Little Deer](https://open.spotify.com/track/7GkNvyhBawJGjNkmKsyQjP) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [The Turning Wheel](https://open.spotify.com/album/5Dqqrr1dhaZ3BcFthVUCj2) | 5:39 |
-| 49 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 |
-| 50 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 |
+| 49 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 |
+| 50 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 |
 
-Snapshot ID: `MCw5ZThlNTRiMWFkYTFkYTk4MDBhMDQyNDdjODNiNzNhMzkzNTZkYzRm`
+Snapshot ID: `MCw4ZTMyNmU4OGQxOWM2ZjUzMDY0YTkyNmNhNzY5MjM2NmU0MjNmZThk`

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal",
-  "num_followers": 66180,
+  "num_followers": 66211,
   "original_name": "Mariachi 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjZlYmI4MjgzYmUxYzBiN2IwMjQ1NWU0OWNhNWEwOTlhMzc3YzVi",
+  "snapshot_id": "MCxiYzUzZGI1YTg2MWJhZmU1YTZlOGFiOGIzZTJlZTc4OWIxMGU3ODk2",
   "tracks": [
     {
       "added_at": "2023-05-01 17:02:47",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
-        "name": "No Creo Merecerte",
-        "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "No Creo Merecerte",
-      "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
-    },
-    {
-      "added_at": "2023-05-01 17:02:47",
-      "album": {
         "name": "Prohibido",
         "url": "https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 188826,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf"
+    },
+    {
+      "added_at": "2023-05-01 17:02:47",
+      "album": {
+        "name": "No Creo Merecerte",
+        "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "No Creo Merecerte",
+      "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
     },
     {
       "added_at": "2023-05-01 17:02:47",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
-        "name": "Vali\u00f3 La Pena Con Mariachi",
-        "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Duele Estar Vivo",
-      "url": "https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0"
-    },
-    {
-      "added_at": "2023-05-01 17:02:47",
-      "album": {
         "name": "Paloma Blanca",
         "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 180989,
       "name": "Ve Y Dile",
       "url": "https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON"
+    },
+    {
+      "added_at": "2023-05-01 17:02:47",
+      "album": {
+        "name": "Vali\u00f3 La Pena Con Mariachi",
+        "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Duele Estar Vivo",
+      "url": "https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0"
     },
     {
       "added_at": "2023-05-01 17:02:47",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
-        "name": "Ya Es Suficiente",
-        "url": "https://open.spotify.com/album/5Rd0mR4ErR1V7Seq9D3ELT"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 182044,
-      "name": "Ya Es Suficiente",
-      "url": "https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5"
-    },
-    {
-      "added_at": "2023-05-01 17:02:47",
-      "album": {
         "name": "En Tu Sonrisa",
         "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 181466,
       "name": "En Tu Sonrisa",
       "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
+    },
+    {
+      "added_at": "2023-05-01 17:02:47",
+      "album": {
+        "name": "Ya Es Suficiente",
+        "url": "https://open.spotify.com/album/5Rd0mR4ErR1V7Seq9D3ELT"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 182044,
+      "name": "Ya Es Suficiente",
+      "url": "https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5"
     },
     {
       "added_at": "2023-05-01 17:02:47",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
+        "name": "No Me Hace Falta Nada",
+        "url": "https://open.spotify.com/album/72gV9k0jtquTeAUzHvvIE1"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 193841,
+      "name": "No Me Hace Falta Nada",
+      "url": "https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE"
+    },
+    {
+      "added_at": "2023-05-01 17:02:47",
+      "album": {
         "name": "Chuladas Del Alma",
         "url": "https://open.spotify.com/album/3PfxvQzZa81oXmrceghQTr"
       },
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
-        "name": "No Me Hace Falta Nada",
-        "url": "https://open.spotify.com/album/72gV9k0jtquTeAUzHvvIE1"
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
       "artists": [
         {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 193841,
-      "name": "No Me Hace Falta Nada",
-      "url": "https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE"
+      "duration_ms": 140662,
+      "name": "Pinocho",
+      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
     },
     {
       "added_at": "2023-05-01 17:02:47",
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 140662,
-      "name": "Pinocho",
-      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
-    },
-    {
-      "added_at": "2023-05-01 17:02:47",
-      "album": {
         "name": "A Escondidas",
         "url": "https://open.spotify.com/album/0eopjOoHMQwmmx1dbz3hSE"
       },
@@ -1667,22 +1667,6 @@
       "duration_ms": 201288,
       "name": "A Escondidas",
       "url": "https://open.spotify.com/track/094KjPaocLCA5XasI5vpHq"
-    },
-    {
-      "added_at": "2023-05-01 17:02:47",
-      "album": {
-        "name": "La Muerte",
-        "url": "https://open.spotify.com/album/1kXogJjit1w6TYkm7Thclz"
-      },
-      "artists": [
-        {
-          "name": "Miguel\u00f3n Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/5eTHk7xdW6Jf6RSEennGnz"
-        }
-      ],
-      "duration_ms": 138818,
-      "name": "La Muerte",
-      "url": "https://open.spotify.com/track/57r6aaVaCxnOL9ntFEYySS"
     },
     {
       "added_at": "2023-05-01 17:02:47",
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2023-05-01 17:02:47",
       "album": {
+        "name": "La Muerte",
+        "url": "https://open.spotify.com/album/1kXogJjit1w6TYkm7Thclz"
+      },
+      "artists": [
+        {
+          "name": "Miguel\u00f3n Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/5eTHk7xdW6Jf6RSEennGnz"
+        }
+      ],
+      "duration_ms": 138818,
+      "name": "La Muerte",
+      "url": "https://open.spotify.com/track/57r6aaVaCxnOL9ntFEYySS"
+    },
+    {
+      "added_at": "2023-05-01 17:02:47",
+      "album": {
         "name": "Imborrable",
         "url": "https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY"
       },
@@ -1715,6 +1715,22 @@
       "duration_ms": 192066,
       "name": "Imborrable",
       "url": "https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce"
+    },
+    {
+      "added_at": "2023-05-01 17:02:47",
+      "album": {
+        "name": "Ser\u00e9",
+        "url": "https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 163433,
+      "name": "Ser\u00e9",
+      "url": "https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2"
     },
     {
       "added_at": "2023-05-01 17:02:47",
@@ -1747,22 +1763,6 @@
       "duration_ms": 214071,
       "name": "Mi Reflejo",
       "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
-    },
-    {
-      "added_at": "2023-05-01 17:02:47",
-      "album": {
-        "name": "Ser\u00e9",
-        "url": "https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 163433,
-      "name": "Ser\u00e9",
-      "url": "https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2"
     },
     {
       "added_at": "2023-05-01 17:02:47",

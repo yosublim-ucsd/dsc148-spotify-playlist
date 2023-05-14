@@ -4,7 +4,7 @@
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 7 min
+55 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Seeing Eye Dog](https://open.spotify.com/track/6RvQs3xkobVzjsfKX3278z) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:03 | 2022-11-17 | 2023-05-04 |
 | [Sinatra](https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 4:23 | 2022-11-17 |  |
 | [Smart](https://open.spotify.com/track/1QqWa8cgSu2rrmm3o3sJ6l) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:44 | 2022-11-17 |  |
+| [So Long](https://open.spotify.com/track/3gAYxWLhMHIsrflpKmyC4F) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/59dAspZDf4LjLpQ4OKVVz4) | 3:12 | 2023-05-13 |  |
 | [So Long](https://open.spotify.com/track/4VP7mWCin77GP9PVGzaSUX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:12 | 2022-11-17 | 2023-05-12 |
 | [Speechless](https://open.spotify.com/track/2GN8Femwt83EIwInIuQj33) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 2:58 | 2022-11-17 |  |
 | [Swallowing Everything](https://open.spotify.com/track/7fdCDdBypKbgiHatHUXmcM) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:54 | 2022-11-17 | 2023-03-13 |

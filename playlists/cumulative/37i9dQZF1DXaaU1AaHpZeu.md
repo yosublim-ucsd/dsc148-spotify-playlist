@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. En portada: Juan Pablo Vega
 
-2,276 songs - 5 day 7 hr 55 min
+2,277 songs - 5 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -941,7 +941,8 @@
 | [Inmortales / Jenny la del Barrio \- Tigre Den Session](https://open.spotify.com/track/0mp6LPc8ERjwt2MeBTiyWf) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Inmortales / Jenny la del Barrio \(Tigre Den Session\)](https://open.spotify.com/album/0MEe602MNtZjU4p4eYAHQi) | 4:51 | 2023-03-03 | 2023-03-11 |
 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 | 2022-12-09 | 2022-12-24 |
 | [Instintos Animales](https://open.spotify.com/track/1aZReheYIMalvxMShvPzvg) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Fierrro](https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i) | 4:26 | 2022-05-27 | 2022-06-11 |
-| [Insurgentes](https://open.spotify.com/track/51fZQgHPcn6IZVxkzaYtwd) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/2KAixjSEqmUfFSydwMjcqo) | 2:11 | 2023-05-12 |  |
+| [Insurgentes](https://open.spotify.com/track/51fZQgHPcn6IZVxkzaYtwd) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/2KAixjSEqmUfFSydwMjcqo) | 2:11 | 2023-05-12 | 2023-05-14 |
+| [Insurgentes](https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h) | 2:11 | 2023-05-12 |  |
 | [Intenciones](https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Intenciones](https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3) | 2:43 | 2022-09-09 | 2022-09-17 |
 | [intento 2: piénsalo bien](https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intento 2: piénsalo bien](https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47) | 3:44 | 2022-09-16 | 2022-09-24 |
 | [Inventar](https://open.spotify.com/track/77puljFXglT7MBdWQbNIZQ) | [José Vicentes](https://open.spotify.com/artist/1IjFBSOVrbTedyO0yIJg39) | [Inventar](https://open.spotify.com/album/1plfdtztYYMJbP8doxVywr) | 3:42 | 2023-03-24 | 2023-04-09 |

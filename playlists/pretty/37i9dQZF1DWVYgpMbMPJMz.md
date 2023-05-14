@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP?si=3d7f21346f7f410b">Amanda Cook</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 966,362 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,501 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [Let It Out \- Live](https://open.spotify.com/track/130Z8jENclLxJuOzXuAAXc) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Let The River Flow \(Live\)](https://open.spotify.com/album/6pauFB6htKQaTjyiHOhmK2) | 5:37 |
 | 100 | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/track/0CEaIQxIFxpvVsZqDIpkcz) | [Krissy Nordhoff](https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/album/46oRc7TlVThSB8eLUIEjLL) | 5:05 |
 
-Snapshot ID: `MCxkNzIxNjFiOTY0ZTE4MjcyMGFkYjU1YjRiNjlmYTI2ZWUwNjRmMTI3`
+Snapshot ID: `MCwyYzhmZjA5ZDYzNDcyMTk1YzhmYWVmYzc0MWQyZGJhMTcyOTFkZDFj`

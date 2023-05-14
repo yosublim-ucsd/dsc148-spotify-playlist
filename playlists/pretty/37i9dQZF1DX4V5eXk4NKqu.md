@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks right now, featuring León Larregui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,540 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,573 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,23 +46,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 36 | [Recuerdos Que Torturan](https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Recuerdos Que Torturan](https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L) | 3:30 |
 | 37 | [NO TE ALEJES](https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ) | 3:30 |
 | 38 | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/album/3cYcINLCZbHjgvuGgNxiFk) | 3:53 |
-| 39 | [Antes de Ti](https://open.spotify.com/track/69YoHCogS3aJwhf9ntlPvq) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:46 |
-| 40 | [Maybe Baby](https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe) | 3:47 |
+| 39 | [Maybe Baby](https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe) | 3:47 |
+| 40 | [Antes de Ti](https://open.spotify.com/track/69YoHCogS3aJwhf9ntlPvq) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:46 |
 | 41 | [A carta cabal](https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 4:29 |
 | 42 | [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 |
 | 43 | [Hacedora](https://open.spotify.com/track/3CaqjyISMBli311fJtv44h) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Hacedora](https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk) | 2:07 |
 | 44 | [444](https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [444/Ms\. Moon](https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z) | 2:50 |
 | 45 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
 | 46 | [LA RUTA NATURAL](https://open.spotify.com/track/1BAc6iqnXXilFBKDaxXpSY) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [LA RUTA NATURAL](https://open.spotify.com/album/3JgA2PPl6TmIWEC4C3f1sF) | 3:17 |
-| 47 | [Think of You](https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:18 |
-| 48 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 |
+| 47 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 |
+| 48 | [Think of You](https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:18 |
 | 49 | [Se Apagó](https://open.spotify.com/track/7w9UoMZ5Jk22dFdNHi7pBU) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Se Apagó](https://open.spotify.com/album/19wVnNE8bc13xCCRTVqECe) | 2:21 |
 | 50 | [Muerta de Frío](https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Muerta de Frío](https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY) | 4:18 |
 | 51 | [SUBCONSCIENTE](https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 |
 | 52 | [Máquina Del Tiempo](https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Máquina Del Tiempo](https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg) | 3:33 |
 | 53 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 |
-| 54 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 |
-| 55 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
+| 54 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
+| 55 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 |
 | 56 | [FRESH](https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MIMO](https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21) | 2:31 |
 | 57 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
 | 58 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 69 | [Funeral](https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Funeral](https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA) | 3:14 |
 | 70 | [Te Espero Aquí](https://open.spotify.com/track/5cTyKJd1pHOxTt8pt8hAi7) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM) | 4:11 |
 
-Snapshot ID: `MCw4OWI5ZjY2ZTZhYzljZDBiNzYwMzU0NDA2OTgxMDM5OWRiZTI2OWQ1`
+Snapshot ID: `MCwxODNhMTU0YzYwZDc2M2I0OTQ2NmM2ODc2NmY4NmIwYjZkODNmOTk3`

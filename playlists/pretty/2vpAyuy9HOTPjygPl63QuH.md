@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,960 likes - 29 songs - 1 hr 38 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,965 likes - 29 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 6 | [Hawt \- JADED Remix](https://open.spotify.com/track/11udJ5QypFmFDzHsf2jgoF) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Hawt \(JADED Remix\)](https://open.spotify.com/album/5kWj4oN2IaINH1AagjRz6n) | 2:48 |
 | 7 | [Breakout](https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Breakout](https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc) | 3:35 |
 | 8 | [Darcie](https://open.spotify.com/track/1hlYHbMgK3MUFJJHnHQ7Y4) | [Coinzy](https://open.spotify.com/artist/2RSHe5CHbtQySu9V9atPap) | [Darcie](https://open.spotify.com/album/54eprtSmW5NQenKb2p9lrh) | 5:28 |
-| 9 | [Gardenias](https://open.spotify.com/track/7qNKqt4pUkxVb58YAs5XzA) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Dos Gardenias](https://open.spotify.com/album/1yNfqvgX3JV7JoBZVtt5Qn) | 3:39 |
+| 9 | [Dos Gardenias](https://open.spotify.com/track/7qNKqt4pUkxVb58YAs5XzA) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Dos Gardenias](https://open.spotify.com/album/1yNfqvgX3JV7JoBZVtt5Qn) | 3:39 |
 | 10 | [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 |
 | 11 | [Glitch](https://open.spotify.com/track/0sTov9ww1527jTeEVMqnkH) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Glitch](https://open.spotify.com/album/2qe8Xkm0zesMie1YnIshzD) | 2:18 |
 | 12 | [How it is \- Subshift Remix](https://open.spotify.com/track/0Hfss4Bbjukqm44GRxsJvF) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Don Malaa – After Hours](https://open.spotify.com/album/2Cbwm5jHgXBW2KrKtGiCVY) | 4:51 |
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 18 | [That Body](https://open.spotify.com/track/6gc37uM96nHAu5zgibSjCR) | [Zurra](https://open.spotify.com/artist/2NqTMxpFwTe8BQlCCeiZPW) | [That Body](https://open.spotify.com/album/5PJLUZ211stuRqSny2V7g8) | 3:21 |
 | 19 | [Inferno \(feat\. Scorccio\)](https://open.spotify.com/track/3a4iD8kXESNUQ69DKT75OS) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Scorccio](https://open.spotify.com/artist/7uTD4BLn80TuHxNeIAspJc) | [Inferno \(feat\. Scorccio\)](https://open.spotify.com/album/0RwubAqdP2AmfEdVE5jfQ8) | 2:39 |
 | 20 | [Fired Up \- Kevin McKay Remix](https://open.spotify.com/track/5Al5MFaiF4rK794xIkFpAD) | [Jen Payne](https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq), [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Fired Up \(Kevin McKay Remix\)](https://open.spotify.com/album/69M7lByhZazIidQSxMoj6y) | 3:34 |
-| 21 | [The Function \- Radio Edit](https://open.spotify.com/track/6LmyUEqf0CKS0cEsL5Hlvo) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Sage Armstrong](https://open.spotify.com/artist/1cfwUSXEE2axXJGQfnfVFH) | [The Function \(Radio Edit\)](https://open.spotify.com/album/4oWN5dvjdwaoCJj7JWkbqV) | 2:50 |
+| 21 | [The Function](https://open.spotify.com/track/6LmyUEqf0CKS0cEsL5Hlvo) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Sage Armstrong](https://open.spotify.com/artist/1cfwUSXEE2axXJGQfnfVFH) | [The Function](https://open.spotify.com/album/4oWN5dvjdwaoCJj7JWkbqV) | 2:50 |
 | 22 | [Friends](https://open.spotify.com/track/4kwbbhuemSkRWvtN5dkWmb) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Friends](https://open.spotify.com/album/7ebm9IP2zYl77waFn1r5Xl) | 2:37 |
 | 23 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 |
-| 24 | [Hear You Calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 |
+| 24 | [Hear you calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 |
 | 25 | [Daydreaming \(feat\. Baby D\)](https://open.spotify.com/track/2j33kcEPdSd6kygtGSXKJP) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Daydreaming](https://open.spotify.com/album/3amFvPYQ0J8meKMNMzUIL4) | 3:24 |
 | 26 | [The House of House](https://open.spotify.com/track/6cyctoQI5xU2ZI5MLslxPs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [The House of House EP](https://open.spotify.com/album/7wkd8RasRwQYJ07htKGEIN) | 3:36 |
 | 27 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 |

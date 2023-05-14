@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2021-10-15 |  |
+| [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2021-10-15 | 2023-05-14 |
 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 | 2023-02-28 |  |
 | [A Dor Desse Amor](https://open.spotify.com/track/3pqPgG9n47v5bXyjYfsTeR) | [KLB](https://open.spotify.com/artist/6Jrploq7vACkXZg2ERVFK3) | [KLB \(2000\)](https://open.spotify.com/album/79ax3tyjDYhMGMlRnWDp9Q) | 3:40 | 2021-10-15 | 2022-07-29 |
 | [A Lenda](https://open.spotify.com/track/1mBaOJ4OPDqJBMp0luG7Ej) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [As Quatro Estações \(Ao Vivo\)](https://open.spotify.com/album/6TtQt38vkUQkbIljv80oB2) | 4:31 | 2021-10-15 | 2022-07-29 |
@@ -29,7 +29,7 @@
 | [Big Girls Don't Cry \(Personal\)](https://open.spotify.com/track/3Q4WeJmzxuDpzMu9QjQqbM) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/0jwuTvP3hp2jFY08VLgvnD) | 4:28 | 2021-10-15 | 2022-07-29 |
 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 | 2021-10-15 |  |
 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 | 2022-10-14 |  |
-| [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2023-03-10 | 2023-05-09 |
+| [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2023-03-10 |  |
 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2021-10-15 | 2022-11-13 |
 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 | 2022-10-14 | 2022-11-13 |
 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 | 2021-10-15 | 2022-11-13 |

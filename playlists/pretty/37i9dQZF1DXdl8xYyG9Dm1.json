@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=5kcYUJToRKKCA6nuJ2XUuw\"> ODUMODUBLVCK </a>",
-  "num_followers": 117507,
+  "num_followers": 117583,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzMzYTE1Mjc5OGFjMTU5YWVkOGU5OGU1MThkNTQ4MmYxN2ZkZjMw",
+  "snapshot_id": "MCw0NGIxYzkzYzAwODhmYTU3NWJkMTE5Y2I0NWFjNjhiNTI0NTJhYTY3",
   "tracks": [
     {
       "added_at": "2023-05-11 23:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Headliner",
-        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        }
-      ],
-      "duration_ms": 207057,
-      "name": "Headliner",
-      "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "031 To The World 2.0",
         "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Headliner",
+        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "duration_ms": 207057,
+      "name": "Headliner",
+      "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "First Sermon",
         "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
       },
@@ -687,22 +687,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
+        "name": "ROLL THE DICE (Prod. Gesaffelstein)",
+        "url": "https://open.spotify.com/album/6P4c5OMZZQZVJLQJrYgjbd"
       },
       "artists": [
         {
-          "name": "A-Q",
-          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
         },
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
         }
       ],
-      "duration_ms": 201897,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
+      "duration_ms": 164946,
+      "name": "ROLL THE DICE (Prod. Gesaffelstein)",
+      "url": "https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
+      },
+      "artists": [
+        {
+          "name": "A-Q",
+          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 201897,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5"
       },
@@ -807,6 +827,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Second Sermon",
+        "url": "https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 166147,
+      "name": "Second Sermon",
+      "url": "https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "The Guy",
         "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
       },
@@ -831,18 +867,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Second Sermon",
-        "url": "https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C"
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 166147,
-      "name": "Second Sermon",
-      "url": "https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR"
+      "duration_ms": 168000,
+      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
+      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -867,26 +907,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
-      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "ANXIETY+",
         "url": "https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ"
       },
@@ -907,22 +927,6 @@
       "duration_ms": 332500,
       "name": "LiFT ME UP",
       "url": "https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 137806,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -995,6 +999,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 137806,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Speak N Vrostaan",
         "url": "https://open.spotify.com/album/1CN3l9whlGJ4JdkJbSDoV1"
       },
@@ -1035,22 +1055,6 @@
       "duration_ms": 185196,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Best I Ever Had",
-        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 158139,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1151,6 +1155,22 @@
       "duration_ms": 197538,
       "name": "The Guy",
       "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Best I Ever Had",
+        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 158139,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1347,6 +1367,26 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "As Above, So Below (Deluxe)",
+        "url": "https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Natasha Chansa",
+          "url": "https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw"
+        }
+      ],
+      "duration_ms": 187858,
+      "name": "Mask On [Feat. Natasha Chansa] - Live From Lusaka",
+      "url": "https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Something to Live For",
         "url": "https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW"
       },
@@ -1391,50 +1431,6 @@
       "duration_ms": 220434,
       "name": "Midf (Money I Dey Find)",
       "url": "https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Hmm (Remix)",
-        "url": "https://open.spotify.com/album/7w1vWwOOr64HhVRTGIscTb"
-      },
-      "artists": [
-        {
-          "name": "G4 Boyz",
-          "url": "https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/1ti1eoBDoZtKJVZSkCUY8h"
-        }
-      ],
-      "duration_ms": 210755,
-      "name": "Hmm - Remix",
-      "url": "https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "YP & Azanti, Vol. 1",
-        "url": "https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "Long Way from Home",
-      "url": "https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA"
     }
   ],
   "unique_name": "No Wahala",

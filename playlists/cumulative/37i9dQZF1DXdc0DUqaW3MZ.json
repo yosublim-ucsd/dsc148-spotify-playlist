@@ -260,7 +260,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 188437,
       "name": "All Up To You",
       "url": "https://open.spotify.com/track/2ucJBU4uvj0RgWPY4PgVVV"
@@ -1392,6 +1392,24 @@
       "duration_ms": 162954,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/7uVs1CPR9XUU68NvGlOVeS"
+    },
+    {
+      "album": {
+        "name": "Only Diamonds Cut Diamonds",
+        "url": "https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163973,
+      "name": "Debold",
+      "url": "https://open.spotify.com/track/249L7XvMpl08wN5vhivz1j"
     },
     {
       "album": {

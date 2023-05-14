@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1950s.
 
-303 songs - 14 hr 1 min
+304 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Autumn in New York \- 2003 Remaster](https://open.spotify.com/track/5y3gqKswDeU8pJ878YFPUy) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Blue Moon](https://open.spotify.com/album/28cgY2HKAZY3btnqnCDK5n) | 3:41 | 2021-04-28 | 2022-07-29 |
 | [Baby \(You've Got What It Takes\)](https://open.spotify.com/track/3iskX6pzPZOyUNoVCQ7oMz) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [Mad Men: A Musical Companion \(1960\-1965\)](https://open.spotify.com/album/5zLIEvoMI7H5c3TmS4afrt) | 2:44 | 2021-04-28 | 2022-07-29 |
 | [Baby, You’ve Got What It Takes](https://open.spotify.com/track/0DICNd5XQ1og9UeYzxoNFV) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [The Two Of Us](https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe) | 2:45 | 2022-06-09 | 2023-04-18 |
+| [Baby, You’ve Got What It Takes](https://open.spotify.com/track/1kxk1MnNnKBEQZdTrByDic) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [The Complete Dinah Washington On Mercury Vol\. 6 \(1958\-1960\)](https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f) | 2:48 | 2022-06-09 |  |
 | [Banana Boat \(Day\-O\)](https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Calypso](https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3) | 3:03 | 2021-04-28 |  |
 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 | 2022-06-09 | 2022-11-14 |
 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0TMrV95mP7sDlvbE4iVfKP) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [The Rock N' Roll Collection](https://open.spotify.com/album/6NtLwlr1uXEOWDLjZzI4qu) | 2:37 | 2021-04-28 | 2022-07-29 |
@@ -55,7 +56,7 @@
 | [Chances Are \- Single Version](https://open.spotify.com/track/2eg3CoqVGI21N8115BgdQA) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 3:02 | 2022-06-09 | 2022-11-13 |
 | [Chantilly Lace](https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Chantilly Lace](https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS) | 2:25 | 2021-04-28 |  |
 | [Charlie Brown](https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 2:21 | 2021-04-28 | 2022-09-02 |
-| [Charlie Brown \- 2007 Remaster Stereo Single Version; Remastered](https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:21 | 2022-06-09 |  |
+| [Charlie Brown \- 2007 Remaster Stereo Single Version; Remastered](https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:21 | 2022-06-09 | 2023-05-14 |
 | [Cheek To Cheek](https://open.spotify.com/track/6pPr1KLZit9FgFNhp7xE5m) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella & Louis \(Classics International Version\)](https://open.spotify.com/album/2gL5uUab5439mDFvHnBtVb) | 5:51 | 2021-04-28 | 2022-07-29 |
 | [Cheek To Cheek](https://open.spotify.com/track/5TNpCThzzXHEipXGKgNG8T) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 5:53 | 2022-06-09 |  |
 | [Cheek To Cheek](https://open.spotify.com/track/0iIi8GlKDhM4cwehuTe6r5) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [cosy autumn jazz](https://open.spotify.com/album/1N8ifrvGovGJ063efZvpBR) | 5:53 | 2022-06-09 | 2022-11-13 |

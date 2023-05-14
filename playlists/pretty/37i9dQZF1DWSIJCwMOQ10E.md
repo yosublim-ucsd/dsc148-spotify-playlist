@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Carlos Vives
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,067 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,121 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 25 | [Una Hoja en Blanco](https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR), [Esmeralda](https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu) | [Nace Del Alma](https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW) | 4:44 |
 | 26 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
 | 27 | [Voy a Beber](https://open.spotify.com/track/00MIYoxM5jrqZ9zzU1h4C2) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Voy a Beber](https://open.spotify.com/album/7pbNrorPeJquteY1Xb9z1p) | 3:32 |
-| 28 | [Como Duele El Frio](https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Corazon Vallenato](https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ) | 4:58 |
-| 29 | [Tarde Lo Conoci](https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:54 |
+| 28 | [Tarde Lo Conoci](https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:54 |
+| 29 | [Como Duele El Frio](https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Corazon Vallenato](https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ) | 4:58 |
 | 30 | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu) | 3:52 |
 | 31 | [La Ventanita](https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Coleccion de Oro](https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u) | 4:46 |
 | 32 | [Bella \- Remix](https://open.spotify.com/track/78nLeZtgvDeKygduWsgeUk) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Bella \(Remix\)](https://open.spotify.com/album/4cEUisPsjbps3zDPV3pcnm) | 3:38 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 41 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 |
 | 42 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
 | 43 | [Cachondea](https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Descarga Espectacular](https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP) | 4:57 |
-| 44 | [La Oficial \- Remix](https://open.spotify.com/track/5JpUhPdInQTkknuw1wYoA1) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Oficial \(Remix\)](https://open.spotify.com/album/2CytLArktzEP6k1ran6G7j) | 3:39 |
+| 44 | [Soledad](https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 4:45 |
 | 45 | [Cartagena](https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Cartagena](https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM) | 2:54 |
-| 46 | [Soledad](https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 4:45 |
+| 46 | [La Oficial \- Remix](https://open.spotify.com/track/5JpUhPdInQTkknuw1wYoA1) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Oficial \(Remix\)](https://open.spotify.com/album/2CytLArktzEP6k1ran6G7j) | 3:39 |
 | 47 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
 | 48 | [Ras Tas Tas Full Hd](https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z) | [Cali Flow Latino](https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD) | [Full HD](https://open.spotify.com/album/1Iyffk6V5WgDjMc3SAoSHj) | 4:19 |
 | 49 | [La Invité a Bailar](https://open.spotify.com/track/4zhBHFZxYHpBKQX1lbWla1) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana](https://open.spotify.com/album/18O2bcdL2iaRBsozg7H0gV) | 4:05 |
 | 50 | [Tu Sonrisa](https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:33 |
 
-Snapshot ID: `MCw3MmI5N2ZiM2ZiYzYxYTRhN2NjYWUwM2JiMWQ4NGZmMjUyM2U3YmMy`
+Snapshot ID: `MCwyMThhMjg1NzQ1MjFkMTE4ZDMwYWEzMTg5MzdlZDQwNzhkMDI3NmNj`

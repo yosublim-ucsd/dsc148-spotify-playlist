@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 307880,
       "name": "900 Miles",
       "url": "https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo"
@@ -230,6 +230,24 @@
       "duration_ms": 278373,
       "name": "Angel from Montgomery - Live",
       "url": "https://open.spotify.com/track/4glBT0NI4cHCYnCO9fMgfA"
+    },
+    {
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
     },
     {
       "album": {
@@ -2612,7 +2630,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 222866,
       "name": "Souvenirs",
       "url": "https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic"
@@ -3350,7 +3368,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 245775,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/0HKLzcztfHW7o9b2i0PwtV"

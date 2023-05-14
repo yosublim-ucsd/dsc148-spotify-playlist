@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,332 likes - 60 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,392 likes - 60 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,19 +20,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 10 | [Homeless \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 3:48 |
 | 11 | [Kaptein](https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Uit Die Diepte Van My Hart](https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp) | 3:49 |
 | 12 | [Stimela SaseZola](https://open.spotify.com/track/4sgQGJhzo5kLMCCa9vaRil) | [Mbongeni Ngema](https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1) | [The Ultimate Collection: Mbongeni Ngema](https://open.spotify.com/album/6pFattd30V5QtQimALPrdH) | 5:10 |
-| 13 | [Sondela](https://open.spotify.com/track/749pe97jomnW5rw0mEjCkR) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ), [Sipho Mbele](https://open.spotify.com/artist/5zzBzuDDkT4uz1UWubvWh5) | [Sondela](https://open.spotify.com/album/7GeMrR8cQSwri1oBuAahiD) | 5:30 |
-| 14 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
+| 13 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
+| 14 | [Sondela](https://open.spotify.com/track/749pe97jomnW5rw0mEjCkR) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ), [Sipho Mbele](https://open.spotify.com/artist/5zzBzuDDkT4uz1UWubvWh5) | [Sondela](https://open.spotify.com/album/7GeMrR8cQSwri1oBuAahiD) | 5:30 |
 | 15 | [Nkalakatha](https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Nkalakatha](https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg) | 4:45 |
 | 16 | [Sister Bethina](https://open.spotify.com/track/6MRc3b6gqj916Q2Jjfnswf) | [Mgarimbe](https://open.spotify.com/artist/375le8C5ntGjYVNl3dGYgY) | [Sister Bethina](https://open.spotify.com/album/0PyDqci989gKaLtGzrmjk8) | 4:21 |
 | 17 | [Ngeke Ndiphinde](https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs) | [The Beginning](https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er) | 4:00 |
 | 18 | [Loliwe](https://open.spotify.com/track/1y9bfiGVKNMLoN0XR54S4z) | [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Loliwe](https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0) | 4:32 |
-| 19 | [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 |
-| 20 | [1000 Seconds](https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY) | [Blackwhole](https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi) | [Durbans Finest](https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd) | 6:08 |
+| 19 | [1000 Seconds](https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY) | [Blackwhole](https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi) | [Durbans Finest](https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd) | 6:08 |
+| 20 | [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 |
 | 21 | [La Vida](https://open.spotify.com/track/6jSsEnwJ0LlKqxLYtDVj1U) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu) | 6:34 |
 | 22 | [Pluto \(Remember You\) \- Radio Edit](https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Pluto \(Remember You\)](https://open.spotify.com/album/5alvUiKME4gVY3qv6UlSwd) | 4:27 |
 | 23 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 |
-| 24 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 |
-| 25 | [Live My Life](https://open.spotify.com/track/0Gns4jfIHrtpxTn9RGK0mM) | [Winnie Khumalo](https://open.spotify.com/artist/68RaZmeZDIysd3dv5KPm1o) | [Just Wanna Live My Life](https://open.spotify.com/album/5oiXqZA8I7QEztd0lgfcXd) | 5:17 |
+| 24 | [Live My Life](https://open.spotify.com/track/0Gns4jfIHrtpxTn9RGK0mM) | [Winnie Khumalo](https://open.spotify.com/artist/68RaZmeZDIysd3dv5KPm1o) | [Just Wanna Live My Life](https://open.spotify.com/album/5oiXqZA8I7QEztd0lgfcXd) | 5:17 |
+| 25 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 |
 | 26 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 27 | [She Always Gets What She Wants](https://open.spotify.com/track/744BIWg7jNhpbCO2dkCwNG) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [All or Nothing](https://open.spotify.com/album/33bVAGWCw4CjpCAi2OAakA) | 3:44 |
 | 28 | [Lengoma](https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH) | [DJ Sbu](https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq), [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Sound Revival](https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV) | 7:16 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 32 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 |
 | 33 | [Burn Out](https://open.spotify.com/track/0wqorlaFfScZh2Iqf9BvWD) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/3UjSkBMpuXbgOMe9l54ZAw) | 4:54 |
 | 34 | [Kortes \(Kasi Luv\)](https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws) | [Mshoza](https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44) | [BullDawgz First Lady](https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g) | 5:01 |
-| 35 | [Thathi Sgubu](https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Kalawa Jazmee Classics: Bongo Maffin](https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c) | 5:20 |
-| 36 | [Umlilo](https://open.spotify.com/track/50i8jd73XOz5kQvDNvcj5R) | [Big Nuz](https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp) | [Undisputed](https://open.spotify.com/album/2cQDCBfZcDYvm7425eHk22) | 6:28 |
-| 37 | [How Do You Feel](https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI) | 5:06 |
+| 35 | [How Do You Feel](https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI) | 5:06 |
+| 36 | [Thathi Sgubu](https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Kalawa Jazmee Classics: Bongo Maffin](https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c) | 5:20 |
+| 37 | [Umlilo](https://open.spotify.com/track/50i8jd73XOz5kQvDNvcj5R) | [Big Nuz](https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp) | [Undisputed](https://open.spotify.com/album/2cQDCBfZcDYvm7425eHk22) | 6:28 |
 | 38 | [Sana Luma \(That's The Way Love Is\)](https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg) | 5:17 |
 | 39 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 |
 | 40 | [It's About Time](https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [Boom Shaka](https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8) | 5:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 59 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 |
 | 60 | [Manyonyoba](https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [King Of Kwaito](https://open.spotify.com/album/4HOkw5G26NKfIf8yR41dTW) | 5:20 |
 
-Snapshot ID: `MCwzZGZjNmFmNzBjMTRjNTQ1MTY1ZTE1NGQ5ODUxMzdkZTgyNGEwYjcy`
+Snapshot ID: `MCw3YTQwYTk0NzM3YmFkZGVmMTRkZjQyZGJkOTk4YTU0MWFlOTI3ZGM3`

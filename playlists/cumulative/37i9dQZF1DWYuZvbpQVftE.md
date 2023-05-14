@@ -4,11 +4,12 @@
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-66 songs - 5 hr 40 min
+67 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Sinner Kissed an Angel](https://open.spotify.com/track/1OsFo184zx2OuU9QqnE4X2) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW) | [California Suite](https://open.spotify.com/album/3gmEiOR3WfO1vm89Gvmw0i) | 3:20 | 2022-03-11 | 2023-05-01 |
+| [A Sinner Kissed an Angel](https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bill Perkins](https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL) | [Presenting Bud Shank](https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP) | 3:20 | 2023-05-10 |  |
 | [A Sinner Kissed an Angel](https://open.spotify.com/track/7snDsIyC2wKPrXv7oyI4t5) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bill Perkins](https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL) | [Bud Shank and Bill Perkins](https://open.spotify.com/album/1YexsZvfHo2a91d5wcMDiZ) | 3:20 | 2022-03-11 | 2022-07-29 |
 | [Ahmoore](https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke) | [Jack Sheldon](https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj) | [The Quartet and the Quintet](https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9) | 3:15 | 2022-03-11 | 2023-04-24 |
 | [Beyond the Blue Horizon](https://open.spotify.com/track/58iD5C0t6pKoidcDayin0K) | [Chico Hamilton](https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04) | [Gongs East!](https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q) | 3:05 | 2022-03-11 |  |
@@ -52,7 +53,7 @@
 | [Patti Cake](https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Nothing But The Blues](https://open.spotify.com/album/3looSg4zNUFzKAyyos640A) | 6:01 | 2022-03-11 |  |
 | [Pigalle](https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM) | [Buddy Collette](https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR) | [Jazz Loves Paris](https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq) | 2:26 | 2022-03-11 |  |
 | [Red Pepper Blues](https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 3:40 | 2022-03-11 |  |
-| [Resonant Emotions](https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA) | [Chet Baker and Art Pepper](https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU) | [Playboys](https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo) | 5:44 | 2022-03-11 |  |
+| [Resonant Emotions](https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA) | [Chet Baker and Art Pepper](https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU) | [Playboys](https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo) | 5:44 | 2022-03-11 | 2023-05-14 |
 | [Sid, Ol' Kid](https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI) | [Marty Paich](https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R) | [Take Me Along](https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI) | 5:04 | 2022-03-11 |  |
 | [Sometime Ago](https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Bob Brookmeyer & Friends](https://open.spotify.com/album/12JCMQ79q662srkjDGoe02) | 4:04 | 2022-03-11 |  |
 | [Stand Still](https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time](https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv) | 3:30 | 2022-03-11 |  |

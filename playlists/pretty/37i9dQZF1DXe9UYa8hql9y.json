@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Prende tu fiesta con m\u00fasica de Rihanna, y el mejor pop!",
-  "num_followers": 35810,
+  "num_followers": 35834,
   "original_name": "Fiesta Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjE0NmM2ZDc4ZDI3NGQ3ZGY3ZGFlYzQwMmYzM2NjMDkyZmQwN2Ux",
+  "snapshot_id": "MCxkNGViYWVlNmRkZmRlMzUwMjFjOTg5MGM5NDBkOGUxOGNjYjcyMTlm",
   "tracks": [
     {
       "added_at": "2023-01-13 14:15:25",
@@ -145,42 +145,6 @@
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
     },
     {
-      "added_at": "2022-11-14 07:50:57",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2023-02-21 03:06:29",
-      "album": {
-        "name": "EL SUR",
-        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "BOMBAY",
-      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
-    },
-    {
       "added_at": "2022-10-04 22:09:39",
       "album": {
         "name": "One Kiss (with Dua Lipa)",
@@ -199,6 +163,42 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2023-02-21 03:06:29",
+      "album": {
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
+    },
+    {
+      "added_at": "2022-11-14 07:50:57",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
     },
     {
-      "added_at": "2023-05-13 00:58:27",
+      "added_at": "2023-05-14 01:48:09",
       "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -767,6 +767,26 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226198,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 226198,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
-      "added_at": "2023-05-13 00:58:27",
+      "added_at": "2023-05-14 01:48:09",
       "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -1079,6 +1079,26 @@
       "duration_ms": 203200,
       "name": "LA NOCHE DE ANOCHE",
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -1115,26 +1135,6 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 173710,
-      "name": "34+35",
-      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
         "name": "Sobrio",
         "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
       },
@@ -1323,38 +1307,18 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
-    },
-    {
-      "added_at": "2022-10-04 22:09:39",
-      "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+      "duration_ms": 173710,
+      "name": "34+35",
+      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -1379,18 +1343,18 @@
     {
       "added_at": "2022-10-04 22:09:39",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2022-10-04 22:09:39",
@@ -1407,6 +1371,42 @@
       "duration_ms": 211160,
       "name": "Oops!...I Did It Again",
       "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "added_at": "2022-10-04 22:09:39",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2022-10-04 22:09:39",

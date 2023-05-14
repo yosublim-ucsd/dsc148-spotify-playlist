@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 87953,
+  "num_followers": 88040,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjE1NzEyNDExNzVmM2VjMjIzZGUwZDk2NWUzMDY0MDA0ZTc3NDI4",
+  "snapshot_id": "MCxlNGY1ZWNhNjUxZTEzNTM2YjljZmY3ZjkyNmZkMzg2ODE4NjdkYmM0",
   "tracks": [
     {
       "added_at": "2023-01-09 06:14:13",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "Chambea",
+        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Chambea",
+      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -2255,22 +2271,6 @@
       "duration_ms": 227939,
       "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
       "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "Chambea",
-        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Chambea",
-      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
     },
     {
       "added_at": "2023-01-09 06:14:13",

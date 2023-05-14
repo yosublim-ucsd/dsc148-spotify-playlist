@@ -1108,10 +1108,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 453928,
       "name": "Hi",
       "url": "https://open.spotify.com/track/26KAjfe1bv74SBlny8odE8"
+    },
+    {
+      "album": {
+        "name": "Space Teddy Collection",
+        "url": "https://open.spotify.com/album/6pCGxLKDsWIeKnyJBPDX7U"
+      },
+      "artists": [
+        {
+          "name": "Ebi",
+          "url": "https://open.spotify.com/artist/0trOaB7vD9Ses1PGuGLsqS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453928,
+      "name": "Hi",
+      "url": "https://open.spotify.com/track/5GVTX6RYvR5ruBkztUIbSm"
     },
     {
       "album": {

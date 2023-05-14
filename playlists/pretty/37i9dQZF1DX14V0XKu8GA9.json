@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Speak",
-  "num_followers": 21979,
+  "num_followers": 21992,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGM2YTMzYmQ1MWY3MGE5NDQ5MmUzOGI3MWY4YWQ1Y2M2ZGMzZTY2",
+  "snapshot_id": "MCw0YzFkZDgxZTVmNDRiYWVjN2Q3NDA4YmViOTdiN2ZlNWZhNjc5Mjk5",
   "tracks": [
     {
       "added_at": "2023-03-10 22:02:53",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "Ain't Feelin Us",
-        "url": "https://open.spotify.com/album/2BYsQs4YSUjJHrITZaRn7F"
-      },
-      "artists": [
-        {
-          "name": "Lil Weirdo",
-          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
-        }
-      ],
-      "duration_ms": 153025,
-      "name": "Ain't Feelin Us",
-      "url": "https://open.spotify.com/track/4N2d8NxscU9beBTC3qhT6P"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
         "name": "Parkside Santa",
         "url": "https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 139594,
       "name": "Red on My Mind",
       "url": "https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
+        "name": "Ain't Feelin Us",
+        "url": "https://open.spotify.com/album/2BYsQs4YSUjJHrITZaRn7F"
+      },
+      "artists": [
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        }
+      ],
+      "duration_ms": 153025,
+      "name": "Ain't Feelin Us",
+      "url": "https://open.spotify.com/track/4N2d8NxscU9beBTC3qhT6P"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Born In a System",
+        "url": "https://open.spotify.com/album/3LJUkRdDM5hV3yb3NbwwEJ"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        }
+      ],
+      "duration_ms": 186070,
+      "name": "Born In a System",
+      "url": "https://open.spotify.com/track/2p40I0XVnjj8YwyvC4MBgf"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/7v6fz2Sq43ZReewY3UOUOP"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "Born In a System",
-        "url": "https://open.spotify.com/album/3LJUkRdDM5hV3yb3NbwwEJ"
-      },
-      "artists": [
-        {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        }
-      ],
-      "duration_ms": 186070,
-      "name": "Born In a System",
-      "url": "https://open.spotify.com/track/2p40I0XVnjj8YwyvC4MBgf"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/0w2ljyq80oNCthKKKhS7Nl"
-      },
-      "artists": [
-        {
-          "name": "Dj Flippp",
-          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
-        },
-        {
-          "name": "J.I Bandz",
-          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/1oUArtekFELwY7XvRUiSB1"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
         "name": "Thicker Than Water",
         "url": "https://open.spotify.com/album/0Rm2QWl2jMihQP5Ml1398x"
       },
@@ -531,6 +511,26 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/0w2ljyq80oNCthKKKhS7Nl"
+      },
+      "artists": [
+        {
+          "name": "Dj Flippp",
+          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
+        },
+        {
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/1oUArtekFELwY7XvRUiSB1"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Cost of Loyalty",
         "url": "https://open.spotify.com/album/0ppVLYcxxEO9sF8oW6pFkS"
       },
@@ -547,6 +547,26 @@
       "duration_ms": 148286,
       "name": "Cost of Loyalty",
       "url": "https://open.spotify.com/track/4Ct6RqjdLtpw1eDGlwJKHE"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
+        "name": "SLIDIN",
+        "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
+      },
+      "artists": [
+        {
+          "name": "Omar Cruz",
+          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
+        },
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        }
+      ],
+      "duration_ms": 158007,
+      "name": "SLIDIN",
+      "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -571,26 +591,6 @@
       "duration_ms": 162352,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/1w50Z3O8mqE3Sioor80Aft"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "SLIDIN",
-        "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
-      },
-      "artists": [
-        {
-          "name": "Omar Cruz",
-          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
-        },
-        {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
-        }
-      ],
-      "duration_ms": 158007,
-      "name": "SLIDIN",
-      "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Scared Of My Love",
+        "url": "https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        }
+      ],
+      "duration_ms": 145953,
+      "name": "Scared Of My Love",
+      "url": "https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
         "url": "https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 175280,
       "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
       "url": "https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "Scared Of My Love",
-        "url": "https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        }
-      ],
-      "duration_ms": 145953,
-      "name": "Scared Of My Love",
-      "url": "https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL"
     }
   ],
   "unique_name": "Our Wave, Nuestro Hip-Hop",

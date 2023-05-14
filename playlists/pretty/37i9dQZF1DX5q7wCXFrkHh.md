@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,920 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,016 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 38 | [Dinah \(Take 2\)](https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Solo Monk \(Expanded Edition\)](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) | 2:28 |
 | 39 | [I'm in a Dancing Mood](https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Dave Brubeck's Greatest Hits](https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE) | 2:59 |
 | 40 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 |
-| 41 | [Gee Baby, Ain't I Good To You](https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 4:01 |
-| 42 | [High Wire](https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Ready Take One](https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM) | 3:47 |
+| 41 | [High Wire](https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Ready Take One](https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM) | 3:47 |
+| 42 | [Gee Baby, Ain't I Good To You](https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 4:01 |
 | 43 | [Embraceable You](https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Breakin' It Up](https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S) | 3:56 |
-| 44 | [Patterns](https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 6:18 |
-| 45 | [Köln, January 24, 1975, Pt\. II A \- Live](https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 14:54 |
+| 44 | [Köln, January 24, 1975, Pt\. II A \- Live](https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 14:54 |
+| 45 | [Patterns](https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 6:18 |
 | 46 | [Swahililand](https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Crystal](https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA) | 4:08 |
-| 47 | [When It Rains](https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Largo](https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx) | 6:36 |
-| 48 | [On The Street Where You Live](https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [The Shearing Piano](https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4) | 2:52 |
-| 49 | [And I Love Her](https://open.spotify.com/track/4J4ZBdkwfS3DCnLVPsJowU) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 9:25 |
+| 47 | [And I Love Her](https://open.spotify.com/track/4J4ZBdkwfS3DCnLVPsJowU) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 9:25 |
+| 48 | [When It Rains](https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Largo](https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx) | 6:36 |
+| 49 | [On The Street Where You Live](https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [The Shearing Piano](https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4) | 2:52 |
 | 50 | [Sometime Ago \- Remastered](https://open.spotify.com/track/7fmhH8sQPLwiGPMOkFr7eU) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 4:33 |
 | 51 | [How Deep Is The Ocean](https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 3:33 |
 | 52 | [Moonglow](https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Art Tatum Solo Masterpieces, Vol\. 1 \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW) | 2:58 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 61 | [Body and Soul](https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Monk's Dream](https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL) | 4:28 |
 | 62 | [Night And Day](https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq), [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [John Simmons](https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9), [Alvin Stoller](https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk) | [The Best Of Art Tatum](https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms) | 6:07 |
 | 63 | [Perhaps](https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ) | 5:17 |
-| 64 | [Dat Dere](https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [This Here Is Bobby Timmons](https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX) | 5:24 |
-| 65 | [The Man I Love](https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 8:34 |
+| 64 | [The Man I Love](https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 8:34 |
+| 65 | [Dat Dere](https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [This Here Is Bobby Timmons](https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX) | 5:24 |
 | 66 | [Bye Bye Blackbird](https://open.spotify.com/track/1uO2eaMymZQU82tV5eSXZZ) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI) | 11:11 |
 | 67 | [Autumn Leaves](https://open.spotify.com/track/52GKwMjXBDxSAH4y4DMzHe) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 6:10 |
 | 68 | [Moon River](https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus](https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY) | 5:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 99 | [Little Girl Blue](https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The John Lewis Piano](https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA) | 4:29 |
 | 100 | [Blind Man, Blind Man \- Remastered](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 |
 
-Snapshot ID: `MCw4NmQzNTExODI1ZDJhZjg3Y2Y3Y2FlMTlkYWEwZTY3ZTM3OWMyNmZh`
+Snapshot ID: `MCw2ZTAxZWQwYTZjMTYyM2FjNjhlMWYyYmUwZDMzYTA3NDlmOTRiN2Qw`

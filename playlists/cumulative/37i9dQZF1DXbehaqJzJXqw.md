@@ -4,7 +4,7 @@
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-159 songs - 8 hr 44 min
+160 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,10 +49,11 @@
 | [J'attendrai](https://open.spotify.com/track/1MllJS2dPDoVBuWVMoLujP) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w) | 3:49 | 2023-04-27 |  |
 | [J'attendrai](https://open.spotify.com/track/3UuHS1AHJzFeTX0ZG5Nx54) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 3:49 | 2022-01-20 | 2023-04-30 |
 | [J'suis pas d'ici](https://open.spotify.com/track/4p1jq0itFZ9DLtVU6HCYdr) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Comme Un Manouche Sans Guitare](https://open.spotify.com/album/4AMq62xQ6mKVqgfDwvbY4Z) | 2:10 | 2022-01-20 | 2022-07-27 |
-| [J'Suis Pas D'Ici](https://open.spotify.com/track/61FxaViELF86usDHyVQvvq) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Comme Un Manouche Sans Guitare](https://open.spotify.com/album/3LoBT4sO5ThbqUaD4fycUW) | 2:10 | 2022-09-13 |  |
+| [J'Suis Pas D'Ici](https://open.spotify.com/track/61FxaViELF86usDHyVQvvq) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Comme Un Manouche Sans Guitare](https://open.spotify.com/album/3LoBT4sO5ThbqUaD4fycUW) | 2:10 | 2022-09-13 | 2023-05-14 |
 | [Jardin d'hiver](https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 2:48 | 2022-01-20 |  |
 | [Jazz Méditerranée](https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 3:23 | 2022-01-20 |  |
 | [Je Cherche Un Homme](https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Miss Kitt To You](https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO) | 2:47 | 2022-01-20 |  |
+| [Je cherche un homme](https://open.spotify.com/track/475T666btYBFZrFxxjWr0V) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w) | 2:47 | 2023-05-09 |  |
 | [Je cherche un homme](https://open.spotify.com/track/6VKXPG2C2PSuseVx21iYua) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 2:47 | 2022-01-20 | 2023-04-29 |
 | [Je m'ennuie](https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 4:32 | 2022-08-10 |  |
 | [Je Suis Seule Ce Soir](https://open.spotify.com/track/0l5rSE550QrVceVHcBCiDM) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Diego Figueiredo](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra) | [Just The Two Of Us](https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3) | 2:17 | 2022-06-28 |  |

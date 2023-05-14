@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 
 > your guide for a peaceful night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,881 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,887 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 58 | [Santa Barbara](https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI) | 3:14 |
 | 59 | [Everything Is Free](https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp) | 4:48 |
 | 60 | [Multiple Endings](https://open.spotify.com/track/2aULK5mtJaeb4KF0xnAuyU) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:16 |
-| 61 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
-| 62 | [Slack Jaw](https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:05 |
+| 61 | [Slack Jaw](https://open.spotify.com/track/1Y9EQOGTAeHwVyIcX3Dsi4) | [Sylvan Esso](https://open.spotify.com/artist/1pMyMaKdKUPbRu37t3Y2VP) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:05 |
+| 62 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
 | 63 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 |
 | 64 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 |
 | 65 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 68 | [Rumours](https://open.spotify.com/track/4ku8k2uso2lLJsjLJcsAWH) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 4:10 |
 | 69 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 |
 | 70 | [Farm](https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK) | 4:43 |
-| 71 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 |
-| 72 | [Wake Me When It's Over](https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Wake Me When It's Over](https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz) | 4:18 |
+| 71 | [Wake Me When It's Over](https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Wake Me When It's Over](https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz) | 4:18 |
+| 72 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 |
 | 73 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 |
 | 74 | [Montana](https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 3:20 |
 | 75 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 79 | [Blindsided](https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 3:42 |
 | 80 | [The Only Thing I Fear](https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Higher Places](https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK) | 3:30 |
 
-Snapshot ID: `MCxjNjU3ZWQ5OTI2OWRlN2ViYWYxOTAwNWEzMThiNWUzMDZjYWQ1ZDZl`
+Snapshot ID: `MCw4NTM3YThhYjYxZTYxOTM4YjRkZDk2YjQ2NDZhYTI2NWZkYzg0YmY1`

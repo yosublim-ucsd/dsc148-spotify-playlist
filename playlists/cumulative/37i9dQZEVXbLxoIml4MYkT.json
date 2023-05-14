@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Acr\u00f3stico",
+        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170785,
+      "name": "Acr\u00f3stico",
+      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
+    },
+    {
+      "album": {
         "name": "Adem\u00e1s de M\u00ed (Remix)",
         "url": "https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78"
       },
@@ -6382,7 +6400,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 159306,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
@@ -9418,7 +9436,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
@@ -10642,6 +10660,24 @@
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "album": {
+        "name": "The Planet",
+        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "The Planet",
+      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
     },
     {
       "album": {

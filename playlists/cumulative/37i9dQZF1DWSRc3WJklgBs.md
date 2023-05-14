@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,122 songs - 2 day 17 hr 52 min
+1,123 songs - 2 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [KNOW ME \(feat\. Gallant\) \- Cassian Remix](https://open.spotify.com/track/5o7J8jj5tlxVDSo6VJtpyA) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [KNOW ME \(feat\. Gallant\) \[Cassian Remix\]](https://open.spotify.com/album/3UzGm4c9CDCZ2sg7fGzT8l) | 5:13 | 2020-12-12 | 2021-09-25 |
 | [Know You Better](https://open.spotify.com/track/5VrSVEkPSHpWOn3stPrGWE) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Metrush](https://open.spotify.com/artist/1vj2R6AWl8rj1na7VCkQK4) | [Know You Better](https://open.spotify.com/album/7eJxrkuDWiel2lPQgU33nt) | 3:36 | 2020-03-29 | 2021-09-11 |
 | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/track/0G94oDZCWdfGxcIJZ9hfmW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/album/2jTZ84JKbeu8vTuWYnlqfj) | 2:36 | 2022-06-10 |  |
+| [Landslide](https://open.spotify.com/track/2rDSJjx16QVPyPaOH9qEHU) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Landslide](https://open.spotify.com/album/5iCfYZ2LTaMVICV1qJnrQW) | 3:01 | 2023-04-28 |  |
 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 | 2022-01-28 |  |
 | [Lay Right Here \- Original Mix](https://open.spotify.com/track/7uhNjVyCKuRzsB1TJ3mkt7) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Introducing Pierce Fulton](https://open.spotify.com/album/2x2lPbrGVWChJImFTb2c0u) | 7:30 | 2019-08-09\* | 2019-08-27 |
 | [Layover](https://open.spotify.com/track/0xFuZlwE5hugBECRF5ZI5o) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Layover](https://open.spotify.com/album/0uj9R1NJH5P9WEPUr75fEV) | 3:23 | 2022-02-25 | 2023-04-24 |
@@ -1087,7 +1088,7 @@
 | [With Me](https://open.spotify.com/track/3BAqz3rhnEEIvW8KWBr3E7) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [With Me](https://open.spotify.com/album/08JGDZxUzYyCPaZYziCP88) | 3:03 | 2020-09-07 | 2021-09-25 |
 | [With You](https://open.spotify.com/track/3gCF6JWBIyUxkKSA5GjCPR) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Panorama: Form](https://open.spotify.com/album/5JHsZYG9ai1cW6YEZ0Rh2v) | 4:31 | 2019-08-09\* | 2019-11-30 |
 | [With You](https://open.spotify.com/track/4EQsvb4EX5TgiXiwMxADJL) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [LZRZ](https://open.spotify.com/artist/02Y4AdQs7ofsz3OBWbE5Yl) | [With You](https://open.spotify.com/album/0WpclKxFD2ZPtqf58NnbEl) | 2:57 | 2020-02-24 | 2021-09-25 |
-| [With You \(with Morgin Madison\)](https://open.spotify.com/track/5lW36ZLCGu81VzbIsMD2Rz) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [With You \(with Morgin Madison\)](https://open.spotify.com/album/3ao0vhcYn0YR92cGNC9kW5) | 2:58 | 2023-03-07 |  |
+| [With You \(with Morgin Madison\)](https://open.spotify.com/track/5lW36ZLCGu81VzbIsMD2Rz) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [With You \(with Morgin Madison\)](https://open.spotify.com/album/3ao0vhcYn0YR92cGNC9kW5) | 2:58 | 2023-03-07 | 2023-05-14 |
 | [With You, Friends \(Long Drive\)](https://open.spotify.com/track/1aF6jpITT6RzPxrYsZJeIm) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 6:29 | 2019-08-09\* | 2019-08-27 |
 | [Without You](https://open.spotify.com/track/1yd3iMLXISa8Dny1E6l6Fq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Without You](https://open.spotify.com/album/49x1bVSPp9P1UEdheyS8J8) | 3:16 | 2019-08-09\* | 2019-09-14 |
 | [Without You \(feat\. Linney\)](https://open.spotify.com/track/1n1co3IQaEBLbouzf3BesL) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Without You \(feat\. Linney\)](https://open.spotify.com/album/0DIxlkwPTV3fJie4uvRwsk) | 3:09 | 2021-11-27 | 2022-05-14 |

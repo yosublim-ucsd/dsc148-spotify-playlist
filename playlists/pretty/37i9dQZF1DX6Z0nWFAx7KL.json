@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 31736,
+  "num_followers": 31770,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjAwZDlhZjU2MjM2MDgyYmU1MThmYjdiYTI0OWFlZTg2M2JhZjIz",
+  "snapshot_id": "MCwyM2E2MTRkYmU0ZjBhNDM0Nzk5ZDA4MDBkZDVhMDZkMDVmMzg4NjUz",
   "tracks": [
     {
       "added_at": "2023-05-12 08:05:26",
@@ -215,6 +215,26 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
+        "name": "Break Up",
+        "url": "https://open.spotify.com/album/35VhV8ON5V6UBZSkmo8s01"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Pascal Letoublon",
+          "url": "https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a"
+        }
+      ],
+      "duration_ms": 157804,
+      "name": "Break Up",
+      "url": "https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
         "name": "Found It With You",
         "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 163410,
       "name": "Found It With You",
       "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
-        "name": "Break Up",
-        "url": "https://open.spotify.com/album/35VhV8ON5V6UBZSkmo8s01"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Pascal Letoublon",
-          "url": "https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a"
-        }
-      ],
-      "duration_ms": 157804,
-      "name": "Break Up",
-      "url": "https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 210000,
       "name": "King",
       "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
+        "name": "Botanica",
+        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 187377,
+      "name": "Botanica",
+      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
         "name": "Waves (feat. Grace Tither)",
         "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
       },
@@ -763,38 +779,26 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
-        "name": "Botanica",
-        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
       },
       "artists": [
         {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 187377,
-      "name": "Botanica",
-      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
-        "name": "I Blame You",
-        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
-      },
-      "artists": [
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
         {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
         },
         {
           "name": "Felix Samuel",
           "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
         }
       ],
-      "duration_ms": 132927,
-      "name": "I Blame You",
-      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
+      "duration_ms": 152903,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -823,26 +827,22 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
+        "name": "I Blame You",
+        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
       "artists": [
         {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
-        },
-        {
-          "name": "CMC$",
-          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
         },
         {
           "name": "Felix Samuel",
           "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
         }
       ],
-      "duration_ms": 152903,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
+      "duration_ms": 132927,
+      "name": "I Blame You",
+      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
-        "name": "All Shook Up",
-        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
         "name": "Feel Alive (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 157401,
       "name": "Feel Alive (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
+        "name": "All Shook Up",
+        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -1339,6 +1339,30 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+        }
+      ],
+      "duration_ms": 161236,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
         "name": "Talk (Remixes)",
         "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
       },
@@ -1383,26 +1407,18 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu"
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
       },
       "artists": [
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Moonshine",
-          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
-        },
-        {
-          "name": "Heleen",
-          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
         }
       ],
-      "duration_ms": 161236,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq"
+      "duration_ms": 171944,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -1419,22 +1435,6 @@
       "duration_ms": 184000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
-      },
-      "artists": [
-        {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
-        }
-      ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
         "name": "Come Along",
         "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 164304,
       "name": "Come Along",
       "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2023-05-12 08:05:26",

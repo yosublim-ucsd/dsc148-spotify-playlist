@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Harry Styles, Diplo &amp; more!
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,380 likes - 41 songs - 2 hr 8 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,382 likes - 41 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

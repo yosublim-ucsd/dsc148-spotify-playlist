@@ -4,7 +4,7 @@
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-18 songs - 54 min 57 sec
+19 songs - 57 min 55 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Part of Your World \- From "The Little Mermaid Live!"](https://open.spotify.com/track/05ET8TiuscvijP4b4b1Jg9) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 3:10 | 2023-05-02 |  |
 | [Perfect \- Rise Cast Version](https://open.spotify.com/track/7Jt9Y3buDflRaSSuy20Byh) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Rise Season 1: The Album \(Music from the TV Series\)](https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1) | 4:38 | 2023-05-02 |  |
 | [Scars To Your Beautiful \- Rise Cast Version](https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Scars To Your Beautiful \(Rise Cast Version\)](https://open.spotify.com/album/0ci1RPXgRO5v8Y1ngN5gq2) | 4:18 | 2023-05-02 |  |
+| [The Future's in My Hands \- Theme from "Hailey's On It!"](https://open.spotify.com/track/4Fn5xfalnbwbxv0Km0Vhhh) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Future's in My Hands \(Theme from "Hailey's On It!"\)](https://open.spotify.com/album/1zQH2ZPY82Mul0Ki3tYRKj) | 2:58 | 2023-05-13 |  |
 | [The Guilty Ones \- Rise Cast Version](https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [The Guilty Ones \(Rise Cast Version\)](https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY) | 3:31 | 2023-05-02 |  |
 | [The Word Of Your Body \- Rise Cast Version](https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [The Word Of Your Body \(Rise Cast Version\)](https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw) | 2:54 | 2023-05-02 |  |
 | [This Christmas](https://open.spotify.com/track/4fUxmFLeAstWRQfcOi2uRL) | [Graham Phillips](https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Burt Bacharach](https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC), [Steven Sater](https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv) | [Burt Bacharach and Steven Sater's Some Lovers \(World Premiere Recording\)](https://open.spotify.com/album/32HtQlSGJdLv2e0lmBFPf2) | 3:27 | 2023-05-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify with Nigerian gospel music\.  Cover: Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,693 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,761 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [Baba Oh](https://open.spotify.com/track/7kOezDLrt87YbPZfgv7qub) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 5:23 |
 | 50 | [You Are the Reason](https://open.spotify.com/track/39HYneiLtMLBhjgMqoXnh4) | [Mairo Ese](https://open.spotify.com/artist/78QoE7x1Wt8whxsUItnwm9) | [You Are the Reason](https://open.spotify.com/album/4vnSHHR1rmTQ3ExJGKSnZe) | 5:28 |
 
-Snapshot ID: `MCxjNTUwZTMwMWNkNDI1ZThiYjViYjhjMzY2YWRiNDc5ZDg2M2QwMjQz`
+Snapshot ID: `MCxmOTMxMGU5MTljNDBlYmMzZDBmM2M1MTMzNjBhMWQzZWNiODQ2OWQw`

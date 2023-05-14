@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,964 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,071 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 31 | [Oración del remanso](https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd) | [Jorge Fandermole](https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet) | [Navega](https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx) | 5:06 |
 | 32 | [Déjame Que Me Vaya](https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nocheros](https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n) | 3:32 |
 | 33 | [Todo Está en Vos](https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [La Llave](https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6) | 3:50 |
-| 34 | [Chacarera para Mi Vuelta](https://open.spotify.com/track/290I3pQ0feBXdeo96yuizH) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Los 20 Años de Los Manseros Santiagueños](https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n) | 2:11 |
+| 34 | [Añoranzas](https://open.spotify.com/track/2H0jbraCWzCg45Al8dD0tu) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Las Chacareras Vol.1](https://open.spotify.com/album/4jfQ43IAdWCXAONZdoMPRh) | 2:51 |
 | 35 | [Zamba de Abril](https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Chango](https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV) | 3:51 |
 | 36 | [Duerme, Negrito](https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 2:25 |
 | 37 | [Yo Vendo Unos Ojos Negros](https://open.spotify.com/track/4dQUKpts49oFxLV1rxS2NZ) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Serie Platino](https://open.spotify.com/album/6dOjBEMjKsBu498Zxs2a5f) | 3:45 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 45 | [Cuando Llora Mi Guitarra](https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:40 |
 | 46 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG) | [Cuti y Roberto Carabajal](https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc) | [Ahora](https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF) | 2:59 |
 | 47 | [Maricón](https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki) | [Aca Seca Trio](https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA) | [Avenido](https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM) | 1:58 |
-| 48 | [El Arriero](https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [From Argentina To The World](https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR) | 3:30 |
-| 49 | [Ojos de Cielo](https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Todos Los Dias Un Poco...](https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM) | 3:14 |
+| 48 | [Ojos de Cielo](https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Todos Los Dias Un Poco...](https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM) | 3:14 |
+| 49 | [El Arriero](https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [From Argentina To The World](https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR) | 3:30 |
 | 50 | [La Flor Azul](https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 2:42 |
 | 51 | [Canción Para Una Mentira](https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [Canción Para Una Mentira](https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX) | 3:11 |
 | 52 | [Criollita Santiagueña](https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X) | [Hernan Figueroa Reyes](https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S) | [Para Que Vuelvas](https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n) | 3:02 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 68 | [Con Todo Y Mi Tristeza](https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Amaneciendo](https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF) | 4:07 |
 | 69 | [Alma Guaraní](https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm) | [Correntinas II](https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct) | 2:36 |
 | 70 | [Volveré a Salavina](https://open.spotify.com/track/6ARoKVfaWidfpGqau25soy) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Arde la Vida](https://open.spotify.com/album/1EMQS6RLfRhAd5I7AByWRb) | 2:27 |
-| 71 | [No Te Puedo Olvidar](https://open.spotify.com/track/79hua0r80o37LqICjNIY85) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Ando Cantándole al Viento y No Sólo por Cantar ...](https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm) | 3:02 |
-| 72 | [El Escondido \- En Vivo](https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [El Encuentro \(En Vivo\)](https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U) | 2:26 |
+| 71 | [El Escondido \- En Vivo](https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [El Encuentro \(En Vivo\)](https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U) | 2:26 |
+| 72 | [No Te Puedo Olvidar](https://open.spotify.com/track/79hua0r80o37LqICjNIY85) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Ando Cantándole al Viento y No Sólo por Cantar ...](https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm) | 3:02 |
 | 73 | [Zamba Del Negro Alegre](https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:03 |
 | 74 | [La Oma](https://open.spotify.com/track/2e6rIzOlqItCOyrryCXKpl) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:14 |
 | 75 | [Viejo Pescador del Paraná \(with Teresa Parodi & Chango Spasiuk\)](https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Primavera](https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG) | 3:56 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Candombe para Jose](https://open.spotify.com/track/5DWCoojpitiZmqvmfbIMVl) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 2:58 |
 | 90 | [La Tempranera](https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 4:53 |
 
-Snapshot ID: `MCxlMGZmMzg0YTE4OTQ0ZTc3MWU1ODczYTk5MDY5OGYzMTMxOGM3OTI3`
+Snapshot ID: `MCwzMzRjN2Q2ZjIwYzkyZWEyMTFlMDFhMGRhY2VjZGJmODM0NjA2MThh`

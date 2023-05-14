@@ -1,12 +1,12 @@
 {
   "description": "An eclectic mix of past & current Indie favourites. Cover: Arlo Parks",
-  "num_followers": 28056,
+  "num_followers": 28071,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2RkNjk3ZDVjNGIxN2RkYTcyNzMxMDU0MDI1MTRlYTEwMWY4ZTIx",
+  "snapshot_id": "MCw2YzA4YzRjYThiMTBmMTM3MTcwN2JhMWZiOGUyZmNhOTI0MWZhYTdh",
   "tracks": [
     {
       "added_at": "2023-04-21 14:06:50",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-04-21 14:06:50",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
-    },
-    {
-      "added_at": "2023-04-21 14:06:50",
-      "album": {
         "name": "Loving In Stereo",
         "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 391829,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
+    },
+    {
+      "added_at": "2023-04-21 14:06:50",
+      "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2023-04-21 14:06:50",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-04-21 14:06:50",
       "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n"
+    },
+    {
+      "added_at": "2023-04-21 14:06:50",
+      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
-    },
-    {
-      "added_at": "2023-04-21 14:06:50",
-      "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n"
     },
     {
       "added_at": "2023-04-21 14:06:50",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-04-21 14:06:50",
       "album": {
-        "name": "Negro Swan",
-        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "Charcoal Baby",
-      "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
-    },
-    {
-      "added_at": "2023-04-21 14:06:50",
-      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2023-04-21 14:06:50",
+      "album": {
+        "name": "Negro Swan",
+        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "Charcoal Baby",
+      "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
     },
     {
       "added_at": "2023-04-21 14:06:50",

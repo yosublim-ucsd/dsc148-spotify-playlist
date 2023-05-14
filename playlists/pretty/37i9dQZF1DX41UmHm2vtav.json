@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 411099,
+  "num_followers": 411363,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGU0NmE1YjlhNjkwODMxZGM2ZmQ3OGYzZjk5MTQ1NzFkNGJmODc3",
+  "snapshot_id": "MCwyN2VkOWVhNGY5MDcyYjg4NzliODBlNDAzNzY3ZTYwNjQ0OTM5MTJk",
   "tracks": [
     {
       "added_at": "2023-03-31 03:03:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 200574,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
         "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
         "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 176239,
       "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
       "url": "https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
         "name": "Bem Melhor (KVSH Remix)",
         "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Live Your Life",
-        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 200574,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
       },
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
         "name": "Adrenalizou (Gabriel Boni Remix)",
         "url": "https://open.spotify.com/album/4VYtzbWRQDi3onXpejmJX0"
       },
@@ -563,6 +579,54 @@
       "duration_ms": 214435,
       "name": "Adrenalizou - Gabriel Boni Remix",
       "url": "https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "Algum Ritmo (Remix)",
+        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Algum Ritmo - Remix",
+      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -607,54 +671,6 @@
       "duration_ms": 145952,
       "name": "Low (feat. Victor Perry)",
       "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "Algum Ritmo (Remix)",
-        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
-      },
-      "artists": [
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Algum Ritmo - Remix",
-      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
         "name": "Pumped up Kicks (feat. Joy Corporation)",
         "url": "https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO"
       },
@@ -763,26 +763,6 @@
       "duration_ms": 183370,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -871,6 +851,26 @@
       "duration_ms": 184000,
       "name": "Um Dia Inteiro",
       "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2023-03-31 03:03:00",

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 294085,
+  "num_followers": 294306,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmZjODY0NDg2NjdkNDI3MDkyY2NhNDQxNDQwYTZmMzVlMjhlMGRl",
+  "snapshot_id": "MCw1YzM0ODczODNiMTYzYmVmNDEwYjE4ZDRlYjhjNjBmYTA2ODZhNzYy",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -183,18 +183,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Sings His Favorites",
-        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
       "artists": [
         {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 155080,
-      "name": "Put Your Head on My Shoulder",
-      "url": "https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV"
+      "duration_ms": 203760,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+        "name": "Sings His Favorites",
+        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
         }
       ],
-      "duration_ms": 203760,
-      "name": "La vie en rose - Single Version",
-      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
+      "duration_ms": 155080,
+      "name": "Put Your Head on My Shoulder",
+      "url": "https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -379,26 +379,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Complete Ella And Louis On Verve",
-        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 180933,
       "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
       "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Frankie Avalon",
-        "url": "https://open.spotify.com/album/3nDCuyCQqcqVbXprUy61CF"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
       "artists": [
         {
-          "name": "Frankie Avalon",
-          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
         }
       ],
-      "duration_ms": 144483,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/5kqXQHIgQ6UfFP9LfqPNgG"
+      "duration_ms": 181693,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/4wnFpRgQu2gLN8d76dYOGr"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+        "name": "Frankie Avalon",
+        "url": "https://open.spotify.com/album/3nDCuyCQqcqVbXprUy61CF"
       },
       "artists": [
         {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+          "name": "Frankie Avalon",
+          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
         }
       ],
-      "duration_ms": 181693,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/4wnFpRgQu2gLN8d76dYOGr"
+      "duration_ms": 144483,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/5kqXQHIgQ6UfFP9LfqPNgG"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Essential Harry Belafonte",
-        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Tennessee Waltz",
         "url": "https://open.spotify.com/album/6CNDRQpQTv47XJR9CMXdOb"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 181106,
       "name": "Tennessee Waltz",
       "url": "https://open.spotify.com/track/4W0sbtVR0pqOo2d7qAHhGr"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Essential Harry Belafonte",
+        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
     },
     {
       "added_at": "2022-05-30 12:59:00",

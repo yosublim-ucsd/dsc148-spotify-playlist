@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,026 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,034 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Coconut](https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:11 |
 | 2 | [Anbessa](https://open.spotify.com/track/4Ic3yQiH5UmyyevTsp08tY) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Sost](https://open.spotify.com/album/1ihecQme2FVkhoSGh5BpMI) | 3:41 |
 | 3 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 |
-| 4 | [Bessoka \- Version courte](https://open.spotify.com/track/0vl2pa6k6kBZa0LNRC9ufl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 3:28 |
+| 4 | [The Panther](https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 2:29 |
 | 5 | [Groovy Flute](https://open.spotify.com/track/672sXt55h2Ol2MTcbKR5Sw) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:33 |
 | 6 | [Fidjo Femea](https://open.spotify.com/track/1rAiQdbWr2TQYZpzxihLgy) | [Mariana Ramos](https://open.spotify.com/artist/0ATMSWY1RjRk97SZGXme0Z), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Quinta](https://open.spotify.com/album/32S67vRw57J7ogWOXrbsEt) | 3:56 |
 | 7 | [Sax City](https://open.spotify.com/track/0WepWqVggMJ7OiVl4PBE8g) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 3:16 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 37 | [Cerisiers Roses Et Pommiers Blancs](https://open.spotify.com/track/4k3YTY6Oyaux2UdaZM9NUU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:24 |
 | 38 | [Mboa'Su](https://open.spotify.com/track/7eTdBZfn6na3YwbG2Hjdnx) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Mboa'Su \(kamer feelin\)](https://open.spotify.com/album/3qFfN7MgFmCKzEbCKuuYEb) | 4:27 |
 | 39 | [Ekedi](https://open.spotify.com/track/0XSpOxozClQO2pKs2fLNX4) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [The Very Best of Manu Dibango: Afro Soul Jazz from the Original Makossa Man](https://open.spotify.com/album/02v98oaLbJQweqTYB3tAgv) | 2:48 |
-| 40 | [Demaro](https://open.spotify.com/track/5bC9bkQtFbphrRo8LbRvbn) | [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Lambi golo](https://open.spotify.com/album/4ApIXEgwb3XSlYPWZZjlvN) | 3:58 |
+| 40 | [Emma \(feat\. Salif Keita\)](https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:54 |
 | 41 | [Rumba Makossa](https://open.spotify.com/track/4djQmaWEGTHjRpoLJJQSVt) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:36 |
-| 42 | [Emma \(feat\. Salif Keita\)](https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:54 |
-| 43 | [Ceddo End Title](https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [World Psychedelic Classics: Love's A Real Thing](https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR) | 5:09 |
-| 44 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/6d8lg3RO1m0ea3yx32zJOB) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [LOUNGE](https://open.spotify.com/album/6k3gNZBHBjwPeVlyeW85eB) | 2:43 |
+| 42 | [Ceddo End Title](https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [World Psychedelic Classics: Love's A Real Thing](https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR) | 5:09 |
+| 43 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/6d8lg3RO1m0ea3yx32zJOB) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [LOUNGE](https://open.spotify.com/album/6k3gNZBHBjwPeVlyeW85eB) | 2:43 |
+| 44 | [Night In Zeralda](https://open.spotify.com/track/6KBQ2SXkZeMRb72ch5XXJ3) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 4:36 |
 | 45 | [Son de la Loma](https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:19 |
-| 46 | [Night In Zeralda](https://open.spotify.com/track/6KBQ2SXkZeMRb72ch5XXJ3) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 4:36 |
-| 47 | [Lagos Go Slow](https://open.spotify.com/track/73f0f9KKZsBfmtogRcnBLp) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 3:48 |
+| 46 | [Demaro](https://open.spotify.com/track/5bC9bkQtFbphrRo8LbRvbn) | [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Lambi golo](https://open.spotify.com/album/4ApIXEgwb3XSlYPWZZjlvN) | 3:58 |
+| 47 | [Wakafrika](https://open.spotify.com/track/6Dr4Tat4uPaYBRIJ71WgQe) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:47 |
 | 48 | [What a wonderful world](https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 2:44 |
 | 49 | [El Manicero](https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 5:44 |
-| 50 | [Wakafrika](https://open.spotify.com/track/6Dr4Tat4uPaYBRIJ71WgQe) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:47 |
+| 50 | [Afro\-Soul](https://open.spotify.com/track/3gwtxoxNMMfeo48G42kkHB) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:44 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDBjMjJhMjk1M2VmZjlkNjdlYjY5OTBhMWNjY2JhZjM2NQ==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA3Y2Q4NmExZjQwYTE5YTE2M2E2ZmM1YjBmOTdjYzYyNg==`

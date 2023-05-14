@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 402752,
+  "num_followers": 403298,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZThhYzYxZjJkMjMzMGM5N2RmNjIyNWY0NzRjMWIxODkxMDU0OWRj",
+  "snapshot_id": "MCwzY2YyOWU0YTVjY2Q3MTM0NzA5MTYzMGY1ZTE1NjNiN2M3NmY3NGQy",
   "tracks": [
     {
       "added_at": "2023-03-10 22:36:17",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Symsonic",
-        "url": "https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z"
-      },
-      "artists": [
-        {
-          "name": "Rank 1",
-          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "Awakening - Radio Edit",
-      "url": "https://open.spotify.com/track/5QiCJ1Uxzk1lgzbuk9WH2L"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "We Are All We Need",
         "url": "https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 262426,
       "name": "We're All We Need",
       "url": "https://open.spotify.com/track/7jji8nfxJ84AJkUSpgruPL"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Symsonic",
+        "url": "https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z"
+      },
+      "artists": [
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Awakening - Radio Edit",
+      "url": "https://open.spotify.com/track/5QiCJ1Uxzk1lgzbuk9WH2L"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -871,6 +871,26 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
+        "name": "Trance Top 1000 (Ibiza Anthems Mini Mix)",
+        "url": "https://open.spotify.com/album/3q2xAPNvEuLEyFGXFT6eGu"
+      },
+      "artists": [
+        {
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        },
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "1998 - Paul van Dyk Remix",
+      "url": "https://open.spotify.com/track/1ZuCmG8sXSqgMzpnlOonPv"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
         "name": "Fatum Presents: 20 Years Of Anjunabeats",
         "url": "https://open.spotify.com/album/0knnadrIb51q2XTdSMrTC3"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 255258,
       "name": "Lonely Girl - Gareth Emery Remix (Edit)",
       "url": "https://open.spotify.com/track/0AyySV2exaNwoyK99nTfeQ"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "Trance Top 1000 (Ibiza Anthems Mini Mix)",
-        "url": "https://open.spotify.com/album/3q2xAPNvEuLEyFGXFT6eGu"
-      },
-      "artists": [
-        {
-          "name": "Binary Finary",
-          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
-        },
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "1998 - Paul van Dyk Remix",
-      "url": "https://open.spotify.com/track/1ZuCmG8sXSqgMzpnlOonPv"
     },
     {
       "added_at": "2023-03-10 22:36:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Lovejoy along with the top alternative songs of today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,208 likes - 53 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,339 likes - 53 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 52 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 |
 | 53 | [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 |
 
-Snapshot ID: `MCw5YTljNDc2MzUwOThmNTg4ZGM2ZDk0OGNjZmFhNWJjODBhOWM3Nzlk`
+Snapshot ID: `MCw1NzcwZjc3MmViZTVmYTYwZDhmMGVlNzI4YWUxMjU3YzAwNjg4YmM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 
 > Aquí le ponemos ritmo a las tareas del hogar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,063 likes - 90 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,277 likes - 90 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 49 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
 | 50 | [Color Esperanza](https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 4:27 |
 | 51 | [Dos Locos](https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Confesiones](https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e) | 4:06 |
-| 52 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
-| 53 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
-| 54 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
-| 55 | [Tu Eres Ajena](https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:53 |
+| 52 | [Tu Eres Ajena](https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:53 |
+| 53 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
+| 54 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
+| 55 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
 | 56 | [Cuando Nos Volvamos a Encontrar \(feat\. Marc Anthony\)](https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 4:38 |
 | 57 | [Amor Regresa](https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:33 |
 | 58 | [Nada Fue Un Error](https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Coti](https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf) | 3:28 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 89 | [No Podras Escapar De Mi](https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:31 |
 | 90 | [Las Amo a Las Dos](https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu) | 4:49 |
 
-Snapshot ID: `MCw3ODVjYWQwYTlhZjc4Y2MwNGFiNzRkNmI3MTBkOTc4ZGQ5ZmRjMTJk`
+Snapshot ID: `MCwwNzY2MDdmNzU1YTJhZjMwYzU0YWExYWJhNTMzY2MwOGJiM2M0ZWE5`

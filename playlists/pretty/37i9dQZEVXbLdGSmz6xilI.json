@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Vietnam.",
-  "num_followers": 82039,
+  "num_followers": 82087,
   "original_name": "Top 50 - Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM3MjU0MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM3MzQwNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "The Planet",
+        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "The Planet",
+      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "MAKING MY WAY",
         "url": "https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "D-DAY",
         "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
@@ -57,63 +73,7 @@
       "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "\u0111\u01b0a em v\u1ec1 nh\u00e0a",
-        "url": "https://open.spotify.com/album/5ED6WiHXLHGTBITUv6ayAy"
-      },
-      "artists": [
-        {
-          "name": "GREY D",
-          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
-        },
-        {
-          "name": "Chillies",
-          "url": "https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u0111\u01b0a em v\u1ec1 nh\u00e0a",
-      "url": "https://open.spotify.com/track/08ULi904W2Po6pVj8nN7KC"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "C\u00e1i \u0110\u1ea7u Ti\u00ean",
-        "url": "https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5"
-      },
-      "artists": [
-        {
-          "name": "Th\u1eafng",
-          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
-        }
-      ],
-      "duration_ms": 127114,
-      "name": "Xin L\u1ed7i",
-      "url": "https://open.spotify.com/track/1K3CXUYKhLYN7koLW5WQjX"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "n\u1ebfu l\u00fac \u0111\u00f3",
-        "url": "https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV"
-      },
-      "artists": [
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        },
-        {
-          "name": "2pillz",
-          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "n\u1ebfu l\u00fac \u0111\u00f3",
-      "url": "https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
@@ -137,43 +97,63 @@
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
-        "name": "D-DAY",
-        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+        "name": "\u0111\u01b0a em v\u1ec1 nh\u00e0a",
+        "url": "https://open.spotify.com/album/5ED6WiHXLHGTBITUv6ayAy"
       },
       "artists": [
         {
-          "name": "Agust D",
-          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
         },
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Chillies",
+          "url": "https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4"
         }
       ],
-      "duration_ms": 213995,
-      "name": "People Pt.2 (feat. IU)",
-      "url": "https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd"
+      "duration_ms": 240000,
+      "name": "\u0111\u01b0a em v\u1ec1 nh\u00e0a",
+      "url": "https://open.spotify.com/track/08ULi904W2Po6pVj8nN7KC"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+        "name": "C\u00e1i \u0110\u1ea7u Ti\u00ean",
+        "url": "https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5"
       },
       "artists": [
         {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+          "name": "Th\u1eafng",
+          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
         }
       ],
-      "duration_ms": 194005,
-      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
-      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
+      "duration_ms": 127114,
+      "name": "Xin L\u1ed7i",
+      "url": "https://open.spotify.com/track/1K3CXUYKhLYN7koLW5WQjX"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "n\u1ebfu l\u00fac \u0111\u00f3",
+        "url": "https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        },
+        {
+          "name": "2pillz",
+          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "n\u1ebfu l\u00fac \u0111\u00f3",
+      "url": "https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
         "url": "https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ"
@@ -193,27 +173,43 @@
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
-        "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
-        "url": "https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo"
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
       },
       "artists": [
         {
-          "name": "Emcee L (Da LAB)",
-          "url": "https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2"
-        },
-        {
-          "name": "Mu\u1ed9ii (Starry Night)",
-          "url": "https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8"
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
         }
       ],
-      "duration_ms": 208048,
-      "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
-      "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
+      "duration_ms": 194005,
+      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
+      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Don't ever say love me (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
         "url": "https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE"
@@ -237,23 +233,27 @@
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+        "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
+        "url": "https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "Emcee L (Da LAB)",
+          "url": "https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2"
+        },
+        {
+          "name": "Mu\u1ed9ii (Starry Night)",
+          "url": "https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8"
         }
       ],
-      "duration_ms": 212253,
-      "name": "Like Crazy (English Version)",
-      "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
+      "duration_ms": 208048,
+      "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
+      "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "vaicaunoicokhiennguoithaydoi",
         "url": "https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok"
@@ -273,27 +273,7 @@
       "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "Love Part 2",
-        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Don't ever say love me (feat. RM of BTS)",
-      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "99%",
         "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
@@ -313,7 +293,47 @@
       "url": "https://open.spotify.com/track/7jLSThU5Kg1RWt19Leiaxm"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "People Pt.2 (feat. IU)",
+      "url": "https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226198,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "Don't C\u00f4i",
         "url": "https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
@@ -365,23 +385,23 @@
       "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
-        "name": "Mu\u1ed9n R\u1ed3i M\u00e0 Sao C\u00f2n",
-        "url": "https://open.spotify.com/album/33Iz5SghJnJ9iM0xIWCS3M"
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
       },
       "artists": [
         {
-          "name": "S\u01a1n T\u00f9ng M-TP",
-          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 275905,
-      "name": "Mu\u1ed9n R\u1ed3i M\u00e0 Sao C\u00f2n",
-      "url": "https://open.spotify.com/track/5fFLotKS1286huYIMQHqz7"
+      "duration_ms": 212253,
+      "name": "Like Crazy (English Version)",
+      "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "Kh\u00f4ng Th\u1ec3 Say",
         "url": "https://open.spotify.com/album/6hRCNOEDljXmus24tlnzRx"
@@ -401,103 +421,7 @@
       "url": "https://open.spotify.com/track/4W2poMwGzKQHtpNCthoGhC"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Trung Tr\u1ea7n",
-          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
-        }
-      ],
-      "duration_ms": 173397,
-      "name": "Th\u00f4i Em \u0110\u1eebng \u0110i",
-      "url": "https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
-        "url": "https://open.spotify.com/album/6oT0WOEPWOxsa2Vmnkxwxa"
-      },
-      "artists": [
-        {
-          "name": "S\u01a1n T\u00f9ng M-TP",
-          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
-        }
-      ],
-      "duration_ms": 301538,
-      "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
-      "url": "https://open.spotify.com/track/17iGUekw5nFt5mIRJcUm3R"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "\u00c1nh Sao V\u00e0 B\u1ea7u Tr\u1eddi",
-        "url": "https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw"
-      },
-      "artists": [
-        {
-          "name": "T.R.I",
-          "url": "https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "\u00c1nh Sao V\u00e0 B\u1ea7u Tr\u1eddi",
-      "url": "https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh)",
-        "url": "https://open.spotify.com/album/24GVnl6IHS4453WEGwp65Y"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        },
-        {
-          "name": "Negav",
-          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
-        },
-        {
-          "name": "Kewtiie",
-          "url": "https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh)",
-      "url": "https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 141760,
-      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
-      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "Space Jam, Vol. 1",
         "url": "https://open.spotify.com/album/7ahqMhfibWJT33LPuPlvK6"
@@ -525,7 +449,119 @@
       "url": "https://open.spotify.com/track/3I024mr4TcQb8W9cNVe0ze"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Trung Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
+        }
+      ],
+      "duration_ms": 173397,
+      "name": "Th\u00f4i Em \u0110\u1eebng \u0110i",
+      "url": "https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "Mu\u1ed9n R\u1ed3i M\u00e0 Sao C\u00f2n",
+        "url": "https://open.spotify.com/album/33Iz5SghJnJ9iM0xIWCS3M"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "duration_ms": 275905,
+      "name": "Mu\u1ed9n R\u1ed3i M\u00e0 Sao C\u00f2n",
+      "url": "https://open.spotify.com/track/5fFLotKS1286huYIMQHqz7"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "\u00c1nh Sao V\u00e0 B\u1ea7u Tr\u1eddi",
+        "url": "https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw"
+      },
+      "artists": [
+        {
+          "name": "T.R.I",
+          "url": "https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "\u00c1nh Sao V\u00e0 B\u1ea7u Tr\u1eddi",
+      "url": "https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh)",
+        "url": "https://open.spotify.com/album/24GVnl6IHS4453WEGwp65Y"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+        },
+        {
+          "name": "Kewtiie",
+          "url": "https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh)",
+      "url": "https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
+        "url": "https://open.spotify.com/album/6oT0WOEPWOxsa2Vmnkxwxa"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "duration_ms": 301538,
+      "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
+      "url": "https://open.spotify.com/track/17iGUekw5nFt5mIRJcUm3R"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "duration_ms": 141760,
+      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
+      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "S\u1ed0 KH\u00d4NG",
         "url": "https://open.spotify.com/album/2W8HAPjn7tl7pHXGZ8WZIe"
@@ -545,23 +581,7 @@
       "url": "https://open.spotify.com/track/7kgzRBNkBRArtTPkYjWLYT"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a \u2013 Maxi Single",
-        "url": "https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL"
-      },
-      "artists": [
-        {
-          "name": "GREY D",
-          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
-        }
-      ],
-      "duration_ms": 281493,
-      "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a",
-      "url": "https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "Over The Moon",
         "url": "https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7"
@@ -577,7 +597,23 @@
       "url": "https://open.spotify.com/track/54UNNgtE3zzERwTuWSQLqd"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a \u2013 Maxi Single",
+        "url": "https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL"
+      },
+      "artists": [
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        }
+      ],
+      "duration_ms": 281493,
+      "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a",
+      "url": "https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
         "url": "https://open.spotify.com/album/5vJ5JDNypTPlAc5yv3du8s"
@@ -601,23 +637,7 @@
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "Set Me Free Pt.2",
-        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 200929,
-      "name": "Set Me Free Pt.2",
-      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "T\u1eadp 12: The Masked Singer Vietnam",
         "url": "https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
         "url": "https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl"
@@ -649,39 +669,7 @@
       "url": "https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "D-DAY",
-        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
-      },
-      "artists": [
-        {
-          "name": "Agust D",
-          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "AMYGDALA",
-      "url": "https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "m-tp M-TP",
-        "url": "https://open.spotify.com/album/5hxm3ulOLVvjFdZNFO3n4M"
-      },
-      "artists": [
-        {
-          "name": "S\u01a1n T\u00f9ng M-TP",
-          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
-        }
-      ],
-      "duration_ms": 293112,
-      "name": "\u00c2m Th\u1ea7m B\u00ean Em",
-      "url": "https://open.spotify.com/track/1Huy9G87D6pbIveFulsH0P"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "B\u1eadt T\u00ecnh Y\u00eau L\u00ean",
         "url": "https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB"
@@ -701,7 +689,23 @@
       "url": "https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "C\u00f3 Em (feat. Low G)",
         "url": "https://open.spotify.com/album/7nvdYW7qe9f1DT7pZ1EXDg"
@@ -721,7 +725,23 @@
       "url": "https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "m-tp M-TP",
+        "url": "https://open.spotify.com/album/5hxm3ulOLVvjFdZNFO3n4M"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "duration_ms": 293112,
+      "name": "\u00c2m Th\u1ea7m B\u00ean Em",
+      "url": "https://open.spotify.com/track/1Huy9G87D6pbIveFulsH0P"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "99%",
         "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
@@ -737,43 +757,7 @@
       "url": "https://open.spotify.com/track/3440g8awr2l0E5Yy2X5Epk"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "\u01b0ng qu\u00e1 ch\u1eebng",
-        "url": "https://open.spotify.com/album/69LfreeND1LkCiy0JPJr3l"
-      },
-      "artists": [
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        }
-      ],
-      "duration_ms": 81951,
-      "name": "\u01b0ng qu\u00e1 ch\u1eebng",
-      "url": "https://open.spotify.com/track/2ZJTmYNOA8k21yUtLXJG57"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
-        "url": "https://open.spotify.com/album/3uvFlg7afslUUJh43G2xwX"
-      },
-      "artists": [
-        {
-          "name": "JSOL",
-          "url": "https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN"
-        },
-        {
-          "name": "Ho\u00e0ng Duy\u00ean",
-          "url": "https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d"
-        }
-      ],
-      "duration_ms": 247058,
-      "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
-      "url": "https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
         "url": "https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ"
@@ -793,7 +777,23 @@
       "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "\u01b0ng qu\u00e1 ch\u1eebng",
+        "url": "https://open.spotify.com/album/69LfreeND1LkCiy0JPJr3l"
+      },
+      "artists": [
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        }
+      ],
+      "duration_ms": 81951,
+      "name": "\u01b0ng qu\u00e1 ch\u1eebng",
+      "url": "https://open.spotify.com/track/2ZJTmYNOA8k21yUtLXJG57"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh (feat. Touliver)",
         "url": "https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA"
@@ -813,23 +813,27 @@
       "url": "https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
-        "name": "Lan Man",
-        "url": "https://open.spotify.com/album/2PjMmcp2KpR1dwcs0oExSx"
+        "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
+        "url": "https://open.spotify.com/album/3uvFlg7afslUUJh43G2xwX"
       },
       "artists": [
         {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+          "name": "JSOL",
+          "url": "https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN"
+        },
+        {
+          "name": "Ho\u00e0ng Duy\u00ean",
+          "url": "https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d"
         }
       ],
-      "duration_ms": 216220,
-      "name": "Lan Man",
-      "url": "https://open.spotify.com/track/3hqOrxH5qPlvrApcb7Ac8c"
+      "duration_ms": 247058,
+      "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
+      "url": "https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "Starboy (Deluxe)",
         "url": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
@@ -849,23 +853,23 @@
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
-        "name": "tiny things",
-        "url": "https://open.spotify.com/album/4nSOMXIWouesFTEk9vT7eA"
+        "name": "Lan Man",
+        "url": "https://open.spotify.com/album/2PjMmcp2KpR1dwcs0oExSx"
       },
       "artists": [
         {
-          "name": "Th\u1ecbnh Suy",
-          "url": "https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo"
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
         }
       ],
-      "duration_ms": 158400,
-      "name": "tiny love",
-      "url": "https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3"
+      "duration_ms": 216220,
+      "name": "Lan Man",
+      "url": "https://open.spotify.com/track/3hqOrxH5qPlvrApcb7Ac8c"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "winter warmer",
         "url": "https://open.spotify.com/album/2ga21N5DWcqLLiBsLADCE3"
@@ -889,7 +893,39 @@
       "url": "https://open.spotify.com/track/5qbjUmVV1yOOjcMOInNPYD"
     },
     {
-      "added_at": "2023-05-12 10:42:36",
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "tiny things",
+        "url": "https://open.spotify.com/album/4nSOMXIWouesFTEk9vT7eA"
+      },
+      "artists": [
+        {
+          "name": "Th\u1ecbnh Suy",
+          "url": "https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "tiny love",
+      "url": "https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "AMYGDALA",
+      "url": "https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU"
+    },
+    {
+      "added_at": "2023-05-13 10:15:13",
       "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
@@ -903,46 +939,6 @@
       "duration_ms": 212784,
       "name": "LIMBO",
       "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "Em Kh\u00f4ng Hi\u1ec3u",
-        "url": "https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn"
-      },
-      "artists": [
-        {
-          "name": "Changg",
-          "url": "https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9"
-        },
-        {
-          "name": "Minh Huy",
-          "url": "https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK"
-        }
-      ],
-      "duration_ms": 237419,
-      "name": "Em Kh\u00f4ng Hi\u1ec3u",
-      "url": "https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY"
-    },
-    {
-      "added_at": "2023-05-12 10:42:36",
-      "album": {
-        "name": "L\u00e0 Anh",
-        "url": "https://open.spotify.com/album/1XnlS3wXG8AKgVp9KW80LN"
-      },
-      "artists": [
-        {
-          "name": "Ph\u1ea1m L\u1ecbch",
-          "url": "https://open.spotify.com/artist/0uV9wXh91Nuk5YHYqlkVup"
-        },
-        {
-          "name": "BMZ",
-          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
-        }
-      ],
-      "duration_ms": 212395,
-      "name": "L\u00e0 Anh",
-      "url": "https://open.spotify.com/track/2LhXE2daNpLVv9LYXvYm8F"
     }
   ],
   "unique_name": "Top 50 - Vietnam",

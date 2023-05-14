@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 870941,
+  "num_followers": 871383,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTQ3YmU0NzhmYjJlODRlMGE2Y2Y2YjQwZWUzOTQ1Yzg4YTFkZjAy",
+  "snapshot_id": "MCw3NTkwZTNlZWU2OWEyMmE4ZDg1YTkwZmEwZGI2NjQ2MjkwZmJmMWRl",
   "tracks": [
     {
       "added_at": "2023-05-05 15:12:26",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
-        "name": "Admit It (u don't want 2)",
-        "url": "https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        }
-      ],
-      "duration_ms": 385074,
-      "name": "Admit It (u don't want 2)",
-      "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
         "name": "The Mirage EP",
         "url": "https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj"
       },
@@ -443,6 +423,22 @@
       "duration_ms": 371903,
       "name": "The Mirage",
       "url": "https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
+        "name": "Designer Love",
+        "url": "https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3"
+      },
+      "artists": [
+        {
+          "name": "MARIA Die RUHE",
+          "url": "https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Designer Love - Short Version",
+      "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
     },
     {
       "added_at": "2023-05-05 15:12:26",
@@ -467,22 +463,6 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
-        "name": "Designer Love",
-        "url": "https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3"
-      },
-      "artists": [
-        {
-          "name": "MARIA Die RUHE",
-          "url": "https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Designer Love - Short Version",
-      "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
         "name": "On My Knees (Adriatique Remix)",
         "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 452000,
       "name": "On My Knees - Adriatique Remix",
       "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
+        "name": "Admit It (u don't want 2)",
+        "url": "https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "duration_ms": 385074,
+      "name": "Admit It (u don't want 2)",
+      "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
     },
     {
       "added_at": "2023-05-05 15:12:26",

@@ -575,6 +575,32 @@
     },
     {
       "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/6JLTZDZtdxDuSyIoFmgB6Y"
+      },
+      "artists": [
+        {
+          "name": "Ash Walker",
+          "url": "https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F"
+        },
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255270,
+      "name": "Automaton",
+      "url": "https://open.spotify.com/track/0Kc1jnf1LPo04Jc8hLADFt"
+    },
+    {
+      "album": {
         "name": "avery",
         "url": "https://open.spotify.com/album/0KgMudHwHfZcI2E9NFjHXK"
       },
@@ -7536,7 +7562,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 319829,
       "name": "The Spinner",
       "url": "https://open.spotify.com/track/6xcRnI7LJAONyd2kmk5564"

@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos rom\u00e1nticos, de hoy y de siempre. Foto: Ricardo Montaner & Carlos Rivera",
-  "num_followers": 2018085,
+  "num_followers": 2018220,
   "original_name": "Hits Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjA3Njc2MGFiYmVkOTNiNTk2N2U2NmYyODk3ZTkwZDdiOGY4Yzhm",
+  "snapshot_id": "MCxmODlkYWExMzFkNTU3NzdlMjU3MzVjN2IxY2Y4ZmM3YjBiYTNkZTQx",
   "tracks": [
     {
       "added_at": "2023-05-05 03:23:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 212986,
       "name": "Todav\u00eda No Te Olvido (feat. Carlos Rivera)",
       "url": "https://open.spotify.com/track/1o4NhRBP3RSnK73rxfW4tU"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
         }
       ],
-      "duration_ms": 222946,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
+      "duration_ms": 185800,
+      "name": "Olv\u00eddame y Pega la Vuelta",
+      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Pimpinela",
-        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
       "artists": [
         {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 185800,
-      "name": "Olv\u00eddame y Pega la Vuelta",
-      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
+      "duration_ms": 222946,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/4LjyEL2sAQU7QZPC6GuTf6"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
         "name": "Confidencias",
         "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 291106,
       "name": "Hoy Tengo Ganas De Ti",
       "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/4LjyEL2sAQU7QZPC6GuTf6"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Desde Andalucia",
-        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 325466,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 206253,
       "name": "Caminar de Tu Mano (feat. Fonseca)",
       "url": "https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
+        "name": "Desde Andalucia",
+        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 325466,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Si Me Dejas Ahora",
-        "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Si Me Dejas Ahora",
-      "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 292573,
       "name": "Me Olvide De Vivir",
       "url": "https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
+        "name": "Si Me Dejas Ahora",
+        "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Si Me Dejas Ahora",
+      "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "El Privilegio De Amar",
-        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "El Privilegio De Amar",
-      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
         "name": "Sin Mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/1xW38xA3oVHef1d8FdIZs6"
       },
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
+        "name": "El Privilegio De Amar",
+        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "El Privilegio De Amar",
+      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
         "name": "Animal Nocturno",
         "url": "https://open.spotify.com/album/3BkE5kvMnXh6ljEvyCSR0I"
       },
@@ -1727,6 +1727,22 @@
       "duration_ms": 206000,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/7wNrk2vc0GUUNBFggJzEsI"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -1755,22 +1771,6 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Mas Turbada Que Nunca",
-        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
         "name": "Una Noche En Madrid",
         "url": "https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8"
       },
@@ -1783,22 +1783,6 @@
       "duration_ms": 263800,
       "name": "Si Te Pudiera Mentir - Live Version",
       "url": "https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
-        "name": "Canto Por Ti",
-        "url": "https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 239995,
-      "name": "Si Me Ten\u00edas",
-      "url": "https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -1819,22 +1803,6 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "He Renunciado a Ti - Remasterizado",
-      "url": "https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
         "name": "Al Fin Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
       },
@@ -1847,6 +1815,38 @@
       "duration_ms": 234480,
       "name": "Me Cambiaste la Vida",
       "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
+        "name": "Canto Por Ti",
+        "url": "https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 239995,
+      "name": "Si Me Ten\u00edas",
+      "url": "https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "He Renunciado a Ti - Remasterizado",
+      "url": "https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
-      "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
         "name": "Un Gato En La Oscuridad",
         "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 206706,
       "name": "Para Amarnos M\u00e1s",
       "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
+      "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
         "name": "Mi Vida Sin Tu Amor",
         "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 281693,
       "name": "Volver a Amar",
       "url": "https://open.spotify.com/track/6FgEE6uNgGz0RbH8nlF4as"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -2591,6 +2591,22 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
+        "name": "Convivencia",
+        "url": "https://open.spotify.com/album/6Haezy6jnX1KECgCV17Ofj"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Ahora Decide",
+      "url": "https://open.spotify.com/track/1iUU0K9bFKJw6dVZp5ZXyY"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
         "name": "Circo Soledad",
         "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
       },
@@ -2603,26 +2619,6 @@
       "duration_ms": 228493,
       "name": "El Cielo a Mi Favor",
       "url": "https://open.spotify.com/track/0BJwrbkZKf7KwlwBOJbD8i"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
-        "name": "Luc\u00eda y Joaqu\u00edn",
-        "url": "https://open.spotify.com/album/4iqZ5kHyeJUv1Id8XtEjmW"
-      },
-      "artists": [
-        {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        },
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 289746,
-      "name": "Por Ese Hombre (with Dyango)",
-      "url": "https://open.spotify.com/track/6Xj4KkWScUvO3LiowRl7GK"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -2731,34 +2727,22 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Tiempo de oto\u00f1o",
-        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "El amor",
-      "url": "https://open.spotify.com/track/02PDEtcbjtjIyllnqTZc7i"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
-        "name": "Convivencia",
-        "url": "https://open.spotify.com/album/6Haezy6jnX1KECgCV17Ofj"
+        "name": "Luc\u00eda y Joaqu\u00edn",
+        "url": "https://open.spotify.com/album/4iqZ5kHyeJUv1Id8XtEjmW"
       },
       "artists": [
         {
           "name": "Pimpinela",
           "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        },
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
         }
       ],
-      "duration_ms": 215600,
-      "name": "Ahora Decide",
-      "url": "https://open.spotify.com/track/1iUU0K9bFKJw6dVZp5ZXyY"
+      "duration_ms": 289746,
+      "name": "Por Ese Hombre (with Dyango)",
+      "url": "https://open.spotify.com/track/6Xj4KkWScUvO3LiowRl7GK"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -2779,6 +2763,22 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
+        "name": "Tiempo de oto\u00f1o",
+        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "El amor",
+      "url": "https://open.spotify.com/track/02PDEtcbjtjIyllnqTZc7i"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
         "name": "Sin Mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/1xW38xA3oVHef1d8FdIZs6"
       },
@@ -2795,6 +2795,22 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
+        "name": "Quien Como T\u00fa",
+        "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Qui\u00e9n Como T\u00fa",
+      "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
         "name": "A Flor De Piel",
         "url": "https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K"
       },
@@ -2807,22 +2823,6 @@
       "duration_ms": 229493,
       "name": "Por El Amor De Una Mujer",
       "url": "https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
-        "name": "Alma, Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
-      "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -2847,18 +2847,18 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Quien Como T\u00fa",
-        "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
+        "name": "Alma, Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Qui\u00e9n Como T\u00fa",
-      "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
+      "duration_ms": 206840,
+      "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
+      "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -2915,22 +2915,6 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/12IL7y0wXdRgACaBfV7Ts4"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 244520,
-      "name": "C\u00f3mo Quieren Que La Olvide",
-      "url": "https://open.spotify.com/track/3yzStvAWtHo48tpGDO7rSG"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
         "name": "Amigos No por Favor (Primera Fila) [En Vivo]",
         "url": "https://open.spotify.com/album/7KPtAyl2aUzJtjoz2GYIcE"
       },
@@ -2947,18 +2931,18 @@
     {
       "added_at": "2023-05-05 03:23:16",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U"
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/12IL7y0wXdRgACaBfV7Ts4"
       },
       "artists": [
         {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Coraz\u00f3n m\u00e1gico",
-      "url": "https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW"
+      "duration_ms": 244520,
+      "name": "C\u00f3mo Quieren Que La Olvide",
+      "url": "https://open.spotify.com/track/3yzStvAWtHo48tpGDO7rSG"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -2975,6 +2959,22 @@
       "duration_ms": 250644,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U"
+      },
+      "artists": [
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Coraz\u00f3n m\u00e1gico",
+      "url": "https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -3027,6 +3027,22 @@
       "duration_ms": 263493,
       "name": "La soledad - Versi\u00f3n 2001",
       "url": "https://open.spotify.com/track/75OneVe1xHrgSiVEOiLGxb"
+    },
+    {
+      "added_at": "2023-05-05 03:23:16",
+      "album": {
+        "name": "No Le Llames Amor",
+        "url": "https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 203639,
+      "name": "No Le Llames Amor",
+      "url": "https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej"
     },
     {
       "added_at": "2023-05-05 03:23:16",
@@ -3095,22 +3111,6 @@
       "duration_ms": 220466,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/3yeT1oIBRGuEhOb3OCvL2z"
-    },
-    {
-      "added_at": "2023-05-05 03:23:16",
-      "album": {
-        "name": "No Le Llames Amor",
-        "url": "https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 203639,
-      "name": "No Le Llames Amor",
-      "url": "https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej"
     },
     {
       "added_at": "2023-05-05 03:23:16",

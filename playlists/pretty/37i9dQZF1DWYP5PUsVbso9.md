@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,793 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,061 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kiss an Angel Good Mornin'](https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Essential Charley Pride](https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75) | 2:03 |
 | 2 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 |
-| 3 | [Annie's Song](https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:00 |
+| 3 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
 | 4 | [Delta Dawn](https://open.spotify.com/track/62qNdSlhFznQD0gHpCGrtw) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Delta Dawn](https://open.spotify.com/album/3iyNh3uhudXLW5tNLapDZS) | 2:58 |
 | 5 | [Rhinestone Cowboy](https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Rhinestone Cowboy \(Expanded Edition\)](https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky) | 3:14 |
-| 6 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
+| 6 | [Annie's Song](https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:00 |
 | 7 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:18 |
 | 8 | [Sleeping Single In A Double Bed \- Single Version](https://open.spotify.com/track/2Ln5JJOBoVDIoA8MJ2vG0C) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Ultimate Collection: Barbara Mandrell](https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX) | 2:18 |
 | 9 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 91 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 |
 | 92 | [Why Have You Left The One You Left Me For](https://open.spotify.com/track/4u2Fcnbsf2KtH7gE86vxM0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:56 |
 | 93 | [Every Time Two Fools Collide](https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Every Time Two Fools Collide](https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL) | 3:00 |
-| 94 | [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 |
-| 95 | [Heaven's Just A Sin Away](https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk) | [The Kendalls](https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN) | [The Kendalls \- 42 Massive Hits](https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz) | 2:25 |
+| 94 | [Heaven's Just A Sin Away](https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk) | [The Kendalls](https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN) | [The Kendalls \- 42 Massive Hits](https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz) | 2:25 |
+| 95 | [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 |
 | 96 | ['Til I Get It Right](https://open.spotify.com/track/64s3ywG24Rkgum7qIIA6wO) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 2:37 |
 | 97 | [East Bound and Down](https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0) | 2:47 |
 | 98 | [I Just Fall In Love Again](https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [New Kind Of Feeling](https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG) | 2:51 |
 | 99 | [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 3:12 |
 | 100 | [Till the End](https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [Till The End](https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F) | 2:46 |
 
-Snapshot ID: `MCw1YjI1ZGQzOGVmYTFjZmIzNWEwNDljYzQwYjQzNjc1M2NhOTFjZDAx`
+Snapshot ID: `MCxiNzE2YzdiNjhkZGU1MzcxZDg1NDMwNmRhMjIxMTk2ZTMzZWJhM2M5`

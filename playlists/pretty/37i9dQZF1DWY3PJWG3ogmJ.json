@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 565761,
+  "num_followers": 566040,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDBkNWQwMWY0ZDQ1NTRjM2Q3NzE0ZmQ2OWJkNTk1MWYxZDliYTIy",
+  "snapshot_id": "MCxkOGFjNTcyNmViZmE5ZjhiYjRkMGE4YTFmNDVkN2U0YWNhZGU4ZTdj",
   "tracks": [
     {
       "added_at": "2023-01-18 15:54:17",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Hindsight",
-        "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
-      },
-      "artists": [
-        {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
-        }
-      ],
-      "duration_ms": 131142,
-      "name": "Pigs Ear",
-      "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Absolute",
         "url": "https://open.spotify.com/album/6klYyVkzntFBjJch93UB6y"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 157770,
       "name": "Us & Them",
       "url": "https://open.spotify.com/track/34t86NDIJo7Q0pdqcK9SSw"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
+      },
+      "artists": [
+        {
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+        }
+      ],
+      "duration_ms": 131142,
+      "name": "Pigs Ear",
+      "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "SLEEPS SOCIETY",
+        "url": "https://open.spotify.com/album/79sFCnrZ9TPamHkqCOQwJA"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "duration_ms": 199429,
+      "name": "SLEEPS SOCIETY",
+      "url": "https://open.spotify.com/track/3ZFP6XrE0FHu4duyi7vRoL"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Killing Season",
         "url": "https://open.spotify.com/album/4BshWHZrni9fCgIqKOD43f"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 274586,
       "name": "Born in Dissonance",
       "url": "https://open.spotify.com/track/6GYyGwbJeHyFj9po98ZGpS"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "SLEEPS SOCIETY",
-        "url": "https://open.spotify.com/album/79sFCnrZ9TPamHkqCOQwJA"
-      },
-      "artists": [
-        {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        }
-      ],
-      "duration_ms": 199429,
-      "name": "SLEEPS SOCIETY",
-      "url": "https://open.spotify.com/track/3ZFP6XrE0FHu4duyi7vRoL"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "GRAVESIDE CONFESSIONS",
+        "url": "https://open.spotify.com/album/60laAVmomVOkxeHbcUqbKQ"
+      },
+      "artists": [
+        {
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+        }
+      ],
+      "duration_ms": 261252,
+      "name": "SLIT WRIST SAVIOR - Graveside Edition",
+      "url": "https://open.spotify.com/track/3Snjx8exeyc80Cbze9kzBy"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
         "url": "https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 194307,
       "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
       "url": "https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "GRAVESIDE CONFESSIONS",
-        "url": "https://open.spotify.com/album/60laAVmomVOkxeHbcUqbKQ"
-      },
-      "artists": [
-        {
-          "name": "Carnifex",
-          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
-        }
-      ],
-      "duration_ms": 261252,
-      "name": "SLIT WRIST SAVIOR - Graveside Edition",
-      "url": "https://open.spotify.com/track/3Snjx8exeyc80Cbze9kzBy"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "A New Responsibility",
-        "url": "https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W"
-      },
-      "artists": [
-        {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "A New Responsibility",
-      "url": "https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Obsidian",
         "url": "https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 291923,
       "name": "Obsidian",
       "url": "https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "A New Responsibility",
+        "url": "https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "A New Responsibility",
+      "url": "https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Rules",
+        "url": "https://open.spotify.com/album/7FH1a9pkDnGALu3wUpURs3"
+      },
+      "artists": [
+        {
+          "name": "First Blood",
+          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
+        }
+      ],
+      "duration_ms": 79238,
+      "name": "Fuck the Rules",
+      "url": "https://open.spotify.com/track/6BVWv9XJIOYpb1rv1a2BzG"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "GH\u00d8STKID",
         "url": "https://open.spotify.com/album/3FcNEcNgxEuBCXv8PbH3wT"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 290425,
       "name": "The Rise of Hannibal",
       "url": "https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Rules",
-        "url": "https://open.spotify.com/album/7FH1a9pkDnGALu3wUpURs3"
-      },
-      "artists": [
-        {
-          "name": "First Blood",
-          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
-        }
-      ],
-      "duration_ms": 79238,
-      "name": "Fuck the Rules",
-      "url": "https://open.spotify.com/track/6BVWv9XJIOYpb1rv1a2BzG"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Title Fight",
-        "url": "https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg"
-      },
-      "artists": [
-        {
-          "name": "We Are The Flesh",
-          "url": "https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q"
-        }
-      ],
-      "duration_ms": 236142,
-      "name": "Title Fight",
-      "url": "https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Days Before the World Wept",
         "url": "https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 293308,
       "name": "Remnants in Time",
       "url": "https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Title Fight",
+        "url": "https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg"
+      },
+      "artists": [
+        {
+          "name": "We Are The Flesh",
+          "url": "https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q"
+        }
+      ],
+      "duration_ms": 236142,
+      "name": "Title Fight",
+      "url": "https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Hammer of the Witch (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU"
-      },
-      "artists": [
-        {
-          "name": "Ringworm",
-          "url": "https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV"
-        }
-      ],
-      "duration_ms": 202215,
-      "name": "Hammer of the Witch",
-      "url": "https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "666-Pack",
         "url": "https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 92612,
       "name": "All Mosh / No Brain",
       "url": "https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Hammer of the Witch (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU"
+      },
+      "artists": [
+        {
+          "name": "Ringworm",
+          "url": "https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV"
+        }
+      ],
+      "duration_ms": 202215,
+      "name": "Hammer of the Witch",
+      "url": "https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Towards The Dying Lands",
-        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
-      },
-      "artists": [
-        {
-          "name": "Horizon Ignited",
-          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
-        }
-      ],
-      "duration_ms": 251406,
-      "name": "Reveries",
-      "url": "https://open.spotify.com/track/4qPgkvOEbh6AP8AHAyG62r"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The American Dream",
         "url": "https://open.spotify.com/album/0rtM1oLaYxWaDw3UMVaiL4"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 196546,
       "name": "The American Dream",
       "url": "https://open.spotify.com/track/0cJBr06QAVjv65hwrK90AU"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Towards The Dying Lands",
+        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
+      },
+      "artists": [
+        {
+          "name": "Horizon Ignited",
+          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
+        }
+      ],
+      "duration_ms": 251406,
+      "name": "Reveries",
+      "url": "https://open.spotify.com/track/4qPgkvOEbh6AP8AHAyG62r"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Your World Won't Listen",
+        "url": "https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh"
+      },
+      "artists": [
+        {
+          "name": "Cruel Hand",
+          "url": "https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Too Far From That",
+      "url": "https://open.spotify.com/track/5GHKtIzMv58arYqe6BUFHT"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "No Rest No Peace",
         "url": "https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ"
       },
@@ -1899,18 +1915,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Your World Won't Listen",
-        "url": "https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh"
+        "name": "Renaissance Noire",
+        "url": "https://open.spotify.com/album/62cj4fAYeia8TRD8VqrpbD"
       },
       "artists": [
         {
-          "name": "Cruel Hand",
-          "url": "https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV"
+          "name": "Spoil Engine",
+          "url": "https://open.spotify.com/artist/6nQqTxjWcBSDpjvVKRTfig"
         }
       ],
-      "duration_ms": 145200,
-      "name": "Too Far From That",
-      "url": "https://open.spotify.com/track/5GHKtIzMv58arYqe6BUFHT"
+      "duration_ms": 196876,
+      "name": "R!ot",
+      "url": "https://open.spotify.com/track/0zAb3JhZbExyPZxiGq9cky"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1947,22 +1963,6 @@
       "duration_ms": 168164,
       "name": "Strength to Draw the Line",
       "url": "https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Renaissance Noire",
-        "url": "https://open.spotify.com/album/62cj4fAYeia8TRD8VqrpbD"
-      },
-      "artists": [
-        {
-          "name": "Spoil Engine",
-          "url": "https://open.spotify.com/artist/6nQqTxjWcBSDpjvVKRTfig"
-        }
-      ],
-      "duration_ms": 196876,
-      "name": "R!ot",
-      "url": "https://open.spotify.com/track/0zAb3JhZbExyPZxiGq9cky"
     }
   ],
   "unique_name": "Extreme Metal Workout",

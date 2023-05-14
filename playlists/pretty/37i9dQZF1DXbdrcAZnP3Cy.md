@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,544 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,752 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 43 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
 | 44 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
 | 45 | [La Quebradora](https://open.spotify.com/track/6btlotyCLtZUlZogXYSLCy) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:07 |
-| 46 | [El Centenario](https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [15 Primeros Exitos Vol\. 1](https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq) | 2:36 |
-| 47 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
+| 46 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
+| 47 | [El Centenario](https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [15 Primeros Exitos Vol\. 1](https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq) | 2:36 |
 | 48 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
 | 49 | [¿Por Qué Terminamos?](https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 3:01 |
 | 50 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 |
-| 51 | [La Chona](https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Para Tucancillos y Tucancillas](https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb) | 3:19 |
-| 52 | [La Cumbia De La Cerveza](https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 2:49 |
+| 51 | [La Cumbia De La Cerveza](https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 2:49 |
+| 52 | [La Chona](https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Para Tucancillos y Tucancillas](https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb) | 3:19 |
 | 53 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 |
 | 54 | [El Muchacho Alegre](https://open.spotify.com/track/1vWFjySESZSYWZ8GCwGGWt) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Muchacho Alegre](https://open.spotify.com/album/7lgWY3Kx4zTv1fgv0qaRCx) | 2:36 |
 | 55 | [Payaso de rodeo](https://open.spotify.com/track/0EVcfyLGhkvm2RMXMWI456) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Payaso de rodeo](https://open.spotify.com/album/1NMqmkX9KhLoy5fXxtiS5S) | 4:14 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 63 | [La culebra](https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 3:08 |
 | 64 | [Techno Cumbia](https://open.spotify.com/track/2ZQB09LvHaOuMJBgCfOKHp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:47 |
 | 65 | [Cahuates, Pistaches](https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Cahuates, Pistaches](https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy) | 2:57 |
-| 66 | [Sshh!!](https://open.spotify.com/track/6FuPWuTNlltDIM26lPycVF) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:50 |
-| 67 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 |
+| 66 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 |
+| 67 | [Sshh!!](https://open.spotify.com/track/6FuPWuTNlltDIM26lPycVF) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:50 |
 | 68 | [El Coco No](https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:56 |
 | 69 | [Tragos Amargos](https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI) | 2:44 |
 | 70 | [Mis Sentimientos](https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cómo Te Voy A Olvidar ¡Edición De Súper Lujo!](https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd) | 3:36 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 89 | [La Dieta](https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 2:44 |
 | 90 | [Un Fin en Culiacán](https://open.spotify.com/track/0HfQLHvzSzPFCLKBpjCT16) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 2:34 |
 
-Snapshot ID: `MCxhNzRkMjlkZDAyNWQxOTNkMTEzYzBkNmYyZTYzZWFiNGNmMDlhNTc5`
+Snapshot ID: `MCw5NzdhZTQ4NDI0Y2RmYzRhMTkzNjk1YTUwM2E5MzYzYjYwNDRmOGM4`

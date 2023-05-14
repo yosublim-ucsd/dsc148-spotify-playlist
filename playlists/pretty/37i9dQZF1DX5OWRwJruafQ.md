@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,562 likes - 71 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,691 likes - 71 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 9 | [Hood Famous](https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Relentless](https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ) | 2:56 |
 | 10 | [Jaan Vaardi](https://open.spotify.com/track/5vFYS7eKsrq4HdeKrzZhfu) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp) | [Jaan Vaardi](https://open.spotify.com/album/0knl45XLCOvvGfiJWoTjkq) | 2:28 |
 | 11 | [Muchh \(From " Yaaran Da Rutbaa\)](https://open.spotify.com/track/46BRhYVMvVdqVCnkMxsZvM) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k) | [Muchh \(From " Yaaran Da Rutbaa\)](https://open.spotify.com/album/3Ld0wlvOJnsMD2KBdJSSVq) | 2:28 |
-| 12 | [Mann Di Ni Tu](https://open.spotify.com/track/27hoh50gG4ls3RIyZeCqiA) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Mann Di Ni Tu](https://open.spotify.com/album/2MouNJrp808vRMsSsMgDUJ) | 2:28 |
+| 12 | [Mann Di Ni Tu](https://open.spotify.com/track/27hoh50gG4ls3RIyZeCqiA) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Jay B Singh](https://open.spotify.com/artist/1MYShn4X7JAW6JfTsFQUWt) | [Mann Di Ni Tu](https://open.spotify.com/album/2MouNJrp808vRMsSsMgDUJ) | 2:28 |
 | 13 | [Shohrat](https://open.spotify.com/track/2SMVMeQdop9x1cW3wCr6Y4) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Shohrat](https://open.spotify.com/album/67gVqqexjN9khVmggJsLg5) | 3:39 |
 | 14 | [Toy](https://open.spotify.com/track/14pPJbEMx6JZU8RItbY1Vq) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Toy](https://open.spotify.com/album/4VrAmKqAphRMoDcYno8V25) | 3:04 |
 | 15 | [Good Luck](https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Good Luck](https://open.spotify.com/album/3zaGOSPJY6ADqytyWIM81N) | 3:31 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 70 | [Shartan](https://open.spotify.com/track/6eMG3Ofah1FiO6N8L4Y3Cp) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Mankirat Pannu](https://open.spotify.com/artist/2AH3Sxq7EJxkURX1kG53Mz) | [Shartan](https://open.spotify.com/album/2jNWvoRUGhWIiko0zPEepV) | 2:40 |
 | 71 | [Invincible \(feat\. Stefflon Don\)](https://open.spotify.com/track/2NBYiYtI4v1ujkhHZBq3xw) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:04 |
 
-Snapshot ID: `MCwyY2E5MTUxYTRkMWRkYWZjMDYxN2FiY2I3YjI3YTAzMWFlZDgwZjIx`
+Snapshot ID: `MCw5MjdhMzRiN2IxYWIxNDMxMWM0ZGY5YTNiMWRlMzg5NWY0MDliMmQw`

@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 449691,
+  "num_followers": 450135,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGUzOGJjNjk4NjBhMWI4NmNlMjhiZjNkNDkxZmUxZTM4NDZmNDk2",
+  "snapshot_id": "MCw3YTdlNzAwZmI2ZGNjNmU4NDNhNDY5ZWE2ZjZkYTRlYjczNDg5MzM5",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 164541,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
-    },
-    {
       "added_at": "2023-05-05 04:01:00",
       "album": {
         "name": "Hero",
@@ -567,6 +551,22 @@
       "duration_ms": 175271,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 183397,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Believe (feat. Goodboys)",
         "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
       },
@@ -847,26 +867,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Beggin'",
-        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 183397,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Stay the Night",
         "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
       },
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 132417,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Gimme That Bounce",
         "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Million Dollar Baby",
         "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
       },
@@ -1061,24 +1061,24 @@
       "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
+        "name": "Lose You (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
+      "duration_ms": 156404,
+      "name": "Lose You - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1103,6 +1103,26 @@
       "duration_ms": 141931,
       "name": "Rain In Ibiza",
       "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1191,22 +1211,26 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Lose You (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
+        "name": "Fool 4 U (feat. Enisa)",
+        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
         }
       ],
-      "duration_ms": 156404,
-      "name": "Lose You - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
+      "duration_ms": 146076,
+      "name": "Fool 4 U (feat. Enisa)",
+      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1227,6 +1251,26 @@
       "duration_ms": 176609,
       "name": "HISTORY",
       "url": "https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1255,50 +1299,6 @@
       "duration_ms": 121987,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Wings (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Wings (I Won't Let You Down)",
-      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Fool 4 U (feat. Enisa)",
-        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Enisa",
-          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
-        }
-      ],
-      "duration_ms": 146076,
-      "name": "Fool 4 U (feat. Enisa)",
-      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1393,6 +1393,30 @@
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
     },
     {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "duration_ms": 159161,
+      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Like Wooh Wooh",
@@ -1427,6 +1451,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Get Up Off The Floor",
+        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
+      },
+      "artists": [
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Get Up Off The Floor",
+      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9"
       },
@@ -1447,22 +1487,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Get Up Off The Floor",
-        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
-      },
-      "artists": [
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Get Up Off The Floor",
-      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "A Milli (SIDEPIECE Remix)",
         "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
       },
@@ -1479,30 +1503,6 @@
       "duration_ms": 153750,
       "name": "A Milli - SIDEPIECE Remix",
       "url": "https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
-        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
-        }
-      ],
-      "duration_ms": 159161,
-      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
-      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
     },
     {
       "added_at": "2023-04-21 04:00:00",

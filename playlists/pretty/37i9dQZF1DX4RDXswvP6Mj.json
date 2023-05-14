@@ -1,12 +1,12 @@
 {
   "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: aespa) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
-  "num_followers": 824751,
+  "num_followers": 825022,
   "original_name": "K-Club Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDA0NWExODJhMjdhNWI2ODk5MTVkMWYyMWEwOTY3OTA0NTk3ZjFm",
+  "snapshot_id": "MCxiMzE5Y2MzOWJlYzE1NzE4Y2UwNDA3N2FkM2YwMDljODk1OWQyZWM3",
   "tracks": [
     {
       "added_at": "2023-05-09 13:17:38",
@@ -531,8 +531,8 @@
     {
       "added_at": "2023-05-09 13:17:38",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 193260,
-      "name": "Drunk-Dazed",
-      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+      "duration_ms": 184601,
+      "name": "Polaroid Love",
+      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
       "added_at": "2023-05-09 13:17:38",
@@ -671,8 +671,8 @@
     {
       "added_at": "2023-05-09 13:17:38",
       "album": {
-        "name": "DIMENSION : ANSWER",
-        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
       "artists": [
         {
@@ -680,25 +680,9 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 184601,
-      "name": "Polaroid Love",
-      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
-    },
-    {
-      "added_at": "2023-05-09 13:17:38",
-      "album": {
-        "name": "PANDORA'S BOX",
-        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
-      },
-      "artists": [
-        {
-          "name": "MAVE:",
-          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "PANDORA",
-      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
+      "duration_ms": 193260,
+      "name": "Drunk-Dazed",
+      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
     },
     {
       "added_at": "2023-05-09 13:17:38",
@@ -715,6 +699,22 @@
       "duration_ms": 211350,
       "name": "DDU-DU DDU-DU",
       "url": "https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl"
+    },
+    {
+      "added_at": "2023-05-09 13:17:38",
+      "album": {
+        "name": "PANDORA'S BOX",
+        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
+      },
+      "artists": [
+        {
+          "name": "MAVE:",
+          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "PANDORA",
+      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
     },
     {
       "added_at": "2023-05-09 13:17:38",

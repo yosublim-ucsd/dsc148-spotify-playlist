@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: Fall Out Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,939,294 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,939,866 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 86 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
 | 87 | [Hands Down](https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [A Mark, A Mission, A Brand, A Scar](https://open.spotify.com/album/3I4DmkyMBifLVwrCT3eQ82) | 3:06 |
 | 88 | [I Just Wanna Live](https://open.spotify.com/track/5TjwiYZVMHVrGvRzbeCaV7) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Chronicles of Life and Death \("LIFE" version\)](https://open.spotify.com/album/6Qbaq8mJBFOV30nBMmqLxc) | 2:46 |
-| 89 | [Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off](https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:20 |
-| 90 | [I'd Do Anything](https://open.spotify.com/track/4uVjbl6daCwjhDur7qLddu) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:17 |
+| 89 | [I'd Do Anything](https://open.spotify.com/track/4uVjbl6daCwjhDur7qLddu) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:17 |
+| 90 | [Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off](https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:20 |
 | 91 | [Flavor Of The Weak](https://open.spotify.com/track/1UkMAtLU8NxsddE7j4zXGO) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [American Hi\-Fi](https://open.spotify.com/album/3lFnWZBoKJiMZiCOG8WQdU) | 3:08 |
 | 92 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
 | 93 | [High School Never Ends \- Main Version \- Explicit](https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [The Great Burrito Extortion Case](https://open.spotify.com/album/6vZyMIVJgA9c8MIkDtlHd2) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [Tell Me I'm A Wreck](https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv) | [Every Avenue](https://open.spotify.com/artist/1IpSmgcN9F3KNa7j9JtAE4) | [Picture Perfect](https://open.spotify.com/album/0MgL5MkrqC9wqDuiSedJ14) | 3:39 |
 | 100 | [I Don't Care \- Single Version](https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:34 |
 
-Snapshot ID: `MCxkODVkYWEyNTI4NGJiODRjM2Q0YzgzOGI3YTEyZTk5MTE1MTc3NzBm`
+Snapshot ID: `MCw5ZmIwMGFlOTkwOTE0MzYxNjFjNDAwNTFkYjU2YjI4MjAzMjBkMjMz`

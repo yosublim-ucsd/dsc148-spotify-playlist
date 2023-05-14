@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,769 likes - 80 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,907 likes - 80 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 38 | [Help Me Through The Day](https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Woman Across The River](https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs) | 4:30 |
 | 39 | [Kind Hearted Woman Blues](https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Me and Mr\. Johnson](https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh) | 4:06 |
 | 40 | [Personal Manager](https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 4:28 |
-| 41 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
-| 42 | [She Puts Me In The Mood](https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Big Fun](https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV) | 3:34 |
+| 41 | [She Puts Me In The Mood](https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Big Fun](https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV) | 3:34 |
+| 42 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
 | 43 | [Lord I Just Can't Keep from Crying](https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx) | [Bror Gunnar Jansson](https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q) | [For Blind Willie](https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB) | 6:01 |
 | 44 | [Night Time Is the Right Time](https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:50 |
 | 45 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
 | 46 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 |
-| 47 | [Blue Midnight](https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:24 |
-| 48 | [One Room Country Shack](https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 5:38 |
+| 47 | [One Room Country Shack](https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 5:38 |
+| 48 | [Blue Midnight](https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:24 |
 | 49 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
 | 50 | [Let Me Be](https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Working Man](https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu) | 5:32 |
 | 51 | [The Moon is Rising](https://open.spotify.com/track/736frSQjibzIkMg2byvPoW) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:13 |
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 57 | [Lights Are On, But Nobody's Home](https://open.spotify.com/track/3TeB242C2SSbghipVFGWzH) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Siftin' Thru Ashes](https://open.spotify.com/album/1EEuv8ktFyYOAvg4KdMWF3) | 6:36 |
 | 58 | [Driftin' Blues \- Live](https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Driftin' Blues \(Live\)](https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh) | 4:12 |
 | 59 | [I Know I've Been Changed](https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz) | [Miraculous Mule](https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf) | [Old Bones, New Fire](https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg) | 3:07 |
-| 60 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
-| 61 | [Night Shift Blues](https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo) | [Kai Strauss](https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E) | [Night Shift](https://open.spotify.com/album/0Z6lLiESF2XyG5EBJbI3OE) | 7:31 |
+| 60 | [Night Shift Blues](https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo) | [Kai Strauss](https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E) | [Night Shift](https://open.spotify.com/album/0Z6lLiESF2XyG5EBJbI3OE) | 7:31 |
+| 61 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
 | 62 | [Empty Bed Blues \- Mono](https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:52 |
 | 63 | [Sweet Little Angel](https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 5:30 |
 | 64 | [Here in the Delta](https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi) | [Jose Ramirez](https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm) | [Major League Blues](https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN) | 5:20 |
 | 65 | [Another Night to Cry](https://open.spotify.com/track/49awu7g0tzOjAL2dygxYbC) | [Blue Moon Marquee](https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1), [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Scream, Holler & Howl](https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ) | 5:53 |
-| 66 | [That Evening Train \- Remastered 2022](https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 3:06 |
-| 67 | [Hoodoo Man](https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [Packing My Bags](https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb) | 4:54 |
+| 66 | [Hoodoo Man](https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [Packing My Bags](https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb) | 4:54 |
+| 67 | [That Evening Train \- Remastered 2022](https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 3:06 |
 | 68 | [Wish Her Well](https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB) | [Emma Wilson](https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2) | [Wish Her Well](https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c) | 4:23 |
 | 69 | [Midnight Hour Blues](https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [Big City Blues](https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl) | 4:04 |
 | 70 | [Last Night](https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw) | [Jantso Jokelin](https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA) | [Silver Lining](https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC) | 3:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 79 | [Becky Ann \(feat\. Mitch Kaxhmar & Ronnie Shellist\)](https://open.spotify.com/track/11nL3Z9zd6uZWnVP51SCkC) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az) | 3:36 |
 | 80 | [The River's Invitation](https://open.spotify.com/track/0YdyUFdhdcHxq7Nfw6prq3) | [Percy Mayfield](https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU) | [Poet Of The Blues](https://open.spotify.com/album/7oD8K0s2rvJ53vjLurRLNf) | 2:52 |
 
-Snapshot ID: `MCxlNTYxNjJkOTFiYTMyZjM1YWU1M2E3ODRhMjExYTY0MGMxY2JmY2Jj`
+Snapshot ID: `MCw2ZjVkMGMzMTk0Zjc2NmZjNTY2MWRkNjQ0MTJmM2UxYjcxYjQ0OTVl`

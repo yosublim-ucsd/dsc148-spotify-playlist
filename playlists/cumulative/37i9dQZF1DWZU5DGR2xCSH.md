@@ -4,7 +4,7 @@
 
 > Los abanderados del rock argentino y sus himnos con Fito Paez.
 
-138 songs - 9 hr 22 min
+139 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Balada Del Diablo y La Muerte](https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 5:36 | 2022-05-20 | 2022-07-25 |
 | [Bicho de Ciudad](https://open.spotify.com/track/1L9ybuuZdLY3biLEgfN4zB) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Civilización](https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN) | 5:20 | 2022-05-20 |  |
 | [Canción de Cuna](https://open.spotify.com/track/6dkGg8FxGzFVRdcMsuVhkb) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Máquina de Sangre](https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx) | 5:40 | 2022-05-20 | 2022-07-29 |
+| [Cerca De La Revolucion](https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/17utekM9a95MchXbkbh47k) | 4:40 | 2023-05-03 |  |
 | [Cerca De La Revolucion](https://open.spotify.com/track/6KrSQXiwgnWBv6E4tTjbdF) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL) | 4:40 | 2022-05-20 | 2022-07-26 |
 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 | 2022-06-07 | 2022-12-20 |
 | [Circo beat](https://open.spotify.com/track/3pOZ858QkKdCCTONxISQa8) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 5:43 | 2022-05-20 |  |
@@ -106,7 +107,7 @@
 | [Pronta Entrega](https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 4:33 | 2022-05-20 |  |
 | [Prófugos \- Remasterizado 2007](https://open.spotify.com/track/1Tja3miBbbENpqIOAqGWXa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 5:17 | 2022-05-20 |  |
 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 | 2022-05-20 |  |
-| [Quieren Rock](https://open.spotify.com/track/7KZWjw7JURpLC80tasSdlR) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Buen Dia](https://open.spotify.com/album/3Cm6V0jTg2MMseB6oAfTDg) | 3:44 | 2022-08-12 |  |
+| [Quieren Rock](https://open.spotify.com/track/7KZWjw7JURpLC80tasSdlR) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Buen Dia](https://open.spotify.com/album/3Cm6V0jTg2MMseB6oAfTDg) | 3:44 | 2022-08-12 | 2023-05-14 |
 | [Raíz \(Sinfónico en Vivo\)](https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 4:07 | 2022-08-12 | 2023-05-04 |
 | [Rock del Gato](https://open.spotify.com/track/3QyB8F5ZhYoai6qjC3evt4) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Furtivos](https://open.spotify.com/album/7ICXWFt2A3KeYgKLbvOmsl) | 3:02 | 2022-05-20 |  |
 | [Rubí](https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:45 | 2022-05-20 | 2022-07-20 |

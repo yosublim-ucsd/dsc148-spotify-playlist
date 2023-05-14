@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- New Zealand.
 
-914 songs - 2 day 4 hr 45 min
+915 songs - 2 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-16 | 2023-02-18 |
 | [go \- goddard\. Remix](https://open.spotify.com/track/6RZo8T7GY9EoWZXC5i2587) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:12 | 2022-08-13 | 2022-10-23 |
 | [go \- goddard\. Remix](https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [go \(goddard\. Remix\)](https://open.spotify.com/album/7K8W66c9ZMtVVYDLGOlffv) | 3:12 | 2022-04-12 | 2022-08-14 |
-| [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 | 2021-04-05 | 2023-05-02 |
+| [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 | 2021-04-05 |  |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-04 |
 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 | 2023-03-07 | 2023-03-11 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-10-26 |  |
@@ -360,7 +360,7 @@
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-17 | 2022-10-02 |
 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 | 2021-12-27 | 2022-12-29 |
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 2:22 | 2022-11-03 | 2022-11-05 |
-| [hotline \(edit\)](https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [hotline \(edit\)](https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP) | 1:00 | 2023-05-12 |  |
+| [hotline \(edit\)](https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [hotline \(edit\)](https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP) | 1:00 | 2023-05-12 | 2023-05-14 |
 | [Hours In Silence](https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 6:39 | 2022-11-05 | 2022-11-10 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-12 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 2:43 | 2023-01-09 | 2023-02-03 |
@@ -518,6 +518,7 @@
 | [Mastermind](https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:11 | 2022-10-24 | 2022-11-11 |
 | [Mastermind](https://open.spotify.com/track/7zcJSflhqcSGICHUjgncnj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 3:11 | 2022-10-22 | 2022-10-24 |
 | [Mata Kohore / Stoned at the Nail Salon](https://open.spotify.com/track/58KseMS95tzgRJCth4hZ5I) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Te Ao Mārama](https://open.spotify.com/album/0fPuf1jv42CH5okF6MjKmE) | 4:26 | 2021-09-11 | 2021-09-12 |
+| [MATHEMATICAL DISRESPECT](https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [MATHEMATICAL DISRESPECT](https://open.spotify.com/album/2na9riat7uwn9pax75cJue) | 1:28 | 2023-05-13 |  |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-20 | 2023-03-13 |
 | [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-06-09 | 2022-06-18 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-09-07 | 2022-03-02 |
@@ -620,7 +621,7 @@
 | [PAINTING PICTURES](https://open.spotify.com/track/4Iry561oo2lujsgL77oCnm) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/5ASBbAgO8v9AHDUICfEHJx) | 2:02 | 2023-03-03 | 2023-03-05 |
 | [Painting Pictures](https://open.spotify.com/track/2OgIbXHmuRJowDwtmezcio) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/1XciNWcYMtjVEjgEQXXxSN) | 2:02 | 2023-03-01 | 2023-03-04 |
 | [Painting Pictures](https://open.spotify.com/track/4ElnYhTeJEx90XrPDlLzH9) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/4rOjLnFYn6xZSEKkR86qEV) | 2:02 | 2023-02-28 | 2023-03-02 |
-| [PAINTING PICTURES](https://open.spotify.com/track/6KXKcH4QO1MiGrMQOGoADP) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/485hROfaw36i4rniIeXPbI) | 2:02 | 2023-03-15 |  |
+| [PAINTING PICTURES](https://open.spotify.com/track/6KXKcH4QO1MiGrMQOGoADP) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/485hROfaw36i4rniIeXPbI) | 2:02 | 2023-03-15 | 2023-05-14 |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-17 | 2023-03-15 |
 | [Painting Pictures](https://open.spotify.com/track/6MGsx3Usu6IJbbYFoAOEtv) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/1YUIYk4vwMkEz6WjZBwXaP) | 2:02 | 2023-03-30 | 2023-04-03 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-14 |

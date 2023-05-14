@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,845 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,874 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 19 | [Lie No Better](https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Let's Roll](https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z) | 3:30 |
 | 20 | [Funky Bitch](https://open.spotify.com/track/2YYFIVPhSTE4gCF7slbtDh) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:32 |
 | 21 | [You're Losin' Me](https://open.spotify.com/track/0DID8Ir6yeko5KoXCXwOnL) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:52 |
-| 22 | [Come To Mama](https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:48 |
-| 23 | [What Are You Doin' to Me](https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [I'm a Bluesman](https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv) | 3:58 |
+| 22 | [What Are You Doin' to Me](https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [I'm a Bluesman](https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv) | 3:58 |
+| 23 | [Come To Mama](https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:48 |
 | 24 | [Grits Ain't Groceries \(All Around The World\)](https://open.spotify.com/track/6SXpeLiRALz6OlaaTLGEqj) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Rockin' The Blues](https://open.spotify.com/album/4jA0QvDt94H22KfLsEjELk) | 2:41 |
 | 25 | [Bad Axe](https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Deluxe Edition](https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL) | 3:13 |
 | 26 | [A Man's Got To Do What A Man's Got To Do](https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Satisfaction Guaranteed](https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 49 | [Hard Times](https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS) | [The Hoodoo Kings](https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR) | [The Hoodoo Kings](https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz) | 4:26 |
 | 50 | [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 |
 
-Snapshot ID: `MCw1ODBkZDgzYTk1N2Q1ZTNlYmNhMzA3MTA1YTIxMTA3NWQ1NmFlODMy`
+Snapshot ID: `MCw2YmI4ODljNWM5Y2I5MDg5ZjgyMDg2ZWNmNWJlMzAzMTJkOWIzOTgw`

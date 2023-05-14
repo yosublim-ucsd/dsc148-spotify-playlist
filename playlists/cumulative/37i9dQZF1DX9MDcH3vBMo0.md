@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-614 songs - 1 day 2 hr 46 min
+615 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,6 +534,7 @@
 | [The Field](https://open.spotify.com/track/7Mas670FmorgBqp0GnZOHb) | [Leonard Gambrell](https://open.spotify.com/artist/3UjODKnwbU318wOJhcuxSG) | [The Field](https://open.spotify.com/album/3IboYSaQu2t0zoFU7BkG6Z) | 2:36 | 2022-04-21 | 2022-07-21 |
 | [The Garden](https://open.spotify.com/track/5zxpOwuLmakNHkTgipD0me) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Simple Things](https://open.spotify.com/album/2Mb8DzYuYlPIM1IaNmO0oq) | 3:05 | 2022-04-21 | 2022-09-24 |
 | [The Greek](https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [The Greek](https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb) | 2:44 | 2022-07-20 | 2023-01-21 |
+| [The Light Of That Morning](https://open.spotify.com/track/3hA4o2GOVotNTAzZEY7kBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Light Of That Morning](https://open.spotify.com/album/6uAyUcY2newV2vsoPiBLdV) | 2:34 | 2023-05-03 |  |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2022-04-21 | 2023-02-01 |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-04-21 | 2022-07-21 |
 | [The Phenomenon](https://open.spotify.com/track/6QCddEiJ7fLtmoGsq1kWdq) | [Macauley Hubert](https://open.spotify.com/artist/0XeGtlvUw6IYSA0HY3rjF8) | [The Phenomenon](https://open.spotify.com/album/5Z143iLwtuMHwu5NvUafJh) | 2:30 | 2022-04-21 | 2022-12-24 |
@@ -576,7 +577,7 @@
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2022-04-21 |  |
 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 | 2022-04-21 |  |
 | [Utsjoki](https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Utsjoki](https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT) | 2:23 | 2023-04-09 |  |
-| [Vaikne](https://open.spotify.com/track/0hRVNF5ZBfvbRtHKFQItr4) | [Rein Ilves](https://open.spotify.com/artist/1WkXyHkNDesVuoy1Q64ILn) | [Vaikne](https://open.spotify.com/album/5zCCxMWQbzOgzl4nij0PVT) | 2:07 | 2022-04-21 |  |
+| [Vaikne](https://open.spotify.com/track/0hRVNF5ZBfvbRtHKFQItr4) | [Rein Ilves](https://open.spotify.com/artist/1WkXyHkNDesVuoy1Q64ILn) | [Vaikne](https://open.spotify.com/album/5zCCxMWQbzOgzl4nij0PVT) | 2:07 | 2022-04-21 | 2023-05-14 |
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2022-04-21 | 2022-09-28 |
 | [Venjan](https://open.spotify.com/track/1Q2GGydtsco68kLjwfyTMu) | [Harry Bergqvist](https://open.spotify.com/artist/7edUGJR9gORcdARCKR76ks) | [Venjan](https://open.spotify.com/album/7qnL09lriGNex377C6R0Ma) | 1:51 | 2022-04-21 | 2022-09-24 |
 | [Vergessene Zeiten](https://open.spotify.com/track/2U7hQHEbYzlYYhV0yqYaQI) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Vergessene Zeiten](https://open.spotify.com/album/2xisx6CwKCefRI1EXVQ1rB) | 2:42 | 2022-08-09 | 2022-09-24 |

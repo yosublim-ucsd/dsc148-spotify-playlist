@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Christian Nodal en portada.
 
-502 songs - 1 day 3 hr 34 min
+503 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Callejera](https://open.spotify.com/track/6DoeuCz4P0NmD4aCghjgpf) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Callejera](https://open.spotify.com/album/1Q0pBlUdKI9x3ueSfFRIas) | 3:43 | 2022-02-01 | 2022-02-12 |
 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 | 2023-01-06 | 2023-03-04 |
 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 | 2023-03-17 | 2023-04-01 |
+| [CCC](https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [CCC](https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll) | 2:06 | 2023-05-12 |  |
 | [Ch y la Pizza](https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ch y la Pizza](https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa) | 2:16 | 2022-12-02 | 2023-03-11 |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-02-24 | 2022-12-03 |
 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 | 2022-03-11 | 2022-05-07 |
@@ -460,7 +461,7 @@
 | [Tírame Un Hello](https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Tírame Un Hello](https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g) | 2:49 | 2022-01-13 | 2022-05-07 |
 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 | 2022-03-04 | 2022-11-12 |
 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tú Me Llevas a Un Espacio](https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8) | 3:13 | 2023-05-12 |  |
-| [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 | 2023-03-10 |  |
+| [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 | 2023-03-10 | 2023-05-14 |
 | [Ultimate \(ft\. Snow Tha Product\)](https://open.spotify.com/track/3cQo8Sz2SaYHcPFXrqBxGT) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Ultimate \(ft\. Snow Tha Product\)](https://open.spotify.com/album/4qGyc7iOQDVBlIrq1VXtu6) | 3:33 | 2022-08-26 | 2022-12-17 |
 | [Un Amor Como Este](https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Un Amor Como Este](https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW) | 3:05 | 2023-03-03 |  |
 | [Un Chingazo](https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Un Chingazo](https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG) | 3:09 | 2022-06-28 | 2022-10-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Texas' own Parker McCollum is taking over to celebrate the release of his new album "Never Enough"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,970 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,132 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 64 | [Wave on Wave](https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Wave On Wave](https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V) | 4:04 |
 | 65 | [New Year's Day](https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Good Times](https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z) | 3:54 |
 | 66 | [Austin](https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Austin](https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG) | 4:34 |
-| 67 | [Ain't a Train](https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a) | 3:05 |
-| 68 | [Bury My Bones](https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Bury My Bones](https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu) | 4:19 |
+| 67 | [Bury My Bones](https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Bury My Bones](https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu) | 4:19 |
+| 68 | [Ain't a Train](https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a) | 3:05 |
 | 69 | [In My Arms Instead](https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Randy Rogers Band](https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup) | 5:18 |
 | 70 | [Wicked Twisted Road](https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv) | [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [Wicked Twisted Road](https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC) | 3:25 |
 | 71 | [Some Things Never Change](https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:20 |
@@ -84,12 +84,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 74 | [She Likes the Beatles](https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Rose Queen](https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5) | 4:16 |
 | 75 | [She's Like Texas](https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [She's Like Texas](https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au) | 3:55 |
 | 76 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:10 |
-| 77 | [My Hometown](https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Life Of The Party](https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N) | 4:22 |
-| 78 | [He Stopped Loving Her Today](https://open.spotify.com/track/4BcrWCZPXuoGU0SnAsJW1s) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:17 |
+| 77 | [He Stopped Loving Her Today](https://open.spotify.com/track/4BcrWCZPXuoGU0SnAsJW1s) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:17 |
+| 78 | [My Hometown](https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Life Of The Party](https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N) | 4:22 |
 | 79 | [Buy Myself A Chance](https://open.spotify.com/track/1EHNNWLiWe1PJADKEnMvIr) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Randy Rogers Band](https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup) | 3:41 |
 | 80 | [White Trash Story](https://open.spotify.com/track/6h0FOQxhnq0iqVsf0I9WsZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Casey Donahew Band](https://open.spotify.com/album/6n3Xw5SEV5i3wuLHTYr2OU) | 3:40 |
-| 81 | [Texas Rain](https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k) | [Seven Miles South](https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd) | [Resurrection EP](https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx) | 3:31 |
-| 82 | [Don't Tell Me](https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:40 |
+| 81 | [Don't Tell Me](https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:40 |
+| 82 | [Texas Rain](https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k) | [Seven Miles South](https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd) | [Resurrection EP](https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx) | 3:31 |
 | 83 | [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 |
 | 84 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
 | 85 | [Fall](https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last \(Deluxe Edition\)](https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 99 | ['Til It Does](https://open.spotify.com/track/2cUR2tZlH6fAlNpIjZ9RlQ) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 1](https://open.spotify.com/album/0fEg7eJ2ev0c0UOztpxBra) | 3:36 |
 | 100 | [Kiss Me](https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:28 |
 
-Snapshot ID: `MCxkYjNmODA2OWMwNWY4ZjdiMjkwOTI0OTI4NjI4MDYxNTU5ZmUwMWU5`
+Snapshot ID: `MCxkMDNlOTU4YzdiYjllODRiNWY3Y2M5NWNkMjBmYjc4MjNlOTE0YjAy`

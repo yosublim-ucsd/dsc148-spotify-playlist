@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 286693,
       "name": "Heresy",
       "url": "https://open.spotify.com/track/4c6yZLnA730uJgQf9fTW2M"
@@ -722,6 +722,24 @@
       "duration_ms": 284626,
       "name": "Suicide Note, Pt. 1",
       "url": "https://open.spotify.com/track/0CcmoDwo2KAACTPoy87F8V"
+    },
+    {
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258093,
+      "name": "The Art of Shredding",
+      "url": "https://open.spotify.com/track/17sbfQLWxyC0ciBXi9g54f"
     },
     {
       "album": {

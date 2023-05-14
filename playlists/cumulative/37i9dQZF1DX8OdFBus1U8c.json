@@ -320,6 +320,28 @@
     {
       "album": {
         "name": "Christophonk (From \"Christopher\")",
+        "url": "https://open.spotify.com/album/0SV2MCJcut7l3iveH7Bz9i"
+      },
+      "artists": [
+        {
+          "name": "Justin Varghese",
+          "url": "https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh"
+        },
+        {
+          "name": "Jack Styles",
+          "url": "https://open.spotify.com/artist/3LWPN38wkJ1YQe8J49FxzG"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183048,
+      "name": "Christophonk (From \"Christopher\")",
+      "url": "https://open.spotify.com/track/1dZBse9huzwfLqVGZyh7vD"
+    },
+    {
+      "album": {
+        "name": "Christophonk (From \"Christopher\")",
         "url": "https://open.spotify.com/album/5pA4niMvQrImq86LhFi0UG"
       },
       "artists": [
@@ -334,7 +356,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 183048,
       "name": "Christophonk (From \"Christopher\")",
       "url": "https://open.spotify.com/track/3XXWboGxbRNMBMvDFmrwNx"
@@ -1314,7 +1336,7 @@
     {
       "album": {
         "name": "Voice of Voiceless",
-        "url": "https://open.spotify.com/album/75UW4S2HXK13WcZGF0jpJc"
+        "url": "https://open.spotify.com/album/2YRk162JljfmD25M71gql8"
       },
       "artists": [
         {
@@ -1325,6 +1347,24 @@
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186874,
+      "name": "Voice of Voiceless",
+      "url": "https://open.spotify.com/track/0fuSvkUjYtk5iqbyNIptZN"
+    },
+    {
+      "album": {
+        "name": "Voice of Voiceless",
+        "url": "https://open.spotify.com/album/75UW4S2HXK13WcZGF0jpJc"
+      },
+      "artists": [
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
       "duration_ms": 186874,
       "name": "Voice of Voiceless",
       "url": "https://open.spotify.com/track/2zMoJSaDqs4CqmYY2xsYce"

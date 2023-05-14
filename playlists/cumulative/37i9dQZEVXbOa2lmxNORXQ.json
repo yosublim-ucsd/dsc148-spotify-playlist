@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Acr\u00f3stico",
+        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170785,
+      "name": "Acr\u00f3stico",
+      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
+    },
+    {
+      "album": {
         "name": "Adictos al Juego",
         "url": "https://open.spotify.com/album/0WItPuyCGwK5NbDhgPw3KJ"
       },
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 223019,
       "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
       "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
@@ -6844,7 +6862,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -8353,6 +8371,24 @@
     },
     {
       "album": {
+        "name": "Mxfix G5",
+        "url": "https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154520,
+      "name": "Mxfix G5",
+      "url": "https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz"
+    },
+    {
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -8672,7 +8708,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
@@ -12540,6 +12576,24 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
+    },
+    {
+      "album": {
+        "name": "Un Cigarrillo",
+        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "Un Cigarrillo",
+      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
     },
     {
       "album": {

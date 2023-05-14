@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Néza, Luchè, Dylan, Kid Yugi e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,635 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,661 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 12 | [FIGLIO DI PAPI](https://open.spotify.com/track/72YluxGFurbKqbplTgWFBp) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [FIGLIO DI PAPI](https://open.spotify.com/album/33oNXsuhEYkNVDrl2qBFhr) | 1:41 |
 | 13 | [Everyday](https://open.spotify.com/track/5x2BamFBPDVIt9qWODRqm5) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi) | [Everyday](https://open.spotify.com/album/6ZdNbKAAb2DXa60x3bpVEE) | 3:02 |
 | 14 | [NEL TUO LOOP](https://open.spotify.com/track/7mxlOinLiYCeQQYh4r8j7X) | [Rayan Seventeen17](https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S) | [NEL TUO LOOP](https://open.spotify.com/album/1Co9m0N5DPIhG197m8Y3Xo) | 2:58 |
-| 15 | [GIÙ](https://open.spotify.com/track/1j8ilJHqTxKlQ3DKetEJ2N) | [XWOND](https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g), [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [GIÙ](https://open.spotify.com/album/5S4rwm3ULgDEA8JLBotomw) | 2:18 |
+| 15 | [GIÙ](https://open.spotify.com/track/1j8ilJHqTxKlQ3DKetEJ2N) | [XWOND](https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g), [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Reizon](https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX) | [GIÙ](https://open.spotify.com/album/5S4rwm3ULgDEA8JLBotomw) | 2:18 |
 | 16 | [LUSSO](https://open.spotify.com/track/4hzhqW92Mncgm9koXMcGhz) | [Eva Bloo](https://open.spotify.com/artist/61Um32QN2K3bFQaLu6t6Of) | [LUSSO](https://open.spotify.com/album/2YiMWNgWH11RB9uvrJzvsr) | 2:59 |
 | 17 | [REAL](https://open.spotify.com/track/5NTiPocfavOmm5OkxTcBab) | [Teaser T/$/R](https://open.spotify.com/artist/6CRAZfqUNkPVBd2nsDhChX), [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn) | [REAL](https://open.spotify.com/album/5grGPjtVsF2LW67qpFCq7a) | 2:57 |
 | 18 | [Cyborg](https://open.spotify.com/track/2syVrLPYKnK32wtAHIUbPn) | [STT](https://open.spotify.com/artist/6c60C0NWReBTcF3GPLvjYY) | [Fratelli pt.1](https://open.spotify.com/album/58RhpXkabdadI35hBHplKa) | 3:04 |
 | 19 | [Come Mike](https://open.spotify.com/track/73xV71DDiHvCfrpUOPcNvb) | [Cancun](https://open.spotify.com/artist/2CFSNUGQpQF9w7UhYIpKVY) | [Come Mike](https://open.spotify.com/album/0EGYbFaZCSbSuifcVncTd0) | 2:34 |
 | 20 | [Royalty](https://open.spotify.com/track/21kRy3Z2XAL80IOabWrOnx) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Baloo](https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA) | [Royalty \(Stirpe Nova, Vol.2\)](https://open.spotify.com/album/0eNJ6p3SIEa9o6PxJV35Bn) | 2:57 |
 | 21 | [Mandibola](https://open.spotify.com/track/3zlJXuD20SAt38wHoRkT2C) | [Mudimbi](https://open.spotify.com/artist/0pmgwPGqkEVI0zPABTxPVR) | [Mandibola](https://open.spotify.com/album/7pPDASLr5UVRIPpkTrhFUo) | 3:11 |
-| 22 | [MEDUSA](https://open.spotify.com/track/0i2aozcNUsABt77C9tkNKN) | [Manar](https://open.spotify.com/artist/4yRcyBTnBfZiOjxvV3zqd2), [Dek](https://open.spotify.com/artist/5JJ7c7tHdruNXE6KcqrriX) | [MEDUSA](https://open.spotify.com/album/4XhXt1UFisvOSwm7e1cNe5) | 2:02 |
+| 22 | [MEDUSA](https://open.spotify.com/track/0i2aozcNUsABt77C9tkNKN) | [Manar](https://open.spotify.com/artist/4yRcyBTnBfZiOjxvV3zqd2), [Dek](https://open.spotify.com/artist/4T7ahRbruPOqZSPyOSQjvj) | [MEDUSA](https://open.spotify.com/album/4XhXt1UFisvOSwm7e1cNe5) | 2:02 |
 | 23 | [TOXIC](https://open.spotify.com/track/1iqptdxYyCRi0Gwik6sH9L) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [EMOTIONAL DAMAGE](https://open.spotify.com/album/0KogfLFbZ5o4DackervXzB) | 2:49 |
 | 24 | [00 Fondazione](https://open.spotify.com/track/1R0iLYEouUIEaOi4hAZK2h) | [letteredistrada](https://open.spotify.com/artist/3kTQPUH3D8Deb9OM9GerEG) | [00 Fondazione](https://open.spotify.com/album/2JX980aTTIkSj0sKad3Kxy) | 2:06 |
 | 25 | [Luce dei fari](https://open.spotify.com/track/42DWicYRud88xdCKTB87su) | [Mastarais](https://open.spotify.com/artist/5Bj2x6Ly5Ma3roaWVTrAma) | [Luce dei fari](https://open.spotify.com/album/5uzykfmTtrykRj2Vf0y5dC) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [MASHALLAH](https://open.spotify.com/track/22WYQTGU6FSlvoUqnS5bjF) | [Grelmos](https://open.spotify.com/artist/1u50IuLSHEITB0XFdcMUyY) | [MASHALLAH](https://open.spotify.com/album/1TdFiqQSBhSjZ7f04YA8Nb) | 2:26 |
 | 100 | [Tony Touch](https://open.spotify.com/track/04rB1C1hk5tTMLKsadw3Ie) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [Adriacosta](https://open.spotify.com/artist/2zK3CvLgTmiJzT9d38fuoW), [Gionni Gioielli](https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z), [Nex Cassel](https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe), [Gionni Grano](https://open.spotify.com/artist/5Lp6pNq4km6sycD2mmgFIb), [DJ Bonz](https://open.spotify.com/artist/140cowp52Tvl7eMCs1Ecdy) | [MIXTAPE SEASON](https://open.spotify.com/album/5jea46s4Z6fmrdZyEX9VMH) | 3:35 |
 
-Snapshot ID: `MCxhYWM4YzgwYWI3ZjU1OTcxYWM4MmE5Y2EyOGM4NGE3M2RjYjA0MzRm`
+Snapshot ID: `MCxiYTdhYTRjN2I0MmNlMWI2ZTBkMTY0YmU5YWJkMTYzNjRjMWEyZTRl`

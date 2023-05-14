@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > Exceptionally vivid icebreaker in your love pursuit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,677 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,711 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 29 | [In Case You Don't Know](https://open.spotify.com/track/6gGmfPBMuAYZsm78uaW9Cg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [The Love Album](https://open.spotify.com/album/6oGApINTocokzfDCkgVfkT) | 3:30 |
 | 30 | [Nenda](https://open.spotify.com/track/6RpnK5WTfd82wHnJlKcJBS) | [Gabby Rnb](https://open.spotify.com/artist/7qyETqoh8xSHGFFeNfOlmp) | [Nenda](https://open.spotify.com/album/4Bv7f63ScZR7DwLapCeVgk) | 3:18 |
 | 31 | [Marry Me \(feat\. Marioo\)](https://open.spotify.com/track/0TS6oda4nNVHwn8k9V7SJu) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 3:45 |
-| 32 | [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 |
+| 32 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 |
 | 33 | [Mi Amor](https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Mi Amor](https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm) | 3:05 |
 | 34 | [Katerina](https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Katerina](https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U) | 4:35 |
 | 35 | [I Wish](https://open.spotify.com/track/4GIfPrNdScX8VS7uL931G4) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [I Wish](https://open.spotify.com/album/3PHJ72Y8qHslPZ6gPIkj8V) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 49 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 |
 | 50 | [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 |
 
-Snapshot ID: `MCxjODBjNWI3OGI5NThlY2U3OTA2ZTZmYTU1YzY4N2RmZjk0NTc0NjEz`
+Snapshot ID: `MCw4NzRiNzUzZmYxMTAwNTY4MjRiYmMyYTZmNjAxODY4MWYwMDI0OTdi`

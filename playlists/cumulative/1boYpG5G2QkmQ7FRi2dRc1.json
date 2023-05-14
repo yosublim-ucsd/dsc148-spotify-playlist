@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Aspirin",
+        "url": "https://open.spotify.com/album/3qxIR5WOrNlTio5OZ0Mhg5"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190535,
+      "name": "Aspirin",
+      "url": "https://open.spotify.com/track/0bsdo8CM58RrF4aXg9vZBs"
+    },
+    {
+      "album": {
         "name": "Assumptions (Kaytranada Edit)",
         "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
       },
@@ -8426,6 +8444,24 @@
       "duration_ms": 210000,
       "name": "Praise the Day (MARTEN H\u00d8RGER Remix)",
       "url": "https://open.spotify.com/track/7JcWezUWycUsV9HPrSq7Zs"
+    },
+    {
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/7lzF0BCgbMpP9aFbsPje5l"
+      },
+      "artists": [
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263809,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/556EvdXoVoBPcS8UW3F9P9"
     },
     {
       "album": {

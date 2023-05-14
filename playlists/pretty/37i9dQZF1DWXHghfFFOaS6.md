@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,067 likes - 90 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,481 likes - 90 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 57 | [Beatmaker](https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN) | [Matt Berry](https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto), [Emma Noble](https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g) | [Beatmaker](https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H) | 2:57 |
 | 58 | [Dark Clouds Rain Soul \- Dub](https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Joyful Noise](https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd) | 5:10 |
 | 59 | [Clouds in the Sky](https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx) | [Kwaj](https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX), [V\. Soul](https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH) | [Leaves of Memories](https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul) | 2:24 |
-| 60 | [Totally Together](https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 3:49 |
-| 61 | [Ocean Beach](https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4) | [Black Mighty Orchestra](https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI) | [To The Sky \(Remastered\)](https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj) | 3:16 |
+| 60 | [Ocean Beach](https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4) | [Black Mighty Orchestra](https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI) | [To The Sky \(Remastered\)](https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj) | 3:16 |
+| 61 | [Totally Together](https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 3:49 |
 | 62 | [Give Me](https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG) | [iLEVEL](https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE) | [I\-Level](https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8) | 4:01 |
 | 63 | [Mama Said](https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf) | [Carleen Anderson](https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6) | [True Spirit](https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp) | 4:07 |
 | 64 | [Datskat](https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 3:40 |
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 80 | [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 |
 | 81 | [Check The Pulse](https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W) | [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Check The Pulse](https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5) | 2:34 |
 | 82 | [Walk That Walk, Talk That Talk](https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp) | [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Cosmic Vortex \(Justice Divine\)](https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52) | 7:50 |
-| 83 | [Theme from Riot on 103rd Street](https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [Stoned Woman](https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe) | 2:45 |
-| 84 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
+| 83 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
+| 84 | [Theme from Riot on 103rd Street](https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [Stoned Woman](https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe) | 2:45 |
 | 85 | [Long Cool & Bubbly](https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl) | [Corduroy](https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH) | [Dad Man Cat](https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR) | 4:25 |
-| 86 | [C'était un rendez\-vous](https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [C'était un rendez\-vous](https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W) | 5:20 |
-| 87 | [Nothing Has Changed](https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In Pursuit Of The 13th Note](https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S) | 4:46 |
+| 86 | [Nothing Has Changed](https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In Pursuit Of The 13th Note](https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S) | 4:46 |
+| 87 | [C'était un rendez\-vous](https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [C'était un rendez\-vous](https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W) | 5:20 |
 | 88 | [Sometimes](https://open.spotify.com/track/5RnLNOSL1nkBzil8mVM10o) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [Shelter](https://open.spotify.com/album/0c9Ixyl94wsxMiW1k4Obh9) | 4:46 |
 | 89 | [Homecoming](https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 4:16 |
 | 90 | [Be Thankful \(feat\. Erykah Badu\)](https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Pass It On](https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27) | 4:13 |
 
-Snapshot ID: `MCwyNjdkMmVhNGY1YzkwMGFmZWYxNmYyMDNkNjdlYjljMDA5NGEyMjQ5`
+Snapshot ID: `MCxiM2FmNTdmZWQ5NDZmZTZkODQxMjk5MGE5YzM3YzBiNzAxYWRjYTgy`

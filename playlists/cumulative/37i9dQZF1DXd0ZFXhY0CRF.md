@@ -4,7 +4,7 @@
 
 > These women rock our worlds with their music and influence\. Cover: Avril Lavigne
 
-242 songs - 14 hr 23 min
+243 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 | 2021-03-01 |  |
 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 | 2023-03-08 |  |
 | [Lost on You](https://open.spotify.com/track/2kz40rIHjfGYxurLiuCBp9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Death Valley](https://open.spotify.com/album/5thv3RCZIDkWQVGDicoLkF) | 4:28 | 2020-03-11 | 2022-04-21 |
-| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2023-03-08 |  |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2023-03-08 | 2023-05-14 |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2023-03-08 |  |
 | [Love's Not Enough](https://open.spotify.com/track/05oQoV4EScN9MYyCAE4llX) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Love's Not Enough](https://open.spotify.com/album/7b1FC4bu18T9cHNiNsnYcU) | 3:48 | 2020-03-11 | 2022-07-29 |
 | [Love's Not Enough](https://open.spotify.com/track/5JRPwkRjSVFOJzeTuIAtFf) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Love's Not Enough EP](https://open.spotify.com/album/4srLIyIqXQ0hbSdMqiQN7B) | 3:48 | 2020-03-11 | 2023-03-09 |
 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 | 2020-03-11 | 2022-03-09 |

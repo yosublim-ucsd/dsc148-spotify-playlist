@@ -1,12 +1,12 @@
 {
   "description": "Las divas del pop latino de ayer y hoy. Foto: Alejandra Guzm\u00e1n",
-  "num_followers": 128652,
+  "num_followers": 128850,
   "original_name": "Mujeres del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODg5N2Q0N2Y3YmYxMTM3NDM3ZTlmOWQyZjZmNjA0NzU1N2EzZjZh",
+  "snapshot_id": "MCw2ZTc1ZTAwZDQ5MTJkZTA2Njg4N2RhOTkyZTdmMTUyOTU5ZDY5OGI2",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Pari\u0301s",
         "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -731,6 +731,26 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Sin Pijama",
+      "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 210440,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Sin Pijama",
-      "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 187524,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
       },
@@ -907,6 +891,42 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "La Trayectoria",
         "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
       },
@@ -919,22 +939,6 @@
       "duration_ms": 204906,
       "name": "Todos Me Miran",
       "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
     }
   ],
   "unique_name": "Mujeres del Pop Latino",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Balloranking
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,863 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,997 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 36 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 |
 | 37 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 |
 | 38 | [PrEttY Like](https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [PrEttY Like](https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA) | 2:46 |
-| 39 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 |
+| 39 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
 | 40 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 |
-| 41 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
+| 41 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 |
 | 42 | [Sempe \- Acoustic](https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Sempe \(Acoustic\)](https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe) | 1:38 |
 | 43 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 |
 | 44 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 |
@@ -72,21 +72,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 62 | [Spell \- Remix](https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Spell \(Remix\)](https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW) | 2:53 |
 | 63 | [Attention](https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [In The Rough](https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x) | 2:45 |
 | 64 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 |
-| 65 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
-| 66 | [Amina](https://open.spotify.com/track/7oAWhox1NR7AvI12w8Wzlg) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Amina & The One](https://open.spotify.com/album/6bdIYShApOLxOuaIiJXShU) | 2:45 |
+| 65 | [Amina](https://open.spotify.com/track/7oAWhox1NR7AvI12w8Wzlg) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Amina & The One](https://open.spotify.com/album/6bdIYShApOLxOuaIiJXShU) | 2:45 |
+| 66 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
 | 67 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 |
-| 68 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
-| 69 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
+| 68 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
+| 69 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
 | 70 | [IYD](https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 |
 | 71 | [Try Me](https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Try Me](https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk) | 3:33 |
 | 72 | [you](https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:55 |
 | 73 | [Away](https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:49 |
 | 74 | [Right Here](https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Right Here](https://open.spotify.com/album/1DQOERqHos96P7hL1a2sCx) | 3:32 |
 | 75 | [Let Them Know](https://open.spotify.com/track/6FLxB7ot3KZwjr0Zew8L7p) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Let Them Know](https://open.spotify.com/album/5FCaxpcmBFkumiu6MpkD73) | 3:24 |
-| 76 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
-| 77 | [Spend Some Time](https://open.spotify.com/track/0NMfKNtRnvyF9QjlRvnv0I) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Spend Some Time](https://open.spotify.com/album/6vLqNvKJdKPqIvDcwwuvEg) | 2:48 |
+| 76 | [Spend Some Time](https://open.spotify.com/track/0NMfKNtRnvyF9QjlRvnv0I) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Spend Some Time](https://open.spotify.com/album/6vLqNvKJdKPqIvDcwwuvEg) | 2:48 |
+| 77 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
 | 78 | [Unconditionally](https://open.spotify.com/track/2Wa67iymOfKbetMWP2uYiV) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Unconditionally](https://open.spotify.com/album/6oiBC8br4masllouRuOdP7) | 3:17 |
 | 79 | [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 |
 | 80 | [Therapy](https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:20 |
 
-Snapshot ID: `MCwwNWY3NWI1MTgyYTQyNWFiMjE5Yjk5Y2Q3NjA4NGE0ZGI5YmRlMDIx`
+Snapshot ID: `MCw3N2VlMjZhNzQzZGU2ZGQ4NWQwYjQyYmVjMTkwYzRlMzhkMzljZDE3`

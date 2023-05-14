@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > ETT GLAS TILL!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,258 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,372 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 8 | [HAPPIS](https://open.spotify.com/track/44g4gsmitW2Yjv0Sdo9Jrz) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [HAPPIS](https://open.spotify.com/album/1VxgHJs40ynjBRZXfLK9o3) | 2:36 |
 | 9 | [NÄR LIVET SUGER](https://open.spotify.com/track/5YnRmCdV7CUtl9LQyIkDnt) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [NÄR LIVET SUGER](https://open.spotify.com/album/5nFOZWHf7ZWUuMbtQHo3kH) | 2:46 |
 | 10 | [Svansen](https://open.spotify.com/track/6QjV1SS98rca3Ekkrg6fsT) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Svansen](https://open.spotify.com/album/6xdroRsbP7x8VSY0gQJiOA) | 2:53 |
-| 11 | [FÅGEL ROGER](https://open.spotify.com/track/4QG41pmr5oM941xDj3vFCy) | [Laser Inc.](https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA) | [FÅGEL ROGER](https://open.spotify.com/album/5DCS1wjcwKCayBwMjfwM8I) | 2:23 |
+| 11 | [FÅGEL ROGER](https://open.spotify.com/track/4QG41pmr5oM941xDj3vFCy) | [Laser Inc.](https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc) | [FÅGEL ROGER](https://open.spotify.com/album/5DCS1wjcwKCayBwMjfwM8I) | 2:23 |
 | 12 | [Kära granne](https://open.spotify.com/track/3dZFwinDet92t6E493PGdp) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [Kära granne](https://open.spotify.com/album/2BbJIz6vG2jeYdrRTbYz5q) | 2:07 |
 | 13 | [SUPA BORT DIN SURA MIN](https://open.spotify.com/track/5ieYNXVRFIhH97ZkaX43Vj) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [SUPA BORT DIN SURA MIN](https://open.spotify.com/album/4kBseCn9oV99kUuoLJ2Krd) | 2:42 |
 | 14 | [HJÄRTAT PÅ FLYGPLANSLÄGE](https://open.spotify.com/track/6xaJaXImAFX2tfUX967uAI) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [HJÄRTAT PÅ FLYGPLANSLÄGE](https://open.spotify.com/album/50PyJ8MTdL80ifSzmX6HRG) | 1:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Eva\-Lena \- Remix](https://open.spotify.com/track/4KNlMLCdp0bqHatWQ5NpHl) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [Eva\-Lena \(Remix\)](https://open.spotify.com/album/4zOyj7UzaharbKdsODMW83) | 3:19 |
 | 100 | [FUCKED UP](https://open.spotify.com/track/33WyltHLE1G842rtcXE8yI) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [FUCKED UP](https://open.spotify.com/album/2fr0oCVpVFxHzkVYb6CBoM) | 2:24 |
 
-Snapshot ID: `MCwxNTg4NDkwYWFjMTBlMGY1ZDQ5ZDgwNDkxYmYzZjZjNzkxOWNjYTVk`
+Snapshot ID: `MCxjNDNlNTE0ODRlNmQ3ODdkZmEwYTA4MDMxYTQwZDdiMDJmMzRiNmI4`

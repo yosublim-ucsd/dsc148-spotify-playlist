@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,906 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,903 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 49 | [Órbita](https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Órbita](https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT) | 3:17 |
 | 50 | [Ruta 7](https://open.spotify.com/track/21M3XwoJcEXdLp9cQPJKeK) | [Joven Breakfast](https://open.spotify.com/artist/5kWpJQ4Bvmm1RcibWmx5tT), [Dumelefant](https://open.spotify.com/artist/6Yaka3hMhE4DvmtSgxVgA2), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Ruta 7](https://open.spotify.com/album/19VE49YRECgUsAq0r2HmoT) | 3:28 |
 
-Snapshot ID: `MCw5ZTBjYWY2NzAyOWFhMzAzM2NlNDJiODc3ZWY3MjMyZTFkMzNmNjBm`
+Snapshot ID: `MCw0NWYxYTIxYzRkMmM0OGJhMTRkNTkwMDI0MTZhOGE1ZTMwMWFlMWM0`

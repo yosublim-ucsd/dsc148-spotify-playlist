@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Devmaccc
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,081 likes - 76 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,125 likes - 76 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 75 | [Backend](https://open.spotify.com/track/2RIZZjL7hmpOxY3glK7ukT) | [Young Bopete](https://open.spotify.com/artist/2fqZt9lq08W5OUOcKSSW2R) | [Thank Me Later](https://open.spotify.com/album/28LtjBcClHQCVCzAO6uR6H) | 2:48 |
 | 76 | [MONKE ON ROOFTOP](https://open.spotify.com/track/0VqY3F40vX8CiC9qjsBgqF) | [100Fold](https://open.spotify.com/artist/27n1FNYqmuelwnbzv3SFRR), [G\. King](https://open.spotify.com/artist/7eOq2zIC5Gz3vNbh2uGDTk), [Blank Face Villain](https://open.spotify.com/artist/4NAtTLJWLOWLRIj3gXXlEq), [Blake Davis](https://open.spotify.com/artist/00SBlfpYxaAfWBnARDc8jJ), [LT](https://open.spotify.com/artist/11txojsEKVXlpyQb7cacYM), [JSTRO](https://open.spotify.com/artist/20lykpLWZhNLUdqY1OGTvq) | [GERM!](https://open.spotify.com/album/5hLHbhjbPSJO1ecuQN88yj) | 2:37 |
 
-Snapshot ID: `MCwxYTU5YTU0NDVmYzUyMDQ2MzJkZTNjYjFkYjM4YThjMWQ4NWYxZjcx`
+Snapshot ID: `MCxjZjNjMzE3ZGI0ZDdkZjc0YTZiYTlkNDk5OTNjNjNiYmIyZTk1MjAz`

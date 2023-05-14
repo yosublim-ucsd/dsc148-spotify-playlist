@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: RAYE",
-  "num_followers": 778264,
+  "num_followers": 778271,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWYzODAwNGFiYTRmNGNjYWFjYzk5MzE0ZWJhYWYwNzE0ZGJmMDEw",
+  "snapshot_id": "MCxmMDE3ZmVjN2VlMDg0NjNkOTg4NTI0OTY5MTQ0Zjc4ZjUwZmQxOTkz",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -443,22 +443,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "TODAY",
+        "url": "https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+      "duration_ms": 241666,
+      "name": "TODAY",
+      "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -479,18 +475,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "TODAY",
-        "url": "https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 241666,
-      "name": "TODAY",
-      "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 130981,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "90 Proof (with J. Cole)",
         "url": "https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 208269,
       "name": "90 Proof (with J. Cole)",
       "url": "https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 130981,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -775,30 +775,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Swarm",
-        "url": "https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX"
-      },
-      "artists": [
-        {
-          "name": "Ni'jah",
-          "url": "https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "Sticky (feat. Childish Gambino & KIRBY)",
-      "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 201933,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX"
+      },
+      "artists": [
+        {
+          "name": "Ni'jah",
+          "url": "https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 171706,
+      "name": "Sticky (feat. Childish Gambino & KIRBY)",
+      "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Party Girls (feat. Buju Banton)",
+        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 243094,
+      "name": "Party Girls (feat. Buju Banton)",
+      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "I Choose U (feat. RINI)",
         "url": "https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh"
       },
@@ -947,22 +967,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Right My Wrongs",
-        "url": "https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 140973,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "The Exciting Sounds of Menahan Street Band",
         "url": "https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF"
       },
@@ -975,6 +979,46 @@
       "duration_ms": 67720,
       "name": "Queens Highway",
       "url": "https://open.spotify.com/track/1h8idoR6jWpwnKBv6ADnYN"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 160506,
+      "name": "For South",
+      "url": "https://open.spotify.com/track/0CwV9cfbSJEdjlBseVvo4H"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Right My Wrongs",
+        "url": "https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 140973,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1003,30 +1047,6 @@
       "duration_ms": 202451,
       "name": "PiLOT (feat. Snoop Dogg, Busta Rhymes, Anderson .Paak)",
       "url": "https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 160506,
-      "name": "For South",
-      "url": "https://open.spotify.com/track/0CwV9cfbSJEdjlBseVvo4H"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1067,18 +1087,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "NOT ALONE",
-        "url": "https://open.spotify.com/album/06osQucbdoBctWgXgdFblC"
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
         }
       ],
-      "duration_ms": 183013,
-      "name": "NOT ALONE",
-      "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
+      "duration_ms": 196968,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1099,22 +1123,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
+        "name": "NOT ALONE",
+        "url": "https://open.spotify.com/album/06osQucbdoBctWgXgdFblC"
       },
       "artists": [
         {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        },
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 196968,
-      "name": "Damaged",
-      "url": "https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk"
+      "duration_ms": 183013,
+      "name": "NOT ALONE",
+      "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1211,6 +1231,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Naked (Feat. Leven Kali)",
         "url": "https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG"
       },
@@ -1267,6 +1303,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Advantage",
+        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Advantage",
+      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/3EoAucVdfV60XmjBKbKMCL"
       },
@@ -1287,38 +1339,6 @@
       "duration_ms": 166156,
       "name": "Enough",
       "url": "https://open.spotify.com/track/7BNvivBdgxjl80EugbEHFA"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Advantage",
-        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
-      },
-      "artists": [
-        {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Advantage",
-      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1379,22 +1399,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Mr. Police",
-        "url": "https://open.spotify.com/album/5MGatoheqRcLpPfQgGttck"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "duration_ms": 172255,
-      "name": "Mr. Police",
-      "url": "https://open.spotify.com/track/61LOPrbWz3Ymh6bNdCsJAz"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Now, You Know",
         "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
       },
@@ -1407,6 +1411,22 @@
       "duration_ms": 183453,
       "name": "Paris, Texas",
       "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Mr. Police",
+        "url": "https://open.spotify.com/album/5MGatoheqRcLpPfQgGttck"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 172255,
+      "name": "Mr. Police",
+      "url": "https://open.spotify.com/track/61LOPrbWz3Ymh6bNdCsJAz"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1559,26 +1579,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Party Girls (feat. Buju Banton)",
-        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 243094,
-      "name": "Party Girls (feat. Buju Banton)",
-      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Creed III: The Soundtrack",
         "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Pick Your Tears Up",
-        "url": "https://open.spotify.com/album/4XHdogqYIFfgdW3qwIkVlI"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 168513,
-      "name": "Pick Your Tears Up",
-      "url": "https://open.spotify.com/track/5wlZ4PZGrRR2feOTA862m2"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Make Me Say It Again, Girl",
         "url": "https://open.spotify.com/album/52b0FH5bRs92vajujszHo0"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 314424,
       "name": "Make Me Say It Again, Girl",
       "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Pick Your Tears Up",
+        "url": "https://open.spotify.com/album/4XHdogqYIFfgdW3qwIkVlI"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 168513,
+      "name": "Pick Your Tears Up",
+      "url": "https://open.spotify.com/track/5wlZ4PZGrRR2feOTA862m2"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Gold Plated",
-        "url": "https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB"
-      },
-      "artists": [
-        {
-          "name": "PYJ\u00c6N",
-          "url": "https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc"
-        },
-        {
-          "name": "Odette Peters",
-          "url": "https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW"
-        }
-      ],
-      "duration_ms": 215648,
-      "name": "Gold Plated",
-      "url": "https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "SUNRISE (feat. Arlo Parks)",
         "url": "https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 176666,
       "name": "SUNRISE (feat. Arlo Parks)",
       "url": "https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Gold Plated",
+        "url": "https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB"
+      },
+      "artists": [
+        {
+          "name": "PYJ\u00c6N",
+          "url": "https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc"
+        },
+        {
+          "name": "Odette Peters",
+          "url": "https://open.spotify.com/artist/6ZhJwgMHCAfb0UOuyttfDW"
+        }
+      ],
+      "duration_ms": 215648,
+      "name": "Gold Plated",
+      "url": "https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz"
     },
     {
       "added_at": "2023-05-12 04:00:00",

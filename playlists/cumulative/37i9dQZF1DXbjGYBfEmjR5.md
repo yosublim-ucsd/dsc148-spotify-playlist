@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-483 songs - 1 day 3 hr 25 min
+484 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Blame Me](https://open.spotify.com/track/05QwTdlRUDLBGj5ThyicLy) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Disco's Revenge](https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq) | 3:07 | 2022-02-27 | 2022-07-29 |
 | [Blue Cassette \- Luanmer Remix](https://open.spotify.com/track/1i85E5oFer0OKGot3tW2bS) | [AST3R3O](https://open.spotify.com/artist/5CE14g0WkZmW0rR9QhFu2i), [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB), [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD) | [Blue Cassette \(Luanmer Remix\)](https://open.spotify.com/album/0uSjRQ0X3zWiQEFUzM4yPh) | 4:12 | 2022-02-27 | 2022-07-26 |
 | [Bounce Is Back](https://open.spotify.com/track/0aY3XFNbMcbCMDxc2G3tZ4) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/6AWHml3giQIZ5365y1z8Od) | 3:30 | 2022-04-12 | 2022-07-26 |
+| [Bounce Is Back](https://open.spotify.com/track/3Vw8ibvQbEfmUCwXpPeC6X) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7) | 3:30 | 2022-11-04 |  |
 | [Bounce Is Back](https://open.spotify.com/track/7G3XbVwCDAIhW9XJzJ0I6S) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv) | 3:30 | 2022-07-15 | 2023-04-29 |
 | [Break Your Heart](https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Virtual Girls Band a.k.a\. Sparkle](https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf) | 3:06 | 2021-12-08 | 2022-07-02 |
 | [Breaking Away](https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [ナイトライフ](https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK) | 3:48 | 2021-12-08 | 2022-07-22 |
@@ -195,7 +196,7 @@
 | [I Found You \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [I Found You \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb) | 2:32 | 2022-01-25 |  |
 | [I Know](https://open.spotify.com/track/0ggiLx9fppYEbY5ZakzPYK) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Decides](https://open.spotify.com/album/1vELFTQ8mD8U7svSgbwZG5) | 2:31 | 2022-02-27 | 2022-07-27 |
 | [I KNOW](https://open.spotify.com/track/4uZRJlUuwq66kngdaQFFpm) | [Hopeful Romantics](https://open.spotify.com/artist/0czxPZ6C9lrClg4WOMaft4) | [Golden Girl](https://open.spotify.com/album/5dsdOGxd4IA0IqvmcDLqWf) | 3:16 | 2022-06-08 | 2022-07-29 |
-| [I Must Be Dreamin'](https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD), [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [I Must Be Dreamin'](https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons) | 3:43 | 2021-12-08 |  |
+| [I Must Be Dreamin'](https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD), [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [I Must Be Dreamin'](https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons) | 3:43 | 2021-12-08 | 2023-05-14 |
 | [I Remember Those Days](https://open.spotify.com/track/7nY81J3CnJCYeGayUsaKUj) | [Ikyoto](https://open.spotify.com/artist/5gtDrrVDdpH9S5xLuAOISl) | [I Remember Those Days](https://open.spotify.com/album/3qG18gyRzWTbXM857dTiaY) | 3:37 | 2022-04-12 | 2022-07-21 |
 | [I Think About It](https://open.spotify.com/track/3ISHBRaEplpTVOIOvuNuVl) | [ED.](https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM) | [I'm Going Home](https://open.spotify.com/album/2UU7Ik4x5wKnkwYR9hBQll) | 2:58 | 2022-06-08 | 2022-07-27 |
 | [I Think You're Cute](https://open.spotify.com/track/0YR9hG6ZuQiW25Kt5JcwhO) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [I Think You're Cute](https://open.spotify.com/album/4aHeM1ziXCO0UIJzTGySEz) | 3:05 | 2022-09-16 | 2022-11-12 |

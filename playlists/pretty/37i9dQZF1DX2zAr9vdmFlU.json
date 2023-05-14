@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 382619,
+  "num_followers": 382765,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzE1ODZjYjQ1Y2E0MjZkYTU3ZDdmMjc3ZTJhMDM5YzNmZDIxOGNm",
+  "snapshot_id": "MCxhZTdkMDIxMzc4YzkzNDgzYjU1YTQ5NGQzNjc3NzZjYTNiNDE4MGUz",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Some More Horizons (Digital Version)",
+        "url": "https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk"
+      },
+      "artists": [
+        {
+          "name": "Mo' Horizons",
+          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
+        }
+      ],
+      "duration_ms": 328866,
+      "name": "Ai mi morena - Chocolate Restyle",
+      "url": "https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Some More Horizons (Digital Version)",
-        "url": "https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk"
-      },
-      "artists": [
-        {
-          "name": "Mo' Horizons",
-          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
-        }
-      ],
-      "duration_ms": 328866,
-      "name": "Ai mi morena - Chocolate Restyle",
-      "url": "https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Musica Para Despues De Almuerzo",
-        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
-      },
-      "artists": [
-        {
-          "name": "Bitman & Roban",
-          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Despues De Almuerzo Parte 3",
-      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Bolero Apocal\u00edptico",
         "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 232960,
       "name": "Vem Pra Mim",
       "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Musica Para Despues De Almuerzo",
+        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
+      },
+      "artists": [
+        {
+          "name": "Bitman & Roban",
+          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Despues De Almuerzo Parte 3",
+      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Solterona",
-        "url": "https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 179856,
-      "name": "Solterona",
-      "url": "https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "President Alien",
         "url": "https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 240226,
       "name": "Electric Boogaloo",
       "url": "https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Solterona",
+        "url": "https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 179856,
+      "name": "Solterona",
+      "url": "https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Malo Para M\u00ed",
-        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
-      },
-      "artists": [
-        {
-          "name": "Banana Leaf Boy",
-          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
-        }
-      ],
-      "duration_ms": 282415,
-      "name": "Malo Para M\u00ed",
-      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
         "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 239800,
       "name": "Quien Sabe",
       "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Malo Para M\u00ed",
+        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
+      },
+      "artists": [
+        {
+          "name": "Banana Leaf Boy",
+          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
+        }
+      ],
+      "duration_ms": 282415,
+      "name": "Malo Para M\u00ed",
+      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Companeros De Mi Vida",
-        "url": "https://open.spotify.com/album/5syN6MvgMAkQDOpYy8mceC"
-      },
-      "artists": [
-        {
-          "name": "Eliades Ochoa",
-          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
-        }
-      ],
-      "duration_ms": 262989,
-      "name": "Maria Cristina",
-      "url": "https://open.spotify.com/track/6RkiGbfRM1Blo3iXVc98uS"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Jogando Capoiera / Cookin'",
         "url": "https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 410004,
       "name": "Jogando Capoiera",
       "url": "https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Companeros De Mi Vida",
+        "url": "https://open.spotify.com/album/5syN6MvgMAkQDOpYy8mceC"
+      },
+      "artists": [
+        {
+          "name": "Eliades Ochoa",
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+        }
+      ],
+      "duration_ms": 262989,
+      "name": "Maria Cristina",
+      "url": "https://open.spotify.com/track/6RkiGbfRM1Blo3iXVc98uS"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1423,22 +1423,6 @@
       "duration_ms": 247504,
       "name": "Ay\u00fadame Inspiraci\u00f3n",
       "url": "https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "El Amor Despu\u00e9s Del Amor",
-        "url": "https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "El Amor Despu\u00e9s Del Amor",
-      "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1479,6 +1463,22 @@
       "duration_ms": 229609,
       "name": "Por Si las Dudas",
       "url": "https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "El Amor Despu\u00e9s Del Amor",
+        "url": "https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "El Amor Despu\u00e9s Del Amor",
+      "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "No Pasa Na",
+        "url": "https://open.spotify.com/album/1qDELsYjk55AV4cF3Ekvtp"
+      },
+      "artists": [
+        {
+          "name": "Karina Daza",
+          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 230556,
+      "name": "No Pasa Na",
+      "url": "https://open.spotify.com/track/0cKW32XAo7QfBJdP5indaf"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Meus Momentos: Paulinho Da Viola",
         "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 208013,
       "name": "Cerca de ti (feat. Georgina)",
       "url": "https://open.spotify.com/track/10oji60Sz18msn5AgTQI58"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "No Pasa Na",
-        "url": "https://open.spotify.com/album/1qDELsYjk55AV4cF3Ekvtp"
-      },
-      "artists": [
-        {
-          "name": "Karina Daza",
-          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 230556,
-      "name": "No Pasa Na",
-      "url": "https://open.spotify.com/track/0cKW32XAo7QfBJdP5indaf"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Nobreza",
-        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
-      },
-      "artists": [
-        {
-          "name": "LADAMA",
-          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
-        }
-      ],
-      "duration_ms": 201364,
-      "name": "Nobreza",
-      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Cookin' Gumbo",
         "url": "https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 209672,
       "name": "Speakin' Nuyorican",
       "url": "https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Nobreza",
+        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
+      },
+      "artists": [
+        {
+          "name": "LADAMA",
+          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
+        }
+      ],
+      "duration_ms": 201364,
+      "name": "Nobreza",
+      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
     },
     {
       "added_at": "2023-04-28 04:00:00",

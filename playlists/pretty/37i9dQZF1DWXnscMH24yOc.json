@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 433199,
+  "num_followers": 433278,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTZiY2Y1ZjMyOTdmMmMyZjEwNzhkZjY0NjI5NGQ5OGVjMGEzZjFi",
+  "snapshot_id": "MCwzZWZlZDljOTIxNDJkYzZhNDg5MjU4NDY5ODMzNGNiMWQwMmYwOTM3",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "All Too Well",
-        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 315475,
-      "name": "All Too Well",
-      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "All Too Well",
+        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 315475,
+      "name": "All Too Well",
+      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Robyn Sherwell",
+        "url": "https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO"
+      },
+      "artists": [
+        {
+          "name": "Robyn Sherwell",
+          "url": "https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs"
+        }
+      ],
+      "duration_ms": 170399,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Late Night Tales: \u00d3lafur Arnalds",
         "url": "https://open.spotify.com/album/7tS1qpuzGoArfIPnmXkPad"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 236710,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Robyn Sherwell",
-        "url": "https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO"
-      },
-      "artists": [
-        {
-          "name": "Robyn Sherwell",
-          "url": "https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs"
-        }
-      ],
-      "duration_ms": 170399,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Henry / I'm On Fire",
-        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 187241,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "No One's Gonna Love You",
         "url": "https://open.spotify.com/album/7dizp1YraSwZHHbLCGKIz4"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 232347,
       "name": "No One's Gonna Love You",
       "url": "https://open.spotify.com/track/6ZwkeOSGSNHvBfkIacgSX3"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Henry / I'm On Fire",
+        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 187241,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Anthem +3",
-        "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 345773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Bang Bang (My Baby Shot Me Down)",
         "url": "https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 153500,
       "name": "Bang Bang (My Baby Shot Me Down)",
       "url": "https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Anthem +3",
+        "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 345773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Nothing's Gonna Hurt You Baby (From \"Promising Young Woman\" Soundtrack)",
-        "url": "https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY"
-      },
-      "artists": [
-        {
-          "name": "Donna Missal",
-          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
-        }
-      ],
-      "duration_ms": 197864,
-      "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
-      "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Feel Good Inc.",
         "url": "https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 236129,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Nothing's Gonna Hurt You Baby (From \"Promising Young Woman\" Soundtrack)",
+        "url": "https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY"
+      },
+      "artists": [
+        {
+          "name": "Donna Missal",
+          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
+        }
+      ],
+      "duration_ms": 197864,
+      "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
+      "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
     },
     {
       "added_at": "2022-03-22 14:40:29",

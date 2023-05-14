@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,375 likes - 196 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,519 likes - 196 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 63 | [Cheap Shots](https://open.spotify.com/track/4uQxKjtzfXhB76UfQbyCpC) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [Cheap Shots](https://open.spotify.com/album/0hQqvye0etsaDbr8NxIPjJ) | 3:19 |
 | 64 | [Sparkle](https://open.spotify.com/track/4JzDjc6fZH30lB4dIZWvlA) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [Sparkle](https://open.spotify.com/album/7zTwU1TyIM0RgiWIvDkTMp) | 3:01 |
 | 65 | [Dust](https://open.spotify.com/track/3Ay0HX5Q4SB7ufpw4lLeQI) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Dust](https://open.spotify.com/album/4G8ZFEqG7aYuVOPcxXsYq6) | 2:57 |
-| 66 | [FLA](https://open.spotify.com/track/3OfHJVlzplAfCYjLsYOIVO) | [Jake Hill](https://open.spotify.com/artist/1iMH0LR2jUeCOvBKFVE5QO) | [FLA](https://open.spotify.com/album/6HYSYFgaJvuFzZykNkjdqU) | 3:11 |
+| 66 | [FLA](https://open.spotify.com/track/3OfHJVlzplAfCYjLsYOIVO) | [Jake Hill](https://open.spotify.com/artist/1NEfcP4od6Yb4Z5FteOSDx) | [FLA](https://open.spotify.com/album/6HYSYFgaJvuFzZykNkjdqU) | 3:11 |
 | 67 | [History Of Repeating](https://open.spotify.com/track/49BOywRTICAn5UxVoTtt3L) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [History Of Repeating](https://open.spotify.com/album/51gd1r5IT0mPSJ0iajOwN1) | 3:14 |
 | 68 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
 | 69 | [Alaska](https://open.spotify.com/track/7KxQVpurQMcFdZzqRoFceH) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High & Low](https://open.spotify.com/album/3aHniWCq391zmVHUc7zBew) | 3:16 |
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 195 | [Missed the Boat](https://open.spotify.com/track/3DQi4r0z82AD5cQgVQYkTP) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Missed the Boat](https://open.spotify.com/album/358todtduHcbUf6KOKzvma) | 3:19 |
 | 196 | [Stoned](https://open.spotify.com/track/1E0MQXTmFHJnaOGIMqq5LF) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Stoned](https://open.spotify.com/album/7fzDWt3ZsttqHdjr0bugrz) | 2:42 |
 
-Snapshot ID: `MCw0ZGFjYjUyNGM4NGFmMWRiY2IzMmZkYjUwYTdkMGU0MWNiOWRkZGQ4`
+Snapshot ID: `MCxjMmJjOWU3OWE0Y2IzOGY1ZTQ0NDM1MGEyNjViNTBkMDRiN2M3NzUy`

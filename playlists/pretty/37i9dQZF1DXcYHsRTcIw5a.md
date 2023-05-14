@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,935 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,995 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 9 | [Save A Bread](https://open.spotify.com/track/5G0P8RIKWn9jVLiBWi9ViH) | [Justin Hinds](https://open.spotify.com/artist/485PbpVEwbo7jAYs8Z3v9J), [The Dominoes](https://open.spotify.com/artist/3zdYjbgCIa2XJWb6Yc325v) | [Early Recordings](https://open.spotify.com/album/0Daz83iFRx526smzsDFbFL) | 2:40 |
 | 10 | [Old Fashioned Way](https://open.spotify.com/track/531hkX8V30OYiB4zfjypy5) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own \- The Definitive Collection](https://open.spotify.com/album/0fkvv6IpX8t20FO0dlIHY3) | 2:33 |
 | 11 | [River of Babylon](https://open.spotify.com/track/7gcelChzsWoGRMwvk6scnQ) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Legend](https://open.spotify.com/album/1mvWUKXLasKQXNo8iVCnPR) | 3:59 |
-| 12 | [Love Me Forever](https://open.spotify.com/track/1z0We51LrOGniEJVk9Aid9) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/0EYwBETY5u7V1VpzUmqyLu) | 3:40 |
-| 13 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/2Dm6EGLAZLjk0iBIdUN9qp) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Give and Take \- The Best of The Pioneers](https://open.spotify.com/album/5TwvKc49ROXhjd3oha206q) | 3:07 |
+| 12 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/2Dm6EGLAZLjk0iBIdUN9qp) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Give and Take \- The Best of The Pioneers](https://open.spotify.com/album/5TwvKc49ROXhjd3oha206q) | 3:07 |
+| 13 | [Love Me Forever](https://open.spotify.com/track/1z0We51LrOGniEJVk9Aid9) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/0EYwBETY5u7V1VpzUmqyLu) | 3:40 |
 | 14 | [People Get Ready](https://open.spotify.com/track/5g99otFnQZ541aIfHBJWq9) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Out Of Love / People Get Ready](https://open.spotify.com/album/2m3g4OamUO3OUGH26mrnVn) | 2:37 |
 | 15 | [In the Summertime](https://open.spotify.com/track/5l3HpuhW2UTa13ouM1ugug) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Big Hits](https://open.spotify.com/album/12lWmChSdOo8lMY5kXM17k) | 2:33 |
 | 16 | [Madness](https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 2:45 |
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 24 | [Judge Dread](https://open.spotify.com/track/0XmbuWZ2vn1i8bim4Ug6BL) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Prince Buster \- Fabulous Greatest Hits \[Diamond Range\]](https://open.spotify.com/album/3pLpyasCCfOs6mG4FylfVc) | 3:38 |
 | 25 | [OK Fred](https://open.spotify.com/track/2uFwTMJkdPPjIzXWsNbG2a) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [O.K Fred](https://open.spotify.com/album/176NRa0L5If0XRPAUWznDx) | 3:45 |
 | 26 | [Everybody Needs Love](https://open.spotify.com/track/5H0CQe9x3iuI4cTPwMfASQ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:15 |
-| 27 | [My Jamaican Girl](https://open.spotify.com/track/0mygX7F5NhdXHzAD3r1LRI) | [The Gaylads](https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd) | [Fire and Rain](https://open.spotify.com/album/7tRCNNjflpSs2fFTA6sTSE) | 2:35 |
-| 28 | [Blow Roland Blow](https://open.spotify.com/track/3HWPrduj1Nv7woSyLV3lDy) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn) | [Skatalites & Friends At Randy's](https://open.spotify.com/album/0xXoIWRmo6jchM2Tf1AjDF) | 2:29 |
+| 27 | [Blow Roland Blow](https://open.spotify.com/track/3HWPrduj1Nv7woSyLV3lDy) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn) | [Skatalites & Friends At Randy's](https://open.spotify.com/album/0xXoIWRmo6jchM2Tf1AjDF) | 2:29 |
+| 28 | [My Jamaican Girl](https://open.spotify.com/track/0mygX7F5NhdXHzAD3r1LRI) | [The Gaylads](https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd) | [Fire and Rain](https://open.spotify.com/album/7tRCNNjflpSs2fFTA6sTSE) | 2:35 |
 | 29 | [Island In the Sun](https://open.spotify.com/track/6RVgAYFeWCHaAZFCOErG1D) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 3:09 |
 | 30 | [A.B.C\. Rocksteady](https://open.spotify.com/track/5woVKCevHAbyVp2vPPISH9) | [Gladstone Anderson](https://open.spotify.com/artist/3Z3kWa8uItZfj3a6prijGz), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Glad Sounds](https://open.spotify.com/album/5HX8xcXRhKcrQCWzv3eoLT) | 2:12 |
 | 31 | [Love Is a Treasure](https://open.spotify.com/track/6AqMqvhlkC5Q2uxNhoJAi8) | [Freddie McKay](https://open.spotify.com/artist/6BI5BLDBy5dY19EI2cw1P1) | [Duke Reid Rocks Steady](https://open.spotify.com/album/0uKHcuc5kFXnzBfMyJjgxM) | 2:43 |
 | 32 | [Little Boy Blue](https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [The Vintage Series](https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD) | 2:46 |
 | 33 | [Hold Them](https://open.spotify.com/track/5iyyttRc4xFRhKzAu02mtw) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:47 |
 | 34 | [Bye, Bye, Bye](https://open.spotify.com/track/4OH81njfQUHI0cUelNICwA) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [A Day Will Come \(Reggae Fever Picks 1963\-72\)](https://open.spotify.com/album/6errP0q4AbDH2Qw8nOhrJ6) | 2:47 |
-| 35 | [Feel Like Jumping](https://open.spotify.com/track/1kbbrBV0TtXE6Su03JiGuA) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Naturally](https://open.spotify.com/album/5eVn4uEttNUmF5TeJkkaEW) | 4:00 |
-| 36 | [To Sir with Love](https://open.spotify.com/track/0g2ommIQUwilxSkTNrEmMZ) | [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Rock Steady Greatest Hits](https://open.spotify.com/album/1wFh18B1EcUfc6CHFZ1cta) | 2:40 |
+| 35 | [To Sir with Love](https://open.spotify.com/track/0g2ommIQUwilxSkTNrEmMZ) | [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Rock Steady Greatest Hits](https://open.spotify.com/album/1wFh18B1EcUfc6CHFZ1cta) | 2:40 |
+| 36 | [Feel Like Jumping](https://open.spotify.com/track/1kbbrBV0TtXE6Su03JiGuA) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Naturally](https://open.spotify.com/album/5eVn4uEttNUmF5TeJkkaEW) | 4:00 |
 | 37 | [Carry Go Bring Home](https://open.spotify.com/track/2f5ZBl9lzXKLKcKxeauyPp) | [Justin Hinds & The Dominoes](https://open.spotify.com/artist/0TxAbj3qE2NdYzg0SVG09Q) | [Sinners](https://open.spotify.com/album/5hcgXkJak0lw7Z34ujQgG7) | 2:45 |
 | 38 | [Inna Mi Yard](https://open.spotify.com/track/2JrbA3gMvQEhVG9HbTI02w) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [A Declaration of Dub](https://open.spotify.com/album/3L1Yh24pd0uYbvCgkuIpaW) | 4:19 |
 | 39 | [Only a Smile](https://open.spotify.com/track/5bwGUv9VP1m4qmvkRNSqIQ) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 49 | [Baby Why](https://open.spotify.com/track/0I6g8aa5qwDmK8g4gUS8LH) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/6oCEHWNjXieygQN2mYKL25) | 5:14 |
 | 50 | [Always Together](https://open.spotify.com/track/2GxfID7hBi8rOMyKIJ34sv) | [Bob Andy & Marcia Griffiths](https://open.spotify.com/artist/7q5akGSVEfg0j8IxgbdLN3) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/74Nf0X7UlkT999DGNlae92) | 2:45 |
 
-Snapshot ID: `MCxjYzhjMjRjMWQwNTA5OTE4MGZlMWQ1MzM5NWE0MDgwNzlhNzkzODU1`
+Snapshot ID: `MCw4YmU2OTkyNDhkNzgwZDgxZjFmNjE2ZjJlN2M4MTgxOWVhMjJhY2Uw`

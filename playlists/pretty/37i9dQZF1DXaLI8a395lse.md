@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: The Cure
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,233 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,688 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 23 | [Interstate Love Song \- 2019 Remaster](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 3:14 |
 | 24 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 |
 | 25 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 |
-| 26 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
-| 27 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
+| 26 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
+| 27 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
 | 28 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 |
 | 29 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 30 | [Just](https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:54 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 49 | [Disco 2000](https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 4:33 |
 | 50 | [Into My Arms \- 2011 Remastered Version](https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 4:16 |
 | 51 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 |
-| 52 | [Beetlebum \- 2012 Remaster](https://open.spotify.com/track/4OHVCeQYPncEwZOtNAJZZx) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 5:05 |
-| 53 | [Sweet Harmony](https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Conscience](https://open.spotify.com/album/1KFxJU4UBv1RWwrrwbn9xY) | 5:01 |
-| 54 | [Sit Down](https://open.spotify.com/track/66IC0uXoVyYT5q3R27bbZy) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/7qQEoMXpeyJ2GJkkdDsVdr) | 4:04 |
+| 52 | [Every You Every Me](https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 3:33 |
+| 53 | [Beetlebum \- 2012 Remaster](https://open.spotify.com/track/4OHVCeQYPncEwZOtNAJZZx) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 5:05 |
+| 54 | [Sweet Harmony](https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Conscience](https://open.spotify.com/album/1KFxJU4UBv1RWwrrwbn9xY) | 5:01 |
 | 55 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/1Hnv9uDIokwi4nkcVUyS0X) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's a Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/4Q8DyYRZ8qbDoTUDJBgE3A) | 3:44 |
-| 56 | [Every You Every Me](https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 3:33 |
+| 56 | [Sit Down](https://open.spotify.com/track/66IC0uXoVyYT5q3R27bbZy) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/7qQEoMXpeyJ2GJkkdDsVdr) | 4:04 |
 | 57 | [The Drugs Don't Work](https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL) | 5:04 |
 | 58 | [Angel](https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:19 |
 | 59 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 61 | [Hedonism \(Just Because You Feel Good\)](https://open.spotify.com/track/2qRZm3cGCUPK40j3g0G5cN) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Stoosh](https://open.spotify.com/album/4S7eZrznxAyzv8IaoztDDR) | 3:27 |
 | 62 | [Out of Space](https://open.spotify.com/track/6cYJBIE9FC1QAoPw5EhdLA) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:02 |
 | 63 | [Country House \- 2012 Remaster](https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Great Escape \(Special Edition\)](https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1) | 3:56 |
-| 64 | [Child Psychology](https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh) | [Black Box Recorder](https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR) | [England Made Me](https://open.spotify.com/album/1PVtgkCZPW8AVll0gKsHDS) | 4:08 |
-| 65 | [Sure Shot](https://open.spotify.com/track/21REQ1bCUWphT2QK3bLWYQ) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 3:19 |
+| 64 | [Sure Shot](https://open.spotify.com/track/21REQ1bCUWphT2QK3bLWYQ) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 3:19 |
+| 65 | [Child Psychology](https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh) | [Black Box Recorder](https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR) | [England Made Me](https://open.spotify.com/album/1PVtgkCZPW8AVll0gKsHDS) | 4:08 |
 | 66 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
 | 67 | [Grace](https://open.spotify.com/track/64SIlhd3BaHCCMSfajXG7l) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 5:22 |
 | 68 | [The Distance](https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 2:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 79 | [Waltz \#2 \(XO\)](https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 4:40 |
 | 80 | [The Only One I Know](https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u) | 3:58 |
 
-Snapshot ID: `MCw0YWI1NjI5Y2I2ZWJhNTA3N2U4YmI3ODYwNzRmY2VlNTBlM2UyNjhh`
+Snapshot ID: `MCwwYzAxNTcxMjliMmUwYjg4MDVkNmNhMTc1MDZhYmU0N2QxODdjMWJh`

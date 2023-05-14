@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce
 
-306 songs - 19 hr 8 min
+307 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Adónde Se Fue ?](https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 3:05 | 2022-09-09 |  |
 | [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 | 2022-09-16 |  |
 | [Ambulancia](https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:32 | 2023-01-27 |  |
+| [Amigos \(con Maria Becerra\) \- Bachata](https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\) \[Bachata\]](https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7) | 3:22 | 2023-05-12 |  |
 | [AMNESIA](https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:49 | 2023-01-20 |  |
 | [Amor de Verdad](https://open.spotify.com/track/7qozat5jqKmwgs7kLo2NWh) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT) | [Amor de Verdad](https://open.spotify.com/album/24MCC33x034nPk15G6K8MU) | 3:51 | 2022-03-04 | 2022-09-03 |
 | [Amor Sincero](https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:34 | 2023-04-28 |  |
@@ -225,7 +226,7 @@
 | [Que Cosas Tiene El Amor \(feat\. Prince Royce\)](https://open.spotify.com/track/1sRLHqXAohDI070tWU6QIS) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Que Cosas Tiene El Amor \(feat\. Prince Royce\)](https://open.spotify.com/album/5YbnFaF9U2kEOYvMtp1QLe) | 4:19 | 2022-03-04 | 2022-09-03 |
 | [Que Sera de Mi](https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ) | [El Varon de la bachata](https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV) | [Que Sera de Mi](https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF) | 4:31 | 2022-09-09 |  |
 | [Que Vuelva](https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Corazón Duro](https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB) | 4:47 | 2022-03-04 | 2022-09-03 |
-| [Que Vuelva](https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata De Amor Vol\. 1](https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v) | 4:48 | 2022-09-09 |  |
+| [Que Vuelva](https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata De Amor Vol\. 1](https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v) | 4:48 | 2022-09-09 | 2023-05-14 |
 | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Que Vuelva \(La Historia de Mi Vida: El Final\)](https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv) | 3:48 | 2022-03-04 | 2023-04-18 |
 | [Quien de los Dos](https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:36 | 2022-09-09 |  |
 | [Quien Dijo](https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Quien Dijo](https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U) | 4:01 | 2022-08-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 
 > that's hot
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,867 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,325 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 45 | [Crank That \(Soulja Boy\)](https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [souljaboytellem.com](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) | 3:41 |
 | 46 | [One, Two Step \(feat\. Missy Elliott\)](https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:23 |
 | 47 | [Shake That](https://open.spotify.com/track/0fGh0trRN1xz3s41r7V5ce) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 4:34 |
-| 48 | [The Anthem](https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 2:55 |
-| 49 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:22 |
+| 48 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:22 |
+| 49 | [The Anthem](https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 2:55 |
 | 50 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 |
 | 51 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
 | 52 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 73 | [Don't Cha](https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 4:32 |
 | 74 | [U + Ur Hand](https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [I'm Not Dead](https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq) | 3:34 |
 | 75 | [Lady Marmalade \- Single Edit](https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Lady Marmalade](https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ) | 4:27 |
-| 76 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
-| 77 | [Cry for You](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Dancing Shoes](https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz) | 3:29 |
+| 76 | [Cry for You](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Dancing Shoes](https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz) | 3:29 |
+| 77 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
 | 78 | [Leave \(Get Out\)](https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo](https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp) | 4:02 |
 | 79 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
 | 80 | [Everywhere](https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 99 | [Just the Girl](https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa) | [The Click Five](https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP) | [Greetings From Imrie House \(U.S\. Version\)](https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ) | 3:54 |
 | 100 | [What Is Love \- Radio Edit](https://open.spotify.com/track/1d2O0FAl7OrNNu7Ed3bGrK) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(Reloaded\)](https://open.spotify.com/album/0kcpCxlI4CDvbYSBkumV6M) | 2:56 |
 
-Snapshot ID: `MCw1ZjVlMTVlMzc3YjhjNjY3MzhmNDRlNWNkZmVhYWZkM2NjYjQxZTRk`
+Snapshot ID: `MCxiNjA4ODQyYTIxZTUxMDBmYzgyODA5NjRjYzRjNzRlMDljMTUwZDkw`

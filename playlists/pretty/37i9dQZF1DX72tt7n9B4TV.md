@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > Hot noise for summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,821 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,827 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 50 | [PANIC](https://open.spotify.com/track/3L4MAUb1N2dsAludyS8ra8) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PANIC](https://open.spotify.com/album/7fQtRHWEgTOHz0kdl1twdv) | 2:54 |
 | 51 | [Making A Fire](https://open.spotify.com/track/2u8NmvhYX6wiviyxJTOhEi) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:15 |
 | 52 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 |
-| 53 | [California](https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 2:43 |
-| 54 | [Shakin' Off The Rust](https://open.spotify.com/track/5PUlGG3xO8PUuDcYKuaeZH) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B) | 3:42 |
+| 53 | [Shakin' Off The Rust](https://open.spotify.com/track/5PUlGG3xO8PUuDcYKuaeZH) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B) | 3:42 |
+| 54 | [California](https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 2:43 |
 | 55 | [Bad Decisions](https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bad Decisions](https://open.spotify.com/album/5V3bFQnpSALvyDEyHsCHat) | 2:32 |
 | 56 | [Forever & Ever More](https://open.spotify.com/track/0GCENWl11MluqJbz1Dqm0i) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [What Did You Think When You Made Me This Way?](https://open.spotify.com/album/6qP4UnWRNlBMdsqanPhFuJ) | 3:28 |
 | 57 | [Care](https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:14 |
-| 58 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
-| 59 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 |
+| 58 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 |
+| 59 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
 | 60 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
 | 61 | [estella//](https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [estella//](https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh) | 1:58 |
 | 62 | [This is Our Life](https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs) | 3:44 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 65 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 |
 | 66 | [Fireman & Dancer](https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Club Majesty](https://open.spotify.com/album/2PzfMWIpq6JKucGhkS1X5M) | 2:48 |
 | 67 | [Let It Ride](https://open.spotify.com/track/6ybAXYfBjpsJL1ARBhtmO3) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B) | 3:37 |
-| 68 | [Jealousy](https://open.spotify.com/track/2ZdEHxr2L0Dj5zJOdt3Dql) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 3:12 |
-| 69 | [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Greatest Hits](https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI) | 2:31 |
+| 68 | [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Greatest Hits](https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI) | 2:31 |
+| 69 | [Jealousy](https://open.spotify.com/track/2ZdEHxr2L0Dj5zJOdt3Dql) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 3:12 |
 | 70 | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/track/7Eta7z7ofiykxOyk9HVWij) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/album/00HwTxnfnfF0OVuXeOhJCZ) | 3:14 |
 | 71 | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/track/38X7LavheHbSg0UwjRUNcf) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/album/0n7Nnzxv7WBKDdpUdhL8C2) | 2:49 |
 | 72 | [Is Everybody Going Crazy?](https://open.spotify.com/track/3CauBZqN2EuHTJo4sSpjbS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Is Everybody Going Crazy?](https://open.spotify.com/album/5J2B0xzIbsFSqwLTLrlRe1) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 79 | [Summer Is a Curse](https://open.spotify.com/track/0cSNN4fgW1RFDQV58eVRKK) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Summer Is a Curse](https://open.spotify.com/album/1yQQOHHAxZAc1sI5K4sHrJ) | 3:01 |
 | 80 | [The Rush](https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:07 |
 
-Snapshot ID: `MCw0MDZmMDZhN2Y5OTk2MTJlZDg0YTExNjdlN2VjMDU1Mzk1OGQ5MGZk`
+Snapshot ID: `MCwzNmVkZDg0Yzk5YjI0NWFlMTgzNjdjZDBhMjU4ODZmZjFhMmFjMmRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,816 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,857 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 37 | [Live And Direct](https://open.spotify.com/track/64zlbq7x2ZgHPFbOUBe5v1) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [FWD Thinking](https://open.spotify.com/album/6W1kKAUQ8LwG1vO0OXrKSr) | 6:02 |
 | 38 | [Dollis Hill Rufige](https://open.spotify.com/track/14b7yVwOL62E6lcQdxwcyB) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH) | [The Start of No Regret](https://open.spotify.com/album/4BxTXHiZAesqIvR6Dv2Lnw) | 5:18 |
 | 39 | [Elysian Fields \- Tim Reaper Remix](https://open.spotify.com/track/6scP0RQzLKk7grCc45KRpE) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:52 |
-| 40 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
-| 41 | [JUNGLE TEKNAH](https://open.spotify.com/track/5eStmyvgU3yFAiHn35oPE8) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7frIZAGJytWq2BV7qAcwYU) | 4:01 |
-| 42 | [Invisible Shell of Energy](https://open.spotify.com/track/7tr7SA0R0SmErK0KamRJ2O) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1) | [Post Modern](https://open.spotify.com/album/2oLnlmH72BZTuDM2TMWmxI) | 6:42 |
-| 43 | [Shelling](https://open.spotify.com/track/3v9sO8XfgHuz9NaWi1dVop) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Shelling](https://open.spotify.com/album/7fY2dcHafkAJihL0jP8amN) | 2:54 |
-| 44 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
-| 45 | [Loss of Self Identity](https://open.spotify.com/track/7zGShSMY05c9ucLtiun4AH) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/5w7nuh8RyUeOnAlfTnTEpE) | 4:26 |
+| 40 | [JUNGLE TEKNAH](https://open.spotify.com/track/5eStmyvgU3yFAiHn35oPE8) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7frIZAGJytWq2BV7qAcwYU) | 4:01 |
+| 41 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
+| 42 | [Shelling](https://open.spotify.com/track/3v9sO8XfgHuz9NaWi1dVop) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Shelling](https://open.spotify.com/album/7fY2dcHafkAJihL0jP8amN) | 2:54 |
+| 43 | [Invisible Shell of Energy](https://open.spotify.com/track/7tr7SA0R0SmErK0KamRJ2O) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1) | [Post Modern](https://open.spotify.com/album/2oLnlmH72BZTuDM2TMWmxI) | 6:42 |
+| 44 | [Loss of Self Identity](https://open.spotify.com/track/7zGShSMY05c9ucLtiun4AH) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/5w7nuh8RyUeOnAlfTnTEpE) | 4:26 |
+| 45 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
 | 46 | [Casca](https://open.spotify.com/track/4Qu41yeeAQ3bCQ4Dd8JUuG) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S), [Tamen](https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6) | [Casca EP](https://open.spotify.com/album/3M4zL1J2RN7sZrRb4LcG4j) | 5:55 |
-| 47 | [Take My Control](https://open.spotify.com/track/5TVNBl0srd3VHK8Hb5SuSy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Take My Control](https://open.spotify.com/album/5smkZ2UvCj9tkxZHrtsaAM) | 4:05 |
-| 48 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
+| 47 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
+| 48 | [Take My Control](https://open.spotify.com/track/5TVNBl0srd3VHK8Hb5SuSy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Take My Control](https://open.spotify.com/album/5smkZ2UvCj9tkxZHrtsaAM) | 4:05 |
 | 49 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 |
 | 50 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
 
-Snapshot ID: `MCwxNGMxYjQwZjJlOWYxNjlmYTVjMDRkMDA2OGVhOGFjZTNjMDZjYzY3`
+Snapshot ID: `MCwwOTg5ODk2NTBiMjEwNWJmODIzNGJmOGY3NGU4ZmI4YmFmYzg4NTBj`

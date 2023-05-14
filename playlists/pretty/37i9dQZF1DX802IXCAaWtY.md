@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,134 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,991 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 7 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
 | 8 | [It's My Life](https://open.spotify.com/track/4539Tbm6Rt5BaNKXJJj9RH) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/2f0OIKkTy3gT89i2N7BaHJ) | 3:59 |
 | 9 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 |
-| 10 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
-| 11 | [Music Sounds Better With You \- Radio Edit](https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 4:20 |
+| 10 | [Music Sounds Better With You \- Radio Edit](https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 4:20 |
+| 11 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
 | 12 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
 | 13 | [Mr\. Vain \- Original Radio Edit](https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain](https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj) | 4:17 |
 | 14 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 69 | [Somebody Dance with Me](https://open.spotify.com/track/7M2wk27EePpYr9TH3uZY1r) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Celebration](https://open.spotify.com/album/4R3t81cmGUQrTRFXTw7iI1) | 3:29 |
 | 70 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 |
 
-Snapshot ID: `MCwzNmEyMGEzM2ZiYWZiNWRlODFjMmJjYjdmZmE3ZmE1NThjOGVkMjJh`
+Snapshot ID: `MCw4MTUzOTdiZmJlYmE2NDEzZTZlYTQzZDNkYmIxYTk0ZmM5OGM0MzI1`

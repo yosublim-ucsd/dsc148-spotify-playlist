@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,591 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,628 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 24 | [King](https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:45 |
 | 25 | [Pheelz Like Summer](https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:50 |
 | 26 | [No Dey Form](https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [No Dey Form](https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV) | 2:20 |
-| 27 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 |
-| 28 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 |
+| 27 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 |
+| 28 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 |
 | 29 | [In Love](https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [In Love](https://open.spotify.com/album/4hjN43fijAskri1B3EXFej) | 3:20 |
 | 30 | [Evergreen](https://open.spotify.com/track/5h9qLZBQSuSrpNlOQldU86) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT) | [Evergreen](https://open.spotify.com/album/6ApVH27GE5u86dQs11WiuB) | 2:44 |
 | 31 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 40 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 |
 | 41 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 |
 | 42 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 |
-| 43 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
-| 44 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
+| 43 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
+| 44 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
 | 45 | [IYD](https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 |
 | 46 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
-| 47 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 |
+| 47 | [Wena](https://open.spotify.com/track/0IzpcaxNAkTbXMCjKce63a) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Wena](https://open.spotify.com/album/0onz8qjTUpigfkiOyqjSpw) | 3:14 |
 | 48 | [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 |
-| 49 | [Come Over](https://open.spotify.com/track/3nINqrVyKjo8uViVzh39Wg) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb) | 4:08 |
-| 50 | [Wena](https://open.spotify.com/track/0IzpcaxNAkTbXMCjKce63a) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Wena](https://open.spotify.com/album/0onz8qjTUpigfkiOyqjSpw) | 3:14 |
+| 49 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 |
+| 50 | [Come Over](https://open.spotify.com/track/3nINqrVyKjo8uViVzh39Wg) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb) | 4:08 |
 
-Snapshot ID: `MCxmODM0ZGVkYjE1ODkxMmNmNzU0MmI2NmQ5ZjEwMmU3M2U2OTI3NmZm`
+Snapshot ID: `MCxhOGZmMWZiMWUwNzU4NmY1OGVmNjQ0ZWEyNzk1ZGQ0MzFmZmNlYzZj`

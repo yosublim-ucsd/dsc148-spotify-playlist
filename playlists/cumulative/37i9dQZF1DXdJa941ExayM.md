@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: 100 gecs
 
-220 songs - 11 hr 23 min
+221 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Daylight](https://open.spotify.com/track/6SwADEar9alFscVOcPY2eq) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Daylight](https://open.spotify.com/album/12tTHLBSApLkacLXdWc3eJ) | 2:09 | 2023-04-28 |  |
 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 | 2023-03-20 |  |
 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 | 2022-12-13 |  |
-| [Death of Me](https://open.spotify.com/track/3gKLO2vWVrUkFFCMgajasU) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Death of Me](https://open.spotify.com/album/0WWf5T9BGaeNOAnZWTdm74) | 2:40 | 2022-09-29 |  |
+| [Death of Me](https://open.spotify.com/track/3gKLO2vWVrUkFFCMgajasU) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Death of Me](https://open.spotify.com/album/0WWf5T9BGaeNOAnZWTdm74) | 2:40 | 2022-09-29 | 2023-05-14 |
+| [Death of Me](https://open.spotify.com/track/65WzVVqyzkRzSOmM2kovls) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 2:40 | 2023-02-17 |  |
 | [Death Wish](https://open.spotify.com/track/3N3TknnMTUNcbHT1gOLYIW) | [So Tuff So Cute](https://open.spotify.com/artist/1PaF0WJCG5MLAoOv5xSWeR), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Death Wish](https://open.spotify.com/album/0HU0ivC4hwEbYATlSdsA8S) | 2:31 | 2022-12-08 |  |
 | [dedd barchetta](https://open.spotify.com/track/6APgOMkG1jkeFZD3rfCpvp) | [Sugs](https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb) | [dedd barchetta](https://open.spotify.com/album/1DOxrwCYqfxD5MRNRknxWY) | 1:20 | 2022-08-25 |  |
 | [Doorman](https://open.spotify.com/track/6bTAz3pg5ywBeZHCQoleJB) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Nothing Great About Britain](https://open.spotify.com/album/5fx2Hde8xw2jWPtUKXA73X) | 3:04 | 2022-08-28 |  |

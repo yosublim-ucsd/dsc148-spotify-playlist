@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Louis Pascal",
-  "num_followers": 583,
+  "num_followers": 599,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGRmOGJhZTVkMGUzN2M3NmMwZTdlZjc4YTcxYjhkZTA1MGUxNGIw",
+  "snapshot_id": "MCwyZTQ0NmYxNGY2YWQ4Yzk2M2MxOTE2OGNiYzliN2E3ODljOWZjY2Jk",
   "tracks": [
     {
       "added_at": "2023-04-20 23:59:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Okrokrohene",
-        "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        }
-      ],
-      "duration_ms": 366107,
-      "name": "Okrokrohene",
-      "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Fawohodie(Twi Medley)",
         "url": "https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 594921,
       "name": "Fawohodie(Twi Medley)",
       "url": "https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Okrokrohene",
+        "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "duration_ms": 366107,
+      "name": "Okrokrohene",
+      "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Okasa",
-        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
-      },
-      "artists": [
-        {
-          "name": "Eugene Zuta",
-          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
-        }
-      ],
-      "duration_ms": 267424,
-      "name": "Okasa",
-      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Nyame Ye",
         "url": "https://open.spotify.com/album/64uZTak252YtY8M7VqXs8a"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 433646,
       "name": "Glory Chants",
       "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Okasa",
+        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
+      },
+      "artists": [
+        {
+          "name": "Eugene Zuta",
+          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
+        }
+      ],
+      "duration_ms": 267424,
+      "name": "Okasa",
+      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Mehyia Yesu",
+        "url": "https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp"
+      },
+      "artists": [
+        {
+          "name": "Omari Kissi Jnr",
+          "url": "https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd"
+        }
+      ],
+      "duration_ms": 518260,
+      "name": "Mehyia Yesu",
+      "url": "https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "Final Say (Live)",
         "url": "https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Mehyia Yesu",
-        "url": "https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp"
+        "name": "Gyae Su",
+        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
       },
       "artists": [
         {
-          "name": "Omari Kissi Jnr",
-          "url": "https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd"
+          "name": "Solomon King",
+          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
         }
       ],
-      "duration_ms": 518260,
-      "name": "Mehyia Yesu",
-      "url": "https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC"
+      "duration_ms": 258001,
+      "name": "Gyae Su",
+      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Gyae Su",
-        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
-      },
-      "artists": [
-        {
-          "name": "Solomon King",
-          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
-        }
-      ],
-      "duration_ms": 258001,
-      "name": "Gyae Su",
-      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Gye Wayeyi",
         "url": "https://open.spotify.com/album/3pEaPAtG5ZW4izhcaGGRDy"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 485423,
       "name": "Gye Wayeyi",
       "url": "https://open.spotify.com/track/0vRMKxie6xpXzByMbTlqHD"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Testimony Therapy",
+        "url": "https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "duration_ms": 219824,
+      "name": "Testimony - Acoustic",
+      "url": "https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -807,22 +823,6 @@
       "duration_ms": 319870,
       "name": "Adom Bi",
       "url": "https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Testimony Therapy",
-        "url": "https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        }
-      ],
-      "duration_ms": 219824,
-      "name": "Testimony - Acoustic",
-      "url": "https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -859,18 +859,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Mensuro",
-        "url": "https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK"
+        "name": "CYB",
+        "url": "https://open.spotify.com/album/0KqMiA8MVuuBsK8KXlCAmy"
       },
       "artists": [
         {
-          "name": "Miriam Afari",
-          "url": "https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR"
+          "name": "Regardless Da YungKing",
+          "url": "https://open.spotify.com/artist/7dkbG2UVvht2XS9FzRXBcy"
+        },
+        {
+          "name": "Morphat",
+          "url": "https://open.spotify.com/artist/6aOcPv0XzxXzDWpEQer0rw"
         }
       ],
-      "duration_ms": 404300,
-      "name": "Mensuro",
-      "url": "https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO"
+      "duration_ms": 179413,
+      "name": "CYB",
+      "url": "https://open.spotify.com/track/4RROgBvii00NTvk2ga3xZk"
     }
   ],
   "unique_name": "Aseda",

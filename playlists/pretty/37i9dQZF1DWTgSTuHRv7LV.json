@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Peso Pluma, Aleman. ",
-  "num_followers": 471513,
+  "num_followers": 471597,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDVjNDNhNTk5MGM1ZTQ3MDJhOWJiZjJkYzYzZjkwNWM4NTA2MzY1",
+  "snapshot_id": "MCxmODA5MGFmODRlNTUxM2M3MTQ0Y2QzZmE2MGQyZDlhM2NjYzQ5ZmU2",
   "tracks": [
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "Conexiones",
-        "url": "https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 201741,
-      "name": "Conexiones",
-      "url": "https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 217228,
       "name": "G-500",
       "url": "https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "Conexiones",
+        "url": "https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 201741,
+      "name": "Conexiones",
+      "url": "https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "Big Booty, Pretty Face",
-        "url": "https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl"
+        "name": "FASHION DILLER",
+        "url": "https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv"
       },
       "artists": [
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 227484,
-      "name": "Big Booty, Pretty Face",
-      "url": "https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe"
+      "duration_ms": 161638,
+      "name": "FASHION DILLER",
+      "url": "https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "FASHION DILLER",
-        "url": "https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv"
+        "name": "Big Booty, Pretty Face",
+        "url": "https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl"
       },
       "artists": [
         {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
         }
       ],
-      "duration_ms": 161638,
-      "name": "FASHION DILLER",
-      "url": "https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU"
+      "duration_ms": 227484,
+      "name": "Big Booty, Pretty Face",
+      "url": "https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "Ojos Chiquitos",
-        "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 152796,
-      "name": "Ojos Chiquitos",
-      "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "WYS",
         "url": "https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 241655,
       "name": "Sin Drama",
       "url": "https://open.spotify.com/track/6yi3uBliwfNqJUqnilf3d6"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 152796,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "No Creyeron",
-        "url": "https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 150422,
-      "name": "No Creyeron",
-      "url": "https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "Siempre Es Lo Mismo",
         "url": "https://open.spotify.com/album/7mbmPQhpfV0QojDzqf9fTQ"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 246605,
       "name": "Siempre Es Lo Mismo",
       "url": "https://open.spotify.com/track/2Sg6GmnyCyoYkvNezFp98e"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "No Creyeron",
+        "url": "https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 150422,
+      "name": "No Creyeron",
+      "url": "https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "Cuando Toca Toca",
-        "url": "https://open.spotify.com/album/7K6ttsCBYeEeG5ShXpVxAj"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 184720,
-      "name": "Cuando Toca Toca",
-      "url": "https://open.spotify.com/track/77RTlDGWdgIlbsceY70W28"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "NUEVE",
         "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 212454,
       "name": "EL INCA",
       "url": "https://open.spotify.com/track/4RYKjXtPtf4fjIeMpb3VZ3"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "Cuando Toca Toca",
+        "url": "https://open.spotify.com/album/7K6ttsCBYeEeG5ShXpVxAj"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 184720,
+      "name": "Cuando Toca Toca",
+      "url": "https://open.spotify.com/track/77RTlDGWdgIlbsceY70W28"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "El Anillo el Reloj",
-        "url": "https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 172524,
-      "name": "El Anillo el Reloj",
-      "url": "https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "Explicita",
         "url": "https://open.spotify.com/album/3LtFl0dohF761jukARAR5L"
       },
@@ -2151,6 +2135,22 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 170501,
+      "name": "Buen Viaje",
+      "url": "https://open.spotify.com/track/4yKTuSizI3B6Rkd2CF0fAE"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
         "name": "La Que Hay",
         "url": "https://open.spotify.com/album/1JEbUd7kAG7lLqen6Jit6p"
       },
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "Manjit",
-        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+        "name": "El Anillo el Reloj",
+        "url": "https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy"
       },
       "artists": [
         {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
         }
       ],
-      "duration_ms": 170501,
-      "name": "Buen Viaje",
-      "url": "https://open.spotify.com/track/4yKTuSizI3B6Rkd2CF0fAE"
+      "duration_ms": 172524,
+      "name": "El Anillo el Reloj",
+      "url": "https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2207,26 +2207,6 @@
       "duration_ms": 264776,
       "name": "La Movie",
       "url": "https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
-        "name": "Dios Y Mi Fe",
-        "url": "https://open.spotify.com/album/1SttuNOvnL3HVDHled7wRM"
-      },
-      "artists": [
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        }
-      ],
-      "duration_ms": 211968,
-      "name": "Dios Y Mi Fe",
-      "url": "https://open.spotify.com/track/0VO3n8Y01UTsZYCelzwu9M"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2263,6 +2243,26 @@
       "duration_ms": 201000,
       "name": "Veintipico",
       "url": "https://open.spotify.com/track/0nq0enzelDlBoQHcrwfEf5"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "Dios Y Mi Fe",
+        "url": "https://open.spotify.com/album/1SttuNOvnL3HVDHled7wRM"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "duration_ms": 211968,
+      "name": "Dios Y Mi Fe",
+      "url": "https://open.spotify.com/track/0VO3n8Y01UTsZYCelzwu9M"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2415,26 +2415,18 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "Los del Noro",
-        "url": "https://open.spotify.com/album/4OM4r8Pzin9wdBpPLPXNep"
+        "name": "FOLLOWS",
+        "url": "https://open.spotify.com/album/6MkEiKy5O4kGghEqO9rt7E"
       },
       "artists": [
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        },
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Bacanora",
-      "url": "https://open.spotify.com/track/1Sn1dtN2rVnOo3cqelNFRb"
+      "duration_ms": 237861,
+      "name": "FOLLOWS",
+      "url": "https://open.spotify.com/track/13HFRTXdWFvXIRxGsjLsWc"
     }
   ],
   "unique_name": "Mucho Rap",

@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 104 | [lovelost](https://open.spotify.com/track/4UKFs8uaTDY9LATeFW30OF) | [motifs](https://open.spotify.com/artist/6Ai0kQ1MZABOQLVZNGozBB) | [lovelost](https://open.spotify.com/album/0t4z06E9od6mkiAZo4n7cM) | 5:08 |
 | 105 | [ur the only one](https://open.spotify.com/track/3qXakyAA5H3pdnL0z3ExpR) | [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [ur the only one](https://open.spotify.com/album/2pinoPrSIr05ASlksdwoOy) | 3:07 |
 
-Snapshot ID: `MCxhNTY1M2I3MWY3Zjc4MmU2YWIxMDM3ZGQzNTlkNjlmZmVkMmRkMTZi`
+Snapshot ID: `MCxiZDE0ZmExMDE0ZWM5MTNkMzc2OThlOTRkZjdjY2EwNGI2NDU0NmVi`

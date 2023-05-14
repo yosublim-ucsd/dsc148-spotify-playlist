@@ -1,12 +1,12 @@
 {
   "description": "Songs for lovers like you've never heard before. Cover: Muni Long",
-  "num_followers": 13651,
+  "num_followers": 13650,
   "original_name": "Spotify Singles: Love Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTgwNTg4MTRkYjJmNmU5YTFjYTkzY2QwYWQ5ZTlkMzMwMDE0ZmUw",
+  "snapshot_id": "MCxkNGUyY2QwYWQ2ZTgxNzA3NTliZDU0ODVmMWU3N2RjNjg2NDQyY2Rj",
   "tracks": [
     {
       "added_at": "2023-01-30 18:50:49",
@@ -276,17 +276,17 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA"
+        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 221969,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi"
+      "duration_ms": 224987,
+      "name": "One Number Away - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -308,17 +308,17 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
+        "url": "https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 224987,
-      "name": "One Number Away - Recorded At Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
+      "duration_ms": 221969,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -640,22 +640,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 271825,
-      "name": "Light On - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
       },
       "artists": [
@@ -667,6 +651,22 @@
       "duration_ms": 194480,
       "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
       "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 271825,
+      "name": "Light On - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1516,6 +1516,22 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7gpKIWEXYkDbsVhJnJItYb"
+      },
+      "artists": [
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 146756,
+      "name": "Sade - Spotify Singles",
+      "url": "https://open.spotify.com/track/0G5KlXqssFee9PDQYJ8PqL"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7CDrEUJdfoW3l4Ic7Rv05t"
       },
       "artists": [
@@ -1543,22 +1559,6 @@
       "duration_ms": 310400,
       "name": "When the Night is Over - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2omW4OJrifRkLNb1byj0e6"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7gpKIWEXYkDbsVhJnJItYb"
-      },
-      "artists": [
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 146756,
-      "name": "Sade - Spotify Singles",
-      "url": "https://open.spotify.com/track/0G5KlXqssFee9PDQYJ8PqL"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1744,6 +1744,22 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/45TIKE2URFPyJlo6UA2kMl"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 194187,
+      "name": "Buena Sera - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1uDOXrIOANQXEhqbFay4Ks"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -1759,22 +1775,6 @@
       "duration_ms": 207458,
       "name": "Everywhere I'm Goin' (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/45TIKE2URFPyJlo6UA2kMl"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 194187,
-      "name": "Buena Sera - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1uDOXrIOANQXEhqbFay4Ks"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1896,22 +1896,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 158501,
-      "name": "Unforgettable - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
       },
       "artists": [
@@ -1923,6 +1907,22 @@
       "duration_ms": 251803,
       "name": "Lovesong - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 158501,
+      "name": "Unforgettable - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1992,22 +1992,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 255553,
-      "name": "Better Place - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
       },
       "artists": [
@@ -2019,6 +2003,22 @@
       "duration_ms": 211202,
       "name": "First Began - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 255553,
+      "name": "Better Place - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU"
     },
     {
       "added_at": "2023-01-30 18:50:49",

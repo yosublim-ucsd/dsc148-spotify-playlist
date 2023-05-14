@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Valeria Castro.",
-  "num_followers": 109910,
+  "num_followers": 109994,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjI0ZmI0YTRjNDQ4NzcyOTM1ZTJiOWNhM2YzNjQ1YjBiYjRhMGYz",
+  "snapshot_id": "MCw1NjgxN2ZhMDVhYTc4YzQxYWU1OTNmMmYyMjBmY2ZjM2I2MDIzOGQ1",
   "tracks": [
     {
       "added_at": "2023-05-12 06:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Tocando tierra",
         "url": "https://open.spotify.com/album/6ZMzud0Gsx7zhe6CSCWDET"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 253813,
       "name": "Semillas (con Perota Chingo)",
       "url": "https://open.spotify.com/track/7jC9oz02D4KHAd85ej8lUe"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -287,6 +287,26 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Camino Que Pasa",
+        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Bernardo",
+          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
+        },
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Camino Que Pasa",
+      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Vulnerables",
         "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 210440,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Camino Que Pasa",
-        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
-      },
-      "artists": [
-        {
-          "name": "Sandra Bernardo",
-          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
-        },
-        {
-          "name": "Natalia Doco",
-          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Camino Que Pasa",
-      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "El Siglo del Loro",
+        "url": "https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115"
+      },
+      "artists": [
+        {
+          "name": "Pala",
+          "url": "https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 100253,
+      "name": "Ponme",
+      "url": "https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Civilizado Como Los Animales",
         "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 301935,
       "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
       "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "El Siglo del Loro",
-        "url": "https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115"
-      },
-      "artists": [
-        {
-          "name": "Pala",
-          "url": "https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 100253,
-      "name": "Ponme",
-      "url": "https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -951,38 +951,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 196984,
-      "name": "Temes",
-      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Todo Lo Que No Est\u00e1",
         "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
       },
@@ -1003,6 +971,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 196984,
+      "name": "Temes",
+      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Algo Ritmos",
         "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 236361,
       "name": "Solo Le Dije",
       "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Sin Remitente",
-        "url": "https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Balbis",
-          "url": "https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Canci\u00f3n Con Vos",
-      "url": "https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Las Bestias Que Me Acompa\u00f1an",
         "url": "https://open.spotify.com/album/4VfTnbsFhguLzTTOCYUcO9"
       },
@@ -1119,22 +1103,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
       },
@@ -1147,6 +1115,38 @@
       "duration_ms": 198293,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Sin Remitente",
+        "url": "https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Balbis",
+          "url": "https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Canci\u00f3n Con Vos",
+      "url": "https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Versiones Desnudas",
+        "url": "https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo"
+      },
+      "artists": [
+        {
+          "name": "RIOLA",
+          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
+        },
+        {
+          "name": "Borja Pic\u00f3",
+          "url": "https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Dame M\u00e1s (En Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Palabritas y Palabrotas",
         "url": "https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Versiones Desnudas",
-        "url": "https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo"
-      },
-      "artists": [
-        {
-          "name": "RIOLA",
-          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
-        },
-        {
-          "name": "Borja Pic\u00f3",
-          "url": "https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Dame M\u00e1s (En Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "1990",
+        "url": "https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        },
+        {
+          "name": "Emilia Siede",
+          "url": "https://open.spotify.com/artist/6RWlJiSPLshpRuQ6emBMpX"
+        }
+      ],
+      "duration_ms": 236756,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Quietud",
         "url": "https://open.spotify.com/album/0htvDhfnlEHorNRhOB12mv"
       },
@@ -1679,22 +1699,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "1990",
-        "url": "https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU"
+        "name": "Cuchara Chueca",
+        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
       },
       "artists": [
         {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        },
-        {
-          "name": "Emilia Siede",
-          "url": "https://open.spotify.com/artist/6RWlJiSPLshpRuQ6emBMpX"
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
         }
       ],
-      "duration_ms": 236756,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz"
+      "duration_ms": 271200,
+      "name": "Alma Sola",
+      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1711,22 +1727,6 @@
       "duration_ms": 245593,
       "name": "Fui y Volv\u00ed",
       "url": "https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Cuchara Chueca",
-        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Alma Sola",
-      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
     },
     {
       "added_at": "2023-05-12 06:00:00",

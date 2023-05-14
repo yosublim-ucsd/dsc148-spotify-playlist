@@ -4,7 +4,7 @@
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
 
-102 songs - 6 hr 37 min
+103 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Always Focused](https://open.spotify.com/track/20zs5ECJ4on1YqXHiDZkTN) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [Pleasant Living](https://open.spotify.com/album/6glHUYWR8paVp72N7xmBci) | 2:40 | 2023-03-14 |  |
 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 | 2023-03-14 |  |
 | [Arcarsenal](https://open.spotify.com/track/2IHmR8p2poiSaS3cgBKmOt) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 2:54 | 2023-03-14 | 2023-04-30 |
+| [Arcarsenal](https://open.spotify.com/track/7pDbWHj7JkhCpJvk9bHy3M) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 2:54 | 2023-03-14 |  |
 | [Back And To The Left](https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ) | [Texas Is The Reason](https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8) | [Do You Know Who You Are?: The Complete Collection](https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7) | 3:55 | 2021-06-28 |  |
 | [Breakfast of Champions](https://open.spotify.com/track/4J35P4WwTQ1yYIN4ilAYC7) | [Rainer Maria](https://open.spotify.com/artist/5OUVzPFZebtoZFs85MIQpz) | [Look Now Look Again](https://open.spotify.com/album/63fo684HqZ1MRvyHNUdHW6) | 3:37 | 2022-06-09 | 2023-03-15 |
 | [Breakfast Of Champions](https://open.spotify.com/track/7fYabANyBAwb9TcUxvTQ0s) | [Rainer Maria](https://open.spotify.com/artist/5OUVzPFZebtoZFs85MIQpz) | [Look Now Look Again](https://open.spotify.com/album/56YkqH5Vv03PAeMzcuQzoQ) | 3:37 | 2021-06-28 | 2022-11-25 |
@@ -54,7 +55,7 @@
 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 | 2022-06-09 |  |
 | [Jude Law And A Semester Abroad](https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Your Favorite Weapon](https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj) | 3:42 | 2021-06-28 |  |
 | [Killing A Camera](https://open.spotify.com/track/3RRDWqEDP3045W8EP7xnY4) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame and Canvas](https://open.spotify.com/album/4Q0Q0m5YzJA4liSkoBlbhL) | 2:33 | 2021-06-28 | 2022-11-25 |
-| [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame & Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 | 2022-06-09 |  |
+| [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame & Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 | 2022-06-09 | 2023-05-14 |
 | [Liberation Frequency](https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 4:10 | 2023-03-14 |  |
 | [Love Rhymes With Hideous Car Wreck](https://open.spotify.com/track/4ZDgRXaafbD7MTx1iep94S) | [The Blood Brothers](https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR) | [Crimes \(Bonus Track Version\)](https://open.spotify.com/album/5wTuKjG1mxNJORaGY4Qw5F) | 3:14 | 2023-03-14 |  |
 | [Lucky Denver Mint](https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:49 | 2023-03-14 |  |

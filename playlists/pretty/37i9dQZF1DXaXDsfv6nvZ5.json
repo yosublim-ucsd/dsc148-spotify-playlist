@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 748228,
+  "num_followers": 748342,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODBhN2FmYzEzZDNiOTgxY2NiOTYzMDVlNDVkY2ZhYjkxMjg4YzMz",
+  "snapshot_id": "MCwzNTI4ZmNjMjZkMzIwZWE0MDlkMjYxNzFmMjk3NjVmOGUyM2Y4YmJj",
   "tracks": [
     {
       "added_at": "2023-04-08 21:25:54",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
     },
     {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 220611,
+      "name": "POF",
+      "url": "https://open.spotify.com/track/1NY9g5OFUoezXeTveFYWSM"
+    },
+    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Enigmatic Society",
@@ -721,22 +737,6 @@
       "url": "https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 220611,
-      "name": "POF",
-      "url": "https://open.spotify.com/track/1NY9g5OFUoezXeTveFYWSM"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Coffee in the Morning",
@@ -751,22 +751,6 @@
       "duration_ms": 226453,
       "name": "Coffee in the Morning",
       "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2023-05-05 05:35:01",
@@ -787,6 +771,22 @@
       "duration_ms": 198425,
       "name": "Eve Gene",
       "url": "https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -837,6 +837,22 @@
       "url": "https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q"
     },
     {
+      "added_at": "2023-05-05 05:35:01",
+      "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 189826,
+      "name": "WELCOME TO SOUL,PRESENT",
+      "url": "https://open.spotify.com/track/0us7zsn3fg0xjJ4nzNeEHu"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Palace",
@@ -851,6 +867,22 @@
       "duration_ms": 152396,
       "name": "Palace",
       "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Love Is The Way",
+        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 179836,
+      "name": "Love Is The Way",
+      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -905,22 +937,6 @@
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
     },
     {
-      "added_at": "2023-05-05 05:35:01",
-      "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 189826,
-      "name": "WELCOME TO SOUL,PRESENT",
-      "url": "https://open.spotify.com/track/0us7zsn3fg0xjJ4nzNeEHu"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Why (Spare Me Tears)",
@@ -935,22 +951,6 @@
       "duration_ms": 205229,
       "name": "Why (Spare Me Tears)",
       "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Love Is The Way",
-        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 179836,
-      "name": "Love Is The Way",
-      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 195086,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
+    },
+    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "Queen Space (with Summer Walker)",
@@ -1073,22 +1089,6 @@
       "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "PHILEO",
-        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 168235,
-      "name": "Scene 1",
-      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Magic",
@@ -1105,20 +1105,20 @@
       "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
+        "name": "PHILEO",
+        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
         }
       ],
-      "duration_ms": 195086,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
+      "duration_ms": 168235,
+      "name": "Scene 1",
+      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1169,6 +1169,26 @@
       "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
     },
     {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Since You've Been Gone",
+        "url": "https://open.spotify.com/album/1SC9B04nmP42O8ckTuelR8"
+      },
+      "artists": [
+        {
+          "name": "Kadeem Tyrell",
+          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
+        },
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 226112,
+      "name": "Since You've Been Gone",
+      "url": "https://open.spotify.com/track/0xm6AATpiaDaVQce6DecIZ"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "All About You",
@@ -1189,24 +1209,44 @@
       "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Since You've Been Gone",
-        "url": "https://open.spotify.com/album/1SC9B04nmP42O8ckTuelR8"
+        "name": "black like you",
+        "url": "https://open.spotify.com/album/2PR9Y5Ozd8WaYYI484gukz"
       },
       "artists": [
         {
-          "name": "Kadeem Tyrell",
-          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
-        },
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
         }
       ],
-      "duration_ms": 226112,
-      "name": "Since You've Been Gone",
-      "url": "https://open.spotify.com/track/0xm6AATpiaDaVQce6DecIZ"
+      "duration_ms": 192964,
+      "name": "black like you",
+      "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Snoop Dogg Presents Death Row Summer 2022",
+        "url": "https://open.spotify.com/album/78R84o4n1a3LxcdzgGZKfC"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        },
+        {
+          "name": "LaToiya Williams",
+          "url": "https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Mulholland Drive",
+      "url": "https://open.spotify.com/track/70RUzztH81zpAMm9jbMLDi"
     },
     {
       "added_at": "2022-10-03 05:27:10",
@@ -1239,30 +1279,6 @@
       "duration_ms": 270031,
       "name": "Stay",
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Snoop Dogg Presents Death Row Summer 2022",
-        "url": "https://open.spotify.com/album/78R84o4n1a3LxcdzgGZKfC"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        },
-        {
-          "name": "LaToiya Williams",
-          "url": "https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Mulholland Drive",
-      "url": "https://open.spotify.com/track/70RUzztH81zpAMm9jbMLDi"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 195082,
       "name": "Changed",
       "url": "https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "black like you",
-        "url": "https://open.spotify.com/album/2PR9Y5Ozd8WaYYI484gukz"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 192964,
-      "name": "black like you",
-      "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
     },
     {
       "added_at": "2022-10-03 05:27:10",
@@ -1469,20 +1469,20 @@
       "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Damn",
-        "url": "https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb"
+        "name": "If You Don't Want My Love",
+        "url": "https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn"
       },
       "artists": [
         {
-          "name": "Jerome Thomas",
-          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 196792,
-      "name": "Damn",
-      "url": "https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ"
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/5BO76ay1UPZEj72HUqJtxA"
     },
     {
       "added_at": "2022-09-23 04:06:59",
@@ -1505,20 +1505,20 @@
       "url": "https://open.spotify.com/track/0mGuqhdpKtKv6KajTmCLFI"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "AM/FM",
-        "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
+        "name": "Damn",
+        "url": "https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb"
       },
       "artists": [
         {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
         }
       ],
-      "duration_ms": 165752,
-      "name": "AM/FM",
-      "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
+      "duration_ms": 196792,
+      "name": "Damn",
+      "url": "https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1557,20 +1557,20 @@
       "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "If You Don't Want My Love",
-        "url": "https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn"
+        "name": "AM/FM",
+        "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
         }
       ],
-      "duration_ms": 146813,
-      "name": "If You Don't Want My Love",
-      "url": "https://open.spotify.com/track/5BO76ay1UPZEj72HUqJtxA"
+      "duration_ms": 165752,
+      "name": "AM/FM",
+      "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1621,26 +1621,6 @@
       "url": "https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Brand New Life",
-        "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
-      },
-      "artists": [
-        {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
-        },
-        {
-          "name": "Mumu Fresh",
-          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
-        }
-      ],
-      "duration_ms": 272323,
-      "name": "Brand New Life (feat. Mumu Fresh)",
-      "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Trash",
@@ -1659,6 +1639,26 @@
       "duration_ms": 209446,
       "name": "Trash",
       "url": "https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        },
+        {
+          "name": "Mumu Fresh",
+          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
+        }
+      ],
+      "duration_ms": 272323,
+      "name": "Brand New Life (feat. Mumu Fresh)",
+      "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1769,6 +1769,30 @@
       "url": "https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1"
     },
     {
+      "added_at": "2023-05-05 05:35:01",
+      "album": {
+        "name": "The Energy",
+        "url": "https://open.spotify.com/album/5swCVMFkOuL2gVurAan9ZD"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        },
+        {
+          "name": "KOLE",
+          "url": "https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8"
+        }
+      ],
+      "duration_ms": 219464,
+      "name": "The Energy",
+      "url": "https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Like You'll Never See Me Again",
@@ -1783,22 +1807,6 @@
       "duration_ms": 238033,
       "name": "Like You'll Never See Me Again",
       "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Like a Ship (Live from Strange Manor)",
-        "url": "https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 312373,
-      "name": "Like a Ship - Live from Strange Manor",
-      "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
     },
     {
       "added_at": "2023-03-24 04:00:00",

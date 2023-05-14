@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 
 > Revive a la generación que transformó el rock en español para siempre\. En portada: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,299 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,462 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 | 33 | [El Final](https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U) | [Rostros Ocultos](https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib) | [Singles](https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV) | 2:38 |
 | 34 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 |
 | 35 | [Pero a tu lado](https://open.spotify.com/track/3JOXwHPhtdRU3kYKcf64Gj) | [Los Secretos](https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf) | [Dos Caras Distintas](https://open.spotify.com/album/5J74XM1KLvoz4KgdNZczcm) | 3:15 |
-| 36 | [Aun](https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u) | [Coda](https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy) | [Veinte Para Las Doce](https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI) | 4:54 |
-| 37 | [No Me Dejan Salir](https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 4:23 |
+| 36 | [No Me Dejan Salir](https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 4:23 |
+| 37 | [Aun](https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u) | [Coda](https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy) | [Veinte Para Las Doce](https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI) | 4:54 |
 | 38 | [Es Tan Fácil Romper un Corazón](https://open.spotify.com/track/0n2IudFRHDBfn64pNFGShg) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:54 |
 | 39 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 40 | [Déjame](https://open.spotify.com/track/74anwTmdyvA3f8RUtCQqKD) | [Los Secretos](https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf) | [Los Secretos](https://open.spotify.com/album/1XVL4fl2DMeU1JOPVH6K17) | 2:40 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 | 48 | [Mamá](https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 3:46 |
 | 49 | [El calor del amor en un bar](https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg) | [Gabinete Caligari](https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy) | [Al calor del amor en un bar](https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm) | 2:50 |
 | 50 | [Juegos de Amor](https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl) | [Neón](https://open.spotify.com/artist/3wv682f2IGrweKNr4SlGeC) | [Rock En Español \- Lo Mejor De Neon](https://open.spotify.com/album/3vJCmTwiW8FIWFd5wCblk8) | 4:19 |
-| 51 | [Escuela de Calor](https://open.spotify.com/track/1N1QL28bnJWt7u0dbJHyR0) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Caja de Canciones](https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1) | 3:30 |
-| 52 | [Viviendo de Noche](https://open.spotify.com/track/5TmobGkcbz4oYhtvPcmTDF) | [Veni Vidi Vici](https://open.spotify.com/artist/2qdrohstXuwGZQa5seQbUe) | [Viviendo de Noche](https://open.spotify.com/album/2Oo8AfNU3dyQPi8tNHbSoU) | 4:06 |
+| 51 | [Viviendo de Noche](https://open.spotify.com/track/5TmobGkcbz4oYhtvPcmTDF) | [Veni Vidi Vici](https://open.spotify.com/artist/2qdrohstXuwGZQa5seQbUe) | [Viviendo de Noche](https://open.spotify.com/album/2Oo8AfNU3dyQPi8tNHbSoU) | 4:06 |
+| 52 | [Escuela de Calor](https://open.spotify.com/track/1N1QL28bnJWt7u0dbJHyR0) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Caja de Canciones](https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1) | 3:30 |
 | 53 | [Cómo pudiste hacerme esto a mí](https://open.spotify.com/track/6L3rEi9FdKAuwCz1DiWkIk) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 4:07 |
 | 54 | [Nada Personal](https://open.spotify.com/track/2VWQAtJhyN3sQPJidCbP8v) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Obras Cumbres \(Parte 2\)](https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV) | 4:52 |
 | 55 | [Bailando en las Veredas](https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 4:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 | 59 | [A Cara o Cruz](https://open.spotify.com/track/6gyagQouotKjEoGQVi1e7d) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Caja de Canciones](https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1) | 5:37 |
 | 60 | [Dime Jaguar](https://open.spotify.com/track/1KnhTAyAcYZ4hO9YBWAATe) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Equilibrio De Los Jaguares](https://open.spotify.com/album/345ZGeUupFETaN36llAJCR) | 4:57 |
 
-Snapshot ID: `MCw3MmQ0MDk2MWVmNzljMzQ0MjE4ZmEwNTI0MjE3YjM2MWJjMDBkMTJm`
+Snapshot ID: `MCw4ZWFlMWM1MjE4M2ViYTE3YWNhZWEyNTI0NmIwYjliZDBlZTI2OTRm`

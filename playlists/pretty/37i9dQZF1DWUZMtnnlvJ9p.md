@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 
 > Mixing the decades: 1990s, 2000s, 2010s and 2020s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,213 likes - 146 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,070 likes - 146 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZMtnnlvJ9p.md) - [plain]
 | 145 | [All That She Wants](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:31 |
 | 146 | [Beautiful Girls](https://open.spotify.com/track/67D9O4Oau629qirRXtTWCS) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 4:01 |
 
-Snapshot ID: `MCxkZWQxNzI1M2I5NGEzYTJhYTc2MzY5ZGNjNTYyMmQ3NmIwMzQwYmMy`
+Snapshot ID: `MCxiODgxNmQzNmMzMGI3MTU0MTdkOGMzYTljZmE1Njg5NjQxYmY3N2Ni`

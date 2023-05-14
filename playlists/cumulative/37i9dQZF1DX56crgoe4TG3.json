@@ -524,7 +524,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 237230,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/42zrLbtRnhMwVN6T43fRRp"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 223625,
       "name": "Diane",
       "url": "https://open.spotify.com/track/6jjtloIxVfU2xSyi96V5UT"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 187706,
       "name": "High Sierra",
       "url": "https://open.spotify.com/track/3mZ5laZgAB3T7zERs8mun1"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 196746,
       "name": "I Bet My Life",
       "url": "https://open.spotify.com/track/7jHpuHfI0bhd4gYiz7jVL0"
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 254853,
       "name": "Low",
       "url": "https://open.spotify.com/track/4OLKxDTU5803FNDuQijxX8"
@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 223190,
       "name": "Maple Leaf Rag",
       "url": "https://open.spotify.com/track/4djgZz36Jx4Oz3hv8LXEA8"
@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 253866,
       "name": "New Slang",
       "url": "https://open.spotify.com/track/2YcILFkmZHNi5qCqgP9F0R"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 186538,
       "name": "On the Turning Away",
       "url": "https://open.spotify.com/track/3TRR5kid8vTvIxBv5IC8Of"
@@ -2560,6 +2560,24 @@
       "duration_ms": 229760,
       "name": "Outbound Plane",
       "url": "https://open.spotify.com/track/2Dx0LnWpxdKyKlYPMNiaUn"
+    },
+    {
+      "album": {
+        "name": "Penny Lane",
+        "url": "https://open.spotify.com/album/5L3LRng1vofK7Ujpt75eNZ"
+      },
+      "artists": [
+        {
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180826,
+      "name": "Penny Lane",
+      "url": "https://open.spotify.com/track/3SDhnA2jUpivgPMPAHrNYb"
     },
     {
       "album": {
@@ -2722,7 +2740,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 190500,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/7b6xD3ols9DgVfj53SmENK"
@@ -3550,7 +3568,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 216800,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/2BkIizhyucfTfpnT0jcLCV"
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 210628,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/2dJrn376fJPUCj1f4txnRQ"
@@ -3992,10 +4010,28 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 222853,
       "name": "You're Not Sorry",
       "url": "https://open.spotify.com/track/61XUS0rxs5k6H0mtgAWKnm"
+    },
+    {
+      "album": {
+        "name": "Maria with a \"J\"",
+        "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
+      },
+      "artists": [
+        {
+          "name": "Marija Droze",
+          "url": "https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181117,
+      "name": "You've Got Time",
+      "url": "https://open.spotify.com/track/7kPJfmUSy71QrHRbsOZtkZ"
     },
     {
       "album": {

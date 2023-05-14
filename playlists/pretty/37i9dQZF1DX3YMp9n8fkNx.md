@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: Matchbox Twenty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,239,802 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,154 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 19 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 20 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 |
 | 21 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
-| 22 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
+| 22 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
 | 23 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
-| 24 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
-| 25 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
+| 24 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
+| 25 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
 | 26 | [3AM](https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:45 |
 | 27 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
 | 28 | [One Headlight](https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 5:12 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 44 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
 | 45 | [Common People](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
 | 46 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 |
-| 47 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 |
-| 48 | [Inside Out](https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Eve 6](https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW) | 3:39 |
+| 47 | [Inside Out](https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Eve 6](https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW) | 3:39 |
+| 48 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 |
 | 49 | [Man On The Moon](https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 5:14 |
 | 50 | [Lightning Crashes](https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 5:25 |
 | 51 | [Walkin' On The Sun](https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Fush Yu Mang \(20th Anniversary Edition\)](https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt) | 3:27 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 94 | [Send Me On My Way](https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [The Best Of / 20th Century Masters The Millennium Collection](https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR) | 4:21 |
 | 95 | [Girl From Mars](https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 3:30 |
 | 96 | [Hey Leonardo \(She Likes Me for Me\)](https://open.spotify.com/track/6xP5TGWu1GBEHjMBmHRbjT) | [Blessid Union Of Souls](https://open.spotify.com/artist/4W4gYpQ2AQq7US2HZS13Qw) | [Walking Off the Buzz](https://open.spotify.com/album/5ZgazGk7G2Enwy0UXvSzcF) | 3:27 |
-| 97 | [Into Your Arms](https://open.spotify.com/track/2Rx10OuH1VsLgvJbfJAt9M) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come on Feel The Lemonheads](https://open.spotify.com/album/1mA5CUUztAKf53GDuypfAT) | 2:44 |
-| 98 | [Run\-Around](https://open.spotify.com/track/3y8rEUEUdmAcPCpPoLotnO) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Travelogue: Blues Traveler Classics](https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I) | 4:40 |
-| 99 | [Devils Haircut](https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp) | 3:15 |
+| 97 | [Devils Haircut](https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp) | 3:15 |
+| 98 | [Into Your Arms](https://open.spotify.com/track/2Rx10OuH1VsLgvJbfJAt9M) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come on Feel The Lemonheads](https://open.spotify.com/album/1mA5CUUztAKf53GDuypfAT) | 2:44 |
+| 99 | [Run\-Around](https://open.spotify.com/track/3y8rEUEUdmAcPCpPoLotnO) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Travelogue: Blues Traveler Classics](https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I) | 4:40 |
 | 100 | [Shimmer](https://open.spotify.com/track/6DzbmjkVZpz1mrDobAoJI8) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [The Best of Fuel](https://open.spotify.com/album/5CmgNXCwdGuqn6EPzfb4Tq) | 3:34 |
 
-Snapshot ID: `MCxjYTkzMWRjMWUxZjgyYzhjZjI1ZWY2MGU5YzFjNDJiMTRhOGRjY2U4`
+Snapshot ID: `MCxjYTAzN2IwOWJkODg1ZTg2YmQ5NTFiZDIwODQwNzk1OGM5MjgzOTdk`

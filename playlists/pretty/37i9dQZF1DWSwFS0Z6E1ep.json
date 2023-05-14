@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s. Cover: Elvis.",
-  "num_followers": 201939,
+  "num_followers": 202261,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTgzOTQ0ODQyMmI2YTExMDBlODJhZjdmZjMxYmFiM2Y2OGRjMGRh",
+  "snapshot_id": "MCwzZDU5MzIyNjVhNzBkYzg4MmZhZjUzZmI4NWM4NDk0ZTJlMjkwMGNl",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rock Around The Clock",
-        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 129893,
-      "name": "(We're Gonna) Rock Around The Clock",
-      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 155506,
       "name": "Hallelujah, I Love Her So",
       "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rock Around The Clock",
+        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 129893,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "No Particular Place To Go",
+      "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 354533,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "No Particular Place To Go",
-      "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Presenting Dion And The Belmonts",
-        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
-      },
-      "artists": [
-        {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "A Teenager In Love",
-      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "What'd I Say",
         "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 307053,
       "name": "What'd I Say, Pt. 1 & 2",
       "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Presenting Dion And The Belmonts",
+        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
+      },
+      "artists": [
+        {
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "A Teenager In Love",
+      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "12 Of His Biggest Hits",
-        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
-        }
-      ],
-      "duration_ms": 118226,
-      "name": "C\u2019Mon Everybody",
-      "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Fresh Cream",
-        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
+        "name": "12 Of His Biggest Hits",
+        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
         }
       ],
-      "duration_ms": 171506,
-      "name": "I Feel Free",
-      "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
+      "duration_ms": 118226,
+      "name": "C\u2019Mon Everybody",
+      "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1115,6 +1099,22 @@
       "duration_ms": 268560,
       "name": "Shout, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Fresh Cream",
+        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I Feel Free",
+      "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Wanda Jackson",
-        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
-      },
-      "artists": [
-        {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Let's Have A Party",
-      "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Fats Domino Swings",
         "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
       },
@@ -1759,18 +1743,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The \"Chirping\" Crickets",
-        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
+        "name": "Wanda Jackson",
+        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
       },
       "artists": [
         {
-          "name": "Buddy Holly & The Crickets",
-          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
         }
       ],
-      "duration_ms": 122600,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy"
+      "duration_ms": 131200,
+      "name": "Let's Have A Party",
+      "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1787,6 +1771,22 @@
       "duration_ms": 259573,
       "name": "Swing The Mood",
       "url": "https://open.spotify.com/track/3Aimpqxpvmz7jhJlNnEd5c"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The \"Chirping\" Crickets",
+        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly & The Crickets",
+          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+        }
+      ],
+      "duration_ms": 122600,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 141306,
-      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
-      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
         "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 168000,
       "name": "Baby, You\u2019ve Got What It Takes",
       "url": "https://open.spotify.com/track/1kxk1MnNnKBEQZdTrByDic"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 141306,
+      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
+      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockin' The Joint",
-        "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 148053,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/3nUEF90dilZHOoURbBYDEo"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Collector",
         "url": "https://open.spotify.com/album/4PrsQQJpd1JzboMg7tFlf5"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 146599,
       "name": "Jambalaya - On the Bayou",
       "url": "https://open.spotify.com/track/5UzBH9eW6D8rP0TC69vL7p"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rockin' The Joint",
+        "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 148053,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/3nUEF90dilZHOoURbBYDEo"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockin' The Joint",
-        "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 138986,
-      "name": "New Rock The Joint",
-      "url": "https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly Portrait",
         "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 109500,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rockin' The Joint",
+        "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 138986,
+      "name": "New Rock The Joint",
+      "url": "https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5"
     },
     {
       "added_at": "2022-06-07 05:25:13",

@@ -1249,6 +1249,32 @@
     },
     {
       "album": {
+        "name": "Demon Time",
+        "url": "https://open.spotify.com/album/3fp3RtecG7rFqMNmDHunBx"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        },
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Demie Cao",
+          "url": "https://open.spotify.com/artist/2yA2xqPQyAwaTtMnbNhKyY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193601,
+      "name": "Demon Time",
+      "url": "https://open.spotify.com/track/55zkLJT9xYtoGTjYOGp6pe"
+    },
+    {
+      "album": {
         "name": "Diamond Heart (feat. RBBTS)",
         "url": "https://open.spotify.com/album/6fZlMAUV5irfWSIouOM3Wa"
       },
@@ -7282,7 +7308,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 200888,
       "name": "UNKNOWN",
       "url": "https://open.spotify.com/track/2bm1bTyHpIRq7KPfOO3ToN"

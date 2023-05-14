@@ -125,24 +125,6 @@
     },
     {
       "album": {
-        "name": "HEALING",
-        "url": "https://open.spotify.com/album/2ymGFFaLKQJusXQBNCkURw"
-      },
-      "artists": [
-        {
-          "name": "Monika Linkyte",
-          "url": "https://open.spotify.com/artist/5MRYARxlS1hlWFYXGHMztL"
-        }
-      ],
-      "date_added": "2023-05-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177682,
-      "name": "2. STAY - \u010ci\u016bto T\u016bto",
-      "url": "https://open.spotify.com/track/6Aj8JsZJGni7Iljc7PYsAf"
-    },
-    {
-      "album": {
         "name": "Still Sleep?",
         "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
       },
@@ -1693,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu"
+      },
+      "artists": [
+        {
+          "name": "Gustaph",
+          "url": "https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179908,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/320jqrATpl9762bCQkmLDf"
+    },
+    {
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -2243,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Break a Broken Heart",
+        "url": "https://open.spotify.com/album/6E8mwCc1q5s5zhlY9f6xUz"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lambrou",
+          "url": "https://open.spotify.com/artist/2LJg6YXPzGpih3QOUmyruJ"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178506,
+      "name": "Break a Broken Heart",
+      "url": "https://open.spotify.com/track/5dRAJ9UsR0qyMMKnonWewz"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -2664,7 +2682,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -2708,6 +2726,24 @@
       "duration_ms": 314520,
       "name": "Candy Necklace (feat. Jon Batiste)",
       "url": "https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96"
+    },
+    {
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0OzSTBSYgPD05WhkjurQFa"
+      },
+      "artists": [
+        {
+          "name": "Joker Out",
+          "url": "https://open.spotify.com/artist/0ZNfJyThuy6vLnPEpPaJdf"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165702,
+      "name": "Carpe Diem",
+      "url": "https://open.spotify.com/track/14ibwN44PVKuvEqLiaNkKu"
     },
     {
       "album": {
@@ -4691,6 +4727,24 @@
     },
     {
       "album": {
+        "name": "MATERIA (PELLE)",
+        "url": "https://open.spotify.com/album/6tgLnr7amiuRBK9LjO0pWG"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225652,
+      "name": "Due Vite",
+      "url": "https://open.spotify.com/track/4eI0ncpnZuv4A3ssTJRSDY"
+    },
+    {
+      "album": {
         "name": "Pasaka",
         "url": "https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U"
       },
@@ -5950,6 +6004,24 @@
       "duration_ms": 166255,
       "name": "Fulenn",
       "url": "https://open.spotify.com/track/43UejonUIN69O8NNAFRu5X"
+    },
+    {
+      "album": {
+        "name": "Future Lover",
+        "url": "https://open.spotify.com/album/1ILoaJqrJ2yRbb1J1ILpam"
+      },
+      "artists": [
+        {
+          "name": "Brunette",
+          "url": "https://open.spotify.com/artist/3SR6TrRumzRfsa92RkVIcG"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166019,
+      "name": "Future Lover",
+      "url": "https://open.spotify.com/track/3MKTciJfDAJjO0SjFZQsVx"
     },
     {
       "album": {
@@ -10975,6 +11047,24 @@
     },
     {
       "album": {
+        "name": "Mama \u0160\u010c!",
+        "url": "https://open.spotify.com/album/2Z7f4V8Z7CcPPtPKXW6wbc"
+      },
+      "artists": [
+        {
+          "name": "Let 3",
+          "url": "https://open.spotify.com/artist/4gs82a9ZgG2faut653OMRD"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154888,
+      "name": "Mama \u0160\u010c!",
+      "url": "https://open.spotify.com/track/7hcPebUUvJDRH6BhjZ5xEZ"
+    },
+    {
+      "album": {
         "name": "MAMMAMIA",
         "url": "https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme"
       },
@@ -11634,7 +11724,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
@@ -11822,7 +11912,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
@@ -13254,7 +13344,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -15132,6 +15222,24 @@
       "duration_ms": 160821,
       "name": "Privileged Rappers",
       "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1C7B9slsGeLEDgzbrJcHkg"
+      },
+      "artists": [
+        {
+          "name": "Voyager",
+          "url": "https://open.spotify.com/artist/16fltNcwTM5V9rnxIlcha4"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183510,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/0LeK6Ol47og0WdGwKegNUL"
     },
     {
       "album": {
@@ -17054,7 +17162,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 164571,
       "name": "Shut up My Moms Calling",
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
@@ -17272,7 +17380,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 260282,
       "name": "Slidu",
       "url": "https://open.spotify.com/track/7szvyCzmSGI8hJ0mlXiZDc"
@@ -17874,7 +17982,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 194754,
       "name": "Stadionai",
       "url": "https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M"
@@ -18008,7 +18116,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 184285,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6ouoSKOsxFa7wV6wMJHAOy"
@@ -18074,6 +18182,24 @@
       "duration_ms": 177682,
       "name": "Stay - \u010cI\u016aTO T\u016aTO",
       "url": "https://open.spotify.com/track/4yOIHfzshv3Mr1nuq7ZPSw"
+    },
+    {
+      "album": {
+        "name": "HEALING",
+        "url": "https://open.spotify.com/album/2ymGFFaLKQJusXQBNCkURw"
+      },
+      "artists": [
+        {
+          "name": "Monika Linkyte",
+          "url": "https://open.spotify.com/artist/5MRYARxlS1hlWFYXGHMztL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177682,
+      "name": "STAY - \u010cI\u016aTO T\u016aTO",
+      "url": "https://open.spotify.com/track/6Aj8JsZJGni7Iljc7PYsAf"
     },
     {
       "album": {
@@ -19152,7 +19278,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 226466,
       "name": "The Color Violet",
       "url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"

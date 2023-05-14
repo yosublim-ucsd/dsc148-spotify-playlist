@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 136237,
+  "num_followers": 136265,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTQ2YTQxMDBiMjdlNjQ2OTE1ZDkyZjBjYmY3MTM2MjEyYmUxMTk0",
+  "snapshot_id": "MCwzZThlZDEwNGRhYjZmODI3MGM0NzVmMDEyYWIzOTAyN2EzM2I4NWEy",
   "tracks": [
     {
       "added_at": "2023-05-12 14:19:18",
@@ -611,26 +611,6 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
-        "name": "Say Nothing (feat. MAY-A)",
-        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 232959,
-      "name": "Say Nothing (feat. MAY-A)",
-      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
-    },
-    {
-      "added_at": "2023-05-12 14:19:18",
-      "album": {
         "name": "Good Morning Music: Wake Up Workout",
         "url": "https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 203920,
       "name": "Heads Will Roll - A-Trak Remix Radio Edit",
       "url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"
+    },
+    {
+      "added_at": "2023-05-12 14:19:18",
+      "album": {
+        "name": "Say Nothing (feat. MAY-A)",
+        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 232959,
+      "name": "Say Nothing (feat. MAY-A)",
+      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
     },
     {
       "added_at": "2023-05-12 14:19:18",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
+        "name": "The Best Of Armin Only",
+        "url": "https://open.spotify.com/album/1WEVdCa5YAK8tep9xOs2hS"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Hilight Tribe",
+          "url": "https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "Great Spirit",
+      "url": "https://open.spotify.com/track/6FzjJPwf5JzzFOei7h6Qrp"
+    },
+    {
+      "added_at": "2023-05-12 14:19:18",
+      "album": {
         "name": "Serotonina",
         "url": "https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs"
       },
@@ -1203,30 +1227,6 @@
       "duration_ms": 234255,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o"
-    },
-    {
-      "added_at": "2023-05-12 14:19:18",
-      "album": {
-        "name": "The Best Of Armin Only",
-        "url": "https://open.spotify.com/album/1WEVdCa5YAK8tep9xOs2hS"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Hilight Tribe",
-          "url": "https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "Great Spirit",
-      "url": "https://open.spotify.com/track/6FzjJPwf5JzzFOei7h6Qrp"
     },
     {
       "added_at": "2023-05-12 14:19:18",
@@ -1547,22 +1547,18 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8"
       },
       "artists": [
         {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+          "name": "RICCI",
+          "url": "https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL"
         }
       ],
-      "duration_ms": 144500,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
+      "duration_ms": 176000,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G"
     },
     {
       "added_at": "2023-05-12 14:19:18",
@@ -1583,18 +1579,22 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8"
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
       "artists": [
         {
-          "name": "RICCI",
-          "url": "https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G"
+      "duration_ms": 144500,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
     },
     {
       "added_at": "2023-05-12 14:19:18",
@@ -1771,22 +1771,18 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
-        "name": "Ojos Chiquitos",
-        "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
+        "name": "Dished (Male Stripper)",
+        "url": "https://open.spotify.com/album/6RzHkehHgF4kgwFrZJX5D4"
       },
       "artists": [
         {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 152796,
-      "name": "Ojos Chiquitos",
-      "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
+      "duration_ms": 253170,
+      "name": "Dished (Male Stripper)",
+      "url": "https://open.spotify.com/track/4DIspILFDWAlU7bViTMqhS"
     },
     {
       "added_at": "2023-05-12 14:19:18",
@@ -1811,18 +1807,22 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
-        "name": "Dished (Male Stripper)",
-        "url": "https://open.spotify.com/album/6RzHkehHgF4kgwFrZJX5D4"
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 253170,
-      "name": "Dished (Male Stripper)",
-      "url": "https://open.spotify.com/track/4DIspILFDWAlU7bViTMqhS"
+      "duration_ms": 152796,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
     },
     {
       "added_at": "2023-05-12 14:19:18",

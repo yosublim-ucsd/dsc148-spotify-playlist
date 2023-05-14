@@ -4403,6 +4403,24 @@
     },
     {
       "album": {
+        "name": "Point Of No Return EP",
+        "url": "https://open.spotify.com/album/5mO4PY6XyJAzLFOBJfx88b"
+      },
+      "artists": [
+        {
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277333,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/5nx2UgWzyJAjDvpvvnRAZ8"
+    },
+    {
+      "album": {
         "name": "Possessed by Fire",
         "url": "https://open.spotify.com/album/5C8Mjwwruh2IFfg4WbdnlR"
       },
@@ -5906,7 +5924,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 195466,
       "name": "The Last Rager",
       "url": "https://open.spotify.com/track/4AuccIeDavrN0fxI2VoduG"

@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 155071,
       "name": "Je sais que t'as mal",
       "url": "https://open.spotify.com/track/3TwCVgOkFhx6CBFYUYnPzP"
@@ -3088,6 +3088,28 @@
       "duration_ms": 198266,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/4P8HPmYPNCNxqHlYMovXRv"
+    },
+    {
+      "album": {
+        "name": "Mandem",
+        "url": "https://open.spotify.com/album/4Lvndlgi6IBB4L4jn6d6RF"
+      },
+      "artists": [
+        {
+          "name": "OUENZA",
+          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
+        },
+        {
+          "name": "Amine K (Moroko Loko)",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278095,
+      "name": "Mandem",
+      "url": "https://open.spotify.com/track/68n0XVahvsr0v0usJzykTH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Juan Carlos Bodoque en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,060 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,247 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 76 | [Nunca te amé](https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [El Eco de la Nada](https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ) | 3:04 |
 | 77 | [DE ESTE SUEÑO NO ME DESPIERTO](https://open.spotify.com/track/7jNBgXRCQ8HWnSIX19vho7) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Yonatan Mazor](https://open.spotify.com/artist/3vIIkATsfM6dzKmHgv7qlZ) | [DE ESTE SUEÑO NO ME DESPIERTO](https://open.spotify.com/album/68mnlQeSr1hXXOPZxYaRJa) | 3:17 |
 | 78 | [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 |
-| 79 | [Lattice](https://open.spotify.com/track/4MNPF36soeinIWw2D5QbmM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Lattice](https://open.spotify.com/album/47Z38eMy7Ggl15Xmlhz6QM) | 4:24 |
-| 80 | [Naranjita sí carnal](https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Naranjita sí carnal](https://open.spotify.com/album/6AM6Pzkh4jGokb8gaFnRx1) | 3:14 |
+| 79 | [Naranjita sí carnal](https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Naranjita sí carnal](https://open.spotify.com/album/6AM6Pzkh4jGokb8gaFnRx1) | 3:14 |
+| 80 | [Lattice](https://open.spotify.com/track/4MNPF36soeinIWw2D5QbmM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Lattice](https://open.spotify.com/album/47Z38eMy7Ggl15Xmlhz6QM) | 4:24 |
 | 81 | [Chain Reactionary](https://open.spotify.com/track/6duCXF5ciZHEEmzEcVIAAK) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [The Fool](https://open.spotify.com/album/5a2JzNqPfuCnF0WQ3PoL4j) | 3:32 |
 | 82 | [Demasiado](https://open.spotify.com/track/12URqDQygL3AlD2wF5WbhN) | [El Último Vecino](https://open.spotify.com/artist/7pMvkMVRImOSDAicV69zAX) | [Demasiado](https://open.spotify.com/album/3uWNyMXOlW3gPYQSWX4wyV) | 2:17 |
 | 83 | [Asi Estoy Yo Sin Ti](https://open.spotify.com/track/29BVNooeLb4Q7ua0e4H0K3) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Así Estoy Yo Sin Ti](https://open.spotify.com/album/4JPFmNJVYsKvAPTwxomYu0) | 4:40 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 93 | [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 |
 | 94 | [Hoy Creo en Mí](https://open.spotify.com/track/6LZH2ZMcWga84SGDCI5vKk) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Hoy Creo en Mí](https://open.spotify.com/album/1l0okpo4YMHJ7GNlHZ96qA) | 3:38 |
 | 95 | [Un día como hoy](https://open.spotify.com/track/1yfUatJAVvmmZh5sJyW3Re) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Un día como hoy](https://open.spotify.com/album/3gaIbIdbKT8oMzfqqJFzh2) | 3:22 |
-| 96 | [La sangre en el cuerpo \- En Vivo](https://open.spotify.com/track/6AnVTLDZWEiY7zu3JnpNQe) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La sangre en el cuerpo \(En Vivo\)](https://open.spotify.com/album/1VwqVC3ohbh3Xtxtwu3z5J) | 4:50 |
-| 97 | [Demasiado Bien](https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Demasiado Bien](https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR) | 3:39 |
+| 96 | [Demasiado Bien](https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Demasiado Bien](https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR) | 3:39 |
+| 97 | [La sangre en el cuerpo \- En Vivo](https://open.spotify.com/track/6AnVTLDZWEiY7zu3JnpNQe) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La sangre en el cuerpo \(En Vivo\)](https://open.spotify.com/album/1VwqVC3ohbh3Xtxtwu3z5J) | 4:50 |
 | 98 | [Vuelve A Empezar Sin Mí](https://open.spotify.com/track/7DWdZdw7Rshp7b8LqRB9x4) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Vuelve A Empezar Sin Mí](https://open.spotify.com/album/2IFmsvDIWtDE9e7lCUT7bi) | 4:01 |
 | 99 | [Lejos de Mí](https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Lejos de Mí](https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk) | 3:16 |
-| 100 | [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 |
+| 100 | [Lastímame](https://open.spotify.com/track/6bFrs6WlBhAXEk5vt9Me7f) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [Lastímame](https://open.spotify.com/album/1vQ73pnVX7bZqlsOstIr1h) | 3:34 |
 
-Snapshot ID: `MCxhMzNmOGY5YzA4YjBkZTkzZDAwZTBhMmI1YzdlMTE4Yzc3YmUwNTUy`
+Snapshot ID: `MCxlMDI5NjEyODA3YWNhMjM2MThkMTkwNTA5NzFjZDc0MmU5Mzk4MDIx`

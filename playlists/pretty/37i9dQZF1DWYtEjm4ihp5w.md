@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Tagne
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,615 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,700 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 |
 | 2 | [WILI](https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [WILI](https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1) | 3:10 |
-| 3 | [UNICEF](https://open.spotify.com/track/5IGhxeMAkpsQlyEIOsNmDE) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [UNICEF](https://open.spotify.com/album/17rnDndSLdVrQR0CbHvCq1) | 2:30 |
-| 4 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 |
-| 5 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 |
-| 6 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 |
+| 3 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 |
+| 4 | [UNICEF](https://open.spotify.com/track/5IGhxeMAkpsQlyEIOsNmDE) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [UNICEF](https://open.spotify.com/album/17rnDndSLdVrQR0CbHvCq1) | 2:30 |
+| 5 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 |
+| 6 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 |
 | 7 | [Bin o Bin](https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Atmosphere](https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG) | 2:31 |
 | 8 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 |
 | 9 | [POWER \- A COLORS SHOW](https://open.spotify.com/track/0K7JXyHrinnADZ7wSPsZGu) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [POWER \- A COLORS SHOW](https://open.spotify.com/album/3WsYrkH5xsidXVE9wTQLAS) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Tchin Tchin](https://open.spotify.com/track/48Xx8tDQ2yNp3aHbGrKXxc) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:31 |
 | 50 | [La Weed](https://open.spotify.com/track/3Qe4g2M8lld0lmyE2LLRNk) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:10 |
 
-Snapshot ID: `MCwzMzQ3OTdjNDY5NTQ3Y2M2Njg3YTYxYTUwOGRkNzI2NTY1NjUyYTM4`
+Snapshot ID: `MCxmNGVkZmZiMGRjYjE1OGQ5YjQxNTA5ZDM1MDJiZTY5ZmMyNTljMGIy`

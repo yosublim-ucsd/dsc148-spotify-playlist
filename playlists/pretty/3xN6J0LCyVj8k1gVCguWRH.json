@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "num_followers": 101265,
+  "num_followers": 101276,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDU2MyxhMGE0YTY3ZTVlNzU0NWU0YzUyMDJmYjE0ZjI2Yjg3MTZkMzUzYzI2",
+  "snapshot_id": "NDU2NCxhNGU2ZDJkZTRkMWI2YzVjMjA1MWIxOTkyZjJmNDhjZTNlMTE1YzBh",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -23,6 +23,26 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "added_at": "2023-05-13 13:48:39",
+      "album": {
+        "name": "Feels So Good (Swedish Red Elephant Remix)",
+        "url": "https://open.spotify.com/album/7xjodj8r3DFOXkUN61mLlY"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        },
+        {
+          "name": "Swedish Red Elephant",
+          "url": "https://open.spotify.com/artist/6fT9phXpEYVm2zB0QzGqDJ"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Feels So Good - Swedish Red Elephant Remix",
+      "url": "https://open.spotify.com/track/4ICWb7UFalbnma7FfIScG2"
     },
     {
       "added_at": "2022-07-26 20:08:16",

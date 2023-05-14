@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-544 songs - 1 day 6 hr 29 min
+545 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,8 @@
 | [TURTLE TALK](https://open.spotify.com/track/71JEnxN3JBjXT4v8R1eiKO) | [TEITO](https://open.spotify.com/artist/5FyZiNFoZYDUwFOXBsctGm) | [TURTLE TALK](https://open.spotify.com/album/3Jg22bDdEOoKCRsmKPNIdu) | 3:06 | 2023-04-09 | 2023-04-17 |
 | [Twin](https://open.spotify.com/track/7eNB1CxbNWiBVZwzXAJqgW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Twin](https://open.spotify.com/album/3bIxBt4ugXjYeua4yVbynN) | 2:44 | 2023-03-26 | 2023-04-04 |
 | [u.s.s.o.](https://open.spotify.com/track/2WrpqAVpKdrhBOavtl8ed8) | [Luminous101](https://open.spotify.com/artist/4378joLric4Zq17n5Ei9My) | [u.s.s.o.](https://open.spotify.com/album/6rWVzmAH9cvd22k4bgfGFZ) | 4:07 | 2023-04-03 | 2023-04-10 |
-| [Ucla](https://open.spotify.com/track/1RuDYrJzmXlKngNZgWrAGn) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Vulfnik](https://open.spotify.com/album/6bs8wgjvtiI34BbchC56uB) | 2:26 | 2023-05-07 |  |
+| [Ucla](https://open.spotify.com/track/1PP0zqqr3ESIBWs4CLpRCP) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Vulfnik](https://open.spotify.com/album/2hx7xwv78aW95cduJrslG5) | 2:26 | 2023-05-07 |  |
+| [Ucla](https://open.spotify.com/track/1RuDYrJzmXlKngNZgWrAGn) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Vulfnik](https://open.spotify.com/album/6bs8wgjvtiI34BbchC56uB) | 2:26 | 2023-05-07 | 2023-05-14 |
 | [Undefined \- feat\. Wez Atlas](https://open.spotify.com/track/0SKxP3vtCwhV4tyeOx5xul) | [michel ko](https://open.spotify.com/artist/55brV6SE3YnJWlU9MRrNlE), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Undefined \(feat\. Wez Atlas\)](https://open.spotify.com/album/6VIZFF29q6D9MbfymSwJsu) | 3:02 | 2023-04-16 | 2023-04-24 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-07 |  |
 | [unicode](https://open.spotify.com/track/3F3ft9V6MiFvbkq8Y6F3JQ) | [Telematic Visions](https://open.spotify.com/artist/1XrPQiMA2GWz8uPO7i9qZ5), [iga](https://open.spotify.com/artist/6iNU7XaBFPj5cOCTvZVvOW) | [unicode](https://open.spotify.com/album/6cOanNYyczh8vjhNwpP8Co) | 8:04 | 2023-04-23 | 2023-05-02 |

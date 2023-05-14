@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
-  "num_followers": 1614473,
+  "num_followers": 1614582,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDBkMzUzYWI2NzIzMGZiYmExMDYwM2IwYTQ0MTU0ZGFiNDhmZTM4",
+  "snapshot_id": "MCxiYTZhNjIwNTM5OGJkZTBmYmE3MDdiYmE5ZGE4ZDI3MzQyOWIxYWU4",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "I Still Don't Cry",
+        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "I Still Don't Cry",
+      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Don't Let The Devil [Feat. thankugoodsir]",
         "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 164894,
       "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
       "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "I Still Don't Cry",
-        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "I Still Don't Cry",
-      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -531,22 +531,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Back In Office",
-        "url": "https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg"
+        "name": "SentRock",
+        "url": "https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro"
       },
       "artists": [
         {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "No I.D.",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
         }
       ],
-      "duration_ms": 173146,
-      "name": "Back In Office",
-      "url": "https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7"
+      "duration_ms": 170000,
+      "name": "SentRock",
+      "url": "https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -571,34 +567,42 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "SentRock",
-        "url": "https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro"
+        "name": "Back In Office",
+        "url": "https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No I.D.",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
         }
       ],
-      "duration_ms": 170000,
-      "name": "SentRock",
-      "url": "https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc"
+      "duration_ms": 173146,
+      "name": "Back In Office",
+      "url": "https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7"
     },
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+        "name": "Road to CASABLANCO.",
+        "url": "https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
-      "duration_ms": 167724,
-      "name": "Michael & Quincy",
-      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+      "duration_ms": 282066,
+      "name": "PROUD OF ME. (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -627,22 +631,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Road to CASABLANCO.",
-        "url": "https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv"
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
       },
       "artists": [
         {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 282066,
-      "name": "PROUD OF ME. (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3"
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Wake Up (feat. Lucy Rose)",
-        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Wake Up (feat. Lucy Rose)",
-      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "WON'T HE DO IT",
         "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 190310,
       "name": "Brucifix",
       "url": "https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Wake Up (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Wake Up (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -767,6 +767,30 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "F65",
+        "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Jucee Froot",
+          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+        },
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "duration_ms": 175834,
+      "name": "Pinot Noir",
+      "url": "https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "I'M REALLY LIKE THAT",
         "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
       },
@@ -815,30 +839,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "F65",
-        "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Jucee Froot",
-          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
-        },
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        }
-      ],
-      "duration_ms": 175834,
-      "name": "Pinot Noir",
-      "url": "https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
       },
@@ -879,38 +879,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "WON'T HE DO IT",
-        "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 145670,
-      "name": "Monogram",
-      "url": "https://open.spotify.com/track/1uVmhpMQ3ELh8grPOg0D82"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Live At The Novo",
-        "url": "https://open.spotify.com/album/4WHyqGqxCHQRnn56JCYuhg"
-      },
-      "artists": [
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 83514,
-      "name": "Cold As Love",
-      "url": "https://open.spotify.com/track/41Loud1XZkZgNw4SS2dsTW"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Maps",
         "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
       },
@@ -927,6 +895,22 @@
       "duration_ms": 173647,
       "name": "Soft Landing",
       "url": "https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "WON'T HE DO IT",
+        "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 145670,
+      "name": "Monogram",
+      "url": "https://open.spotify.com/track/1uVmhpMQ3ELh8grPOg0D82"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -951,6 +935,38 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Live At The Novo",
+        "url": "https://open.spotify.com/album/4WHyqGqxCHQRnn56JCYuhg"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 83514,
+      "name": "Cold As Love",
+      "url": "https://open.spotify.com/track/41Loud1XZkZgNw4SS2dsTW"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 132219,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Hip Hop 50: Vol. 2",
         "url": "https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz"
       },
@@ -967,26 +983,6 @@
       "duration_ms": 180340,
       "name": "Runaway (feat. Nas)",
       "url": "https://open.spotify.com/track/2DiX9oeghV7lv1mxnRnO6L"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "$oul $old $eparately",
-        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 222776,
-      "name": "Gold Rings (feat. Pusha T)",
-      "url": "https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0"
     }
   ],
   "unique_name": "Spilled Ink",

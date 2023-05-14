@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-247 songs - 16 hr 29 min
+248 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Friend Zone \- Acoustic Live in Brussels](https://open.spotify.com/track/0asyT3Ww3pEsNAcpYThIZV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Friend Zone \(Acoustic Live in Brussels\)](https://open.spotify.com/album/3592Y9m3MLvtYtVtPeTD8j) | 3:17 | 2022-12-15 | 2022-12-24 |
 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 | 2022-07-28 |  |
 | [How Are You Now](https://open.spotify.com/track/78DpzUFJxXDenJg5YCztaA) | [黃號](https://open.spotify.com/artist/6qtpMdYXlctoS7te9gBcdG) | [How Are You Now](https://open.spotify.com/album/32oXNyLRHjA62SOvlxzy6j) | 2:14 | 2022-10-06 | 2022-10-18 |
-| [I Know You Know \- 電視劇《我的真朋友》主題曲](https://open.spotify.com/track/4ec3HOKBBbkjTvoGteQncK) | [李治廷](https://open.spotify.com/artist/5RkHWm6vOA31T32qyjQxgd) | [I Know You Know\-電視劇《我的真朋友》主題曲](https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ) | 4:04 | 2022-06-02 |  |
+| [I Know You Know \- 電視劇《我的真朋友》主題曲](https://open.spotify.com/track/4ec3HOKBBbkjTvoGteQncK) | [李治廷](https://open.spotify.com/artist/5RkHWm6vOA31T32qyjQxgd) | [I Know You Know\-電視劇《我的真朋友》主題曲](https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ) | 4:04 | 2022-06-02 | 2023-05-14 |
 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 | 2022-06-16 |  |
 | [It's Time \- 影集《2049》插曲](https://open.spotify.com/track/7JNR8qb7kaTnutgjnZntOY) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [It's Time \(影集《2049》插曲\)](https://open.spotify.com/album/64n8dIEZz7Wy94nkT3rxIe) | 3:19 | 2022-06-10 | 2022-07-27 |
 | [Live House](https://open.spotify.com/track/2EGkI1OjdEIwPc9TOfzdlq) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Live House](https://open.spotify.com/album/4htEin94qouEbMiIyjoEb8) | 3:07 | 2023-03-30 |  |
@@ -202,6 +202,7 @@
 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 | 2022-07-28 |  |
 | [皆可 \(中天娛樂台《慶餘年》主題曲\)](https://open.spotify.com/track/2CkmvLrg2Zl83TuwjwWF5v) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [皆可 \(中天娛樂台《慶餘年》主題曲\)](https://open.spotify.com/album/5QKzAmGWRo1k2P7dBgmqDQ) | 4:26 | 2022-06-02 | 2022-07-28 |
 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 | 2022-06-02 | 2022-07-24 |
+| [第一個清晨](https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O) | 4:46 | 2023-05-11 |  |
 | [第一個清晨](https://open.spotify.com/track/4FOcKtu7mXOrnifIaif0L3) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/22pEd6RNnbso5XFaZoT0YF) | 4:46 | 2022-07-28 | 2023-04-30 |
 | [第一個清晨](https://open.spotify.com/track/7G4inajDPplF7oT27awRq5) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/2AxYgFIFbtVfCOnlPPnpPJ) | 4:46 | 2022-06-02 | 2022-07-29 |
 | [細水長流 \(電影《流浪地球2》陪伴主題曲\)](https://open.spotify.com/track/2ymrqq4PYyQPHpX7qULm6V) | [Andy Lau](https://open.spotify.com/artist/2n3uDrupL8UtFSeZhY38MS), [吳京](https://open.spotify.com/artist/6jq5mIyUPPLQ5kYeXOs4d6) | [細水長流 \(電影《流浪地球2》陪伴主題曲\)](https://open.spotify.com/album/7DS7s6jzklLBuUWIAfBQbq) | 4:26 | 2023-01-19 | 2023-02-16 |

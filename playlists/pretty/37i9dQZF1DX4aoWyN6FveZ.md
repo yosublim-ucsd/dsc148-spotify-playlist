@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aoWyN6FveZ.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ravieb/">Ravie B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,303 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,332 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aoWyN6FveZ.md) - [plain]
 | 49 | [Don't Hurt Yourself \(feat\. Jack White\)](https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:53 |
 | 50 | [New York](https://open.spotify.com/track/7xXvPyOiFCsB5SSpio5g38) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [R.U.L.E.](https://open.spotify.com/album/2gBIN9uSnZjf0mb3FjwEnb) | 4:18 |
 
-Snapshot ID: `MCwwMWE0NDllNTIzNmFkYTU3YTMwY2IzYzFiZjQzNzE2M2M4NjM1YzBl`
+Snapshot ID: `MCw3YjkwMTg4ZDI3ZTA2MTNkZGY0N2RjNDk3OThkYTBiZDAxODI1NTBk`

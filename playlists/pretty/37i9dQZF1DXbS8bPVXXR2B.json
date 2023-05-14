@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 203433,
+  "num_followers": 203566,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzM0NjNjOGNmMzU5ZGJlMTlhOGVkZWU4MzdhNTVlMWEwY2M4YjYw",
+  "snapshot_id": "MCw0ZmYwODNjNTIxMmY3MTkzYTgxNjVmMjY3YjkwNzhkMjEzMGE3YThj",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
-      },
-      "artists": [
-        {
-          "name": "Joni Haastrup",
-          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
-        }
-      ],
-      "duration_ms": 373333,
-      "name": "Greetings",
-      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Where Will You Go When The Party's Over",
         "url": "https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 259653,
       "name": "Don't Let Love Get You Down",
       "url": "https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Joni Haastrup",
+          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
+        }
+      ],
+      "duration_ms": 373333,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Harmonies",
+        "url": "https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe"
+      },
+      "artists": [
+        {
+          "name": "Lord Echo",
+          "url": "https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5"
+        },
+        {
+          "name": "Mara TK",
+          "url": "https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN"
+        }
+      ],
+      "duration_ms": 354213,
+      "name": "The Sweetest Meditation",
+      "url": "https://open.spotify.com/track/4n1qwgVWwYIFLuCEfzwnrT"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Get It Right (Expanded Edition)",
         "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
@@ -1107,26 +1127,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Harmonies",
-        "url": "https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe"
-      },
-      "artists": [
-        {
-          "name": "Lord Echo",
-          "url": "https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5"
-        },
-        {
-          "name": "Mara TK",
-          "url": "https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN"
-        }
-      ],
-      "duration_ms": 354213,
-      "name": "The Sweetest Meditation",
-      "url": "https://open.spotify.com/track/4n1qwgVWwYIFLuCEfzwnrT"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Watchin' Out",
         "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "M.V.P. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 300826,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Summertime Groove",
         "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 352106,
       "name": "Let's Start The Dance",
       "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "M.V.P. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 300826,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Groovin' You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 376986,
-      "name": "Groovin' You - 12\" Version",
-      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Illusion",
         "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 181698,
       "name": "Kiss Me Again - Mix Edit",
       "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Groovin' You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 376986,
+      "name": "Groovin' You - 12\" Version",
+      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Miracles (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 338453,
-      "name": "Heaven of My Life - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 406533,
       "name": "When You Wake up Tomorrow",
       "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Miracles (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 338453,
+      "name": "Heaven of My Life - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "Hold Tight - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Early Recordings",
         "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
       },
@@ -1531,6 +1515,38 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "Hold Tight - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 376973,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 284985,
       "name": "Lypso Illusion",
       "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 376973,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov"
     },
     {
       "added_at": "2022-09-05 16:54:43",

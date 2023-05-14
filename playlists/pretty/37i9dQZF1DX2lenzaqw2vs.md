@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQIA+ artists que brillan e inspiran.<br/>Cover: The Change
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,780 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,795 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 48 | [La Noche](https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn) | [La Divaza](https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM) | [La Noche](https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU) | 2:43 |
 | 49 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
 | 50 | [Fue](https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:51 |
-| 51 | [Té de Malvón](https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [De Brujas, Peteneras y Chachalacas](https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX) | 6:37 |
-| 52 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 |
+| 51 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 |
+| 52 | [Té de Malvón](https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [De Brujas, Peteneras y Chachalacas](https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX) | 6:37 |
 | 53 | [Mojados](https://open.spotify.com/track/2x22qkx1iSxPd1FTdAyTv9) | [Willie Gomez](https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At) | [Del Cibao](https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG) | 3:15 |
 | 54 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
 | 55 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 69 | [Besos](https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Lesbihonest](https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t) | 3:27 |
 | 70 | [Buena Suerte Muchacha](https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:13 |
 
-Snapshot ID: `MCwzOGM2Mzk4ZjgzOGZkNmU3ZjdlNWJlZWQ1YjRkNjQ0MDdlMmE1MzZi`
+Snapshot ID: `MCxmYWRkNDdhZDdhOWY3NGNhZGQ0NDFhYzk2ZTAxODVkMjI0NjVhMjk2`

@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Bizzey, Kraantje Pappie, Rolf Sanchez
 
-150 songs - 7 hr 10 min
+151 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-23 | 2023-03-28 |
 | [Ik Space](https://open.spotify.com/track/0xLnJgUHvPnq6n2ESDSMXF) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Fabienne Bergmans](https://open.spotify.com/artist/6ipBn3QaHmCnlaDetcvgRl) | [Ik Space](https://open.spotify.com/album/0z3l97NfPujHK3s654j8mB) | 2:37 | 2023-02-23 | 2023-03-02 |
 | [Jij Weet \(met Kevin\)](https://open.spotify.com/track/14HMCFIl34MdgbIOmyfbsE) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Betty](https://open.spotify.com/album/4Mp7znKYm3HNicZoaoxjso) | 2:47 | 2023-02-23 | 2023-03-21 |
-| [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-14 |  |
+| [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-14 | 2023-05-14 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-02-23 | 2023-03-02 |
 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-04-06 | 2023-05-12 |
 | [Layla](https://open.spotify.com/track/7vb5ewZM4Ei7FTbSYDAPd8) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/5WBoyKy4ezxq7P4v6Yyvf7) | 2:43 | 2023-03-30 | 2023-04-07 |
@@ -104,6 +104,7 @@
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-02-23 | 2023-03-21 |
 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-04-27 |  |
 | [Probleem](https://open.spotify.com/track/1L8sanepRgDJlQTsPQ4mU1) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Probleem](https://open.spotify.com/album/4GZrlw0RFM9gHQP5EYOCnX) | 2:15 | 2023-02-23 | 2023-03-08 |
+| [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-05-13 |  |
 | [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 | 2023-03-29 | 2023-04-01 |
 | [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 | 2023-03-30 | 2023-05-05 |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-02-23 | 2023-03-28 |

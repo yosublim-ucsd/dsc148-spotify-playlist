@@ -1560,10 +1560,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 258901,
       "name": "Varnam",
       "url": "https://open.spotify.com/track/2UjLDTmcPxQqS0mupcye1i"
+    },
+    {
+      "album": {
+        "name": "Legendary Solo",
+        "url": "https://open.spotify.com/album/1w0u6sitce9nDNAarWlCFA"
+      },
+      "artists": [
+        {
+          "name": "T. N. Krishnan",
+          "url": "https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258901,
+      "name": "Varnam",
+      "url": "https://open.spotify.com/track/6P1lAZerVtKOYvfdBHHS6d"
     },
     {
       "album": {

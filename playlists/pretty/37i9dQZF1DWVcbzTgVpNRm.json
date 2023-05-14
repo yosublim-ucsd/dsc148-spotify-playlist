@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee, Marc Anthony",
-  "num_followers": 2073323,
+  "num_followers": 2073554,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzA2ODBkZDI2OTBlNzZiMjVmZGZjZGEwYTFmM2QzNTdkZjMwYzc1",
+  "snapshot_id": "MCwwNWIxODgwNzU0NTc1ODFlNDRmZjJmYzBjYjNmNGM4OTkzNWI4OTkw",
   "tracks": [
     {
       "added_at": "2023-01-09 06:30:06",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
-    },
-    {
-      "added_at": "2023-01-09 06:30:06",
-      "album": {
         "name": "The Last Don",
         "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 204600,
       "name": "Dile",
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "added_at": "2023-01-09 06:30:06",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -231,6 +231,26 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "added_at": "2023-01-09 06:30:06",
+      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 266160,
       "name": "Caraluna",
       "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
-    },
-    {
-      "added_at": "2023-01-09 06:30:06",
-      "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
-        "name": "Pretty Boy, Dirty Boy",
-        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Borro Cassette",
-      "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
-    },
-    {
-      "added_at": "2023-01-09 06:30:06",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 263306,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
+    },
+    {
+      "added_at": "2023-01-09 06:30:06",
+      "album": {
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Borro Cassette",
+      "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG"
+        "name": "Revelaci\u00f3n - EP",
+        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 190570,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
+      "duration_ms": 186087,
+      "name": "Baila Conmigo (with Rauw Alejandro)",
+      "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
-        "name": "Revelaci\u00f3n - EP",
-        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 186087,
-      "name": "Baila Conmigo (with Rauw Alejandro)",
-      "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
+      "duration_ms": 190570,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
+    },
+    {
+      "added_at": "2023-01-09 06:30:06",
+      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
-    },
-    {
-      "added_at": "2023-01-09 06:30:06",
-      "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "I Know You Want Me (Calle Ocho)",
-      "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
     },
     {
       "added_at": "2023-01-09 06:30:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,724 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,829 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 26 | [Fuego en el Fuego](https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre \(Spanish Version\)](https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf) | 4:00 |
 | 27 | [Alucinado](https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Yahir](https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6) | 5:04 |
 | 28 | [Nunca Te Olvidaré](https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Cosas Del Amor](https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB) | 4:24 |
-| 29 | [Nada Personal](https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Lisset](https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW) | [Te Amo Tv \- Exitos Originales de las Telenovelas](https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG) | 3:11 |
-| 30 | [Enloquéceme](https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Lo Mejor De OV7](https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0) | 4:09 |
+| 29 | [Enloquéceme](https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Lo Mejor De OV7](https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0) | 4:09 |
+| 30 | [Nada Personal](https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Lisset](https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW) | [Te Amo Tv \- Exitos Originales de las Telenovelas](https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG) | 3:11 |
 | 31 | [Otra Vez](https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:41 |
 | 32 | [Te Sigo Amando](https://open.spotify.com/track/3Bn5su26JosHjkbIrxgz0j) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Ella](https://open.spotify.com/album/0BAsKASCKXy1Gi7hdGNXIX) | 2:45 |
 | 33 | [Esa Hembra Es Mala](https://open.spotify.com/track/3xIyTWewE9LFZwy3HklGwE) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:57 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 46 | [Dos Mujeres un Camino](https://open.spotify.com/track/1IY3GJk8HgLWpKtjtKXN52) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 4:15 |
 | 47 | [De Mi Enamórate](https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 3:30 |
 | 48 | [Mi tesoro](https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mi tesoro](https://open.spotify.com/album/3XUPV2CIpfIZDHUI8WKFfY) | 3:29 |
-| 49 | [Mi Corazón Es Tuyo](https://open.spotify.com/track/1ITcEqIHJwRU1oTBz4M0uE) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [Kaay](https://open.spotify.com/artist/2SvbyJMDoNgCJIYpQiFx5v) | [Desequilibrio](https://open.spotify.com/album/1HqNCyE4T5lD1R1CYnE4Se) | 3:02 |
-| 50 | [Porque El Amor Manda](https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [El Amor Manda](https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y) | 3:16 |
+| 49 | [Porque El Amor Manda](https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [El Amor Manda](https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y) | 3:16 |
+| 50 | [Mi Corazón Es Tuyo](https://open.spotify.com/track/1ITcEqIHJwRU1oTBz4M0uE) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [Kaay](https://open.spotify.com/artist/2SvbyJMDoNgCJIYpQiFx5v) | [Desequilibrio](https://open.spotify.com/album/1HqNCyE4T5lD1R1CYnE4Se) | 3:02 |
 | 51 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:14 |
 | 52 | [Mentira](https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Solo Bolero](https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch) | 4:43 |
 | 53 | [Demasiado Corazon](https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Demasiado Corazon](https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE) | 3:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 69 | [Sólo Un Suspiro](https://open.spotify.com/track/2APQKFq7yuq3sNaziTaeWE) | [Alejandra Orozco](https://open.spotify.com/artist/4xG7HHi0auDk7vPhOqGPR3), [Oscar Cruz](https://open.spotify.com/artist/0Jnwlov8CnJTEZBbQoRcfF) | [Los Ganadores De La Voz](https://open.spotify.com/album/5z59IcDIT60ng5MSjXhaA6) | 3:49 |
 | 70 | [Te Quiero Tanto, Tanto \- Versión de la Telenovela Mi Pequeña Traviesa](https://open.spotify.com/track/1ycO3Iw4g67JBasAGdYVb7) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
 
-Snapshot ID: `MCw1MTNmYmE5ZDM5MzFmODdkZGNhODZkMGFhZGJiMWVmZTIyYWU1YWZl`
+Snapshot ID: `MCwzYTkzZmIzN2RmZmEyMDFmNTdjMzljY2ViYThiYTRkNGFiMjc5NjRk`

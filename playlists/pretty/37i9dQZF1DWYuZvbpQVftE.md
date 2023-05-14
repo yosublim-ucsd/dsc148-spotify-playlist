@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,441 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,457 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 26 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 |
 | 27 | [Too Close For Comfort](https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp) | [Stan Getz Quartet](https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r) | [The Steamer \(Expanded Edition\)](https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA) | 6:19 |
 | 28 | [Sometime Ago](https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Bob Brookmeyer & Friends](https://open.spotify.com/album/12JCMQ79q662srkjDGoe02) | 4:04 |
-| 29 | [Blue Steel](https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf) | [Shelly Manne and His Men](https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF) | [Son Of Gunn!!](https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq) | 4:49 |
+| 29 | [Thou Swell](https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn) | [Hampton Hawes](https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK) | [Four!](https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz) | 4:54 |
 | 30 | [The Quiet Time](https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [The Teddy Charles Tentet](https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh) | 5:50 |
 | 31 | [On The Street Where You Live \- Instrumental](https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 5:38 |
-| 32 | [Thou Swell](https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn) | [Hampton Hawes](https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK) | [Four!](https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz) | 4:54 |
+| 32 | [Blue Steel](https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf) | [Shelly Manne and His Men](https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF) | [Son Of Gunn!!](https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq) | 4:49 |
 | 33 | [Patti Cake](https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Nothing But The Blues](https://open.spotify.com/album/3looSg4zNUFzKAyyos640A) | 6:01 |
 | 34 | [Moon Over Cuba](https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Afro\-Cuban Influence](https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5) | 4:17 |
 | 35 | [Steve Allen Theme](https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Blowin' Country](https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM) | 4:11 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 45 | [Brandenburg Gate](https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [The Essential Dave Brubeck](https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL) | 6:50 |
 | 46 | [Happily Dancing / Deep Harmonies Falling \- Live](https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD), [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Westward Bound! \(Live\)](https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF) | 8:38 |
 | 47 | [Pigalle](https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM) | [Buddy Collette](https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR) | [Jazz Loves Paris](https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq) | 2:26 |
-| 48 | [Walkin' With Wally \- live](https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Monterey Concerts](https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t) | 10:05 |
-| 49 | [Swingin' The Blues](https://open.spotify.com/track/316FxiYEDzyHI4OMBuXC8l) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Shorty Rodgers Courts The Count](https://open.spotify.com/album/79crFBHL0AC42MEgShce76) | 4:22 |
-| 50 | [Resonant Emotions](https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA) | [Chet Baker and Art Pepper](https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU) | [Playboys](https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo) | 5:44 |
+| 48 | [A Sinner Kissed an Angel](https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bill Perkins](https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL) | [Presenting Bud Shank](https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP) | 3:20 |
+| 49 | [Walkin' With Wally \- live](https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Monterey Concerts](https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t) | 10:05 |
+| 50 | [Swingin' The Blues](https://open.spotify.com/track/316FxiYEDzyHI4OMBuXC8l) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Shorty Rodgers Courts The Count](https://open.spotify.com/album/79crFBHL0AC42MEgShce76) | 4:22 |
 
-Snapshot ID: `MCxlOWJhMjhkZjUzMzEwMzczYTNiOTg3ZDU1ZTNiOWI3YWNkNzdhZmU5`
+Snapshot ID: `MCxiMTNiZjFhMzc1YWU1MTcxYmNmY2Q5ZjJkOTJkMDBkYjU4ZWM5MmU1`

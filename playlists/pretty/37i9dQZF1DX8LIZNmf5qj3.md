@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : JON VINYL
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,432 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,448 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Twin](https://open.spotify.com/track/7eNB1CxbNWiBVZwzXAJqgW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Twin](https://open.spotify.com/album/3bIxBt4ugXjYeua4yVbynN) | 2:44 |
 | 50 | [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 |
 
-Snapshot ID: `MCw5MjA5ODc2YmExZTZkNGRmNDEzNDAwNjU4NzE5ZTA5ZGMyNDdkMDEw`
+Snapshot ID: `MCw0NDFjZGZiMTNkYjU2OGQ2OWIwYjVlZTk5ZDViZTk3ZTQzZmNiODYy`

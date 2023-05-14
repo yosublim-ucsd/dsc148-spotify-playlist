@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,457 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,603 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 46 | [Créeme](https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Créeme](https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG) | 3:32 |
 | 47 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
 | 48 | [X \(feat\. Maluma & Ozuna\) \- Remix](https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [X \(feat\. Maluma & Ozuna\) \[Remix\]](https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM) | 3:55 |
-| 49 | [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 |
-| 50 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 |
+| 49 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 |
+| 50 | [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 |
 
-Snapshot ID: `MCxjZGMxMDllNzQ0OThmOTU1YzFkY2ZmNGRlMjMxZTM2YTllNGRhZTAz`
+Snapshot ID: `MCxkMjcxNjEyMzAwNmY0ZGY0ODJkYTYxZTZiOGNjYjM2YzQ3NTI2MzMy`

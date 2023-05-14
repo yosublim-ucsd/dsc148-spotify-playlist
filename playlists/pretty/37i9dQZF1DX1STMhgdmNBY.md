@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,955 likes - 70 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,052 likes - 70 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 69 | [A Touch Of The Blues \- Single Version](https://open.spotify.com/track/4IxspXe4ihU15PKgeUQqfo) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:19 |
 | 70 | [Best Of Me](https://open.spotify.com/track/0VbJ3cy7fxcHgNiAA29jXl) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Best Of Me](https://open.spotify.com/album/5yUt1cDO7CNBnEtyJS1aP9) | 3:54 |
 
-Snapshot ID: `MCwzMWFiODFlYTlmNDBlZmFlODgzZDZmYWQ0NGFiYTVlMTJlMDQzZTg1`
+Snapshot ID: `MCxlZWJjMzk4NjU5M2U4ZjEwZmI0Mzc0YWY4NmY1NjNkZDk0ZDQ2ODdk`

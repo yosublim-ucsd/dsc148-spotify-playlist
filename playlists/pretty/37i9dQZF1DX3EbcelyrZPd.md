@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,984 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,055 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 34 | [Chargie](https://open.spotify.com/track/2NiQLNa8zNji6hC0FagTDV) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Chargie](https://open.spotify.com/album/0UR1Tq0IKaA72XzuuG4lrt) | 2:44 |
 | 35 | [Don't Let Go](https://open.spotify.com/track/46MW6k54DIiMMkXYJ7vOeW) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Don't Let Go](https://open.spotify.com/album/2LXIF7NQRV6S0XBlaVV6u4) | 2:15 |
 | 36 | [Wasiwasi](https://open.spotify.com/track/5RzxzvDwkaBz3msv2VjSwi) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wasiwasi](https://open.spotify.com/album/72ObTTZXAXz1TIo3NQSbrz) | 3:56 |
-| 37 | [I Found Love](https://open.spotify.com/track/1y9Re7yUAtfKFF9iutYcbq) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [I Found Love](https://open.spotify.com/album/5mb9kl7J7vWyJSsyV4FCf8) | 2:59 |
+| 37 | [I Found Love](https://open.spotify.com/track/66Eq3ywylcI3TazQ9ivf89) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:56 |
 | 38 | [Inauma](https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [Inauma](https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD) | 3:23 |
 | 39 | [Rafiki](https://open.spotify.com/track/4lh8Whj4Uk8o4c4LWelSfc) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Rafiki](https://open.spotify.com/album/55TGRN5FPMfEz42zQSmjRr) | 4:42 |
 | 40 | [Lonely](https://open.spotify.com/track/5POWdKYIuBfd2KvSPUtwIK) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 4:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Dala Dala](https://open.spotify.com/track/1Wq9d6BDdi31KQ5s1NPY1h) | [DreyGon](https://open.spotify.com/artist/78m9kxa7EfBk1LTYotuOp0) | [Dala Dala](https://open.spotify.com/album/2nM8op6H7Mfp6CSpKj2zh4) | 4:46 |
 | 70 | [Melody](https://open.spotify.com/track/4SU8d5EyTg6fM4AUkrWmCg) | [Robby Vibe](https://open.spotify.com/artist/5MbMEjr2wDI9iczXvMCmUC), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Melody](https://open.spotify.com/album/3IsdN5UkV8Ri9F1KFDiL05) | 2:58 |
 
-Snapshot ID: `MCxlODI4YjI0YzQ1MzM5ODM5OGYwOGJlMGQ0ZThkNWUyNjRjZTM1ZTAz`
+Snapshot ID: `MCxjNGQ0OGYyNDBkOWNmOTExNzJmYTlhY2ViMjQyYzgzOTE1YTRmZjEx`

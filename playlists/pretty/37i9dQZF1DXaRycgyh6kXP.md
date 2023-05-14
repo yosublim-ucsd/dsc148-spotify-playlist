@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,532 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,706 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 28 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
 | 29 | [While You Doooo](https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:31 |
 | 30 | [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 |
-| 31 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
-| 32 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 |
+| 31 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 |
+| 32 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
 | 33 | [Marilyn](https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 4:11 |
 | 34 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
 | 35 | [So Many Details](https://open.spotify.com/track/1YpRBLuUWsdahTFhZr9pwK) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq) | 4:45 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 59 | [Soft Meadow](https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 5:28 |
 | 60 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
 | 61 | [Tommib Help Buss](https://open.spotify.com/track/3LbuqJCxuX5P63vVONosge) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Ultravisitor](https://open.spotify.com/album/3ZsW2VSx5OxHpV3Kno59O2) | 2:10 |
-| 62 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
-| 63 | [Night Owl](https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns) | 6:16 |
+| 62 | [Night Owl](https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns) | 6:16 |
+| 63 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
 | 64 | [Inspirit](https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 4:12 |
 | 65 | [runnersz](https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 2:20 |
 | 66 | [Appeayl 2 U part 1](https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75) | [Gayngs](https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI) | [Appeayl 2 U](https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U) | 3:56 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 88 | [Holding Hands](https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Holding Hands](https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J) | 2:50 |
 | 89 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 90 | [Walking Flames](https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:10 |
-| 91 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
-| 92 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
-| 93 | [Light Bodied](https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun \(Expanded Vol\. 1\)](https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2) | 3:01 |
-| 94 | [Promise](https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv) | 3:29 |
-| 95 | [Passing By \- 2019 remaster](https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 6:37 |
+| 91 | [Light Bodied](https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun \(Expanded Vol\. 1\)](https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2) | 3:01 |
+| 92 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
+| 93 | [Promise](https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv) | 3:29 |
+| 94 | [Passing By \- 2019 remaster](https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 6:37 |
+| 95 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
 | 96 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
-| 97 | [Saccade](https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Dissolvi](https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie) | 4:09 |
-| 98 | [♥](https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au) | 3:17 |
+| 97 | [♥](https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au) | 3:17 |
+| 98 | [Saccade](https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Dissolvi](https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie) | 4:09 |
 | 99 | [Implosion\-Explosion](https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV) | 5:33 |
 | 100 | [Nobody New Around You](https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 4:27 |
 
-Snapshot ID: `MCxmZGQ1MjU5OTZmNjZjM2FkMjFiM2Y1NmY5NjY5ZWZmOGI2NzcxMDA3`
+Snapshot ID: `MCxlYjZkYThhZGM4YTAwNGVlNTNmMDlhZTEyMzExM2RmMjYzZDQxYmZi`

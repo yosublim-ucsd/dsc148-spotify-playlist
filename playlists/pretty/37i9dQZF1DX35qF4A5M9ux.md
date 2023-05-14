@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,799 likes - 100 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,101 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 23 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
 | 24 | [Fabricando Fantasías \- Salsa Version](https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 4:32 |
 | 25 | [Anhelo](https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Reclamando Nuestro Espacio](https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX) | 4:08 |
-| 26 | [Cuenta Conmigo](https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:50 |
-| 27 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 |
+| 26 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 |
+| 27 | [Cuenta Conmigo](https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:50 |
 | 28 | [Si Me Ves Llorar](https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:26 |
 | 29 | [Mía](https://open.spotify.com/track/6HJCGXNww93AIaaxUb7C3O) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad \(15 Super Exitos\)](https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr) | 4:43 |
 | 30 | [Desde El Fondo De Mi Corazón](https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 4:02 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 97 | [Se Me Nota](https://open.spotify.com/track/2ydhtOdJdUjzPZRfNTZKnb) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 4:39 |
 | 98 | [Mascaras](https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O) | [El Inspector De La Salsa](https://open.spotify.com/artist/3jakCpqlxelvHkdvhPWl2p) | [Salsa Estelar](https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157) | 5:26 |
 | 99 | [Dime Que Pasó](https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:32 |
-| 100 | [No Quedó Ni el Gato](https://open.spotify.com/track/65DzY5Z3IE6BYprjXGu3Fu) | [Zaperoko](https://open.spotify.com/artist/2YYb9XAYl7ePSPIvQ3hOL4) | [Subway Salsa: The Montuno Records Story](https://open.spotify.com/album/1IsFd5MMFx1nWaRuEm54YL) | 6:08 |
+| 100 | [Amigo Cuídala](https://open.spotify.com/track/4fDgJFwupM4Z1PYBFzfasP) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Problemas de Ciudad](https://open.spotify.com/album/3qPlXvi1hQfoJc9WZx6JXQ) | 4:31 |
 
-Snapshot ID: `MCw5ZDkwNjQ2ZTQ5YmM2Yzc0ZjQyZmQzZTdiZDdlYWM5NDZlNzc0ZDY3`
+Snapshot ID: `MCwzZWQzMDU3MjU5NmMyZjJiMjBhOTk1NTIyNGFmNTgxODVhODkwMGZi`

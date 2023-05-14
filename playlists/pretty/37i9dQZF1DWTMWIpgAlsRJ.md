@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest FIFA tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,214 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,385 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 52 | [Red Morning Light](https://open.spotify.com/track/3Fc5OiXuy3pgmLLdoDQqjX) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Youth And Young Manhood](https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd) | 2:59 |
 | 53 | [Pogo](https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 3:46 |
 | 54 | [It's Strange](https://open.spotify.com/track/0NxHMGOA8vwPD0x8MmXnp7) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Strange](https://open.spotify.com/album/65kmQuUqkUbglq0S707HXN) | 4:05 |
-| 55 | [Levanta e Anda](https://open.spotify.com/track/0JSux25Te5HYMSr2D64d02) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 2:30 |
-| 56 | [No Problem](https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:10 |
+| 55 | [No Problem](https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:10 |
+| 56 | [Levanta e Anda](https://open.spotify.com/track/0JSux25Te5HYMSr2D64d02) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 2:30 |
 | 57 | [I Can Talk](https://open.spotify.com/track/2OqI9fjaLeXnphj1Vcs1bi) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:57 |
 | 58 | [16 Years](https://open.spotify.com/track/3BWbj5NXUgr0hK7PmFSI9D) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Be Impressive](https://open.spotify.com/album/159cL7XcdoUldPCCy6JlfB) | 3:45 |
 | 59 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 99 | [BUYA](https://open.spotify.com/track/4JzupGoZoRC5qRY9Y4vUuE) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [BUYA](https://open.spotify.com/album/40YPn9jFKNXuWjoSAB8kyR) | 2:49 |
 | 100 | [Magrela Fever](https://open.spotify.com/track/0yV3VUsztavBnG7iKjs06T) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [JapanPopShow](https://open.spotify.com/album/2Hs9YfmASINO0UlHPVqjgb) | 4:11 |
 
-Snapshot ID: `MCw4YjM2MjQwZThmODIzMGJhOTNlMzg5NzNiMThiODg2OTkwNzg3MGY2`
+Snapshot ID: `MCw1Y2E4YzI2MzVlMDRiMmE3NmYzZjM1MTNhMDU3ZWM2OTBhYmUzMTUw`

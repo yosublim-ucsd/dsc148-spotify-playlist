@@ -2023,6 +2023,28 @@
     },
     {
       "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -37983,6 +38005,24 @@
     },
     {
       "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
+    },
+    {
+      "album": {
         "name": "Rock and A Hard Place",
         "url": "https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0"
       },
@@ -38306,7 +38346,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -50318,7 +50358,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"

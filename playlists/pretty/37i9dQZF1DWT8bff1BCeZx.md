@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208 likes - 50 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,257 likes - 50 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 24 | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz) | 3:38 |
 | 25 | [Oluwa E Tobi](https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Kike Mudiaga](https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF) | [S\. W\. A\. G \(Saved with Amazing Grace\)](https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg) | 4:02 |
 | 26 | [Hosanna](https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna](https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV) | 5:21 |
-| 27 | [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 |
-| 28 | [Worthy Is the Lamb \(Hallelujah Challenge Praise Medley 2\)](https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 10:28 |
+| 27 | [Worthy Is the Lamb \(Hallelujah Challenge Praise Medley 2\)](https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 10:28 |
+| 28 | [Tambira Jehova](https://open.spotify.com/track/7vMK0yMrE3I8KIaEgaAq2r) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Vol\. 15: Live At The ICC Arena Durban \- My Gift To You](https://open.spotify.com/album/7oRxjkbJPrlps1xsyeT0sO) | 6:57 |
 | 29 | [When I See You](https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:32 |
-| 30 | [Tambira Jehova](https://open.spotify.com/track/7vMK0yMrE3I8KIaEgaAq2r) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Vol\. 15: Live At The ICC Arena Durban \- My Gift To You](https://open.spotify.com/album/7oRxjkbJPrlps1xsyeT0sO) | 6:57 |
+| 30 | [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 |
 | 31 | [Ese Oluwa / Papa](https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 6:48 |
 | 32 | [Tobechukwu \- Live](https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:08 |
 | 33 | [Amen \(feat\. Ntokozo Mbambo\)](https://open.spotify.com/track/18iiY88WV4ma0OLvCMC6p5) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB), [Nacy](https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96) | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk) | 6:49 |
 | 50 | [Afro Praise 3](https://open.spotify.com/track/319HK6tHJu3zAzUGS7nxAK) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 5:42 |
 
-Snapshot ID: `MCw5YjllYWViZWExYTVjODhmNzg3NGNlZjQ4MmY0ZmEyYjZjNTcyMThh`
+Snapshot ID: `MCwwNWQ4MjgwMjkyM2EyZjM1NTZlYjM5MmYyMjJkNTk5ZjRmMDhlMjA2`

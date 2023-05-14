@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: a kid named rufus
 
-772 songs - 1 day 22 hr 17 min
+773 songs - 1 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Bullseye](https://open.spotify.com/track/72klky41z2aZ5ft5YAxlDy) | [Jeong Jia](https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3) | [Bullseye](https://open.spotify.com/album/4K9A9hREpor7KTRbriaF7C) | 4:05 | 2022-06-30 | 2022-09-09 |
 | [Burn Book](https://open.spotify.com/track/1aDVkbFZ9qrv4drQUr5D4Y) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 4:19 | 2022-10-28 | 2023-03-10 |
 | [Butterflies](https://open.spotify.com/track/7AeIOIhnyL3jF9OSDDHqaD) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [Butterflies](https://open.spotify.com/album/1xlXly2Y6huS9CGKWIwrAQ) | 3:29 | 2022-11-10 | 2022-12-16 |
-| [Cactus, Cactus](https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Cactus, Cactus](https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ) | 2:25 | 2023-04-07 |  |
+| [Cactus, Cactus](https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Cactus, Cactus](https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ) | 2:25 | 2023-04-07 | 2023-05-14 |
 | [Cadillac](https://open.spotify.com/track/1UfBoOR19ZMYASHCu60yfl) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [Cadillac](https://open.spotify.com/album/4fhBoDPPc6EXjQvKuMfHbm) | 2:27 | 2022-06-30 | 2022-08-12 |
 | [Calendar](https://open.spotify.com/track/0MlK6FlikM8jgArfXluhSG) | [evenif](https://open.spotify.com/artist/26sLRymbW9mmoW9g74o0AF) | [Our Precious Things Never Change](https://open.spotify.com/album/1fl87hYmIRPN63Llaw0u4l) | 4:09 | 2022-10-13 | 2022-12-16 |
 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 | 2022-03-24 | 2022-05-13 |
@@ -162,7 +162,7 @@
 | [DBTWO!](https://open.spotify.com/track/3tGzMXFs9RWxcCKiZQxiC6) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [DON'T BLAME THE WILD ONE!](https://open.spotify.com/album/4U7IlPTJAlT5n1BJX6lCgI) | 3:42 | 2022-07-28 | 2022-09-02 |
 | [Dead \(feat\. Young Cocoa\)](https://open.spotify.com/track/62z9xqVNOKn3yc7K3wbmxa) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [Young Cocoa](https://open.spotify.com/artist/3rdJ1bFvwgZw2XZkimg5dW) | [Violets Aren't Blue](https://open.spotify.com/album/5ISmrwNCl0hRBOvuz50Y4p) | 4:13 | 2022-07-07 | 2022-09-16 |
 | [deal with it](https://open.spotify.com/track/1ViPzDtNBfxH5GAwTNCool) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [FFS](https://open.spotify.com/album/0pC7Tjq0HvwjgTG8omWU4q) | 2:19 | 2022-10-28 | 2022-11-18 |
-| [dear abbey](https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [dear abbey](https://open.spotify.com/album/3OVI7GQjwC5CsXpyjE1Hn9) | 3:54 | 2023-04-20 |  |
+| [dear abbey](https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [dear abbey](https://open.spotify.com/album/3OVI7GQjwC5CsXpyjE1Hn9) | 3:54 | 2023-04-20 | 2023-05-14 |
 | [December](https://open.spotify.com/track/3RCFh2ThOaWvDTiMLetFrQ) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [December](https://open.spotify.com/album/5WcH7hKHsz8C5rIjTa11ZP) | 3:48 | 2023-04-20 | 2023-04-28 |
 | [Deep](https://open.spotify.com/track/7pirPXzUp4hWprqqnSDL90) | [Plvmb](https://open.spotify.com/artist/4Tnim5uIGi5fXElf6v5uL2) | [Deep](https://open.spotify.com/album/26zBc38mso3uDF5er8el3d) | 4:09 | 2023-02-23 | 2023-04-09 |
 | [deep breath in](https://open.spotify.com/track/2rObMC4F1tSewQPn87RUi8) | [cornelia](https://open.spotify.com/artist/6gDLZVjPZvyKYHYujcrNdO) | [deep breath in](https://open.spotify.com/album/5kAlXseC7IrX2M5MMWrQdV) | 3:23 | 2022-08-18 | 2022-08-26 |
@@ -486,7 +486,7 @@
 | [Paradisa](https://open.spotify.com/track/0MRwX4pIryUzrEsn8q8XKx) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Paradisa](https://open.spotify.com/album/5OKhOx9XtV4LKm3zikD9r4) | 4:32 | 2022-11-10 | 2023-01-20 |
 | [Paris](https://open.spotify.com/track/54m4aGaWnngwTficxvykzq) | [Telex Telexs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Paris](https://open.spotify.com/album/6xDBXy2dbXvZfMztTKrmwT) | 3:34 | 2022-11-10 | 2023-01-20 |
 | [Paris](https://open.spotify.com/track/0andTPdoEDqJ5tsuWOx9BP) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Paris](https://open.spotify.com/album/1M9Vczg4mugm6otHw1X5jp) | 3:14 | 2022-11-24 | 2023-02-17 |
-| [Pastrami](https://open.spotify.com/track/4GiTNaoSYL0jRmRLBQ9Y0O) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Pastrami](https://open.spotify.com/album/0xWbGgIWTz1weE0fpXuZHn) | 2:54 | 2023-03-16 | 2023-05-13 |
+| [Pastrami](https://open.spotify.com/track/4GiTNaoSYL0jRmRLBQ9Y0O) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Pastrami](https://open.spotify.com/album/0xWbGgIWTz1weE0fpXuZHn) | 2:54 | 2023-03-16 |  |
 | [Pastries](https://open.spotify.com/track/3aZxmDaau281Xp5KKcPYy0) | [The Royal Leisure](https://open.spotify.com/artist/6EbOsbRkFbQFWw3m0NteRv) | [Pastries](https://open.spotify.com/album/19dAFsG3fN6iitlCpxoFA5) | 3:11 | 2022-07-21 | 2022-08-19 |
 | [Peace Of You](https://open.spotify.com/track/13U5ItKPNpnLGQ9k3XZlCb) | [Blackout On Mars](https://open.spotify.com/artist/77Rsubft2DC13eDnMHV8gW) | [Peace Of You](https://open.spotify.com/album/5UsrOvYQ0j1KRzdl2ArH4w) | 3:19 | 2023-03-23 | 2023-04-14 |
 | [perfect crime](https://open.spotify.com/track/3MXxxR1szyDyGz4tFvjEqi) | [Skinnyfabs](https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H) | [The Black Canvas](https://open.spotify.com/album/2334h24eIxcIbUym2SaPkP) | 2:55 | 2022-12-08 | 2023-01-27 |
@@ -755,6 +755,7 @@
 | [夜晚的牠知道 \(feat\. Joh Ung\)](https://open.spotify.com/track/3RrKD78bVbQgmYw8WLgtn4) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9), [Joh Ung](https://open.spotify.com/artist/65JdRQX0aV6M87dxRen9cX) | [夜晚的牠知道 \(feat\. Joh Ung\)](https://open.spotify.com/album/2w4eV3XDyvZpeMFvKOamAR) | 5:00 | 2022-05-12 | 2022-07-01 |
 | [失敗](https://open.spotify.com/track/5XwbJUBGiE0gNKvN7pOa2V) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [失敗](https://open.spotify.com/album/6tszrSXPP1ARwhheTvqvU4) | 4:25 | 2023-02-02 | 2023-02-17 |
 | [床](https://open.spotify.com/track/2C1Wgc25XHm7SUGnkC920N) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 3:52 | 2023-04-18 | 2023-05-13 |
+| [床](https://open.spotify.com/track/4DNdhYUqi5X14VLd2JrUmL) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW) | 3:52 | 2023-05-11 |  |
 | [忘れたい](https://open.spotify.com/track/6iPgeH5Zk0sV2Fdh4cxcWf) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [忘れたい](https://open.spotify.com/album/2z3WbukYp2wJGxKXzU1u2k) | 3:22 | 2023-04-13 |  |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-05-04 |  |
 | [我毋是刁故意 \(馬崗漁村 Version\) \- WINDIE 收OUT!](https://open.spotify.com/track/1tJD2IVvz1wD5QvxKyvusv) | [青虫 aoi](https://open.spotify.com/artist/7ktAsKYEFwtaMgXZgYCfu5) | [我毋是刁故意 \(馬崗漁村 Version\) \- WINDIE 收OUT!](https://open.spotify.com/album/1aGF7rNcF1TSi3pf69PaSA) | 3:50 | 2022-05-19 | 2022-07-01 |

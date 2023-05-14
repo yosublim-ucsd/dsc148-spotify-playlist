@@ -917,6 +917,28 @@
     },
     {
       "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -1315,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Area Codes",
+        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139325,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
       },
@@ -1588,6 +1628,32 @@
       "duration_ms": 224240,
       "name": "Babe (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/0v4z1tuZvn6LGknom9Qx7d"
+    },
+    {
+      "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "album": {
@@ -6052,7 +6118,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 268235,
       "name": "Double Fantasy (with Future)",
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
@@ -19741,6 +19807,24 @@
     },
     {
       "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
+    },
+    {
+      "album": {
         "name": "Rock and A Hard Place",
         "url": "https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0"
       },
@@ -19752,7 +19836,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 207540,
       "name": "Rock and A Hard Place",
       "url": "https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9"
@@ -23572,7 +23656,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 226466,
       "name": "The Color Violet",
       "url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"
@@ -25260,7 +25344,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"

@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 212067,
+  "num_followers": 212068,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWRkYjZjN2FjODIxN2JiMzBiOGM0MzVmNTBmMjA3MTRjZDMxMjEz",
+  "snapshot_id": "MCxlYmE0NzNhOWI4Y2Q0N2M2OTE5ZjA2YmZlMjhkOTFmZTQzMDI1MWJi",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Chaos A.D.",
-        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "Refuse / Resist",
-      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Primitive (Special Edition)",
         "url": "https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 311986,
       "name": "Jumpdafuckup",
       "url": "https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Chaos A.D.",
+        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Refuse / Resist",
+      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Desperate Cry",
-      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "El Llamado de la Hembra",
         "url": "https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 223440,
       "name": "Acido",
       "url": "https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Desperate Cry",
+      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 265853,
-      "name": "Mass Hypnosis",
-      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "De La Tierra",
         "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
       },
@@ -335,18 +319,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Nuevo Orden Mundial",
-        "url": "https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r"
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
       },
       "artists": [
         {
-          "name": "Malon",
-          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
         }
       ],
-      "duration_ms": 231426,
-      "name": "Nuevo Orden Mundial",
-      "url": "https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU"
+      "duration_ms": 265853,
+      "name": "Mass Hypnosis",
+      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -363,6 +347,22 @@
       "duration_ms": 300066,
       "name": "Como Rel\u00e1mpago en la Oscuridad",
       "url": "https://open.spotify.com/track/1f4XTlw5UXx9jIkl3rr0PA"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Nuevo Orden Mundial",
+        "url": "https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r"
+      },
+      "artists": [
+        {
+          "name": "Malon",
+          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "Nuevo Orden Mundial",
+      "url": "https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm"
-      },
-      "artists": [
-        {
-          "name": "S7N",
-          "url": "https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Rebeli\u00f3n En El Chiquero",
         "url": "https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 150602,
       "name": "Eres Tan Mala Como la Carne de Puerco",
       "url": "https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm"
+      },
+      "artists": [
+        {
+          "name": "S7N",
+          "url": "https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Bajo la Cruz",
-        "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
-      },
-      "artists": [
-        {
-          "name": "L\u00f6rihen",
-          "url": "https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx"
-        }
-      ],
-      "duration_ms": 295263,
-      "name": "Vida Eterna",
-      "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Basado en Hechos Reales",
         "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 254748,
       "name": "Cenizas\u202c",
       "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Bajo la Cruz",
+        "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6rihen",
+          "url": "https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx"
+        }
+      ],
+      "duration_ms": 295263,
+      "name": "Vida Eterna",
+      "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
     },
     {
       "added_at": "2023-04-28 03:00:00",

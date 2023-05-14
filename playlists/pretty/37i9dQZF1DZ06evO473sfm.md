@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,472 likes - 23 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,652 likes - 23 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,17 +19,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 9 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 |
 | 10 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 |
 | 11 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 |
-| 12 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 |
-| 13 | [Si Yo Fuera Ladrón](https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Profugos de Nuevo Leon](https://open.spotify.com/artist/1rWt5Y6NivOcqlZ9bgdAw5) | [Si Yo Fuera Ladrón](https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV) | 2:59 |
+| 12 | [Si Yo Fuera Ladrón](https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Profugos de Nuevo Leon](https://open.spotify.com/artist/1rWt5Y6NivOcqlZ9bgdAw5) | [Si Yo Fuera Ladrón](https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV) | 2:59 |
+| 13 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 |
 | 14 | [No Te Arrepentiras](https://open.spotify.com/track/0R3MdJp3YRyR3qraSC8Jt9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Te Arrepentiras](https://open.spotify.com/album/0bpKm54QKivDK520VlRjpl) | 2:47 |
 | 15 | [Super Poderes](https://open.spotify.com/track/5rAOIlEChbdFyrFEEcDqAX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Secretto](https://open.spotify.com/artist/6SHAWeSDnokcCA2XhPNgHh) | [Super Poderes](https://open.spotify.com/album/47Kif0U9Uen1422h9tSkAM) | 2:53 |
-| 16 | [La Ladrona \- En Vivo](https://open.spotify.com/track/4YKsiPP0QqHsANNaZJwQBT) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:06 |
-| 17 | [Ex de Verdad](https://open.spotify.com/track/1fbhmkwQMs2tE0kasY1oq9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ex de Verdad](https://open.spotify.com/album/4YZ591dkOPwDRuDtTrf9XZ) | 3:06 |
+| 16 | [Ex de Verdad](https://open.spotify.com/track/1fbhmkwQMs2tE0kasY1oq9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ex de Verdad](https://open.spotify.com/album/4YZ591dkOPwDRuDtTrf9XZ) | 3:06 |
+| 17 | [La Ladrona \- En Vivo](https://open.spotify.com/track/4YKsiPP0QqHsANNaZJwQBT) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:06 |
 | 18 | [La Plata \- En Vivo](https://open.spotify.com/track/7yMU0OMBAHp9m74hdTBtIP) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [La Plata \(En Vivo\)](https://open.spotify.com/album/4R0lRmTOqQsjhCv0psBpms) | 2:19 |
 | 19 | [Agachadita](https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Agachadita](https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY) | 3:15 |
-| 20 | [El Ultimo Beso \- En Vivo](https://open.spotify.com/track/1ExVxkQdW1Wb5Z8JEIz5FB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:36 |
-| 21 | [Me gustas \- En vivo](https://open.spotify.com/track/6N4zfmOVZfMDddZDCRjmca) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me gustas \(En Vivo\)](https://open.spotify.com/album/2ZTFSE5lFqFYrlHZOiwiL1) | 3:04 |
+| 20 | [Me gustas \- En vivo](https://open.spotify.com/track/6N4zfmOVZfMDddZDCRjmca) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me gustas \(En Vivo\)](https://open.spotify.com/album/2ZTFSE5lFqFYrlHZOiwiL1) | 3:04 |
+| 21 | [El Ultimo Beso \- En Vivo](https://open.spotify.com/track/1ExVxkQdW1Wb5Z8JEIz5FB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:36 |
 | 22 | [La Pareja Ideal \- En Vivo](https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 4:14 |
 | 23 | [Estos Celos \- En Vivo](https://open.spotify.com/track/01VmJGbwBz19j21aYqR6Ju) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:41 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDAyMjE2MGE0ZDIyNjliYzA4ZTExYzc2Nzk5MTIxNTU3MA==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA2NzIwNjg1MjlmOGM2NmMwMmI1NWIwMmYwMDNhMmQwNg==`

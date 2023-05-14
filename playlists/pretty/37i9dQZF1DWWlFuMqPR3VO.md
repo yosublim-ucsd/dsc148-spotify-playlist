@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,574 likes - 40 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,581 likes - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 3 | [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 |
 | 4 | [Big Chief \- Remastered](https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:14 |
 | 5 | [Baby Scratch My Back \- Single Version](https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:53 |
-| 6 | [The Things That I Used To Do](https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 3:00 |
-| 7 | [St\. James Infirmary](https://open.spotify.com/track/6FKasUNG1KT4r9TR9rKdll) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [The Bright Mississippi](https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy) | 3:51 |
+| 6 | [St\. James Infirmary](https://open.spotify.com/track/6FKasUNG1KT4r9TR9rKdll) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [The Bright Mississippi](https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy) | 3:51 |
+| 7 | [The Things That I Used To Do](https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 3:00 |
 | 8 | [Mama Roux](https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 3:00 |
 | 9 | [Medicine](https://open.spotify.com/track/3OvV9R4RIoXwUi7UcuXwkU) | [Tab Benoit](https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB) | [Medicine](https://open.spotify.com/album/1heK7tmUTRLA2jwrRG4LiB) | 5:47 |
 | 10 | [Shake Your Hips \- Single Version](https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:29 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 39 | [Blues Stew](https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Walking On Fire](https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI) | 3:34 |
 | 40 | [Gather by the River](https://open.spotify.com/track/5bxFlzZ2fdlt740q1YikpQ) | [Davell Crawford](https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 3:40 |
 
-Snapshot ID: `MCwwMTdmNjgxYWEzZTVmMjU0ZGQwOTEwOThmYTI3NGM3NzVhNjdjYjIy`
+Snapshot ID: `MCxjMzcxM2Q4MzAxNjBlODAzMGIxZGJkYTY0OWI3ZWJjNzUwNWU0NTE3`

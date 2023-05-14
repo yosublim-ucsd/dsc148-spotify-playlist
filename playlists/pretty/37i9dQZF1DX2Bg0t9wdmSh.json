@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 4234,
+  "num_followers": 4256,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDhkMDhkMmRkMjVmMDNiMmUxNDUwZTI2MDc0Y2E1MjYxZjg0MTFj",
+  "snapshot_id": "MCxkYzVhMGYxNThjMTc3YzNlOWRjMDdkZmJmOWViZTIwZDZmMzhhMGUx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 155168,
+      "name": "Said Sum",
+      "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "SoulFly",
         "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 190458,
       "name": "Richer (feat. Polo G)",
       "url": "https://open.spotify.com/track/0mehSdTadpXbHAWTrnrIXO"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 155168,
-      "name": "Said Sum",
-      "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
     },
     {
       "added_at": "2022-10-01 16:09:56",

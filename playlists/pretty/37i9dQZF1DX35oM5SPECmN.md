@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,420,121 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,420,106 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 27 | [Stomp](https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 1:50 |
 | 28 | [Shake](https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:01 |
 | 29 | [Letter to Madeline](https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 4:29 |
-| 30 | [Radio \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 2:49 |
-| 31 | [Strong Enough](https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 3:34 |
+| 30 | [Strong Enough](https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 3:34 |
+| 31 | [Radio \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 2:49 |
 | 32 | [Sanctuary](https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 4:26 |
 | 33 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 |
 | 34 | [Wait so Long](https://open.spotify.com/track/1I7JVzjG70FM9NrgSY5von) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Palomino](https://open.spotify.com/album/4a1gvrakHL6eEm4P86AUiR) | 3:26 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 56 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 |
 | 57 | [Don't Let It Get You Down](https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza) | 3:20 |
 | 58 | [Comeback Kid](https://open.spotify.com/track/1Qpyt7U1yu4tfuJc4LKuzF) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 3:02 |
-| 59 | [Patience](https://open.spotify.com/track/2wFnukjdbUj5DWoNxZd718) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Patience](https://open.spotify.com/album/4WZgcOXBMQQ2VRj5a6VDDP) | 3:58 |
+| 59 | [Can't Cheat Death](https://open.spotify.com/track/2W7LF1AC58Y4Qmk9UpZ5c1) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Paper Crown](https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ) | 3:10 |
 | 60 | [Las Vegas](https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:42 |
-| 61 | [Can't Cheat Death](https://open.spotify.com/track/2W7LF1AC58Y4Qmk9UpZ5c1) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Paper Crown](https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ) | 3:10 |
+| 61 | [Patience](https://open.spotify.com/track/2wFnukjdbUj5DWoNxZd718) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Patience](https://open.spotify.com/album/4WZgcOXBMQQ2VRj5a6VDDP) | 3:58 |
 | 62 | [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 |
 | 63 | [Can’t Do Much](https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:44 |
 | 64 | [Roots And Wings](https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Exit Wounds](https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 74 | [Expectations](https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 3:55 |
 | 75 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 |
 
-Snapshot ID: `MCw4YTUyYTAxYWM4MDBiYTgzNjM3MDQ0NjVhYWEyMTI5NGJmYzkzYzcz`
+Snapshot ID: `MCxhZjJjYzFlZjVhODRiNTVlM2JhZTk3YjU0M2YyN2EyN2ZhNzJmMDk0`

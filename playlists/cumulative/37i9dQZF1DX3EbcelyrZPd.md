@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny
 
-235 songs - 13 hr 21 min
+236 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [How You Move](https://open.spotify.com/track/1bDINdR04Sqsnc9Wtu4XYD) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t) | [Make You Dance](https://open.spotify.com/album/76JePhiYaCK9EM1T1U9yRT) | 3:06 | 2023-02-02 |  |
 | [Huyu Hapa](https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 2:57 | 2022-11-17 |  |
 | [I Don't Care](https://open.spotify.com/track/2Bu813f6x8IRpYVshM2emk) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [I Don't Care](https://open.spotify.com/album/5JSP0Znmydeo5t7fXQtR3h) | 3:00 | 2022-01-20 | 2022-07-30 |
-| [I Found Love](https://open.spotify.com/track/1y9Re7yUAtfKFF9iutYcbq) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [I Found Love](https://open.spotify.com/album/5mb9kl7J7vWyJSsyV4FCf8) | 2:59 | 2023-01-19 |  |
+| [I Found Love](https://open.spotify.com/track/66Eq3ywylcI3TazQ9ivf89) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:56 | 2023-05-11 |  |
+| [I Found Love](https://open.spotify.com/track/1y9Re7yUAtfKFF9iutYcbq) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [I Found Love](https://open.spotify.com/album/5mb9kl7J7vWyJSsyV4FCf8) | 2:59 | 2023-01-19 | 2023-05-14 |
 | [I Like It](https://open.spotify.com/track/0b0Si2XZJ5ZY27ASJu1qbq) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [I Like It](https://open.spotify.com/album/7zalzZ5eh15ebMjkrtQz2i) | 3:27 | 2021-06-25 | 2022-01-28 |
 | [I Love You](https://open.spotify.com/track/431exPjnaorQQS0J9S8cN6) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [I Love You](https://open.spotify.com/album/2IFf1dEQFwXSil0IPksTSF) | 2:47 | 2022-02-10 | 2022-12-02 |
 | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD) | 4:08 | 2022-01-20 | 2023-02-10 |

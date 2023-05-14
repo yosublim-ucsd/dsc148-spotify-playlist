@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 104040,
+  "num_followers": 104173,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzA5ZjUwZjUzMWE5YmU4MzBiOGY5NGFiYTcwYzFkMjM0NmZjOWU5",
+  "snapshot_id": "MCxiMGY1ZTBhYjJiOTVjOTNhMjU1ZjVmYWNmYjYxZTIyODZlZjkwMDYx",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Jose Jose 25 A\u00f1os Vol. 2",
-        "url": "https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Piel de Az\u00facar",
-      "url": "https://open.spotify.com/track/7qWfrXUmYD2UG82tI0pfKm"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "El Pr\u00edncipe de la Canci\u00f3n",
         "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 242480,
       "name": "Adi\u00f3s, Princesa",
       "url": "https://open.spotify.com/track/2NlIbM3lP1XbiJLcUevGwc"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Jose Jose 25 A\u00f1os Vol. 2",
+        "url": "https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "Piel de Az\u00facar",
+      "url": "https://open.spotify.com/track/7qWfrXUmYD2UG82tI0pfKm"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 104253,
-      "name": "\u00bfD\u00f3nde Andar\u00e1?",
-      "url": "https://open.spotify.com/track/1AO54sk6Y4GXGQtZqSaorl"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "En el Palacio de Bellas Artes",
         "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 428466,
       "name": "Amor Eterno - En Vivo [En el Palacio de Bellas Artes]",
       "url": "https://open.spotify.com/track/0QI38in0PP6LVZSl6NnKaI"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 104253,
+      "name": "\u00bfD\u00f3nde Andar\u00e1?",
+      "url": "https://open.spotify.com/track/1AO54sk6Y4GXGQtZqSaorl"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
-        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Ya No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 194693,
       "name": "T\u00fa Me Dijiste Adi\u00f3s",
       "url": "https://open.spotify.com/track/7cUrtfZr6ONm7tvPqluEcK"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
+        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Ya No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "El Mexico Que Se Nos Fue",
-        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
+        "name": "40 Y 20",
+        "url": "https://open.spotify.com/album/72HLf3LP783UMuU1zQ6XgL"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 277120,
-      "name": "El M\u00e9xico Que Se Nos Fue",
-      "url": "https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW"
+      "duration_ms": 262240,
+      "name": "Eso Nom\u00e1s",
+      "url": "https://open.spotify.com/track/7EmvOxDhWWlxIktbT4Yhgo"
     }
   ],
   "unique_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",

@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. Cover: The Linda Lindas",
-  "num_followers": 45715,
+  "num_followers": 45716,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGI2YWRhZjhjNmMzZWM3YmFjOTU0YWVlMjE5ODc1ZGNiYTg4Y2E2",
+  "snapshot_id": "MCxkYjEwZTBjN2UwOTBiOTNmZDkwYzFkODcxYmRjYjFmZmE5MTVmY2Y1",
   "tracks": [
     {
       "added_at": "2022-11-09 11:58:09",
@@ -347,8 +347,8 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
-        "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
+        "name": "Nightmare Revisited",
+        "url": "https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 207213,
+      "duration_ms": 206280,
       "name": "Making Christmas",
-      "url": "https://open.spotify.com/track/2W9IyiUawRDws73eD1zsDE"
+      "url": "https://open.spotify.com/track/3NgApo4U2gMHh0TKXntZRq"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Let It Snow Baby...Let It Reindeer",
-        "url": "https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6"
-      },
-      "artists": [
-        {
-          "name": "Relient K",
-          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
-        }
-      ],
-      "duration_ms": 213160,
-      "name": "12 Days of Christmas",
-      "url": "https://open.spotify.com/track/02SAP5qoj5GWubcKJDgXX9"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "X Christmas",
         "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 212680,
       "name": "His Favorite Christmas Story",
       "url": "https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Let It Snow Baby...Let It Reindeer",
+        "url": "https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6"
+      },
+      "artists": [
+        {
+          "name": "Relient K",
+          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+        }
+      ],
+      "duration_ms": 213160,
+      "name": "12 Days of Christmas",
+      "url": "https://open.spotify.com/track/02SAP5qoj5GWubcKJDgXX9"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Let It Snow Baby...Let It Reindeer",
-        "url": "https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6"
-      },
-      "artists": [
-        {
-          "name": "Relient K",
-          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
-        }
-      ],
-      "duration_ms": 81080,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/0dc9SYWwvA4LtvMFsHicQs"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "The Season's Upon Us",
         "url": "https://open.spotify.com/album/0eX2dIB3Ce7t32RjWoppJJ"
       },
@@ -619,22 +603,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 127733,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Ruin Jonny's Bar Mitzvah",
         "url": "https://open.spotify.com/album/2ghotUjHKIAK4g2FYb316n"
       },
@@ -647,6 +615,38 @@
       "duration_ms": 221040,
       "name": "Hava Nagila",
       "url": "https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 99573,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Let It Snow Baby...Let It Reindeer",
+        "url": "https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6"
+      },
+      "artists": [
+        {
+          "name": "Relient K",
+          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+        }
+      ],
+      "duration_ms": 81080,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/0dc9SYWwvA4LtvMFsHicQs"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -708,25 +708,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 99573,
-      "name": "God Rest Ye Merry Gentlemen",
-      "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Let It Snow Baby...Let It Reindeer",
-        "url": "https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6"
-      },
-      "artists": [
-        {
-          "name": "Relient K",
-          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
-        }
-      ],
-      "duration_ms": 132240,
-      "name": "We Wish You a Merry Christmas",
-      "url": "https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B"
+      "duration_ms": 127733,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -763,22 +747,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Horror Xmas",
         "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
       },
@@ -791,6 +759,22 @@
       "duration_ms": 132637,
       "name": "You\u2019re a Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -811,6 +795,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Let It Snow Baby...Let It Reindeer",
+        "url": "https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6"
+      },
+      "artists": [
+        {
+          "name": "Relient K",
+          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+        }
+      ],
+      "duration_ms": 132240,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Christmas Spirit...In My House",
         "url": "https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 206000,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Horror Xmas",
+        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 102483,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g"
     },
     {
       "added_at": "2022-12-01 23:00:47",
@@ -880,6 +896,22 @@
       },
       "artists": [
         {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Nothing For Christmas",
+      "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
           "name": "Real Friends",
           "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
         }
@@ -887,22 +919,6 @@
       "duration_ms": 157746,
       "name": "I Had A Heart",
       "url": "https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Horror Xmas",
-        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 102483,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -927,22 +943,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Nothing For Christmas",
-      "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "\u2026And A Happy New Year",
         "url": "https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 201640,
       "name": "Mr. Winter",
       "url": "https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 188031,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Somewhere in My Memory",
-        "url": "https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 149173,
-      "name": "Somewhere in My Memory",
-      "url": "https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Rock",
-        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+        "name": "Somewhere in My Memory",
+        "url": "https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
         }
       ],
-      "duration_ms": 188031,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c"
+      "duration_ms": 149173,
+      "name": "Somewhere in My Memory",
+      "url": "https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Christmas With Weezer",
+        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 92706,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Merry MeX-mas",
         "url": "https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 137346,
       "name": "This Time of Year",
       "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Christmas With Weezer",
-        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 92706,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03"
     },
     {
       "added_at": "2021-11-19 13:39:50",

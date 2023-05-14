@@ -4,7 +4,7 @@
 
 > Svensk punk från förr och nu.
 
-234 songs - 11 hr 16 min
+235 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Den amerikanska drömmen](https://open.spotify.com/track/7jVzX2aSNJRYJV84j6F0wE) | [Förbjudna Ljud](https://open.spotify.com/artist/1LeVZ9pA0Ao7fhgL22Wb25) | [Den amerikanska drömmen](https://open.spotify.com/album/6VJejmkhQrOHfN1rZGGCMg) | 2:12 | 2021-12-14 | 2022-07-17 |
 | [Den blomstertid](https://open.spotify.com/track/5v8RElTegz5AqfczPkw11x) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Den blomstertid](https://open.spotify.com/album/2CaELSWA9uJgNlVmCzDeoJ) | 2:38 | 2021-12-14 | 2022-07-28 |
 | [Den Här Är Till Er](https://open.spotify.com/track/4QihvZNdzxHc9Upqk7HFmC) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Historien Dömer Oss Alla](https://open.spotify.com/album/4ZaG6S0IIZaUrsKk3U7vC2) | 4:18 | 2021-12-14 | 2022-07-29 |
-| [Den Här Är Till Er](https://open.spotify.com/track/4FU7skLnl1FpRIbFezJ0j1) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Den Här Är Till Er](https://open.spotify.com/album/3l1A9HHdfzlRg6O4hdQ8OE) | 4:23 | 2021-12-14 |  |
+| [Den Här Är Till Er](https://open.spotify.com/track/4FU7skLnl1FpRIbFezJ0j1) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Den Här Är Till Er](https://open.spotify.com/album/3l1A9HHdfzlRg6O4hdQ8OE) | 4:23 | 2021-12-14 | 2023-05-14 |
 | [Det borde fan var't jag](https://open.spotify.com/track/6nMC8j2DhFEUQmrYFtrHJ8) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Automatiskt](https://open.spotify.com/album/5Z7SWe9qj63UOVQu6cJCqU) | 2:19 | 2021-12-14 | 2022-05-14 |
 | [Det spelar ingen roll](https://open.spotify.com/track/0dUrBmCva4ajCAslQMYiyr) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/0oD3URB9nBxNSI6p79HE5m) | 1:36 | 2021-12-14 | 2022-07-10 |
 | [Die Mauer](https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön](https://open.spotify.com/album/3fZyzR2Qeu8d5h8FsejF1I) | 4:04 | 2021-12-14 |  |
@@ -167,6 +167,7 @@
 | [Pop & Våld](https://open.spotify.com/track/1PDEjC3h2SPCkYHasBAnda) | [DÖDSÖGONBLICKET](https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU) | [Pop & Våld](https://open.spotify.com/album/39wTLSo15d9G8bi3getVhI) | 1:36 | 2021-12-14 | 2022-07-25 |
 | [Psykist Instabil](https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Med is i magen](https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2) | 2:47 | 2021-12-14 |  |
 | [Psykist Instabil](https://open.spotify.com/track/4FcbRBNpRUVZ7zBjdNRacQ) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Med Is I Magen](https://open.spotify.com/album/63NlFThsHk9g7f6J0CbiOV) | 2:47 | 2021-12-14 | 2022-07-29 |
+| [Psykopaten](https://open.spotify.com/track/2NXA45aJcDNJ8zdE9LB4YO) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Sista Dansen](https://open.spotify.com/album/1wXD1Pkuf56DSvkQE3kFQz) | 3:19 | 2023-05-04 |  |
 | [Psykopaten](https://open.spotify.com/track/4c6adBbwi1LnSJDwSayW9Y) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Sista Dansen](https://open.spotify.com/album/11i9Y2YSd0dEMcALvVNhXa) | 3:19 | 2021-12-14 | 2023-04-30 |
 | [Psykopaten](https://open.spotify.com/track/4qOqU9o554mByA76yjqjqW) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Sista Dansen](https://open.spotify.com/album/7M2HcnLOTErxyzFcJPJuKx) | 3:19 | 2021-12-14 | 2022-07-29 |
 | [Punkrockarflicka](https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Versace Style](https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f) | 2:08 | 2021-12-14 |  |

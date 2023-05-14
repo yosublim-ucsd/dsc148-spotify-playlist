@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5fPjBAFjqX4Cf0XAPhGVcf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Orange County Serenade",
+      "url": "https://open.spotify.com/track/1ch5qYv75SfJyOaZJEcNzs"
+    },
+    {
+      "album": {
         "name": "Orange Co. Serenade",
         "url": "https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW"
       },
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 169214,
       "name": "She Ain't Nowhere - Remastered",
       "url": "https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS"

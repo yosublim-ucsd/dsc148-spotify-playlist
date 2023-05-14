@@ -899,6 +899,28 @@
     },
     {
       "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -3520,7 +3542,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -7352,7 +7374,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 375323,
       "name": "Esangweni",
       "url": "https://open.spotify.com/track/1kKltSWkRUTB7LYVFJXS2w"
@@ -11651,6 +11673,32 @@
     },
     {
       "album": {
+        "name": "Ukhamba",
+        "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
+      },
+      "artists": [
+        {
+          "name": "Inkabi Zezwe",
+          "url": "https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Intro (Inkabi Zezwe)",
+      "url": "https://open.spotify.com/track/5S1axLTRin5cSVVle9bSbO"
+    },
+    {
+      "album": {
         "name": "Intsimbi Edlezinye (feat. M.J, F3 Dipapa & Toss)",
         "url": "https://open.spotify.com/album/4SiB5BqKmwl1ZvYtHL7hjZ"
       },
@@ -11792,7 +11840,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 278504,
       "name": "Isoka",
       "url": "https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2"
@@ -12052,7 +12100,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 263004,
       "name": "Ithuba",
       "url": "https://open.spotify.com/track/2DTnuVhrGnLcmgutAW4vb1"
@@ -13096,6 +13144,32 @@
       "duration_ms": 163000,
       "name": "Kennedy",
       "url": "https://open.spotify.com/track/0orgmMfLnt9UAovTt6EKWT"
+    },
+    {
+      "album": {
+        "name": "Ukhamba",
+        "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
+      },
+      "artists": [
+        {
+          "name": "Inkabi Zezwe",
+          "url": "https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255272,
+      "name": "Khaya Lami",
+      "url": "https://open.spotify.com/track/0KG5PG0nz6MmKLbDWtmpdk"
     },
     {
       "album": {
@@ -16558,7 +16632,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -17201,6 +17275,36 @@
     },
     {
       "album": {
+        "name": "Myztro Ah Ah (feat. Xduppy, ShaunMusiQ & Ftears)",
+        "url": "https://open.spotify.com/album/4LGrH0Qqw2BIcTxlVWpebh"
+      },
+      "artists": [
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336428,
+      "name": "Myztro Ah Ah (feat. Xduppy, ShaunMusiQ & Ftears)",
+      "url": "https://open.spotify.com/track/26rx4ek7zk05Q9wEUbN1NF"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -17646,7 +17750,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 362834,
       "name": "Ngeke",
       "url": "https://open.spotify.com/track/7yJ5UfiXvtePhopnvxyXOV"
@@ -18104,7 +18208,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -18418,6 +18522,32 @@
       "duration_ms": 204629,
       "name": "Ok Ok pt 2",
       "url": "https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI"
+    },
+    {
+      "album": {
+        "name": "Ukhamba",
+        "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
+      },
+      "artists": [
+        {
+          "name": "Inkabi Zezwe",
+          "url": "https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Omunye",
+      "url": "https://open.spotify.com/track/25tau1BaZVtSFeP2XeICrg"
     },
     {
       "album": {
@@ -20702,7 +20832,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -21717,6 +21847,32 @@
     },
     {
       "album": {
+        "name": "Ukhamba",
+        "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
+      },
+      "artists": [
+        {
+          "name": "Inkabi Zezwe",
+          "url": "https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Sayona",
+      "url": "https://open.spotify.com/track/05A1KzxTLvShctiD0Bsydd"
+    },
+    {
+      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
@@ -22054,7 +22210,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 249533,
       "name": "SETE (feat. Young Stunna & Blxckie)",
       "url": "https://open.spotify.com/track/65NAMIdsZkxYIM5ui8SJSw"
@@ -22583,6 +22739,32 @@
     },
     {
       "album": {
+        "name": "Ukhamba",
+        "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
+      },
+      "artists": [
+        {
+          "name": "Inkabi Zezwe",
+          "url": "https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "Siyabonga",
+      "url": "https://open.spotify.com/track/6GQg2SKCMzz2vLTw36HbHe"
+    },
+    {
+      "album": {
         "name": "Siyathandana",
         "url": "https://open.spotify.com/album/29rJjo7PTJccQQPFnNi5a7"
       },
@@ -22838,6 +23020,32 @@
       "duration_ms": 166844,
       "name": "Slide",
       "url": "https://open.spotify.com/track/6FyGJg4xUaF5yTDspZB30C"
+    },
+    {
+      "album": {
+        "name": "Ukhamba",
+        "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
+      },
+      "artists": [
+        {
+          "name": "Inkabi Zezwe",
+          "url": "https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Slow Jam Sase Bergville",
+      "url": "https://open.spotify.com/track/6eNKNXOd6V9rRe8FlNJAap"
     },
     {
       "album": {
@@ -26505,6 +26713,32 @@
     },
     {
       "album": {
+        "name": "Ukhamba",
+        "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
+      },
+      "artists": [
+        {
+          "name": "Inkabi Zezwe",
+          "url": "https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Umbayimbayi",
+      "url": "https://open.spotify.com/track/1bmZLmDu9jkzwHInzPsYLD"
+    },
+    {
+      "album": {
         "name": "Umbayimbayi",
         "url": "https://open.spotify.com/album/3ozczTzDSjr8zjBpCsN7BW"
       },
@@ -26524,7 +26758,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 230000,
       "name": "Umbayimbayi",
       "url": "https://open.spotify.com/track/7cICJP7hsjo6e7JZgvNLiO"
@@ -28518,7 +28752,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"

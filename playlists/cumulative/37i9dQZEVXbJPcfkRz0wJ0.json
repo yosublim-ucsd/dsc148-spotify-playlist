@@ -3002,7 +3002,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -9511,6 +9511,24 @@
     },
     {
       "album": {
+        "name": "MATHEMATICAL DISRESPECT",
+        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88304,
+      "name": "MATHEMATICAL DISRESPECT",
+      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -12318,7 +12336,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
@@ -12419,6 +12437,24 @@
     },
     {
       "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
+    },
+    {
+      "album": {
         "name": "Rock and A Hard Place",
         "url": "https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0"
       },
@@ -12430,7 +12466,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 207540,
       "name": "Rock and A Hard Place",
       "url": "https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9"
@@ -15072,7 +15108,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 226466,
       "name": "The Color Violet",
       "url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"

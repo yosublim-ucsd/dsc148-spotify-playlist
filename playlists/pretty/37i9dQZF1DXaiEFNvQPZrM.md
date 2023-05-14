@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,725 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,160 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 38 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
 | 39 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
 | 40 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
-| 41 | [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 4:17 |
-| 42 | [Watermelon Crawl](https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 3:01 |
+| 41 | [Watermelon Crawl](https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 3:01 |
+| 42 | [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 4:17 |
 | 43 | [Time Marches On](https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Time Marches On](https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6) | 3:05 |
 | 44 | [On My Way to You](https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:33 |
 | 45 | [Rodeo Queen](https://open.spotify.com/track/7zLmOXHzhuYlDpez5bAWmm) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Rodeo Queen](https://open.spotify.com/album/16s1YAqpcHWpPurb7T2Wli) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 99 | [Ten Thousand Angels](https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:27 |
 | 100 | [Over Drinkin' Under Thinkin'](https://open.spotify.com/track/2YrUpji5N9biuvxKgyO2OT) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Drake Milligan \- EP](https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u) | 3:17 |
 
-Snapshot ID: `MCwxNDk5ZTdmMjk1MGFkZWRkMDNhNzlhYTExNjkyOTY5ZDkzMWM3MWI1`
+Snapshot ID: `MCwxODAyZDJjYjhlODljMGEyYTVjNDUyMTUzYWQ5ZDY5MTdhODc1MGYz`

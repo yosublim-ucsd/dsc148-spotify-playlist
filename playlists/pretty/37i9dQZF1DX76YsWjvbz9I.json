@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 192498,
+  "num_followers": 192846,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDY4MDgyMTczNDE0M2E0NGQ4NjJiNmI1NmI2ZmZhM2MwYTMzZjVh",
+  "snapshot_id": "MCw2OTJkODQzYTAxODUxYWVmZTlhOGZlNjQzYWFmMTg2N2QyZTA1MGJk",
   "tracks": [
     {
       "added_at": "2023-05-09 11:47:58",
@@ -547,8 +547,8 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "The Very Thought Of You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 194040,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
+      "duration_ms": 228693,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -683,8 +683,8 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
-        "name": "The Very Thought Of You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 228693,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
+      "duration_ms": 194040,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
-        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
-        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 122800,
-      "name": "You Couldn't Be Cuter",
-      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
-    },
-    {
-      "added_at": "2023-05-09 11:47:58",
-      "album": {
         "name": "The Silver Lining - The Songs of Jerome Kern",
         "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 174280,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz"
+    },
+    {
+      "added_at": "2023-05-09 11:47:58",
+      "album": {
+        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
+        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 122800,
+      "name": "You Couldn't Be Cuter",
+      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Can't Help Lovin' That Man",
+      "url": "https://open.spotify.com/track/2qf5Xr89ShgSu1up0xQmLt"
+    },
+    {
+      "added_at": "2023-05-09 11:47:58",
+      "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/29hewcqIIQfEFYlghRWYD2"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 239266,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/35jMzVgRFxGkSg7N0ZMVTw"
-    },
-    {
-      "added_at": "2023-05-09 11:47:58",
-      "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Can't Help Lovin' That Man",
-      "url": "https://open.spotify.com/track/2qf5Xr89ShgSu1up0xQmLt"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "You're Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
-    },
-    {
-      "added_at": "2023-05-09 11:47:58",
-      "album": {
         "name": "Some Nice Things I've Missed",
         "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 241733,
       "name": "What Are You Doing The Rest Of Your Life?",
       "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
+    },
+    {
+      "added_at": "2023-05-09 11:47:58",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "You're Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
     },
     {
       "added_at": "2023-05-09 11:47:58",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-05-09 11:47:58",
       "album": {
-        "name": "Presenting Ethel Waters",
-        "url": "https://open.spotify.com/album/1JrSOh4OcBNytK0rpZLh0Z"
-      },
-      "artists": [
-        {
-          "name": "Ethel Waters",
-          "url": "https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Baby, What Else Can I Do?",
-      "url": "https://open.spotify.com/track/4ThZ5kjaWK29G7EcRJbVAr"
-    },
-    {
-      "added_at": "2023-05-09 11:47:58",
-      "album": {
         "name": "On the Sunny Side of the Street",
         "url": "https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 142866,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX"
+    },
+    {
+      "added_at": "2023-05-09 11:47:58",
+      "album": {
+        "name": "Presenting Ethel Waters",
+        "url": "https://open.spotify.com/album/1JrSOh4OcBNytK0rpZLh0Z"
+      },
+      "artists": [
+        {
+          "name": "Ethel Waters",
+          "url": "https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Baby, What Else Can I Do?",
+      "url": "https://open.spotify.com/track/4ThZ5kjaWK29G7EcRJbVAr"
     },
     {
       "added_at": "2023-05-09 11:47:58",

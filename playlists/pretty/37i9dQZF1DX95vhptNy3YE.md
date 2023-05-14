@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Xamã, KayBlack, MC Maneirinho, Kiaz e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,548 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,733 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Set Ajc](https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set Ajc](https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh) | 5:43 |
 | 50 | [C'est la vie \(Bônus\)](https://open.spotify.com/track/1QRDn63eQzqC8dpNcI7HtQ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:04 |
 
-Snapshot ID: `MCxhY2NhY2RmYjkwNGY5NzdlZDdkZDcxNjIzNWMxZGIxYjE1OGI0NmI3`
+Snapshot ID: `MCxlNWM3MThiM2Y2ODRkNDVjOGY3MDhiZmI1YTg3YzhhZmYwNWIzYzlh`

@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 213061,
       "name": "Efecto",
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 251724,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
@@ -6285,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
+    },
+    {
+      "album": {
         "name": "PROBLEMA",
         "url": "https://open.spotify.com/album/62qqk2oK0GGO0AwWqUIqrJ"
       },
@@ -7632,6 +7650,24 @@
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "album": {
+        "name": "The Planet",
+        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "The Planet",
+      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
     },
     {
       "album": {

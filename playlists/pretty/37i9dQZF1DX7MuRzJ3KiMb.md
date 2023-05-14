@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,749 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,810 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 52 | [De Verdad](https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [De Verdad](https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW) | 3:27 |
 | 53 | [Chula](https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy), [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Chula](https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS) | 4:01 |
 | 54 | [Tanto Amor](https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Tanto Amor](https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz) | 3:05 |
-| 55 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
-| 56 | [Inmensamente Frágil](https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Inmensamente Frágil](https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa) | 3:39 |
-| 57 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 |
+| 55 | [Inmensamente Frágil](https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Inmensamente Frágil](https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa) | 3:39 |
+| 56 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
+| 57 | [Nadie Nos Entiende](https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2) | 3:37 |
 | 58 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 |
-| 59 | [Nadie Nos Entiende](https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2) | 3:37 |
+| 59 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 |
 | 60 | [Amenábar](https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:11 |
-| 61 | [Línea Bonita](https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Línea Bonita](https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb) | 4:07 |
-| 62 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 |
-| 63 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 |
-| 64 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
+| 61 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 |
+| 62 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
+| 63 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 |
+| 64 | [Línea Bonita](https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Línea Bonita](https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb) | 4:07 |
 | 65 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
 | 66 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
 | 67 | [Diez Pasos Hacia Ti \- En Vivo](https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Vivo Desde Tu Nostalgia](https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 74 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
 | 75 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
 
-Snapshot ID: `MCw4YzU5MmNmZjI4YzViNjE3YWRjNjNkZDRmYjcxYjFiNmEwZWJmMmI4`
+Snapshot ID: `MCxkZDQ5MGRhM2Q5ZjFiNTcyY2M1OTE0OWY2MDhlODNiY2E1MjZjNmE4`

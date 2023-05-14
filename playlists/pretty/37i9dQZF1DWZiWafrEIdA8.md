@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,169 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,168 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 37 | [Home Sh\*t Home \(Feat\. JINBO\)](https://open.spotify.com/track/2pdIj0UkQBu0eB0BMIoJcT) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JINBO](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [DARKROOM](https://open.spotify.com/album/3mbp7RgskfhBo8GO7FNyi6) | 3:29 |
 | 38 | [Pat Pat](https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst) | 3:02 |
 | 39 | [Lee Rohan \(Prod\. by Padi\)](https://open.spotify.com/track/5MmDbUVKsC7GyFx03PYqUY) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [School Rapper 2 Final](https://open.spotify.com/album/6oX7tP4ac99NLogEHFn0WE) | 4:39 |
-| 40 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
+| 40 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:05 |
 | 41 | [Family Portrait \(Feat\. Kim Feel\)](https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:46 |
-| 42 | [HELLP](https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC) | [RYNO](https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [HELLP](https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM) | 3:26 |
-| 43 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:05 |
+| 42 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
+| 43 | [HELLP](https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC) | [RYNO](https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [HELLP](https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM) | 3:26 |
 | 44 | [Black Happiness](https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:04 |
 | 45 | [WHISTLE](https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WHISTLE](https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6) | 2:52 |
 | 46 | [poison](https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 |
 | 50 | [HERE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG) | [Young Kay](https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [School Rapper3 Final](https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU) | 3:49 |
 
-Snapshot ID: `MCw0NjQxNTY5NDMwZjI4ZjdlOWRiZjdiMTQ1YjUyNzBmOTgwZmUxYTU3`
+Snapshot ID: `MCwxYzIxYTE5Nzc4ZWJiMjE0YjI5MGFmODQzZmFiZmZjMjZiZjEyYWI0`

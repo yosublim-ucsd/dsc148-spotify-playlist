@@ -4,7 +4,7 @@
 
 > Deja que estas sutiles piezas de jazz te arrullen hasta el sueño.
 
-222 songs - 12 hr 7 min
+223 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [I'll Take Romance](https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I'll Take Romance](https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq) | 3:09 | 2023-03-23 |  |
 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2023-03-23 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [I'm Glad There Is You](https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ) | 4:46 | 2023-03-23 |  |
+| [I've got a crush on you](https://open.spotify.com/track/2xXLKAXQHnr3sBg37JvqWZ) | [James Earle](https://open.spotify.com/artist/0jwxdHbHsTwIrfc3IgCqa3) | [I've got a crush on you](https://open.spotify.com/album/6HXApr4Gro91aaXMUOH7ty) | 2:53 | 2023-05-11 |  |
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I've Grown Accustomed to Her Face](https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ) | 2:39 | 2023-03-23 |  |
 | [Imagination](https://open.spotify.com/track/4HL5vpC9UWTYIOQHC0HIAw) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Imagination](https://open.spotify.com/album/5Dvk1QM3JT6HOiZRIx0xW4) | 5:03 | 2023-03-23 |  |
 | [In a sentimental mood](https://open.spotify.com/track/3gmQ3tklUt8IJixvO3jVAp) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [In a sentimental mood](https://open.spotify.com/album/0zukKIRRaLdu8NcLxY61cH) | 2:26 | 2023-03-23 |  |
@@ -174,7 +175,7 @@
 | [Someone To Watch Over Me](https://open.spotify.com/track/7i7I5cr7kXAzxUGicjfyJY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Someone To Watch Over Me](https://open.spotify.com/album/3GNORDPunT2olont9mcX97) | 3:58 | 2023-03-23 |  |
 | [Sometime Ago](https://open.spotify.com/track/27tlCFs00O17IvQMpdyBRs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [Sometime Ago](https://open.spotify.com/album/4fKCHxdIRftSRH8A4uauwW) | 3:29 | 2023-03-23 |  |
 | [Somewhere Between](https://open.spotify.com/track/1Qiks2nkAG5WCpXgqclQ1f) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Somewhere Between](https://open.spotify.com/album/2C7bCiH5a0n9uQmfntiAF8) | 3:18 | 2023-03-23 | 2023-04-27 |
-| [Somewhere Over The Rainbow](https://open.spotify.com/track/26o8OLSxA9CpGLXZEqwS0y) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Somewhere Over The Rainbow](https://open.spotify.com/album/27YuGP0WcZhOOkUchV5yaz) | 3:36 | 2023-03-23 |  |
+| [Somewhere Over The Rainbow](https://open.spotify.com/track/26o8OLSxA9CpGLXZEqwS0y) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Somewhere Over The Rainbow](https://open.spotify.com/album/27YuGP0WcZhOOkUchV5yaz) | 3:36 | 2023-03-23 | 2023-05-14 |
 | [Sort Of Sentimental](https://open.spotify.com/track/56Wvp4BvcVgAosMtz1dkuV) | [Luke Dunn](https://open.spotify.com/artist/6YgUGLXjlKPOLwjAH7homB) | [Sort Of Sentimental](https://open.spotify.com/album/5sPc2pe8CqCNaZzdyJThXO) | 3:05 | 2023-03-23 |  |
 | [Star Eyes](https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Star Eyes](https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I) | 3:40 | 2023-03-23 |  |
 | [Stardust](https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [Stardust](https://open.spotify.com/album/6gFHzsqCH6ZJvGxHHnFeRL) | 5:03 | 2023-03-23 |  |

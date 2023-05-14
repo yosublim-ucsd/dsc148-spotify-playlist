@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,961 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,086 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 38 | [Un Toque Mágico](https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 4:14 |
 | 39 | [Viajero](https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:14 |
 | 40 | [Muñequita Sintética](https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Muñequita Sintética](https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6) | 4:43 |
-| 41 | [Vaquero Rockanrolero](https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 4:16 |
-| 42 | [Barata y Descontó](https://open.spotify.com/track/0TaVjqxCBLG7p2dnwTYfti) | [Trolebús](https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3) | [En Sentido Contrario](https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx) | 2:37 |
+| 41 | [Barata y Descontó](https://open.spotify.com/track/0TaVjqxCBLG7p2dnwTYfti) | [Trolebús](https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3) | [En Sentido Contrario](https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx) | 2:37 |
+| 42 | [Vaquero Rockanrolero](https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 4:16 |
 | 43 | [Que Nos Paso](https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2) | [Leyenda Urbana](https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU) | [La Nueva Sangre del Rock, Vol\. 2](https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk) | 6:08 |
 | 44 | [Quien Te Cantara](https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 3:20 |
 | 45 | [La chica banda](https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 74 | [Srita Martinez Punk](https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Srita Martinez Punk](https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV) | 3:18 |
 | 75 | [Estacion Del Metro Balderas](https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:48 |
 
-Snapshot ID: `MCxlZTE1ZjFkYWY1MGUxNDQ5YTJlNmQwZmJjN2M1MzUwNDQyZmUzYWE4`
+Snapshot ID: `MCxjZGQ5MTI1NTY4YjEwZmYyZDNjNDc1MDZlMDc3ZGYwMGRhYThiMTky`

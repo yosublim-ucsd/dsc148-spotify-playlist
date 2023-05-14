@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,462 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,580 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 29 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 4:29 |
 | 30 | [Prefiero Partir](https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Yo Vendo Unos Ojos Verdes](https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ) | 3:17 |
 | 31 | [Dios Bendiga Nuestro Amor](https://open.spotify.com/track/2xU5EhojcovfkXYDS9Kq7k) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:09 |
-| 32 | [Recuerdos, Tristeza Y Soledad](https://open.spotify.com/track/4FjZvGHJpFLJIZxCpsoRnP) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:57 |
-| 33 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 |
+| 32 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 |
+| 33 | [Recuerdos, Tristeza Y Soledad](https://open.spotify.com/track/4FjZvGHJpFLJIZxCpsoRnP) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:57 |
 | 34 | [Se Va Muriendo Mi Alma \- En Vivo](https://open.spotify.com/track/4VinpEidS9wmMuqmljyd21) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6) | 3:51 |
 | 35 | [Como Tu Mujer \(feat\. Marco Antonio Solís\)](https://open.spotify.com/track/6X9lrXPPx925c4RpuCZ9GN) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:45 |
 | 36 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 48 | [Tu Cárcel](https://open.spotify.com/track/0WkrZsdHp8vkYvYzaytgNF) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Desde El Azteca \(En Vivo\)](https://open.spotify.com/album/1HxDN8Ws2vMplMUiYu6Kxb) | 3:38 |
 | 49 | [Sin Él](https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:34 |
 | 50 | [Más Que Tu Amigo](https://open.spotify.com/track/3kiUwC7AzDzGNYzy27QIhN) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:12 |
-| 51 | [Nada Que Me Recuerde A Ti](https://open.spotify.com/track/3TVwCVYDOFmEiwvvOC82Lw) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:53 |
-| 52 | [Nada Es Igual](https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:06 |
+| 51 | [Nada Es Igual](https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:06 |
+| 52 | [Nada Que Me Recuerde A Ti](https://open.spotify.com/track/3TVwCVYDOFmEiwvvOC82Lw) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:53 |
 | 53 | [Extrañándote](https://open.spotify.com/track/3HuC2KGfuam6XubxLwFYk9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:11 |
 | 54 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/7MaFKBLhW220azgglkJiws) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:33 |
 | 55 | [La Venia Bendita](https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Mis Dos Vicios](https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e) | 3:05 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 124 | [Te Amo Mamá](https://open.spotify.com/track/5cUeyXKmaqNctvDDo3cftd) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:45 |
 | 125 | [Necesito Una Compañera](https://open.spotify.com/track/3C774e6E4KmqSFHk1b4GNY) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:51 |
 
-Snapshot ID: `MCw4MzY3ZjkyM2NlYWE5YjNlMDI0ZjhmM2JiNGM3Y2EyMTQ2ZDRlMDc5`
+Snapshot ID: `MCwyNzhiNTdiMjNlYTMzYTAwNTNkODIyNDUyZDVlMzkxYmMzYzkyZDMz`

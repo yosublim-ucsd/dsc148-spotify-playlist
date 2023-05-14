@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,483 songs - 5 day 13 hr 52 min
+3,484 songs - 5 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Autumn Ride](https://open.spotify.com/track/1TOHw1SZwZWX08ktFUei9T) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Autumn Ride](https://open.spotify.com/album/0xFzw2ncYZYsBNd7Jyn33U) | 2:10 | 2022-10-13 |  |
 | [Autumn Sun](https://open.spotify.com/track/1L0hBjHsPmwT8vCEQYtAzi) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Autumn Sun](https://open.spotify.com/album/5Y9Hpikz6PSimYw57mrOkt) | 2:02 | 2021-10-16 | 2023-03-10 |
 | [Autumn Sunset](https://open.spotify.com/track/5XBtGG0bWou5Bd3WUW1YMv) | [Georgy Whistler](https://open.spotify.com/artist/3OglhORwydCOlEd2vqwoIe) | [EXPEDITion Vol\. 24: Time Flies](https://open.spotify.com/album/35JhNrVbRuERASMqL31UVz) | 1:43 | 2019-10-02 | 2020-03-18 |
+| [Ava](https://open.spotify.com/track/3Fa2LOckLbjsv8UIidDiPD) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Ava](https://open.spotify.com/album/3DpxmOQt95WC5hdA9Gj6sn) | 1:47 | 2023-05-11 |  |
 | [Avant qu’elle tombe](https://open.spotify.com/track/726IDnsJi1397uIeMUmEWj) | [Foksu](https://open.spotify.com/artist/7MFCKcbsE7VrPJOJIPSjWl), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Avant qu'elle tombe](https://open.spotify.com/album/1gnRzRlUgRzYipXawkPj84) | 2:15 | 2020-10-30 | 2021-05-21 |
 | [ave](https://open.spotify.com/track/5HhaAeZReuplSO2gpe4j2z) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [ave \| ōnsen](https://open.spotify.com/album/2yn90YWW1z9fc4r1vS2vKA) | 2:16 | 2020-02-22 | 2020-05-08 |
 | [Aviate](https://open.spotify.com/track/532CHPJ8XDomggcCqh9kyr) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Aviate](https://open.spotify.com/album/2aj5Rcvstgx3xt0CNviHE3) | 2:08 | 2022-04-21 | 2022-05-13 |
@@ -1891,7 +1892,7 @@
 | [Mirage](https://open.spotify.com/track/3aYQEKJvytz1b34QtQ6XH8) | [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Mirage](https://open.spotify.com/album/0p6FstpHZCKM2E7zyJmqz8) | 2:14 | 2022-09-22 | 2022-10-07 |
 | [Mirage](https://open.spotify.com/track/7xTxhDp6t1DjxBSpIgsdkK) | [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Mirage](https://open.spotify.com/album/34bsf0GTJ98Sw2N4QsVY5t) | 2:07 | 2022-12-08 | 2023-01-20 |
 | [Mirage](https://open.spotify.com/track/75lkVw6YrP9JhVqL02gAFN) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb) | [Calm Sea](https://open.spotify.com/album/0YyuU4cAxsuhb03KXhAfsH) | 1:46 | 2022-12-15 | 2023-01-20 |
-| [Miragos](https://open.spotify.com/track/0OuuMPX1iWOTR5TkHFwdAj) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Miragos](https://open.spotify.com/album/3PmnjwGCZpfUS6OOs8BjLI) | 1:34 | 2023-03-16 |  |
+| [Miragos](https://open.spotify.com/track/0OuuMPX1iWOTR5TkHFwdAj) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Miragos](https://open.spotify.com/album/3PmnjwGCZpfUS6OOs8BjLI) | 1:34 | 2023-03-16 | 2023-05-14 |
 | [Mirror Universe](https://open.spotify.com/track/1BqWKidiIXJCUBrZCuZKW2) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Mirror Universe](https://open.spotify.com/album/7u8bP4ULhdE0MxfaeLfXQe) | 2:36 | 2020-09-25 | 2020-12-04 |
 | [Miscellaneous](https://open.spotify.com/track/5hA8bjM7r4SyiNzngr2Edv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197), [Floris van der Vlugt](https://open.spotify.com/artist/2s0GB9h7qb9UAum2R2Z06O) | [Miscellaneous](https://open.spotify.com/album/08zV9UWheKMDLzLAqi1oIJ) | 3:22 | 2021-05-07 | 2021-07-23 |
 | [Miss Understood](https://open.spotify.com/track/3VtKZZGhJoMFRYqMdHritC) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo) | [Miss Understood](https://open.spotify.com/album/1rxnkmiOU7kNzjxXiUFzw5) | 1:40 | 2020-04-03 | 2020-05-29 |

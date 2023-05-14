@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,470 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,508 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 21 | [Trucutu](https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Chamaco Ramírez](https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx) | [Planté Bandera](https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae) | 5:02 |
 | 22 | [Catalina La O](https://open.spotify.com/track/3uOODK5GtGFNda7J8ty4VJ) | [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [Este Negro Si es Sabroso](https://open.spotify.com/album/4lo8dpD9ro4TeK7KnTYWqe) | 5:12 |
 | 23 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
-| 24 | [La negra Tomasa](https://open.spotify.com/track/4zCsjPyHGJz8Vx0luwq4M1) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Las Flores De La Vida](https://open.spotify.com/album/449c2Wce3Ldrr8lzI02hlD) | 3:58 |
-| 25 | [Zumbale](https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Creativo](https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq) | 5:05 |
+| 24 | [Zumbale](https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Creativo](https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq) | 5:05 |
+| 25 | [La negra Tomasa](https://open.spotify.com/track/4zCsjPyHGJz8Vx0luwq4M1) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Las Flores De La Vida](https://open.spotify.com/album/449c2Wce3Ldrr8lzI02hlD) | 3:58 |
 | 26 | [Estamos en Salsa](https://open.spotify.com/track/6nONybSopBGecWPK0pcvva) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Salsa del Conjunto Salsa](https://open.spotify.com/album/7oKUzawRV3aG7THNczUyT8) | 4:49 |
 | 27 | [Azuquita Pa'l Cafe](https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:09 |
 | 28 | [El Sol de la Noche](https://open.spotify.com/track/0PAf4n8jN2Jo6QXcqirRVq) | [Salsa Celtica](https://open.spotify.com/artist/1L4dh63UjFVKTCBZTmbPSZ) | [El Agua de la Vida](https://open.spotify.com/album/6qn0EfY7hr2skTfoRFXHR6) | 5:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 49 | [Que Bueno Baila Usted](https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [The Very Best Of Beny More Vol\. 1](https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq) | 3:14 |
 | 50 | [Como Mi Salsa Ninguna](https://open.spotify.com/track/2pGrvFiWSrqw2POyEEeFui) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda \(Golden Edition\)](https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V) | 6:21 |
 
-Snapshot ID: `MCxiOGNiMTA1NjhkYmNkMDlkOGUxZjBhNGFmNmFlZmRjYTg1ZjFiOGI5`
+Snapshot ID: `MCxkNjhiNWEyMTgxMjRlNGViNWRiYTBjMTRhYTg0NDM0YTliNWZmZjFh`

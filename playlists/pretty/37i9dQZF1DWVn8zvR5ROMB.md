@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Parker McCollum, Bailey Zimmerman, Jason Aldean and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,976 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,321 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 27 | [Work to Do](https://open.spotify.com/track/0qxPBhF5WZEKnJpgq4qJ18) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl) | [Work to Do](https://open.spotify.com/album/1lrPaoo2y2LGRQgLMnh2V6) | 2:54 |
 | 28 | [Can She Have This Dance](https://open.spotify.com/track/2XDVLkNnR2Dj6wbSxyHHWk) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Can She Have This Dance](https://open.spotify.com/album/4gflDbdi8nEatsCPW1hYGC) | 3:33 |
 | 29 | [Killing Me \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/3fAZ38PiyZaozDD6zZcNyN) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Killing Me \(feat\. Hillary Lindsey\)](https://open.spotify.com/album/0mzoK1Yw7i92QboRvlRcWo) | 2:47 |
-| 30 | [I Loved You First \- Duet Version](https://open.spotify.com/track/1GkhICrNN7kV8t08d8CUhu) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Emily Shackelton](https://open.spotify.com/artist/6YSnocpOKqq8ze6fiNCZFI) | [I Loved You First \(Duet Version\)](https://open.spotify.com/album/2xwokbDPp2ZadiwgfFcRUf) | 3:11 |
+| 30 | [I Loved You First \(Duet Version\)](https://open.spotify.com/track/1GkhICrNN7kV8t08d8CUhu) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Emily Shackelton](https://open.spotify.com/artist/6YSnocpOKqq8ze6fiNCZFI) | [I Loved You First \(Duet Version\)](https://open.spotify.com/album/2xwokbDPp2ZadiwgfFcRUf) | 3:11 |
 | 31 | [Northwest](https://open.spotify.com/track/26XedTngu1tjJkwoHqQiC1) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Northwest](https://open.spotify.com/album/7sfdAh5oRQDPknCjqS3Eqt) | 4:45 |
 | 32 | [Joni](https://open.spotify.com/track/5GYch53JMezyl8ZORYyZ7Q) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Joni](https://open.spotify.com/album/3VTwp6FSPcb8QH8wD8YXJz) | 2:40 |
 | 33 | [Pretty Little Poison \- Piano Version](https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Piano Version\)](https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb) | 3:36 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 48 | [Day One](https://open.spotify.com/track/2qY4h6W7cAncRVHPizrmhX) | [Garrett Hedlund](https://open.spotify.com/artist/2rIaXMzFroqNiyyTkayeWU) | [Day One](https://open.spotify.com/album/7g4ogc9SEbL0Op6e02rSfa) | 4:05 |
 | 49 | [Take Off](https://open.spotify.com/track/1KhJOoLDbOuL6yyhDszzqA) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Take Off](https://open.spotify.com/album/0diogpeOTG17IyygwU6bVQ) | 2:42 |
 | 50 | [More My Speed](https://open.spotify.com/track/0QKg1TYQcDI264iMbOyRIB) | [Jeb Gipson](https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF), [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [More My Speed](https://open.spotify.com/album/7wmmn49R5JTeOXfjZYiXkN) | 3:18 |
-| 51 | [FLA](https://open.spotify.com/track/3OfHJVlzplAfCYjLsYOIVO) | [Jake Hill](https://open.spotify.com/artist/1iMH0LR2jUeCOvBKFVE5QO) | [FLA](https://open.spotify.com/album/6HYSYFgaJvuFzZykNkjdqU) | 3:11 |
+| 51 | [FLA](https://open.spotify.com/track/3OfHJVlzplAfCYjLsYOIVO) | [Jake Hill](https://open.spotify.com/artist/1NEfcP4od6Yb4Z5FteOSDx) | [FLA](https://open.spotify.com/album/6HYSYFgaJvuFzZykNkjdqU) | 3:11 |
 | 52 | [Baby I Don't](https://open.spotify.com/track/3g4Ff970oH1Yg1DQ6rnIwI) | [Jon Wayne Hatfield](https://open.spotify.com/artist/5gzO6m2kswPvKeW2hGCTmp) | [Baby I Don't](https://open.spotify.com/album/4ZRwjkVkYd2Dnmf4rztHPW) | 3:40 |
 | 53 | [Ain't the Aisle](https://open.spotify.com/track/5UmcRnBxdwbztfHp7Cpr9i) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Ain't the Aisle](https://open.spotify.com/album/2o5p7MBN7OyRHE31xg30IQ) | 3:10 |
 | 54 | [Blessins'](https://open.spotify.com/track/1lO3UTzhP8LiSUv3LwRoay) | [Willie Shaw](https://open.spotify.com/artist/1WtJGNrnGxmw7osdorX4iM) | [Blessins'](https://open.spotify.com/album/6PMtek49TA5saoFvX5R1bZ) | 2:52 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 64 | [Ghosts](https://open.spotify.com/track/6kl2ONSR7ZcHmg9fiy9u0t) | [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [Ghosts](https://open.spotify.com/album/30lj4RWiSoyYQi2Hhngtb8) | 2:18 |
 | 65 | [What Keeps Me Going](https://open.spotify.com/track/2P5P5B4Q5rTIOkwTNvaDva) | [Boy Named Banjo](https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5) | [What Keeps Me Going](https://open.spotify.com/album/1D0IssGBfcKaPfIWa7uXQI) | 3:05 |
 | 66 | [You Can Share Mine](https://open.spotify.com/track/5XlQf86MZpyyeGAsOCed56) | [Andy Velo](https://open.spotify.com/artist/3qL2M363O7ogr4sKpxAVyR) | [You Can Share Mine](https://open.spotify.com/album/2e02W3zGIPrXE0B9QfqIPq) | 2:52 |
-| 67 | [Wait for Me](https://open.spotify.com/track/2guS6cPmecbcxRpnLWmRvN) | [Joel Nuñez](https://open.spotify.com/artist/0PmqmTnBDSaW4Ld41ojvK2), [Cecilia Kallin](https://open.spotify.com/artist/36we9Nvk05alC8v82ZP0Uf) | [Wait for Me](https://open.spotify.com/album/7wYxwON4NBionLJOGZfKxC) | 3:27 |
+| 67 | [Wait for Me](https://open.spotify.com/track/2guS6cPmecbcxRpnLWmRvN) | [Cecilia Kallin](https://open.spotify.com/artist/36we9Nvk05alC8v82ZP0Uf), [Joel Nuñez](https://open.spotify.com/artist/0PmqmTnBDSaW4Ld41ojvK2) | [Wait for Me](https://open.spotify.com/album/7wYxwON4NBionLJOGZfKxC) | 3:27 |
 | 68 | [She Is](https://open.spotify.com/track/3PKT7rO5E6e2uaNhDduD4D) | [Bryan Lanning](https://open.spotify.com/artist/4lBpdC0ZU9G6dm05V1XAq7) | [She Is](https://open.spotify.com/album/5iL9WF7V7Pak4HJ31XoHGS) | 3:30 |
 | 69 | [I Am My Mother](https://open.spotify.com/track/5mVfe3QFsoS5zyX4T2BVtW) | [Rebecca Lynn Howard](https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD) | [I Am My Mother](https://open.spotify.com/album/11KSdbWjkcNAT7WLJ6kttD) | 3:43 |
 | 70 | [One Tequila](https://open.spotify.com/track/0BtI8JxqMrjDIQnZvElo6O) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [One Tequila](https://open.spotify.com/album/6qYkhk99r0AsocACXjwNKG) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 74 | [Medals For Mothers](https://open.spotify.com/track/4G7vWcAoCZzjldPtXmyBmD) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [Medals For Mothers](https://open.spotify.com/album/45VghDmrR2mKGhxTJnELoE) | 2:45 |
 | 75 | [Taking It Home](https://open.spotify.com/track/6aCTLq9usgavp0SN0Db7SW) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [Taking It Home](https://open.spotify.com/album/3r1xaAbNVjQIjjmmBcGFO3) | 2:49 |
 
-Snapshot ID: `MCw0OTY0YTM2NzEzZGY4ZjE5MDM2MGJjY2EzMTk4ZTljMjUyOGY0MDI2`
+Snapshot ID: `MCw0MDI4ODEwNWU5NmY3YzhmZDExOWIyNDIyZjNhZjczNWU1NjM4MTUz`

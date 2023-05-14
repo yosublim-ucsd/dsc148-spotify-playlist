@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't Nothin' to It](https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:22 | 2022-11-22 |  |
-| [All About It](https://open.spotify.com/track/0j2e7Gu19gy0ZqIOQyN4xj) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:05 | 2022-07-29 |  |
+| [All About It](https://open.spotify.com/track/0j2e7Gu19gy0ZqIOQyN4xj) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:05 | 2022-07-29 | 2023-05-14 |
 | [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 | 2022-07-29 |  |
 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 | 2022-07-29 |  |
 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 | 2022-07-29 |  |
@@ -19,7 +19,7 @@
 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-11-22 | 2023-05-10 |
 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 | 2022-07-29 |  |
 | [Bluebird](https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:29 | 2022-07-29 |  |
-| [Break Down Here](https://open.spotify.com/track/1xsGrsVJwG9zel8pefzVeo) | [Julie Roberts](https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba) | [Julie Roberts](https://open.spotify.com/album/6KnZp9UWIWTP6XqANgXaTi) | 4:05 | 2022-11-22 | 2023-02-07 |
+| [Break Down Here](https://open.spotify.com/track/1xsGrsVJwG9zel8pefzVeo) | [Julie Roberts](https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba) | [Julie Roberts](https://open.spotify.com/album/6KnZp9UWIWTP6XqANgXaTi) | 4:05 | 2022-11-22 |  |
 | [Break Up in the End](https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [All of It](https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm) | 3:19 | 2022-11-22 |  |
 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 | 2022-10-07 |  |
 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 | 2022-07-29 |  |

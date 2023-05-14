@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Alfa Mist
 
-423 songs - 1 day 6 hr 41 min
+424 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [As You Are](https://open.spotify.com/track/4rCM8A21DZdVKhAYZHGTI8) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/6oS2nHFKjnGoctJBziOa9r) | 2:03 | 2021-12-17 | 2022-05-20 |
 | [Ascent](https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Ascent](https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0) | 4:40 | 2022-02-25 |  |
 | [At Least a Double Fold](https://open.spotify.com/track/5MXEtN3vIrRzZHjnR9FAkM) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI) | [At Least a Double Fold](https://open.spotify.com/album/7KvPRMY4Ds9Q4M0sl4vlZR) | 3:27 | 2022-02-11 | 2022-07-18 |
+| [Automaton](https://open.spotify.com/track/0Kc1jnf1LPo04Jc8hLADFt) | [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F), [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Automaton](https://open.spotify.com/album/6JLTZDZtdxDuSyIoFmgB6Y) | 4:15 | 2023-05-12 |  |
 | [avery](https://open.spotify.com/track/6eGEc1s8krSYpJdvyFR2TY) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [avery](https://open.spotify.com/album/0KgMudHwHfZcI2E9NFjHXK) | 2:30 | 2021-12-17 | 2022-07-29 |
 | [Awake Indigo](https://open.spotify.com/track/49NJZmQXQKBCK3ZHUP7Uaz) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz), [Ruby Wood](https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK) | [Strange Beauty](https://open.spotify.com/album/6B6gOrixifjbpJ8oLOIB6X) | 4:23 | 2022-02-04 | 2022-07-17 |
 | [Baba Ayoola](https://open.spotify.com/track/1i7ZyEf0avbFjIkeDwyp5O) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Baba Ayoola](https://open.spotify.com/album/1EYrFpVj3oXzZIVs0P6H4o) | 3:58 | 2021-12-17 | 2022-06-11 |
@@ -372,7 +373,7 @@
 | [The Park](https://open.spotify.com/track/1WBQYwqDL09Q9LtBdsZrqN) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [The Park](https://open.spotify.com/album/1pDGrfBR9rrK7bMJVroN1G) | 3:37 | 2021-12-17 | 2022-08-11 |
 | [The Rings Of Saturn](https://open.spotify.com/track/3dGGbUaSpTsA8grMpS8eRI) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow \(Deluxe\)](https://open.spotify.com/album/43qGIZWwRrL3wQLvNyLxQz) | 3:23 | 2023-03-08 | 2023-03-09 |
 | [The Rings Of Saturn](https://open.spotify.com/track/6TCxTdyXZPcB17kqpJQzFP) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow \(Deluxe\)](https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz) | 3:23 | 2022-07-21 | 2023-01-23 |
-| [The Spinner](https://open.spotify.com/track/6xcRnI7LJAONyd2kmk5564) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [The Spinner](https://open.spotify.com/album/50a5yWK8jin5JfcZRAHNeK) | 5:19 | 2023-03-06 |  |
+| [The Spinner](https://open.spotify.com/track/6xcRnI7LJAONyd2kmk5564) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [The Spinner](https://open.spotify.com/album/50a5yWK8jin5JfcZRAHNeK) | 5:19 | 2023-03-06 | 2023-05-14 |
 | [The Spiral](https://open.spotify.com/track/4IyMVcUla2fue99pJpCquG) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [The Spiral](https://open.spotify.com/album/3ef8me3Ggm0uj8zRRLxBiK) | 4:16 | 2021-12-17 | 2022-07-28 |
 | [The Spoon](https://open.spotify.com/track/0uv10KTgGsYAnC9m5io5D9) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Spoon](https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq) | 7:06 | 2022-09-23 |  |
 | [The Unknown \- Rework](https://open.spotify.com/track/45qxOEcnwOClF2dmMBArtQ) | [Rosie Turton](https://open.spotify.com/artist/5XhOg4JXERUGJbf6DQTPdT) | [Expansions and Transformations: Part I & II](https://open.spotify.com/album/7JoT3GXiPRsG63iZ5dYORS) | 6:53 | 2021-12-17 | 2022-07-26 |

@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "\u4e07\u6709\u5f15\u529b",
+        "url": "https://open.spotify.com/album/55cnNNhAHp5JQx3fV8XqnX"
+      },
+      "artists": [
+        {
+          "name": "F*yy",
+          "url": "https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243783,
+      "name": "\u4e07\u6709\u5f15\u529b",
+      "url": "https://open.spotify.com/track/7qZzCq7IxhKKZA4tIrYxxy"
+    },
+    {
+      "album": {
         "name": "\u4e0b\u55ae \u6211\u7684\u611b",
         "url": "https://open.spotify.com/album/5IBBztrknw86Nm3i6G3Lqr"
       },
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 186547,
       "name": "\u505a\u6211\u7684Baby",
       "url": "https://open.spotify.com/track/59fev4MSDxjJTwekSG6m5x"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Lil Durk, J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,938 likes - 84 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,962 likes - 84 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 83 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 |
 | 84 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 
-Snapshot ID: `MCw0MjA4OWYxNWNmOWZiNmU3ZGZhZDkwNDhjYjhmNDc2ZDg3NDk4ZGJm`
+Snapshot ID: `MCwxZjBkZGU0ZjBiYTk3OTA5MjUxMDdiYWM2MmM0YjlmMmY1YjU2Yjc3`

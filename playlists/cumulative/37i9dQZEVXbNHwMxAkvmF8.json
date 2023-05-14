@@ -4526,7 +4526,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 172774,
       "name": "Fiendul\u00f3",
       "url": "https://open.spotify.com/track/2R26Jx9XGyA7SODZ1Fr0of"
@@ -6094,7 +6094,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -13045,6 +13045,24 @@
     },
     {
       "album": {
+        "name": "Egyed\u00fcl a s\u00f6t\u00e9tben",
+        "url": "https://open.spotify.com/album/5r3kAKa7EP0BnAzIvQN3kt"
+      },
+      "artists": [
+        {
+          "name": "Follow The Flow",
+          "url": "https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158955,
+      "name": "Sz\u00e9lcsend",
+      "url": "https://open.spotify.com/track/2FLH8pUVYNRJIEZcwLyzYy"
+    },
+    {
+      "album": {
         "name": "Sz\u00e9lcsend",
         "url": "https://open.spotify.com/album/4fOnrlqiLpbN8QXxLAJBNP"
       },
@@ -13056,7 +13074,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 158955,
       "name": "Sz\u00e9lcsend",
       "url": "https://open.spotify.com/track/5kRKviUY95Ra2asUeqsGBX"

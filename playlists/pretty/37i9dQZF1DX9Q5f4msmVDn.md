@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,929 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,981 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 26 | [Ocean Views](https://open.spotify.com/track/1f0tj0IQ28OXq7hS0Rz0LH) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 3:50 |
 | 27 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 |
 | 28 | [Nothing Can Come Between Us](https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:22 |
-| 29 | [Switch It Up \(feat\. Koffee\)](https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 3:54 |
-| 30 | [Replace Me \(feat\. Big Sean & Don Toliver\)](https://open.spotify.com/track/1uJ5X7MrxTr21lG5ssm5fT) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King's Disease](https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi) | 2:50 |
+| 29 | [Replace Me \(feat\. Big Sean & Don Toliver\)](https://open.spotify.com/track/1uJ5X7MrxTr21lG5ssm5fT) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King's Disease](https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi) | 2:50 |
+| 30 | [Switch It Up \(feat\. Koffee\)](https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 3:54 |
 | 31 | [Sleepless Nights \(feat\. Phoelix\)](https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:59 |
 | 32 | [no sense](https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [no sense](https://open.spotify.com/album/43xK2HvPN2Tt8uKUiT93li) | 2:50 |
 | 33 | [Stars Align](https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 49 | [About That Time \(with G\-Eazy, P\-Lo & White Dave\)](https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:11 |
 | 50 | [Vibrate](https://open.spotify.com/track/6eGRWLRQtT7pX6iXPpFiYk) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:38 |
 
-Snapshot ID: `MCwyNTIwYWY4YTAyMWI2MTRhNmM2MTE5MGU2ZmFjODNkOTAyNDE3OTdl`
+Snapshot ID: `MCxmYjdlZGU3ODI4OWYwNDM2NDc1NWY0OTJlMWYyMDExODU3ZTgyNWMx`

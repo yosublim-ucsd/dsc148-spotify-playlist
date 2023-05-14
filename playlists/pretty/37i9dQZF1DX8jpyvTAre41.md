@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Thirty Seconds To Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,444 likes - 102 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,459 likes - 102 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 54 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 |
 | 55 | [Sunshine](https://open.spotify.com/track/1Q9j9J64lNWMJPuKP3Wd14) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:15 |
 | 56 | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 |
-| 57 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 |
+| 57 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
 | 58 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 |
 | 59 | [Picture of Love](https://open.spotify.com/track/4imN94HyDmR7yfjfVcABpi) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [Picture of Love](https://open.spotify.com/album/2rrC3GXk7y5jqSfoRVoRia) | 3:56 |
 | 60 | [Lose My Mind](https://open.spotify.com/track/4ynjpbhDHdIfp9BCdAVyJf) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Lose My Mind](https://open.spotify.com/album/2smSScm0nof8aR5qhof3la) | 3:49 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 101 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
 | 102 | [Waiting On The Sky To Change](https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa), [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Waiting On The Sky To Change](https://open.spotify.com/album/5y9BuOtk9gPseSVOJzBTFn) | 4:04 |
 
-Snapshot ID: `MCxkOTYyNDkyYzJjZGE4NTQzOWRlZmQzMjQxZjYwM2UwMWUwNmI0MmEz`
+Snapshot ID: `MCwyYzliOWRjZDI3ZWQ4MThkM2JlMTA0YWUwMWFkYWJmNGMzM2E4N2E0`

@@ -4,7 +4,7 @@
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-39 songs - 2 hr 41 min
+40 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-03-10 |  |
 | [Still Rolling Stones](https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:08 | 2023-03-10 |  |
 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-10 |  |
+| [To Know Me](https://open.spotify.com/track/6Vxz9qvJdej63DrR8othbd) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:31 | 2023-05-13 |  |
 | [Tremble](https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tremble](https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx) | 4:59 | 2023-03-10 |  |
 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 | 2023-03-10 |  |
 | [Tú Dices](https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 4:33 | 2023-03-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,556 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,558 likes - 55 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 50 | [La Morocha](https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Cronología \- La Estrella de Buenos Aires \(1968\)](https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2) | 2:35 |
 | 51 | [Muñeca Brava](https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Temas Pendientes](https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB) | 2:45 |
 | 52 | [Caserón de Tejas \(feat\. Jorge Calandrelli\)](https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Jorge Calandrelli](https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 4:10 |
-| 53 | [Mano a Mano](https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Puñal de Sombra](https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh) | 3:33 |
+| 53 | [Tal vez será su voz](https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Orquesta El Arranque](https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV) | [Tal Vez Será Su Voz](https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW) | 4:25 |
 | 54 | [O Mundo](https://open.spotify.com/track/5PcNboFYzIcbgOjNhSzMgX) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:09 |
 | 55 | [Nunca Tuvo Novio](https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu) | [Rita Cortese](https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3) | [El Amor Ese Loco Berretin](https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj) | 3:38 |
 
-Snapshot ID: `MCxiMjAxMWE3ZWI5ODY0NDM3OGM2Yzg2YWRkZmE1Y2MyM2FjMzE2YmZh`
+Snapshot ID: `MCxlYmM5ODk3Y2M3Zjg1OTIxNmUxODJlZGM3OTY5MzBhM2ViMzEyZTRj`

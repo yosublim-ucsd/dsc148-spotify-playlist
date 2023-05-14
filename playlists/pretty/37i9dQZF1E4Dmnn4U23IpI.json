@@ -1,12 +1,12 @@
 {
   "description": "With LeBrock, NINA, FM-84 and more",
-  "num_followers": 13669,
+  "num_followers": 13678,
   "original_name": "The Midnight Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MzY3NjgwMCwwMDAwMDAwMDY4MzNjMDY3YmJiN2ZiNjU1NDc5YWVhZGYwNzU3ODc1",
+  "snapshot_id": "MTY4Mzg0OTYwMCwwMDAwMDAwMGVmYzU3MTFlMGFlZTc2NmQxZjA3MjEyNmMzOGUzODI1",
   "tracks": [
     {
       "added_at": null,
@@ -83,42 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i"
-      },
-      "artists": [
-        {
-          "name": "Timecop1983",
-          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
-        },
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 293509,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/0TiZDNPU2t4STNJW4Qdj22"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days of Thunder",
-        "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 289897,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/2R3v2gnBITuIi5yfuEHMnQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Quiet Earth",
         "url": "https://open.spotify.com/album/09Rd5hfBdtOBIhLaRvm96M"
       },
@@ -131,6 +95,38 @@
       "duration_ms": 330826,
       "name": "The Quiet Earth",
       "url": "https://open.spotify.com/track/4V0rrbFdfzLbcV3WOYjXXa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/5gQ13Ix8QCTagOPUKPfDPn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/4S3jQEdof1oA2ONsd8ROS0"
+      },
+      "artists": [
+        {
+          "name": "LeBrock",
+          "url": "https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ"
+        }
+      ],
+      "duration_ms": 232846,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3lS99gJJAWuxKxQfXArvvx"
     },
     {
       "added_at": null,
@@ -151,6 +147,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs About People Including Myself (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6fobonORNgQ7qPTGdCOkEC"
+      },
+      "artists": [
+        {
+          "name": "The Bad Dreamers",
+          "url": "https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY"
+        }
+      ],
+      "duration_ms": 274219,
+      "name": "Who You Run To",
+      "url": "https://open.spotify.com/track/7gJyqHkm6sCcagFvyat3zC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thanks in Advance",
+        "url": "https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe"
+      },
+      "artists": [
+        {
+          "name": "Ollie Wride",
+          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
+        }
+      ],
+      "duration_ms": 287811,
+      "name": "Back to Life",
+      "url": "https://open.spotify.com/track/60emI1GBoT3BiY5QM3hapN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 317228,
+      "name": "Vampires",
+      "url": "https://open.spotify.com/track/1K0urJwRWgKsdufGEdkXP7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i"
+      },
+      "artists": [
+        {
+          "name": "Timecop1983",
+          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
+        },
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 293509,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/0TiZDNPU2t4STNJW4Qdj22"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shadowtask",
         "url": "https://open.spotify.com/album/1wads7lyvAA6Vp17adgQLt"
       },
@@ -167,18 +231,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thanks in Advance",
-        "url": "https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe"
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/1ONI4ijDuoBaWYnB9wvoJz"
       },
       "artists": [
         {
-          "name": "Ollie Wride",
-          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
+          "name": "Robert Parker",
+          "url": "https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD"
         }
       ],
-      "duration_ms": 234345,
-      "name": "Never Live Without You",
-      "url": "https://open.spotify.com/track/06Mu4dzNZDxsMkFK5iAmpe"
+      "duration_ms": 268000,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/5TQaymkHP3a998Ad8Cs3ps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/10XsGcPLT5yXbGQEpziLOR"
+      },
+      "artists": [
+        {
+          "name": "PRIZM",
+          "url": "https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2LpkqWPeXviNcZdWUMrmWz"
     },
     {
       "added_at": null,
@@ -195,6 +275,22 @@
       "duration_ms": 277335,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/0VzHwYlPuWHjyaq6HLB9UV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thanks in Advance",
+        "url": "https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe"
+      },
+      "artists": [
+        {
+          "name": "Ollie Wride",
+          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
+        }
+      ],
+      "duration_ms": 234345,
+      "name": "Never Live Without You",
+      "url": "https://open.spotify.com/track/06Mu4dzNZDxsMkFK5iAmpe"
     },
     {
       "added_at": null,
@@ -219,38 +315,138 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unknown Frequency (The Remixes)",
-        "url": "https://open.spotify.com/album/0v4ccGKmL6wAO1BdtaPxZg"
+        "name": "Shadowtask",
+        "url": "https://open.spotify.com/album/1wads7lyvAA6Vp17adgQLt"
       },
       "artists": [
         {
-          "name": "Lucy In Disguise",
-          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
-        },
-        {
-          "name": "Efence",
-          "url": "https://open.spotify.com/artist/3UQ87SmqkLxIMdenYnsLld"
+          "name": "PYLOT",
+          "url": "https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0"
         }
       ],
-      "duration_ms": 202758,
-      "name": "Skylights (Efence Remix)",
-      "url": "https://open.spotify.com/track/4IrCbKdrdJFhYFuJRZ3LDu"
+      "duration_ms": 307636,
+      "name": "Clova",
+      "url": "https://open.spotify.com/track/4PMvz59agGmNdBTtzuBAQ7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "CRT Days",
-        "url": "https://open.spotify.com/album/2Jj0uMFVjXFf3qfrfFpLDk"
+        "name": "Fuse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MEvuLXzDAeE7xbA2bYjkP"
       },
       "artists": [
         {
-          "name": "Waveshaper",
-          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
+          "name": "LeBrock",
+          "url": "https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ"
         }
       ],
-      "duration_ms": 231000,
-      "name": "CRT Days",
-      "url": "https://open.spotify.com/track/4Svx0pOTJg9VVwkp8qX6Tr"
+      "duration_ms": 253448,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/1bIQXObn7Mra0f7cp63GtQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 349706,
+      "name": "America Online",
+      "url": "https://open.spotify.com/track/1BU1WTFvnrXpgooJRMlWiW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/10XsGcPLT5yXbGQEpziLOR"
+      },
+      "artists": [
+        {
+          "name": "PRIZM",
+          "url": "https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "We Were Young",
+      "url": "https://open.spotify.com/track/0WkVBNfptu21IW0ubJZLLY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thanks in Advance",
+        "url": "https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe"
+      },
+      "artists": [
+        {
+          "name": "Ollie Wride",
+          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
+        },
+        {
+          "name": "The Night Hour",
+          "url": "https://open.spotify.com/artist/1gmZS91715o8IEx65UQBtt"
+        }
+      ],
+      "duration_ms": 246085,
+      "name": "The Driver",
+      "url": "https://open.spotify.com/track/7sOcTBKCHGjgBHsQ8P3f1h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is This Love",
+        "url": "https://open.spotify.com/album/4M178TsmmIbvOeQSFttD51"
+      },
+      "artists": [
+        {
+          "name": "Particle House",
+          "url": "https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS"
+        },
+        {
+          "name": "Le June",
+          "url": "https://open.spotify.com/artist/7j1lSJOJQBRw80bRit36Fs"
+        }
+      ],
+      "duration_ms": 240156,
+      "name": "Just like in the Movies",
+      "url": "https://open.spotify.com/track/4cxARXW6OJGdb6wQTDd5Nm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Race Against Time",
+        "url": "https://open.spotify.com/album/5fMtNDdNeHBeAigUNYKmbS"
+      },
+      "artists": [
+        {
+          "name": "PYLOT",
+          "url": "https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0"
+        }
+      ],
+      "duration_ms": 246275,
+      "name": "A Race Against Time",
+      "url": "https://open.spotify.com/track/4J82fYpTaNU1G4kmtws3pw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/42sLDZoNRGO3YnTgpAbk9o"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 387857,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/61QO7Fn6yFM6Ek3TFO6C0O"
     },
     {
       "added_at": null,
@@ -275,70 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/42sLDZoNRGO3YnTgpAbk9o"
+        "name": "Starcrash",
+        "url": "https://open.spotify.com/album/317tn0rmvrIfQOYemUNRM5"
       },
       "artists": [
         {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 387857,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/61QO7Fn6yFM6Ek3TFO6C0O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thanks in Advance",
-        "url": "https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe"
-      },
-      "artists": [
-        {
-          "name": "Ollie Wride",
-          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
-        }
-      ],
-      "duration_ms": 287811,
-      "name": "Back to Life",
-      "url": "https://open.spotify.com/track/60emI1GBoT3BiY5QM3hapN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In One Minute",
-        "url": "https://open.spotify.com/album/7owRvRFMrOKAKC2fOuxN73"
-      },
-      "artists": [
-        {
-          "name": "Freeweights",
-          "url": "https://open.spotify.com/artist/1gYdjzLQVIKiyEzE1Ku5MQ"
-        }
-      ],
-      "duration_ms": 178010,
-      "name": "In One Minute",
-      "url": "https://open.spotify.com/track/1aVSoKVHexka7uI1AOmddi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunset Radio",
-        "url": "https://open.spotify.com/album/1F8bdfCOwq7obiDlaoXgv7"
-      },
-      "artists": [
-        {
-          "name": "Lucy In Disguise",
-          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
+          "name": "Stilz",
+          "url": "https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ"
         },
         {
-          "name": "Observer Drift",
-          "url": "https://open.spotify.com/artist/6ouFS85JDWqD452ZMGzzx0"
+          "name": "The Encounter",
+          "url": "https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g"
         }
       ],
-      "duration_ms": 322809,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/6EYrr5PnHzsUVXPd74sy6u"
+      "duration_ms": 244500,
+      "name": "Test Pilot",
+      "url": "https://open.spotify.com/track/03RyqN0APr814lnjzziKtT"
     },
     {
       "added_at": null,
@@ -367,8 +515,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW"
+        "name": "195",
+        "url": "https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC"
+      },
+      "artists": [
+        {
+          "name": "OGRE Sound",
+          "url": "https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj"
+        }
+      ],
+      "duration_ms": 148285,
+      "name": "Negotiation's Over",
+      "url": "https://open.spotify.com/track/19Oy2pBYfpz7OhraQQgUn8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days of Thunder",
+        "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
       },
       "artists": [
         {
@@ -376,109 +540,41 @@
           "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
         }
       ],
-      "duration_ms": 237680,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/5gQ13Ix8QCTagOPUKPfDPn"
+      "duration_ms": 289897,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/2R3v2gnBITuIi5yfuEHMnQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Unstable",
-        "url": "https://open.spotify.com/album/0RTR4xxBltSYLonGGzZ6Y0"
+        "name": "Dark All Day",
+        "url": "https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm"
       },
       "artists": [
         {
-          "name": "Absinth3",
-          "url": "https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm"
+          "name": "Gunship",
+          "url": "https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS"
         }
       ],
-      "duration_ms": 268403,
-      "name": "Wanting More",
-      "url": "https://open.spotify.com/track/5aAEK6raY3K0S02HeKtCsO"
+      "duration_ms": 349506,
+      "name": "When You Grow Up, Your Heart Dies",
+      "url": "https://open.spotify.com/track/0d3O2HCMzSblmSsWd9Lgh2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Thanks in Advance",
-        "url": "https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe"
+        "name": "Digital Memories :: Analog Emotions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Tn0U3lIgjvBJPurMikbI7"
       },
       "artists": [
         {
-          "name": "Ollie Wride",
-          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
-        },
-        {
-          "name": "The Night Hour",
-          "url": "https://open.spotify.com/artist/1gmZS91715o8IEx65UQBtt"
+          "name": "Ace Marino",
+          "url": "https://open.spotify.com/artist/3nbnvRGvveekypJ0FJ3RPb"
         }
       ],
-      "duration_ms": 246085,
-      "name": "The Driver",
-      "url": "https://open.spotify.com/track/7sOcTBKCHGjgBHsQ8P3f1h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/1ONI4ijDuoBaWYnB9wvoJz"
-      },
-      "artists": [
-        {
-          "name": "Robert Parker",
-          "url": "https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/5TQaymkHP3a998Ad8Cs3ps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1987 EP",
-        "url": "https://open.spotify.com/album/3UDVuWPt71dyZxu1eAUDSI"
-      },
-      "artists": [
-        {
-          "name": "Lucy In Disguise",
-          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
-        }
-      ],
-      "duration_ms": 278909,
-      "name": "1987",
-      "url": "https://open.spotify.com/track/580CcfTxe8eNCcXlTizmPr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 317228,
-      "name": "Vampires",
-      "url": "https://open.spotify.com/track/1K0urJwRWgKsdufGEdkXP7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Close Call",
-        "url": "https://open.spotify.com/album/0F4ZV7XY3pk6lAm8BqzSKb"
-      },
-      "artists": [
-        {
-          "name": "Freeweights",
-          "url": "https://open.spotify.com/artist/1gYdjzLQVIKiyEzE1Ku5MQ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Close Call",
-      "url": "https://open.spotify.com/track/60pRJgItSKirsKDkXZpZnH"
+      "duration_ms": 186870,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4PqmwtVKncqMsVRm0I3ku4"
     },
     {
       "added_at": null,
@@ -503,114 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juliette",
-        "url": "https://open.spotify.com/album/5VaCnUX81FIABubwY9Zu4z"
+        "name": "In One Minute",
+        "url": "https://open.spotify.com/album/7owRvRFMrOKAKC2fOuxN73"
       },
       "artists": [
         {
-          "name": "Ollie Wride",
-          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
+          "name": "Freeweights",
+          "url": "https://open.spotify.com/artist/1gYdjzLQVIKiyEzE1Ku5MQ"
         }
       ],
-      "duration_ms": 251329,
-      "name": "Juliette",
-      "url": "https://open.spotify.com/track/3Qaq3lUUawG3MEWvRcNBcx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Space and Time (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV"
-      },
-      "artists": [
-        {
-          "name": "The Bad Dreamers",
-          "url": "https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY"
-        }
-      ],
-      "duration_ms": 230958,
-      "name": "Romantic Comedy",
-      "url": "https://open.spotify.com/track/1AwEBc3HpEWWkPFqUT4DEk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days of Thunder",
-        "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 324018,
-      "name": "Days of Thunder",
-      "url": "https://open.spotify.com/track/6tJPdGKrbAeyhkkhn44RHR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Endless Echoes",
-        "url": "https://open.spotify.com/album/12WsSAb9sFtIPBhioFofv2"
-      },
-      "artists": [
-        {
-          "name": "Lucy In Disguise",
-          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
-        }
-      ],
-      "duration_ms": 300695,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/5jAC1CFdCLUJdcsovf49TR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/74lNj3qYmgDJA8Qb3rwu3P"
-      },
-      "artists": [
-        {
-          "name": "LAU",
-          "url": "https://open.spotify.com/artist/3i1ZPTMkrfR7cAHBY77Bz4"
-        }
-      ],
-      "duration_ms": 199058,
-      "name": "Stunning",
-      "url": "https://open.spotify.com/track/4Er3sEJvGFGUhkLHG74qXQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa"
-      },
-      "artists": [
-        {
-          "name": "Fantom '87",
-          "url": "https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU"
-        }
-      ],
-      "duration_ms": 353407,
-      "name": "Pay Phone",
-      "url": "https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Matter Of Time",
-        "url": "https://open.spotify.com/album/1VLJJpSWl7ZLMRqpcsxIwX"
-      },
-      "artists": [
-        {
-          "name": "Ollie Wride",
-          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
-        }
-      ],
-      "duration_ms": 233573,
-      "name": "A Matter Of Time",
-      "url": "https://open.spotify.com/track/7lvYsXyjNrZu0DtFKqPrjF"
+      "duration_ms": 178010,
+      "name": "In One Minute",
+      "url": "https://open.spotify.com/track/1aVSoKVHexka7uI1AOmddi"
     },
     {
       "added_at": null,
@@ -631,18 +631,138 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark All Day",
-        "url": "https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm"
+        "name": "Brothertiger",
+        "url": "https://open.spotify.com/album/36CCiKV6FbK1BJQLvOWlC7"
       },
       "artists": [
         {
-          "name": "Gunship",
-          "url": "https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS"
+          "name": "Brothertiger",
+          "url": "https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE"
         }
       ],
-      "duration_ms": 349506,
-      "name": "When You Grow Up, Your Heart Dies",
-      "url": "https://open.spotify.com/track/0d3O2HCMzSblmSsWd9Lgh2"
+      "duration_ms": 250000,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/3Np5rg7SyuD0PTEFEfpsPW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shapes and Outlines (Remixes)",
+        "url": "https://open.spotify.com/album/7zMH0i8ixbneGnBn285ocn"
+      },
+      "artists": [
+        {
+          "name": "Scavenger Hunt",
+          "url": "https://open.spotify.com/artist/2CJw5Z0VmlBMrS1J1dtG9Z"
+        },
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Never Enough (The Midnight Remix) [feat. the Midnight]",
+      "url": "https://open.spotify.com/track/5TC6bJRlkK0CGRhmaTKZ8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unstable",
+        "url": "https://open.spotify.com/album/0RTR4xxBltSYLonGGzZ6Y0"
+      },
+      "artists": [
+        {
+          "name": "Absinth3",
+          "url": "https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm"
+        }
+      ],
+      "duration_ms": 268403,
+      "name": "Wanting More",
+      "url": "https://open.spotify.com/track/5aAEK6raY3K0S02HeKtCsO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taste the Sun",
+        "url": "https://open.spotify.com/album/0duasxfw9iCguNGISdvHOm"
+      },
+      "artists": [
+        {
+          "name": "Particle House",
+          "url": "https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS"
+        }
+      ],
+      "duration_ms": 260487,
+      "name": "Infected Ground",
+      "url": "https://open.spotify.com/track/4sADbB9j35ZI8uian7vJ61"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days of Thunder",
+        "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 389094,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/4S3jQEdof1oA2ONsd8ROS0"
+      },
+      "artists": [
+        {
+          "name": "LeBrock",
+          "url": "https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ"
+        }
+      ],
+      "duration_ms": 305500,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/7E8P2emV16uBuPzaWPL1YI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milky Way Express",
+        "url": "https://open.spotify.com/album/5Et4o0MOvjifA92obrENOL"
+      },
+      "artists": [
+        {
+          "name": "Lupus Nocte",
+          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Sunset Dew",
+      "url": "https://open.spotify.com/track/4OGavbk2qtr9k464TwfFK6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44\u00b0 North, 63\u00b0 West",
+        "url": "https://open.spotify.com/album/4BFScvoTmsWBFBPgVSADbZ"
+      },
+      "artists": [
+        {
+          "name": "Dezza",
+          "url": "https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "My Breath",
+      "url": "https://open.spotify.com/track/4TRIU5zQl9EwTi94K5E54R"
     },
     {
       "added_at": null,
@@ -671,42 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i"
-      },
-      "artists": [
-        {
-          "name": "Timecop1983",
-          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
-        },
-        {
-          "name": "The Bad Dreamers",
-          "url": "https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY"
-        }
-      ],
-      "duration_ms": 268049,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/0Vj2je2PLl1TU78DAMArat"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echoes In Time",
-        "url": "https://open.spotify.com/album/7thv8ii3dR0mmvLFcmvu77"
-      },
-      "artists": [
-        {
-          "name": "Lucy In Disguise",
-          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
-        }
-      ],
-      "duration_ms": 313326,
-      "name": "Echoes In Time",
-      "url": "https://open.spotify.com/track/3GrvlmYvl4yO05W2XfL3Ww"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neon Medusa",
         "url": "https://open.spotify.com/album/33L3Re3mh0BdCV6vlSMPzf"
       },
@@ -723,18 +807,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taste the Sun",
-        "url": "https://open.spotify.com/album/0duasxfw9iCguNGISdvHOm"
+        "name": "Police Heartbreaker",
+        "url": "https://open.spotify.com/album/01mkMMyGns25JZqy5AbUCP"
       },
       "artists": [
         {
-          "name": "Particle House",
-          "url": "https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS"
+          "name": "Absolute Valentine",
+          "url": "https://open.spotify.com/artist/0ntJWEv4bwPUp16SabEbKM"
         }
       ],
-      "duration_ms": 260487,
-      "name": "Infected Ground",
-      "url": "https://open.spotify.com/track/4sADbB9j35ZI8uian7vJ61"
+      "duration_ms": 238709,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/7DAk5oLyfCSSQMazwbHzzM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceans Away (The Remixes)",
+        "url": "https://open.spotify.com/album/3690nbTudIa2mLmExkD3zy"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        },
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 306682,
+      "name": "Oceans Away - The Midnight Remix",
+      "url": "https://open.spotify.com/track/63IB1OZnGXbpfSBF9M8o9Z"
     },
     {
       "added_at": null,
@@ -746,127 +850,31 @@
         {
           "name": "Gunship",
           "url": "https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS"
-        }
-      ],
-      "duration_ms": 281080,
-      "name": "The Drone Racing League",
-      "url": "https://open.spotify.com/track/3TjBuYxZqsO5jirM0rujRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Missing Out (The Midnight Remix)",
-        "url": "https://open.spotify.com/album/6IFWZUq3vxaI3uHpcGmbvW"
-      },
-      "artists": [
-        {
-          "name": "The Ivy",
-          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
         },
         {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+          "name": "Stella Le Page",
+          "url": "https://open.spotify.com/artist/6VzpJprdrDY9NCo9psNyQr"
         }
       ],
-      "duration_ms": 209102,
-      "name": "Missing Out - The Midnight Remix",
-      "url": "https://open.spotify.com/track/0vhaMhozCr9SKpqRvEltsX"
+      "duration_ms": 292186,
+      "name": "Art3mis & Parzival",
+      "url": "https://open.spotify.com/track/3UwWu3k4ppm1vQxLuSIr0H"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Howling",
-        "url": "https://open.spotify.com/album/0n2FkSgH0qGfrkGGVSWxsh"
+        "name": "When Worlds Collide",
+        "url": "https://open.spotify.com/album/2qLTwcS85LwrTvIGcK64WR"
       },
       "artists": [
         {
-          "name": "Lupus Nocte",
-          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
+          "name": "Thomas Barrandon",
+          "url": "https://open.spotify.com/artist/5HaHjEOMBZBDiMXP7Wz1Zr"
         }
       ],
-      "duration_ms": 158375,
-      "name": "Midnight Safari",
-      "url": "https://open.spotify.com/track/6e8boYgG5ZUhfvbnKrFrF1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 302266,
-      "name": "Prom Night",
-      "url": "https://open.spotify.com/track/5pOuutOhdUKIR9eruBTLD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/10XsGcPLT5yXbGQEpziLOR"
-      },
-      "artists": [
-        {
-          "name": "PRIZM",
-          "url": "https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Can't Go Back",
-      "url": "https://open.spotify.com/track/1Qa7UpG3l3RyYIUhgcopQW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Valencia",
-        "url": "https://open.spotify.com/album/79uUoahUYyMzENlGrn52BF"
-      },
-      "artists": [
-        {
-          "name": "Absinth3",
-          "url": "https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm"
-        }
-      ],
-      "duration_ms": 248514,
-      "name": "Valencia",
-      "url": "https://open.spotify.com/track/36OfwxAHSUc4s465llJylE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drive-by Stalking",
-        "url": "https://open.spotify.com/album/2uM7nC8LLABOWiami4Ipw9"
-      },
-      "artists": [
-        {
-          "name": "Nightstop",
-          "url": "https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij"
-        }
-      ],
-      "duration_ms": 320432,
-      "name": "Drive-by Stalking",
-      "url": "https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brothertiger",
-        "url": "https://open.spotify.com/album/36CCiKV6FbK1BJQLvOWlC7"
-      },
-      "artists": [
-        {
-          "name": "Brothertiger",
-          "url": "https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/3Np5rg7SyuD0PTEFEfpsPW"
+      "duration_ms": 196625,
+      "name": "Fragment",
+      "url": "https://open.spotify.com/track/5lviWOlXasUxmJ2TkP3Y6l"
     }
   ],
   "unique_name": "The Midnight Radio",

@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
 
-438 songs - 23 hr 14 min
+439 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [God Is Love \(feat\. Estee Nack, Stove God Cooks & Keisha Plum\)](https://open.spotify.com/track/1YB6cwZZEQzH0mpuPpPP9h) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Keisha Plum](https://open.spotify.com/artist/4J55gzoHd6d6Wymxoz7qck) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 5:21 | 2022-10-28 | 2022-12-16 |
 | [God Is Perfect](https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 3:59 | 2021-09-03 | 2022-10-01 |
 | [God's Bathroom Floor](https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J) | [God's Bathroom Floor](https://open.spotify.com/album/64Z4NTJZWPJFh2PzeDuwsL) | 3:58 | 2021-09-03 | 2022-07-18 |
-| [Gold Rings \(feat\. Pusha T\)](https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:42 | 2022-09-30 |  |
+| [Gold Rings \(feat\. Pusha T\)](https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:42 | 2022-09-30 | 2023-05-14 |
 | [Golden Eye](https://open.spotify.com/track/7AHZDaJM22hkQZ0xSOFsrT) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Golden Eye](https://open.spotify.com/album/2WjzdNogZj7xnPhweKEHzD) | 2:47 | 2021-09-03 | 2022-07-27 |
 | [Good Morning \(feat\. Pusha T, Swizz Beatz & Killer Mike\)](https://open.spotify.com/track/7evTceKtCaBbxoLIqICIVh) | [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Good Morning](https://open.spotify.com/album/4j4HCie37pZHJ0YtqKSHti) | 3:10 | 2021-09-03 | 2022-05-29 |
 | [Good Wine](https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Good Wine](https://open.spotify.com/album/6898YVDudEoCou54LQrbrd) | 2:06 | 2022-10-21 | 2023-05-08 |
@@ -324,6 +324,7 @@
 | [Real Ones](https://open.spotify.com/track/364iH9PRTLwG7Lvr3MqPpa) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Real Ones](https://open.spotify.com/album/68H6LwUmQnUtRxVitstmt4) | 3:48 | 2023-02-24 |  |
 | [Real Rap \(with Benny The Butcher\)](https://open.spotify.com/track/5hdA7lwFFxba4XU32OMmmL) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 3:13 | 2022-10-07 | 2022-10-22 |
 | [Red Lobster Biscuits](https://open.spotify.com/track/7JcUYHmxHM6H9kjHOcTxuW) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [Red Lobster Biscuits](https://open.spotify.com/album/0nsjXVsIaE6dwUexKHDLjW) | 2:42 | 2021-09-03 | 2022-07-16 |
+| [Reflection](https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:12 | 2023-05-12 |  |
 | [Revolution](https://open.spotify.com/track/4RA1FD9a8WtyE4XTm08C4U) | [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Revolution](https://open.spotify.com/album/6AqHt9nnKhDCC9vcTTCQtV) | 3:33 | 2021-09-03 | 2022-01-06 |
 | [Rey Mysterio](https://open.spotify.com/track/7m2dMjululJjv4pRnOIDWv) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [Rey Mysterio](https://open.spotify.com/album/0rOD4NWGXKxBpChErOkvXS) | 2:18 | 2021-09-03 | 2022-05-17 |
 | [Rich Nigga Problems](https://open.spotify.com/track/3EwSEyZNGySU5H0Ve1QIWQ) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Judas and the Black Messiah: The Inspired Album](https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz) | 3:37 | 2021-09-03 | 2022-02-26 |

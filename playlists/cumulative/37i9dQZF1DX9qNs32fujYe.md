@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: DevilDriver
 
-721 songs - 2 day 5 hr 39 min
+722 songs - 2 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,7 +539,7 @@
 | [Slayer of Kings](https://open.spotify.com/track/0qoznAGKZOBgne7MiycPPc) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Slayer of Kings](https://open.spotify.com/album/692ScTjOsP51VwCcJtbs9S) | 5:03 | 2021-12-29 | 2022-07-18 |
 | [SLEEPS SOCIETY](https://open.spotify.com/track/1y8k3vis3WkBOVq0fL4GJF) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY](https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1) | 3:19 | 2022-07-13 | 2023-05-05 |
 | [Slowly We Rot](https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Slowly We Rot \(Reissue\)](https://open.spotify.com/album/7H5MWoD8M6dEQoSj3SMHP7) | 3:38 | 2022-09-02 | 2023-02-11 |
-| [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 | 2022-12-16 |  |
+| [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 | 2022-12-16 | 2023-05-14 |
 | [Smoke Signals](https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Smoke Signals](https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv) | 3:34 | 2022-07-13 | 2022-10-17 |
 | [Snake Eyes](https://open.spotify.com/track/1i9JhqoNK9JVPkXwGxQR4m) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Snake Eyes](https://open.spotify.com/album/7vrpqWml8U2goskFO0AX7R) | 3:05 | 2022-01-14 | 2022-07-29 |
 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 | 2022-08-19 |  |
@@ -687,6 +687,7 @@
 | [We Are the Fire](https://open.spotify.com/track/04I8CtevYCYmQeTrre9CZC) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [We Are the Fire](https://open.spotify.com/album/0mtaaHGtukgLeUHa41VDGy) | 3:35 | 2021-12-17 | 2022-07-29 |
 | [We Are What We Are](https://open.spotify.com/track/7xgeLOrFheKF2yPqiLmjU8) | [Lion's Share](https://open.spotify.com/artist/4yIytMmJ2tx30YdMAMkDSo) | [We Are What We Are](https://open.spotify.com/album/6TE3LXZkzsAHDPuTo8YRww) | 4:12 | 2021-12-17 | 2022-05-25 |
 | [We Drink Your Blood](https://open.spotify.com/track/3pWvRhml43vlUrGYlIzLM6) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 3:42 | 2022-08-19 | 2023-03-11 |
+| [We Love You](https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [We Love You](https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC) | 6:15 | 2023-05-12 |  |
 | [We Stand Alone](https://open.spotify.com/track/4lNksX77bs7kU9qNMjUvzP) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Angelus Apatrida](https://open.spotify.com/album/5XuLS24vdrxouiBERuXTbr) | 4:11 | 2021-12-29 | 2022-07-23 |
 | [We Stand as One](https://open.spotify.com/track/3L8Bjiv40wAcxxmRrXUOwq) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [The Witch of the North](https://open.spotify.com/album/1P6qVXbuLcqJrVZpwoPGkX) | 5:11 | 2021-12-17 | 2022-07-27 |
 | [We Will Rise](https://open.spotify.com/track/4DqG8CRMKIVHQ8SonkH6eH) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [We Will Rise](https://open.spotify.com/album/0M79v9JpirSe4epQpkL5xC) | 3:24 | 2021-12-17 | 2022-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 
 > Classic rock favorites\. Cover: Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,109 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,467 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 | 49 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
 | 50 | [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 |
 
-Snapshot ID: `MCxlOTA0ZDZjZjM5MzcyYzQ4YjFkYWY3ZWVlNDc1MjE2ODBhYjQ0ZWZh`
+Snapshot ID: `MCxlMTExNDc2MmQ2YzMyZTJlZWYwNjBhM2VhN2VjMWVlN2RhZTI3NDlk`

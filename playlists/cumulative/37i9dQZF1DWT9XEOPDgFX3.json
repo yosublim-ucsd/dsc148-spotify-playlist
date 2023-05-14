@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "Blouse - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW"
       },
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 192520,
       "name": "Graves",
       "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
@@ -3925,6 +3943,24 @@
     },
     {
       "album": {
+        "name": "Own",
+        "url": "https://open.spotify.com/album/4XC9aKl4vpKP9vSZcyt1MV"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299033,
+      "name": "Own",
+      "url": "https://open.spotify.com/track/3p7pOrxCAt2obpQ7WNa0VM"
+    },
+    {
+      "album": {
         "name": "Two Saviors",
         "url": "https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh"
       },
@@ -4332,7 +4368,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"

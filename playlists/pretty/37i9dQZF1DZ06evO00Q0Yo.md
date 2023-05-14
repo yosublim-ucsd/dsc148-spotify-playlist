@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,397 likes - 47 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,407 likes - 47 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 |
+| 1 | [Rodeo \(feat\. Flo Milli\) \- A7S Remix](https://open.spotify.com/track/2mcTeFUWMOdG9AFsHt7jbJ) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Rodeo \(feat\. Flo Milli\) \[A7S Remix\]](https://open.spotify.com/album/0z2jhJxFjWF52qtWS1ZJmW) | 3:15 |
 | 2 | [Conceited](https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:26 |
 | 3 | [In The Party](https://open.spotify.com/track/52BJrldggFQyTiW8XrILhO) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:17 |
 | 4 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 46 | [Blast Off \(feat\. Akbar V\) \- from the "Bruised" Soundtrack](https://open.spotify.com/track/5eNCui74eGe5ARFIMDwPFt) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W), [Akbar V](https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw) | [Blast Off \(feat\. Akbar V\) \[from the "Bruised" Soundtrack\]](https://open.spotify.com/album/4LBjRiMnSo48P1wxUKHbqY) | 2:45 |
 | 47 | [Good](https://open.spotify.com/track/5wwF03ucQEDL2JO6aAUCSi) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Bleu Vandross 3](https://open.spotify.com/album/5gNVVayf3ReHePkP9HeDgz) | 2:42 |
 
-Snapshot ID: `MjgwNjQ5MDgsMDAwMDAwMDA4NjllOWQ4NmU3NTBjZjM3MzY4N2NlM2Y0YmJhYzM0ZQ==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDBjMjg4NDI0NWI4NzZhMDE3Yjc3YzNjOTQyYjAwZjZhYQ==`

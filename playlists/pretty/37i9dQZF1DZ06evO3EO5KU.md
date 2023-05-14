@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,132 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,202 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 31 | [Vida Truncada](https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:37 |
 | 32 | [Bien Guerrero \- En Vivo](https://open.spotify.com/track/7aziBsfabYtlNX5XPadsmc) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Bien Guerrero \(En Vivo\)](https://open.spotify.com/album/4HpzGThC6vKZyF6oa8b9JF) | 3:36 |
 | 33 | [Alguien Como Tú](https://open.spotify.com/track/4RsRVpG6hmp5tlj2piiPrC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/7ikXM5hxBvLHdPcmAZr7c8) | 3:21 |
-| 34 | [No Comprendo](https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:29 |
-| 35 | [Amarga Derrota](https://open.spotify.com/track/03qGhUmoAIf2YlCVMVOEul) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Amarga Derrota](https://open.spotify.com/album/6Fn2u2al4xODTRWIkwS5Gb) | 3:27 |
+| 34 | [Amarga Derrota](https://open.spotify.com/track/03qGhUmoAIf2YlCVMVOEul) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Amarga Derrota](https://open.spotify.com/album/6Fn2u2al4xODTRWIkwS5Gb) | 3:27 |
+| 35 | [No Comprendo](https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:29 |
 | 36 | [Tres Botellas](https://open.spotify.com/track/01UgSQkOsZH7fnBhgqjOaN) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:19 |
 | 37 | [Cartel De Badiraguato \- En Vivo](https://open.spotify.com/track/71xO201aCjm5MzgTGzu7m4) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Cartel De Badiraguato \(En Vivo\)](https://open.spotify.com/album/7xXdmxwPCaPkV5gyeVuACo) | 3:32 |
 | 38 | [Amor Pasajero](https://open.spotify.com/track/5NqpxYYauBYU1XfAeakJwu) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/3pNF1xhZWMeNv69ggMPARL) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Bola de Cristal](https://open.spotify.com/track/4pyyICMmeUBNxFQFEZDlni) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Bola de Cristal](https://open.spotify.com/album/3OKY0FukgMiktC2TXceUdg) | 3:10 |
 | 50 | [El Mencho \- En Vivo](https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:49 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDA3M2QwMzljNmZhMGQzNjc1MmFiMzk2NjUxMGU4ODQyZA==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDBlMWNlZmM4Y2FkMzExNjE4NDI4NGE5NTQ3Yjc2OGJhOA==`

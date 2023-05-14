@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 152144,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/7ly3lOOTrL6k4FjyAPDydS"
@@ -5618,7 +5618,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 247063,
       "name": "Jardin du Luxembourg",
       "url": "https://open.spotify.com/track/78qHrGoXAPNGip2OFzKpLp"
@@ -6572,7 +6572,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 232159,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/5BN4nwzPH9mjT9uJLI2HUx"
@@ -7276,6 +7276,24 @@
       "duration_ms": 232510,
       "name": "Molly's theme",
       "url": "https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO"
+    },
+    {
+      "album": {
+        "name": "Monsieur Petit",
+        "url": "https://open.spotify.com/album/2V7YRk0H2bv9kpDfpAYDMl"
+      },
+      "artists": [
+        {
+          "name": "The Collective",
+          "url": "https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181477,
+      "name": "Monsieur Petit",
+      "url": "https://open.spotify.com/track/355fsbshakbWMu6eB2gs20"
     },
     {
       "album": {
@@ -9943,6 +9961,24 @@
     },
     {
       "album": {
+        "name": "Soliloquy",
+        "url": "https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34"
+      },
+      "artists": [
+        {
+          "name": "Jennie Reigen",
+          "url": "https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143757,
+      "name": "Soliloquy",
+      "url": "https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3"
+    },
+    {
+      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/3bOEB4OePOI9EUYeKI1Qbu"
       },
@@ -10366,6 +10402,24 @@
       "duration_ms": 214983,
       "name": "Strangest Sea",
       "url": "https://open.spotify.com/track/1uptgSNdSsDIVsdynJEoCe"
+    },
+    {
+      "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U"
+      },
+      "artists": [
+        {
+          "name": "Elvine Harley",
+          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201932,
+      "name": "Street Of Dreams",
+      "url": "https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO"
     },
     {
       "album": {

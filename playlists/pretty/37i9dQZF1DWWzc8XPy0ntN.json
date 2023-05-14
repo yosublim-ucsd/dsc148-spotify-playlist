@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 122717,
+  "num_followers": 122723,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmYxZGI0OGZhNmQ1YWMyYTYwZmU2YTU5MGY5NzI5YjQyMDY5NzUx",
+  "snapshot_id": "MCwxN2RiOThiZTZhOTkzOTIyNzU4YTA3YjhkMzhiZmRiNjE3YzE3ZTEw",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -357,6 +357,26 @@
       "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Maelstrom",
+        "url": "https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI"
+      },
+      "artists": [
+        {
+          "name": "Fortu & Mendoza",
+          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
+        },
+        {
+          "name": "Catatonique",
+          "url": "https://open.spotify.com/artist/2MYL2t7eQ5DTL4HBQ7dL9q"
+        }
+      ],
+      "duration_ms": 342017,
+      "name": "Maelstrom",
+      "url": "https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e"
+    },
+    {
       "added_at": "2022-12-21 17:17:38",
       "album": {
         "name": "Dreamy Hamilton (Remixes)",
@@ -383,26 +403,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Maelstrom",
-        "url": "https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI"
-      },
-      "artists": [
-        {
-          "name": "Fortu & Mendoza",
-          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
-        },
-        {
-          "name": "Catatonique",
-          "url": "https://open.spotify.com/artist/2MYL2t7eQ5DTL4HBQ7dL9q"
-        }
-      ],
-      "duration_ms": 342017,
-      "name": "Maelstrom",
-      "url": "https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Individuality Riddim",
         "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 398629,
       "name": "Individuality Riddim",
       "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Feel Like Honey",
+        "url": "https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI"
+      },
+      "artists": [
+        {
+          "name": "Future Feelings",
+          "url": "https://open.spotify.com/artist/3Au2QfFkLbGnjGvQ2DR0kH"
+        }
+      ],
+      "duration_ms": 236130,
+      "name": "Feel Like Honey - Radio Edit",
+      "url": "https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -435,22 +451,6 @@
       "duration_ms": 284684,
       "name": "Land III - Vocal Mix",
       "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Feel Like Honey",
-        "url": "https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI"
-      },
-      "artists": [
-        {
-          "name": "Future Feelings",
-          "url": "https://open.spotify.com/artist/3Au2QfFkLbGnjGvQ2DR0kH"
-        }
-      ],
-      "duration_ms": 236130,
-      "name": "Feel Like Honey - Radio Edit",
-      "url": "https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Cook",
-        "url": "https://open.spotify.com/album/0ZsctRObWIwL6Dyrr4fAx3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Arrau",
-          "url": "https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6"
-        }
-      ],
-      "duration_ms": 296021,
-      "name": "Cook",
-      "url": "https://open.spotify.com/track/6waQMnRtjGxMSYaA86pyqD"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Collateral",
         "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 271878,
       "name": "Collateral",
       "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Cook",
+        "url": "https://open.spotify.com/album/0ZsctRObWIwL6Dyrr4fAx3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Arrau",
+          "url": "https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6"
+        }
+      ],
+      "duration_ms": 296021,
+      "name": "Cook",
+      "url": "https://open.spotify.com/track/6waQMnRtjGxMSYaA86pyqD"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "La Nueva Mortalidad (Remaster 2021)",
-        "url": "https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO"
+        "name": "Afrotrip",
+        "url": "https://open.spotify.com/album/4Ita5yp1OjGhZqdmuiEGug"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Frikstailers",
+          "url": "https://open.spotify.com/artist/3kGiP6mQDtEZG5UD7mAlBH"
         }
       ],
-      "duration_ms": 351157,
-      "name": "La Nueva Mortalidad",
-      "url": "https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW"
+      "duration_ms": 275063,
+      "name": "Afrotrip",
+      "url": "https://open.spotify.com/track/0n84JDWB6PWHobrArjK1m1"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

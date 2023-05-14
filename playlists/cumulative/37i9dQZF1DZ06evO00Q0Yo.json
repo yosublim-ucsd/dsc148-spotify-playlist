@@ -937,6 +937,32 @@
     },
     {
       "album": {
+        "name": "Rodeo (feat. Flo Milli) [A7S Remix]",
+        "url": "https://open.spotify.com/album/0z2jhJxFjWF52qtWS1ZJmW"
+      },
+      "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195552,
+      "name": "Rodeo (feat. Flo Milli) - A7S Remix",
+      "url": "https://open.spotify.com/track/2mcTeFUWMOdG9AFsHt7jbJ"
+    },
+    {
+      "album": {
         "name": "Rodeo (Remix)",
         "url": "https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq"
       },
@@ -952,7 +978,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-14",
       "duration_ms": 245959,
       "name": "Rodeo (Remix)",
       "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"

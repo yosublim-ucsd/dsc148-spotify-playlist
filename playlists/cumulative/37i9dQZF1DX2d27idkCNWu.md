@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-151 songs - 8 hr 57 min
+152 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [All of Me \- Live from Spotify Milan](https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Sessions](https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE) | 4:51 | 2021-11-05 |  |
 | [America](https://open.spotify.com/track/2ydhxOqJQrYEETtWcuD06y) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [America](https://open.spotify.com/album/165tYANcQE4kZWM0NHx6Y6) | 4:03 | 2021-11-05 | 2022-07-29 |
 | [America](https://open.spotify.com/track/5lZSpbb0BQsequomhDDWv0) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 4:03 | 2021-11-05 | 2023-03-10 |
-| [America](https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 4:03 | 2023-03-24 |  |
+| [America](https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 4:03 | 2023-03-24 | 2023-05-14 |
 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 | 2022-11-25 |  |
 | [Arcade \- Acoustic Version](https://open.spotify.com/track/5e5XSjfqBk4mgRnQR1vu8Z) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade \(Acoustic Version\)](https://open.spotify.com/album/3xiJB41twLQIbwMmv6N9Jz) | 3:19 | 2021-11-05 |  |
 | [Attention \- Live from Spotify Studios NYC](https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:42 | 2021-11-05 | 2023-01-28 |
@@ -24,6 +24,7 @@
 | [Bad Memories \- Acoustic](https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(Acoustic\)](https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La) | 2:21 | 2023-01-06 |  |
 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 | 2022-09-02 |  |
 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 | 2021-11-05 |  |
+| [Better Part of Me](https://open.spotify.com/track/2Qf6BPJNeyKk4O6kUeoAbU) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:46 | 2023-05-05 |  |
 | [Better Part of Me](https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Better Part of Me](https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw) | 3:46 | 2022-11-29 | 2023-05-11 |
 | [Big \- Acoustic](https://open.spotify.com/track/0WaQZO8nw9VKvpYR3yL7Mg) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Big \(Acoustic\)](https://open.spotify.com/album/2coQTbqSfarJT5OW6He8jm) | 2:39 | 2021-11-05 | 2022-09-11 |
 | [Blame It On Me \- Acoustic](https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Blame It On Me \(Acoustic\)](https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd) | 3:11 | 2021-11-05 | 2022-12-13 |

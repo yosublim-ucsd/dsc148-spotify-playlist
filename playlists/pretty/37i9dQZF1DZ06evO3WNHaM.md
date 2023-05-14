@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 
 > This is Deftones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,812 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,050 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 | 7 | [Digital Bath](https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:15 |
 | 8 | [Risk](https://open.spotify.com/track/0lqHgjNrXmtFroWDqwV1iQ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 3:38 |
 | 9 | [Mascara](https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:45 |
-| 10 | [7 Words](https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:43 |
-| 11 | [Entombed](https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 4:59 |
+| 10 | [Entombed](https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 4:59 |
+| 11 | [7 Words](https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:43 |
 | 12 | [Diamond Eyes](https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 3:08 |
 | 13 | [Around the Fur](https://open.spotify.com/track/3Fwe3XoPOiyWUPYdBKMTqV) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:31 |
 | 14 | [Beware](https://open.spotify.com/track/2ASygm7048ssav4ekbehPS) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 6:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 | 49 | [Hexagram](https://open.spotify.com/track/2xgvuJvwjnaJHFHb66E3nq) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:10 |
 | 50 | [Error](https://open.spotify.com/track/5XQPlP8yHnXz5qTjIZ10gC) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:50 |
 
-Snapshot ID: `MjgwNjQ5MDksMDAwMDAwMDBmZTU5ZTY3YjBkN2Q0N2VjZmJmOTVkZjViNTJjZmUwMg==`
+Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDA2YzJiNDNlYTNmOGE0MDg4YzQ5YmExM2Q2OWIzOTFhMQ==`

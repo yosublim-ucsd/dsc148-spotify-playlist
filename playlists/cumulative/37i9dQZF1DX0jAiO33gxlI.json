@@ -2036,12 +2036,12 @@
       },
       "artists": [
         {
-          "name": "Babidi",
-          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
-        },
-        {
           "name": "Drako",
           "url": "https://open.spotify.com/artist/0t8ncMSqGZOIly3U2hlbMp"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
         }
       ],
       "date_added": "2023-05-12",
