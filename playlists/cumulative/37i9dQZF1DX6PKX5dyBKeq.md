@@ -2,7 +2,7 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Tion Wayne
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Nafe Smallz
 
 1,403 songs - 2 day 23 hr 50 min
 

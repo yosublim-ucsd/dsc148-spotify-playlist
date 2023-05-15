@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-297 songs - 21 hr 35 min
+298 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 | 2022-11-11 |  |
 | [Thatpujai](https://open.spotify.com/track/78lT7snYf0taubeiQPOe6B) | [Julia Hülsmann Trio](https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG) | [Sooner And Later](https://open.spotify.com/album/4fcI5BnN3OHsmH5YsFJUey) | 4:56 | 2022-05-26 | 2022-11-11 |
 | [The Admiral](https://open.spotify.com/track/7zKpgrCY4a2SBQscjvODaP) | [John Surman](https://open.spotify.com/artist/5THaOlI8Qr3Za3FD6FnWvK), [Nelson Ayres](https://open.spotify.com/artist/71alvRccPFqQpegAexLBJY), [Rob Waring](https://open.spotify.com/artist/1UeKTQy0g4X4v1Rs1CTLNg) | [Invisible Threads](https://open.spotify.com/album/1ud5Nh8i1Jilsq83DyHTIk) | 5:15 | 2021-12-17 | 2022-10-08 |
+| [The Art of Letting Go](https://open.spotify.com/track/5ZlwYoMgai25EVMUPKMBr8) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [The Art of Letting Go](https://open.spotify.com/album/0FsvqEQCqEHrI7qhkVlULW) | 3:20 | 2023-05-11 |  |
 | [The Circle](https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:56 | 2022-04-07 | 2023-02-15 |
 | [The Clearing](https://open.spotify.com/track/0F4a1bX2ar0MSBz2fpqrUp) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [Blikan](https://open.spotify.com/album/1cETGSgLtspW3asgEuwvew) | 4:19 | 2021-12-17 | 2022-11-11 |
 | [The Door](https://open.spotify.com/track/7xlHjxJbGQjHA40E7pFnZB) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq), [Audun Erlien](https://open.spotify.com/artist/3PqrFVZBgt9aojin43n6eN) | [The Door](https://open.spotify.com/album/2dySoKZJaOsXcAZPwngDrB) | 7:52 | 2021-12-17 | 2022-11-26 |
@@ -303,7 +304,7 @@
 | [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 | 2022-11-17 |  |
 | [You're Good to Me](https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [The End is the Beginning](https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m) | 3:14 | 2022-11-11 |  |
 | [Zeta](https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [Zeta](https://open.spotify.com/album/3MJmq3oA2Bs8braVIAS2hc) | 3:19 | 2022-10-27 | 2022-12-18 |
-| [Zeta](https://open.spotify.com/track/6Anbl8kArzuijg4hDh3Wb9) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 3:19 | 2022-12-15 |  |
+| [Zeta](https://open.spotify.com/track/6Anbl8kArzuijg4hDh3Wb9) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 3:19 | 2022-12-15 | 2023-05-15 |
 | [Øyne](https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE), [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Øyne](https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS) | 3:30 | 2022-05-26 | 2022-08-18 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

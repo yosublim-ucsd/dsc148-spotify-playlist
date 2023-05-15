@@ -9125,6 +9125,24 @@
     },
     {
       "album": {
+        "name": "Bu Devirde",
+        "url": "https://open.spotify.com/album/0cPDRCMFqgs0CFVaUyxCGt"
+      },
+      "artists": [
+        {
+          "name": "Sibel Can",
+          "url": "https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Padi\u015fah",
+      "url": "https://open.spotify.com/track/7859Rvo6wXeImidBRL2dUZ"
+    },
+    {
+      "album": {
         "name": "Padi\u015fah\u0131m",
         "url": "https://open.spotify.com/album/1ZWb1817n5EoBpgjTkCi4S"
       },
@@ -9778,7 +9796,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 152187,
       "name": "RANDEVU",
       "url": "https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m"

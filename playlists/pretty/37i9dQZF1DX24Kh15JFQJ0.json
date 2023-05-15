@@ -1,12 +1,12 @@
 {
   "description": "The latest music from our Country Heroes. Cover: Tanya Tucker",
-  "num_followers": 250020,
+  "num_followers": 250046,
   "original_name": "New Traditions Country Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGI4YzIxMGE1YTJhMTVjOTVlMzBhYTdiYTQyM2IyOGI2OGFlY2Ez",
+  "snapshot_id": "MCwzMTNlMDg0ZWI1NGY4MmQ3ZjBiYmI2NjIxNzUxZWQ0OTc3NjFmY2Q3",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1200,17 +1200,21 @@
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Country Star",
-        "url": "https://open.spotify.com/album/3y792nYJ1zF9mjLEGDfUDc"
+        "url": "https://open.spotify.com/album/66hwNPOLrvdIDsKZJZW0gD"
       },
       "artists": [
         {
           "name": "Marty Stuart And His Fabulous Superlatives",
           "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
         }
       ],
       "duration_ms": 185709,
       "name": "Country Star",
-      "url": "https://open.spotify.com/track/0ZesYm9KhuCthYX8No6eMs"
+      "url": "https://open.spotify.com/track/4mUtEy26ZqNiquNBKgnF6C"
     },
     {
       "added_at": "2023-05-12 04:00:00",

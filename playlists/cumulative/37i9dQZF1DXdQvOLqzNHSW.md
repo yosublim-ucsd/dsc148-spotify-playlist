@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-469 songs - 1 day 5 hr 14 min
+470 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Family and Genus](https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 5:19 | 2022-07-22 |  |
 | [Fantasmas](https://open.spotify.com/track/0itukH4hI1pxOsyRQRQ28f) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:43 | 2020-12-21 | 2022-04-20 |
 | [Fantasy Theme](https://open.spotify.com/track/2Gw3KDvyrWTuunaEI9fQYm) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Changes](https://open.spotify.com/album/5wSSU81wBT3t1j4w0sOfmu) | 3:58 | 2020-12-21 | 2022-07-29 |
-| [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 | 2023-02-17 |  |
+| [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 | 2023-02-17 | 2023-05-15 |
 | [feelings are fatal](https://open.spotify.com/track/0izLJHtbbiReWZxn4Qi1kp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1KHgVqga6vV89zAQ2X9MMg) | 2:04 | 2020-12-21 | 2022-04-16 |
 | [Feels](https://open.spotify.com/track/3FyrfBILgcFz1V5IAKvCep) | [Avid Dancer](https://open.spotify.com/artist/7x4bI6vTtMCONH8MVqI8WK) | [Feels](https://open.spotify.com/album/3tYNW9THoCkpZlelX4Kne7) | 3:25 | 2020-12-21 | 2022-04-17 |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2023-04-21 |  |
@@ -272,6 +272,7 @@
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2021-09-10 | 2022-04-06 |
 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 | 2022-07-08 |  |
 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 | 2022-07-20 |  |
+| [Meet the Frownies](https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Meet the Frownies](https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S) | 4:00 | 2023-04-25 |  |
 | [Meet the Frownies](https://open.spotify.com/track/5kxinzQqkSJhL7QDdvkDFM) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Meet the Frownies](https://open.spotify.com/album/0epKF07WR4vfVXnxrYIsPT) | 4:00 | 2023-04-25 | 2023-04-29 |
 | [Midnight Blue](https://open.spotify.com/track/0GHlFvtU5ALfhCSNEtTE0T) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Midnight Blue](https://open.spotify.com/album/6SEcf0C3QO1K45Fju3dqEO) | 4:39 | 2020-12-21 | 2022-04-20 |
 | [Mis](https://open.spotify.com/track/0DSgZOTRW9O7FGlheqWCHg) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Rules](https://open.spotify.com/album/0Nz3xKQGtje65y3xcEVj3N) | 3:20 | 2022-10-28 | 2023-04-26 |

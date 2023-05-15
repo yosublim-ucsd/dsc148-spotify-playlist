@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Hot Mulligan",
-  "num_followers": 446985,
+  "num_followers": 447065,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGVhNDZhYjYwMjhmMWFhM2QyM2M5YWVhZDk5MGJjOWZkN2I3Mzc0",
+  "snapshot_id": "MCxmM2VjNjgzNTk3MTZjY2ZhY2JkMDdjMjM1ZTNlN2ViYjhiODQxNmNj",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Friends With Benefits",
-        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 187322,
-      "name": "Friends With Benefits",
-      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "All the Things I Hate About You",
         "url": "https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 195823,
       "name": "All the Things I Hate About You",
       "url": "https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Friends With Benefits",
+        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 187322,
+      "name": "Friends With Benefits",
+      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Heartbreak Of The Century",
-        "url": "https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 229124,
-      "name": "Heartbreak Of The Century",
-      "url": "https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Vicious",
         "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 207177,
       "name": "Vicious",
       "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Heartbreak Of The Century",
+        "url": "https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 229124,
+      "name": "Heartbreak Of The Century",
+      "url": "https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "We Don't Get High Like We Used To",
-        "url": "https://open.spotify.com/album/5VPRU8oDVSOsOR6T6OxaJE"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 168176,
-      "name": "We Don't Get High Like We Used To",
-      "url": "https://open.spotify.com/track/0tQklkf8QBjP21FDcyXaDW"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 191559,
       "name": "toxic energy (with Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "We Don't Get High Like We Used To",
+        "url": "https://open.spotify.com/album/5VPRU8oDVSOsOR6T6OxaJE"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 168176,
+      "name": "We Don't Get High Like We Used To",
+      "url": "https://open.spotify.com/track/0tQklkf8QBjP21FDcyXaDW"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 191976,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Wishing You Hell",
         "url": "https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 194892,
       "name": "Wishing You Hell",
       "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/1XIqrfa41fSUdAI2KdnBAW"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 186910,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/3U8dEgE1S6st6Y29qJouu6"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "deathwish (feat. nothing,nowhere.)",
         "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 147907,
       "name": "deathwish (feat. nothing,nowhere.)",
       "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Halloween Mixtape",
-        "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 137052,
-      "name": "10 for 10",
-      "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Halloween Mixtape",
+        "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 137052,
+      "name": "10 for 10",
+      "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "We Made Plans & God Laughed",
         "url": "https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 188423,
       "name": "ALMOST FAMOUS",
       "url": "https://open.spotify.com/track/7lXAfpNbrQmbsqs9ZmsPv7"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 160380,
-      "name": "hair out",
-      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/1XIqrfa41fSUdAI2KdnBAW"
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
       },
       "artists": [
         {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 186910,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/3U8dEgE1S6st6Y29qJouu6"
+      "duration_ms": 160380,
+      "name": "hair out",
+      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
+        "url": "https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv"
+      },
+      "artists": [
+        {
+          "name": "OmenXIII",
+          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
+        },
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 217417,
+      "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
+      "url": "https://open.spotify.com/track/7Fjr0lI9QUhW31LKMVOba9"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Happy Never After",
         "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
       },
@@ -1483,22 +1503,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Thank You, New Jersey",
-        "url": "https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC"
-      },
-      "artists": [
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Thank You, New Jersey",
-      "url": "https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Misery Made Me",
         "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
       },
@@ -1515,18 +1519,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Face Down (Symphonic Edition)",
-        "url": "https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx"
+        "name": "Thank You, New Jersey",
+        "url": "https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC"
       },
       "artists": [
         {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Face Down - Symphonic Edition",
-      "url": "https://open.spotify.com/track/3rzwBdOX741P5N394o5faL"
+      "duration_ms": 159000,
+      "name": "Thank You, New Jersey",
+      "url": "https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1563,6 +1567,22 @@
       "duration_ms": 206709,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/0Ky4D8Dy9i3NJfB5svu381"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Face Down (Symphonic Edition)",
+        "url": "https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Face Down - Symphonic Edition",
+      "url": "https://open.spotify.com/track/3rzwBdOX741P5N394o5faL"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1615,26 +1635,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
-        "url": "https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv"
-      },
-      "artists": [
-        {
-          "name": "OmenXIII",
-          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
-        },
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 217417,
-      "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
-      "url": "https://open.spotify.com/track/7Fjr0lI9QUhW31LKMVOba9"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Punkstar (feat. Royal & the Serpent)",
         "url": "https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "I Hope Hell Isn't Real",
-        "url": "https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H"
-      },
-      "artists": [
-        {
-          "name": "Roe Kapara",
-          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
-        }
-      ],
-      "duration_ms": 134271,
-      "name": "This Time Last Week",
-      "url": "https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Tell Me You're Sorry",
         "url": "https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 183350,
       "name": "Plastic Heart",
       "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "I Hope Hell Isn't Real",
+        "url": "https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H"
+      },
+      "artists": [
+        {
+          "name": "Roe Kapara",
+          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
+        }
+      ],
+      "duration_ms": 134271,
+      "name": "This Time Last Week",
+      "url": "https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "CYAN1DE (feat. Pete Wentz)",
         "url": "https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 231882,
       "name": "CYAN1DE (feat. PETE WENTZ)",
       "url": "https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Songs on the Radio",
+        "url": "https://open.spotify.com/album/3zRLuo2FVdTAP0MozqAiOL"
+      },
+      "artists": [
+        {
+          "name": "Fat Nick",
+          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+        }
+      ],
+      "duration_ms": 208181,
+      "name": "Songs on the Radio",
+      "url": "https://open.spotify.com/track/5rrq3Q48Zh8kZ38mhC6rAm"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "People That I Love Leave",
         "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 149248,
       "name": "People That I Love Leave",
       "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Postcard From A Living Hell",
-        "url": "https://open.spotify.com/album/0rLlOMVqC1ays12giqcMRS"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 176341,
-      "name": "Postcard Xo",
-      "url": "https://open.spotify.com/track/2s5sA6obI4A2Up2LnNQI4k"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Are You Impressed?",
-        "url": "https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU"
+        "name": "Postcard From A Living Hell",
+        "url": "https://open.spotify.com/album/0rLlOMVqC1ays12giqcMRS"
       },
       "artists": [
         {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
         }
       ],
-      "duration_ms": 187679,
-      "name": "Are You Impressed?",
-      "url": "https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl"
+      "duration_ms": 176341,
+      "name": "Postcard Xo",
+      "url": "https://open.spotify.com/track/2s5sA6obI4A2Up2LnNQI4k"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Songs on the Radio",
-        "url": "https://open.spotify.com/album/3zRLuo2FVdTAP0MozqAiOL"
+        "name": "Are You Impressed?",
+        "url": "https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU"
       },
       "artists": [
         {
-          "name": "Fat Nick",
-          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
         }
       ],
-      "duration_ms": 208181,
-      "name": "Songs on the Radio",
-      "url": "https://open.spotify.com/track/5rrq3Q48Zh8kZ38mhC6rAm"
+      "duration_ms": 187679,
+      "name": "Are You Impressed?",
+      "url": "https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "U Broke My Heart",
-        "url": "https://open.spotify.com/album/1Q9rmTAir7ROqvD0Kjtxt2"
-      },
-      "artists": [
-        {
-          "name": "Bryce Savage",
-          "url": "https://open.spotify.com/artist/3BKu8LEdOvfIVWXZlmJAGI"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "U Broke My Heart",
-      "url": "https://open.spotify.com/track/4D6gu0quKMNiMzJJTkDjk0"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Get A Job",
         "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
       },
@@ -2119,18 +2103,38 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "toothfairy",
-        "url": "https://open.spotify.com/album/3h7BdSI3zOT1c4WhAGOEHd"
+        "name": "U Broke My Heart",
+        "url": "https://open.spotify.com/album/1Q9rmTAir7ROqvD0Kjtxt2"
       },
       "artists": [
         {
-          "name": "sadeyes",
-          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
+          "name": "Bryce Savage",
+          "url": "https://open.spotify.com/artist/3BKu8LEdOvfIVWXZlmJAGI"
         }
       ],
-      "duration_ms": 140598,
-      "name": "toothfairy",
-      "url": "https://open.spotify.com/track/4mG5tpeiYVHiy8gRKNCVcn"
+      "duration_ms": 147200,
+      "name": "U Broke My Heart",
+      "url": "https://open.spotify.com/track/4D6gu0quKMNiMzJJTkDjk0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "SELF-SABOTAGE (MC4D Remix)",
+        "url": "https://open.spotify.com/album/6yefd6WEMrUmBuvAMl8Dd8"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 157053,
+      "name": "SELF-SABOTAGE (feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/3cjPUCNlR7Sk7126DV77ms"
     },
     {
       "added_at": "2023-05-12 04:00:00",

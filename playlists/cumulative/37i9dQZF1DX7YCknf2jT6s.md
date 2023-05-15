@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Marquis Hill
 
-880 songs - 2 day 23 hr 14 min
+881 songs - 2 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Audience Américain](https://open.spotify.com/track/4GqaViuPZGR5184P1NOS11) | [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [Mischief](https://open.spotify.com/album/25iqoFgWQLkIYtgzs07Sws) | 7:53 | 2023-04-28 |  |
 | [Auditorium](https://open.spotify.com/track/2DPEXrjPvhTMD30TqMOzRs) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Auditorium](https://open.spotify.com/album/3gUTxP8aVrkNBG6lB2GTAf) | 4:28 | 2022-06-24 | 2022-07-16 |
 | [Augmented Reality](https://open.spotify.com/track/4kQzOfJxDpviaEpOFPOBU6) | [Benjamin Deschamps](https://open.spotify.com/artist/5hgpXM8s7ksNeHK5J74UQ6) | [Augmented Reality](https://open.spotify.com/album/7eKXbrX6jdqv1T8F76tg6I) | 4:38 | 2021-12-23 | 2022-01-07 |
-| [Autumn](https://open.spotify.com/track/1RvnKHy0hsMbCGe72D7JlW) | [Jakob Park](https://open.spotify.com/artist/7DBGD1kB432PN8vBOvT3it), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Autumn](https://open.spotify.com/album/59ntoOGSEuWpsBeJnBHaZt) | 3:19 | 2023-02-24 |  |
+| [Autumn](https://open.spotify.com/track/1RvnKHy0hsMbCGe72D7JlW) | [Jakob Park](https://open.spotify.com/artist/7DBGD1kB432PN8vBOvT3it), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Autumn](https://open.spotify.com/album/59ntoOGSEuWpsBeJnBHaZt) | 3:19 | 2023-02-24 | 2023-05-15 |
+| [Autumn](https://open.spotify.com/track/75A6fu5Tug54XA3VUg5tTh) | [Jakob Park](https://open.spotify.com/artist/7DBGD1kB432PN8vBOvT3it), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2) | [Life in a Major Key](https://open.spotify.com/album/50bnFZw0btHxjz8Uwhvp7d) | 3:19 | 2023-02-24 |  |
 | [Autumn In New York](https://open.spotify.com/track/6nQocCdBEDoy6aGxk1vGwt) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Autumn In New York](https://open.spotify.com/album/3zz4UhdfebKaIeXKdIKKk0) | 5:55 | 2021-12-23 | 2022-02-19 |
 | [Avalanche](https://open.spotify.com/track/6p5xME6kNYc2lkvt4atkKL) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 5:19 | 2022-10-14 | 2023-03-18 |
 | [Averti Tra Le Braccia](https://open.spotify.com/track/0X6iM5oQxj3NViTcdGb7vL) | [Enzo Orefice Trio](https://open.spotify.com/artist/10fF7C0hOnj8V3lDxH6PQH) | [Averti tra le Braccia](https://open.spotify.com/album/45TGcIzgYej61XQD8GaLsW) | 5:02 | 2022-02-18 | 2022-06-18 |

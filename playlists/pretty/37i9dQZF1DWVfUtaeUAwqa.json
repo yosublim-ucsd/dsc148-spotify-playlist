@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7134,
+  "num_followers": 7138,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjJjYTQ0MGU2M2UyZjVjODAyMzVlZDA3ODEyYzA0N2Q1MjQwMzM0",
+  "snapshot_id": "MCw5NzljMTMzN2QxODczY2E2Yjk1NmFmMTI4ODE5MTFjOTcwYjQzOWVi",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -239,22 +239,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "New Orleans Preservation, Vol. 1",
-        "url": "https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd"
-      },
-      "artists": [
-        {
-          "name": "Preservation Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "I Wish I Could Shimmy Like My Sister Kate",
-      "url": "https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Sounds Of New Orleans",
         "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 151453,
       "name": "Bill Bailey",
       "url": "https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "New Orleans Preservation, Vol. 1",
+        "url": "https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "I Wish I Could Shimmy Like My Sister Kate",
+      "url": "https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Sounds Of New Orleans Vol. 9",
-        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 335280,
-      "name": "Original Dixieland One Step",
-      "url": "https://open.spotify.com/track/3XznXMnnySIGCKSs6wktIA"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "The Complete Set - 1923-1926",
         "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 153506,
       "name": "Stock Yards Strut",
       "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Sounds Of New Orleans Vol. 9",
+        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 335280,
+      "name": "Original Dixieland One Step",
+      "url": "https://open.spotify.com/track/3XznXMnnySIGCKSs6wktIA"
     },
     {
       "added_at": "2020-08-19 17:19:14",

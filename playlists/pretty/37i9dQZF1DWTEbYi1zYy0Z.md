@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,391 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,448 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 18 | [I Wanna Be Down](https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [I Wanna Be Down](https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ) | 4:54 |
 | 19 | [Skyway](https://open.spotify.com/track/1FGGYZhdSmyCNuu4jFPljf) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Skyway](https://open.spotify.com/album/5rlf26FLZWrcLBZWzxT6Z6) | 3:41 |
 | 20 | [For the Cool in You](https://open.spotify.com/track/5iJ6h2VGGDmAhZGHZds6FY) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [For the Cool in You](https://open.spotify.com/album/1J8nWBTEHq9puOzkK5Dnly) | 4:30 |
-| 21 | [What You Do To Me](https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do To Me](https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV) | 4:57 |
+| 21 | [What You Do To Me](https://open.spotify.com/track/78dIxf6kjnSm1GEpHAdFuD) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/0FZhmvhU6G8QTfj1Buk7nX) | 4:57 |
 | 22 | [Keep It Moving](https://open.spotify.com/track/0Q00M9Rn0Nz519t2FLUJUW) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [Keep It Moving](https://open.spotify.com/album/3ilVn6i8gwJzTlfy50HLPo) | 3:35 |
 | 23 | [Detour](https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Detour](https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb) | 4:08 |
 | 24 | [Jazz Party](https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Jazz Party](https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Lavish](https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib) | [Alex Parchment](https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab), [Jordan Love](https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9) | [Lavish](https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p) | 4:17 |
 | 100 | [In His Vision](https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb) | [Christian de Mesones](https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS) | [In His Vision](https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae) | 3:51 |
 
-Snapshot ID: `MCwwYjRkNzc2MmU5NDhlMDVjM2NjNjlhYTJiNTNkZDk3ZTBmZWYzZDNh`
+Snapshot ID: `MCw3MGJmYWQxNjUxZjdhNjU1OTIzZWZmMmZiMTI0YmM3YmE4NmQ0NTVl`

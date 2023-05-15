@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6010\)
+## Playlists \(6011\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -3431,6 +3431,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Pride Party](/playlists/pretty/37i9dQZF1DX59HcpGmPXYR.md)
 - [Primavera](/playlists/pretty/37i9dQZF1DXdWmNjHAJIwP.md)
 - [Princess Power Official Playlist](/playlists/pretty/37i9dQZF1DWWkukBI0VSzg.md)
+- [Productive Morning](/playlists/pretty/37i9dQZF1DX6T5dWVv97mp.md)
 - [Prog Jazz](/playlists/pretty/37i9dQZF1DX9NNVWdU83m6.md)
 - [Prog Rock](/playlists/pretty/37i9dQZF1DWXgtgITTKvYl.md)
 - [Prog Rock Monsters](/playlists/pretty/37i9dQZF1DX0uqkwkR49kK.md)

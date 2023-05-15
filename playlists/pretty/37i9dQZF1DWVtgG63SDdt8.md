@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW?si=4a5915da17984cd0">The Young Escape</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,617 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,708 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 61 | [Like A Tree \(Psalm 1\)](https://open.spotify.com/track/0OcOwAmxOT0kpWs1mfUcXE) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [Psalms: The Poetry of Prayer](https://open.spotify.com/album/1ky9fgDdUQAdaMsVPs2E8l) | 3:09 |
 | 62 | [Enough For Me](https://open.spotify.com/track/4mAjvXpzW7mVwakpDWgukZ) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [Enough For Me](https://open.spotify.com/album/09R33s9sO2JtCXMtlynPRg) | 3:16 |
 | 63 | [Swing Low, Sweet Chariot](https://open.spotify.com/track/7qnX9m66DJBxaZdMMfLy8e) | [Vestal Goodman](https://open.spotify.com/artist/6CHoGb3HjH5ZHA3K6l6C6D), [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Swing Low, Sweet Chariot](https://open.spotify.com/album/4LypxcCkXCu8JARXrVwYy8) | 4:42 |
-| 64 | [Brick by Brick](https://open.spotify.com/track/2pDYDxOOFMNENskwzmN9e0) | [Jamie Pritchard](https://open.spotify.com/artist/5jQzdBl74DTGAxUGMYgXLB) | [Tapestry EP](https://open.spotify.com/album/0RTygtsc8wc6vzMhWre6mp) | 3:53 |
+| 64 | [Brick by Brick](https://open.spotify.com/track/2pDYDxOOFMNENskwzmN9e0) | [Jamie Pritchard](https://open.spotify.com/artist/5jQzdBl74DTGAxUGMYgXLB) | [Tapestry](https://open.spotify.com/album/0RTygtsc8wc6vzMhWre6mp) | 3:53 |
 | 65 | [Beyond The Open Door](https://open.spotify.com/track/4NIQU3l7l57tktPMeQNGQ6) | [Kevin Pauls](https://open.spotify.com/artist/6W5luez6Uo3i42FTSfeIFH) | [Beyond The Open Door](https://open.spotify.com/album/58ZIiDvcAeLS59UlhouOzn) | 4:01 |
 | 66 | [Stand In Peace \- Original Mix](https://open.spotify.com/track/4kDawQblKKlEQo0GL9ZQRz) | [Peter Mac](https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc), [Lalo Leyy](https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ) | [Stand In Peace](https://open.spotify.com/album/6uSI7VYmhYJx9VZr9L8uX0) | 6:37 |
 | 67 | [One Thing](https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [Glory Hour](https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4) | 7:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [less is more](https://open.spotify.com/track/6LtfBO4j0drKRguNyuIR5r) | [Gaetan Judd](https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc) | [upperroom](https://open.spotify.com/album/3znNeJteM16vHwOsgnIbK3) | 2:32 |
 | 100 | [pure](https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [pure](https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0) | 5:56 |
 
-Snapshot ID: `MCw5NDM4OTMxNjA0Nzg2MGJjNDRmNjllZWVjMmY0YjBhZWI0YzBlY2M2`
+Snapshot ID: `MCw2MzNhMzQ0NmVhNzg4OTNhYmRlZWRmNDQwNzkzM2M2ZjBiYjVkNTBh`

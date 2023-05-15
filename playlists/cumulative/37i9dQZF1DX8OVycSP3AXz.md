@@ -4,7 +4,7 @@
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-94 songs - 4 hr 10 min
+95 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Le temps de l'amour](https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 2:24 | 2022-06-28 |  |
 | [Le téléfon](https://open.spotify.com/track/5MkRyZiEyNnosHTAYs23Mx) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 2:47 | 2022-06-28 |  |
 | [Les Champs\-Elysées](https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 | 2021-07-26 |  |
-| [Les elucubrations d'Antoine](https://open.spotify.com/track/6898KjBwWLdsJUH1Tu9rI7) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [Trésors 60's](https://open.spotify.com/album/406ITkSun3uzXzUwqLKneX) | 3:26 | 2022-06-28 |  |
+| [Les elucubrations d'Antoine](https://open.spotify.com/track/6898KjBwWLdsJUH1Tu9rI7) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [Trésors 60's](https://open.spotify.com/album/406ITkSun3uzXzUwqLKneX) | 3:26 | 2022-06-28 | 2023-05-15 |
+| [Les elucubrations d'Antoine](https://open.spotify.com/track/2yHTeToSYvVE9FuUO3uwHe) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 3:26 | 2022-06-28 |  |
 | [Les elucubrations d'Antoine](https://open.spotify.com/track/79JldwTZxGilhRuQlECrz2) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [MusicWorld France](https://open.spotify.com/album/0WKozvA71AJGWSNW6y9Aa0) | 3:27 | 2021-07-26 | 2022-07-29 |
 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 | 2022-06-28 |  |
 | [Ma biche](https://open.spotify.com/track/2C4Z819AnkLo8YWgWZpCXh) | [Frank Alamo](https://open.spotify.com/artist/3NrXcUsQ2zK1oze56zlKUM) | [Cocorico](https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05) | 2:18 | 2022-06-28 | 2022-11-13 |

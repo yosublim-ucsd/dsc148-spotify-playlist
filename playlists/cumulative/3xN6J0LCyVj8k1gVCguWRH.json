@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "imma do me",
+        "url": "https://open.spotify.com/album/1su357WOnuFCtNquC3yhzl"
+      },
+      "artists": [
+        {
+          "name": "inso",
+          "url": "https://open.spotify.com/artist/4rQ3CsoaPcAKfYJpKXKRyR"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "abbi's interlude",
+      "url": "https://open.spotify.com/track/52c1zWXAGIR4Uw8r5kexLF"
+    },
+    {
+      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -1130,6 +1148,24 @@
       "duration_ms": 190000,
       "name": "Addicted to You",
       "url": "https://open.spotify.com/track/2esiR5CXxJeiOFTBy117m2"
+    },
+    {
+      "album": {
+        "name": "Addington Square",
+        "url": "https://open.spotify.com/album/6Rmnk0wps1l5AD5iX6VdrD"
+      },
+      "artists": [
+        {
+          "name": "Prismala",
+          "url": "https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201843,
+      "name": "Addington Square",
+      "url": "https://open.spotify.com/track/6un5oUXBz9cblPadYgu2TS"
     },
     {
       "album": {
@@ -11636,6 +11672,24 @@
       "duration_ms": 459666,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/5MRQvbpvXejJJy0OWciP8G"
+    },
+    {
+      "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/0Rm8RveRoAMtJcxTQHsFwt"
+      },
+      "artists": [
+        {
+          "name": "Megan Britt",
+          "url": "https://open.spotify.com/artist/41G7vJN8lnQUx054VywKve"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198272,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/3bSYAnvASjfOQbHjJ5AqU9"
     },
     {
       "album": {
@@ -34326,6 +34380,24 @@
       "duration_ms": 200501,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/1IBFJqMbzTkPENRZsHzJZd"
+    },
+    {
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/4Fb4hvBdgmtRVYfx8cMm4M"
+      },
+      "artists": [
+        {
+          "name": "Mike Bauer",
+          "url": "https://open.spotify.com/artist/6WVlhAlmeMEF5ItQOBijRC"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/74K6Vgm24ejN4aWVAb8puS"
     },
     {
       "album": {

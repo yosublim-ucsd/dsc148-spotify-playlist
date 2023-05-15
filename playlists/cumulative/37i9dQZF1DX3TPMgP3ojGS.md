@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,694 songs - 3 day 4 hr 4 min
+1,696 songs - 3 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Awake](https://open.spotify.com/track/4IMXgViQWKGQku8DPaF9Bm) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Awake](https://open.spotify.com/album/6sf1sDNB9paGfjOzavrIXj) | 2:22 | 2021-03-24 | 2022-07-27 |
 | [Awakening](https://open.spotify.com/track/0sDqqcELNvGWI5u8mBxESD) | [Otto Wahl](https://open.spotify.com/artist/7A5OxuJ5yEzHTM43In5fHF) | [Awakening](https://open.spotify.com/album/0GHYEM6vswX7E5YH6Cp1nB) | 3:00 | 2021-05-25 | 2022-04-19 |
 | [Away](https://open.spotify.com/track/2mpDoMepkxUD7GusdybNIq) | [Tonie Green](https://open.spotify.com/artist/3kfHheH2kjb3gsLwSowrdb) | [Away](https://open.spotify.com/album/2YtbJMmWv0D4ixJq9Wwymd) | 2:57 | 2021-03-11 | 2021-05-05 |
-| [Azure](https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Azure](https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG) | 2:24 | 2022-12-22 |  |
+| [Azure](https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Azure](https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG) | 2:24 | 2022-12-22 | 2023-05-15 |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-12 | 2022-08-30 |
 | [Back to Begin](https://open.spotify.com/track/648XpoeyPdVOTXukyczd8J) | [Mark Fanning](https://open.spotify.com/artist/6l1IhAl77yDLlYVBXMM5Av) | [Back to Begin](https://open.spotify.com/album/5QbM1wsUshWIEjksukWQts) | 2:57 | 2021-03-15 | 2022-04-18 |
 | [Bagatelle](https://open.spotify.com/track/7GPVOFxNzeMzD69TZbPQ3J) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Bagatelle](https://open.spotify.com/album/5MVGrHPXcPPMGUJoj7WltI) | 1:49 | 2021-03-15 | 2022-07-11 |
@@ -409,6 +409,7 @@
 | [Early Flight](https://open.spotify.com/track/5A3iiKw1vacKg0uKBe1mrY) | [The Village Mountain Orchestra](https://open.spotify.com/artist/5GU68b12TotwGIyIFxhhnX) | [Focus Your Brain \- Deep Ambient Soundscapes Vol 1](https://open.spotify.com/album/6EK5AiyrCaxi8Hlp7UfMgr) | 4:05 | 2021-05-23 | 2022-04-16 |
 | [Early Morning](https://open.spotify.com/track/5iB8faGsvwZpLm3RIeQO3B) | [Lorraine J\. Kovach](https://open.spotify.com/artist/3H92L5ns19ZFEIcvVj2KhY) | [Early Morning](https://open.spotify.com/album/7viQj7LLIp5cqQTcVXYj7t) | 2:06 | 2022-05-31 | 2022-06-01 |
 | [Echoes of You](https://open.spotify.com/track/4NSorTl9g80CArixVtqGfz) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 2:20 | 2021-03-09 | 2022-04-14 |
+| [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 | 2023-04-25 |  |
 | [Eftertanke](https://open.spotify.com/track/0yn3WfTE8MmH3IsYlpMPCs) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Eftertanke](https://open.spotify.com/album/425TkvWPxsTPyFKEdjtz1J) | 2:41 | 2022-03-24 | 2022-04-16 |
 | [Elegy For The Arctic](https://open.spotify.com/track/7B5OjrUhDBJao8CrIlnXBI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Elegy For The Arctic](https://open.spotify.com/album/03IcjA0YrUxqOvFmbKwnA9) | 2:38 | 2021-03-18 | 2021-05-20 |
 | [Elfreth’s Alley](https://open.spotify.com/track/56kV0SkieRGfY4HUAGIsCM) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Elfreth’s Alley](https://open.spotify.com/album/0eN8e5w0xTXymCqKf1bdlZ) | 2:16 | 2021-03-10 | 2022-04-15 |
@@ -1065,7 +1066,7 @@
 | [Papa](https://open.spotify.com/track/3cAT1jmDFz969hO1LikyNH) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Papa](https://open.spotify.com/album/4LlT8tzmFNuzXEppDKn7qu) | 1:09 | 2021-03-07 | 2022-04-21 |
 | [Papier collé](https://open.spotify.com/track/6zB7Vvymi8vYeSqH9z9HhV) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Papier collé](https://open.spotify.com/album/7e1X0WJqhFqDc3qqfRrFXd) | 2:25 | 2022-11-15 | 2022-12-24 |
 | [Papillon](https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc) | [Solène Garnier](https://open.spotify.com/artist/2MJrIZl36H74AdDZyKA5Y1) | [Papillon](https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF) | 3:01 | 2021-09-16 | 2022-09-30 |
-| [Papillon \- Solo Piano Version](https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 2:56 | 2022-12-22 |  |
+| [Papillon \- Solo Piano Version](https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 2:56 | 2022-12-22 | 2023-05-15 |
 | [Paradox](https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Paradox](https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t) | 2:17 | 2021-03-07 | 2022-04-13 |
 | [Partings](https://open.spotify.com/track/7HwJqlErsgkpld73bb7kxC) | [Marcus Ackermann](https://open.spotify.com/artist/6noL2qkK3vGykmVQPunJns) | [A New Day](https://open.spotify.com/album/6qTn1Zdgx0idq2yTJ4FJeA) | 3:04 | 2021-03-22 | 2022-07-18 |
 | [Pas de Deux](https://open.spotify.com/track/1FbxNAj5bNEuEODAysnF5O) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Seasons](https://open.spotify.com/album/2ev06zAeaGpVlOkOTD1JUb) | 2:52 | 2021-03-22 | 2022-07-10 |
@@ -1467,6 +1468,7 @@
 | [The Shores](https://open.spotify.com/track/4pUSEwCVnD5fYYb6pDkJNw) | [Hermosa Dawn](https://open.spotify.com/artist/2MjjjAZZhgYEyywzBnhZbN) | [The Shores](https://open.spotify.com/album/0sxe2UItX3hliFGbvLxwPq) | 2:01 | 2021-03-08 | 2022-04-18 |
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2022-03-29 | 2022-04-14 |
 | [The Stars](https://open.spotify.com/track/3MudBKLYKO3jw8xl8HdLXi) | [Calle Rasmusson](https://open.spotify.com/artist/542yTnYI4To78OAWEblioM), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Dalasinfoniettan](https://open.spotify.com/artist/7zHTlOcdKTklAyain9VFB3) | [One](https://open.spotify.com/album/1UAS6rzizbJzW7mjr2qp3x) | 5:32 | 2021-05-16 | 2022-04-14 |
+| [The stars are listening](https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [The stars are listening](https://open.spotify.com/album/2wMpHfuyIolPBa92hvHxjM) | 1:51 | 2023-04-25 |  |
 | [The Swan](https://open.spotify.com/track/4gnse1wE1sdaO1LNqyDVCo) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [The Swan](https://open.spotify.com/album/3n4E33QEwe90voYnoAWGtc) | 2:28 | 2021-05-05 | 2022-04-17 |
 | [The Thing With Feathers](https://open.spotify.com/track/3mFbJCcXcQJiyiksotg99d) | [Melanie Adler](https://open.spotify.com/artist/551CfpY5WmasLWB8Ir0EKx) | [The Thing With Feathers](https://open.spotify.com/album/5yo0tGwa1UDw1FqiCEItFK) | 2:39 | 2021-05-16 | 2021-05-18 |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-04-15 |  |

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-528 songs - 22 hr 27 min
+529 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Everything Is Beautiful](https://open.spotify.com/track/2v98cEcIZAaif5qUFG4u09) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Dead Sweet](https://open.spotify.com/album/6o4DMskkLt10hGU8UBfxlK) | 4:38 | 2022-05-10 | 2022-10-29 |
 | [Excellerator](https://open.spotify.com/track/11M7ebTCTSmTaFLUfF3zob) | [OMOZO](https://open.spotify.com/artist/0UADN60KWS7lO5isbnePqy) | [Excellerator](https://open.spotify.com/album/7fT89oyy3uT3bsL7QSACfF) | 2:34 | 2023-04-28 |  |
 | [Express](https://open.spotify.com/track/6mg9PIxAN6fYCBaztFjhJr) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Express](https://open.spotify.com/album/4YuVkDxFHZbloTnjEaNdwz) | 2:21 | 2022-06-17 |  |
-| [Feather](https://open.spotify.com/track/3C9SSKzLA3egmM5g9KCnzK) | [Technicyan](https://open.spotify.com/artist/3v3AfH9gjJFvuSM7f2OduC) | [Feather](https://open.spotify.com/album/6hlHOzTl3rmbdWwBd90qJn) | 2:01 | 2022-06-17 |  |
+| [Feather](https://open.spotify.com/track/3C9SSKzLA3egmM5g9KCnzK) | [Technicyan](https://open.spotify.com/artist/3v3AfH9gjJFvuSM7f2OduC) | [Feather](https://open.spotify.com/album/6hlHOzTl3rmbdWwBd90qJn) | 2:01 | 2022-06-17 | 2023-05-15 |
+| [Feather](https://open.spotify.com/track/210hkp65BbA0awD0IX2gjE) | [Technicyan](https://open.spotify.com/artist/3v3AfH9gjJFvuSM7f2OduC) | [Feather](https://open.spotify.com/album/3RiGsKtfdiJHRtxq9XH331) | 2:01 | 2023-05-05 |  |
 | [feeling lost](https://open.spotify.com/track/01S0OY60f8Stt1HH1RLPQz) | [fresh from the moon](https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ) | [feeling lost](https://open.spotify.com/album/7fwjy1imypRtCgX0OWX3mN) | 2:18 | 2023-02-03 |  |
 | [Feels Like Flying](https://open.spotify.com/track/3RwFShfW7fauUMkqVuHXcB) | [Gael Rico](https://open.spotify.com/artist/7792K7G74q2ZpczQiXdvlX) | [For The Legacy](https://open.spotify.com/album/4Dza5QXbUJXa9LLGiuud1v) | 1:48 | 2022-04-05 |  |
 | [Finding Answers](https://open.spotify.com/track/1K1Hl2R6gOTZBfx6vAc2bE) | [Kenobig](https://open.spotify.com/artist/1YKfjPgzeaza19zUC9ZZAp) | [Finding Answers](https://open.spotify.com/album/2PQL43GznawqJyn1xIOZhg) | 2:12 | 2022-12-16 |  |

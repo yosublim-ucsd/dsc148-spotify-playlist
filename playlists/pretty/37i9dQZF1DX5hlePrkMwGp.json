@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 106217,
+  "num_followers": 106328,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjQyM2EwZTVjODU3MTdiNWM2ZDA0ZjkyYTk3ZmFhNjZlY2NkZDc0",
+  "snapshot_id": "MCxlODhlZjkzMDhjMjgyYjJhMjJmYTFhN2Q1MTA5ODI1ZjMyYjQyNDAz",
   "tracks": [
     {
       "added_at": "2021-08-02 09:30:31",
@@ -855,26 +855,6 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Nanbiye (From \"Teddy\")",
-        "url": "https://open.spotify.com/album/7Cj3ixwFvCNw6Z8Xx1dkuG"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "D. Imman",
-          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
-        }
-      ],
-      "duration_ms": 266250,
-      "name": "Nanbiye - From \"Teddy\"",
-      "url": "https://open.spotify.com/track/1AdLxSuPIZRsIp7IM743dE"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
         "name": "Namma Veettu Pillai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/28Jjlqhywu1ntsCxGYYVFD"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 243520,
       "name": "Gaandakannazhagi",
       "url": "https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Nanbiye (From \"Teddy\")",
+        "url": "https://open.spotify.com/album/7Cj3ixwFvCNw6Z8Xx1dkuG"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        }
+      ],
+      "duration_ms": 266250,
+      "name": "Nanbiye - From \"Teddy\"",
+      "url": "https://open.spotify.com/track/1AdLxSuPIZRsIp7IM743dE"
     },
     {
       "added_at": "2021-08-02 09:30:31",

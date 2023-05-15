@@ -4,7 +4,7 @@
 
 > A palavra do Senhor pra você dançar\. Foto: Kennto, YoungJhow, JoyFull
 
-111 songs - 5 hr 53 min
+112 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Celebrarei \- Remix](https://open.spotify.com/track/6zUlwL3hbCddtQgH4095DC) | [EA Sounds](https://open.spotify.com/artist/2OUchbsgqVFjOkPkb7ODk8), [Filipe Bruno](https://open.spotify.com/artist/0GEazjVq5gP7HUi3R077VJ), [Rodrigo Tailor](https://open.spotify.com/artist/6714wtiIqXaV2OaXjNq1Qa) | [Celebrarei \(Remix\)](https://open.spotify.com/album/0gk7skSRIQTipFBwt2OVYe) | 3:57 | 2022-09-02 | 2022-10-01 |
 | [Controle](https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Controle](https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx) | 4:07 | 2022-09-02 |  |
 | [Controle \(Remix\)](https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Controle \(Remix\)](https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs) | 2:39 | 2022-09-02 |  |
-| [Das Trevas para Luz \- VIP Version](https://open.spotify.com/track/37R0NpssvQdZ1o6TB9F5ld) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Viviane Franco](https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0) | [Renascido das Cinzas](https://open.spotify.com/album/2KlBD6CwyvCv9hMf77wVqS) | 3:24 | 2023-01-13 |  |
+| [Das Trevas para Luz \- VIP Version](https://open.spotify.com/track/1n2UbPR7xxkUrALmYchBp2) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Viviane Franco](https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0) | [Renascido das Cinzas](https://open.spotify.com/album/0v6aMoDSt4IvoFYHoBqmH8) | 3:24 | 2023-05-12 |  |
+| [Das Trevas para Luz \- VIP Version](https://open.spotify.com/track/37R0NpssvQdZ1o6TB9F5ld) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Viviane Franco](https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0) | [Renascido das Cinzas](https://open.spotify.com/album/2KlBD6CwyvCv9hMf77wVqS) | 3:24 | 2023-01-13 | 2023-05-15 |
 | [De Lá Vem \- Alex Chan Remix](https://open.spotify.com/track/1LLfTKb9zRMifVjhTzxZRT) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Diego Albuquerque](https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE), [Alex Chan](https://open.spotify.com/artist/1vjVmM3sk2KC4mxL92qYPv) | [De Lá Vem: Remixes](https://open.spotify.com/album/6wa7V61UgejIYJn3LsWNeK) | 3:08 | 2022-09-02 | 2022-11-26 |
 | [Deus É Bom o Tempo Todo](https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Decão Renovado](https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe) | [Deus É Bom o Tempo Todo](https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs) | 2:40 | 2022-09-02 |  |
 | [Dias de Verão](https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN) | [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Bruno Jovita](https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL) | [Dias de Verão](https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp) | 3:20 | 2022-10-08 |  |

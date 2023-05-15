@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-966 songs - 2 day 3 hr 11 min
+967 songs - 2 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,6 +708,7 @@
 | [Seed \(Rosemarie\)](https://open.spotify.com/track/5o0ahcfMrZiYHgXqBK3MWu) | [Certainty](https://open.spotify.com/artist/7EV1shS1eQmwnlC5iYMYuo) | [Temporary Love](https://open.spotify.com/album/59HyUqcYq4MkGWKGL7VuXQ) | 4:15 | 2022-04-01 | 2022-04-21 |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 | 2022-09-09 | 2022-10-08 |
 | [SELF\-SABOTAGE \(feat\. Good Charlotte\)](https://open.spotify.com/track/0Xio3TJaKcH819kEPjjLyS) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [SELF\-SABOTAGE \(feat\. Good Charlotte\)](https://open.spotify.com/album/5a8LFWG62uq5jiigTMxW3W) | 2:37 | 2022-09-30 | 2023-04-29 |
+| [SELF\-SABOTAGE \(feat\. Good Charlotte\)](https://open.spotify.com/track/3cjPUCNlR7Sk7126DV77ms) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [SELF\-SABOTAGE \(MC4D Remix\)](https://open.spotify.com/album/6yefd6WEMrUmBuvAMl8Dd8) | 2:37 | 2023-05-12 |  |
 | [Selfish](https://open.spotify.com/track/3oXmtjqeuOXl2YEOIWyOVV) | [My Body Sings Electric](https://open.spotify.com/artist/54PmfP84VjNAyJTWX7OSMM) | [Selfish](https://open.spotify.com/album/5rZ4HiqySK7ozwWMdaao1o) | 3:30 | 2022-03-25 | 2022-04-12 |
 | [Semi Kinda Right](https://open.spotify.com/track/37iTF9KJmvX5BsWLZKtO1X) | [One Flew West](https://open.spotify.com/artist/6uLb8ipu4g3Mae4AyQsVdU) | [Semi Kinda Right](https://open.spotify.com/album/1gbXvJ7eez0ZrvJiV5XpkG) | 2:58 | 2022-02-04 | 2022-05-04 |
 | [Send Her To Heaven](https://open.spotify.com/track/3HbablKHLbUEpn04GZiOWU) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Send Her To Heaven](https://open.spotify.com/album/4kN0SVgy0MShWKWpurdkBi) | 3:11 | 2021-12-10 | 2022-07-02 |
@@ -866,7 +867,7 @@
 | [Tonight \(feat\. iann dior\)](https://open.spotify.com/track/6Tsro9u5bnTJxFjuzuNA7R) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Tonight \(feat\. iann dior\)](https://open.spotify.com/album/53jX1nt0x4HeHwOGRbQWQR) | 2:15 | 2021-12-10 | 2022-06-03 |
 | [Too Far Gone](https://open.spotify.com/track/565Q8A8Gl8n4EhgVhpEBBx) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Too Far Gone](https://open.spotify.com/album/6V7FXy0ikYJQqziP4JLLaB) | 2:56 | 2022-01-14 | 2022-04-11 |
 | [TOO MUCH](https://open.spotify.com/track/4K9CC7VFiolZH2F1f4Pz3s) | [Eli Hurts](https://open.spotify.com/artist/2SPTuVsyrbhH0kvnxQgwDa) | [TOO MUCH](https://open.spotify.com/album/5T8HPGHikCk9RFeDNK3CKN) | 2:29 | 2021-12-10 | 2022-07-28 |
-| [toothfairy](https://open.spotify.com/track/4mG5tpeiYVHiy8gRKNCVcn) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [toothfairy](https://open.spotify.com/album/3h7BdSI3zOT1c4WhAGOEHd) | 2:20 | 2023-05-12 |  |
+| [toothfairy](https://open.spotify.com/track/4mG5tpeiYVHiy8gRKNCVcn) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [toothfairy](https://open.spotify.com/album/3h7BdSI3zOT1c4WhAGOEHd) | 2:20 | 2023-05-12 | 2023-05-15 |
 | [Tops](https://open.spotify.com/track/4KrNpmOQkRX5cay2KZiwsA) | [West Thebarton](https://open.spotify.com/artist/6ZQNx5JnPy6CmVur8jRPrv) | [Tops](https://open.spotify.com/album/1dIh4ab5vIKV8R3XOVZ88i) | 3:27 | 2022-03-25 | 2022-04-15 |
 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:11 | 2022-08-26 |  |
 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-09-09 |

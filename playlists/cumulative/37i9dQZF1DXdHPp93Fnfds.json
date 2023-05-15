@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Alto Cielo",
+        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291873,
+      "name": "Con Miedo a Ti",
+      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
+    },
+    {
+      "album": {
         "name": "\u00a1Ay!",
         "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
       },
@@ -5880,7 +5898,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 157714,
       "name": "Otra Noche en los '70",
       "url": "https://open.spotify.com/track/4ymeGJhf1r8HJefwWDjv7o"

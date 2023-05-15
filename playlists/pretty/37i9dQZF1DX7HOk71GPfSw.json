@@ -1,12 +1,12 @@
 {
   "description": "this heylog song is crazy. Cover: 100 gecs",
-  "num_followers": 391082,
+  "num_followers": 391478,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGJjMjMxN2Y4NDI1ZmQxNWVhOGIwNGRhMmY4MmIzZTZkZTc3NjRi",
+  "snapshot_id": "MCxiMjFiMjFhOGFjZWVlNWU5MmQwNDI1MGFjYmVlMDgzMjIzMmZmZjc2",
   "tracks": [
     {
       "added_at": "2023-04-12 14:00:55",
@@ -888,12 +888,16 @@
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "day n nite",
-        "url": "https://open.spotify.com/album/4cYM9IgNK3xF1O4WU4S1hp"
+        "url": "https://open.spotify.com/album/5bajYidKuLuo20V3qV17Zk"
       },
       "artists": [
         {
           "name": "kets4eki",
           "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "syris",
+          "url": "https://open.spotify.com/artist/5ZpX0S8FDHkArrCYqaGoYE"
         },
         {
           "name": "Nosgov",
@@ -902,15 +906,11 @@
         {
           "name": "Pixel Hood",
           "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
-        },
-        {
-          "name": "syris",
-          "url": "https://open.spotify.com/artist/5ZpX0S8FDHkArrCYqaGoYE"
         }
       ],
       "duration_ms": 158009,
       "name": "day n nite",
-      "url": "https://open.spotify.com/track/7qjEI8v5OIK6N1ruWrgc57"
+      "url": "https://open.spotify.com/track/6GCLWIInjc1P42qqG76FYr"
     },
     {
       "added_at": "2023-03-15 19:56:04",

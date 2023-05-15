@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Marquis Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,156 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,031 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 95 | [VEEMARKT \(feat\. Sun\-Mi Hong\)](https://open.spotify.com/track/4SkpZOd8fkCIufOCczT9kj) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Sun\-Mi Hong](https://open.spotify.com/artist/1D9VSAtsu84sjmeTihCQn0) | [VEEMARKT \(feat\. Sun\-Mi Hong\)](https://open.spotify.com/album/14AAY5DwZSKdGrJAy33u5G) | 3:31 |
 | 96 | [Bye Nashville](https://open.spotify.com/track/0I81H8iYEONeXjQVMaHxLW) | [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Bye Nashville](https://open.spotify.com/album/6HyKV2g3r85bzDYafQUuls) | 4:53 |
 | 97 | [Open Eye](https://open.spotify.com/track/0vYJOQzSOVD53UmRAP08aH) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Phil Ranelin](https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1), [Wendell Harrison](https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka) | [Phil Ranelin and Wendell Harrison JID016](https://open.spotify.com/album/5pOeJp4lMFkrQVzIJvXPgl) | 3:30 |
-| 98 | [Autumn](https://open.spotify.com/track/1RvnKHy0hsMbCGe72D7JlW) | [Jakob Park](https://open.spotify.com/artist/7DBGD1kB432PN8vBOvT3it), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Autumn](https://open.spotify.com/album/59ntoOGSEuWpsBeJnBHaZt) | 3:19 |
+| 98 | [Autumn](https://open.spotify.com/track/75A6fu5Tug54XA3VUg5tTh) | [Jakob Park](https://open.spotify.com/artist/7DBGD1kB432PN8vBOvT3it), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2) | [Life in a Major Key](https://open.spotify.com/album/50bnFZw0btHxjz8Uwhvp7d) | 3:19 |
 | 99 | [NOT TiGHT](https://open.spotify.com/track/0qZcBeIKskV61K1ekFJcar) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 4:08 |
 | 100 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 
-Snapshot ID: `MCwwOWI4M2ViNjUwYTViOWI4YTQzOWZlNmMxYzZhZTViODc2YTY2ZDU4`
+Snapshot ID: `MCwxNjcxNWI1MGE5ZDQxYmQyZTc1ZmUxY2Q2NmY0ZDgwNDE3NDM3ZWU5`

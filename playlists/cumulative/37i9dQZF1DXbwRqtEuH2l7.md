@@ -4,7 +4,7 @@
 
 > Long and constant \- lose yourself in the sustain.
 
-187 songs - 15 hr 18 min
+188 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Night Changes Many Thoughts](https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 3:51 | 2022-05-25 |  |
 | [Night Electricity Theme](https://open.spotify.com/track/0z6tXw30BznYjtvXgqncCx) | [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Anthology Resource Vol\. I: △△](https://open.spotify.com/album/4q6JB2fWo2EtChhqBbM61l) | 2:51 | 2022-07-08 |  |
 | [Night Electricity Theme](https://open.spotify.com/track/4CzRikULxlATeD0gVRB2Ya) | [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Anthology Resource Vol\. I: △△](https://open.spotify.com/album/4rXGRwsnAvt5Axa7VZClkP) | 2:51 | 2022-05-25 | 2022-07-27 |
+| [Nocturnal Sunrise](https://open.spotify.com/track/1p24tkQPOt8FB1dnzjAF6O) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z) | 4:35 | 2023-03-10 |  |
 | [Nocturnal Sunrise](https://open.spotify.com/track/2GsT0hxWndpSIepZI5Mye1) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 4:35 | 2022-05-25 | 2023-05-01 |
 | [NotMuchTime](https://open.spotify.com/track/5kBgPYwULw1XoUph5GJouo) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM), [Hydra Void](https://open.spotify.com/artist/6biKgmQCn7D5DkcrHVlTLb) | [NotMuchTime](https://open.spotify.com/album/6Lce4cj7MqejqiCFLIqnJQ) | 3:21 | 2022-05-25 |  |
 | [Nowhereland](https://open.spotify.com/track/2ZY1kGE4ygvBhi8uIYfTK8) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Nowhereland](https://open.spotify.com/album/68W98sYywtU3Ab9Zc3Gcdc) | 6:31 | 2022-05-25 | 2022-07-28 |
@@ -171,7 +172,7 @@
 | [T' Cow's Yed](https://open.spotify.com/track/474nLqSxFrQDLLwPDam5Ug) | [Nocturnal Emissions](https://open.spotify.com/artist/0WQSPkWeZe8mY8fInQXu41) | [Spiritflesh](https://open.spotify.com/album/7i0FawLGiN8KCIUL43glPq) | 4:12 | 2022-05-25 | 2022-10-14 |
 | [Tensión Hacia Tres](https://open.spotify.com/track/0tzujIWyPv8t9LqQQ7PTy2) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Tensión Hacia Tres](https://open.spotify.com/album/4iDLZ4aJLc4ZbiRwzvCx2s) | 15:52 | 2022-05-25 |  |
 | [The Canonization](https://open.spotify.com/track/0qnPb51JWtWmUdNt97ODnO) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:10 | 2022-05-25 |  |
-| [The Last Island](https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR) | [Time Away](https://open.spotify.com/artist/7nmRj45sN6eA6eMJsPjW1k) | [Age of Water](https://open.spotify.com/album/74ynFeiqnFkdw0m2Q6mD22) | 6:48 | 2022-05-25 |  |
+| [The Last Island](https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR) | [Time Away](https://open.spotify.com/artist/7nmRj45sN6eA6eMJsPjW1k) | [Age of Water](https://open.spotify.com/album/74ynFeiqnFkdw0m2Q6mD22) | 6:48 | 2022-05-25 | 2023-05-15 |
 | [The Look That Falls Upon Us Extends As If a Landform \- Remastered](https://open.spotify.com/track/6qR7UDfwNHj2NZjDX6hJ2i) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Sunlir \(Remastered\)](https://open.spotify.com/album/6FElkPlYYHMY2KkPSW9uqR) | 8:04 | 2022-07-01 |  |
 | [The Sacrifice](https://open.spotify.com/track/1G2eapqHAjlEdmv9yFAMaQ) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [The Sacrifice](https://open.spotify.com/album/1uB9z63XmV3PRTK1wwr6dd) | 4:00 | 2022-05-25 | 2022-07-28 |
 | [The Sacrifice](https://open.spotify.com/track/4BEdj9G17kmBuElba6lShF) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [Blind Emperor](https://open.spotify.com/album/0HkYfpjWLP0WYIj0xNFJ0N) | 4:00 | 2022-07-08 | 2022-11-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1085820,
+  "num_followers": 1086153,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTk3OTJmMjgzODgwNDM5NjBiYzdiOGMwZGM0MDM0MzU2MDY4YjFk",
+  "snapshot_id": "MCw0YmM2MDJmYTk5NTJiN2JjZjU0NWRhYjFmZWM3NmMyYjE3NTI1MTdi",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Axis: Bold As Love",
-        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+        "name": "\"Os Mutantes\"",
+        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "Os Mutantes",
+          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
         }
       ],
-      "duration_ms": 221826,
-      "name": "One Rainy Wish",
-      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
+      "duration_ms": 284986,
+      "name": "A Minha Menina",
+      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "\"Os Mutantes\"",
-        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
       },
       "artists": [
         {
-          "name": "Os Mutantes",
-          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 284986,
-      "name": "A Minha Menina",
-      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
+      "duration_ms": 221826,
+      "name": "One Rainy Wish",
+      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Spreading from the Ashes",
-        "url": "https://open.spotify.com/album/4szjmnQyAMKfYA509zvLyc"
-      },
-      "artists": [
-        {
-          "name": "The Peanut Butter Conspiracy",
-          "url": "https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "Flight of the Psychedelic Bumble Bee",
-      "url": "https://open.spotify.com/track/27aeWRq1h65omUnS16hciN"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Moby Grape (with Bonus Tracks)",
         "url": "https://open.spotify.com/album/5MTUjDTUWFuyhWW7oRqqmi"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 140146,
       "name": "8:05",
       "url": "https://open.spotify.com/track/58divL3uaZBaxs73jVHisg"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Spreading from the Ashes",
+        "url": "https://open.spotify.com/album/4szjmnQyAMKfYA509zvLyc"
+      },
+      "artists": [
+        {
+          "name": "The Peanut Butter Conspiracy",
+          "url": "https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "Flight of the Psychedelic Bumble Bee",
+      "url": "https://open.spotify.com/track/27aeWRq1h65omUnS16hciN"
     },
     {
       "added_at": "2023-01-18 16:20:47",

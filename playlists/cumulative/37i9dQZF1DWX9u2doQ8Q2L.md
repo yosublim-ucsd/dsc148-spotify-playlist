@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-732 songs - 1 day 21 hr 15 min
+733 songs - 1 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Gimme Some](https://open.spotify.com/track/1IbNNyZifUUoXMHCxMQTmx) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Gimme Some](https://open.spotify.com/album/6ssgCi2BiNcnXN6IoSgvr0) | 3:05 | 2022-07-07 | 2022-09-03 |
 | [Girl in the mirror](https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the mirror](https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa) | 3:10 | 2023-04-13 | 2023-04-15 |
 | [Girl in the Mirror](https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the Mirror](https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA) | 3:10 | 2023-04-13 | 2023-05-06 |
+| [Girl in the Mirror](https://open.spotify.com/track/1y0TECYCFAJGMtZByaSviJ) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Portrait](https://open.spotify.com/album/23aneMwJR1EVtAodadsvWj) | 3:11 | 2023-05-11 |  |
 | [GIRLS](https://open.spotify.com/track/2PnWhodF9qgRrQGy8GEK7H) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [GIRLS](https://open.spotify.com/album/2WJeO5eGm5dhR7W6eJ5yzD) | 4:05 | 2022-05-26 | 2022-06-29 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-23 | 2022-07-28 |
 | [Go](https://open.spotify.com/track/7KsJL2oqJWXJ8pbnVc5yND) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Go](https://open.spotify.com/album/63ivUbYvqKIaYh8OQJ7EaN) | 3:50 | 2023-03-09 |  |
@@ -233,7 +234,7 @@
 | [I'm With You](https://open.spotify.com/track/2K4goyAH4A39JmYjS2tTTB) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [I'm With You](https://open.spotify.com/album/2tMEEwOIKUwiSOLd1V3T7X) | 3:05 | 2022-07-27 | 2022-09-09 |
 | [ID](https://open.spotify.com/track/5iH6liPFQKRDP1u0fF7Xi2) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [ID](https://open.spotify.com/album/3BN4zSpeSiesTiYE5XsDxL) | 4:41 | 2022-12-15 | 2022-12-17 |
 | [ID](https://open.spotify.com/track/6TDSXejROuhYHBthOKllOH) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [ID](https://open.spotify.com/album/3v1UEzXlDSSkrcqSAd6GiI) | 4:41 | 2022-12-15 | 2022-12-28 |
-| [If The Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If The Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 | 2023-05-04 |  |
+| [If The Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If The Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 | 2023-05-04 | 2023-05-15 |
 | [iina feat\. ANARCHY](https://open.spotify.com/track/1dKpLk4NuBezRALQuuhFmx) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Bankroll Got It](https://open.spotify.com/artist/42H2ObFiITAP87vskCGIh5), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [iina feat\. ANARCHY](https://open.spotify.com/album/2gmBOlwrlh72vYJVN2wU18) | 3:33 | 2022-08-24 | 2022-10-05 |
 | [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 | 2023-01-10 | 2023-04-05 |
 | [Inner Blue \- PMC168 Remix](https://open.spotify.com/track/7mDyBlO3lhKxjZVkHR24qg) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [DEPOT \(vol.1\)](https://open.spotify.com/album/42tLTAB1hydObvvKaWuOBN) | 4:08 | 2023-01-24 | 2023-02-01 |

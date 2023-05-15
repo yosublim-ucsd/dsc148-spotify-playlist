@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-325 songs - 1 day 3 hr 29 min
+326 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [miu](https://open.spotify.com/track/1GSoTgzYMRYI8yZM056Sml) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [miu](https://open.spotify.com/album/2wnxhsvtfuzDH1ETN0pr8p) | 4:03 | 2021-12-26 |  |
 | [Moderato](https://open.spotify.com/track/3IdBCxWesjgokGkiX2I1nT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Moderato](https://open.spotify.com/album/32wjr730trXvUpmmW66IUn) | 3:57 | 2021-12-26 | 2022-07-28 |
 | [Moderato](https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:57 | 2022-07-15 |  |
+| [Momento](https://open.spotify.com/track/0EtJr0s6hot51xSgQ2ZBxI) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes + Utopía](https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR) | 4:43 | 2023-05-05 |  |
 | [Momento](https://open.spotify.com/track/5uYxd2vX7yHcszTXcI1fiK) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes + Utopía](https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e) | 4:43 | 2022-07-08 | 2023-04-29 |
 | [Momentum](https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY), [Dawncall](https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq) | [Momentum](https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp) | 4:19 | 2022-04-01 |  |
 | [Mother](https://open.spotify.com/track/1dHMMGQxzMSFPBF1BtAmvX) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [RIPTIDE](https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P) | 6:09 | 2021-12-26 | 2022-07-28 |
@@ -259,7 +260,7 @@
 | [Sleepless](https://open.spotify.com/track/7KB4CfwXx6fdzGvLo4JKsW) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate \(B\-Sides\)](https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ) | 3:05 | 2023-03-23 |  |
 | [Solace](https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Opal](https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl) | 2:44 | 2023-01-20 |  |
 | [Solace](https://open.spotify.com/track/36KdtPFaNf5agHpqQqE7ka) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Solace](https://open.spotify.com/album/60xW167qnSy1Uukg6g6Mce) | 2:44 | 2022-04-01 | 2023-01-27 |
-| [Solstice](https://open.spotify.com/track/2A2KhiDjc7NXsqhuMyKXp9) | [SVLBRD](https://open.spotify.com/artist/40SVMdCuPtqI6suYOG3Qk0) | [Solstice](https://open.spotify.com/album/5In0aQDAEJHdrI4oxgzdtX) | 8:00 | 2021-12-26 |  |
+| [Solstice](https://open.spotify.com/track/2A2KhiDjc7NXsqhuMyKXp9) | [SVLBRD](https://open.spotify.com/artist/40SVMdCuPtqI6suYOG3Qk0) | [Solstice](https://open.spotify.com/album/5In0aQDAEJHdrI4oxgzdtX) | 8:00 | 2021-12-26 | 2023-05-15 |
 | [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 | 2022-05-06 |  |
 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 | 2022-04-01 |  |
 | [Stapler](https://open.spotify.com/track/54ZttkOfyEW4JVZblFopLt) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Stapler](https://open.spotify.com/album/2lvi6nRKSPfzIVlRw5fyb3) | 3:41 | 2021-12-26 | 2022-01-25 |

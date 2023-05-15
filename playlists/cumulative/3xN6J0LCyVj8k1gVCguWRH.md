@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,216 songs - 5 day 7 hr 16 min
+2,220 songs - 5 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,11 +63,13 @@
 | [A Veces A Besos](https://open.spotify.com/track/586nNq2LbKBnjMvtFTrjWJ) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [A Veces A Besos](https://open.spotify.com/album/7teveKnXba4XXZ1CxQLf6k) | 2:26 | 2022-05-27 | 2022-06-12 |
 | [A.I.](https://open.spotify.com/track/3HJQqwpGOxLLW3SKIsrfER) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodeje](https://open.spotify.com/artist/66tEYHooGXFu7LqoGFWJ54) | [A.I.](https://open.spotify.com/album/2W8df3MDLMaN4YJWV13mos) | 3:02 | 2020-05-22 | 2020-06-10 |
 | [Aba Warum](https://open.spotify.com/track/2Q32AikYiCIF5DJ6bdJR1X) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [prodbypengg](https://open.spotify.com/artist/5BMnIDhlF7NbpuiNgkyD9b), [beslik meister](https://open.spotify.com/artist/0zw17mk0oEnrv4STjNgxsr) | [Aba Warum](https://open.spotify.com/album/0Bh26JvXXpZbfFdttCqlDy) | 3:17 | 2021-06-26 | 2021-07-11 |
+| [abbi's interlude](https://open.spotify.com/track/52c1zWXAGIR4Uw8r5kexLF) | [inso](https://open.spotify.com/artist/4rQ3CsoaPcAKfYJpKXKRyR) | [imma do me](https://open.spotify.com/album/1su357WOnuFCtNquC3yhzl) | 1:56 | 2023-05-14 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-07-06 | 2022-07-27 |
 | [ABYSS](https://open.spotify.com/track/3epolh4SfvMrqvC8Atm0HA) | [Amara](https://open.spotify.com/artist/52F2aDMq8CHtduF5nLXRrw) | [ABYSS](https://open.spotify.com/album/2dM26keu4SUTayflswYYFp) | 3:26 | 2021-04-24 | 2021-05-09 |
 | [Addicted](https://open.spotify.com/track/002za8woBKJsCCbj30TlPS) | [KelKeyz](https://open.spotify.com/artist/6lKXtmwJnGCpPoPIOit5Oy) | [Addicted](https://open.spotify.com/album/7JijvRD9EIvdwRxGb7GhKo) | 2:44 | 2022-04-08 | 2022-04-24 |
 | [ADDICTED](https://open.spotify.com/track/4jVEHJXqOgXXwZDv0idl5d) | [MADNIK](https://open.spotify.com/artist/6Z0ZpfsNLeVU7c88gBa62V) | [ADDICTED](https://open.spotify.com/album/1GyprbGBubIOIaMvClhFEt) | 3:18 | 2023-03-07 | 2023-04-01 |
 | [Addicted to You](https://open.spotify.com/track/2esiR5CXxJeiOFTBy117m2) | [Kris James](https://open.spotify.com/artist/2CV7lJG6UyNRDuVM8SzNv8) | [Kris James](https://open.spotify.com/album/4kSYwT6XJPQHMKmey578XS) | 3:10 | 2021-12-08 | 2022-01-07 |
+| [Addington Square](https://open.spotify.com/track/6un5oUXBz9cblPadYgu2TS) | [Prismala](https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY) | [Addington Square](https://open.spotify.com/album/6Rmnk0wps1l5AD5iX6VdrD) | 3:21 | 2023-05-14 |  |
 | [Affinity](https://open.spotify.com/track/6qPe8aLtxdGH3xfTJBh0sl) | [Tnola](https://open.spotify.com/artist/3qsiuJcX1xermvwbJ6mg6O) | [Affinity](https://open.spotify.com/album/4y4bBrQWEhqVgXWwbmKgA7) | 3:12 | 2022-11-02 | 2022-11-21 |
 | [After All \- Radio Edit](https://open.spotify.com/track/3o3dy08AQwxYuEKfoY6TQ3) | [Thomas Will](https://open.spotify.com/artist/3BSndMDvNNBCHSVjvxNqmV), [Roni Tran](https://open.spotify.com/artist/0tefsWejwv0Z61sfWzlUe6) | [After All](https://open.spotify.com/album/2QrelLyiYbgwOY1tuH9c17) | 3:34 | 2021-03-19 | 2021-04-04 |
 | [After Midnight](https://open.spotify.com/track/3dUVYBFVxFyMNIb3IBUghd) | [Above Water](https://open.spotify.com/artist/5liqSYNsRihg8rBQaTQCgw) | [After Midnight](https://open.spotify.com/album/2SAwCvvOBNJnyn8dMysGrY) | 3:25 | 2022-06-19 | 2022-07-07 |
@@ -619,6 +621,7 @@
 | [Everything We Know](https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS) | [Eliyanah](https://open.spotify.com/artist/4Fy9ktzHsOjSuaaOECXtaC) | [Everything We Know](https://open.spotify.com/album/6TXB9Ix1LXaTfxznJ6eZIh) | 3:24 | 2023-03-15 | 2023-04-03 |
 | [exemptions](https://open.spotify.com/track/14n0K6nyP9advH13yqmYRJ) | [Betriu](https://open.spotify.com/artist/3gBioiOIJH53IaoFEssBvQ) | [exemptions](https://open.spotify.com/album/3ZJ6wyEfU4smOwD7VCvVio) | 2:19 | 2023-04-06 | 2023-04-30 |
 | [Exodus](https://open.spotify.com/track/5MRQvbpvXejJJy0OWciP8G) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 7:39 | 2021-07-11 |  |
+| [Eye to Eye](https://open.spotify.com/track/3bSYAnvASjfOQbHjJ5AqU9) | [Megan Britt](https://open.spotify.com/artist/41G7vJN8lnQUx054VywKve) | [Eye to Eye](https://open.spotify.com/album/0Rm8RveRoAMtJcxTQHsFwt) | 3:18 | 2023-05-14 |  |
 | [Eyes Closed](https://open.spotify.com/track/3E3zkflz6Oe2zCcjHpw7qw) | [Max Green](https://open.spotify.com/artist/2dzz9G09zy2vDqCFo1emQd) | [Eyes Closed](https://open.spotify.com/album/5QgQhahldhB5zQ5PmNd7Dv) | 4:03 | 2022-03-04 | 2022-03-26 |
 | [Fade Away](https://open.spotify.com/track/0nVKBy2n1QYLL7XBIvq7KJ) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Fade Away](https://open.spotify.com/album/1BlBwOb5xAl7VzrHdXmBBt) | 3:14 | 2020-09-28 | 2020-10-12 |
 | [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:36 | 2019-09-29\* | 2021-11-19 |
@@ -1804,6 +1807,7 @@
 | [Street Corner Singing](https://open.spotify.com/track/65zvSsLOzNaGmqYfC0prfQ) | [The Como Brothers](https://open.spotify.com/artist/0b224J8SgGduU4c23pfuKv) | [Street Corner Singing](https://open.spotify.com/album/5A7jJTbvMFD1qRONJZhvXR) | 2:56 | 2021-12-31 | 2022-01-15 |
 | [Strings](https://open.spotify.com/track/7sUP5q7AyJlC5aLHjt6pkD) | [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [Strings](https://open.spotify.com/album/3eCzkbYqdg9kKgBJCH1Xpa) | 3:45 | 2019-12-03 | 2019-12-11 |
 | [Stronger](https://open.spotify.com/track/1IBFJqMbzTkPENRZsHzJZd) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Stronger / Love \(and everything between\)](https://open.spotify.com/album/2jyZRrw9mLqG7mjdWsHf1v) | 3:20 | 2023-05-08 |  |
+| [Stuck](https://open.spotify.com/track/74K6Vgm24ejN4aWVAb8puS) | [Mike Bauer](https://open.spotify.com/artist/6WVlhAlmeMEF5ItQOBijRC) | [Stuck](https://open.spotify.com/album/4Fb4hvBdgmtRVYfx8cMm4M) | 3:20 | 2023-05-14 |  |
 | [Stuck on You](https://open.spotify.com/track/2rDLmRfQ5ePrrI0PfDj5hT) | [Frankie Zulferino](https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC) | [Stuck on You](https://open.spotify.com/album/7cRaEgrftHeonV50MleArj) | 3:32 | 2021-10-09 | 2021-10-23 |
 | [Stupid](https://open.spotify.com/track/5tiXe9KoGmYHHBZwKHhAfD) | [Niki Kand](https://open.spotify.com/artist/2vh6QStsqt7NuA0XkUykhH) | [Stupid](https://open.spotify.com/album/1KWFdSnejE6hTtZoGV2i02) | 2:01 | 2020-10-26 | 2020-11-06 |
 | [Stupid Me](https://open.spotify.com/track/3yl0hK8awY340PpLYGuwZg) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [NIIVA](https://open.spotify.com/album/4DoVWd6Ak9O9Qo5dUs8KEx) | 3:07 | 2021-02-19 | 2021-03-06 |

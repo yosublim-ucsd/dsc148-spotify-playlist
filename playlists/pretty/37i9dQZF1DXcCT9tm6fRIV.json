@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 232050,
+  "num_followers": 232104,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWY3MDgyYjI2ODAxODJmMjM4MmRkNjg5MzdjN2IzNWRlNmMyODEz",
+  "snapshot_id": "MCxjN2ZkOWFjOGY2MTNjMjk5YmEyY2E3NjIxNjhhZmViZWMwZDUzMGVl",
   "tracks": [
     {
       "added_at": "2022-03-18 03:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Solo Guitarra",
-        "url": "https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs"
+        "name": "Raul Lavi\u00e9-Los Elegidos",
+        "url": "https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV"
       },
       "artists": [
         {
-          "name": "Luis Salinas",
-          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
+          "name": "Ra\u00fal Lavi\u00e9",
+          "url": "https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D"
         }
       ],
-      "duration_ms": 154293,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/1Pb3Q2EqL9LfQ78lwAykav"
+      "duration_ms": 158373,
+      "name": "Los Mareados",
+      "url": "https://open.spotify.com/track/03bPLvobYz452ePAEksJgY"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Raul Lavi\u00e9-Los Elegidos",
-        "url": "https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV"
+        "name": "Solo Guitarra",
+        "url": "https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs"
       },
       "artists": [
         {
-          "name": "Ra\u00fal Lavi\u00e9",
-          "url": "https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D"
+          "name": "Luis Salinas",
+          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
         }
       ],
-      "duration_ms": 158373,
-      "name": "Los Mareados",
-      "url": "https://open.spotify.com/track/03bPLvobYz452ePAEksJgY"
+      "duration_ms": 154293,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/1Pb3Q2EqL9LfQ78lwAykav"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -431,22 +431,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Toda Mi Vida",
-        "url": "https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR"
+        "name": "Vientos del Sur",
+        "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
       },
       "artists": [
         {
-          "name": "An\u00edbal Troilo",
-          "url": "https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN"
-        },
-        {
-          "name": "Francisco Fiorentino",
-          "url": "https://open.spotify.com/artist/0chC6Ta4I8hpmaZ28GUdMT"
+          "name": "Elena Roger",
+          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
         }
       ],
-      "duration_ms": 183560,
-      "name": "Tinta Roja",
-      "url": "https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL"
+      "duration_ms": 198437,
+      "name": "Siempre Se Vuelve a Buenos Aires",
+      "url": "https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -467,18 +463,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Vientos del Sur",
-        "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
+        "name": "Toda Mi Vida",
+        "url": "https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR"
       },
       "artists": [
         {
-          "name": "Elena Roger",
-          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+          "name": "An\u00edbal Troilo",
+          "url": "https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN"
+        },
+        {
+          "name": "Francisco Fiorentino",
+          "url": "https://open.spotify.com/artist/0chC6Ta4I8hpmaZ28GUdMT"
         }
       ],
-      "duration_ms": 198437,
-      "name": "Siempre Se Vuelve a Buenos Aires",
-      "url": "https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE"
+      "duration_ms": 183560,
+      "name": "Tinta Roja",
+      "url": "https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Manzi, caminos de barro y pampa",
-        "url": "https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        }
-      ],
-      "duration_ms": 216465,
-      "name": "Romance de barrio",
-      "url": "https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Docke",
         "url": "https://open.spotify.com/album/73sutmVaIOSflj6XV4hjAL"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 179400,
       "name": "Niebla del Riachuelo",
       "url": "https://open.spotify.com/track/4Jupi4tbrMAT8HriFC5xQN"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Manzi, caminos de barro y pampa",
+        "url": "https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        }
+      ],
+      "duration_ms": 216465,
+      "name": "Romance de barrio",
+      "url": "https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "Fugata",
+        "url": "https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy"
+      },
+      "artists": [
+        {
+          "name": "Quinteto Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8"
+        }
+      ],
+      "duration_ms": 161794,
+      "name": "Fugata",
+      "url": "https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 174693,
       "name": "La Luz de un F\u00f3sforo - En Vivo",
       "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "Fugata",
-        "url": "https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy"
-      },
-      "artists": [
-        {
-          "name": "Quinteto Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8"
-        }
-      ],
-      "duration_ms": 161794,
-      "name": "Fugata",
-      "url": "https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Un Gui\u00f1o",
-        "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Un Gui\u00f1o",
-      "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "A Las Orquestas",
         "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 251472,
       "name": "El Andariego",
       "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Un Gui\u00f1o",
+        "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Un Gui\u00f1o",
+      "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
-        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "Tangazos",
         "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
       },
@@ -1215,26 +1215,6 @@
       "duration_ms": 161061,
       "name": "Se Tiran Conmigo",
       "url": "https://open.spotify.com/track/52bmeu33Kkm1hfEsuvivs5"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "De Criollos y Tangueros",
-        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        },
-        {
-          "name": "Walter Laborde",
-          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
-        }
-      ],
-      "duration_ms": 253769,
-      "name": "Payada Gardel-Razzano",
-      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1259,6 +1239,26 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "De Criollos y Tangueros",
+        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        },
+        {
+          "name": "Walter Laborde",
+          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
+        }
+      ],
+      "duration_ms": 253769,
+      "name": "Payada Gardel-Razzano",
+      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "Mi Version de los Hechos",
         "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Todo Piazzolla",
-        "url": "https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO"
-      },
-      "artists": [
-        {
-          "name": "Leopoldo Federico y su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w"
-        }
-      ],
-      "duration_ms": 196773,
-      "name": "Tango Del Angel",
-      "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Comunidad",
         "url": "https://open.spotify.com/album/2W4TjCwnnCsqSnhczdVL76"
       },
@@ -1311,50 +1295,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
-        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
+        "name": "Todo Piazzolla",
+        "url": "https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO"
       },
       "artists": [
         {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+          "name": "Leopoldo Federico y su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w"
         }
       ],
-      "duration_ms": 133760,
-      "name": "Si Tu Quisieras",
-      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "El Tango",
-        "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
-      },
-      "artists": [
-        {
-          "name": "Chino Laborde",
-          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
-        }
-      ],
-      "duration_ms": 158487,
-      "name": "Desencuentro",
-      "url": "https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "La Tana Con Todo",
-        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Malevaje",
-      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
+      "duration_ms": 196773,
+      "name": "Tango Del Angel",
+      "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1379,6 +1331,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "El Tango",
+        "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
+      },
+      "artists": [
+        {
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+        }
+      ],
+      "duration_ms": 158487,
+      "name": "Desencuentro",
+      "url": "https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "Todo Es Amor",
         "url": "https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5"
       },
@@ -1395,18 +1363,34 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Hoy Baile Hoy Vol. 1",
-        "url": "https://open.spotify.com/album/5cSEe96DBT8SY0yAPOsowh"
+        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
+        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
       },
       "artists": [
         {
-          "name": "Raul Garello",
-          "url": "https://open.spotify.com/artist/1VURQTVc0y9vdnSWMhWnYu"
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
         }
       ],
-      "duration_ms": 206354,
-      "name": "Che Buenos Aires",
-      "url": "https://open.spotify.com/track/23ZBJ1Rno8l54Go7DMGQVY"
+      "duration_ms": 133760,
+      "name": "Si Tu Quisieras",
+      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "La Tana Con Todo",
+        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Malevaje",
+      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 191320,
       "name": "Ave de Paso",
       "url": "https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Hoy Baile Hoy Vol. 1",
+        "url": "https://open.spotify.com/album/5cSEe96DBT8SY0yAPOsowh"
+      },
+      "artists": [
+        {
+          "name": "Raul Garello",
+          "url": "https://open.spotify.com/artist/1VURQTVc0y9vdnSWMhWnYu"
+        }
+      ],
+      "duration_ms": 206354,
+      "name": "Che Buenos Aires",
+      "url": "https://open.spotify.com/track/23ZBJ1Rno8l54Go7DMGQVY"
     }
   ],
   "unique_name": "Tangos y Milongas",

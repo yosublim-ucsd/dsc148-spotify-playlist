@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 167807,
+  "num_followers": 167979,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjQ2MDk4MWRiMTViMDY2NDdmYTBjN2ViMmZlZGZmMWU1MGNhZDdj",
+  "snapshot_id": "MCw0M2E0MzM5Y2U1NmU0ZjUzYjU5MjM3NmQ3ZjRkOGJiODIwNjZlNzli",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Killing Me",
-        "url": "https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 194055,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 229743,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 194055,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Lights Up (Myd Remix)",
         "url": "https://open.spotify.com/album/2OozzcdZGwkAaj8zrEQcLR"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 215765,
       "name": "Lights Up - Myd Remix",
       "url": "https://open.spotify.com/track/3e3KjLET4atLyeADRBM4hI"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Rosewood",
-        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "One of Those Nights",
+        "url": "https://open.spotify.com/album/3VrD88UOYjJ8HVSSDHurkq"
+      },
+      "artists": [
+        {
+          "name": "Didier Armeni",
+          "url": "https://open.spotify.com/artist/0rAWzQbB0Qbw4P4vBfFpka"
+        }
+      ],
+      "duration_ms": 223738,
+      "name": "One of Those Nights",
+      "url": "https://open.spotify.com/track/5bYSqdcyJ74rLL299UJAcC"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Better By Your Side",
         "url": "https://open.spotify.com/album/75ElI0tETDWBJksIrZlFD0"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 319917,
       "name": "Better By Your Side",
       "url": "https://open.spotify.com/track/33lTQD1Pyh4AFlj7avgfWm"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "One of Those Nights",
-        "url": "https://open.spotify.com/album/3VrD88UOYjJ8HVSSDHurkq"
-      },
-      "artists": [
-        {
-          "name": "Didier Armeni",
-          "url": "https://open.spotify.com/artist/0rAWzQbB0Qbw4P4vBfFpka"
-        }
-      ],
-      "duration_ms": 223738,
-      "name": "One of Those Nights",
-      "url": "https://open.spotify.com/track/5bYSqdcyJ74rLL299UJAcC"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "IT WON\u2019T DO (MAFRO Remix)",
-        "url": "https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        }
-      ],
-      "duration_ms": 310153,
-      "name": "IT WON\u2019T DO - MAFRO Remix",
-      "url": "https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Welcome To Dinna",
         "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 340612,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/4MdbPf2h9dvCASJzPvwKQR"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "IT WON\u2019T DO (MAFRO Remix)",
+        "url": "https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "duration_ms": 310153,
+      "name": "IT WON\u2019T DO - MAFRO Remix",
+      "url": "https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Capricorn Sun",
-        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 299360,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/7pPoGOBTtlEm724TAegcw2"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "AFRAID",
         "url": "https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 208000,
       "name": "AFRAID",
       "url": "https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Capricorn Sun",
+        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 299360,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/7pPoGOBTtlEm724TAegcw2"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Talisman",
-        "url": "https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9"
-      },
-      "artists": [
-        {
-          "name": "Fakear",
-          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
-        }
-      ],
-      "duration_ms": 225482,
-      "name": "Olele",
-      "url": "https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Change / Take My Time",
         "url": "https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 292040,
       "name": "Take My Time",
       "url": "https://open.spotify.com/track/4vYuZjqIxGsRzyqjV15dWk"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Talisman",
+        "url": "https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9"
+      },
+      "artists": [
+        {
+          "name": "Fakear",
+          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
+        }
+      ],
+      "duration_ms": 225482,
+      "name": "Olele",
+      "url": "https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl"
     },
     {
       "added_at": "2023-05-11 22:00:00",

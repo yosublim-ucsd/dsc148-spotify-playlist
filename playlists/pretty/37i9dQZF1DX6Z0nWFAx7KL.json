@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 31770,
+  "num_followers": 31810,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2E2MTRkYmU0ZjBhNDM0Nzk5ZDA4MDBkZDVhMDZkMDVmMzg4NjUz",
+  "snapshot_id": "MCxkNjAwZDlhZjU2MjM2MDgyYmU1MThmYjdiYTI0OWFlZTg2M2JhZjIz",
   "tracks": [
     {
       "added_at": "2023-05-12 08:05:26",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
-        "name": "The Beach",
-        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
         "name": "Someday (Latroit Edition)",
         "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 201656,
       "name": "Someday (Latroit Edition)",
       "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
+        "name": "Botanica",
+        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 187377,
+      "name": "Botanica",
+      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
         "name": "My Darling",
         "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 174193,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
-        "name": "Botanica",
-        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
-      },
-      "artists": [
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 187377,
-      "name": "Botanica",
-      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -779,30 +779,6 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
-      },
-      "artists": [
-        {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
-        },
-        {
-          "name": "CMC$",
-          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 152903,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 155000,
       "name": "Free Falling Love",
       "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
+      },
+      "artists": [
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        {
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 152903,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
+      },
+      "artists": [
+        {
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+        },
+        {
+          "name": "Lenji",
+          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
+        }
+      ],
+      "duration_ms": 138026,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
         "name": "Forever, Now",
         "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
       },
@@ -943,22 +963,22 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
       },
       "artists": [
         {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         },
         {
-          "name": "Lenji",
-          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
         }
       ],
-      "duration_ms": 138026,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH"
+      "duration_ms": 159845,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -983,26 +1003,6 @@
       "duration_ms": 127021,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
-        "name": "Apologize",
-        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 159845,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 156375,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
+      },
+      "artists": [
+        {
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
+        }
+      ],
+      "duration_ms": 171944,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu"
       },
@@ -1359,26 +1375,6 @@
       "duration_ms": 161236,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
-        "name": "Talk (Remixes)",
-        "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 192928,
-      "name": "Talk (with Royal & the Serpent)",
-      "url": "https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -1407,34 +1403,22 @@
     {
       "added_at": "2023-05-12 08:05:26",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
+        "name": "Talk (Remixes)",
+        "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
       },
       "artists": [
         {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
-        }
-      ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
-    },
-    {
-      "added_at": "2023-05-12 08:05:26",
-      "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM"
-      },
-      "artists": [
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
         {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
+      "duration_ms": 192928,
+      "name": "Talk (with Royal & the Serpent)",
+      "url": "https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB"
     },
     {
       "added_at": "2023-05-12 08:05:26",
@@ -1451,6 +1435,22 @@
       "duration_ms": 241061,
       "name": "See You On The Other Side",
       "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
+    },
+    {
+      "added_at": "2023-05-12 08:05:26",
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
     },
     {
       "added_at": "2023-05-12 08:05:26",

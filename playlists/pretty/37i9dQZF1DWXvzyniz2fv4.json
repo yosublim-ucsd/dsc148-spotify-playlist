@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 147433,
+  "num_followers": 147491,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTQ1MWRiMTc0MTZlMjY5MDZmNDIzYmVjZWFlNjExYmJjMjMwMmFi",
+  "snapshot_id": "MCxmZjFkMDA4MTRiNTA4MmZkZDk0ZjQxODY3ZGRkYjBjODdlZDQ2YWFj",
   "tracks": [
     {
       "added_at": "2023-04-28 03:01:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Pra Voc\u00ea Ficar",
-        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        }
-      ],
-      "duration_ms": 160819,
-      "name": "Pra Voc\u00ea Ficar",
-      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 139000,
       "name": "Mensagem",
       "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Pra Voc\u00ea Ficar",
+        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 160819,
+      "name": "Pra Voc\u00ea Ficar",
+      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Nossas M\u00eddias",
-        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
-      },
-      "artists": [
-        {
-          "name": "Gabziim",
-          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
-        },
-        {
-          "name": "Sim\u00f8n",
-          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Nossas M\u00eddias",
-      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Ir Embora",
         "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 125932,
       "name": "Ir Embora",
       "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Nossas M\u00eddias",
+        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
+      },
+      "artists": [
+        {
+          "name": "Gabziim",
+          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
+        },
+        {
+          "name": "Sim\u00f8n",
+          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Nossas M\u00eddias",
+      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
       },
       "artists": [
         {
           "name": "Lontraz",
           "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
         }
       ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1503,22 +1507,18 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
       },
       "artists": [
         {
           "name": "Lontraz",
           "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
         }
       ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1583,6 +1583,30 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "27 Dias",
+        "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
+      },
+      "artists": [
+        {
+          "name": "Douriel",
+          "url": "https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF"
+        },
+        {
+          "name": "Dracko",
+          "url": "https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        }
+      ],
+      "duration_ms": 139097,
+      "name": "27 Dias",
+      "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "Lance Casual",
         "url": "https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi"
       },
@@ -1607,30 +1631,6 @@
       "duration_ms": 181546,
       "name": "Lance Casual",
       "url": "https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "27 Dias",
-        "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
-      },
-      "artists": [
-        {
-          "name": "Douriel",
-          "url": "https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF"
-        },
-        {
-          "name": "Dracko",
-          "url": "https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY"
-        },
-        {
-          "name": "Indie Space",
-          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
-        }
-      ],
-      "duration_ms": 139097,
-      "name": "27 Dias",
-      "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
     }
   ],
   "unique_name": "Resenha na Praia",

@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: SCANDAL
 
-914 songs - 2 day 9 hr 55 min
+915 songs - 2 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Shadow Boxer](https://open.spotify.com/track/6hPtn0GjjzG6tSm5wbriFR) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Shadow Boxer](https://open.spotify.com/album/2Br2UWgU5mADVWvMQC0i0b) | 4:54 | 2022-08-09 | 2022-09-15 |
 | [SHE](https://open.spotify.com/track/7DaklsEX4pc1Z4YxvCfVpv) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [BOHEMIA](https://open.spotify.com/album/6VRZvJEeywpbXU6CAFQsx0) | 3:37 | 2022-07-07 | 2022-07-10 |
 | [She Side Blue](https://open.spotify.com/track/3c1eTQUhycwhFMJ1iXe7b3) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [She Side Blue](https://open.spotify.com/album/7CwTpGmeYUvdwoeNQqQ9vO) | 3:46 | 2022-06-14 | 2022-06-17 |
+| [she so come!!!](https://open.spotify.com/track/0QH4z68TORGX2tBGuYPkr2) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ロンリーメイビー](https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E) | 2:59 | 2023-05-09 |  |
 | [SHINOBI\-NAI \- 雫カリウタver.](https://open.spotify.com/track/14MdQVcH0BIMuZa3TOySmh) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [SHINOBI\-NAI \(雫カリウタver.\)](https://open.spotify.com/album/6W6v13UkKLgISktIaC5hbs) | 3:30 | 2022-05-31 | 2022-07-22 |
 | [shinon](https://open.spotify.com/track/1KqQkc5arJqW3YVLZbjoHs) | [snooty](https://open.spotify.com/artist/4yuXex0AzwrDsTChZmGYvR) | [shinon](https://open.spotify.com/album/42zTHNSwZXqDGUQlQy1LTU) | 4:54 | 2022-08-30 | 2022-09-07 |
 | [SHOCK!!!](https://open.spotify.com/track/1YxIJ78KNEzI6WutmYYeKM) | [YMB](https://open.spotify.com/artist/4sRqEn62eCbn4ltnSZMNN5) | [SHOCK!!!](https://open.spotify.com/album/2GWi3AFNMiD6N0S5VXLMPI) | 4:05 | 2022-05-26 | 2022-06-04 |
@@ -764,7 +765,7 @@
 | [心を照らせ!](https://open.spotify.com/track/7EPAubvUXuj7fMmQ7GBJBd) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [心を照らせ!](https://open.spotify.com/album/60QWfUY2GUB0z7QoIlzp7G) | 3:21 | 2022-07-19 | 2022-07-27 |
 | [心音](https://open.spotify.com/track/6c0WDgIpbryz2p0ZaT8ZQe) | [snooty](https://open.spotify.com/artist/4yuXex0AzwrDsTChZmGYvR) | [心音](https://open.spotify.com/album/540ycM7XsviYGoE8jmoIHg) | 4:54 | 2022-08-30 | 2022-09-01 |
 | [心願成就](https://open.spotify.com/track/6udt06khOXgsBIlsRb1wsD) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [心願成就](https://open.spotify.com/album/2FUsgAIhuvXysj9RhPgsWF) | 4:03 | 2022-05-31 | 2022-07-25 |
-| [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 | 2022-11-15 |  |
+| [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 | 2022-11-15 | 2023-05-15 |
 | [悪役 \- Band ver.](https://open.spotify.com/track/5kEkwAXmlsUJIxY9RA2JYR) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [悪役 \(Band ver.\)](https://open.spotify.com/album/5aZglwbwsp55Vb5t9Vl3dv) | 5:03 | 2022-05-26 | 2022-06-24 |
 | [悪意戦争](https://open.spotify.com/track/0SzJPJyDTfz63c4eZVXBJG) | [毎晩揺れてスカート](https://open.spotify.com/artist/6IvxcMAeLdqm8vGjSiTxwv) | [悪意戦争](https://open.spotify.com/album/2ME94w279s58Rm47n4UFeZ) | 3:35 | 2022-06-14 | 2022-07-18 |
 | [悪魔くん](https://open.spotify.com/track/1dfN1UyFFMMnUf1nb0glwG) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [悪魔くん](https://open.spotify.com/album/5kSNrVSQsOCifIzOQkNzuB) | 2:42 | 2023-03-15 | 2023-04-14 |

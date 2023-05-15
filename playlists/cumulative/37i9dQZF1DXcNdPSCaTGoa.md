@@ -4,7 +4,7 @@
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-156 songs - 13 hr 13 min
+157 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Asimbonanga \(Mandela\)](https://open.spotify.com/track/2l0EoH2zrjQ0XeB9H0oukT) | [Johnny Clegg & Savuka](https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4) | [Asimbonanga \(Mandela\)](https://open.spotify.com/album/7CtCTHSK5VosHjDhbfQSx4) | 4:27 | 2018-09-23 | 2022-11-18 |
 | [Asimbonanga \(Mandela\)](https://open.spotify.com/track/3PK6nJvcddecPj2ESgMJAe) | [Johnny Clegg & Savuka](https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [The Best of Johnny Clegg \- Juluka & Savuka](https://open.spotify.com/album/5LhbwhBfshZF4MaTCx5kyr) | 4:27 | 2018-09-23 | 2022-07-16 |
 | [Bantu Biko Street \(Orchestra & Vocals\)](https://open.spotify.com/track/5aLrfHXuUkpvlWU1fXqR5R) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [The One Love Movement on Bantu Biko Street](https://open.spotify.com/album/6rjVbgk13C3CefTrktUOWT) | 5:09 | 2019-02-12 | 2022-07-29 |
+| [Bengim'ngaka](https://open.spotify.com/track/1NXjMuNzN1wV6IUsn5arhg) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3u1EqktOzAt4oYfRbpGji2) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE) | 5:15 | 2023-01-23 |  |
 | [Bengim'ngaka](https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3j2kQ3pshmhfVJt5u0Lx2L) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr) | 5:15 | 2018-09-23 | 2023-04-05 |
 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 | 2019-02-03 | 2022-11-30 |
 | [Blues for a Hip King](https://open.spotify.com/track/6JvT7KcHNeGIzGQUUAdUkA) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ) | [Senzo](https://open.spotify.com/album/2g6zjVX3L0VbyiMuowr5H5) | 6:02 | 2019-02-12 | 2022-07-21 |
@@ -77,7 +78,7 @@
 | [Magic](https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:35 | 2019-02-03 | 2022-11-13 |
 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 | 2019-02-03 |  |
 | [Manenberg Revisited](https://open.spotify.com/track/7oJpfT2cGrOwxwuFRunY9i) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ) | [Water from an Ancient Well](https://open.spotify.com/album/5EQkSknw8twG8oiukc55la) | 6:11 | 2019-02-12 | 2022-07-25 |
-| [Manyonyoba](https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [King Of Kwaito](https://open.spotify.com/album/4HOkw5G26NKfIf8yR41dTW) | 5:20 | 2019-02-03 |  |
+| [Manyonyoba](https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [King Of Kwaito](https://open.spotify.com/album/4HOkw5G26NKfIf8yR41dTW) | 5:20 | 2019-02-03 | 2023-05-15 |
 | [Mari Ye Phepha](https://open.spotify.com/track/4ihVB27BAjQ43jxgYW2tNg) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [IV](https://open.spotify.com/album/2CwwI5ByOhauusaFinUl3R) | 5:28 | 2022-12-07 | 2022-12-24 |
 | [Matofotofo](https://open.spotify.com/track/2kgKTkzs9daHOfw0iywogr) | [Pitch Black Afro](https://open.spotify.com/artist/40hpSUVJeh3CRFkG0ANx5G) | [Styling Gel](https://open.spotify.com/album/3vIQmHwydhOlrgLTbhePMF) | 4:49 | 2019-02-12 | 2022-12-24 |
 | [Matofotofo](https://open.spotify.com/track/1mJzCGXZm1kRtzWY5VxovQ) | [Pitch Black Afro](https://open.spotify.com/artist/40hpSUVJeh3CRFkG0ANx5G) | [Tsotsi](https://open.spotify.com/album/3sxJlbcLIDvXZLbGSNnyq9) | 4:50 | 2019-02-12 | 2022-07-26 |

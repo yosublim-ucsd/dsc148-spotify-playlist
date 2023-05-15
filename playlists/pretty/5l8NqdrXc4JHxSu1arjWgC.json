@@ -6,7 +6,7 @@
     "name": "Red Vox",
     "url": "https://open.spotify.com/user/vinnyvinesauce"
   },
-  "snapshot_id": "MTY5NSw2MDY4NjI3YzRhNzYyNDk1ZjE4OWRlY2RiMzNjOTE0MDliNzQzYjI3",
+  "snapshot_id": "MTY5OCw2MzFiZTdiNjcyMzNlYzhlMTA2ZGMyNjk3ZWM0OWVlOTg1OTZmNzY3",
   "tracks": [
     {
       "added_at": "2022-03-23 01:58:53",
@@ -10895,6 +10895,54 @@
       "duration_ms": 195106,
       "name": "Our Happiness is Guaranteed",
       "url": "https://open.spotify.com/track/6HGlpF5HiVIjUXtCcwwNsC"
+    },
+    {
+      "added_at": "2023-05-14 15:26:48",
+      "album": {
+        "name": "Joe Strummer 001",
+        "url": "https://open.spotify.com/album/2IPHxchyGFrtYqKrVHwRFr"
+      },
+      "artists": [
+        {
+          "name": "Joe Strummer",
+          "url": "https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba"
+        }
+      ],
+      "duration_ms": 239373,
+      "name": "Love Kills",
+      "url": "https://open.spotify.com/track/6TjVKGblxw2G1EnwfQrcTk"
+    },
+    {
+      "added_at": "2023-05-14 15:49:12",
+      "album": {
+        "name": "Futuristic Dragon",
+        "url": "https://open.spotify.com/album/7bxgqrql5oDIr4SVFB1bYN"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Chrome Sitar",
+      "url": "https://open.spotify.com/track/1OYxUYMyW9LZLIXer4IeZm"
+    },
+    {
+      "added_at": "2023-05-14 15:52:08",
+      "album": {
+        "name": "Frosting On The Beater",
+        "url": "https://open.spotify.com/album/72rfhFLb2C6Zo500hgoKq3"
+      },
+      "artists": [
+        {
+          "name": "The Posies",
+          "url": "https://open.spotify.com/artist/5ZOh5D4MKLhU3GekPzNFam"
+        }
+      ],
+      "duration_ms": 379933,
+      "name": "Coming Right Along",
+      "url": "https://open.spotify.com/track/1zcDDZPQLQiwXOq3hojxfk"
     }
   ],
   "unique_name": "Red Vox Recent Favorites",

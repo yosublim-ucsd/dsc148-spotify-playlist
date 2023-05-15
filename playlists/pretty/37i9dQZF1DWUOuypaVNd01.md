@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Btrem, Derxan, Major RD, LEALL, $amuka
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,787 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,817 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 50 | [Campeões](https://open.spotify.com/track/1aqGp66Nt1ghQA2hJ1I5vH) | [Tonyyymon](https://open.spotify.com/artist/59BG9lcmyGg7VWC9V5fTuD), [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Campeões](https://open.spotify.com/album/7mj1cfsJT5aP5GBFTe1cR3) | 2:53 |
 
-Snapshot ID: `MCw3NzgxMzQwOGRjYTM0MTdkMDhiMGQwYzYyMzg2YWQxNDlkZjZiM2M5`
+Snapshot ID: `MCxlYjRiY2U4ZTMxZDA3MjJjMDY3M2E5NjM1ODgxN2Y0OWE3ZWIyMDA1`

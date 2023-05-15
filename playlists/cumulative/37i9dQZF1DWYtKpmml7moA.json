@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Alert",
+        "url": "https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc"
+      },
+      "artists": [
+        {
+          "name": "Lion D",
+          "url": "https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz"
+        },
+        {
+          "name": "Irie Ites",
+          "url": "https://open.spotify.com/artist/0ypDXMZA9gXwM7ulFUOHY3"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179861,
+      "name": "Alert",
+      "url": "https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2"
+    },
+    {
+      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0"
       },
@@ -46,6 +68,28 @@
       "duration_ms": 238176,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR"
+    },
+    {
+      "album": {
+        "name": "Bla Bla Bla",
+        "url": "https://open.spotify.com/album/5DcEyYClXam0ZdlQxZU4Ov"
+      },
+      "artists": [
+        {
+          "name": "Lutan Fyah",
+          "url": "https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU"
+        },
+        {
+          "name": "Derrick Sound",
+          "url": "https://open.spotify.com/artist/6K2wSa8g588RRkVb0ZPkqo"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Bla Bla Bla",
+      "url": "https://open.spotify.com/track/3QABl9RswrFsjKGwHgF1l2"
     },
     {
       "album": {
@@ -114,7 +158,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 232511,
       "name": "Buried Alive",
       "url": "https://open.spotify.com/track/0TihbhZf0uXlEcxDj4Fzpi"
@@ -302,7 +346,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 247591,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/2ys6cWKndwCetchUXyNE2M"
@@ -324,6 +368,28 @@
       "duration_ms": 207987,
       "name": "Hard Work",
       "url": "https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV"
+    },
+    {
+      "album": {
+        "name": "Helping Hand (with Iya Terra)",
+        "url": "https://open.spotify.com/album/2qKU4M3birDmWDbKHGrR5U"
+      },
+      "artists": [
+        {
+          "name": "Irie Souljah",
+          "url": "https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw"
+        },
+        {
+          "name": "Iya Terra",
+          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253794,
+      "name": "Helping Hand (with Iya Terra)",
+      "url": "https://open.spotify.com/track/1S6wOu6dSfEC6CAhFqLkhz"
     },
     {
       "album": {
@@ -596,7 +662,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 207000,
       "name": "Love Overdue",
       "url": "https://open.spotify.com/track/0ClaCaTK8BdOSsP4FZbkio"
@@ -824,7 +890,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 180066,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
@@ -864,6 +930,28 @@
       "duration_ms": 249066,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/78aaIdueQSjI00fWUMAqna"
+    },
+    {
+      "album": {
+        "name": "Rebel Time",
+        "url": "https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241734,
+      "name": "Rebel Time",
+      "url": "https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q"
     },
     {
       "album": {
@@ -1098,6 +1186,32 @@
       "duration_ms": 252125,
       "name": "Skankin' Sweet",
       "url": "https://open.spotify.com/track/5W4pbLaMo6B64C80vUiAYV"
+    },
+    {
+      "album": {
+        "name": "Sky Way",
+        "url": "https://open.spotify.com/album/6BMPftU5MJAu7mM2Z5DCrh"
+      },
+      "artists": [
+        {
+          "name": "Ras-I",
+          "url": "https://open.spotify.com/artist/1AiPTeSRCKWwP2o7OXtoY9"
+        },
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        },
+        {
+          "name": "Koastal Kings",
+          "url": "https://open.spotify.com/artist/7LupR1EmUqcWYvc5X7o4Ws"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Sky Way",
+      "url": "https://open.spotify.com/track/0VpJsmh0WGBthUjVinfS3k"
     },
     {
       "album": {
@@ -1418,7 +1532,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 224104,
       "name": "To See",
       "url": "https://open.spotify.com/track/2sY6QwNrA9yWZRPW2WtHTq"
@@ -1472,10 +1586,32 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 192000,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt"
+    },
+    {
+      "album": {
+        "name": "Waiting In Vain (Feat. Tiwa Savage)",
+        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243450,
+      "name": "Waiting In Vain (Feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
     },
     {
       "album": {

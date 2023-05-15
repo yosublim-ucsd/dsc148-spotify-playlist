@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Blue Hair",
       "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 75833,
       "name": "CRYSTALS (Slowed)",
       "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
@@ -6975,6 +6975,24 @@
     },
     {
       "album": {
+        "name": "Heart of Steel (Eurovision Version)",
+        "url": "https://open.spotify.com/album/0jGnnA1n6iYtDq1fOxMfgx"
+      },
+      "artists": [
+        {
+          "name": "TVORCHI",
+          "url": "https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158461,
+      "name": "Heart of Steel - Eurovision Version",
+      "url": "https://open.spotify.com/track/155yInH5aDNEI1MkcX6NNk"
+    },
+    {
+      "album": {
         "name": "Here Comes The Cowboy",
         "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
       },
@@ -9322,7 +9340,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
@@ -15158,7 +15176,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 127068,
       "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Milan TikTok Edit",
       "url": "https://open.spotify.com/track/40yGiymEtZ91DzclIxqIkE"
@@ -16736,7 +16754,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 155520,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
@@ -18444,6 +18462,28 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "album": {
+        "name": "Unicorn",
+        "url": "https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
+        {
+          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
+          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170900,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
     },
     {
       "album": {
@@ -20246,6 +20286,24 @@
       "duration_ms": 68571,
       "name": "\u00c7a flingue",
       "url": "https://open.spotify.com/track/5xhU4TIKGwE5gpHVyzRm7a"
+    },
+    {
+      "album": {
+        "name": "\u00c9videmment",
+        "url": "https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI"
+      },
+      "artists": [
+        {
+          "name": "La Zarra",
+          "url": "https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "\u00c9videmment",
+      "url": "https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM"
     },
     {
       "album": {

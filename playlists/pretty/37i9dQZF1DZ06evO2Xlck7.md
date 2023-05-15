@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 13 | [Perfection Through Silence](https://open.spotify.com/track/6ydMD0MJXowcPgIRMKvkvn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:09 |
 | 14 | [A Piece Of Mind](https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:05 |
 | 15 | [Further From The Few](https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:31 |
-| 16 | [Chinese Organ Thieves](https://open.spotify.com/track/49jEjCzhpgpIIar7HnIRpg) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 7:28 |
+| 16 | [Famine Or Disease](https://open.spotify.com/track/6Un0N91DjUVLmRNNazLQ6g) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 3:56 |
 | 17 | [Stay With Me](https://open.spotify.com/track/0W0hRhNEajLKOPlxFDq8Q8) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:02 |
 | 18 | [Fireflies](https://open.spotify.com/track/65SgwW4bzyNhApmK2kzrqt) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:28 |
 | 19 | [Murder Me](https://open.spotify.com/track/1slqH3FT3xgwr4oBQm5kyY) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:11 |
-| 20 | [Famine Or Disease](https://open.spotify.com/track/6Un0N91DjUVLmRNNazLQ6g) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 3:56 |
+| 20 | [Chinese Organ Thieves](https://open.spotify.com/track/49jEjCzhpgpIIar7HnIRpg) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 7:28 |
 | 21 | [Grey Matter](https://open.spotify.com/track/5ssjNXhTYQLlFEQP4aKGCr) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 2:39 |
 | 22 | [Brother Bleed Brother](https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:41 |
 | 23 | [Picasso Trigger](https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:38 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 25 | [Nothing In The Sun](https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Brown Acid \- The Fifth Trip](https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K) | 4:10 |
 | 26 | [Spanish Fly \- Bonus Track](https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Drive Thru Records Greatest Hits \(Deluxe Edition\)](https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w) | 2:37 |
 
-Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDAyYThhNTljOTg1NWI0MjFmZGY4ODM3MTA5ODg2Mzk1NA==`
+Snapshot ID: `MjgwNjc4MzIsMDAwMDAwMDBhOTEwMDYwMWViYWMyNzYwZGIwNjAwOWU3ZDUxMjE3OA==`

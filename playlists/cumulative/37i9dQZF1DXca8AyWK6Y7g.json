@@ -22612,7 +22612,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 212946,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
@@ -24400,6 +24400,24 @@
       "duration_ms": 152727,
       "name": "Smoke Signal",
       "url": "https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4"
+    },
+    {
+      "album": {
+        "name": "SNAKE EYES",
+        "url": "https://open.spotify.com/album/3S6MFjq2tvxbK8pWhQBnvQ"
+      },
+      "artists": [
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130369,
+      "name": "SNAKE EYES",
+      "url": "https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7"
     },
     {
       "album": {

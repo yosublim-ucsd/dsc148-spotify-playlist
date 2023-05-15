@@ -4,7 +4,7 @@
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-121 songs - 8 hr 11 min
+122 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Perro Negro \(En Vivo\)](https://open.spotify.com/track/6ydmf4dML4JjK8RNBgQgh7) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri 4 Decadas](https://open.spotify.com/album/2oUjxsCoulKvOVIlW6oklm) | 3:53 | 2023-03-30 |  |
 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 | 2023-03-30 |  |
 | [Pity Pity](https://open.spotify.com/track/4WRMkSZDRD0MA7rEl9XchA) | [Billy Cafaro](https://open.spotify.com/artist/13tqcy2zEw2Y4LzL29xAMB) | [Grandes Exitos, Vol.2](https://open.spotify.com/album/0n71y9FUaH4NHAu3hbeh3b) | 2:11 | 2023-03-30 |  |
-| [Pobre De Ti](https://open.spotify.com/track/0j14D2Jp4i9zg9KKm9aSBk) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock Milenium](https://open.spotify.com/album/7sTufh6pGV76HicANbWbSA) | 4:38 | 2023-03-30 |  |
+| [Pobre de Ti](https://open.spotify.com/track/1mBbKzmlbQUQNK7tw2Etdf) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [No](https://open.spotify.com/album/3glRjXzdGdiFA254NwD5Rs) | 4:37 | 2023-03-30 |  |
+| [Pobre De Ti](https://open.spotify.com/track/0j14D2Jp4i9zg9KKm9aSBk) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock Milenium](https://open.spotify.com/album/7sTufh6pGV76HicANbWbSA) | 4:38 | 2023-03-30 | 2023-05-15 |
 | [Por Qué No Se Van](https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Coleccion Suprema](https://open.spotify.com/album/62mYqA8S00dcrD42jmml86) | 3:02 | 2023-03-30 |  |
 | [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 | 2023-03-30 |  |
 | [Presente \(El Momento en Que Estás\)](https://open.spotify.com/track/4bFUkfOd1ZGrCaszcsBP2L) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Caliente](https://open.spotify.com/album/2G0N5Sy48qkoWxCH8t4dIv) | 3:14 | 2023-03-30 |  |

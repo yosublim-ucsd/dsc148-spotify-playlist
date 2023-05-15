@@ -23,6 +23,42 @@
     },
     {
       "album": {
+        "name": "A Beginning",
+        "url": "https://open.spotify.com/album/4EsyQZIbrze35gVnhd73r1"
+      },
+      "artists": [
+        {
+          "name": "Ivory Light",
+          "url": "https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65357,
+      "name": "A Beginning - Strings Version",
+      "url": "https://open.spotify.com/track/13vDJ3GqHDBezeKB4iOket"
+    },
+    {
+      "album": {
+        "name": "A Breath",
+        "url": "https://open.spotify.com/album/5n9lLKX1wk7zyXNILnO2eK"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65950,
+      "name": "A Breath",
+      "url": "https://open.spotify.com/track/0ZzZDur4DrOho16B99ROQV"
+    },
+    {
+      "album": {
         "name": "Piano Echoes",
         "url": "https://open.spotify.com/album/10VMBZPmdJ9Q6otUSugzTp"
       },
@@ -2876,6 +2912,24 @@
       "duration_ms": 62000,
       "name": "Cello Sunrise",
       "url": "https://open.spotify.com/track/5BX55PTJN3Ii52UoCco80V"
+    },
+    {
+      "album": {
+        "name": "Celtic Love Song",
+        "url": "https://open.spotify.com/album/2aY8KH20KBDl1QQMOfz2Py"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63779,
+      "name": "Celtic Love Song - Piano Version",
+      "url": "https://open.spotify.com/track/0tTPv3iuEnEL39PFkeObNV"
     },
     {
       "album": {
@@ -6561,6 +6615,24 @@
     },
     {
       "album": {
+        "name": "Garden Mornings",
+        "url": "https://open.spotify.com/album/4KfheXrgUaioZTtYBIekZH"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65489,
+      "name": "Garden Mornings - Cello Version",
+      "url": "https://open.spotify.com/track/3SoyMk5fSuJFg8uSduRsxg"
+    },
+    {
+      "album": {
         "name": "Simple Beauty",
         "url": "https://open.spotify.com/album/4QdKwwK6GK3RDguqX13o9J"
       },
@@ -7951,6 +8023,24 @@
     },
     {
       "album": {
+        "name": "In The Bleak Midwinter",
+        "url": "https://open.spotify.com/album/6pIdXa5CF35cOEVBC4I4zi"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66904,
+      "name": "In The Bleak Midwinter - Solo Piano Version",
+      "url": "https://open.spotify.com/track/22bDCJyo6jmizPyG5V1EIy"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/72T026EJN1ZCBM10yJ6Nb8"
       },
@@ -9067,6 +9157,24 @@
     },
     {
       "album": {
+        "name": "Calming Piano Melodies",
+        "url": "https://open.spotify.com/album/2AwrLqSXZuZna6B3SfsKHc"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62857,
+      "name": "Lullaby In The North",
+      "url": "https://open.spotify.com/track/6YkGu1zhXLU9P8Mj6HJkw4"
+    },
+    {
+      "album": {
         "name": "Magical",
         "url": "https://open.spotify.com/album/2ortyFgkiyTydcY0pvitre"
       },
@@ -9118,6 +9226,24 @@
       "duration_ms": 61578,
       "name": "Mars",
       "url": "https://open.spotify.com/track/4bpKu6F9Y7wg9bPUtlzTSF"
+    },
+    {
+      "album": {
+        "name": "May Flowers",
+        "url": "https://open.spotify.com/album/4PZnRcygNbU615jcPeTpcx"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61730,
+      "name": "May Flowers Arr. For Solo Piano",
+      "url": "https://open.spotify.com/track/1jWIfEiEH00PI158O3QLqk"
     },
     {
       "album": {
@@ -9518,6 +9644,24 @@
       "duration_ms": 171032,
       "name": "Moonlight Echoes",
       "url": "https://open.spotify.com/track/1R4jHCzDcxyadZxB0ZCZqg"
+    },
+    {
+      "album": {
+        "name": "Moonlight Mystery",
+        "url": "https://open.spotify.com/album/7AAPLcfkp1OoQAuDLe8Typ"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62395,
+      "name": "Moonlight Mystery - Piano Lullaby",
+      "url": "https://open.spotify.com/track/0Yz35KBM6ots6PhZ9qGfQt"
     },
     {
       "album": {
@@ -10512,6 +10656,42 @@
       "duration_ms": 75428,
       "name": "Openings",
       "url": "https://open.spotify.com/track/1PXZMlOmucm8ECTfjES30h"
+    },
+    {
+      "album": {
+        "name": "Orange Flowers",
+        "url": "https://open.spotify.com/album/76jrprjJCFRNPyOO58Fdit"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62385,
+      "name": "Orange Flowers - Cello Version",
+      "url": "https://open.spotify.com/track/45ni7c0q8D3yliJGIB0JnR"
+    },
+    {
+      "album": {
+        "name": "Harp and Piano Lullabies",
+        "url": "https://open.spotify.com/album/67Snvekmj1dkwpIU4CJUi7"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62740,
+      "name": "Orange Flowers - Piano Version",
+      "url": "https://open.spotify.com/track/0yvBgy6gn9uQw2xuQCkr62"
     },
     {
       "album": {
@@ -13595,6 +13775,42 @@
     },
     {
       "album": {
+        "name": "Harp and Piano Lullabies",
+        "url": "https://open.spotify.com/album/67Snvekmj1dkwpIU4CJUi7"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63991,
+      "name": "Soft Moon - Piano Version",
+      "url": "https://open.spotify.com/track/12YtTb9gCKuSWoEen5TKUF"
+    },
+    {
+      "album": {
+        "name": "Soft Moon",
+        "url": "https://open.spotify.com/album/3araH7fjh9RFmuObPQZIEg"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63871,
+      "name": "Soft Moon - Strings Version",
+      "url": "https://open.spotify.com/track/4udCwFTuKOPkcYtE0gnKka"
+    },
+    {
+      "album": {
         "name": "Soaring",
         "url": "https://open.spotify.com/album/0M1455WqEoRjvehxgXmICI"
       },
@@ -14391,6 +14607,42 @@
     },
     {
       "album": {
+        "name": "Harp and Piano Lullabies",
+        "url": "https://open.spotify.com/album/67Snvekmj1dkwpIU4CJUi7"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63284,
+      "name": "Stepping Stones - Piano Version",
+      "url": "https://open.spotify.com/track/34NNE3p9j0vJqWtkqyJNon"
+    },
+    {
+      "album": {
+        "name": "Stepping Stones",
+        "url": "https://open.spotify.com/album/1FWVW3fUW1YfFXG2Psg0rE"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63871,
+      "name": "Stepping Stones - Strings Version",
+      "url": "https://open.spotify.com/track/54gk1nWIruEU9zuarm1ZKQ"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/72T026EJN1ZCBM10yJ6Nb8"
       },
@@ -14496,6 +14748,24 @@
       "duration_ms": 60614,
       "name": "Stories - Cello Version",
       "url": "https://open.spotify.com/track/6eN1XXmSoUqj6tFPadXHWB"
+    },
+    {
+      "album": {
+        "name": "Calming Piano Melodies",
+        "url": "https://open.spotify.com/album/2AwrLqSXZuZna6B3SfsKHc"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60545,
+      "name": "Summer Daydreams",
+      "url": "https://open.spotify.com/track/1FiZJOfuceuv3KKFgbxM44"
     },
     {
       "album": {
@@ -14748,6 +15018,24 @@
       "duration_ms": 61904,
       "name": "Sunrise In September",
       "url": "https://open.spotify.com/track/1pDUNx2KXICw0wB7xn5MTD"
+    },
+    {
+      "album": {
+        "name": "Sunrise Melody Arr. For Violin And Harp",
+        "url": "https://open.spotify.com/album/3CToQolCbKZdfgl9Xrraey"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62400,
+      "name": "Sunrise Melody Arr. For Violin And Harp",
+      "url": "https://open.spotify.com/track/6DgYh9aZesCnQLE6vKAWFp"
     },
     {
       "album": {
@@ -15162,6 +15450,24 @@
       "duration_ms": 81800,
       "name": "The Warmth Beneath the Surface",
       "url": "https://open.spotify.com/track/7i8wMr5uFH4sljpGChSy8P"
+    },
+    {
+      "album": {
+        "name": "Hidden Dreams",
+        "url": "https://open.spotify.com/album/0VpdxU0Mhq4A7wKzt25EhP"
+      },
+      "artists": [
+        {
+          "name": "Ivory Light",
+          "url": "https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66259,
+      "name": "The Woods",
+      "url": "https://open.spotify.com/track/1ZVpIRbSG2qZ6ugA8qoyTh"
     },
     {
       "album": {
@@ -16336,6 +16642,24 @@
       "duration_ms": 145513,
       "name": "Waking",
       "url": "https://open.spotify.com/track/1ARKuBQQNe0W9TrrnDDdxZ"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1gmMOu72TCFyH5rKC9p9Nt"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69288,
+      "name": "Walking at Dusk",
+      "url": "https://open.spotify.com/track/1CSbmSbIAlWD813U7ydKQX"
     },
     {
       "album": {

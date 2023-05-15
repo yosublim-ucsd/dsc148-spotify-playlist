@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x Sasha Alex Sloan
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,235 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,292 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 79 | [Samsara](https://open.spotify.com/track/4U91micKPBG76g9oKoICVk) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Samsara / Hangover](https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo) | 2:58 |
 | 80 | [Hideaway \(feat\. Dominique\)](https://open.spotify.com/track/5N9b7r6gMdyTF6bT0xcftS) | [Maison Ware](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA), [Dominique](https://open.spotify.com/artist/7fjxC1mJmxy7IQgtAFHMAc) | [Hideaway \(feat\. Dominique\)](https://open.spotify.com/album/37VPSyKKW5PgbBk3d9YKfw) | 4:27 |
 
-Snapshot ID: `MCw1NWEzNzRjM2U0ZTQyNWZjYjEyMjQ0MjMxMzJiYTljOTJlMDc3NWNk`
+Snapshot ID: `MCw1YTI3ZGY0YTQ5MDYzODU5ODQ1ZWI2OWExZGJkNDliNDY2NTE4ZWI3`

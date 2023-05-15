@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,194 likes - 100 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,640 likes - 100 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [Candy Flip](https://open.spotify.com/track/38ChjlYHZ0lNeCtjHspZhX) | [XZARKHAN](https://open.spotify.com/artist/0ekK352BUEA00cnbGeOLkO), [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4), [L U N A](https://open.spotify.com/artist/2e6JwrcJbzHnFPaSYofN4U) | [Candy Flip](https://open.spotify.com/album/4itcYsTVUHcZA6ii8Hogz5) | 1:52 |
 | 100 | [TYRANT](https://open.spotify.com/track/1TdvR1RJGlEIGXLA1IXYi0) | [TVSTELESS](https://open.spotify.com/artist/0fW2IGCuzMtYSToamwOAHS), [Mvko](https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P) | [TYRANT](https://open.spotify.com/album/0R16n2AAbIfpifjHnL3Zun) | 1:56 |
 
-Snapshot ID: `MCwzM2FlNDlhYTJiNDFiMWEzMWMwYWI4ZDkzMzYxM2FlNGM5ZTNiMjYz`
+Snapshot ID: `MCw5ZWRlYTJkMmFlYTg3OWFjYjEwYTQ5ZGY1MTQ5MjRhNWRlYTc4NmU1`

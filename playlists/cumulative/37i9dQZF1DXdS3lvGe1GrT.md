@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: lighthearted \| Visual Artist: Bailey Elder
 
-621 songs - 1 day 13 hr 14 min
+622 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Crow](https://open.spotify.com/track/5UW5IgM1kZsYjkltaE3iGy) | [Prima Queen](https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2) | [Crow](https://open.spotify.com/album/2OSzhl1rtKVog2XrBMtkd1) | 3:23 | 2023-04-12 |  |
 | [Cuffley](https://open.spotify.com/track/6mDnYUHKENd6FHiMziKKYk) | [Alexander William](https://open.spotify.com/artist/2NqshbL4WoWDXM5VE1hKXc) | [Cuffley](https://open.spotify.com/album/1AaZpONeWcNlLiE6IyyleD) | 3:56 | 2022-06-15 | 2022-09-22 |
 | [Cut and Dry](https://open.spotify.com/track/23FogBuJHB3BB13rOZ908W) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/6nVUrCAmuqzGSU3ioNAlpI) | 3:24 | 2023-04-12 | 2023-05-01 |
-| [Cut and Dry](https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP) | 3:24 | 2023-04-12 |  |
+| [Cut and Dry](https://open.spotify.com/track/4cbfwZbbQ8n5uLwg4TI8vu) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Could Have Done Anything](https://open.spotify.com/album/7fYSpC2LvK5Xode0pWSpUB) | 3:24 | 2023-05-10 |  |
+| [Cut and Dry](https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP) | 3:24 | 2023-04-12 | 2023-05-15 |
 | [Cycle](https://open.spotify.com/track/6qD6zcjxBsVQotCS2uquHQ) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj), [Horace Bray](https://open.spotify.com/artist/2jIZEoSCmhxiHyA1rMc01u) | [Cycle](https://open.spotify.com/album/5HKaMVfEnGNYJVKrRHo8NZ) | 3:45 | 2022-05-25 | 2022-08-04 |
 | [Daddy Daughter](https://open.spotify.com/track/0MyQ6QfqgtjoKqx21NZxTM) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Daddy Daughter](https://open.spotify.com/album/1DnIKAMZBoXdrRM580qbdA) | 3:09 | 2023-05-03 |  |
 | [Daddy Lessons](https://open.spotify.com/track/6rpO7sw5yy6p98962KXC91) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Interpretations](https://open.spotify.com/album/7BQpnNS1KLMn8rSD6NBtLx) | 4:26 | 2023-01-11 | 2023-03-02 |

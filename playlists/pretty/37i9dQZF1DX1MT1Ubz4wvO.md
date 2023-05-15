@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con The Warning en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,917 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,942 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Espacio liminal](https://open.spotify.com/track/3VaKqdQ3hoGW5CHe2Cy7Ga) | [Crisisgrado](https://open.spotify.com/artist/1k5fxkKGfCf2Eb7rpjMIt6) | [Espacio liminal](https://open.spotify.com/album/66yxgKnaSkag5BswnvCq7x) | 2:29 |
 | 50 | [Crystal](https://open.spotify.com/track/1BkAU5FBLp77Ok4kf6dsXN) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP), [Lelo](https://open.spotify.com/artist/6x4bR6CqQiTl1oPImjUi2k), [Popcorn](https://open.spotify.com/artist/5Hvy9Mec67TKFVJGIgae4J) | [Dos Mundos](https://open.spotify.com/album/5IVwPSVZp18IsW9yCt48ZL) | 2:42 |
 
-Snapshot ID: `MCxhYjE1MmFjZjBjM2YzOGEwZjVhMmUyZDM2YjUwMzQ2MTM5NjkyNTYz`
+Snapshot ID: `MCwwOTE4YTZkM2E5OWMzMDY5ZWVjMzYyM2I0Y2IwNzc0NTVjOTUyM2Q2`

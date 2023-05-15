@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,032 likes - 672 songs - 1 day 21 hr 18 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,032 likes - 675 songs - 1 day 21 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -680,5 +680,8 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 670 | [How Many Friends](https://open.spotify.com/track/0ri3I02OBYDfXHnVOBSJSy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 4:06 |
 | 671 | [Le jardin](https://open.spotify.com/track/4eNwgcKvY5ky5jaW8bS3Lu) | [Mcbaise](https://open.spotify.com/artist/1bHp6iVI7Jit4RCKtic0YO) | [Windowsill](https://open.spotify.com/album/0Hg2CiODOdoqJQpDdvwQzP) | 3:27 |
 | 672 | [Our Happiness is Guaranteed](https://open.spotify.com/track/6HGlpF5HiVIjUXtCcwwNsC) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Featuring "Birds"](https://open.spotify.com/album/7tAnCo8qn6xIRkcDs3FEUQ) | 3:15 |
+| 673 | [Love Kills](https://open.spotify.com/track/6TjVKGblxw2G1EnwfQrcTk) | [Joe Strummer](https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba) | [Joe Strummer 001](https://open.spotify.com/album/2IPHxchyGFrtYqKrVHwRFr) | 3:59 |
+| 674 | [Chrome Sitar](https://open.spotify.com/track/1OYxUYMyW9LZLIXer4IeZm) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Futuristic Dragon](https://open.spotify.com/album/7bxgqrql5oDIr4SVFB1bYN) | 3:14 |
+| 675 | [Coming Right Along](https://open.spotify.com/track/1zcDDZPQLQiwXOq3hojxfk) | [The Posies](https://open.spotify.com/artist/5ZOh5D4MKLhU3GekPzNFam) | [Frosting On The Beater](https://open.spotify.com/album/72rfhFLb2C6Zo500hgoKq3) | 6:19 |
 
-Snapshot ID: `MTY5NSw2MDY4NjI3YzRhNzYyNDk1ZjE4OWRlY2RiMzNjOTE0MDliNzQzYjI3`
+Snapshot ID: `MTY5OCw2MzFiZTdiNjcyMzNlYzhlMTA2ZGMyNjk3ZWM0OWVlOTg1OTZmNzY3`

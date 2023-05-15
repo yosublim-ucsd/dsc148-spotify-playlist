@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 274733,
+  "num_followers": 274758,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmYzNGVkYWI5MTY4YmJhNzhmMTA4ZTQ5OTYwZjYwMmExN2QzN2E2",
+  "snapshot_id": "MCw0Mjc1ZWE2Y2IzMzM0NWEzMTlkZGUwYzdkNmZkMGU1OGY1Mzc5ZGVl",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Change The World (Strings) (feat. Nicole Dash Jones)",
-        "url": "https://open.spotify.com/album/3NisgTcMSNtM3aaf484arV"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "Nicole Dash Jones",
-          "url": "https://open.spotify.com/artist/51MfiIxyL0VOdF9M95TV47"
-        }
-      ],
-      "duration_ms": 266413,
-      "name": "Change the World (feat. Nicole Dash Jones) - Strings In Motion Mix",
-      "url": "https://open.spotify.com/track/1C3arE9PgTbFPLp5n1c8PE"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Hey (Acoustic Version)",
         "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 156804,
       "name": "Hey - Acoustic",
       "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Change The World (Strings) (feat. Nicole Dash Jones)",
+        "url": "https://open.spotify.com/album/3NisgTcMSNtM3aaf484arV"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Nicole Dash Jones",
+          "url": "https://open.spotify.com/artist/51MfiIxyL0VOdF9M95TV47"
+        }
+      ],
+      "duration_ms": 266413,
+      "name": "Change the World (feat. Nicole Dash Jones) - Strings In Motion Mix",
+      "url": "https://open.spotify.com/track/1C3arE9PgTbFPLp5n1c8PE"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 191327,
-      "name": "By Your Side (feat. Tom Grennan) - Acoustic",
-      "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Into You (The Remixes)",
         "url": "https://open.spotify.com/album/4FhqSHksxRJL2JuDKtj3pF"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 176917,
       "name": "Into You - Acoustic Version",
       "url": "https://open.spotify.com/track/4pgX15KGFNTHQFZg7GL3n8"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 191327,
+      "name": "By Your Side (feat. Tom Grennan) - Acoustic",
+      "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -859,26 +859,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Better EP (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy"
+        "name": "Believe In The Kingdom",
+        "url": "https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "King Topher",
+          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
         },
         {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Meaco",
+          "url": "https://open.spotify.com/artist/5UwpTlMi49AhrEbQK71xNh"
         }
       ],
-      "duration_ms": 150652,
-      "name": "Better (feat. Teddy Swims) - Acoustic Version",
-      "url": "https://open.spotify.com/track/24MoOLc4izxq0E0lzRxxJn"
+      "duration_ms": 201600,
+      "name": "Praise You (feat. Meaco) - Chill Mix",
+      "url": "https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -899,22 +895,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Believe In The Kingdom",
-        "url": "https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB"
+        "name": "Better EP (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy"
       },
       "artists": [
         {
-          "name": "King Topher",
-          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Meaco",
-          "url": "https://open.spotify.com/artist/5UwpTlMi49AhrEbQK71xNh"
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Praise You (feat. Meaco) - Chill Mix",
-      "url": "https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna"
+      "duration_ms": 150652,
+      "name": "Better (feat. Teddy Swims) - Acoustic Version",
+      "url": "https://open.spotify.com/track/24MoOLc4izxq0E0lzRxxJn"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Smoke Filled Room (Acoustic Session)",
+        "url": "https://open.spotify.com/album/4XTi91nigdbuWtOGjimn9D"
+      },
+      "artists": [
+        {
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+        }
+      ],
+      "duration_ms": 189660,
+      "name": "Smoke Filled Room - Acoustic Session",
+      "url": "https://open.spotify.com/track/0Vw98EX4aRLiBcNbeUYst9"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Crazy What Love Can Do (Acoustic)",
         "url": "https://open.spotify.com/album/3iRtMz9n1e2yd2TBiuT83x"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 188644,
       "name": "Crazy What Love Can Do - Acoustic",
       "url": "https://open.spotify.com/track/0cCz33JLQYo8LQTddyF0IY"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Smoke Filled Room (Acoustic Session)",
-        "url": "https://open.spotify.com/album/4XTi91nigdbuWtOGjimn9D"
-      },
-      "artists": [
-        {
-          "name": "Mako",
-          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
-        }
-      ],
-      "duration_ms": 189660,
-      "name": "Smoke Filled Room - Acoustic Session",
-      "url": "https://open.spotify.com/track/0Vw98EX4aRLiBcNbeUYst9"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1155,22 +1155,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "DON'T LOOK DOWN (feat. Lizzy Land) [Acoustic]",
-        "url": "https://open.spotify.com/album/3vjUqxIylUXnCzjtebAmCg"
+        "name": "Clarity (Remixes)",
+        "url": "https://open.spotify.com/album/2BgayRsdVhn6knKI5cgUFS"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         },
         {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
         }
       ],
-      "duration_ms": 191225,
-      "name": "DON'T LOOK DOWN (feat. Lizzy Land) - Acoustic",
-      "url": "https://open.spotify.com/track/0wHwGDYc8nltuYykhZRKln"
+      "duration_ms": 207960,
+      "name": "Clarity - Zedd Union Mix",
+      "url": "https://open.spotify.com/track/2Nf0RbvVIKcL0SbEziqArb"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1207,22 +1207,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Clarity (Remixes)",
-        "url": "https://open.spotify.com/album/2BgayRsdVhn6knKI5cgUFS"
+        "name": "DON'T LOOK DOWN (feat. Lizzy Land) [Acoustic]",
+        "url": "https://open.spotify.com/album/3vjUqxIylUXnCzjtebAmCg"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         },
         {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
         }
       ],
-      "duration_ms": 207960,
-      "name": "Clarity - Zedd Union Mix",
-      "url": "https://open.spotify.com/track/2Nf0RbvVIKcL0SbEziqArb"
+      "duration_ms": 191225,
+      "name": "DON'T LOOK DOWN (feat. Lizzy Land) - Acoustic",
+      "url": "https://open.spotify.com/track/0wHwGDYc8nltuYykhZRKln"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
       },
@@ -1727,42 +1743,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "I Could Be The One [Avicii vs Nicky Romero] (Remixes)",
-        "url": "https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
-      "url": "https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Where Did You Go? (Acoustic)",
         "url": "https://open.spotify.com/album/41LZiXValPCTFoxZx6NqT2"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 163562,
       "name": "Looking For Me - Acoustic",
       "url": "https://open.spotify.com/track/5lyamXh1WgObdOl7Cmsgol"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero] (Remixes)",
+        "url": "https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
+      "url": "https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC"
     },
     {
       "added_at": "2023-03-20 20:19:53",

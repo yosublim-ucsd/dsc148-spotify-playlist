@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: kiki vivi lily",
-  "num_followers": 96022,
+  "num_followers": 96075,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzA0MTBhMTI1OGUwZGU2MmM3OTNlYzA5NmUzZWE1OGFkNmYzZmRh",
+  "snapshot_id": "MCwwNThiZDUzYTQ3M2YzMTBiYjk1MGViODBiMGRjZjViODQ0MTAyNTk0",
   "tracks": [
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "\u30c1\u30ce\u30ab\u30c6",
-        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 248300,
-      "name": "\u30c1\u30ce\u30ab\u30c6",
-      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "The Flame of Love",
         "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 199117,
       "name": "The Flame of Love",
       "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "\u30c1\u30ce\u30ab\u30c6",
+        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 248300,
+      "name": "\u30c1\u30ce\u30ab\u30c6",
+      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "HUMAN",
-        "url": "https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 322120,
-      "name": "HUMAN",
-      "url": "https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "\u6182\u3044\u685c",
         "url": "https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 275957,
       "name": "\u6182\u3044\u685c",
       "url": "https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 322120,
+      "name": "HUMAN",
+      "url": "https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7"
     },
     {
       "added_at": "2023-05-11 15:00:00",

@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Brain Freeze",
+        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122094,
+      "name": "Brain Freeze",
+      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
+    },
+    {
+      "album": {
         "name": "Burn Dem Bridges",
         "url": "https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4"
       },
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 224908,
       "name": "The Last Goodbye - Hayden James Remix",
       "url": "https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s"

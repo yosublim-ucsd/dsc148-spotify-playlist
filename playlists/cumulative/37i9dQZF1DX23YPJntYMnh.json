@@ -1106,10 +1106,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 217573,
       "name": "Mull",
       "url": "https://open.spotify.com/track/1E9aJiINWakPxFnVYopfh3"
+    },
+    {
+      "album": {
+        "name": "Flying Games",
+        "url": "https://open.spotify.com/album/3M1aIFOZFJPn4mxF9NyeOs"
+      },
+      "artists": [
+        {
+          "name": "Mike Gordon",
+          "url": "https://open.spotify.com/artist/2Onb70uN9rRM3VMerSpA37"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Mull",
+      "url": "https://open.spotify.com/track/1jnYj6S2Ng6DcyE7ySChdK"
     },
     {
       "album": {

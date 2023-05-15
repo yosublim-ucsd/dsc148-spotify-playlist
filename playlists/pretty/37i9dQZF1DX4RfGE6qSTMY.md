@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RfGE6qSTMY.md) - [plain]
 
 > Featuring paopao, Rauw Alejandro, Chris Jedi & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 807 likes - 25 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 833 likes - 25 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RfGE6qSTMY.md) - [plain]
 | 24 | [El Pañuelo](https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
 | 25 | [Reversa](https://open.spotify.com/track/68MIjgtAsK2rnPqxt9p65V) | [Jiggy Drama](https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Reversa](https://open.spotify.com/album/4QUHGv6FoTKcdEnjRAPlLh) | 3:47 |
 
-Snapshot ID: `MCxlOTYyNGQ4M2FiM2VkNDk1YWMyMGEyYzBhMzQ2ODkyNTVkYTgzMWM1`
+Snapshot ID: `MCw0ZmY2M2RhZjM4YWE2ZmE5MmI3YjNjNjM4YTNmOGM5ZWY0OWM5ZjEy`

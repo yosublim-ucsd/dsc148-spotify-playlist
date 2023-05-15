@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 378695,
+  "num_followers": 378697,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjA4MmU3YTMwNjE3OTM5ZTE0ZTUyYWUzOTBlZWIyNzM5MDgwNmQ5",
+  "snapshot_id": "MCxiYTRiNGU3MTk4MGQ0ZWQ5OWJiNzJlZjdmMzBiNjI4NTUxMjEwMTNl",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
+      },
+      "artists": [
+        {
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+        }
+      ],
+      "duration_ms": 173375,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "WONDER (reimagined)",
         "url": "https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 255976,
       "name": "WONDER - PVRIS Remix",
       "url": "https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
-      },
-      "artists": [
-        {
-          "name": "Vacationer",
-          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
-        }
-      ],
-      "duration_ms": 173375,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl"
     },
     {
       "added_at": "2023-01-11 21:01:15",

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: a kid named rufus
 
-773 songs - 1 day 22 hr 21 min
+774 songs - 1 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [Modern Problem](https://open.spotify.com/track/79HxZf9djlyJ3tgNsZwEkf) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Modern Problem](https://open.spotify.com/album/6nK6jXwPvD5hSH5H1aFoVv) | 3:40 | 2022-08-11 | 2022-09-16 |
 | [mooindo drift](https://open.spotify.com/track/6SDELeMG3kX00rO61PIAP6) | [yewee](https://open.spotify.com/artist/1zQITcXMrdgZWsBF0dgwXD) | [Bye Summer!](https://open.spotify.com/album/36RrBlXZvntyXzOhTmsEH5) | 3:56 | 2022-06-30 | 2022-08-31 |
 | [Moon Rabbit](https://open.spotify.com/track/07qfTt65zfK4rQ7WHeiEOm) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym) | [OK, Vincent](https://open.spotify.com/album/2Styr5P5rDnyYdxMZvzfNb) | 3:30 | 2022-03-24 | 2022-06-24 |
-| [Moonlight \(Feat\. YooJeong\)](https://open.spotify.com/track/3UXHgrtANbsoWAn5DfUcz6) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Moonlight](https://open.spotify.com/album/4QagrJlMwIQYju8jKPLj8B) | 2:29 | 2022-03-31 |  |
+| [Moonlight \(Feat\. YooJeong\)](https://open.spotify.com/track/3UXHgrtANbsoWAn5DfUcz6) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Moonlight](https://open.spotify.com/album/4QagrJlMwIQYju8jKPLj8B) | 2:29 | 2022-03-31 | 2023-05-15 |
 | [more than friends](https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [more than friends](https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb) | 2:40 | 2023-02-16 | 2023-03-25 |
 | [MOSHIMO](https://open.spotify.com/track/6h8f6bUxH2RaxuUElQ0164) | [Mikan Hayashi](https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt), [GOTA](https://open.spotify.com/artist/1t3344DpBqbezUv3QIR1DH) | [MOSHIMO](https://open.spotify.com/album/5N2frg9gZ0hfTMPVMpztN2) | 4:46 | 2023-03-16 | 2023-04-14 |
 | [Mr\. Daydream](https://open.spotify.com/track/5HYUcCS99ZzM3z3E5OKlY8) | [Mai Davika](https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC) | [Mr\. Daydream](https://open.spotify.com/album/0FpWw1iUM4JHq4eovT85z1) | 3:17 | 2023-02-09 | 2023-03-25 |
@@ -748,6 +748,7 @@
 | [メビウス](https://open.spotify.com/track/4xrZ0pYCSyHm8OxB6GhjKh) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [メビウス](https://open.spotify.com/album/1M7OMt0g8q5YIgCLpBMmLz) | 3:34 | 2022-11-10 | 2022-11-18 |
 | [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 | 2022-08-05 |
 | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/track/1ybhaEBjWHBWzXyZO8Wtay) | [沈安](https://open.spotify.com/artist/2tT4arcwVKQK6wfZV23vTt) | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/album/4dFxr1czYW41LhmWo6LbRg) | 3:29 | 2022-04-21 | 2022-05-13 |
+| [但](https://open.spotify.com/track/76UXxB4NOsMLZqBQs0pBO5) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW) | 2:22 | 2023-05-11 |  |
 | [但](https://open.spotify.com/track/7IsKdMqFL1SbEnF6uzAMDi) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 2:22 | 2023-04-13 | 2023-05-13 |
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-24 |  |
 | [午後迷茫2021](https://open.spotify.com/track/3owVY1qeMZJxEMRVs0POkj) | [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [午後迷茫2021](https://open.spotify.com/album/0zLsqb2rZ5nm4loxFTJkIL) | 5:15 | 2022-06-09 | 2022-07-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Zeds Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,859 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,872 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 32 | [Don't Stop](https://open.spotify.com/track/73Aj6vBOimEVHMMm67YmcU) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Don't Stop](https://open.spotify.com/album/2LeGGDt1Nn31jdCThW1SKW) | 2:50 |
 | 33 | [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 |
 | 34 | [Find Myself](https://open.spotify.com/track/3QH1kTlh9t8Wev3Lg7MstW) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Find Myself](https://open.spotify.com/album/2BKVjxzPyh3f5Ati4oOwMv) | 3:02 |
-| 35 | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 |
+| 35 | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 |
 | 36 | [Selfish Soul \- ODESZA Remix](https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Selfish Soul \(ODESZA Remix\)](https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2) | 3:26 |
 | 37 | [Dynamite \(feat\. Mougleta\)](https://open.spotify.com/track/7Lijwh3vFfcvgLFNvPzKVL) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Dynamite \(feat\. Mougleta\)](https://open.spotify.com/album/5ceZ4UwKLLZ9ilzrNjPgnq) | 2:19 |
 | 38 | [Your Light](https://open.spotify.com/track/4y16eulJFqORdWwRjzwpvA) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Your Light](https://open.spotify.com/album/7cPS9Of4tAnUE3mdDdObny) | 3:41 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 84 | [LoveLove.mp3](https://open.spotify.com/track/08ultjBV79qGVM3psldUmD) | [Max Wassen](https://open.spotify.com/artist/3tUS9mNjww0E2uwqbHbHz1), [Adam Trigger](https://open.spotify.com/artist/6nXmnBpdFvzImqLQb3HBa9) | [LoveLove.mp3](https://open.spotify.com/album/4Su4SSuzPDlTut8x6Sjzqu) | 2:37 |
 | 85 | [Ocean](https://open.spotify.com/track/3UMun1cKfBA7NPlVXcF7Ul) | [Kisaya](https://open.spotify.com/artist/51Rmu9mstzis4wE5v6c28R) | [Ocean](https://open.spotify.com/album/4QsV0Pg8ME7G5oJ9R5MniF) | 3:05 |
 
-Snapshot ID: `MCwyY2FiNzE5YzYxNWFkMTYzMjlkYWY5Njk4MjkyYjg5ZThjOWFiZWQy`
+Snapshot ID: `MCw4N2EyODNmZTc1ZjBkM2YwYjFjZjdkYjQwYzNhMDA1ZGY5NDJmN2Ix`

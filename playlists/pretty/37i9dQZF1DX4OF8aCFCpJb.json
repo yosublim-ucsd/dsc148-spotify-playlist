@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 66651,
+  "num_followers": 66656,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjU0NTRhMDk5NzhjM2NjNzFmYTlkNjE3YzUxMzE0NjQwN2ZlNDMz",
+  "snapshot_id": "MCxmMjA2NzJkNTZkYjA4NzdhZGM2ZjE2NmNjZGNlMmYwZDc1MGM4NTRi",
   "tracks": [
     {
       "added_at": "2023-05-11 22:13:19",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-05-11 22:13:19",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Ugly Girls",
+      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
+    },
+    {
+      "added_at": "2023-05-11 22:13:19",
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 260168,
       "name": "Smugglaren",
       "url": "https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0"
-    },
-    {
-      "added_at": "2023-05-11 22:13:19",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 275800,
-      "name": "Ugly Girls",
-      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
     },
     {
       "added_at": "2023-05-11 22:13:19",

@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal - for the dragonslayer in you! Cover: Sabaton",
-  "num_followers": 730868,
+  "num_followers": 731026,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzMwZDBiYmM1MWU3ZmMwZmU5NWE1NDNjZDgzOTMwMmRjZjYyNGIz",
+  "snapshot_id": "MCw4OTIzNDA5Y2I2YWUxNDQ2Mzg2MDQ3YzgyMzQxOWU2MGRmZWJmMjhm",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Krigsherren",
-        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
-      },
-      "artists": [
-        {
-          "name": "Hulkoff",
-          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Krigsherren",
-      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 226128,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Krigsherren",
+        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
+      },
+      "artists": [
+        {
+          "name": "Hulkoff",
+          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Krigsherren",
+      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Gates of Time",
-        "url": "https://open.spotify.com/album/32keP0AvWGw1HknYoHQGV8"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        }
-      ],
-      "duration_ms": 275146,
-      "name": "The Gates of Time",
-      "url": "https://open.spotify.com/track/7htJHIpqvekWbUvy3mDQAZ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "The Raven's Cry",
         "url": "https://open.spotify.com/album/6AV2YW66ESlkPDRE8aD6qG"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
+      },
+      "artists": [
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Nekonomicon",
         "url": "https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 182479,
       "name": "My Shadow Self",
       "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -907,22 +891,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Reconstruction",
-        "url": "https://open.spotify.com/album/1hQWWsGMrqLBHJT2jMtXH1"
-      },
-      "artists": [
-        {
-          "name": "Septicflesh",
-          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
-        }
-      ],
-      "duration_ms": 367489,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/38qF1QQMLKA0hH1mLIrWfr"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "The Bell",
         "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
       },
@@ -947,18 +915,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Pop Metal",
-        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
+        "name": "Reconstruction",
+        "url": "https://open.spotify.com/album/1hQWWsGMrqLBHJT2jMtXH1"
       },
       "artists": [
         {
-          "name": "Memoremains",
-          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+          "name": "Septicflesh",
+          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
         }
       ],
-      "duration_ms": 191999,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+      "duration_ms": 367489,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/38qF1QQMLKA0hH1mLIrWfr"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -979,6 +947,22 @@
       "duration_ms": 243529,
       "name": "Dragonwings",
       "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Pop Metal",
+        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
+      },
+      "artists": [
+        {
+          "name": "Memoremains",
+          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1019,22 +1003,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Now Is the Time",
-        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
-      },
-      "artists": [
-        {
-          "name": "Power Quest",
-          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
-        }
-      ],
-      "duration_ms": 378549,
-      "name": "Now Is the Time",
-      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Summer Wine",
         "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
       },
@@ -1047,6 +1015,22 @@
       "duration_ms": 245444,
       "name": "Summer Wine",
       "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Now Is the Time",
+        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
+      },
+      "artists": [
+        {
+          "name": "Power Quest",
+          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
+        }
+      ],
+      "duration_ms": 378549,
+      "name": "Now Is the Time",
+      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
+        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
+      },
+      "artists": [
+        {
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+        }
+      ],
+      "duration_ms": 286540,
+      "name": "Victorious Dinogods",
+      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Target Acquired (feat. Megan McDuffee)",
         "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
       },
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
-        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
+        "name": "Fears Don't Matter",
+        "url": "https://open.spotify.com/album/552oU2gbQGqZmmleLFLOeQ"
       },
       "artists": [
         {
-          "name": "Victorius",
-          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+          "name": "Blame Me!",
+          "url": "https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T"
         }
       ],
-      "duration_ms": 286540,
-      "name": "Victorious Dinogods",
-      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
+      "duration_ms": 224600,
+      "name": "Fears Don't Matter",
+      "url": "https://open.spotify.com/track/7KnvDg0LKjSfWdWE3fOkfL"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1315,22 +1315,6 @@
       "duration_ms": 217666,
       "name": "A Cloak Woven of Stars",
       "url": "https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Fears Don't Matter",
-        "url": "https://open.spotify.com/album/552oU2gbQGqZmmleLFLOeQ"
-      },
-      "artists": [
-        {
-          "name": "Blame Me!",
-          "url": "https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "Fears Don't Matter",
-      "url": "https://open.spotify.com/track/7KnvDg0LKjSfWdWE3fOkfL"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1379,6 +1363,30 @@
       "duration_ms": 253920,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/7zAy7zxQ3089UVtT8iopo1"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Endless Shore",
+        "url": "https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7"
+      },
+      "artists": [
+        {
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Ulli Perhonen",
+          "url": "https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH"
+        },
+        {
+          "name": "Nils Courbaron",
+          "url": "https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4"
+        }
+      ],
+      "duration_ms": 298124,
+      "name": "The Endless Shore",
+      "url": "https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is"
     }
   ],
   "unique_name": "Epic & Melodic",

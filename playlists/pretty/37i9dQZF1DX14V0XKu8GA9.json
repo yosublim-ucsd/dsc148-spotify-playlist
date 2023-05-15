@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Speak",
-  "num_followers": 21992,
+  "num_followers": 22005,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzFkZDgxZTVmNDRiYWVjN2Q3NDA4YmViOTdiN2ZlNWZhNjc5Mjk5",
+  "snapshot_id": "MCwzNGM2YTMzYmQ1MWY3MGE5NDQ5MmUzOGI3MWY4YWQ1Y2M2ZGMzZTY2",
   "tracks": [
     {
       "added_at": "2023-03-10 22:02:53",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Born In a System",
+        "url": "https://open.spotify.com/album/3LJUkRdDM5hV3yb3NbwwEJ"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        }
+      ],
+      "duration_ms": 186070,
+      "name": "Born In a System",
+      "url": "https://open.spotify.com/track/2p40I0XVnjj8YwyvC4MBgf"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Little Homie",
         "url": "https://open.spotify.com/album/2i9595pc3gVJIMUVafVena"
       },
@@ -279,26 +295,6 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "Face",
-        "url": "https://open.spotify.com/album/0mPlZdCyMtoDtHJOylRGzk"
-      },
-      "artists": [
-        {
-          "name": "G-Mainey",
-          "url": "https://open.spotify.com/artist/6iwdaFkSnuPOovNDg8Wx94"
-        },
-        {
-          "name": "Bravo the Bagchaser",
-          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Face",
-      "url": "https://open.spotify.com/track/3xZTXYCcXMj7gAEw6PtcOA"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
         "name": "With My Homies",
         "url": "https://open.spotify.com/album/6jrOSts710hkWWHhKfxZbl"
       },
@@ -319,18 +315,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "Born In a System",
-        "url": "https://open.spotify.com/album/3LJUkRdDM5hV3yb3NbwwEJ"
+        "name": "Face",
+        "url": "https://open.spotify.com/album/0mPlZdCyMtoDtHJOylRGzk"
       },
       "artists": [
         {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+          "name": "G-Mainey",
+          "url": "https://open.spotify.com/artist/6iwdaFkSnuPOovNDg8Wx94"
+        },
+        {
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
         }
       ],
-      "duration_ms": 186070,
-      "name": "Born In a System",
-      "url": "https://open.spotify.com/track/2p40I0XVnjj8YwyvC4MBgf"
+      "duration_ms": 160000,
+      "name": "Face",
+      "url": "https://open.spotify.com/track/3xZTXYCcXMj7gAEw6PtcOA"
     },
     {
       "added_at": "2023-03-10 22:02:53",

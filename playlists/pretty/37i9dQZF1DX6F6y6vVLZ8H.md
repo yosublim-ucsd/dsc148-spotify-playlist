@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,884 likes - 53 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,919 likes - 53 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 12 | [Confisco](https://open.spotify.com/track/2vV3fHWrEIdDBygY35PyuY) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Transpiração Contínua Prolongada \- Edição Comemorativa](https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp) | 2:58 |
 | 13 | [Heavy Metal Winner](https://open.spotify.com/track/7tt28wbdKmFqZZXsCh4tTk) | [Consumed](https://open.spotify.com/artist/7bXsAsoUGJlM4VVB9xOmn2) | [Breakfast at Pappa's](https://open.spotify.com/album/33nqyAuvFDFNON9ljSqF6r) | 2:29 |
 | 14 | [Police Truck](https://open.spotify.com/track/6M4yg3BknyHmRnsvlkuHD5) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 2:24 |
-| 15 | [Duck Eat Duck World](https://open.spotify.com/track/0VuJkzId5KlafuZTN38P4B) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 2:10 |
+| 15 | [Duck Eat Duck World](https://open.spotify.com/track/3eFSgjJcMxLPvhk42FZycQ) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/2JDCMUQW60W32tWFxDFSgF) | 2:10 |
 | 16 | [Cyclone](https://open.spotify.com/track/2qQieiApQ1TkvkZGLkbCH0) | [Dub Pistols](https://open.spotify.com/artist/4LYX3rRdXV2l99wR5YPFoK) | [Point Blank](https://open.spotify.com/album/4IMpWiEUoJKedGQ21Nmmq4) | 3:34 |
 | 17 | [IN\-TO\-IT](https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \(Pt\. 1\)](https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN) | 3:15 |
 | 18 | [Here and Now](https://open.spotify.com/track/5lsMyHFs19kw0jYNP0MNKK) | [The Ernies](https://open.spotify.com/artist/1kNq8yT2S4lD5jetHxcyug) | [Meson Ray](https://open.spotify.com/album/2JHRbAV8L0f6P6cbZItoI2) | 3:30 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 52 | [Slow Learner](https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:11 |
 | 53 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 |
 
-Snapshot ID: `MCxmYjg1ZmRjNjIxZjNlMDJmMTQ2NmM2ZTM0YTYyZWY3YTBlNzM4MzIx`
+Snapshot ID: `MCxhMjEyNDExMTdjMWEwY2M5YTZiMmFjZmJhMzkzY2EzNjE0NDg1YzQ2`

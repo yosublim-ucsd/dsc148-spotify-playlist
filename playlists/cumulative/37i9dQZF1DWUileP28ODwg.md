@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-296 songs - 18 hr 19 min
+297 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 | 2022-02-25 | 2022-08-27 |
 | [Hallelujah Anyway](https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Whosoever](https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ) | 3:45 | 2022-08-26 |  |
 | [Hallelujah’s Song \(Psalm 103\)](https://open.spotify.com/track/0qlY9YtOvmzELxlIgSNlDU) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Caleb Chapman](https://open.spotify.com/artist/2O7QprwEkB7axelpXQa7Th) | [Hallelujah’s Song \(Psalm 103\)](https://open.spotify.com/album/70fBBmxlzWSXHmriUUmgO9) | 4:00 | 2022-02-25 | 2022-04-23 |
-| [Hands \- Radio Version](https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hands](https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR) | 3:43 | 2022-08-26 |  |
+| [Hands \- Radio Version](https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hands](https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR) | 3:43 | 2022-08-26 | 2023-05-15 |
 | [Hard Times](https://open.spotify.com/track/67TGuYcdTm9fQyUvXbTCrv) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Hard Times](https://open.spotify.com/album/0WrA9C0zhyyXwrzKucVEse) | 2:57 | 2022-05-28 | 2023-03-11 |
 | [Has It Been You](https://open.spotify.com/track/39JNapamVkzWAli5ZkPb7Q) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Sarah McMillan](https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz) | [Has It Been You](https://open.spotify.com/album/2dbKYT7INEowVBF5t0eTpP) | 3:20 | 2022-02-25 | 2023-02-23 |
 | [He Is Not Worried](https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [He Is Not Worried](https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st) | 4:29 | 2022-02-25 | 2022-04-23 |
@@ -138,6 +138,7 @@
 | [I See Heaven On Earth](https://open.spotify.com/track/6Np39XMxggFHRDG8OUMEab) | [Jim Sonefeld](https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k) | [I See Heaven On Earth](https://open.spotify.com/album/3irmMXTzkzVkctuv2mMJZz) | 3:59 | 2022-05-28 | 2022-08-27 |
 | [I Speak Jesus](https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Speak Jesus](https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo) | 3:53 | 2022-10-01 |  |
 | [I Still Believe You're Good](https://open.spotify.com/track/0pTBMOKMRZKa3gLbco27n6) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Still Believe You're Good](https://open.spotify.com/album/0I2GHDEafTdtxAcqiGKrXX) | 3:38 | 2022-02-25 | 2022-03-21 |
+| [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 | 2023-03-10 |  |
 | [I Will Carry You \- Radio Version](https://open.spotify.com/track/7d09yra9jPl1CaxUXHWh1b) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [I Will Carry You \(Radio Version\)](https://open.spotify.com/album/086Mrlmlf2kFVvGD2U7clN) | 3:18 | 2022-02-25 |  |
 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 | 2022-02-25 |  |
 | [I'll Find You](https://open.spotify.com/track/1H5DGRjO2KE3yueGhBfQjl) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [I'll Find You](https://open.spotify.com/album/4JVwDlKampudG0oZuJc4RK) | 3:39 | 2022-02-25 | 2022-04-23 |

@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-377 songs - 23 hr 3 min
+378 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,8 @@
 | [Thinkin' On You](https://open.spotify.com/track/0bMHwCKXAJJNbiyzpq8Zeb) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Thinkin' On You](https://open.spotify.com/album/6xINh0FKm5h00HsQAUsHIp) | 3:09 | 2022-10-14 | 2023-01-10 |
 | [This Ace I've Burned](https://open.spotify.com/track/0mGqBz2FcLYyUFkfKn4FX3) | [Ellen And The Escapades](https://open.spotify.com/artist/2v0e1UUQYJ5GYQqT0SCKWe) | [This Ace I've Burned](https://open.spotify.com/album/6B0xaSvUB7252D10sriu4z) | 3:12 | 2021-03-05 | 2022-01-20 |
 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 | 2021-03-05 |  |
-| [Thérèse](https://open.spotify.com/track/4R7m6ZnA6GpuVikRKj2DGY) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [MOSS](https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl) | 3:27 | 2022-10-14 |  |
+| [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 | 2023-03-08 |  |
+| [Thérèse](https://open.spotify.com/track/4R7m6ZnA6GpuVikRKj2DGY) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [MOSS](https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl) | 3:27 | 2022-10-14 | 2023-05-15 |
 | [Till the Real Thing Comes Along](https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 3:07 | 2021-03-05 | 2023-05-04 |
 | [To Rise You Gotta Fall](https://open.spotify.com/track/5zp4hfK7UcGn9EHhcP6bDE) | [Nicki Bluhm](https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh) | [To Rise You Gotta Fall](https://open.spotify.com/album/4lgm1KUaNO3bp6FYRImcPL) | 4:56 | 2021-03-05 | 2022-07-29 |
 | [Too Late to Write a Love Song](https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Riddy Arman](https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney) | 3:14 | 2022-03-08 |  |

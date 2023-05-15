@@ -1,12 +1,12 @@
 {
   "description": "Japanese female rock icons. \u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Cover: SCANDAL",
-  "num_followers": 41457,
+  "num_followers": 41486,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODFlMjcwMWQ2NGUwNWFhNjE5ZDhhZDllYTE0MzJlMmRlZGQ4NDVi",
+  "snapshot_id": "MCw2OTBmNjVkMzFkNzFhNzNlYzg2MDlmMjM3MjlmMTEwMzk2MmZlYjZk",
   "tracks": [
     {
       "added_at": "2023-05-09 15:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-05-09 15:00:00",
       "album": {
+        "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
+        "url": "https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG"
+    },
+    {
+      "added_at": "2023-05-09 15:00:00",
+      "album": {
         "name": "\u7720\u308c\u306a\u3044\u591c\u3092\u541b\u306b",
         "url": "https://open.spotify.com/album/7rrFcw6k2bhPTVkhswjxTk"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 244279,
       "name": "\u7720\u308c\u306a\u3044\u591c\u3092\u541b\u306b",
       "url": "https://open.spotify.com/track/1ftEhiwyfsGsdYHyKxUj2f"
-    },
-    {
-      "added_at": "2023-05-09 15:00:00",
-      "album": {
-        "name": "\u751f\u6d3b",
-        "url": "https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 279323,
-      "name": "\u751f\u6d3b",
-      "url": "https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae"
     },
     {
       "added_at": "2023-05-09 15:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-05-09 15:00:00",
       "album": {
-        "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
-        "url": "https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe"
+        "name": "\u751f\u6d3b",
+        "url": "https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc"
       },
       "artists": [
         {
-          "name": "Conton Candy",
-          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 237400,
-      "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
-      "url": "https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG"
+      "duration_ms": 279323,
+      "name": "\u751f\u6d3b",
+      "url": "https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae"
     },
     {
       "added_at": "2023-05-09 15:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-05-09 15:00:00",
       "album": {
-        "name": "\u604b\u3092\u77e5\u3063\u3066\u3044\u308b\u3059\u3079\u3066\u306e\u3042\u306a\u305f\u3078",
-        "url": "https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd"
-      },
-      "artists": [
-        {
-          "name": "SHISHAMO",
-          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
-        }
-      ],
-      "duration_ms": 225649,
-      "name": "\u541b\u3068\u590f\u30d5\u30a7\u30b9",
-      "url": "https://open.spotify.com/track/2nSJH1z0BScpVsTP7EFtX7"
-    },
-    {
-      "added_at": "2023-05-09 15:00:00",
-      "album": {
         "name": "Bring it on",
         "url": "https://open.spotify.com/album/4escCJsWwwuBWWVprF2Jkt"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 241046,
       "name": "Bring it on",
       "url": "https://open.spotify.com/track/47si56TyftOEH6xZbgL2Tt"
+    },
+    {
+      "added_at": "2023-05-09 15:00:00",
+      "album": {
+        "name": "\u604b\u3092\u77e5\u3063\u3066\u3044\u308b\u3059\u3079\u3066\u306e\u3042\u306a\u305f\u3078",
+        "url": "https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd"
+      },
+      "artists": [
+        {
+          "name": "SHISHAMO",
+          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
+        }
+      ],
+      "duration_ms": 225649,
+      "name": "\u541b\u3068\u590f\u30d5\u30a7\u30b9",
+      "url": "https://open.spotify.com/track/2nSJH1z0BScpVsTP7EFtX7"
     },
     {
       "added_at": "2023-05-09 15:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-05-09 15:00:00",
       "album": {
-        "name": "\u604b\u3059\u308b (10YEARS THANK YOU)",
-        "url": "https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo"
-      },
-      "artists": [
-        {
-          "name": "SHISHAMO",
-          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
-        }
-      ],
-      "duration_ms": 369253,
-      "name": "\u604b\u3059\u308b - 10YEARS THANK YOU",
-      "url": "https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D"
-    },
-    {
-      "added_at": "2023-05-09 15:00:00",
-      "album": {
         "name": "\u7a7a\u84bc\u3044\u307e\u307e",
         "url": "https://open.spotify.com/album/07MGDYIEIH5d7lPWuUyHmR"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 281367,
       "name": "\u7a7a\u84bc\u3044\u307e\u307e",
       "url": "https://open.spotify.com/track/67dcfh84CB6AoYHMJbmraB"
+    },
+    {
+      "added_at": "2023-05-09 15:00:00",
+      "album": {
+        "name": "\u30ed\u30f3\u30ea\u30fc\u30e1\u30a4\u30d3\u30fc",
+        "url": "https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E"
+      },
+      "artists": [
+        {
+          "name": "peanut butters",
+          "url": "https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP"
+        }
+      ],
+      "duration_ms": 179340,
+      "name": "she so come!!!",
+      "url": "https://open.spotify.com/track/0QH4z68TORGX2tBGuYPkr2"
     },
     {
       "added_at": "2023-05-09 15:00:00",

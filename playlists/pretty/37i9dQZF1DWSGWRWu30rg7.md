@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:   nabrl
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,847 likes - 83 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,848 likes - 83 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 82 | [Aku Dan Kisahmu](https://open.spotify.com/track/1SPiy3acEBrX1sZ2BkR9FE) | [Danyannisa](https://open.spotify.com/artist/2AWnRV889vjq7HLW6kEOVW) | [Aku Dan Kisahmu](https://open.spotify.com/album/5KLZWvzd4UdTH9nQvX2u31) | 3:22 |
 | 83 | [Malam Satu Suro](https://open.spotify.com/track/4eMePgTJl4lOi7EOUBSCWf) | [Hiken Of The Apollo](https://open.spotify.com/artist/1WY1GOrgft4o3HAtUxtwTz) | [Malam Satu Suro](https://open.spotify.com/album/0sEnMdGgGsOYm2lxbxzNaD) | 4:52 |
 
-Snapshot ID: `MCwxMTZjMzYxNzY3ODhhNGVlOWE4YTVjMzhmYjkyNWYyYjAyNDkyOGQ4`
+Snapshot ID: `MCw2MzBmODllNmQyNzA2MTU2NjdmMDI0ZTIzZmY0Zjk3MWVjZDQ3Yjhm`

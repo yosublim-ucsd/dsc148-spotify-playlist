@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Arlo Parks & Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,127 likes - 102 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,132 likes - 102 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 101 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
 | 102 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 |
 
-Snapshot ID: `MCw5YTUwYjVlZTdiOWIyOGUyMjk5ZTIzN2JlZTllN2Y3MDI4ZTU2OGEw`
+Snapshot ID: `MCxiM2IzMTI1ZjcxNTNkOTk0ZTNlN2IxYjIzM2FkMmNkNzVlZjRmN2Q5`

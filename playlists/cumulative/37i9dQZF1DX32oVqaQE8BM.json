@@ -2708,10 +2708,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 121300,
       "name": "Feather",
       "url": "https://open.spotify.com/track/3C9SSKzLA3egmM5g9KCnzK"
+    },
+    {
+      "album": {
+        "name": "Feather",
+        "url": "https://open.spotify.com/album/3RiGsKtfdiJHRtxq9XH331"
+      },
+      "artists": [
+        {
+          "name": "Technicyan",
+          "url": "https://open.spotify.com/artist/3v3AfH9gjJFvuSM7f2OduC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121469,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/210hkp65BbA0awD0IX2gjE"
     },
     {
       "album": {

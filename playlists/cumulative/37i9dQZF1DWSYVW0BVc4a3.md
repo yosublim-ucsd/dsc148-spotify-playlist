@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: ARTBAT
 
-512 songs - 1 day 16 hr 44 min
+513 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,7 @@
 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG) | 3:11 | 2022-08-18 | 2022-08-26 |
 | [Tulum](https://open.spotify.com/track/2EBNZDuUE3FFcbLADOhOTC) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/1pFpQxlLrzhPTTV071GvTL) | 3:45 | 2022-08-18 | 2022-09-24 |
 | [Tuman Yarom](https://open.spotify.com/track/2Z3Mq5HEYzQStJsuQUdioW) | [Two Are](https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD), [TORIЯ](https://open.spotify.com/artist/4QjCJOIa3Ri0tMyL8sDmwH) | [Tuman Yarom \| Oi Tam](https://open.spotify.com/album/6lUcLrJdattaUFYvWrQcTM) | 6:30 | 2023-01-19 | 2023-03-10 |
-| [Tumda](https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Tumda](https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9) | 3:12 | 2023-04-20 |  |
+| [Tumda](https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Tumda](https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9) | 3:12 | 2023-04-20 | 2023-05-15 |
 | [Turn Off](https://open.spotify.com/track/0yZr5rcFiwyhx9xKo6b7bv) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Time Is Now](https://open.spotify.com/album/1mEZ8fADCdPqekkLzhG128) | 3:33 | 2022-09-29 | 2022-10-07 |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2022-08-18 | 2023-01-27 |
 | [Turn On The Lights again.\. \(feat\. Future\) \- Anyma Remix](https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\) \[Remixes\]](https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx) | 4:13 | 2023-02-16 |  |
@@ -518,6 +518,7 @@
 | [Yula](https://open.spotify.com/track/0NL6PYY0tDszmywyDGeZsf) | [Drumstone](https://open.spotify.com/artist/7tCFigbe2WuE8DzGoNrMvj) | [Yula](https://open.spotify.com/album/6WzqN2vZHWPXxges3fm62r) | 6:52 | 2023-01-26 | 2023-03-10 |
 | [Yumi](https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/4EyihxwhzNMOtYjGFpJalw) | 6:21 | 2022-12-27 | 2023-02-19 |
 | [Yumi](https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/5LVl6B5iv7BNR4h01jWlJj) | 6:21 | 2023-02-16 | 2023-03-10 |
+| [Zodiac](https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Zodiac](https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV) | 5:42 | 2023-05-11 |  |
 | [Zone 1 \(24 Hours\)](https://open.spotify.com/track/0WBT2NT0p99t8c77aJGQUp) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: F1 Racer & Locked In \| Zone 1 \(24 Hours\)](https://open.spotify.com/album/3EHJQYoofSblgWCRqlvNRk) | 5:26 | 2022-10-07 | 2022-10-28 |
 | [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 | 2022-09-01 | 2022-11-25 |
 

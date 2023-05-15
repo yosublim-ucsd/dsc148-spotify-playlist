@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Luanna e novos talentos brasileiros no horizonte.",
-  "num_followers": 421855,
+  "num_followers": 421847,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODk1OWY4MDkwNjhhYjRlMTYxODM3NTJlZTI3OThmNjAyN2EyMDgw",
+  "snapshot_id": "MCxmMDA3MDY4Y2FkN2UwN2M0MWExMWVhZWI3NjAzYTY5Njc5MTk3OTYw",
   "tracks": [
     {
       "added_at": "2023-04-24 21:27:43",
@@ -399,18 +399,22 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Do Alto da Laje",
-        "url": "https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H"
+        "name": "100 Mili",
+        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
       },
       "artists": [
         {
-          "name": "Arthurzim",
-          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         }
       ],
-      "duration_ms": 159048,
-      "name": "Daqui de Cima",
-      "url": "https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww"
+      "duration_ms": 142153,
+      "name": "100 Mili",
+      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -439,22 +443,18 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "100 Mili",
-        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
+        "name": "Do Alto da Laje",
+        "url": "https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H"
       },
       "artists": [
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
         }
       ],
-      "duration_ms": 142153,
-      "name": "100 Mili",
-      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
+      "duration_ms": 159048,
+      "name": "Daqui de Cima",
+      "url": "https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww"
     },
     {
       "added_at": "2023-04-24 21:27:43",

@@ -13285,6 +13285,28 @@
     },
     {
       "album": {
+        "name": "SELF-SABOTAGE (MC4D Remix)",
+        "url": "https://open.spotify.com/album/6yefd6WEMrUmBuvAMl8Dd8"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157053,
+      "name": "SELF-SABOTAGE (feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/3cjPUCNlR7Sk7126DV77ms"
+    },
+    {
+      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/5rZ4HiqySK7ozwWMdaao1o"
       },
@@ -16264,7 +16286,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 140598,
       "name": "toothfairy",
       "url": "https://open.spotify.com/track/4mG5tpeiYVHiy8gRKNCVcn"

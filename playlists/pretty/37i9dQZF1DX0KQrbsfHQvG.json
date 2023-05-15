@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 176837,
+  "num_followers": 176940,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTU0ZmI3YmUwZjhlN2ZjYzU4OWQzYzQ1OGI3ZDI3ZGQwYjc4OGFk",
+  "snapshot_id": "MCw1Njg3YzE5OGU4MzU3MGVhMmU1YmU5ZTcwOWMxNjU4MzQzMWQwM2U2",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Bullet",
-        "url": "https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h"
+        "name": "Baptize",
+        "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
       },
       "artists": [
         {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Bullet - Single Version",
-      "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
+      "duration_ms": 141620,
+      "name": "Save Us",
+      "url": "https://open.spotify.com/track/3fHpYJimyZ4Nzk3mHgRTBk"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Bullet",
+        "url": "https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Bullet - Single Version",
+      "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Year Zero",
         "url": "https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 229666,
       "name": "Capital G",
       "url": "https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Baptize",
-        "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 141620,
-      "name": "Save Us",
-      "url": "https://open.spotify.com/track/3fHpYJimyZ4Nzk3mHgRTBk"
     },
     {
       "added_at": "2022-11-04 04:00:00",

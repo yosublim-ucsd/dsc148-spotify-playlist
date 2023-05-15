@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Temples on cover.",
-  "num_followers": 356815,
+  "num_followers": 357095,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDJmOWVhNmNlMWI2M2NlNDc2YzQwZWE3NTg4ZWI0YjAwNjdlNDk0",
+  "snapshot_id": "MCw1MmUyN2FlODA1YjJiNTE2MTA2NjA3YzU5MDg0ODQxMjA3ZTVkYTU0",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -459,18 +459,34 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "D\u00e9j\u00e0vu",
-        "url": "https://open.spotify.com/album/2priXi39uori5UwmnwA6oO"
+        "name": "Bacchanal",
+        "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
       },
       "artists": [
         {
-          "name": "Matty",
-          "url": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
+          "name": "G\u00e1bor Szab\u00f3",
+          "url": "https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG"
+        },
+        {
+          "name": "Jim Stewart",
+          "url": "https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq"
+        },
+        {
+          "name": "Hal Gordon",
+          "url": "https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ"
+        },
+        {
+          "name": "Jimmy Keltner",
+          "url": "https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP"
+        },
+        {
+          "name": "Louis Kabok",
+          "url": "https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u"
         }
       ],
-      "duration_ms": 312360,
-      "name": "I'll Gladly Place Myself Below You",
-      "url": "https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx"
+      "duration_ms": 288826,
+      "name": "Three King Fishers",
+      "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -523,34 +539,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Bacchanal",
-        "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
+        "name": "D\u00e9j\u00e0vu",
+        "url": "https://open.spotify.com/album/2priXi39uori5UwmnwA6oO"
       },
       "artists": [
         {
-          "name": "G\u00e1bor Szab\u00f3",
-          "url": "https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG"
-        },
-        {
-          "name": "Jim Stewart",
-          "url": "https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq"
-        },
-        {
-          "name": "Hal Gordon",
-          "url": "https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ"
-        },
-        {
-          "name": "Jimmy Keltner",
-          "url": "https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP"
-        },
-        {
-          "name": "Louis Kabok",
-          "url": "https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u"
+          "name": "Matty",
+          "url": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
         }
       ],
-      "duration_ms": 288826,
-      "name": "Three King Fishers",
-      "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
+      "duration_ms": 312360,
+      "name": "I'll Gladly Place Myself Below You",
+      "url": "https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "A Song For Paul",
-        "url": "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu"
-      },
-      "artists": [
-        {
-          "name": "Ghost Funk Orchestra",
-          "url": "https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Seven Eight",
-      "url": "https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o"
-    },
-    {
       "added_at": "2022-04-06 03:33:39",
       "album": {
         "name": "Time Bazaar",
@@ -935,6 +919,22 @@
       "duration_ms": 236000,
       "name": "Time Bazaar",
       "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "A Song For Paul",
+        "url": "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu"
+      },
+      "artists": [
+        {
+          "name": "Ghost Funk Orchestra",
+          "url": "https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Seven Eight",
+      "url": "https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "everything's worth it",
+        "url": "https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic"
+      },
+      "artists": [
+        {
+          "name": "iogi",
+          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
+        }
+      ],
+      "duration_ms": 219524,
+      "name": "you\\me\\everyone",
+      "url": "https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 546640,
       "name": "Black Acid",
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "everything's worth it",
-        "url": "https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic"
-      },
-      "artists": [
-        {
-          "name": "iogi",
-          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
-        }
-      ],
-      "duration_ms": 219524,
-      "name": "you\\me\\everyone",
-      "url": "https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7"
     },
     {
       "added_at": "2021-11-12 05:23:58",

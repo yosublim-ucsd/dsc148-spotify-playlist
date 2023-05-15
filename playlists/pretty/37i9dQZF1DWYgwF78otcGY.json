@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 25872,
+  "num_followers": 25883,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDIwMTNhYTk1MzY4ZmE1MzQxOGUwMGU2Mzc2MDZjMjY5ZThkZDVi",
+  "snapshot_id": "MCxhODI3OGQ3NDZhYTNkZDE2NmQ1YjQxOGQ2ZjM0MDUwNjE5ZTAxNTJj",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Take Me To Your Heaven",
-        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Tusen och en natt",
-      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Genom Eld & Vatten",
         "url": "https://open.spotify.com/album/0IvnnD0YUy1yZuLMUHzUL4"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 199253,
       "name": "Genom Eld & Vatten",
       "url": "https://open.spotify.com/track/20NfHnLzpw6qoAKOX8BFaQ"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Take Me To Your Heaven",
+        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Tusen och en natt",
+      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
+        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
+        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
       },
       "artists": [
         {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
         }
       ],
-      "duration_ms": 182443,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
+      "duration_ms": 176213,
+      "name": "La det swinge",
+      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "As I Lay Me Down",
-        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
       },
       "artists": [
         {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
         }
       ],
-      "duration_ms": 189120,
-      "name": "As I Lay Me Down",
-      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "As I Lay Me Down",
+        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "As I Lay Me Down",
+      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "Alltid p\u00e5 v\u00e4g",
         "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 182773,
       "name": "H\u00e5ll om mig",
       "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
-        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "La det swinge",
-      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -507,6 +507,38 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "Diggiloo Diggiley",
+        "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
+      },
+      "artists": [
+        {
+          "name": "Herreys",
+          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Diggiloo Diggiley",
+      "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Dance You Off",
+        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 182134,
+      "name": "Dance You Off",
+      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "90-talet",
         "url": "https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn"
       },
@@ -527,22 +559,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Diggiloo Diggiley",
-        "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
-      },
-      "artists": [
-        {
-          "name": "Herreys",
-          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Diggiloo Diggiley",
-      "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Ashes To Ashes",
         "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 180883,
       "name": "Ashes To Ashes",
       "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Dance You Off",
-        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 182134,
-      "name": "Dance You Off",
-      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Om om och om igen",
-        "url": "https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 167346,
-      "name": "Om om och om igen",
-      "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Dolly Styles b\u00e4sta",
         "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 171340,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Om om och om igen",
+        "url": "https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 167346,
+      "name": "Om om och om igen",
+      "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "La voix du nord",
+        "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
+      },
+      "artists": [
+        {
+          "name": "Malena Ernman",
+          "url": "https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo"
+        },
+        {
+          "name": "Fredrik Kempe",
+          "url": "https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "La Voix",
+      "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
       },
@@ -787,6 +807,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "Greatest of the Best",
+        "url": "https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo"
+      },
+      "artists": [
+        {
+          "name": "\u00d6sten Med Resten",
+          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Hon Kommer Med Solsken",
+      "url": "https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "Den l\u00e5ngsamma blomman",
         "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
       },
@@ -815,42 +851,6 @@
       "duration_ms": 182106,
       "name": "Begging",
       "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Busy Doin' Nothin'",
-        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
-      },
-      "artists": [
-        {
-          "name": "Ace Wilder",
-          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Busy Doin' Nothin'",
-      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "La voix du nord",
-        "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
-      },
-      "artists": [
-        {
-          "name": "Malena Ernman",
-          "url": "https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo"
-        },
-        {
-          "name": "Fredrik Kempe",
-          "url": "https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "La Voix",
-      "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
     }
   ],
   "unique_name": "Schlagerfest",

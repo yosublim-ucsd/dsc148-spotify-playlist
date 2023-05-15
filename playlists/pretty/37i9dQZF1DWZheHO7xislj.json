@@ -1,12 +1,12 @@
 {
   "description": "Classic soul music for the perfect dinner.",
-  "num_followers": 57225,
+  "num_followers": 57236,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzMwNWQ4NzFkOGY3ZWFjNGJmNGMxYjhmYTZiMjNjMTFjZDc5MmIy",
+  "snapshot_id": "MCxhNWQwNDE2Y2E5NDgzMzk1NjBiMGYyMWZhMTdhYWY3YTY2ZDk0MDk0",
   "tracks": [
     {
       "added_at": "2023-01-09 13:10:50",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 258834,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Cherish - Single Version",
-      "url": "https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "The First Family of Soul: The Best of The Five Stairsteps",
         "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 197160,
       "name": "O-o-h Child",
       "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Cherish - Single Version",
+      "url": "https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Bedroom Classics, Vol. 2",
-        "url": "https://open.spotify.com/album/5SUJuwK3WUmX1OxrJUiw6n"
-      },
-      "artists": [
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        }
-      ],
-      "duration_ms": 255720,
-      "name": "If Ever You're in My Arms Again",
-      "url": "https://open.spotify.com/track/4TIkesxpN5caX6XpsiirnH"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "A Valentine For You",
         "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 127186,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Bedroom Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/5SUJuwK3WUmX1OxrJUiw6n"
+      },
+      "artists": [
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "If Ever You're in My Arms Again",
+      "url": "https://open.spotify.com/track/4TIkesxpN5caX6XpsiirnH"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1403,22 +1403,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Peabo Bryson Collection",
-        "url": "https://open.spotify.com/album/2PZbzFwkxnZ3vfOeB1zoIZ"
+        "name": "Supernatural Thing",
+        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
       },
       "artists": [
         {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Tonight I Celebrate My Love",
-      "url": "https://open.spotify.com/track/622nEHkm52E6ijVShcea9f"
+      "duration_ms": 251560,
+      "name": "Supernatural Thing, Pt. 1",
+      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1439,18 +1435,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Supernatural Thing",
-        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
+        "name": "The Peabo Bryson Collection",
+        "url": "https://open.spotify.com/album/2PZbzFwkxnZ3vfOeB1zoIZ"
       },
       "artists": [
         {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 251560,
-      "name": "Supernatural Thing, Pt. 1",
-      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
+      "duration_ms": 211400,
+      "name": "Tonight I Celebrate My Love",
+      "url": "https://open.spotify.com/track/622nEHkm52E6ijVShcea9f"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 316160,
-      "name": "On Broadway",
-      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Jazzy Soul",
         "url": "https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 250266,
       "name": "Caught Up In the Rapture",
       "url": "https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 316160,
+      "name": "On Broadway",
+      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "All In The Name Of Love",
-        "url": "https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15"
-      },
-      "artists": [
-        {
-          "name": "Atlantic Starr",
-          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "The Very Best of Aretha Franklin - The 70's",
         "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 286960,
       "name": "Love X Love",
       "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "All In The Name Of Love",
+        "url": "https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15"
+      },
+      "artists": [
+        {
+          "name": "Atlantic Starr",
+          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "All The Great Love Songs",
-        "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/2LdtluFBgL8cuSo9nkvJ57"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Betcha by Golly Wow (Live)",
         "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 253004,
       "name": "Betcha by Golly Wow (Live)",
       "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "All The Great Love Songs",
+        "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2LdtluFBgL8cuSo9nkvJ57"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "I'm In Love Again",
         "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
       },
@@ -2095,18 +2079,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
-        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 288653,
-      "name": "Through the Fire",
-      "url": "https://open.spotify.com/track/4fZDZMgyWBxTg2Rc4OHVtB"
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2127,6 +2111,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 288653,
+      "name": "Through the Fire",
+      "url": "https://open.spotify.com/track/4fZDZMgyWBxTg2Rc4OHVtB"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "Baby, I'm Yours",
         "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
       },
@@ -2139,22 +2139,6 @@
       "duration_ms": 148706,
       "name": "Baby, I'm Yours",
       "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Harvest for the World",
-        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Harvest for the World, Pt. 1 - Single Version",
-      "url": "https://open.spotify.com/track/0fl2MichhIDeOYQOCce7GW"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2243,18 +2227,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
+        "name": "Harvest for the World",
+        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 229440,
-      "name": "Turn Your Love Around - 2015 GH Version",
-      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
+      "duration_ms": 211733,
+      "name": "Harvest for the World, Pt. 1 - Single Version",
+      "url": "https://open.spotify.com/track/0fl2MichhIDeOYQOCce7GW"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2271,6 +2255,22 @@
       "duration_ms": 329466,
       "name": "Freddie's Dead",
       "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Turn Your Love Around - 2015 GH Version",
+      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2467,6 +2467,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Sparkle",
+        "url": "https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 381826,
+      "name": "Something He Can Feel",
+      "url": "https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "Back for More",
         "url": "https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb"
       },
@@ -2483,22 +2499,6 @@
       "duration_ms": 309226,
       "name": "I'm Back for More",
       "url": "https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Sparkle",
-        "url": "https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 381826,
-      "name": "Something He Can Feel",
-      "url": "https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 441889,
-      "name": "Blood Is Thicker Than Water",
-      "url": "https://open.spotify.com/track/7o9d4vFTq7SQ4vx60dpe5D"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "The Essential Isley Brothers",
         "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
       },
@@ -2555,18 +2539,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Part Time Love",
-        "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
       },
       "artists": [
         {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
         }
       ],
-      "duration_ms": 174973,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
+      "duration_ms": 441889,
+      "name": "Blood Is Thicker Than Water",
+      "url": "https://open.spotify.com/track/7o9d4vFTq7SQ4vx60dpe5D"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2583,6 +2567,22 @@
       "duration_ms": 644826,
       "name": "City of the Angels",
       "url": "https://open.spotify.com/track/7yokzOJMDlz8WdZz92j33G"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Part Time Love",
+        "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2675,22 +2675,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Lay It On Me: The Columbia Years",
-        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 132013,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Super 20 - Discoparty",
         "url": "https://open.spotify.com/album/2pGLHCFQ88rB92jw0pWlz7"
       },
@@ -2707,6 +2691,22 @@
       "duration_ms": 237973,
       "name": "Shame, Shame, Shame",
       "url": "https://open.spotify.com/track/1omsOCgn46ZJ2UfK84qheK"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Lay It On Me: The Columbia Years",
+        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 132013,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2923,22 +2923,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
-        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
-      },
-      "artists": [
-        {
-          "name": "Sandra Wright",
-          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "I'll Come Running Back (Mr Scruff Edit)",
-      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Funky Entertainment",
         "url": "https://open.spotify.com/album/4tLBJzaV71qm3TyepiEIBy"
       },
@@ -2951,6 +2935,22 @@
       "duration_ms": 251733,
       "name": "You Put A Charge In My Life",
       "url": "https://open.spotify.com/track/1r69KR1iUoLfoN4Z44Okca"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
+        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Wright",
+          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "I'll Come Running Back (Mr Scruff Edit)",
+      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Ultimate Luther Vandross",
-        "url": "https://open.spotify.com/album/4odlrkO0sgj6Hb9hZ6Dm5e"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 293533,
-      "name": "Always and Forever",
-      "url": "https://open.spotify.com/track/1BOiHA0bNo2WFLWvNt5495"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Chronicle: The 20 Greatest Hits",
         "url": "https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd"
       },
@@ -3015,6 +2999,22 @@
       "duration_ms": 208133,
       "name": "Steal Away",
       "url": "https://open.spotify.com/track/6olcjo8bBSkin9fJtFj7hB"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "The Ultimate Luther Vandross",
+        "url": "https://open.spotify.com/album/4odlrkO0sgj6Hb9hZ6Dm5e"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 293533,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/1BOiHA0bNo2WFLWvNt5495"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3067,22 +3067,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Second to None",
-        "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
-      },
-      "artists": [
-        {
-          "name": "Sam Dees",
-          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Win Or Lose",
-      "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Stand By Your Man",
         "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
       },
@@ -3095,6 +3079,22 @@
       "duration_ms": 193506,
       "name": "I'm Just a Prisoner (Of Your Good Lovin')",
       "url": "https://open.spotify.com/track/1AYXaktCxrgKdjbxNMtwAq"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Second to None",
+        "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
+      },
+      "artists": [
+        {
+          "name": "Sam Dees",
+          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Win Or Lose",
+      "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3179,6 +3179,26 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "More: Johnny's Greatest Hits",
+        "url": "https://open.spotify.com/album/2CB8bmEPNvBmBMglM7lFW7"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        },
+        {
+          "name": "Glenn Osser",
+          "url": "https://open.spotify.com/artist/5IzlXnIwa5PWqv5Eh4vJnj"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Small World",
+      "url": "https://open.spotify.com/track/2DugUShG2wj81Zf51l29Je"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "All Because of Your Love",
         "url": "https://open.spotify.com/album/1blD6Kx3gBIpMcH0WrCE2D"
       },
@@ -3207,26 +3227,6 @@
       "duration_ms": 271453,
       "name": "Take a Vacation from Life (And Visit Your Dreams)",
       "url": "https://open.spotify.com/track/68KRAOVAq0I84clxvkEFbf"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "More: Johnny's Greatest Hits",
-        "url": "https://open.spotify.com/album/2CB8bmEPNvBmBMglM7lFW7"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        },
-        {
-          "name": "Glenn Osser",
-          "url": "https://open.spotify.com/artist/5IzlXnIwa5PWqv5Eh4vJnj"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Small World",
-      "url": "https://open.spotify.com/track/2DugUShG2wj81Zf51l29Je"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3295,22 +3295,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/5JycxUvp3crGxKV3i3Vjl3"
-      },
-      "artists": [
-        {
-          "name": "The Undisputed Truth",
-          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Brother Louie",
-      "url": "https://open.spotify.com/track/1QXhI3IfDBZiPtPID25FE1"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "70s Classic Love Songs",
         "url": "https://open.spotify.com/album/5IcFni8p9cXMxQQA9Viimg"
       },
@@ -3339,6 +3323,22 @@
       "duration_ms": 284040,
       "name": "Made For Each Other",
       "url": "https://open.spotify.com/track/4qMuLEXTIITszoQ2KbSG29"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/5JycxUvp3crGxKV3i3Vjl3"
+      },
+      "artists": [
+        {
+          "name": "The Undisputed Truth",
+          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Brother Louie",
+      "url": "https://open.spotify.com/track/1QXhI3IfDBZiPtPID25FE1"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3407,22 +3407,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "After You Love Me, Why Do You Leave Me",
-      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "My Melody (Expanded)",
         "url": "https://open.spotify.com/album/29qGTutavRfDv7gAcUC9pz"
       },
@@ -3435,6 +3419,22 @@
       "duration_ms": 275946,
       "name": "Silly - Single Version",
       "url": "https://open.spotify.com/track/4f8sTGdbepee0EIFve7G2s"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "After You Love Me, Why Do You Leave Me",
+      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3487,6 +3487,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "That's It! / Duke Recordings Vol. III",
+        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "If You Got A Heart - Single Version",
+      "url": "https://open.spotify.com/track/1Rns2Yiuu0yiLDeCOqClJH"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "Travelin' In Heavy Traffic",
         "url": "https://open.spotify.com/album/4XZbP8SrKj0dyxt4Lbxrde"
       },
@@ -3515,22 +3531,6 @@
       "duration_ms": 259160,
       "name": "You Bring out the Best in Me",
       "url": "https://open.spotify.com/track/1GaxPnyHozmwKCONQY7sAa"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "That's It! / Duke Recordings Vol. III",
-        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "If You Got A Heart - Single Version",
-      "url": "https://open.spotify.com/track/1Rns2Yiuu0yiLDeCOqClJH"
     },
     {
       "added_at": "2023-01-09 13:10:50",

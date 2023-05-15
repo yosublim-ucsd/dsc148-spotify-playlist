@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,743 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,825 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MCxjOTJkMmE2ZTk3NjlkMmQ4ZGQzNjYxYmQ2MmJhYmIzMzQwYTY0ZGI0`
+Snapshot ID: `MCxhYTc0YzIyZDhmZWUyZmJmYWMxOWI3YmNhYjYzOGJlOTk1M2M0YmM5`

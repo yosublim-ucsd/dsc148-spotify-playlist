@@ -870,7 +870,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 247600,
       "name": "Girl On TV",
       "url": "https://open.spotify.com/track/4DJwdQDai9DLYBL9TNrEDo"
@@ -2736,6 +2736,24 @@
       "duration_ms": 201400,
       "name": "Water Runs Dry",
       "url": "https://open.spotify.com/track/7yhmvQh1JOzbNiNFQo4Tfc"
+    },
+    {
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/6TNSl6N3tdvWQ6hBm81Dz7"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3VAKlkSSrbEasm9WDDD9Jd"
     },
     {
       "album": {

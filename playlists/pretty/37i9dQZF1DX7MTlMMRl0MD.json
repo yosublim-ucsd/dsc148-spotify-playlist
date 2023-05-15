@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Prince Royce",
-  "num_followers": 1903061,
+  "num_followers": 1903224,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmQ5MWNhYzFkNjQwNGQyYTY0ZGQ4NTE0MmMxNjNmYmQzM2UxMzg0",
+  "snapshot_id": "MCxjN2ZjY2E4NWU4OWMyNDY0YmNlYjExYjFkZDA0NzQyZDUyYjc1MDgy",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -975,6 +975,42 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Amigos (con Maria Becerra) [Bachata]",
+        "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 202702,
+      "name": "Amigos (con Maria Becerra) - Bachata",
+      "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/11lLUZQgWDj6Vy1s765yBy"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/03sVjqRZTzKbCDjroICASq"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "La Culpa",
         "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
       },
@@ -995,22 +1031,6 @@
       "duration_ms": 174222,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/11lLUZQgWDj6Vy1s765yBy"
-      },
-      "artists": [
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/03sVjqRZTzKbCDjroICASq"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1267,26 +1287,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Amigos (con Maria Becerra) [Bachata]",
-        "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 202702,
-      "name": "Amigos (con Maria Becerra) - Bachata",
-      "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "El Duque de la Bachata",
         "url": "https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx"
       },
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "A World Tour",
+        "url": "https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U"
+      },
+      "artists": [
+        {
+          "name": "Optimo",
+          "url": "https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "El Cuchillo",
+      "url": "https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Love Is Back",
         "url": "https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "A World Tour",
-        "url": "https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U"
+        "name": "Y Los Claveles Mios",
+        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
       },
       "artists": [
         {
-          "name": "Optimo",
-          "url": "https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM"
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
         }
       ],
-      "duration_ms": 221760,
-      "name": "El Cuchillo",
-      "url": "https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv"
+      "duration_ms": 236933,
+      "name": "El Verde de Tus Ojos",
+      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1383,22 +1399,6 @@
       "duration_ms": 217000,
       "name": "Una Mentirita",
       "url": "https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Y Los Claveles Mios",
-        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "El Verde de Tus Ojos",
-      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU"
+        "name": "Toby Love",
+        "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
       },
       "artists": [
         {
-          "name": "Jalil Lopez",
-          "url": "https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN"
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
         }
       ],
-      "duration_ms": 229369,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0"
+      "duration_ms": 258866,
+      "name": "Tengo un Amor",
+      "url": "https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Toby Love",
-        "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU"
       },
       "artists": [
         {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+          "name": "Jalil Lopez",
+          "url": "https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN"
         }
       ],
-      "duration_ms": 258866,
-      "name": "Tengo un Amor",
-      "url": "https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr"
+      "duration_ms": 229369,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Momentos de Cine",
-        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
-        }
-      ],
-      "duration_ms": 210008,
-      "name": "Verdad O Reto",
-      "url": "https://open.spotify.com/track/5qfKObjdXnUosQcls4IiqT"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "An\u00edmate",
         "url": "https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 218538,
       "name": "An\u00edmate",
       "url": "https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Momentos de Cine",
+        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        }
+      ],
+      "duration_ms": 210008,
+      "name": "Verdad O Reto",
+      "url": "https://open.spotify.com/track/5qfKObjdXnUosQcls4IiqT"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Mi Maldito Turno (Bachata Version)",
-        "url": "https://open.spotify.com/album/7yl7WikTdR12Mx03bv0Cmj"
+        "name": "Bachata De Amor Vol. 1",
+        "url": "https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v"
       },
       "artists": [
         {
-          "name": "Grupo Extra",
-          "url": "https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS"
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
         }
       ],
-      "duration_ms": 238841,
-      "name": "Mi Maldito Turno - Bachata Version",
-      "url": "https://open.spotify.com/track/6wFsJfZ6PrkOPMlQWS5ysr"
+      "duration_ms": 288106,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno"
     }
   ],
   "unique_name": "Bachata Lovers",

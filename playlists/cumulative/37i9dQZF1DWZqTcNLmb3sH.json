@@ -982,10 +982,32 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 210352,
       "name": "Arey Arey",
       "url": "https://open.spotify.com/track/0ihoUaqfQNJKXYJAy1LWVU"
+    },
+    {
+      "album": {
+        "name": "Orchestra, Mysuru! (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VoMGIXAIvC0YeU1GZrgzN"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "Varun Ramachandra",
+          "url": "https://open.spotify.com/artist/5UayLxcBFJpD03u2qihj84"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210352,
+      "name": "Arey Arey",
+      "url": "https://open.spotify.com/track/1R7FD4Ev9tJlByrbQmpqeH"
     },
     {
       "album": {
@@ -4704,7 +4726,7 @@
     {
       "album": {
         "name": "Orchestra, Mysuru! (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1xZ7njeguIdXjWWuBFDnqd"
+        "url": "https://open.spotify.com/album/5VoMGIXAIvC0YeU1GZrgzN"
       },
       "artists": [
         {
@@ -4719,6 +4741,28 @@
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 412418,
+      "name": "Haaduve Naa Haaduve",
+      "url": "https://open.spotify.com/track/0OuwNrVyd2RMMqD32TiLHe"
+    },
+    {
+      "album": {
+        "name": "Orchestra, Mysuru! (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1xZ7njeguIdXjWWuBFDnqd"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "Siddharth Belmannu",
+          "url": "https://open.spotify.com/artist/79LdQ8oCiYU93qEqWMEUCj"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
       "duration_ms": 412418,
       "name": "Haaduve Naa Haaduve",
       "url": "https://open.spotify.com/track/5T8wOodxnY4yKIUqL3WyC7"

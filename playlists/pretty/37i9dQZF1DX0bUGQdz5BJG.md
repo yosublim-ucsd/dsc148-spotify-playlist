@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,519 likes - 196 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,608 likes - 196 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 195 | [Missed the Boat](https://open.spotify.com/track/3DQi4r0z82AD5cQgVQYkTP) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Missed the Boat](https://open.spotify.com/album/358todtduHcbUf6KOKzvma) | 3:19 |
 | 196 | [Stoned](https://open.spotify.com/track/1E0MQXTmFHJnaOGIMqq5LF) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Stoned](https://open.spotify.com/album/7fzDWt3ZsttqHdjr0bugrz) | 2:42 |
 
-Snapshot ID: `MCxjMmJjOWU3OWE0Y2IzOGY1ZTQ0NDM1MGEyNjViNTBkMDRiN2M3NzUy`
+Snapshot ID: `MCw0ZGFjYjUyNGM4NGFmMWRiY2IzMmZkYjUwYTdkMGU0MWNiOWRkZGQ4`

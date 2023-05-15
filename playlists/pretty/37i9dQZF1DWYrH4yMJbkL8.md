@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Logan Staats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,021 likes - 27 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,016 likes - 27 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 26 | [Follow my lead](https://open.spotify.com/track/62IPnK3DLxTClWKNm9IUjw) | [Simbiyez Wilson](https://open.spotify.com/artist/39HMOKIeugHhEhQgYJAkYK) | [Follow my lead](https://open.spotify.com/album/2jaPDC4WhdFrbStgCeiERo) | 3:48 |
 | 27 | [Ironworking Hubby](https://open.spotify.com/track/6ObGhMM0ayVw7ky6EaOd8i) | [Bear Fox](https://open.spotify.com/artist/5ADf44wT8qNVJQ8HKMM6tq) | [Gifts](https://open.spotify.com/album/1zXvC39k196qcF4P8ttWPn) | 3:47 |
 
-Snapshot ID: `MCwwNjE3NjhlNGExMGJiMjRiYzQxZTdiOGZjZmVlZWEyZjE5Njc3ZGUx`
+Snapshot ID: `MCxmZWViZjNiMjYzNGZjMzhiNzQzNThhMmU5Nzc4MTNmMWY5MTBhNTRi`

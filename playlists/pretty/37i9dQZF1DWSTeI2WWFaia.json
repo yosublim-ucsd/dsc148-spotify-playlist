@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
-  "num_followers": 1614582,
+  "num_followers": 1614729,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTZhNjIwNTM5OGJkZTBmYmE3MDdiYmE5ZGE4ZDI3MzQyOWIxYWU4",
+  "snapshot_id": "MCw5ZDBkMzUzYWI2NzIzMGZiYmExMDYwM2IwYTQ0MTU0ZGFiNDhmZTM4",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "WON'T HE DO IT",
         "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 190310,
       "name": "Brucifix",
       "url": "https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -707,22 +707,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "pg baby (Remix)",
-        "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
       },
       "artists": [
         {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 249675,
-      "name": "pg baby - Remix",
-      "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
+      "duration_ms": 132219,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -787,6 +783,26 @@
       "duration_ms": 175834,
       "name": "Pinot Noir",
       "url": "https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "pg baby (Remix)",
+        "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "pg baby - Remix",
+      "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -859,26 +875,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "60 Days",
-        "url": "https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "60 Days",
-      "url": "https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Maps",
         "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
       },
@@ -915,22 +911,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "To See A Sunset",
-        "url": "https://open.spotify.com/album/5rJ8SJ38ask8SN4ftwxvWS"
+        "name": "60 Days",
+        "url": "https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS"
       },
       "artists": [
         {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         },
         {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 184847,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/03gTp2zMOTL36xDsfzgJlh"
+      "duration_ms": 199493,
+      "name": "60 Days",
+      "url": "https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -951,22 +947,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "CHOMP 2.5 (EP)",
-        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 132219,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Hip Hop 50: Vol. 2",
         "url": "https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 180340,
       "name": "Runaway (feat. Nas)",
       "url": "https://open.spotify.com/track/2DiX9oeghV7lv1mxnRnO6L"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 222776,
+      "name": "Gold Rings (feat. Pusha T)",
+      "url": "https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0"
     }
   ],
   "unique_name": "Spilled Ink",

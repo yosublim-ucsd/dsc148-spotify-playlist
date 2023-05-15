@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! LAGOS y Reik en portada.",
-  "num_followers": 66963,
+  "num_followers": 67012,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWVhNDJlZTc3ODE1MzViZTU1OTkzNmM4NTVmMDRmMTM5YzE3NDhm",
+  "snapshot_id": "MCwxNzdiNWRhYmMyZmVhNGVlNzM4MDVlZDRmNzQ3ZmZiNGFkYWFlM2E1",
   "tracks": [
     {
       "added_at": "2023-05-06 00:56:17",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-06 00:56:17",
       "album": {
-        "name": "Crayola",
-        "url": "https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3"
-      },
-      "artists": [
-        {
-          "name": "SHEISA",
-          "url": "https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8"
-        }
-      ],
-      "duration_ms": 150461,
-      "name": "Crayola",
-      "url": "https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI"
-    },
-    {
-      "added_at": "2023-05-06 00:56:17",
-      "album": {
         "name": "Carita Bonita",
         "url": "https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-05-06 00:56:17",
       "album": {
-        "name": "No Es Mi Culpa",
-        "url": "https://open.spotify.com/album/0MXBGzxk5jZZH4yYWY1O37"
+        "name": "Crayola",
+        "url": "https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3"
       },
       "artists": [
         {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+          "name": "SHEISA",
+          "url": "https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8"
         }
       ],
-      "duration_ms": 127016,
-      "name": "No Es Mi Culpa",
-      "url": "https://open.spotify.com/track/0c8RjV0vfQ7z1ZpdfaQ61d"
+      "duration_ms": 150461,
+      "name": "Crayola",
+      "url": "https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI"
     },
     {
       "added_at": "2023-05-06 00:56:17",
@@ -839,6 +823,22 @@
       "duration_ms": 191360,
       "name": "No Puede Ser - con Eladio Carrion",
       "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
+    },
+    {
+      "added_at": "2023-05-06 00:56:17",
+      "album": {
+        "name": "No Es Mi Culpa",
+        "url": "https://open.spotify.com/album/0MXBGzxk5jZZH4yYWY1O37"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 127016,
+      "name": "No Es Mi Culpa",
+      "url": "https://open.spotify.com/track/0c8RjV0vfQ7z1ZpdfaQ61d"
     },
     {
       "added_at": "2023-05-06 00:56:17",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-05-06 00:56:17",
       "album": {
-        "name": "Morena Mujer",
-        "url": "https://open.spotify.com/album/52Enkie6zGmASAECzepRp1"
+        "name": "Tus Besos",
+        "url": "https://open.spotify.com/album/5S9MvHxcWp1l7fwhxm0r42"
       },
       "artists": [
         {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
         }
       ],
-      "duration_ms": 174666,
-      "name": "Morena Mujer",
-      "url": "https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm"
+      "duration_ms": 182994,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN"
     }
   ],
   "unique_name": "Oye Pop",

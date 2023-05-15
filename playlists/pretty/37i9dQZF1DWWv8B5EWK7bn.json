@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 150804,
+  "num_followers": 150936,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjc1MjYwMzhlOWZjMmI5ZTdiMDIxN2UwMjRkMzRjOGQ1ZDQ2M2Rk",
+  "snapshot_id": "MCwxMTQ2NjM5NzRkYmZiMWU0ZTBhZTI3OGJjYWIxYzM0YTQ3NmIzNDU3",
   "tracks": [
     {
       "added_at": "2023-04-14 01:13:12",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-03-23 20:24:23",
       "album": {
-        "name": "Radical Romantics",
-        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
-      },
-      "artists": [
-        {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
-        }
-      ],
-      "duration_ms": 187632,
-      "name": "Even It Out",
-      "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
-    },
-    {
-      "added_at": "2023-03-23 20:24:23",
-      "album": {
         "name": "M\u00e1scara de Ni\u00f1a",
         "url": "https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 194148,
       "name": "M\u00e1scara de Ni\u00f1a",
       "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
+    },
+    {
+      "added_at": "2023-03-23 20:24:23",
+      "album": {
+        "name": "Radical Romantics",
+        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "duration_ms": 187632,
+      "name": "Even It Out",
+      "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
     },
     {
       "added_at": "2023-04-13 19:52:14",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
-      "added_at": "2023-03-23 20:08:51",
-      "album": {
-        "name": "Ready To Ball",
-        "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
-      },
-      "artists": [
-        {
-          "name": "Kassa Overall",
-          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
-        }
-      ],
-      "duration_ms": 207484,
-      "name": "Ready To Ball",
-      "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
-    },
-    {
       "added_at": "2022-10-05 14:12:30",
       "album": {
         "name": "All Through The Day",
@@ -395,6 +379,22 @@
       "duration_ms": 182926,
       "name": "All Through The Day",
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
+    },
+    {
+      "added_at": "2023-03-23 20:08:51",
+      "album": {
+        "name": "Ready To Ball",
+        "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
+      },
+      "artists": [
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "duration_ms": 207484,
+      "name": "Ready To Ball",
+      "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
     },
     {
       "added_at": "2023-03-16 23:33:30",
@@ -489,6 +489,22 @@
       "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "STORY OF BLOOD",
@@ -507,22 +523,6 @@
       "duration_ms": 451986,
       "name": "STORY OF BLOOD",
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
     },
     {
+      "added_at": "2022-09-07 01:02:18",
+      "album": {
+        "name": "Fairy Rust",
+        "url": "https://open.spotify.com/album/2zufQqm9WmCxVQDhWUvTvR"
+      },
+      "artists": [
+        {
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+        }
+      ],
+      "duration_ms": 157179,
+      "name": "Sour Sun",
+      "url": "https://open.spotify.com/track/58MSdjZOSfpi4Namw33bJ8"
+    },
+    {
       "added_at": "2023-03-24 15:38:14",
       "album": {
         "name": "A Time To Blossom",
@@ -621,22 +637,6 @@
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
     },
     {
-      "added_at": "2022-09-07 01:02:18",
-      "album": {
-        "name": "Fairy Rust",
-        "url": "https://open.spotify.com/album/2zufQqm9WmCxVQDhWUvTvR"
-      },
-      "artists": [
-        {
-          "name": "Wombo",
-          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
-        }
-      ],
-      "duration_ms": 157179,
-      "name": "Sour Sun",
-      "url": "https://open.spotify.com/track/58MSdjZOSfpi4Namw33bJ8"
-    },
-    {
       "added_at": "2022-08-31 04:38:50",
       "album": {
         "name": "Unfold",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX"
     },
     {
-      "added_at": "2022-07-19 04:00:00",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 187307,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Flock",
@@ -683,6 +667,22 @@
       "duration_ms": 301153,
       "name": "The Revolution of Super Visions",
       "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
+    },
+    {
+      "added_at": "2022-07-19 04:00:00",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 187307,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
       "added_at": "2023-02-13 19:20:06",
@@ -709,6 +709,22 @@
       "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
     },
     {
+      "added_at": "2022-07-15 05:46:40",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -727,22 +743,6 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
-      "added_at": "2022-07-15 05:46:40",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 517362,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
       "added_at": "2022-02-09 04:04:07",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Behind The Sun",
-        "url": "https://open.spotify.com/album/1eqCcJVmYCGqxKQxoKBbaJ"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 209817,
-      "name": "Behind The Sun",
-      "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
-    },
-    {
       "added_at": "2022-08-31 05:00:32",
       "album": {
         "name": "\u00a1Ay!",
@@ -811,6 +795,22 @@
       "duration_ms": 164598,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Behind The Sun",
+        "url": "https://open.spotify.com/album/1eqCcJVmYCGqxKQxoKBbaJ"
+      },
+      "artists": [
+        {
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+        }
+      ],
+      "duration_ms": 209817,
+      "name": "Behind The Sun",
+      "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/6Tfsdsg4ct1743ozsFnars"
     },
     {
-      "added_at": "2023-03-31 19:24:48",
-      "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
-      },
-      "artists": [
-        {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
-    },
-    {
       "added_at": "2022-05-24 01:31:24",
       "album": {
         "name": "Sun's Signature",
@@ -927,6 +911,22 @@
       "duration_ms": 244390,
       "name": "The Universe Is Always Right",
       "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+    },
+    {
+      "added_at": "2023-03-31 19:24:48",
+      "album": {
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
+      },
+      "artists": [
+        {
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
     },
     {
       "added_at": "2022-03-30 04:28:53",
@@ -963,6 +963,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "void beats/invocation trex",
+        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 233903,
+      "name": "melody in high feedback tones",
+      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "As The Love Continues",
         "url": "https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm"
       },
@@ -993,20 +1009,20 @@
       "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2023-01-03 01:09:50",
       "album": {
-        "name": "void beats/invocation trex",
-        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
+        "name": "Time Skiffs",
+        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
         }
       ],
-      "duration_ms": 233903,
-      "name": "melody in high feedback tones",
-      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
+      "duration_ms": 470299,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
     },
     {
       "added_at": "2023-03-31 19:12:14",
@@ -1023,22 +1039,6 @@
       "duration_ms": 229183,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
-    },
-    {
-      "added_at": "2023-01-03 01:09:50",
-      "album": {
-        "name": "Time Skiffs",
-        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 470299,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1365,22 +1365,6 @@
       "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
-      "added_at": "2023-04-14 23:50:17",
-      "album": {
-        "name": "Mind Maze",
-        "url": "https://open.spotify.com/album/5zuMSx2P6VTkSXUuMR4X1P"
-      },
-      "artists": [
-        {
-          "name": "Trees Speak",
-          "url": "https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Sospetto",
-      "url": "https://open.spotify.com/track/6gTRoJiuxI5IoOgdmkEhBK"
-    },
-    {
       "added_at": "2023-01-07 04:00:59",
       "album": {
         "name": "Prize",
@@ -1395,6 +1379,22 @@
       "duration_ms": 253013,
       "name": "Painted the Room",
       "url": "https://open.spotify.com/track/24IXYn8kl7J2E5pByVQHuj"
+    },
+    {
+      "added_at": "2023-04-14 23:50:17",
+      "album": {
+        "name": "Mind Maze",
+        "url": "https://open.spotify.com/album/5zuMSx2P6VTkSXUuMR4X1P"
+      },
+      "artists": [
+        {
+          "name": "Trees Speak",
+          "url": "https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "Sospetto",
+      "url": "https://open.spotify.com/track/6gTRoJiuxI5IoOgdmkEhBK"
     },
     {
       "added_at": "2022-09-29 00:40:57",

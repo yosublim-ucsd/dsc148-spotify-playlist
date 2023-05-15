@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/4N20DI57V9TX4VwBQwbkXq"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/7j8FDy7eI1TommLedXXdHz"
+    },
+    {
+      "album": {
         "name": "Cruel Summer (Acoustic Version)",
         "url": "https://open.spotify.com/album/4cAhtcqdyshti4UotFGVqJ"
       },

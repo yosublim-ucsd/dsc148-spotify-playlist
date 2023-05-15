@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,346 likes - 150 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000,532 likes - 150 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 149 | [Show & Prove](https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Show & Prove](https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9) | 2:29 |
 | 150 | [World In My Hands](https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [World In My Hands](https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT) | 3:14 |
 
-Snapshot ID: `MCxlZTJhMDc0NjAxYmFhOWZjYTQ3MTU4NmEyMzQxMGI0ZjVhNDM0NzU4`
+Snapshot ID: `MCxmN2I5MzY2ODgyMzFkMTQ1ODBlZDM0M2JkNDAzMTkzMDc2Mjg4YzFl`

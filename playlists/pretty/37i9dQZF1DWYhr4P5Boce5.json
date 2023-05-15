@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 194126,
+  "num_followers": 194170,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDRhODZlYTY2YWRjYzZkNTNhNTUyNWQ0NWMwYzkwNWYzMDVkNTY5",
+  "snapshot_id": "MCw3MWVkMzZmNDNiM2ZjZTYzNWIxN2M4OTc5MWNjYjdiMTdhMDRmMGFm",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -531,6 +531,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "A Little Crazy",
+        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Let It Fly",
         "url": "https://open.spotify.com/album/0HxQEWPXmbBGyffEIlp5k9"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 187706,
       "name": "Gave You My Heart",
       "url": "https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "A Little Crazy",
-        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
-      },
-      "artists": [
-        {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 214693,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 250754,
       "name": "Amor De Telenovela",
       "url": "https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
+      },
+      "artists": [
+        {
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 214693,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "All About Love",
+        "url": "https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "We Will Dance",
+      "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "The Writer's Room: An Acoustic EP",
         "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 191794,
       "name": "Another Song About Love",
       "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "All About Love",
-        "url": "https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "We Will Dance",
-      "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Love Will Never Fail",
-        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
-      },
-      "artists": [
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "Love Will Never Fail (I Corinthians 13)",
-      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Here's to Second Chances",
         "url": "https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Band of Gold // Summer Sessions",
-        "url": "https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU"
+        "name": "Love Will Never Fail",
+        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
       },
       "artists": [
         {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
         }
       ],
-      "duration_ms": 208493,
-      "name": "Band of Gold // Summer Sessions",
-      "url": "https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j"
+      "duration_ms": 199826,
+      "name": "Love Will Never Fail (I Corinthians 13)",
+      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1635,6 +1619,22 @@
       "duration_ms": 168069,
       "name": "Dear Future Wife - Acoustic",
       "url": "https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Band of Gold // Summer Sessions",
+        "url": "https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Band of Gold // Summer Sessions",
+      "url": "https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j"
     },
     {
       "added_at": "2023-01-31 10:01:12",

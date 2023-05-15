@@ -9976,7 +9976,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 180545,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
@@ -10132,6 +10132,32 @@
       "duration_ms": 155793,
       "name": "Ooh Ahh!",
       "url": "https://open.spotify.com/track/7BPEX8XrKa6Y9LBWqeETde"
+    },
+    {
+      "album": {
+        "name": "Rye Lane (Suite)",
+        "url": "https://open.spotify.com/album/5yV77i9HJr32Wv6TbIw3ob"
+      },
+      "artists": [
+        {
+          "name": "kwes.",
+          "url": "https://open.spotify.com/artist/2vvaBnZLZh65JFyWp67Mhn"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289617,
+      "name": "Open Up",
+      "url": "https://open.spotify.com/track/7CQ65pJJyym5gsmOmv3i0C"
     },
     {
       "album": {

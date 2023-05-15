@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: ARMNHMR & Lights.
 
-353 songs - 21 hr 19 min
+354 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-07-08 | 2022-08-13 |
 | [Ghost](https://open.spotify.com/track/1kdYy78bKEwq5gAxtb71nF) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Ghost](https://open.spotify.com/album/3IL37Yk9CZIknEv5fuOeHG) | 3:42 | 2022-07-08 | 2023-04-22 |
 | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l) | 3:32 | 2022-07-08 |  |
-| [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-12 |  |
+| [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-12 | 2023-05-15 |
 | [Glass Heart \- Last Heroes Remix](https://open.spotify.com/track/6LpNRKOUC2LNpdOqeHRVYg) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97) | [Glass Heart \(Last Heroes Remix\)](https://open.spotify.com/album/5ksQTlOli0X5clkM69OITQ) | 3:32 | 2022-07-08 | 2022-08-27 |
 | [Glow In The Dark](https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Glow In The Dark](https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85) | 4:09 | 2022-07-08 |  |
 | [Gone](https://open.spotify.com/track/0ryPLLurUf7BHIfUO95rZ0) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Gone](https://open.spotify.com/album/75MgPY66oJwsrja1hnHax6) | 3:09 | 2022-07-08 | 2023-01-06 |
@@ -361,5 +361,6 @@
 | [Wouldn't Know You](https://open.spotify.com/track/5kcINRPrvnCXz70ugncJIm) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Wouldn't Know You](https://open.spotify.com/album/3fsqNYiIX7BYog5tQv7QBK) | 4:24 | 2022-07-08 | 2023-03-18 |
 | [You Are My Pain](https://open.spotify.com/track/5Xij03tXBHCEdbKSgs0cBf) | [Ocean Roses](https://open.spotify.com/artist/2Dob1DefkZcQ8G2rNQ4bT4), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [You Are My Pain](https://open.spotify.com/album/2fPon6mUfyedA9ijAzSix6) | 3:15 | 2023-04-21 | 2023-05-13 |
 | [You Were Right](https://open.spotify.com/track/0m3EsIfqAfo48vGr18KVpq) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:55 | 2023-04-28 |  |
+| [‎catalyst](https://open.spotify.com/track/7sWxOWsyWe0P51zF1LizcN) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎kinder ‎opposites](https://open.spotify.com/album/5xZWInc4JDCmYGbLhi1gHZ) | 1:36 | 2023-05-12 |  |
 
 \*This playlist was first scraped on 2022-07-14. Prior content cannot be recovered.

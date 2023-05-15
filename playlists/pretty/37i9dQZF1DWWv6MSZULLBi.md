@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,169 likes - 108 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,162 likes - 108 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 24 | [Music Box](https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Music Box](https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf) | 4:25 |
 | 25 | [Fucked It Up](https://open.spotify.com/track/5Cn9nBZh530Vei9dOeKUGs) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:58 |
 | 26 | [Broken Heart of Mine](https://open.spotify.com/track/51gGRkh26NzsARpwOIHQ2X) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Stand in the Joy](https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49) | 3:52 |
-| 27 | [Cut and Dry](https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP) | 3:24 |
+| 27 | [Cut and Dry](https://open.spotify.com/track/4cbfwZbbQ8n5uLwg4TI8vu) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Could Have Done Anything](https://open.spotify.com/album/7fYSpC2LvK5Xode0pWSpUB) | 3:24 |
 | 28 | [Firing Line](https://open.spotify.com/track/0yowXhlr88ANGXI4BAuyGn) | [Craig Stickland](https://open.spotify.com/artist/6wBV2mHGWBe2Mz4jZJi21K) | [Firing Line](https://open.spotify.com/album/5SWoEwl8sybNpO1bSjr74p) | 3:24 |
 | 29 | [drive faster](https://open.spotify.com/track/7hdes67sicWJ4oR1zVchuQ) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [drive faster](https://open.spotify.com/album/6Z819jCN4dzySQfY0HLdER) | 1:56 |
 | 30 | [Deceiver](https://open.spotify.com/track/6vxB8pkgTnwEgsQQll7Q0M) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Deceiver](https://open.spotify.com/album/1zpKAgRhDks0LH73FcojbM) | 3:44 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 107 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 |
 | 108 | [The Dead](https://open.spotify.com/track/4kGRfWQu6c9MhXACKOVDUZ) | [Ryan O'Reilly](https://open.spotify.com/artist/2b0d58PurIqBoqRP0BiTL1) | [The Dead](https://open.spotify.com/album/43LgxnDHhwFbMjFZsWu3Wx) | 4:26 |
 
-Snapshot ID: `MCwzNTI3NzM3ZmU4Nzk4YTk3OTYxYTQ3NjhlNjdlYmI0NWIxNWUxZWEz`
+Snapshot ID: `MCxkZTIzZTZmYTE3MmZhOWY0MzA5ZmIzNzkzNWY1MWJmNjU2MDYzNWVj`

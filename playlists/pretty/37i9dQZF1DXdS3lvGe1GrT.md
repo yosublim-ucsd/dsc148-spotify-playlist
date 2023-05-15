@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: lighthearted \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,176 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,252 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 64 | [Carry On, Carry On](https://open.spotify.com/track/71oV1c3BbqyLnKKwxRJRCy) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [Carry On, Carry On](https://open.spotify.com/album/5uO7MsWs3sWJk1srtkI2cV) | 3:31 |
 | 65 | [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 |
 | 66 | [World Burn](https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy) | [Amos the Kid](https://open.spotify.com/artist/63LZAfaHUgHs3vW7lgqXr4) | [World Burn](https://open.spotify.com/album/6NowVZWXxm3LKvSjUxJXIX) | 3:30 |
-| 67 | [Cut and Dry](https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP) | 3:24 |
+| 67 | [Cut and Dry](https://open.spotify.com/track/4cbfwZbbQ8n5uLwg4TI8vu) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Could Have Done Anything](https://open.spotify.com/album/7fYSpC2LvK5Xode0pWSpUB) | 3:24 |
 | 68 | [flower bed](https://open.spotify.com/track/53SwRcMOGn4BsXledMvTzT) | [Joei Razook](https://open.spotify.com/artist/7lKfXXpidmX8SAO3cEUrPr) | [flower bed](https://open.spotify.com/album/5ibsh6LBJZ481uwfyjDfvB) | 3:08 |
 | 69 | [Cowboy in London](https://open.spotify.com/track/5QC7cT16JXayKU12sefJkA) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Cowboy in London](https://open.spotify.com/album/6OsovHPbu2W1ilfBj86VtO) | 3:25 |
 | 70 | [is there something for me?](https://open.spotify.com/track/3Jlh73nzDpIXkSnvZyOU1J) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [is there something for me?](https://open.spotify.com/album/7ECfin3AA5UE4lRbtEvzQx) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Apology From Hades](https://open.spotify.com/track/1z8OSNeSVGqlJ3jiqKLc3R) | [Mother Juniper](https://open.spotify.com/artist/0shJpWV36dxbXdniaiXDm8) | [Apology From Hades](https://open.spotify.com/album/5Tbe6BM9sHpbI1cJ5vHOu1) | 2:33 |
 | 100 | [If That Ocean's Still Blue](https://open.spotify.com/track/6KzFvsUBJTyuOsnxzwwjzj) | [Ellie Turner](https://open.spotify.com/artist/1bPQDG6agXz5IWtuUCeJeg) | [When The Trouble's All Done](https://open.spotify.com/album/29hwr6aTkvh1Oq2cXRI2aa) | 4:14 |
 
-Snapshot ID: `MCxmYzZlNDY4ZDg5ZGY1MmFmZWQ1MDkwZDI2MjgzMjVjMWM5MGJlNjRm`
+Snapshot ID: `MCw2Nzc2ZDE1MWVmZmI0NDlmZjg4YTQ0MGNkZDliNGM5NDQxYTVmMDJi`

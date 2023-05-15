@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 139069,
+  "num_followers": 139128,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmViOTU4YWJjZTM4NDY5MjExZGEwZDhiZDgxY2FmOWZiYzk2MGU4",
+  "snapshot_id": "MCwyOTQ4NWE5NDkxNmIyNTJhMThiZTQ1YzJhNzlhMWY1YzY0M2U5ZmFj",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -415,22 +415,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Through The Morning, Through The Night",
-        "url": "https://open.spotify.com/album/4iClwik4oQvlJ9wFujkmiQ"
-      },
-      "artists": [
-        {
-          "name": "Dillard & Clark",
-          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "The Adventures Of Panama Red",
         "url": "https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 243000,
       "name": "Lonesome L.A. Cowboy",
       "url": "https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Through The Morning, Through The Night",
+        "url": "https://open.spotify.com/album/4iClwik4oQvlJ9wFujkmiQ"
+      },
+      "artists": [
+        {
+          "name": "Dillard & Clark",
+          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -525,20 +525,20 @@
       "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
+      "added_at": "2022-06-01 14:18:36",
       "album": {
-        "name": "Hand Sown...Home Grown",
-        "url": "https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W"
+        "name": "Song for Juli",
+        "url": "https://open.spotify.com/album/16oYFyuJ9DClLnPsH4I5qW"
       },
       "artists": [
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "Jesse Colin Young",
+          "url": "https://open.spotify.com/artist/2pJn4djuWrNQbNfrxHB13M"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Silver Threads And Golden Needles",
-      "url": "https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd"
+      "duration_ms": 244133,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/2XI5jIhGo6Mx455FUGm8Sb"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -561,20 +561,20 @@
       "url": "https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd"
     },
     {
-      "added_at": "2022-06-01 14:18:36",
+      "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Song for Juli",
-        "url": "https://open.spotify.com/album/16oYFyuJ9DClLnPsH4I5qW"
+        "name": "Hand Sown...Home Grown",
+        "url": "https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W"
       },
       "artists": [
         {
-          "name": "Jesse Colin Young",
-          "url": "https://open.spotify.com/artist/2pJn4djuWrNQbNfrxHB13M"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
         }
       ],
-      "duration_ms": 244133,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/2XI5jIhGo6Mx455FUGm8Sb"
+      "duration_ms": 141160,
+      "name": "Silver Threads And Golden Needles",
+      "url": "https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -659,6 +659,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Commander Cody & His Lost Planet Airmen",
+        "url": "https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL"
+      },
+      "artists": [
+        {
+          "name": "Commander Cody and His Lost Planet Airmen",
+          "url": "https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Willin'",
+      "url": "https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Magnetic South (Expanded Edition)",
         "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 159133,
       "name": "Mama Nantucket",
       "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Commander Cody & His Lost Planet Airmen",
-        "url": "https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL"
-      },
-      "artists": [
-        {
-          "name": "Commander Cody and His Lost Planet Airmen",
-          "url": "https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Willin'",
-      "url": "https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Ton-Ton Macoute!",
-        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jenkins",
-          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "Down Along The Cove",
-      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Sittin' In",
         "url": "https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 144720,
       "name": "Ten More Miles to Louisiana",
       "url": "https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Ton-Ton Macoute!",
+        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jenkins",
+          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Down Along The Cove",
+      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
     },
     {
       "added_at": "2020-08-05 15:52:11",

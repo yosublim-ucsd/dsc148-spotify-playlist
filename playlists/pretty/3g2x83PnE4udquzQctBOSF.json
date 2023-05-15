@@ -6,7 +6,7 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "MzIwMCxlMGUwMGYyODAzNDljYzE0NjhiOTJlYjc4N2JiZThmMzJlNDQxNzVh",
+  "snapshot_id": "MzIzNyxmNDM5OGE2MWRhM2EyOWZkZWU3MGY0MjczMDE2ZDI0OGNjM2RkOWEy",
   "tracks": [
     {
       "added_at": "2023-05-12 16:24:04",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
     },
     {
+      "added_at": "2023-05-14 13:37:32",
+      "album": {
+        "name": "Throw Your Hands",
+        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 191408,
+      "name": "Throw Your Hands",
+      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
+    },
+    {
+      "added_at": "2023-05-14 13:37:21",
+      "album": {
+        "name": "Milano Downtown II EP",
+        "url": "https://open.spotify.com/album/2Qi53oRE6agb5bC8qHgszH"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        }
+      ],
+      "duration_ms": 219212,
+      "name": "Beg Friends",
+      "url": "https://open.spotify.com/track/0n9fISPJ3M0PFGSVpbyr8V"
+    },
+    {
       "added_at": "2023-04-30 11:55:21",
       "album": {
         "name": "Kanta",
@@ -39,6 +71,22 @@
       "duration_ms": 200625,
       "name": "Kanta",
       "url": "https://open.spotify.com/track/7qwSBOVhhcb4Da6FSpCGb8"
+    },
+    {
+      "added_at": "2023-03-17 19:24:07",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 197416,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
     },
     {
       "added_at": "2023-04-30 11:55:29",
@@ -77,36 +125,28 @@
       "url": "https://open.spotify.com/track/7xg64Eg2avjGw44TmtI4GQ"
     },
     {
-      "added_at": "2023-03-17 19:24:07",
+      "added_at": "2023-05-14 13:37:29",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/0btmQ6ej7gwhFGrWDx5heb"
       },
       "artists": [
         {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 197416,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
-    },
-    {
-      "added_at": "2023-04-23 10:14:18",
-      "album": {
-        "name": "Mumba EP",
-        "url": "https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ"
-      },
-      "artists": [
+          "name": "Mareels",
+          "url": "https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd"
+        },
         {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+          "name": "Yautja",
+          "url": "https://open.spotify.com/artist/44g8qxsuhlZChD0ItRRDGq"
+        },
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
         }
       ],
-      "duration_ms": 168745,
-      "name": "Mumba",
-      "url": "https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI"
+      "duration_ms": 180634,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/1rNVSDQZe53vVTFIvI54RI"
     },
     {
       "added_at": "2023-04-30 11:55:24",
@@ -127,6 +167,38 @@
       "duration_ms": 296958,
       "name": "Country Life - Sosa UK Remix",
       "url": "https://open.spotify.com/track/04rMkHgKEFa7ipvuGOs4Ti"
+    },
+    {
+      "added_at": "2023-02-10 17:30:44",
+      "album": {
+        "name": "Ready Or Not",
+        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 189196,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
+    },
+    {
+      "added_at": "2023-05-14 13:37:16",
+      "album": {
+        "name": "Venezuela",
+        "url": "https://open.spotify.com/album/56lODgPHSGEw887zjqc4Cy"
+      },
+      "artists": [
+        {
+          "name": "ESSED",
+          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
+        }
+      ],
+      "duration_ms": 152395,
+      "name": "Venezuela",
+      "url": "https://open.spotify.com/track/0YbrchKexq2NTo0wwOi15S"
     },
     {
       "added_at": "2023-04-30 11:55:33",
@@ -161,42 +233,6 @@
       "url": "https://open.spotify.com/track/6gPLVEwgM1b7ro9uZ0OD5r"
     },
     {
-      "added_at": "2023-02-10 17:30:44",
-      "album": {
-        "name": "Ready Or Not",
-        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 189196,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
-    },
-    {
-      "added_at": "2023-04-23 10:13:51",
-      "album": {
-        "name": "Been Dreaming",
-        "url": "https://open.spotify.com/album/45DVxrONjJSdjVkFtfVeqH"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "GD Vandal",
-          "url": "https://open.spotify.com/artist/1CWlv9N9hW7ugqHBRy2fqX"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Been Dreaming",
-      "url": "https://open.spotify.com/track/05aycF0iwg7oncrbAPXlvn"
-    },
-    {
       "added_at": "2023-04-30 11:55:40",
       "album": {
         "name": "I Feel It Right",
@@ -211,38 +247,6 @@
       "duration_ms": 184857,
       "name": "I Feel It Right",
       "url": "https://open.spotify.com/track/5Y5xn6cEjXtsba5ZvVLDs6"
-    },
-    {
-      "added_at": "2023-04-23 10:13:55",
-      "album": {
-        "name": "Gozar",
-        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 204384,
-      "name": "Gozar",
-      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
-    },
-    {
-      "added_at": "2023-04-30 11:55:26",
-      "album": {
-        "name": "The Movement",
-        "url": "https://open.spotify.com/album/5XGUdgMXArjFNlckLB5jUC"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 184921,
-      "name": "The Movement",
-      "url": "https://open.spotify.com/track/7Iv0WsLicswjnu8giaN2Wn"
     },
     {
       "added_at": "2023-01-20 06:39:56",
@@ -261,44 +265,36 @@
       "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
     },
     {
-      "added_at": "2023-04-23 10:13:48",
+      "added_at": "2023-04-30 11:55:26",
       "album": {
-        "name": "Pulp Fiction",
-        "url": "https://open.spotify.com/album/3mjsm77aIP6wB8ZLU5r2Yn"
+        "name": "The Movement",
+        "url": "https://open.spotify.com/album/5XGUdgMXArjFNlckLB5jUC"
       },
       "artists": [
         {
-          "name": "Gabriele Agostino",
-          "url": "https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ"
-        },
-        {
-          "name": "Gosts",
-          "url": "https://open.spotify.com/artist/6hMxBHVIRXtr1njOIOv8aS"
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
         }
       ],
-      "duration_ms": 344000,
-      "name": "Pulp Fiction",
-      "url": "https://open.spotify.com/track/5HzOV0JgAJXsmNr5sydLQ7"
+      "duration_ms": 184921,
+      "name": "The Movement",
+      "url": "https://open.spotify.com/track/7Iv0WsLicswjnu8giaN2Wn"
     },
     {
-      "added_at": "2023-04-23 10:14:21",
+      "added_at": "2023-05-14 13:37:37",
       "album": {
-        "name": "Beggin'",
-        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
+        "name": "Lights Down",
+        "url": "https://open.spotify.com/album/53Sw1CP6lxm9ABzFwQfbJe"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+          "name": "Seb Zito",
+          "url": "https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8"
         }
       ],
-      "duration_ms": 183397,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
+      "duration_ms": 206769,
+      "name": "Lights Down",
+      "url": "https://open.spotify.com/track/0szIFWz9JGVQazcjI5edd1"
     },
     {
       "added_at": "2023-04-30 11:55:59",
@@ -321,24 +317,20 @@
       "url": "https://open.spotify.com/track/6H9nRRIKgRARzEWxxKrInp"
     },
     {
-      "added_at": "2023-04-23 10:14:06",
+      "added_at": "2023-04-30 11:55:37",
       "album": {
-        "name": "Homo Sapiens EP",
-        "url": "https://open.spotify.com/album/4020hlgbbGZprNQMKvEbLM"
+        "name": "Chiki Ta",
+        "url": "https://open.spotify.com/album/4gozxbu9QuB6AAMW4CMv43"
       },
       "artists": [
         {
-          "name": "Sirus Hood",
-          "url": "https://open.spotify.com/artist/2lrYf4KiHcMPOYGUGhrzgs"
-        },
-        {
-          "name": "Malikk",
-          "url": "https://open.spotify.com/artist/0HhUeCRrcXYduJyhj8j4QF"
+          "name": "Orient",
+          "url": "https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ"
         }
       ],
-      "duration_ms": 234418,
-      "name": "King MTF Kong",
-      "url": "https://open.spotify.com/track/00w3e6tLEKidzDOmQ7suUZ"
+      "duration_ms": 114490,
+      "name": "Chiki Ta",
+      "url": "https://open.spotify.com/track/6i5KdoiRrN290bPq6IQkIa"
     },
     {
       "added_at": "2022-09-30 05:47:41",
@@ -357,20 +349,24 @@
       "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
     },
     {
-      "added_at": "2023-04-30 11:55:37",
+      "added_at": "2023-05-14 13:37:26",
       "album": {
-        "name": "Chiki Ta",
-        "url": "https://open.spotify.com/album/4gozxbu9QuB6AAMW4CMv43"
+        "name": "Trankilo",
+        "url": "https://open.spotify.com/album/47NHp2yScKctstDmFbZyTt"
       },
       "artists": [
         {
-          "name": "Orient",
-          "url": "https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ"
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
         }
       ],
-      "duration_ms": 114490,
-      "name": "Chiki Ta",
-      "url": "https://open.spotify.com/track/6i5KdoiRrN290bPq6IQkIa"
+      "duration_ms": 187500,
+      "name": "Trankilo",
+      "url": "https://open.spotify.com/track/27wNgv13AiJTkiMJVMY9Hs"
     },
     {
       "added_at": "2023-04-30 11:55:46",
@@ -393,44 +389,36 @@
       "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
     },
     {
-      "added_at": "2023-04-23 10:14:14",
+      "added_at": "2023-05-14 13:37:35",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/6TlbQ4aXAwS1Iw55zm42jO"
+        "name": "EDC Las Vegas 2023",
+        "url": "https://open.spotify.com/album/5Zm9Tai3GPnWUljcNoHxh5"
       },
       "artists": [
         {
-          "name": "Bellecour",
-          "url": "https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY"
-        },
-        {
-          "name": "Honey & Badger",
-          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 188571,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0mrdtRdrp9W05nKuE2qFO6"
+      "duration_ms": 170196,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/5rARPIJHK466cBchvXeb2f"
     },
     {
-      "added_at": "2023-04-23 10:14:24",
+      "added_at": "2023-05-14 13:37:23",
       "album": {
-        "name": "I Hope This EP Finds You Well",
-        "url": "https://open.spotify.com/album/5DLfNQMndr0elVO6gvQAvw"
+        "name": "Masava EP",
+        "url": "https://open.spotify.com/album/6ornbfk8U5XQ5DpEt2GEkc"
       },
       "artists": [
         {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        },
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+          "name": "Mene",
+          "url": "https://open.spotify.com/artist/3HRVazmDQL8MtCwjxKHGq8"
         }
       ],
-      "duration_ms": 282380,
-      "name": "Johnny Depp",
-      "url": "https://open.spotify.com/track/4cakVhdWCueJlwKQr1xkqJ"
+      "duration_ms": 208615,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/3sjoI17SWnYP20ILoaGhW9"
     },
     {
       "added_at": "2022-07-15 16:45:56",
@@ -497,22 +485,6 @@
       "url": "https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak"
     },
     {
-      "added_at": "2023-04-23 10:14:26",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/25c0NcIfrsEEwytlmyTSLW"
-      },
-      "artists": [
-        {
-          "name": "Badjokes",
-          "url": "https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/0XgWrOR3YvrdSfRgT2IpfQ"
-    },
-    {
       "added_at": "2023-04-30 11:56:01",
       "album": {
         "name": "Around The World In UKG, Vol. 3",
@@ -531,6 +503,22 @@
       "duration_ms": 277333,
       "name": "Callin' All Dancers",
       "url": "https://open.spotify.com/track/3xvRZdaD1RcSclqj3KmF1O"
+    },
+    {
+      "added_at": "2023-05-14 13:37:18",
+      "album": {
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "So Sweet",
+      "url": "https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX"
     }
   ],
   "unique_name": "AGLF Playlist",

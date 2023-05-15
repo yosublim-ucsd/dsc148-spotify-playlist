@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,395 likes - 35 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,402 likes - 35 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 34 | [Inconfortable](https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT) | [Les Hôtesses D' Hilaire](https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx) | [Pas l'temps d'niaiser](https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz) | 3:09 |
 | 35 | [Chou](https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB) | [Chou](https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2) | [Chou](https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1) | 2:03 |
 
-Snapshot ID: `MCw1YzAzMzQ1MmMwMmEwNjcwNTNiY2E5ODNlZTAyNjQ1OTkwZDUxOGI2`
+Snapshot ID: `MCxkNTBmZWEwNzA5OWI3OTQ2YjI0NWVlYzg3MjY2Y2JlM2QwYmIwZGQ5`

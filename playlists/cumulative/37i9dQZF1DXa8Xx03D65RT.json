@@ -236,7 +236,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 191613,
       "name": "Above Light",
       "url": "https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT"
@@ -1472,6 +1472,28 @@
       "duration_ms": 109270,
       "name": "Clouds in California",
       "url": "https://open.spotify.com/track/3tdgtBtRw98JhUrwx7APJL"
+    },
+    {
+      "album": {
+        "name": "Coalescence",
+        "url": "https://open.spotify.com/album/06sSRqpl8c9lp3JHx03i0M"
+      },
+      "artists": [
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        },
+        {
+          "name": "Gabe Saltman",
+          "url": "https://open.spotify.com/artist/7nkeYcy1PQ0DLtWmmh0Yjh"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146651,
+      "name": "Coalescence",
+      "url": "https://open.spotify.com/track/2VILtFKQp13gGUSHGM0INt"
     },
     {
       "album": {
@@ -5407,6 +5429,24 @@
     },
     {
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/4LablbSrD01fa943OTlDEZ"
+      },
+      "artists": [
+        {
+          "name": "Nora Gray",
+          "url": "https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143229,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/5UO03m8S0mJKptzwKo5N7c"
+    },
+    {
+      "album": {
         "name": "Lost In The Right Direction",
         "url": "https://open.spotify.com/album/7xy8B4OtkD7r0UlSBfeEHT"
       },
@@ -6600,7 +6640,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 154625,
       "name": "Num\u00e9ro 1",
       "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"

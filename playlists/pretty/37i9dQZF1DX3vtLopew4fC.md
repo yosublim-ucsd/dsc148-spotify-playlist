@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Katherine Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,700 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,701 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 5 | [Queen of the Dancehall](https://open.spotify.com/track/2KKUB380LqN4ydVQhdMGFJ) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Queen of the Dancehall](https://open.spotify.com/album/0BAUGuQ5pbGkBBWfIZOEbW) | 2:28 |
 | 6 | [Home to Me](https://open.spotify.com/track/4MjmRDbNqmNqzBz7ZFMpkG) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Train Track Worktapes](https://open.spotify.com/album/7HEuIrFWuyP1h5PHbc2mzn) | 3:25 |
 | 7 | [Le blanc des yeux](https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Le blanc des yeux](https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z) | 2:57 |
-| 8 | [Love Again](https://open.spotify.com/track/6gzgyr3CHPXIs97yeEqU8h) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [I'll Be \(from the Motion Picture Soundtrack Love Again\)](https://open.spotify.com/album/6F7SW0EoekiKTOgcGzg1KB) | 3:32 |
+| 8 | [Love Again](https://open.spotify.com/track/7LYV8DzfYdArevWVyNNIZ0) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/1YV5gnob3qCnMQuVomwGwG) | 3:32 |
 | 9 | [Without You](https://open.spotify.com/track/25JeHbjA7QoYPOTUbUC7Vk) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Without You](https://open.spotify.com/album/7cg41NTFljkNOW73kz9iVP) | 3:06 |
 | 10 | [Everything Is Boring](https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Everything Is Boring](https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX) | 2:56 |
 | 11 | [Bone Dry](https://open.spotify.com/track/1FVmGsxJIOw1S3IhxuAfU3) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me \(Royal Edition\)](https://open.spotify.com/album/4MRl7r0BUG5GvRylLiU9Lp) | 3:25 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 47 | [Better With You](https://open.spotify.com/track/6rd62bmf8pZYk9vTve2v0c) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [Better With You](https://open.spotify.com/album/22CqR5wvckURjoY1rDAMU0) | 2:32 |
 | 48 | [Together We're Rich](https://open.spotify.com/track/5eZxgK6A8DcF986YMV9LZn) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Together We're Rich](https://open.spotify.com/album/0EScCPK4bcJczsYvyjNp5q) | 3:13 |
 | 49 | [When You Lose Her](https://open.spotify.com/track/2RX2B72whvpTmrMjKadHoQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [When You Lose Her](https://open.spotify.com/album/4zJJ6j6z9K6FZhb5ssoZQl) | 3:56 |
-| 50 | [Cut and Dry](https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP) | 3:24 |
+| 50 | [Cut and Dry](https://open.spotify.com/track/4cbfwZbbQ8n5uLwg4TI8vu) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Could Have Done Anything](https://open.spotify.com/album/7fYSpC2LvK5Xode0pWSpUB) | 3:24 |
 
-Snapshot ID: `MCw0MDEyYjNhNWIyNDg3MjQ0NTEzMGU5NzQ1Mzc0OWNlMzU1NGVhZmI3`
+Snapshot ID: `MCwwNWJmZjU4MDZkODdjZjQxNjJmMmRiZDc0NTUzNzExNGUxODQ5ZjI1`

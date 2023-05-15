@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Catie Offerman
 
-443 songs - 1 day 2 hr 23 min
+444 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Fix Your Broken Heart \- Radio Edit](https://open.spotify.com/track/1cAbFYKLj3LfKZn48BdnjS) | [Ty Laramore](https://open.spotify.com/artist/7CNZO6wRBNwheYYMQDVrIF) | [Fix Your Broken Heart \(Radio Edit\)](https://open.spotify.com/album/3ixibQuu7BJS2QtDtR2nPv) | 3:16 | 2022-02-11 | 2022-07-09 |
 | [Fly Tonight](https://open.spotify.com/track/3soZJPbNtUIrgBYc9CsPWe) | [Trent Cowie Band](https://open.spotify.com/artist/4U82Z5ImPvKQF1wgZdhBZE) | [Fly Tonight](https://open.spotify.com/album/0l2J5TE9wOFBgNp106gloM) | 3:11 | 2022-02-11 | 2022-07-24 |
 | [Follow](https://open.spotify.com/track/4QqnvcRSmylDaB135aWjun) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Follow](https://open.spotify.com/album/1UUV1hZtczlx2uFDG8XyrF) | 3:06 | 2022-01-28 | 2022-07-28 |
-| [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 | 2021-12-17 |  |
+| [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 | 2021-12-17 | 2023-05-15 |
 | [Free Man](https://open.spotify.com/track/6Mg5RPaHV9OkzmXJQxWBdm) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Free Man](https://open.spotify.com/album/7k5gdTDJnY0xPozkMyHHJ3) | 2:57 | 2022-06-24 | 2022-08-06 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-25 |  |
 | [Game Of Fools](https://open.spotify.com/track/7n5D9ZWCCmKIkNyZSV2i3i) | [Ryan Wilcox](https://open.spotify.com/artist/3yVjN3hZbqNkZzNMsnL0r1), [The Sunday Shakes](https://open.spotify.com/artist/3v8xBzqxJg4K2GkpiPUtqG), [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Game Of Fools](https://open.spotify.com/album/6lY8fQM8ly0ZrwhDopnoFH) | 3:39 | 2021-12-17 | 2022-05-28 |
@@ -172,6 +172,7 @@
 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 | 2022-08-05 |  |
 | [Hang Me Out to Dry](https://open.spotify.com/track/5SVtmwF54HuB6pvNUl72s6) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Hang Me Out to Dry](https://open.spotify.com/album/35ZxnWk862bt1mVkkGWqlK) | 3:57 | 2021-12-17 | 2022-12-08 |
 | [Hangover](https://open.spotify.com/track/52PsNZPUNkR78ZKwS7rhQ5) | [Houston Bernard](https://open.spotify.com/artist/47sMYU4wkPXThnOUOSqbXl) | [Hangover](https://open.spotify.com/album/6rPXn5nw8hjO0o0KC1aNri) | 3:10 | 2022-03-11 | 2022-08-03 |
+| [Happier Alone](https://open.spotify.com/track/3cTPILvh238II28NyF5OEf) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone](https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j) | 3:44 | 2023-05-12 |  |
 | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC) | 3:44 | 2021-12-17 | 2023-05-12 |
 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 | 2022-09-02 |  |
 | [Harder Stuff](https://open.spotify.com/track/13KCXYA2sMXKisvfsiKmPH) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Harder Stuff](https://open.spotify.com/album/4gaF0LwArBfbpauA1n5wlG) | 4:32 | 2022-08-12 | 2022-09-21 |

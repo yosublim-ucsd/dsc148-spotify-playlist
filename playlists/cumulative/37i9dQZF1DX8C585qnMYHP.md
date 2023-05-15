@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Isabel Do Diego on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-1,352 songs - 4 day 12 hr 50 min
+1,353 songs - 4 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,8 @@
 | [Dome](https://open.spotify.com/track/67nylLS4kRYpaz3Q6VTDWF) | [Nick Storring](https://open.spotify.com/artist/3eLda5nrhivbKY1bNJgICp) | [Newfoundout](https://open.spotify.com/album/02AMsZQ8hwlJUV6YWoICMd) | 12:40 | 2021-08-26 | 2021-12-02 |
 | [Don't Despair](https://open.spotify.com/track/5k2YlVkGU0gfbHfc9jRw59) | [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP) | [Don't Despair](https://open.spotify.com/album/7d0pCrFRaiHkN5Gh20M9Bo) | 5:32 | 2020-10-30\* | 2020-11-15 |
 | [Don't Know What You Are Thinking](https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa) | [Serge Geyzel](https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy) | [As Fallen Leaves](https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3) | 4:59 | 2023-04-12 |  |
-| [Doom Variations](https://open.spotify.com/track/302Y6jNMlC4Q8dKulrD6TW) | [AUTORHYTHM](https://open.spotify.com/artist/0BWEJ23wABuFbWXCdA0j5k) | [Doom Variations](https://open.spotify.com/album/5vo9A7YwmvX12K3LJbCj4d) | 3:44 | 2023-05-10 |  |
+| [Doom Variations](https://open.spotify.com/track/302Y6jNMlC4Q8dKulrD6TW) | [AUTORHYTHM](https://open.spotify.com/artist/0BWEJ23wABuFbWXCdA0j5k) | [Doom Variations](https://open.spotify.com/album/5vo9A7YwmvX12K3LJbCj4d) | 3:44 | 2023-05-10 | 2023-05-15 |
+| [Doom Variations](https://open.spotify.com/track/7tmTrHPf9ABDb5jxTvxNvj) | [AUTORHYTHM](https://open.spotify.com/artist/0BWEJ23wABuFbWXCdA0j5k) | [Songs for the Nervous System](https://open.spotify.com/album/6IpmBV14U1lqJRUx0yuuvp) | 3:44 | 2023-05-10 |  |
 | [DOR](https://open.spotify.com/track/3i3AqwKuKopMwkFjO6SL4g) | [MICROCORPS](https://open.spotify.com/artist/2KZnQ7dpVMej38i2hnzcez) | [XMIT](https://open.spotify.com/album/5OoPyJNjOVUtZpmxBj0vsB) | 5:31 | 2021-05-04 | 2021-06-03 |
 | [DOR](https://open.spotify.com/track/4zRtukCCcUdhm69tqSHuaG) | [Raja Kirik](https://open.spotify.com/artist/22j4DsKGQEcOie7PvfQIVj) | [DOR](https://open.spotify.com/album/2iA9MXWDm2bygKsleOqWUV) | 8:11 | 2021-09-30 | 2021-11-22 |
 | [Dot](https://open.spotify.com/track/0f0c0GFBCoqLGbXLdO3wTD) | [dal:um](https://open.spotify.com/artist/4DE7afkjFxYier8CkuQUJb) | [Dot](https://open.spotify.com/album/6xvkmv9aiJ5FMEe9ASa9tE) | 3:58 | 2023-02-01 | 2023-03-23 |

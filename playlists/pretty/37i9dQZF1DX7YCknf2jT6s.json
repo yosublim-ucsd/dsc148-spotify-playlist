@@ -1,12 +1,12 @@
 {
   "description": "New jazz for open minds. Cover: Marquis Hill",
-  "num_followers": 890156,
+  "num_followers": 890031,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWI4M2ViNjUwYTViOWI4YTQzOWZlNmMxYzZhZTViODc2YTY2ZDU4",
+  "snapshot_id": "MCwxNjcxNWI1MGE5ZDQxYmQyZTc1ZmUxY2Q2NmY0ZDgwNDE3NDM3ZWU5",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2075,8 +2075,8 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/59ntoOGSEuWpsBeJnBHaZt"
+        "name": "Life in a Major Key",
+        "url": "https://open.spotify.com/album/50bnFZw0btHxjz8Uwhvp7d"
       },
       "artists": [
         {
@@ -2084,17 +2084,17 @@
           "url": "https://open.spotify.com/artist/7DBGD1kB432PN8vBOvT3it"
         },
         {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
-        },
-        {
           "name": "Morten Lund",
           "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
         }
       ],
       "duration_ms": 199818,
       "name": "Autumn",
-      "url": "https://open.spotify.com/track/1RvnKHy0hsMbCGe72D7JlW"
+      "url": "https://open.spotify.com/track/75A6fu5Tug54XA3VUg5tTh"
     },
     {
       "added_at": "2022-07-29 04:01:00",

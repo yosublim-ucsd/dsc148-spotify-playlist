@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,620 likes - 267 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,892 likes - 267 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 266 | [I Left My Heart In San Francisco](https://open.spotify.com/track/0qMhdJjFV0VVu7atzy3VXd) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Left My Heart In San Francisco](https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY) | 4:33 |
 | 267 | [Stairway to the Stars](https://open.spotify.com/track/3g0fAajWquZEairKQoYZ2z) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Stairway to the Stars](https://open.spotify.com/album/0JdR6CSFmhJRWt5uR8Xe8w) | 4:39 |
 
-Snapshot ID: `MCw1OGU5MTIyNzMwOTViNTZmYTM2M2IyMDA1YWYzOTNlN2U1MGM1OTJh`
+Snapshot ID: `MCwxOWQ5YzU0ZWEyMDNlNDUwN2M0NGJhYjJhNjZhODI2MmFjNjBlZWYx`

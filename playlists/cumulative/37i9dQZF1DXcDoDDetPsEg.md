@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-553 songs - 1 day 4 hr 12 min
+554 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [La vie est belle](https://open.spotify.com/track/4ZysoMgf9OXFxRabF3XQzF) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle) | [La vie est belle](https://open.spotify.com/album/5PbGWYfqVsv15EC6qjBDXf) | 3:29 | 2023-03-10 | 2023-04-09 |
 | [Ladies Night \(Freestyle\)](https://open.spotify.com/track/2rc3E5tuT8NCnXgwE8tbYS) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle) | [Ladies Night \(Freestyle\)](https://open.spotify.com/album/4unU2ER6lmRSetQORPdmIn) | 3:50 | 2022-03-04 | 2022-04-01 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-13 | 2022-10-14 |
+| [Last Thing](https://open.spotify.com/track/3wzSq2AgKp3KXVrAO6yj8h) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/0OZATi1efmtpFw6d7ivEzf) | 2:42 | 2023-05-15 |  |
 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 | 2022-09-15 | 2022-10-23 |
 | [Lean \(feat\. Giggs\)](https://open.spotify.com/track/0OCEAU4VxIyLCfWBNRayAP) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Lean](https://open.spotify.com/album/0qiWIq6UoO7BtPxthjiMnD) | 2:49 | 2022-03-18 | 2022-04-29 |
 | [Leave You Alone](https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Leave You Alone](https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY) | 3:29 | 2022-04-01 | 2022-05-06 |
@@ -518,7 +519,7 @@
 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 | 2022-11-18 | 2023-01-13 |
 | [TWIN FLAME](https://open.spotify.com/track/1ypCPdkZ5Woxk1llRwKkXg) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [GOD SAVE THE STREETS](https://open.spotify.com/album/21lqmGSKdoWPHRZqCz6aEM) | 2:56 | 2023-04-21 |  |
 | [Typa Way](https://open.spotify.com/track/277OKlE8bKSaWghuEBz7U7) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Eight9FLY](https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc) | [Typa Way](https://open.spotify.com/album/1v8obs02a28Pv1b6Mbjnir) | 3:50 | 2022-03-11 | 2022-05-06 |
-| [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-03-30 |  |
+| [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless \(G0100050597381\)](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-03-30 |  |
 | [Under Attack](https://open.spotify.com/track/72tljGZTBGiDrohxMlokPS) | [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Under Attack](https://open.spotify.com/album/5pXd7CsWaKYKQK0DLNRJuO) | 3:11 | 2022-05-20 | 2022-06-17 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-09-09 | 2022-10-14 |
 | [Ungrateful \(feat\. Key Glock\)](https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:34 | 2022-08-12 | 2022-09-23 |

@@ -4,13 +4,14 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: Owain Davies of Panchiko
 
-314 songs - 21 hr 32 min
+315 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(image for\) drawing on canvas](https://open.spotify.com/track/6h0YR0kt5KfVlT6N9HTLkQ) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [\(image for\) drawing on canvas](https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg) | 4:33 | 2022-11-25 | 2022-12-13 |
 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 | 2021-10-19 |  |
 | [23](https://open.spotify.com/track/4h9pwQbHEz9HSGeOE8UMf4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO) | 5:18 | 2021-10-19 | 2022-07-29 |
+| [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-12 |  |
 | [A Heavy Abacus](https://open.spotify.com/track/18bMfoScYmenFKMristSDI) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 3:40 | 2021-10-19 | 2022-12-16 |
 | [A Rising Sun](https://open.spotify.com/track/3ABSF4lV3ENRWjwKbHWQTF) | [Mint Julep](https://open.spotify.com/artist/60xrFrkTS0lvRRpbS1cpnr) | [In a Deep and Dreamless Sleep](https://open.spotify.com/album/2TYJIVtnQigi7lMTBEKD3L) | 3:48 | 2021-10-19 | 2022-07-26 |
 | [Air Supply](https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 4:41 | 2022-09-21 |  |
@@ -179,7 +180,7 @@
 | [Keen on Boys](https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV) | 4:53 | 2021-10-19 |  |
 | [Keen on Boys](https://open.spotify.com/track/1SbeUtO3YCeSGccurWHHBP) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/4qkV5iPkYOzXBveXuFIRQC) | 4:53 | 2021-10-19 | 2022-10-07 |
 | [Keen on Boys](https://open.spotify.com/track/3wZL6ZuuEqz3uJTcblXdLJ) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/2X1mLosmBKkM765LiX53W7) | 4:53 | 2021-10-19 | 2022-07-29 |
-| [Last Night's Haze](https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV) | [Star Horse](https://open.spotify.com/artist/1zC23cF77Lj7ukFsy19nor) | [Devour](https://open.spotify.com/album/6xhZzuX1veVEVGCTxsLMaM) | 3:29 | 2022-12-15 |  |
+| [Last Night's Haze](https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV) | [Star Horse](https://open.spotify.com/artist/1zC23cF77Lj7ukFsy19nor) | [Devour](https://open.spotify.com/album/6xhZzuX1veVEVGCTxsLMaM) | 3:29 | 2022-12-15 | 2023-05-15 |
 | [Lay Low](https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Lay Low](https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km) | 2:22 | 2023-04-14 |  |
 | [Lazy Lovers](https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:57 | 2022-08-02 | 2022-11-14 |
 | [Leave](https://open.spotify.com/track/0BvpyzCi6f36IqdRHdA5Fp) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Distressor](https://open.spotify.com/album/74ym7Us7V06Eox5Wg5WqkD) | 4:13 | 2021-10-19 | 2022-12-01 |

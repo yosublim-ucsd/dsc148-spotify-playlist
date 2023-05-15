@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 180393,
+  "num_followers": 180475,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDI0OWEzYjgxOTEzZmRkYWZjYzI0MjE4ODVkYmU4MmU3YzZkYjE5",
+  "snapshot_id": "MCw4Y2Y0ODE4NWE4YzBmMjk1ZWE2NmU3MWNkMzVhNmM2MWEzYjM4ZDdl",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Rhinebeck Sessions",
+        "url": "https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq"
+      },
+      "artists": [
+        {
+          "name": "Spyro Gyra",
+          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
+        }
+      ],
+      "duration_ms": 445013,
+      "name": "Sorbet",
+      "url": "https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z"
+    },
+    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Chapter One: Shredemption",
@@ -477,22 +493,6 @@
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "The Rhinebeck Sessions",
-        "url": "https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq"
-      },
-      "artists": [
-        {
-          "name": "Spyro Gyra",
-          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
-        }
-      ],
-      "duration_ms": 445013,
-      "name": "Sorbet",
-      "url": "https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Empire Central",
@@ -507,6 +507,22 @@
       "duration_ms": 292314,
       "name": "Fuel City",
       "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Hard-Wired",
+        "url": "https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS"
+      },
+      "artists": [
+        {
+          "name": "Dave Weckl",
+          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Hard-Wired",
+      "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -527,22 +543,6 @@
       "duration_ms": 240550,
       "name": "Ring of Saturn",
       "url": "https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Hard-Wired",
-        "url": "https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS"
-      },
-      "artists": [
-        {
-          "name": "Dave Weckl",
-          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Hard-Wired",
-      "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -759,22 +759,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Bent",
-        "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
-      },
-      "artists": [
-        {
-          "name": "Gary Willis",
-          "url": "https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ"
-        }
-      ],
-      "duration_ms": 371920,
-      "name": "Armageddon Blues",
-      "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Electric Rendezvous",
         "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 180800,
       "name": "Black Cat Shuffle",
       "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
+      },
+      "artists": [
+        {
+          "name": "Gary Willis",
+          "url": "https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ"
+        }
+      ],
+      "duration_ms": 371920,
+      "name": "Armageddon Blues",
+      "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Big Fun (2022 Remaster)",
+        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 1707435,
+      "name": "Go Ahead John (2022 Remaster)",
+      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
+    },
+    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Big Fun (2022 Remaster)",
-        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 1707435,
-      "name": "Go Ahead John (2022 Remaster)",
-      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 325040,
       "name": "Sand",
       "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Dahaga",
-        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
-      },
-      "artists": [
-        {
-          "name": "Erwin Gutawa",
-          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "Dahaga",
-      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -1323,6 +1307,22 @@
       "duration_ms": 260866,
       "name": "Growing Up!",
       "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Dahaga",
+        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
+      },
+      "artists": [
+        {
+          "name": "Erwin Gutawa",
+          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
+        }
+      ],
+      "duration_ms": 289500,
+      "name": "Dahaga",
+      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
       "added_at": "2021-07-23 04:01:00",

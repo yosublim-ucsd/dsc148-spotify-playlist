@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Flume
 
-437 songs - 1 day 0 hr 21 min
+438 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [sinking @@!](https://open.spotify.com/track/47vCeLdxTjshWI3emh3ZUb) | [late year](https://open.spotify.com/artist/5VIvm6mJVnzoOrcFEsKIfP), [Otxhello](https://open.spotify.com/artist/4S3cwLP8haGAdlqyza3GZ3), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [late year](https://open.spotify.com/album/52IWApcFLgfDu9clR1GGNg) | 3:20 | 2021-08-06 | 2022-07-29 |
 | [Skin](https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Skin](https://open.spotify.com/album/1XzCvvEsWUok9DB37jEgDq) | 2:49 | 2023-04-13 |  |
 | [SKY SKY 1.3 \[2016 Export Wav\]](https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 2:44 | 2023-05-05 |  |
-| [skyscraper](https://open.spotify.com/track/2DJcpcaK67nhs4kKo1lZpv) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎cath](https://open.spotify.com/album/4zuXPp6XnpbC0GzhmCkkr5) | 1:15 | 2023-05-12 |  |
+| [skyscraper](https://open.spotify.com/track/2DJcpcaK67nhs4kKo1lZpv) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎cath](https://open.spotify.com/album/4zuXPp6XnpbC0GzhmCkkr5) | 1:15 | 2023-05-12 | 2023-05-15 |
 | [Sleeptalking](https://open.spotify.com/track/1L6KXZpo1fKZcAtqsD3p9i) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Sleeptalking](https://open.spotify.com/album/2NUKhQaSu80QqTaDQaLUl0) | 3:42 | 2021-12-10 | 2023-03-16 |
 | [SLIT](https://open.spotify.com/track/1wHsT97qhIpq4UmTCGESVF) | [Herzeloyde](https://open.spotify.com/artist/2AmAO3IlqP2zaCoh98msPC), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [SLIT](https://open.spotify.com/album/1KQnrhiXdR7JhDEai0vz1b) | 3:19 | 2021-09-24 | 2022-07-27 |
 | [slomo \(with Tohji & Midas The Jagaban\)](https://open.spotify.com/track/1siKLsvJLmVM8fBzJrpBNy) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 3:12 | 2023-02-10 |  |
@@ -440,6 +440,7 @@
 | [Your Love](https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Your Love](https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie) | 3:09 | 2023-04-21 |  |
 | [Your Struggle Is Also Mine](https://open.spotify.com/track/7pTUnjG1e8FdiylA0EXzEe) | [Xavi](https://open.spotify.com/artist/08OCWF4MDd9CQC2uPbsV3j) | [Your Struggle Is Also Mine](https://open.spotify.com/album/1jq466hKCKk8ZFMoZHo3vZ) | 4:10 | 2021-08-06 | 2023-02-11 |
 | [‎amends](https://open.spotify.com/track/5DUxg2EeFywPHiH14tG7zh) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends](https://open.spotify.com/album/6hsaOsyPPxC0LAsS2OvDdB) | 2:23 | 2022-05-13 | 2022-06-15 |
+| [‎catalyst](https://open.spotify.com/track/7sWxOWsyWe0P51zF1LizcN) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎kinder ‎opposites](https://open.spotify.com/album/5xZWInc4JDCmYGbLhi1gHZ) | 1:36 | 2023-05-12 |  |
 | [‎kinder ‎opposites](https://open.spotify.com/track/3MYGkr4LPB4erhr97GnHbI) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎kinder ‎opposites](https://open.spotify.com/album/6BVsvhJucDYyb9LhM1MzcQ) | 1:42 | 2022-06-03 | 2023-03-14 |
 | [‎kinder ‎opposites](https://open.spotify.com/track/6DH5NhDzhtSyQ6eRtHcPX8) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎kinder ‎opposites](https://open.spotify.com/album/6O3emw9f3lKSgDvNabPT9B) | 1:42 | 2022-06-03 | 2022-10-14 |
 | [‎melodies ‎from ‎heaven](https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/5lWmBdwwqsE1XjgvRFjumN) | 4:29 | 2021-12-10 | 2022-07-29 |

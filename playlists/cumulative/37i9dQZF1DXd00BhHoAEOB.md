@@ -4,7 +4,7 @@
 
 > Planta de la bugambilia que me cubres y me matas.
 
-163 songs - 10 hr 11 min
+164 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Hijos Del Sol](https://open.spotify.com/track/0ds8HD4pYc88Po0RMygxiO) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hijos Del Sol](https://open.spotify.com/album/6gnYcXVaffdG0vwVM34cr8) | 2:56 | 2022-03-04 | 2022-10-29 |
 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 | 2022-03-04 | 2023-03-31 |
 | [Háblame de Ti](https://open.spotify.com/track/0UAd5a3A1v2yEMFUF66apJ) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 4:18 | 2022-03-04 |  |
-| [Jurame \- Remasterizado](https://open.spotify.com/track/0vt3qE8odeBMTPy0tm5sF8) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [El Alma Musical de RCA](https://open.spotify.com/album/2zOB9t8qly8ZBh4OMpwQ6o) | 4:34 | 2022-03-04 |  |
+| [Jurame](https://open.spotify.com/track/55LQRzXxsbEVbeo4FVhkK8) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Noches De Bohemia](https://open.spotify.com/album/1asI6AIxYR6zLzH20RZ46h) | 4:36 | 2023-02-22 |  |
+| [Jurame \- Remasterizado](https://open.spotify.com/track/0vt3qE8odeBMTPy0tm5sF8) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [El Alma Musical de RCA](https://open.spotify.com/album/2zOB9t8qly8ZBh4OMpwQ6o) | 4:34 | 2022-03-04 | 2023-05-15 |
 | [La Bruja](https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV) | [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Tierra Latinoamericana](https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la) | 3:00 | 2022-03-09 |  |
 | [La Bruja \- Son Jarocho Tradicional](https://open.spotify.com/track/15H9DPk3RWlr7ymUmqPOui) | [Salma Hayek](https://open.spotify.com/artist/2mKLeAa4vJqwWe73teVs4h), [Los Vega](https://open.spotify.com/artist/2rtoQWzN7JEpiVUmLvyNVe) | [Frida \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li) | 1:57 | 2022-03-04 | 2022-12-08 |
 | [La Bruja \- Son Jarocho Tradicional](https://open.spotify.com/track/2TWHaE81eQg65AGNlhHJfU) | [Salma Hayek](https://open.spotify.com/artist/2mKLeAa4vJqwWe73teVs4h), [Los Vega](https://open.spotify.com/artist/2rtoQWzN7JEpiVUmLvyNVe) | [Frida \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1HibLoJGOAnhtqR2KCPBBz) | 1:57 | 2022-03-04 | 2022-07-29 |

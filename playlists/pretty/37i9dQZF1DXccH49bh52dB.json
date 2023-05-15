@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 447738,
+  "num_followers": 448246,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGQxYzAwNDQ0NDU0ZTQ2NWU3NjUyZDhmMDc4NmY0OGU3OGY0NmU0",
+  "snapshot_id": "MCw4MTRiMmU4OGM0M2MyMDI5M2ZlZDE0YmJhZmRiYTQ5MzkwMzBhZDcx",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Ocean Drive",
-        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "Ocean Drive",
-      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "All We Know",
         "url": "https://open.spotify.com/album/0xmaV6EtJ4M3ebZUPRnhyb"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 194080,
       "name": "All We Know",
       "url": "https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -539,26 +539,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
-        "url": "https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        },
-        {
-          "name": "Anna Naklab",
-          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
-        }
-      ],
-      "duration_ms": 195210,
-      "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
-      "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Sick Boy",
         "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 180120,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
+        "url": "https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Anna Naklab",
+          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
+        }
+      ],
+      "duration_ms": 195210,
+      "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
+      "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Talk About It",
-        "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Hot Shade",
-          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
-        }
-      ],
-      "duration_ms": 164536,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
       },
@@ -999,34 +979,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Worlds",
-        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
       },
       "artists": [
         {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 350690,
-      "name": "Sad Machine",
-      "url": "https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Memories...Do Not Open",
-        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
-      },
-      "artists": [
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Hot Shade",
+          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
         }
       ],
-      "duration_ms": 224773,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/1KeZgPUr54C8iz3FjqzVoz"
+      "duration_ms": 164536,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1047,6 +1015,38 @@
       "duration_ms": 211040,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Memories...Do Not Open",
+        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/1KeZgPUr54C8iz3FjqzVoz"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Worlds",
+        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 350690,
+      "name": "Sad Machine",
+      "url": "https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Less Is More",
-        "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Janieck Devy",
-          "url": "https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON"
-        }
-      ],
-      "duration_ms": 158474,
-      "name": "Reality",
-      "url": "https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Life of a Wallflower, Vol. 1",
         "url": "https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 184814,
       "name": "Superlove (feat. Oh Wonder)",
       "url": "https://open.spotify.com/track/0lchLc0vSyRRqKSPIkFtJI"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Janieck Devy",
+          "url": "https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON"
+        }
+      ],
+      "duration_ms": 158474,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Summer Air",
+        "url": "https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 183587,
+      "name": "Summer Air",
+      "url": "https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Lighthouse (Andrelli Remix)",
         "url": "https://open.spotify.com/album/4ywy3ahNM8FMH99Ueuf9ZA"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 218446,
       "name": "Lighthouse - Andrelli Remix",
       "url": "https://open.spotify.com/track/04CttTezSnv71USiiG9mIo"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Summer Air",
-        "url": "https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        }
-      ],
-      "duration_ms": 183587,
-      "name": "Summer Air",
-      "url": "https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB"
     },
     {
       "added_at": "2022-01-18 14:54:04",

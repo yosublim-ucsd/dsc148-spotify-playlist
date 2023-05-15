@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Pretty Pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,262 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,260 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,25 +19,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [Fall In Love](https://open.spotify.com/track/00yeUUrgFfxidZOWFQxDcZ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Fall In Love](https://open.spotify.com/album/4S5m723e0p5GYuRWMeo8GY) | 4:04 |
 | 10 | [Immer an dich geglaubt](https://open.spotify.com/track/5mWkmalwb4PrecF7THiRbp) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Immer an dich geglaubt](https://open.spotify.com/album/4NbIU98TsaJ53d0K2qzH91) | 2:52 |
 | 11 | [Lost in Paradise](https://open.spotify.com/track/5jVfowFVOwBdkUPkRHiObu) | [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Lost in Paradise](https://open.spotify.com/album/5waR15zk8BkCe4mGIhBSfl) | 2:43 |
-| 12 | [Don't Let Me Go](https://open.spotify.com/track/5hNibQaWxWKoYJauWzeJVb) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Don't Let Me Go](https://open.spotify.com/album/79EO7l4nmhRSVVafjHlVEr) | 3:15 |
-| 13 | [uff, nein](https://open.spotify.com/track/4YRN4TwZjB4xSAjnT3JixX) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [DONNA SAVAGE](https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x) | [b.a.d.](https://open.spotify.com/album/4kqYMOaRZkArxO2NOpLCJX) | 2:56 |
-| 14 | [Lost Indieboy](https://open.spotify.com/track/23eDWkNkjz2DWYMfl500VK) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Lost Indieboy](https://open.spotify.com/album/1m15vBieDMaG3wh1wdniPk) | 3:19 |
-| 15 | [Wishing Well](https://open.spotify.com/track/4CwpXQipxCBWejF9xq4Evq) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Wishing Well](https://open.spotify.com/album/4oOOSOlQ8eK2jh8Csq2Y3Z) | 3:18 |
+| 12 | [uff, nein](https://open.spotify.com/track/4YRN4TwZjB4xSAjnT3JixX) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [DONNA SAVAGE](https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x) | [b.a.d.](https://open.spotify.com/album/4kqYMOaRZkArxO2NOpLCJX) | 2:56 |
+| 13 | [Don't Let Me Go](https://open.spotify.com/track/5hNibQaWxWKoYJauWzeJVb) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Don't Let Me Go](https://open.spotify.com/album/79EO7l4nmhRSVVafjHlVEr) | 3:15 |
+| 14 | [Wishing Well](https://open.spotify.com/track/4CwpXQipxCBWejF9xq4Evq) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Wishing Well](https://open.spotify.com/album/4oOOSOlQ8eK2jh8Csq2Y3Z) | 3:18 |
+| 15 | [Lost Indieboy](https://open.spotify.com/track/23eDWkNkjz2DWYMfl500VK) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Lost Indieboy](https://open.spotify.com/album/1m15vBieDMaG3wh1wdniPk) | 3:19 |
 | 16 | [Change](https://open.spotify.com/track/5VR7fuS81foZIQZ7OyRIoA) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Change](https://open.spotify.com/album/6TckaHJU35tlFUy57USHAB) | 5:59 |
 | 17 | [ocean drive](https://open.spotify.com/track/1qR818h8X7EnRGC6k3Cljv) | [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [ocean drive](https://open.spotify.com/album/1yAfC0GuoqMU1rpoIs6D3u) | 2:31 |
 | 18 | [Now Or Never](https://open.spotify.com/track/7xcmPlJlJZ4JsGapKjdkCu) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Now Or Never](https://open.spotify.com/album/4YKUIhAo0WvlE2qKkCvMUh) | 2:28 |
-| 19 | [I want it bad](https://open.spotify.com/track/0vd63b6Tyq3iQeORinVPzj) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [I want it bad](https://open.spotify.com/album/3r0rOGXSz7RSZ5dhMpxNo1) | 2:32 |
-| 20 | [WHO NEEDS ENEMIES](https://open.spotify.com/track/3bxlJgVp6pXSpItCZ3TwYT) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [WHO NEEDS ENEMIES](https://open.spotify.com/album/68NnpDvykXyKkPuqA8Zsbg) | 2:32 |
+| 19 | [WHO NEEDS ENEMIES](https://open.spotify.com/track/3bxlJgVp6pXSpItCZ3TwYT) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [WHO NEEDS ENEMIES](https://open.spotify.com/album/68NnpDvykXyKkPuqA8Zsbg) | 2:32 |
+| 20 | [I want it bad](https://open.spotify.com/track/0vd63b6Tyq3iQeORinVPzj) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [I want it bad](https://open.spotify.com/album/3r0rOGXSz7RSZ5dhMpxNo1) | 2:32 |
 | 21 | [Raum 37](https://open.spotify.com/track/2PWaVvsSaOQTciQZM7eoX1) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Raum 37](https://open.spotify.com/album/2k73lgJP18duGEkA7U2YkV) | 2:21 |
 | 22 | [All Ears on Me](https://open.spotify.com/track/1zblKer9LkCk9P33KXnZrs) | [Vita](https://open.spotify.com/artist/6xFDR4HD7uLGWhdV9vF9qP) | [All Ears on Me](https://open.spotify.com/album/0Umpl1GnQLFvAPWlXDWykm) | 2:11 |
 | 23 | [Augen zu](https://open.spotify.com/track/2WBl3RGjTOc1b7fV7l3PMt) | [SHARI](https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS) | [Augen zu](https://open.spotify.com/album/4quko6tSRQ2bAZlZxTCtHU) | 2:41 |
 | 24 | [Titanic](https://open.spotify.com/track/1f5iEY0FhKFTJzlELuyaaY) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Titanic](https://open.spotify.com/album/6YxTUTfGHKmpOMqlruyxSN) | 4:38 |
 | 25 | [i don’t get stressed \- Radio Edit](https://open.spotify.com/track/45j85vQMOtPQFMkxQRFOvG) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [i don’t get stressed \(Radio Edit\)](https://open.spotify.com/album/6UoTkDGrw1tNwPzGqf9M5c) | 2:31 |
-| 26 | [Angst](https://open.spotify.com/track/4c4tf3DQ2XC4S8pFQwEC42) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Sam \- ein Sachse \(Original Soundtrack\)](https://open.spotify.com/album/1lZ7xtd9J7APMcNUESrkIV) | 1:58 |
-| 27 | [Before We Meet Again](https://open.spotify.com/track/1uZehIWzCcwqrlmZSBD2xC) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Before We Meet Again](https://open.spotify.com/album/05DWdwz5EVwV5Zzvvy7kNa) | 4:22 |
+| 26 | [Before We Meet Again](https://open.spotify.com/track/1uZehIWzCcwqrlmZSBD2xC) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Before We Meet Again](https://open.spotify.com/album/05DWdwz5EVwV5Zzvvy7kNa) | 4:22 |
+| 27 | [Angst](https://open.spotify.com/track/4c4tf3DQ2XC4S8pFQwEC42) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Sam \- ein Sachse \(Original Soundtrack\)](https://open.spotify.com/album/1lZ7xtd9J7APMcNUESrkIV) | 1:58 |
 | 28 | [Alleine](https://open.spotify.com/track/62Dmi359e09S58Srti5kmz) | [DenniJasmin](https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE) | [Alleine](https://open.spotify.com/album/4Rflv14CiIqiMxXTBDoLQD) | 2:28 |
-| 29 | [Brown Sugar Baby](https://open.spotify.com/track/6zf14OJhGuljTbv0E1oAFF) | [Queenwho](https://open.spotify.com/artist/4b0hnlYMN1Pl30rU6SYcFC) | [Brown Sugar Baby](https://open.spotify.com/album/5klSmDcwVNYGwMTVjQn6HL) | 2:36 |
-| 30 | [FIREWORK](https://open.spotify.com/track/4FXzptXwH5Wz33SVat2uRt) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [FIREWORK](https://open.spotify.com/album/2lQIr73uagdffu6XPh4CjZ) | 3:36 |
+| 29 | [FIREWORK](https://open.spotify.com/track/4FXzptXwH5Wz33SVat2uRt) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [FIREWORK](https://open.spotify.com/album/2lQIr73uagdffu6XPh4CjZ) | 3:36 |
+| 30 | [Brown Sugar Baby](https://open.spotify.com/track/6zf14OJhGuljTbv0E1oAFF) | [Queenwho](https://open.spotify.com/artist/4b0hnlYMN1Pl30rU6SYcFC) | [Brown Sugar Baby](https://open.spotify.com/album/5klSmDcwVNYGwMTVjQn6HL) | 2:36 |
 | 31 | [Loose Lips](https://open.spotify.com/track/4EPqqtmYj7gOmIRw6boqKs) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Loose Lips \(Original and Jody Wisternoff & James Grant Mixes\)](https://open.spotify.com/album/32udrYYGz0lkvE7F50asV1) | 3:47 |
 | 32 | [SOAMI](https://open.spotify.com/track/6aPSqYjp4fElBJaOJNvo55) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [SOAMI](https://open.spotify.com/album/0R5HRdz4T5tiqOr1u7LgMD) | 3:38 |
 | 33 | [Radiocarbon](https://open.spotify.com/track/0neqJbbBbtaslhjG9016G7) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Radiocarbon](https://open.spotify.com/album/2oV3FdJ6HpYkDnCUw5mnEN) | 6:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [cyu](https://open.spotify.com/track/0SrqZuiuyuIu3pwNBLXq0K) | [fraen again](https://open.spotify.com/artist/0BmSxSKl373sqmoGAdHKTT) | [cyu](https://open.spotify.com/album/6bWONIYVnAC9BUkgkjH6PR) | 3:45 |
 | 50 | [Strawberry Milk](https://open.spotify.com/track/79aJ1jhpv0hTQwBSRv5wZd) | [Olive Yaah](https://open.spotify.com/artist/2Z9U9OEYfEAJVkTkNReA0G) | [Strawberry Milk](https://open.spotify.com/album/3sJbhGEEZS8jVLa0VZTlFB) | 4:57 |
 
-Snapshot ID: `MCxlM2RmOTdkOTJlY2I3M2ZmOGQxNGMyMDQzNjY0OGM2Yzg3NmEzMTdj`
+Snapshot ID: `MCwwNjg2YmY4OGM3YzNiNzEyMjk5MTkyZDU4MTQxNDlhMTQ3ZjFhMjQz`

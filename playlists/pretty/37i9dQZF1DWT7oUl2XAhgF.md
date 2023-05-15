@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Durand Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,376 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,477 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [Who Knew](https://open.spotify.com/track/6ABbS6736nA9V73pEyKVzg) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Who Knew](https://open.spotify.com/album/1v7cxaUL0IoJcUdRJvITYu) | 3:34 |
 | 100 | [Like a Ship \- Live from Strange Manor](https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like a Ship \(Live from Strange Manor\)](https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7) | 5:12 |
 
-Snapshot ID: `MCwxYWE2ZTdlMDNlZDVlY2NlMDI3NmZjZGM1N2MzN2YwN2ZiMDlkYTQ1`
+Snapshot ID: `MCw0YmI5YmYyMTMyM2YwNTg2NTU4ZjhjNDU4MTA2NDYwYmJlMWRjNDNh`

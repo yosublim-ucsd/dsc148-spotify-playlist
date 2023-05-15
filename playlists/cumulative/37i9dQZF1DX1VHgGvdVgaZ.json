@@ -1276,10 +1276,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 413520,
       "name": "Sri Chakra Raja",
       "url": "https://open.spotify.com/track/2hVXhADIRbE34DP36llqV5"
+    },
+    {
+      "album": {
+        "name": "Sudhamayi 1",
+        "url": "https://open.spotify.com/album/4VBDKWQpHki7jzQ1499Xu5"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413520,
+      "name": "Sri Chakra Raja",
+      "url": "https://open.spotify.com/track/7JkjbdZxZ8Vt8wBh4aDYPf"
     },
     {
       "album": {

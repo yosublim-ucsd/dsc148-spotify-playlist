@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 116753,
+  "num_followers": 116803,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjMxNjU5YWI4ODU2NDYxNTMzY2ZiYzA3ZmE4Y2Q0ZTYzNDcyZjBm",
+  "snapshot_id": "MCw1NmY5NTVjYzIzMWJmYmQwMDUzZWI3OTNmYjQyYTkyNDE5MjIzNjEx",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 194556,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "All I See (feat. CASS)",
         "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 183341,
       "name": "All I See (feat. CASS)",
       "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 194556,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Won't Let Me Go",
-        "url": "https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 197675,
-      "name": "Won't Let Me Go",
-      "url": "https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Eyes On You (Live)",
         "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 200360,
       "name": "Way Truth Life - Live",
       "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Won't Let Me Go",
+        "url": "https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 197675,
+      "name": "Won't Let Me Go",
+      "url": "https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "You Tell Me",
-        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
-      },
-      "artists": [
-        {
-          "name": "One Common",
-          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "You Tell Me",
-      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Heaven On Earth",
         "url": "https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 225856,
       "name": "Heaven On Earth - Radio Single",
       "url": "https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "You Tell Me",
+        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
+      },
+      "artists": [
+        {
+          "name": "One Common",
+          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "You Tell Me",
+      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
     },
     {
       "added_at": "2023-02-18 04:35:24",

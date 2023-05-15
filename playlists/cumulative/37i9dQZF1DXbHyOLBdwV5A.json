@@ -400,6 +400,28 @@
     {
       "album": {
         "name": "Renascido das Cinzas",
+        "url": "https://open.spotify.com/album/0v6aMoDSt4IvoFYHoBqmH8"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Viviane Franco",
+          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Das Trevas para Luz - VIP Version",
+      "url": "https://open.spotify.com/track/1n2UbPR7xxkUrALmYchBp2"
+    },
+    {
+      "album": {
+        "name": "Renascido das Cinzas",
         "url": "https://open.spotify.com/album/2KlBD6CwyvCv9hMf77wVqS"
       },
       "artists": [
@@ -414,7 +436,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 204375,
       "name": "Das Trevas para Luz - VIP Version",
       "url": "https://open.spotify.com/track/37R0NpssvQdZ1o6TB9F5ld"

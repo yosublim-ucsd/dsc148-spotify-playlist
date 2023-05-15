@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,665 likes - 119 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,731 likes - 119 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 92 | [Contrabando y Traición](https://open.spotify.com/track/4xN0IidUTGtPKQjaB8FigH) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [Rock Milenium](https://open.spotify.com/album/2AusEMAvDewcPfe635W38x) | 3:32 |
 | 93 | [La Pucha Asesina](https://open.spotify.com/track/0vNei6mEiN5GBEMyUFA7vR) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 3:15 |
 | 94 | [Babel](https://open.spotify.com/track/5du827b2Z8gQ1dtD8BcpVm) | [Santa Sabina](https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP) | [15 Años de Exitos](https://open.spotify.com/album/3R1IPI5OFMNFXrd7PfgZW6) | 5:00 |
-| 95 | [Pobre De Ti](https://open.spotify.com/track/0j14D2Jp4i9zg9KKm9aSBk) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock Milenium](https://open.spotify.com/album/7sTufh6pGV76HicANbWbSA) | 4:38 |
+| 95 | [Pobre de Ti](https://open.spotify.com/track/1mBbKzmlbQUQNK7tw2Etdf) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [No](https://open.spotify.com/album/3glRjXzdGdiFA254NwD5Rs) | 4:37 |
 | 96 | [D\-Generación](https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Pasto](https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa) | 3:50 |
 | 97 | [Abarajame](https://open.spotify.com/track/3hhq2bSKf42wfuOWPvlmnr) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Solo Para Fanáticos](https://open.spotify.com/album/2AhDy5vggIg5MamFp3icCm) | 4:20 |
 | 98 | [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 118 | [Florecita Rockera \(feat\. Goyo & Catalina García Barahona\)](https://open.spotify.com/track/0cewuMPpGs38dYsv18LFRW) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Goyo](https://open.spotify.com/artist/1ovLUfXp677yibcfzWQWPC), [Catalina García Barahona](https://open.spotify.com/artist/01CeOOSN2oyRaRXj1a3SJi) | [Reluciente, Rechinante y Aterciopelado](https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg) | 6:40 |
 | 119 | [Perro Negro \(En Vivo\)](https://open.spotify.com/track/6ydmf4dML4JjK8RNBgQgh7) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri 4 Decadas](https://open.spotify.com/album/2oUjxsCoulKvOVIlW6oklm) | 3:53 |
 
-Snapshot ID: `MCw2NjczYzY4MjliYzg5YmQ1YmU4MDI5OTlhODExOWFhMDM4NjkzZmM2`
+Snapshot ID: `MCwzYWJjMzEyMDAyZGQxMjQ0NWU3OGExNjhkYTM2ZWFlZWJkN2QzN2M0`

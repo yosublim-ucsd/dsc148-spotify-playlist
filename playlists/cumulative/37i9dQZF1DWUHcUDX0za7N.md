@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=wS2oZz1IRbqPomFtKITcqA"> Blaqbonez </a>
 
-203 songs - 9 hr 54 min
+204 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [BBO \(Bad Bxtches Only\)](https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BBO \(Bad Bxtches Only\)](https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY) | 2:43 | 2022-10-28 | 2023-04-22 |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 |  |
 | [Blessed Sinner](https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Blessed Sinner](https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8) | 2:58 | 2023-03-17 | 2023-05-05 |
+| [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 | 2023-05-12 |  |
 | [Blood Hot](https://open.spotify.com/track/3ocQ7frjALF31yCx5eMhTz) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP) | [Blood Hot](https://open.spotify.com/album/3hEla1QCivyzb2KEXXDgGy) | 2:25 | 2022-06-30 | 2022-10-14 |
 | [Body Language](https://open.spotify.com/track/0O5ZbaNWha50PwklOprDgy) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Body Language](https://open.spotify.com/album/52NNbFus4RMbeBzdYmNmx5) | 2:27 | 2022-06-09 | 2022-11-05 |
 | [Booless Brothers](https://open.spotify.com/track/7gTgdhChd3dH93Ej8Qr8c5) | [Gasky](https://open.spotify.com/artist/5EyDiELo7F136IKRoicaB2), [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Booless Brothers](https://open.spotify.com/album/7lJsrNjkX9ObNZ7fQ4IEFD) | 2:11 | 2023-02-03 | 2023-02-17 |
@@ -143,7 +144,7 @@
 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 | 2023-05-12 |  |
 | [prayers](https://open.spotify.com/track/24nu4KX3BBhBV8vAXtIUnT) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Arif Erdem Ocak](https://open.spotify.com/artist/74rfDl79T309YeNaQNrrb4), [Kállay Saunders](https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj) | [prayers](https://open.spotify.com/album/3h22MOBNM1xtCMIjt5y6Lw) | 2:49 | 2022-09-30 | 2022-10-07 |
 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 | 2022-07-28 |  |
-| [PS2](https://open.spotify.com/track/360eQCVMiXHI9zqkduxbVf) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [GOD'S ENGINEERING 2](https://open.spotify.com/album/7Ml0G3q46jK8eDDtVTp2Ul) | 3:22 | 2023-05-04 |  |
+| [PS2](https://open.spotify.com/track/360eQCVMiXHI9zqkduxbVf) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [GOD'S ENGINEERING 2](https://open.spotify.com/album/7Ml0G3q46jK8eDDtVTp2Ul) | 3:22 | 2023-05-04 | 2023-05-15 |
 | [Rap Jesu](https://open.spotify.com/track/7j8WXEaW42vHouOocKCiF9) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [Rap Jesu](https://open.spotify.com/album/3HZNv2fC4NLUhfev4bES8w) | 2:31 | 2022-08-05 | 2023-02-04 |
 | [Reason \(feat\. Russ\)](https://open.spotify.com/track/6WavyUNdnJk9SRW7ko9ack) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:11 | 2022-09-12 |  |
 | [Reason You](https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:26 | 2023-04-27 |  |

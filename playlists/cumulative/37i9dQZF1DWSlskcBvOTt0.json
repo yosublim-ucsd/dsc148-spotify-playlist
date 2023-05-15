@@ -8064,7 +8064,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 214676,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/2rKgp5Ih2eNVVGl6Yqn5VW"
@@ -8530,6 +8530,24 @@
       "duration_ms": 378688,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/2V64rudkFZ9gciglMM0t5S"
+    },
+    {
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSlskcBvOTt0"

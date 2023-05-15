@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Q
 
-823 songs - 1 day 20 hr 30 min
+824 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,7 +522,7 @@
 | [On A Wave](https://open.spotify.com/track/4MDXu1BLDQ1ohHSCkl1AeE) | [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz), [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ) | [On A Wave](https://open.spotify.com/album/5eAUBYI8HfXSV0WQCMD4Vz) | 2:46 | 2021-03-19 | 2022-01-19 |
 | [On God](https://open.spotify.com/track/6kW8TpvXiTp3Hwlx1JEpct) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Before I Speak](https://open.spotify.com/album/3ugySzNaCgNHNsxJXcqBa5) | 2:32 | 2021-03-19 | 2022-01-15 |
 | [On My Way](https://open.spotify.com/track/3RhEOUwqyGU0nKZ0AYgWSe) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [On My Way](https://open.spotify.com/album/1t75KQZ01Bh6YrmBuqrLQs) | 2:43 | 2022-07-15 | 2022-08-20 |
-| [On My Way](https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [On My Way](https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT) | 3:00 | 2023-03-10 |  |
+| [On My Way](https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [On My Way](https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT) | 3:00 | 2023-03-10 | 2023-05-15 |
 | [On the Run](https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/48fMFnwmGaqqt3iWtsoeH0) | 4:52 | 2022-11-18 | 2023-02-02 |
 | [On the Run](https://open.spotify.com/track/3vLUF1d9nsTP1zPGR5fIHN) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/4pifFgf7SHj92WNg0g8HzG) | 4:52 | 2022-11-18 | 2023-02-13 |
 | [On the Run](https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:52 | 2022-11-18 |  |
@@ -531,6 +531,7 @@
 | [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 | 2023-04-07 |  |
 | [Onto Me \(with UMI\)](https://open.spotify.com/track/49YDCahXCIaY44snUKv8JS) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Last Year Was Weird, Vol\. 3](https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH) | 2:47 | 2021-07-09 | 2022-07-29 |
 | [Ooh Ahh!](https://open.spotify.com/track/7BPEX8XrKa6Y9LBWqeETde) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Art Dealer Chic 3](https://open.spotify.com/album/24dQJx8ZE0jgvFPberEWjv) | 2:35 | 2022-04-01 | 2022-04-16 |
+| [Open Up](https://open.spotify.com/track/7CQ65pJJyym5gsmOmv3i0C) | [kwes.](https://open.spotify.com/artist/2vvaBnZLZh65JFyWp67Mhn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Rye Lane \(Suite\)](https://open.spotify.com/album/5yV77i9HJr32Wv6TbIw3ob) | 4:49 | 2023-05-05 |  |
 | [Open Up](https://open.spotify.com/track/1ilf4UU6fYvaEZRqL3FmAq) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Open Up](https://open.spotify.com/album/6iXXRiHazC12Jsk5rB07aj) | 3:38 | 2021-11-19 | 2022-07-28 |
 | [Opiate](https://open.spotify.com/track/1iXho1Srl0akpZSSHfOFvP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Opiate](https://open.spotify.com/album/76XZv1ULphDrrtWPR37XQ7) | 2:31 | 2022-04-01 | 2022-04-14 |
 | [orange](https://open.spotify.com/track/6z9AcMUgtvT5Pyb1XGlWIn) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter](https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij) | 2:31 | 2022-07-29 | 2022-08-20 |

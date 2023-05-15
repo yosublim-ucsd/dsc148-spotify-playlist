@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-558 songs - 21 hr 27 min
+559 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 | 2023-02-20 |  |
 | [cardemom](https://open.spotify.com/track/72zJvhH4TtIiLhqf0MLcH0) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [cardemom](https://open.spotify.com/album/7xdsI2tMfxROavLukCqiRe) | 2:16 | 2023-02-06 |  |
 | [Care For Lads](https://open.spotify.com/track/6RfxKL8zlBXG1Up4wNlLwz) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Care For Lads](https://open.spotify.com/album/5zb3DkfoA7QUTT98faoJ2d) | 2:51 | 2022-07-01 |  |
-| [Catching Goldfish](https://open.spotify.com/track/42iZduyTxl5BWkrVDoo5uF) | [Jay\-Lounge](https://open.spotify.com/artist/47sdYTwmCqrIVcJV11c6Cj) | [Catching Goldfish](https://open.spotify.com/album/41BrTOpv9BZ5V6kQYbj8Cb) | 2:44 | 2022-06-10 |  |
+| [Catching Goldfish](https://open.spotify.com/track/42iZduyTxl5BWkrVDoo5uF) | [Jay\-Lounge](https://open.spotify.com/artist/47sdYTwmCqrIVcJV11c6Cj) | [Catching Goldfish](https://open.spotify.com/album/41BrTOpv9BZ5V6kQYbj8Cb) | 2:44 | 2022-06-10 | 2023-05-15 |
+| [Catching Goldfish](https://open.spotify.com/track/4OOg4gFlPeDDUtVfEGl3WU) | [Jay\-Lounge](https://open.spotify.com/artist/47sdYTwmCqrIVcJV11c6Cj) | [Catching Goldfish](https://open.spotify.com/album/4ZH5LcYTtobdNkYzm8dfWO) | 2:44 | 2023-05-03 |  |
 | [Cave of Mysteries](https://open.spotify.com/track/2qADFyh4fLmPwxwUgA2KO3) | [KioKo](https://open.spotify.com/artist/1QCUosyjrXG8kXxVpnSRgi) | [Puzzling Adventure](https://open.spotify.com/album/6zhsqDjBf6xrdXrEVnypei) | 2:14 | 2022-05-20 | 2022-09-30 |
 | [Celery Man](https://open.spotify.com/track/2JhgBqqhrDvRRctgGGY20z) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Celery man](https://open.spotify.com/album/6aSh8zLkDwCDe29qUmK8pP) | 2:36 | 2023-01-06 |  |
 | [charm me](https://open.spotify.com/track/6wnYzqq1yJIPLjO2JcXxup) | [flax flame](https://open.spotify.com/artist/2UZjBwBEki9gEeOYinkKMs) | [charm me](https://open.spotify.com/album/2Z13blqHM97m9zeBjxjfxz) | 2:31 | 2022-05-20 |  |

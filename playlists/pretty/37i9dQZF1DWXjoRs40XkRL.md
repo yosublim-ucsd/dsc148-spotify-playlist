@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,907 likes - 100 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,938 likes - 100 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 40 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 |
 | 41 | [Khaare Khaare](https://open.spotify.com/track/7iTPlX3QckoVZn5zrLZzdr) | [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Azaad Sangeet: Season 1](https://open.spotify.com/album/2uiGLQEhCPOwGaztiwVxDZ) | 4:05 |
 | 42 | [Laage Re Nain](https://open.spotify.com/track/2CcDWQ91UP02tCJQBuYE8X) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Paras Nath](https://open.spotify.com/artist/01CtjxjRRR2qw4CWGWcLoF) | [Laage Re Nain](https://open.spotify.com/album/4bthXByXAgc3gD1zVRF4ix) | 4:30 |
-| 43 | [Raga Shyam Kalyan \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/3XrktIs9yT571rKQYs7DJg) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6) | 26:00 |
+| 43 | [Raga Shyam Kalyan \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/3PU0yoxLdbZFmvTFnEyFy5) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/00pIdWlZU4yzutxo4CPU10) | 26:00 |
 | 44 | [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 |
 | 45 | [ISOLATED \(Part 2\)](https://open.spotify.com/track/37rIyfXlSeU4pALUVZ0XDO) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Arghadeep Barua](https://open.spotify.com/artist/76zwIgoC4iyxTnLTeGiwUv), [Arnab Bashistha](https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t) | [ISOLATED \(Part 2\)](https://open.spotify.com/album/5gMeHUxcnHEpR87wyWAJBD) | 3:47 |
 | 46 | [Humri Ateriya](https://open.spotify.com/track/4QLgVKSIe3OkXRNu5zJSJu) | [Smita Rao Bellur](https://open.spotify.com/artist/0Dje5wyfIRWD7Ks4k2gH0e) | [Yeh Kaali Kaali Ankhein \(Music From The Netflix Series\)](https://open.spotify.com/album/6Ou3S5OJfPdEskgHpAQzsj) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 99 | [Night](https://open.spotify.com/track/5ucLyBlhHzKn2ZiAQwLOl7) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MIDIval PunditZ](https://open.spotify.com/album/4rSbNYZdPsBDGBK7Qrat7X) | 5:55 |
 | 100 | [Aerii Sakhi Morae \- Qawwaali Remake](https://open.spotify.com/track/6yDxb6X3NJbvDIRRlAypQZ) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [The Story Now](https://open.spotify.com/album/2g3LlbaNuDG4erK9gJSKTm) | 5:03 |
 
-Snapshot ID: `MCw3M2YxYzhlN2QyMDU0MjQxZTg1MzM1ODg3ODI1ZTNkYjMwZTc4NGFi`
+Snapshot ID: `MCxjNjVhNjcwMGY3MjIyYjJkNDZiYTViYTMwNTEwMmFhMDBkNTRkOTQz`

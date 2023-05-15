@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,476 likes - 59 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,520 likes - 59 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 58 | [Latlal](https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U) | [Latlal](https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV) | 5:57 |
 | 59 | [Malawi](https://open.spotify.com/track/0uWQOZM4uKSIdAa0RJMpCT) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi](https://open.spotify.com/album/03Wo3nvGfVpF0rxfRjy1ah) | 4:43 |
 
-Snapshot ID: `MCw5NDc0YTRhMjMzYzRlNTU0ZjliYWJmZmYyOGQ4N2RjYWEyNjQwMDM5`
+Snapshot ID: `MCxlNzZiZWM2YWYxMTZkOGQyNjhlZWQwMWFjMWJiZWZjMjYzMDNhODRl`

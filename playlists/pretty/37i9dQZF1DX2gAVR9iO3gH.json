@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3 featuring Eladio Carrion",
-  "num_followers": 50455,
+  "num_followers": 50494,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWNmMTlmZjcxNDJiMmJmMzBjZjQzMWM4ZGExYjBjN2UyMWQ4MDA5",
+  "snapshot_id": "MCxmMzFjMzNlZTRjYzhmMTk1N2FhMDhkN2ZjNDhjMzM3Y2Q0ODJjODIz",
   "tracks": [
     {
       "added_at": "2023-03-31 07:10:40",
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
     },
     {
-      "added_at": "2023-05-14 01:03:10",
+      "added_at": "2023-05-15 00:38:10",
       "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
-        "name": "Emeyc\u00e9",
-        "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 176222,
-      "name": "Emeyc\u00e9",
-      "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
-    },
-    {
-      "added_at": "2023-03-31 07:10:40",
-      "album": {
         "name": "Marianela (Que Pasa)",
         "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 145766,
       "name": "Marianela (Que Pasa)",
       "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
+    },
+    {
+      "added_at": "2023-03-31 07:10:40",
+      "album": {
+        "name": "Emeyc\u00e9",
+        "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 176222,
+      "name": "Emeyc\u00e9",
+      "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
     },
     {
       "added_at": "2023-03-31 07:10:40",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 191489,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
-    },
-    {
-      "added_at": "2023-03-31 07:10:40",
-      "album": {
         "name": "La Que Quiero Yo",
         "url": "https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB"
       },
@@ -843,22 +823,22 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
-        "name": "Borrachita",
-        "url": "https://open.spotify.com/album/2iaWfSWao2e2dWctyBEMfM"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
       },
       "artists": [
         {
-          "name": "Symon Dice",
-          "url": "https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v"
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
         },
         {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         }
       ],
-      "duration_ms": 165170,
-      "name": "Borrachita",
-      "url": "https://open.spotify.com/track/5DkDBumb9ccm0T3pTDLspa"
+      "duration_ms": 191489,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
     },
     {
       "added_at": "2023-03-31 07:10:40",
@@ -875,6 +855,26 @@
       "duration_ms": 211704,
       "name": "Papelito",
       "url": "https://open.spotify.com/track/5A61D7KaPQZYg29l4YaBLP"
+    },
+    {
+      "added_at": "2023-03-31 07:10:40",
+      "album": {
+        "name": "Borrachita",
+        "url": "https://open.spotify.com/album/2iaWfSWao2e2dWctyBEMfM"
+      },
+      "artists": [
+        {
+          "name": "Symon Dice",
+          "url": "https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v"
+        },
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 165170,
+      "name": "Borrachita",
+      "url": "https://open.spotify.com/track/5DkDBumb9ccm0T3pTDLspa"
     },
     {
       "added_at": "2023-03-31 07:10:40",

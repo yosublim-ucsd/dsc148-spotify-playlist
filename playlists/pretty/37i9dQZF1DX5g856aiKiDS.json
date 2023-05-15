@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 470271,
+  "num_followers": 470082,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWZjMzFlODVmZmIyZGU3NDhlMjAyYzI0YzE5Y2Q2YmY2YTIxNmFh",
+  "snapshot_id": "MCwwNDY5YWQyOGM4YjgzZjM4NzUyODhlYjY4OTIwOWZiNjQyZDc2Y2Jh",
   "tracks": [
     {
       "added_at": "2023-05-05 08:20:43",
@@ -251,26 +251,6 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
-        "name": "Fxxxnds",
-        "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
-      "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
-    },
-    {
-      "added_at": "2023-05-05 08:20:43",
-      "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 189066,
       "name": "I'm Fine",
       "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+    },
+    {
+      "added_at": "2023-05-05 08:20:43",
+      "album": {
+        "name": "Beyond Love",
+        "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Beyond Love (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
     },
     {
       "added_at": "2023-05-05 08:20:43",
@@ -371,8 +371,8 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
-        "name": "Beyond Love",
-        "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
+        "name": "Fxxxnds",
+        "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
       },
       "artists": [
         {
@@ -380,13 +380,33 @@
           "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
         }
       ],
-      "duration_ms": 188706,
-      "name": "Beyond Love (Feat. 10CM)",
-      "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
+      "duration_ms": 209400,
+      "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
+      "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
+    },
+    {
+      "added_at": "2023-05-05 08:20:43",
+      "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
     },
     {
       "added_at": "2023-05-05 08:20:43",
@@ -411,26 +431,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
-    },
-    {
-      "added_at": "2023-05-05 08:20:43",
-      "album": {
-        "name": "Don't Forget",
-        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "Don\u2019t Forget",
-      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
     },
     {
       "added_at": "2023-05-05 08:20:43",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
+        "name": "Absence 'Side A'",
+        "url": "https://open.spotify.com/album/0fYkcK5aT1o6mzFsKWxZxI"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        }
+      ],
+      "duration_ms": 215795,
+      "name": "Love like that",
+      "url": "https://open.spotify.com/track/1nY4Op7iJyyRAxRdzgpy4G"
+    },
+    {
+      "added_at": "2023-05-05 08:20:43",
+      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
-    },
-    {
-      "added_at": "2023-05-05 08:20:43",
-      "album": {
-        "name": "Absence 'Side A'",
-        "url": "https://open.spotify.com/album/0fYkcK5aT1o6mzFsKWxZxI"
-      },
-      "artists": [
-        {
-          "name": "LambC",
-          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
-        }
-      ],
-      "duration_ms": 215795,
-      "name": "Love like that",
-      "url": "https://open.spotify.com/track/1nY4Op7iJyyRAxRdzgpy4G"
     },
     {
       "added_at": "2023-05-05 08:20:43",
@@ -879,22 +879,18 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
-        "name": "World Peace Project Vol.2",
-        "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
+        "name": "Take You Down",
+        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        },
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
         }
       ],
-      "duration_ms": 220040,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
+      "duration_ms": 172013,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
     },
     {
       "added_at": "2023-05-05 08:20:43",
@@ -915,22 +911,22 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
-        "name": "THINKING Part.2",
-        "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
+        "name": "World Peace Project Vol.2",
+        "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         },
         {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
         }
       ],
-      "duration_ms": 218813,
-      "name": "Being left (Feat. Dvwn)",
-      "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
+      "duration_ms": 220040,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
     },
     {
       "added_at": "2023-05-05 08:20:43",

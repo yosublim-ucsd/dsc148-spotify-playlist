@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 209605,
       "name": "4 Nothin'",
       "url": "https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 277693,
       "name": "Looks Are Deceiving",
       "url": "https://open.spotify.com/track/3BkCURiZj3EflNF0zqzURs"
@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195853,
+      "name": "Since I Seen't You",
+      "url": "https://open.spotify.com/track/4Bs9NcSkWJ1uuV7lHnTXxd"
+    },
+    {
+      "album": {
         "name": "1 Up Top Ahk",
         "url": "https://open.spotify.com/album/3iDAjLnQsJwoVU1v09ia4A"
       },
@@ -948,7 +966,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 223811,
       "name": "Still Think of You",
       "url": "https://open.spotify.com/track/0VtFjHIopAFm0h9NyD7P7f"
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 400840,
       "name": "Time's A Wastin",
       "url": "https://open.spotify.com/track/6q8fYYujrQxXckq1tTtqqi"
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 263923,
       "name": "Timmy's Prayer",
       "url": "https://open.spotify.com/track/16bQdxSVtmvL2hc4h3OJE3"

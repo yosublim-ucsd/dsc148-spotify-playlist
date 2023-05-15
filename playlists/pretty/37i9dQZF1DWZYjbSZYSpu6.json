@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: SOLE, Sung Si Kyung)",
-  "num_followers": 387254,
+  "num_followers": 387321,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmFlZjQxMzY3MDNjZWYwYmU5MDQxYWZkMGFjZjliOTA4OGMxZDA1",
+  "snapshot_id": "MCwwODZiODM4ZTczN2JiNzI5MmY0NjY5ODE0ZjA2MzBhYTJjZWRhMGZh",
   "tracks": [
     {
       "added_at": "2023-05-02 06:11:26",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-05-02 06:11:26",
       "album": {
-        "name": "Querencia",
-        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 199524,
-      "name": "PLAY (feat. Changmo)",
-      "url": "https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3"
-    },
-    {
-      "added_at": "2023-05-02 06:11:26",
-      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 219106,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+    },
+    {
+      "added_at": "2023-05-02 06:11:26",
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 199524,
+      "name": "PLAY (feat. Changmo)",
+      "url": "https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3"
     },
     {
       "added_at": "2023-05-02 06:11:26",
@@ -683,26 +683,6 @@
     {
       "added_at": "2023-05-02 06:11:26",
       "album": {
-        "name": "The Moon (Feat. TAEIL of NCT)",
-        "url": "https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G"
-      },
-      "artists": [
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        },
-        {
-          "name": "TAEIL",
-          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
-        }
-      ],
-      "duration_ms": 162365,
-      "name": "The Moon (Feat. TAEIL of NCT)",
-      "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
-    },
-    {
-      "added_at": "2023-05-02 06:11:26",
-      "album": {
         "name": "homemade 1",
         "url": "https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 199266,
       "name": "Mayday (feat. \uc870\uc774)",
       "url": "https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke"
+    },
+    {
+      "added_at": "2023-05-02 06:11:26",
+      "album": {
+        "name": "The Moon (Feat. TAEIL of NCT)",
+        "url": "https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "duration_ms": 162365,
+      "name": "The Moon (Feat. TAEIL of NCT)",
+      "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
     },
     {
       "added_at": "2023-05-02 06:11:26",

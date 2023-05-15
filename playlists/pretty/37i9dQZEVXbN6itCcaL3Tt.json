@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 255963,
+  "num_followers": 256000,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM3MzQwNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM3NDI3MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4zX2oy6k4NLIThxb2Qp6LZ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "Marcepan",
         "url": "https://open.spotify.com/album/2dyyUd1pNWRdBinUZqjQW5"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7nWQQ9OhSt0w5umRS94PJV"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "Taxi",
         "url": "https://open.spotify.com/album/4jhbMRksvKzOhCqoHbLWQ4"
@@ -89,7 +89,23 @@
       "url": "https://open.spotify.com/track/6tARtPlcilM1u4tbAWgato"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "UZUMAKI FORMA OSTATECZNA",
         "url": "https://open.spotify.com/album/0uNsJE7RW8JwGL1uC7cohf"
@@ -109,7 +125,23 @@
       "url": "https://open.spotify.com/track/4ROC81h8HweWDJcSw0JtF9"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "mori",
+      "url": "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "COLOSSEUM",
         "url": "https://open.spotify.com/album/0wq5kKpVAGKAgvERJbGlXG"
@@ -145,79 +177,39 @@
       "url": "https://open.spotify.com/track/31xzEogE9mXNUGF92kJqv1"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "Lata Dwudzieste",
-        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
       "artists": [
         {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 194826,
-      "name": "mori",
-      "url": "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+        "name": "Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
         }
       ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+      "duration_ms": 175161,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "SPRZEDA\u0141EM SI\u0118",
-        "url": "https://open.spotify.com/album/4Xz21daU8aK5q47AuDN5Rd"
-      },
-      "artists": [
-        {
-          "name": "Oki",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "SPRZEDA\u0141EM SI\u0118",
-      "url": "https://open.spotify.com/track/1ZZ7uFD6pS1Rt3ELtMqsSl"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "NEWCOMER",
-        "url": "https://open.spotify.com/album/47fjjJXNkg00CK2Se5ARPH"
-      },
-      "artists": [
-        {
-          "name": "Bia\u0142as",
-          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
-        },
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 175518,
-      "name": "Uzi",
-      "url": "https://open.spotify.com/track/6eEOdkX7WzYUnK7pHj5Jdh"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "Afryka",
         "url": "https://open.spotify.com/album/2xMDyrK06kbzKI15b4aFLz"
@@ -245,23 +237,71 @@
       "url": "https://open.spotify.com/track/62CjIeDBUEjvWp4PUuUCAR"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
         }
       ],
-      "duration_ms": 200600,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "Afryka",
+        "url": "https://open.spotify.com/album/2xMDyrK06kbzKI15b4aFLz"
+      },
+      "artists": [
+        {
+          "name": "Przemek.pro",
+          "url": "https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE"
+        },
+        {
+          "name": "Qry",
+          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+        },
+        {
+          "name": "Bartek Kubicki",
+          "url": "https://open.spotify.com/artist/02Yk29Tllx7M1saf5PiAPo"
+        },
+        {
+          "name": "Trzech Kr\u00f3li",
+          "url": "https://open.spotify.com/artist/12RbToPJopBHcXGKez6EDQ"
+        }
+      ],
+      "duration_ms": 179555,
+      "name": "Fatamorgana",
+      "url": "https://open.spotify.com/track/35XEhELJFZ1wEN1a444t9t"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "RODZINNY BIZNES",
         "url": "https://open.spotify.com/album/1GabBOxzyUPjkELZE0b3HS"
@@ -293,71 +333,47 @@
       "url": "https://open.spotify.com/track/3Nqxx5fdl3FQlrk3zarRmA"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+        "name": "SPRZEDA\u0141EM SI\u0118",
+        "url": "https://open.spotify.com/album/4Xz21daU8aK5q47AuDN5Rd"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
         }
       ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
+      "duration_ms": 207720,
+      "name": "SPRZEDA\u0141EM SI\u0118",
+      "url": "https://open.spotify.com/track/1ZZ7uFD6pS1Rt3ELtMqsSl"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "Afryka",
-        "url": "https://open.spotify.com/album/2xMDyrK06kbzKI15b4aFLz"
+        "name": "NEWCOMER",
+        "url": "https://open.spotify.com/album/47fjjJXNkg00CK2Se5ARPH"
       },
       "artists": [
         {
-          "name": "Przemek.pro",
-          "url": "https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE"
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
         },
         {
-          "name": "Qry",
-          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
         },
         {
-          "name": "Bartek Kubicki",
-          "url": "https://open.spotify.com/artist/02Yk29Tllx7M1saf5PiAPo"
-        },
-        {
-          "name": "Trzech Kr\u00f3li",
-          "url": "https://open.spotify.com/artist/12RbToPJopBHcXGKez6EDQ"
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
         }
       ],
-      "duration_ms": 179555,
-      "name": "Fatamorgana",
-      "url": "https://open.spotify.com/track/35XEhELJFZ1wEN1a444t9t"
+      "duration_ms": 175518,
+      "name": "Uzi",
+      "url": "https://open.spotify.com/track/6eEOdkX7WzYUnK7pHj5Jdh"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "spok\u00f3j.",
         "url": "https://open.spotify.com/album/54EPuj16oTPUXzE0YKBfgg"
@@ -377,23 +393,23 @@
       "url": "https://open.spotify.com/track/0RM8O4t1Bhm5kqp0v6bdlp"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
+        "name": "Prywatny bal",
+        "url": "https://open.spotify.com/album/2ADRJFVJslXpQQ6tjbq3UJ"
       },
       "artists": [
         {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+          "name": "Cyrko",
+          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
         }
       ],
-      "duration_ms": 175161,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
+      "duration_ms": 156800,
+      "name": "Prywatny bal",
+      "url": "https://open.spotify.com/track/2VYT8yaxvwXyRvAWZqM7Ws"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "club2020",
         "url": "https://open.spotify.com/album/7C8H2mwiwBRKFpi5KeGKfT"
@@ -433,31 +449,7 @@
       "url": "https://open.spotify.com/track/09bXpqLbPGZum6I4lDcnMX"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "STYXXX",
-        "url": "https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7"
-      },
-      "artists": [
-        {
-          "name": "ReTo",
-          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
-        },
-        {
-          "name": "Wroobel",
-          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
-        },
-        {
-          "name": "S\u0142o\u0144",
-          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Kr\u00f3l jest nagi",
-      "url": "https://open.spotify.com/track/3ebV1wNl0sJZUMkS7T7K2g"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "Pretty Boy",
         "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
@@ -473,63 +465,7 @@
       "url": "https://open.spotify.com/track/5YvL3ytkusKcM5ozxD9fKN"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "Prywatny bal",
-        "url": "https://open.spotify.com/album/2ADRJFVJslXpQQ6tjbq3UJ"
-      },
-      "artists": [
-        {
-          "name": "Cyrko",
-          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Prywatny bal",
-      "url": "https://open.spotify.com/track/2VYT8yaxvwXyRvAWZqM7Ws"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "spok\u00f3j.",
-        "url": "https://open.spotify.com/album/54EPuj16oTPUXzE0YKBfgg"
-      },
-      "artists": [
-        {
-          "name": "Kuban",
-          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
-        },
-        {
-          "name": "Quebonafide",
-          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
-        },
-        {
-          "name": "Favst",
-          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
-        }
-      ],
-      "duration_ms": 166579,
-      "name": "same zmartwienia",
-      "url": "https://open.spotify.com/track/2LMXAlcaN53mR1eHiwnJbb"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "FIFI HOLLYWOOD",
-        "url": "https://open.spotify.com/album/6WhoqWY5ivv11ihH43J9l6"
-      },
-      "artists": [
-        {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        }
-      ],
-      "duration_ms": 183884,
-      "name": "FIFI HOLLYWOOD",
-      "url": "https://open.spotify.com/track/3VjEZW12YW8yIxjKIzUZfi"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "Herbata Z Imbirem",
         "url": "https://open.spotify.com/album/0CzfjraDKlqESf0bIRtKj2"
@@ -553,7 +489,7 @@
       "url": "https://open.spotify.com/track/3FZPXHN1fgFeZEiXlMtosR"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "ztb",
         "url": "https://open.spotify.com/album/6ifoBxKuNgaSlyMHI1cWMS"
@@ -573,7 +509,47 @@
       "url": "https://open.spotify.com/track/7vXWyqGHBqZi8oec17wYIl"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "sanah \u015bpiewa Poezyje",
+        "url": "https://open.spotify.com/album/4SZGigZqeHALaTyIrYisrv"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Nic dwa razy (W. Szymborska)",
+      "url": "https://open.spotify.com/track/384lHduuDsrR4HPUwR3fG4"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "STYXXX",
+        "url": "https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7"
+      },
+      "artists": [
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        },
+        {
+          "name": "S\u0142o\u0144",
+          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Kr\u00f3l jest nagi",
+      "url": "https://open.spotify.com/track/3ebV1wNl0sJZUMkS7T7K2g"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
@@ -593,39 +569,7 @@
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "sanah \u015bpiewa Poezyje",
-        "url": "https://open.spotify.com/album/4SZGigZqeHALaTyIrYisrv"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Nic dwa razy (W. Szymborska)",
-      "url": "https://open.spotify.com/track/384lHduuDsrR4HPUwR3fG4"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/4WQA0C2nwJvBMTdsjf5JOm"
@@ -641,27 +585,79 @@
       "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "PLE\u015a\u0143",
-        "url": "https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk"
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
       },
       "artists": [
         {
-          "name": "Guzior",
-          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "To co masz Ty!",
+      "url": "https://open.spotify.com/track/5GdFPcbGDQqtbVO2jl6Ez5"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "spok\u00f3j.",
+        "url": "https://open.spotify.com/album/54EPuj16oTPUXzE0YKBfgg"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
         },
         {
           "name": "Favst",
           "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
         }
       ],
-      "duration_ms": 176000,
-      "name": "BLUEBERRY",
-      "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
+      "duration_ms": 166579,
+      "name": "same zmartwienia",
+      "url": "https://open.spotify.com/track/2LMXAlcaN53mR1eHiwnJbb"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "FIFI HOLLYWOOD",
+        "url": "https://open.spotify.com/album/6WhoqWY5ivv11ihH43J9l6"
+      },
+      "artists": [
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        }
+      ],
+      "duration_ms": 183884,
+      "name": "FIFI HOLLYWOOD",
+      "url": "https://open.spotify.com/track/3VjEZW12YW8yIxjKIzUZfi"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "W samo po\u0142udnie",
         "url": "https://open.spotify.com/album/4FDs0EKmcJlEAVyGcx2bFg"
@@ -681,7 +677,7 @@
       "url": "https://open.spotify.com/track/1UDGkY3eLCkufBwagAk2NT"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "DOPEHOUSE MIXTAPE",
         "url": "https://open.spotify.com/album/6ELqUBxrTSFFjaTratUXMI"
@@ -701,7 +697,103 @@
       "url": "https://open.spotify.com/track/3f9Ugg030LDe0p6ospTORC"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "PLE\u015a\u0143",
+        "url": "https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "BLUEBERRY",
+      "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "Gladiator",
+        "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
+      },
+      "artists": [
+        {
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
+        }
+      ],
+      "duration_ms": 211643,
+      "name": "Gladiator",
+      "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "Ta Noc",
+        "url": "https://open.spotify.com/album/2TIcs8XvTusGW2xr1YSrx2"
+      },
+      "artists": [
+        {
+          "name": "Kuba\u0144czyk",
+          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Ta Noc",
+      "url": "https://open.spotify.com/track/7ADOC6GgrL0WlJEQ0ERKru"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "Hotline",
         "url": "https://open.spotify.com/album/1r3ovt9tODhKNzKcmNipyX"
@@ -721,51 +813,7 @@
       "url": "https://open.spotify.com/track/4II2mvGJcwuiXJe4CvLUIe"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "Lata Dwudzieste",
-        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 215453,
-      "name": "To co masz Ty!",
-      "url": "https://open.spotify.com/track/5GdFPcbGDQqtbVO2jl6Ez5"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "Avatar",
-        "url": "https://open.spotify.com/album/1xLhoOzv0VOmTAQVxTMZAA"
-      },
-      "artists": [
-        {
-          "name": "Kizo",
-          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
-        },
-        {
-          "name": "Janusz Walczuk",
-          "url": "https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3"
-        },
-        {
-          "name": "clearmind",
-          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
-        },
-        {
-          "name": "Worek",
-          "url": "https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Avatar",
-      "url": "https://open.spotify.com/track/17zc6mHfcteESkUnIusMd3"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "club2020",
         "url": "https://open.spotify.com/album/7C8H2mwiwBRKFpi5KeGKfT"
@@ -801,127 +849,55 @@
       "url": "https://open.spotify.com/track/6Zqigzh6qzzkJyEuYAR0oh"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+        "name": "Avatar",
+        "url": "https://open.spotify.com/album/1xLhoOzv0VOmTAQVxTMZAA"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
         },
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Janusz Walczuk",
+          "url": "https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        },
+        {
+          "name": "Worek",
+          "url": "https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb"
         }
       ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
+      "duration_ms": 169714,
+      "name": "Avatar",
+      "url": "https://open.spotify.com/track/17zc6mHfcteESkUnIusMd3"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "Ta Noc",
-        "url": "https://open.spotify.com/album/2TIcs8XvTusGW2xr1YSrx2"
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
       "artists": [
         {
-          "name": "Kuba\u0144czyk",
-          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 181200,
-      "name": "Ta Noc",
-      "url": "https://open.spotify.com/track/7ADOC6GgrL0WlJEQ0ERKru"
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "Gladiator",
-        "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
-      },
-      "artists": [
-        {
-          "name": "Jann",
-          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
-        }
-      ],
-      "duration_ms": 211643,
-      "name": "Gladiator",
-      "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "NO FACE",
-        "url": "https://open.spotify.com/album/2WOaVxc9yAg8VRilNaRCuA"
-      },
-      "artists": [
-        {
-          "name": "Miszel",
-          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
-        },
-        {
-          "name": "Kabe",
-          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
-        },
-        {
-          "name": "Premixm",
-          "url": "https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "dres",
-      "url": "https://open.spotify.com/track/6t2QcPF3STBCrqjOW7VECE"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "Pracownia",
-        "url": "https://open.spotify.com/album/3yhpzS3EaSgNkPoTuvb8CR"
-      },
-      "artists": [
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
-        },
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 260239,
-      "name": "Ulek i Dawcia",
-      "url": "https://open.spotify.com/track/5T8U0S9VDlzyVOKb4pRRPP"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -945,27 +921,47 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+        "name": "Pracownia",
+        "url": "https://open.spotify.com/album/3yhpzS3EaSgNkPoTuvb8CR"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
         }
       ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+      "duration_ms": 260239,
+      "name": "Ulek i Dawcia",
+      "url": "https://open.spotify.com/track/5T8U0S9VDlzyVOKb4pRRPP"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
+      "album": {
+        "name": "Lottery (feat. LU KALA)",
+        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 186761,
+      "name": "Lottery (feat. LU KALA)",
+      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
+    },
+    {
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "Kr\u00f3l Albanii",
         "url": "https://open.spotify.com/album/2FWl9XKJCblwqgxFedAGyV"
@@ -985,47 +981,51 @@
       "url": "https://open.spotify.com/track/1mgtLt6PfNvYCmYQAiOzI5"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "STYXXX",
-        "url": "https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7"
+        "name": "UCZTA",
+        "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
       },
       "artists": [
         {
-          "name": "ReTo",
-          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         },
         {
-          "name": "Kizo",
-          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
-        },
-        {
-          "name": "Wroobel",
-          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
         }
       ],
-      "duration_ms": 206693,
-      "name": "Felga",
-      "url": "https://open.spotify.com/track/5WejXxDkYAb86sLa5QOg8m"
+      "duration_ms": 225767,
+      "name": "ostatnia nadzieja",
+      "url": "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "Moje Najlepsze Lata",
-        "url": "https://open.spotify.com/album/6FJ15JWy6crs3ZUg7S8W3E"
+        "name": "NO FACE",
+        "url": "https://open.spotify.com/album/2WOaVxc9yAg8VRilNaRCuA"
       },
       "artists": [
         {
-          "name": "Kacperczyk",
-          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        },
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "Premixm",
+          "url": "https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Moje Najlepsze Lata",
-      "url": "https://open.spotify.com/track/1A3oSCIOhJ2KlMTzC2lYcJ"
+      "duration_ms": 175000,
+      "name": "dres",
+      "url": "https://open.spotify.com/track/6t2QcPF3STBCrqjOW7VECE"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
         "name": "Dach",
         "url": "https://open.spotify.com/album/2KVrZA9PN9WsKDhVIjxMM3"
@@ -1045,24 +1045,28 @@
       "url": "https://open.spotify.com/track/1ryBtjEDxoMI1YsHzJ3zRw"
     },
     {
-      "added_at": "2023-05-13 10:15:15",
+      "added_at": "2023-05-14 11:02:39",
       "album": {
-        "name": "Lottery (feat. LU KALA)",
-        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 186761,
-      "name": "Lottery (feat. LU KALA)",
-      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     }
   ],
   "unique_name": "Top 50 - Poland",

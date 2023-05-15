@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-148 songs - 11 hr 36 min
+149 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Creep](https://open.spotify.com/track/32SkNdTcuxvUGjtv0ObOgu) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 3:31 | 2022-09-13 |  |
 | [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 | 2022-09-13 |  |
 | [Diamonds And Pearls](https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 5:45 | 2022-09-13 |  |
+| [Don't Know Why](https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Don't Know Why](https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8) | 2:59 | 2023-05-11 |  |
 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 | 2022-09-13 |  |
 | [Dreams](https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL), [Chris Hyson](https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd) | [Bloom](https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4) | 4:10 | 2022-09-13 |  |
 | [Easy On Me](https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf) | [Changes](https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R), [Elin Bemark](https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI) | [Easy On Me](https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr) | 4:32 | 2022-09-13 |  |
@@ -128,7 +129,7 @@
 | [She's Leaving Home \- Live](https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8) | [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD) | [The Gallery Concerts II \(Jazz Poetry\)](https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl) | 5:03 | 2023-02-07 | 2023-03-30 |
 | [Simple Twist Of Fate](https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 3:49 | 2022-09-27 | 2022-10-08 |
 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 | 2023-02-02 |  |
-| [Sorry Seems to Be the Hardest Word](https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp) | [Claudio Cusmano](https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L), [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Remember to Remember](https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR) | 5:05 | 2022-12-01 |  |
+| [Sorry Seems to Be the Hardest Word](https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp) | [Claudio Cusmano](https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L), [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Remember to Remember](https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR) | 5:05 | 2022-12-01 | 2023-05-15 |
 | [Steer Your Way \(feat\. Norah Jones\)](https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Steer Your Way](https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm) | 4:48 | 2022-09-13 |  |
 | [Streets Of Philadelphia](https://open.spotify.com/track/1TcoNPMDaoEv3rCebQnl7L) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [If You Know Love](https://open.spotify.com/album/6zkbgihaa15nXO07A6VTs4) | 3:15 | 2022-09-13 |  |
 | [Strong](https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF) | [Marco Locurcio](https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4) | [Strong](https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s) | 4:23 | 2022-09-13 |  |

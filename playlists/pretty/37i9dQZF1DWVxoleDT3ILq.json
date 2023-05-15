@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Hausi Kuta.",
-  "num_followers": 127894,
+  "num_followers": 127889,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTVjMjA3NDM4MTI2N2MzZWE3ZmUzNTBkZTU3Mjg3OWZkMTUxYWNk",
+  "snapshot_id": "MCwxZDM0YjlmNmUyZTJhZTE5ZjIyY2FjMzQyMTM4YjAxNzAxZjgxMzFk",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -247,18 +247,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Palabritas y Palabrotas",
-        "url": "https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM"
+        "name": "Instintos",
+        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
       },
       "artists": [
         {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
         }
       ],
-      "duration_ms": 186760,
-      "name": "Para la Patada y el Combo",
-      "url": "https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U"
+      "duration_ms": 208723,
+      "name": "Instintos",
+      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -311,22 +315,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Instintos",
-        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
+        "name": "Palabritas y Palabrotas",
+        "url": "https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM"
       },
       "artists": [
         {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
         }
       ],
-      "duration_ms": 208723,
-      "name": "Instintos",
-      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+      "duration_ms": 186760,
+      "name": "Para la Patada y el Combo",
+      "url": "https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "AMOR MINIMAL",
-        "url": "https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 207436,
-      "name": "AMOR MINIMAL",
-      "url": "https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "entre las sombras,",
         "url": "https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 270279,
       "name": "entre las sombras,",
       "url": "https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "AMOR MINIMAL",
+        "url": "https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 207436,
+      "name": "AMOR MINIMAL",
+      "url": "https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Duelo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P"
-      },
-      "artists": [
-        {
-          "name": "Landabur",
-          "url": "https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF"
-        },
-        {
-          "name": "Leiden",
-          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
-        }
-      ],
-      "duration_ms": 206700,
-      "name": "Sincron\u00eda Universal - Edici\u00f3n Deluxe",
-      "url": "https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Tormenta",
         "url": "https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 207014,
       "name": "REMEMBER",
       "url": "https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Duelo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P"
+      },
+      "artists": [
+        {
+          "name": "Landabur",
+          "url": "https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF"
+        },
+        {
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
+        }
+      ],
+      "duration_ms": 206700,
+      "name": "Sincron\u00eda Universal - Edici\u00f3n Deluxe",
+      "url": "https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "SIN TI",
-        "url": "https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX"
-      },
-      "artists": [
-        {
-          "name": "Benji B",
-          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
-        }
-      ],
-      "duration_ms": 174654,
-      "name": "SIN TI",
-      "url": "https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 251261,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX"
+      },
+      "artists": [
+        {
+          "name": "Benji B",
+          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
+        }
+      ],
+      "duration_ms": 174654,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Independencia",
-        "url": "https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p"
-      },
-      "artists": [
-        {
-          "name": "Los Valentina",
-          "url": "https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY"
-        }
-      ],
-      "duration_ms": 260790,
-      "name": "El drag\u00f3n asciende",
-      "url": "https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Viejita M\u00cda",
         "url": "https://open.spotify.com/album/4sNqiULYzQn616xc9J08Jt"
       },
@@ -1543,22 +1527,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "TAMAGOTCHI",
-        "url": "https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn"
+        "name": "Independencia",
+        "url": "https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p"
       },
       "artists": [
         {
-          "name": "Heartgaze",
-          "url": "https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH"
-        },
-        {
-          "name": "Mart\u00edn Berr\u00edos",
-          "url": "https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2"
+          "name": "Los Valentina",
+          "url": "https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY"
         }
       ],
-      "duration_ms": 199453,
-      "name": "TAMAGOTCHI",
-      "url": "https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p"
+      "duration_ms": 260790,
+      "name": "El drag\u00f3n asciende",
+      "url": "https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1579,6 +1559,26 @@
       "duration_ms": 124009,
       "name": "Rally",
       "url": "https://open.spotify.com/track/7qq884i3tcpxJ1UIMPuH8g"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "TAMAGOTCHI",
+        "url": "https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn"
+      },
+      "artists": [
+        {
+          "name": "Heartgaze",
+          "url": "https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH"
+        },
+        {
+          "name": "Mart\u00edn Berr\u00edos",
+          "url": "https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "TAMAGOTCHI",
+      "url": "https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1635,18 +1635,38 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Corazonada",
-        "url": "https://open.spotify.com/album/7ucBWLTjxQcWmZ6nTxHDPI"
+        "name": "Sal (Reversi\u00f3n)",
+        "url": "https://open.spotify.com/album/5ROTJPrKaWvaKNkIRn1ZgL"
       },
       "artists": [
         {
-          "name": "ZEBRA 93",
-          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
+          "name": "Pancho Gana",
+          "url": "https://open.spotify.com/artist/4I9qrx9Lb6RDDKkMgXd1yM"
+        },
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
         }
       ],
-      "duration_ms": 204617,
-      "name": "Corazonada",
-      "url": "https://open.spotify.com/track/36h0uW75FKh8LraW4r9E2X"
+      "duration_ms": 152517,
+      "name": "Sal - Reversi\u00f3n",
+      "url": "https://open.spotify.com/track/3ftpY64u6Vgv6KzerJJs8U"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/5qJlhQrdU7GFAvn8w48ukg"
+      },
+      "artists": [
+        {
+          "name": "Charly Benavente",
+          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
+        }
+      ],
+      "duration_ms": 196571,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7nJzvoXmzFfKH0XupDiBzV"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1671,26 +1691,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Sal (Reversi\u00f3n)",
-        "url": "https://open.spotify.com/album/5ROTJPrKaWvaKNkIRn1ZgL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Gana",
-          "url": "https://open.spotify.com/artist/4I9qrx9Lb6RDDKkMgXd1yM"
-        },
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        }
-      ],
-      "duration_ms": 152517,
-      "name": "Sal - Reversi\u00f3n",
-      "url": "https://open.spotify.com/track/3ftpY64u6Vgv6KzerJJs8U"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Cinta Blanca",
         "url": "https://open.spotify.com/album/4pqwbzTTW3BaZ8mJCy2mNq"
       },
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/5qJlhQrdU7GFAvn8w48ukg"
+        "name": "Corazonada",
+        "url": "https://open.spotify.com/album/7ucBWLTjxQcWmZ6nTxHDPI"
       },
       "artists": [
         {
-          "name": "Charly Benavente",
-          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
         }
       ],
-      "duration_ms": 196571,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7nJzvoXmzFfKH0XupDiBzV"
+      "duration_ms": 204617,
+      "name": "Corazonada",
+      "url": "https://open.spotify.com/track/36h0uW75FKh8LraW4r9E2X"
     },
     {
       "added_at": "2023-05-12 03:00:00",

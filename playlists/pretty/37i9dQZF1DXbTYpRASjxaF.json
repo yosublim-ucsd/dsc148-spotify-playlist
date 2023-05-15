@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Ryu, the Runner, Mateca",
-  "num_followers": 107423,
+  "num_followers": 107577,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDUwNDU3NTg1YzQxNmFhNDc2OTgzMzJlNGRkMjViOTk0ODVkOWYx",
+  "snapshot_id": "MCw2NTQzYTU5ZmU2OWI3ZWFmNWQ1MzUxYjFiODFkNzMxYzY4YTZlNTY0",
   "tracks": [
     {
       "added_at": "2023-05-12 03:01:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
+        "name": "Avisa que \u00e9 o Funk",
+        "url": "https://open.spotify.com/album/2jsCve1xB2Gi5fag004Wsh"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Ma\u00e7\u00e3 Verde",
+      "url": "https://open.spotify.com/track/7lJoRyuNJtuiqTcKtuMuIR"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 177000,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
-        "name": "Avisa que \u00e9 o Funk",
-        "url": "https://open.spotify.com/album/2jsCve1xB2Gi5fag004Wsh"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Ma\u00e7\u00e3 Verde",
-      "url": "https://open.spotify.com/track/7lJoRyuNJtuiqTcKtuMuIR"
     },
     {
       "added_at": "2023-05-12 03:01:00",

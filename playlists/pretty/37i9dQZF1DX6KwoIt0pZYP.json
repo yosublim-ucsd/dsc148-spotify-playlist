@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 161043,
+  "num_followers": 161239,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWRlN2JhNjRiMjVlYmUyZmNhZDUxMzFiM2I3YTM5ZTA0ZGRiYzJl",
+  "snapshot_id": "MCxiNTQ3NDI1YTc2OTk5ZmNiOTljNTJiNzhmNDRlN2FiZGMwNGI0NzU4",
   "tracks": [
     {
       "added_at": "2023-05-11 16:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
+    },
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
         "name": "Steal The Show",
         "url": "https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 180640,
       "name": "Steal The Show",
       "url": "https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u"
-    },
-    {
-      "added_at": "2023-05-11 16:00:00",
-      "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
     },
     {
       "added_at": "2023-05-11 16:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
-        "name": "Dum Dum",
-        "url": "https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 195163,
-      "name": "Dum Dum - English Version",
-      "url": "https://open.spotify.com/track/6McBFhOohQvx0zWkoISnap"
-    },
-    {
-      "added_at": "2023-05-11 16:00:00",
-      "album": {
         "name": "Xeno",
         "url": "https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 190946,
       "name": "Thinking Bout You",
       "url": "https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp"
+    },
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
+        "name": "Dum Dum",
+        "url": "https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 195163,
+      "name": "Dum Dum - English Version",
+      "url": "https://open.spotify.com/track/6McBFhOohQvx0zWkoISnap"
     },
     {
       "added_at": "2023-05-11 16:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
-        "name": "Fade (English Version)",
-        "url": "https://open.spotify.com/album/0KTF15ps0q5IfKX8Ec7mZR"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 262386,
-      "name": "Fade - English Version",
-      "url": "https://open.spotify.com/track/65fYGpikgGBtIMtuGqj9SX"
-    },
-    {
-      "added_at": "2023-05-11 16:00:00",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 198404,
       "name": "vulnerable",
       "url": "https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD"
+    },
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
+        "name": "Fade (English Version)",
+        "url": "https://open.spotify.com/album/0KTF15ps0q5IfKX8Ec7mZR"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 262386,
+      "name": "Fade - English Version",
+      "url": "https://open.spotify.com/track/65fYGpikgGBtIMtuGqj9SX"
     },
     {
       "added_at": "2023-05-11 16:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
+        "name": "Whiskey Bottle",
+        "url": "https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Whiskey Bottle",
+      "url": "https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv"
+    },
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
         "name": "Real Love Still Exists",
         "url": "https://open.spotify.com/album/7pbhkjfyhay9oP0RxqCZKt"
       },
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
-        "name": "Whiskey Bottle",
-        "url": "https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8"
+        "name": "24",
+        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
       },
       "artists": [
         {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 150720,
-      "name": "Whiskey Bottle",
-      "url": "https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv"
+      "duration_ms": 133897,
+      "name": "24",
+      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
     },
     {
       "added_at": "2023-05-11 16:00:00",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 133897,
-      "name": "24",
-      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
-    },
-    {
-      "added_at": "2023-05-11 16:00:00",
-      "album": {
         "name": "Baby Can You Stay",
         "url": "https://open.spotify.com/album/12iY7dts3ziwGFq7na5C2L"
       },
@@ -1587,6 +1587,26 @@
       "duration_ms": 178745,
       "name": "Baby Can You Stay",
       "url": "https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc"
+    },
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
+        "name": "space",
+        "url": "https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k"
+      },
+      "artists": [
+        {
+          "name": "Rahmania Astrini",
+          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
+        },
+        {
+          "name": "Teddy Adhitya",
+          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
+        }
+      ],
+      "duration_ms": 150428,
+      "name": "space (feat. Teddy Adhitya)",
+      "url": "https://open.spotify.com/track/7uBfIs0NE7bx88R0obazQ4"
     },
     {
       "added_at": "2023-05-11 16:00:00",
@@ -1623,38 +1643,30 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
-        "name": "space",
-        "url": "https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k"
+        "name": "Good In Me",
+        "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
       "artists": [
         {
-          "name": "Rahmania Astrini",
-          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
+          "name": "Bones & The Boy",
+          "url": "https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B"
         },
         {
-          "name": "Teddy Adhitya",
-          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
-        }
-      ],
-      "duration_ms": 150428,
-      "name": "space (feat. Teddy Adhitya)",
-      "url": "https://open.spotify.com/track/7uBfIs0NE7bx88R0obazQ4"
-    },
-    {
-      "added_at": "2023-05-11 16:00:00",
-      "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
-      },
-      "artists": [
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        },
+        {
+          "name": "Yung Lee Records",
+          "url": "https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw"
         }
       ],
-      "duration_ms": 180604,
-      "name": "The Outsider",
-      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
+      "duration_ms": 148027,
+      "name": "Good In Me",
+      "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
     },
     {
       "added_at": "2023-05-11 16:00:00",
@@ -1675,18 +1687,18 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
       },
       "artists": [
         {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 144960,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
+      "duration_ms": 180604,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
     }
   ],
   "unique_name": "tapioca",

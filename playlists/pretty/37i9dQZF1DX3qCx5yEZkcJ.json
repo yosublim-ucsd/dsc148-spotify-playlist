@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1486927,
+  "num_followers": 1486965,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGQ1ZGUwNzRjNWVjZWE1YzBhOTE2ZjUxNWE2NGU0YWY1MGJkZjVl",
+  "snapshot_id": "MCxlYWFkZmZlMDZjNTk4Y2JhYzZiYmU3MmZlNjI0MDQ4ZGY4ZmVhZGM1",
   "tracks": [
     {
       "added_at": "2023-05-11 15:00:00",
@@ -491,30 +491,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Hip Shop",
-        "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
-      },
-      "artists": [
-        {
-          "name": "Coffee Date",
-          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
-        },
-        {
-          "name": "Curly",
-          "url": "https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh"
-        },
-        {
-          "name": "GameChops",
-          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
-        }
-      ],
-      "duration_ms": 123008,
-      "name": "Hip Shop",
-      "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "Black Tea",
         "url": "https://open.spotify.com/album/3tcY2wCBIhAAi7ft7Qmr1M"
       },
@@ -539,6 +515,30 @@
       "duration_ms": 159026,
       "name": "Black Tea",
       "url": "https://open.spotify.com/track/0gylr1Mi75MBEijrP2r20A"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "Hip Shop",
+        "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
+      },
+      "artists": [
+        {
+          "name": "Coffee Date",
+          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
+        },
+        {
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        }
+      ],
+      "duration_ms": 123008,
+      "name": "Hip Shop",
+      "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -755,22 +755,22 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Lonely Girl",
-        "url": "https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO"
+        "name": "Do the Right Thing",
+        "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
       "artists": [
         {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
         },
         {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+          "name": "Hannah V",
+          "url": "https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f"
         }
       ],
-      "duration_ms": 123282,
-      "name": "re: Belief",
-      "url": "https://open.spotify.com/track/0ajeqWnQFIVRiNZ2BZUV3N"
+      "duration_ms": 121320,
+      "name": "Do the Right Thing",
+      "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -795,22 +795,22 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Do the Right Thing",
-        "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
+        "name": "Lonely Girl",
+        "url": "https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO"
       },
       "artists": [
         {
-          "name": "Shuko",
-          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
         },
         {
-          "name": "Hannah V",
-          "url": "https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f"
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
         }
       ],
-      "duration_ms": 121320,
-      "name": "Do the Right Thing",
-      "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
+      "duration_ms": 123282,
+      "name": "re: Belief",
+      "url": "https://open.spotify.com/track/0ajeqWnQFIVRiNZ2BZUV3N"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Back in a day",
-        "url": "https://open.spotify.com/album/6za9uzUhSU3DDfVJRP4Y2N"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 114461,
-      "name": "Back in a day",
-      "url": "https://open.spotify.com/track/7sp9pTgw0smoFOhPwA6gr4"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "Whitecaps",
         "url": "https://open.spotify.com/album/5wVxz4mhomoVmStrjnt4F0"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 127760,
       "name": "Undercurrent",
       "url": "https://open.spotify.com/track/7vg8AtIAyXzJK1fKKK8CZO"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "Back in a day",
+        "url": "https://open.spotify.com/album/6za9uzUhSU3DDfVJRP4Y2N"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 114461,
+      "name": "Back in a day",
+      "url": "https://open.spotify.com/track/7sp9pTgw0smoFOhPwA6gr4"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Evening Drive",
-        "url": "https://open.spotify.com/album/5vp1e9FAeRseEuk4XCVVll"
-      },
-      "artists": [
-        {
-          "name": "Milo Who",
-          "url": "https://open.spotify.com/artist/2AvtPNQ7qZnLcBxC6kPvZ6"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Evening Drive",
-      "url": "https://open.spotify.com/track/5Q9BHeEnFBt4KAPRTc3MmZ"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "Main Source (Instrumentals)",
         "url": "https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 178773,
       "name": "Sewin' Love - Instrumental",
       "url": "https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "Evening Drive",
+        "url": "https://open.spotify.com/album/5vp1e9FAeRseEuk4XCVVll"
+      },
+      "artists": [
+        {
+          "name": "Milo Who",
+          "url": "https://open.spotify.com/artist/2AvtPNQ7qZnLcBxC6kPvZ6"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Evening Drive",
+      "url": "https://open.spotify.com/track/5Q9BHeEnFBt4KAPRTc3MmZ"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Cross the Bridge",
-        "url": "https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH"
+        "name": "Baby, It's Over",
+        "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
       "artists": [
         {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "Pure Colors",
+          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
         }
       ],
-      "duration_ms": 138913,
-      "name": "Cross the Bridge",
-      "url": "https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs"
+      "duration_ms": 148561,
+      "name": "Baby, It's Over",
+      "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1183,22 +1187,18 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Baby, It's Over",
-        "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
+        "name": "Cross the Bridge",
+        "url": "https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH"
       },
       "artists": [
         {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        },
-        {
-          "name": "Pure Colors",
-          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
         }
       ],
-      "duration_ms": 148561,
-      "name": "Baby, It's Over",
-      "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
+      "duration_ms": 138913,
+      "name": "Cross the Bridge",
+      "url": "https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "easy",
-        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
-      },
-      "artists": [
-        {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "easy",
-      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 128496,
       "name": "Its Rainy",
       "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Dimensions",
-        "url": "https://open.spotify.com/album/4WNsnmIpj9HjeBGxzo3PfR"
-      },
-      "artists": [
-        {
-          "name": "n o r m a l",
-          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
-        }
-      ],
-      "duration_ms": 135357,
-      "name": "waves",
-      "url": "https://open.spotify.com/track/3DGO1gNzHPGZQM4HDSwYyL"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
         "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
+        "name": "Dimensions",
+        "url": "https://open.spotify.com/album/4WNsnmIpj9HjeBGxzo3PfR"
+      },
+      "artists": [
+        {
+          "name": "n o r m a l",
+          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
+        }
+      ],
+      "duration_ms": 135357,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/3DGO1gNzHPGZQM4HDSwYyL"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I"
       },
@@ -1399,6 +1399,30 @@
       "duration_ms": 144950,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "Clout Chaser",
+        "url": "https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Fets",
+          "url": "https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u"
+        },
+        {
+          "name": "Tempura",
+          "url": "https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB"
+        }
+      ],
+      "duration_ms": 112065,
+      "name": "Clout Chaser",
+      "url": "https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -1431,22 +1455,6 @@
       "duration_ms": 140714,
       "name": "busking",
       "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
-      },
-      "artists": [
-        {
-          "name": "Robert de Boron",
-          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
     }
   ],
   "unique_name": "Mellow Beats",

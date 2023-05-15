@@ -4,7 +4,7 @@
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>生命太短促 痛太清楚 才讓你讓我 愛到無退路。
 
-146 songs - 11 hr 1 min
+147 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [寫給天上的你](https://open.spotify.com/track/1Sf0QHApdjtXrd4LX1u0Xj) | [陳昱璇](https://open.spotify.com/artist/3XJsvxcHMDD62N5Wp45vZA) | [寫給天上的你](https://open.spotify.com/album/6bnQUYITXqXmlbY8vCbVrw) | 4:25 | 2022-06-01 | 2022-07-28 |
 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 | 2022-06-01 | 2023-04-26 |
 | [就讓這大雨全都落下](https://open.spotify.com/track/7D6WfjE6qDlCJMkjQYYlnJ) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [就讓這大雨全都落下](https://open.spotify.com/album/5r3nFPZFjCTHprTs9vZfm3) | 4:14 | 2023-02-06 | 2023-05-08 |
+| [就让这大雨全都落下](https://open.spotify.com/track/0J3GWS0Bv6I1reM1J69UBM) | [容祖兒\(Joey Yung\)](https://open.spotify.com/artist/4yKzoTce35C0nxbp2icxFE) | [就让这大雨全都落下](https://open.spotify.com/album/3EXDubkvw4VIoIUJIWcO3v) | 4:14 | 2023-03-31 |  |
 | [後來的我們](https://open.spotify.com/track/13AruKdh8wJhWx6i5dV8X1) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [自傳](https://open.spotify.com/album/4hg4cR8QMbE0xuvoxoA6DX) | 5:46 | 2022-06-01 |  |
 | [後來的我們](https://open.spotify.com/track/4IuXOBMIhI8LgpJTSl7Cgo) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [後來的我們](https://open.spotify.com/album/6QuR78htEcKC7AULnM67Y1) | 5:46 | 2022-06-01 | 2022-07-14 |
 | [心動](https://open.spotify.com/track/2DglkgKB5UlwrCdwcHZjXE) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [重譯 陳潔儀](https://open.spotify.com/album/6EHpbRRFLV2AXe5rUAMvLH) | 3:50 | 2022-06-01 | 2022-07-29 |
@@ -86,7 +87,7 @@
 | [我們 \- 《後來的我們》電影主題曲](https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [我們 \(《後來的我們》電影主題曲\)](https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r) | 4:20 | 2022-06-01 |  |
 | [我們盡力了](https://open.spotify.com/track/7o1TK2v9JvUHo47LIYjWTd) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [我們盡力了](https://open.spotify.com/album/0pcqjPwBloZXi7PW8KC8Uq) | 5:11 | 2022-06-01 | 2022-07-22 |
 | [我恨我愛你](https://open.spotify.com/track/1aQdSw1B6uOBErzNN6jsXx) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [真實 \(Remastered\)](https://open.spotify.com/album/6IgxzPmPjyRen4tUstQ1Ov) | 4:31 | 2022-06-01 | 2022-07-29 |
-| [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 | 2022-06-01 |  |
+| [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 | 2022-06-01 | 2023-05-15 |
 | [我愛的人](https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY) | [Jordan Chan](https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U) | [抱一抱](https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg) | 4:26 | 2023-02-06 | 2023-05-03 |
 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 | 2022-06-01 |  |
 | [我真的受傷了](https://open.spotify.com/track/5cN75zXR3M4si2toC2eF5C) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [學友.熱](https://open.spotify.com/album/16vik0cfPFsAZ6XJeQMyoR) | 3:28 | 2022-06-01 |  |

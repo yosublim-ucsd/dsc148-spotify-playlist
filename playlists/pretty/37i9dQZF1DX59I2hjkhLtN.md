@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Lukky Boy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,178 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,182 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Morning](https://open.spotify.com/track/4qmaHLeM02SSDAJpxmwcGR) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U) | [Morning](https://open.spotify.com/album/1C21J2oqONLxP9syfkwqIn) | 2:46 |
 | 100 | [Ghost](https://open.spotify.com/track/4FWm0qKj6XklFuX44WcgYY) | [Pucci Jr](https://open.spotify.com/artist/5frmw57upraPDcl8cEtISs) | [Ghost](https://open.spotify.com/album/1dfkmxZGNDYDJr8q1kswm5) | 3:04 |
 
-Snapshot ID: `MCwwNTM5MjEwZmQzMjNjMDU0NGExNmFiMTYzM2EwMjYxOTAzZTI4YzMy`
+Snapshot ID: `MCw3ZWYzOGQxMmIzZDJhNmQyN2E5ODI1M2UyMzE5NWZkMzIwZWI4Yzdi`

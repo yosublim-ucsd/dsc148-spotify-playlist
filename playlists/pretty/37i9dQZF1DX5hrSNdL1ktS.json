@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yubeili y Karen M\u00e9ndez ",
-  "num_followers": 57078,
+  "num_followers": 57083,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmJmZDY5ZWZiOGIzMjlhOGU4MmQ5ZTg1YTNmMmM3YWI3OWY0ZGZj",
+  "snapshot_id": "MCwyZjIxMzRjOWM2Yzg3NGY0MjBjMzM2MjI0MjU5MTdjMGY5OWFiNWM5",
   "tracks": [
     {
       "added_at": "2023-04-28 06:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "LA PUERTA",
+        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
+      },
+      "artists": [
+        {
+          "name": "Steff",
+          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
+        }
+      ],
+      "duration_ms": 183225,
+      "name": "LA PUERTA",
+      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "necesito un break de tanta pendejad*",
         "url": "https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 178741,
       "name": "necesito un break de tanta pendejad*",
       "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "LA PUERTA",
-        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
-      },
-      "artists": [
-        {
-          "name": "Steff",
-          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
-        }
-      ],
-      "duration_ms": 183225,
-      "name": "LA PUERTA",
-      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Canc\u00fan",
+        "url": "https://open.spotify.com/album/4xWikX9ovoAUYiIG7vtFAA"
+      },
+      "artists": [
+        {
+          "name": "Tony Egan",
+          "url": "https://open.spotify.com/artist/74udaBfuUTtwJQC2kofEXm"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "Canc\u00fan",
+      "url": "https://open.spotify.com/track/12ofPzOuKs8atT0bv53IZU"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Ni Miro (feat. Neutro Shorty)",
         "url": "https://open.spotify.com/album/58dp6Q6Li4yKDlpyamoUL0"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Canc\u00fan",
-        "url": "https://open.spotify.com/album/4xWikX9ovoAUYiIG7vtFAA"
-      },
-      "artists": [
-        {
-          "name": "Tony Egan",
-          "url": "https://open.spotify.com/artist/74udaBfuUTtwJQC2kofEXm"
-        }
-      ],
-      "duration_ms": 176343,
-      "name": "Canc\u00fan",
-      "url": "https://open.spotify.com/track/12ofPzOuKs8atT0bv53IZU"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Como Ni\u00f1os",
         "url": "https://open.spotify.com/album/5Sdp54VP8kKWdijOyAsGRV"
       },
@@ -1223,26 +1223,6 @@
       "duration_ms": 184000,
       "name": "Como Ni\u00f1os",
       "url": "https://open.spotify.com/track/33t8RT6FkLmDqR0XhdtSfE"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Lo Que Pas\u00f3 Ayer",
-        "url": "https://open.spotify.com/album/3gOy55ITvra2iZ1eTsx6yR"
-      },
-      "artists": [
-        {
-          "name": "Inzunza",
-          "url": "https://open.spotify.com/artist/5Yv10NlxqvTchOR3rwMuNM"
-        },
-        {
-          "name": "Thega Diaz",
-          "url": "https://open.spotify.com/artist/5IikrGLvqxeVqr1Sco72eG"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Lo Que Pas\u00f3 Ayer",
-      "url": "https://open.spotify.com/track/2RSkodSjQbhRKbozUWLe6u"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1263,6 +1243,26 @@
       "duration_ms": 208250,
       "name": "Hipernova",
       "url": "https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Muri\u00f3 Cupido",
+        "url": "https://open.spotify.com/album/1ExLWtRI8yr8tJ13AQjKzt"
+      },
+      "artists": [
+        {
+          "name": "Juvan",
+          "url": "https://open.spotify.com/artist/4JAKBAP06YnDLKG1cgVUQ7"
+        },
+        {
+          "name": "P-Chain",
+          "url": "https://open.spotify.com/artist/2rfcUcI8g9cLyN63OsjUk4"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "Muri\u00f3 Cupido",
+      "url": "https://open.spotify.com/track/6hJAMJ60n572mV0dBEIpva"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Lo Que Pas\u00f3 Ayer",
+        "url": "https://open.spotify.com/album/3gOy55ITvra2iZ1eTsx6yR"
+      },
+      "artists": [
+        {
+          "name": "Inzunza",
+          "url": "https://open.spotify.com/artist/5Yv10NlxqvTchOR3rwMuNM"
+        },
+        {
+          "name": "Thega Diaz",
+          "url": "https://open.spotify.com/artist/5IikrGLvqxeVqr1Sco72eG"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Lo Que Pas\u00f3 Ayer",
+      "url": "https://open.spotify.com/track/2RSkodSjQbhRKbozUWLe6u"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "LO SIENTO",
         "url": "https://open.spotify.com/album/7J8LeqFNvs7DthngS8x7Qj"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 153913,
       "name": "LO SIENTO",
       "url": "https://open.spotify.com/track/3gn4amt8rKlgHI8pNrxFyN"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Muri\u00f3 Cupido",
-        "url": "https://open.spotify.com/album/1ExLWtRI8yr8tJ13AQjKzt"
-      },
-      "artists": [
-        {
-          "name": "Juvan",
-          "url": "https://open.spotify.com/artist/4JAKBAP06YnDLKG1cgVUQ7"
-        },
-        {
-          "name": "P-Chain",
-          "url": "https://open.spotify.com/artist/2rfcUcI8g9cLyN63OsjUk4"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "Muri\u00f3 Cupido",
-      "url": "https://open.spotify.com/track/6hJAMJ60n572mV0dBEIpva"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/38pp7lSGyrfc8Wm9jokuA0"
+      },
+      "artists": [
+        {
+          "name": "Beelial",
+          "url": "https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k"
+        }
+      ],
+      "duration_ms": 141942,
+      "name": "Enredados",
+      "url": "https://open.spotify.com/track/3P2wOnimZT9iJ9ltlMg7Ei"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Una Fresa",
         "url": "https://open.spotify.com/album/4wI5wYLCNe0HamNt0YAoZs"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 185000,
       "name": "Locura Contigo",
       "url": "https://open.spotify.com/track/6EJhvB66HavCJYtVDuS5yo"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Enredados",
-        "url": "https://open.spotify.com/album/38pp7lSGyrfc8Wm9jokuA0"
-      },
-      "artists": [
-        {
-          "name": "Beelial",
-          "url": "https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k"
-        }
-      ],
-      "duration_ms": 141942,
-      "name": "Enredados",
-      "url": "https://open.spotify.com/track/3P2wOnimZT9iJ9ltlMg7Ei"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "La 40",
+        "url": "https://open.spotify.com/album/1fqeLA4TrQUQqNEDWwETTw"
+      },
+      "artists": [
+        {
+          "name": "Ele O",
+          "url": "https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "duration_ms": 184399,
+      "name": "La 40",
+      "url": "https://open.spotify.com/track/4MJR6A9N05gpesSkufKImJ"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "C\u00f3mo Har\u00e9",
         "url": "https://open.spotify.com/album/3122VI6TccbqMLfCWJF69y"
       },
@@ -1719,26 +1739,6 @@
       "duration_ms": 243272,
       "name": "SUERTE",
       "url": "https://open.spotify.com/track/4SgIhxy6ViuwWZEB3tePLo"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "La 40",
-        "url": "https://open.spotify.com/album/1fqeLA4TrQUQqNEDWwETTw"
-      },
-      "artists": [
-        {
-          "name": "Ele O",
-          "url": "https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi"
-        },
-        {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
-        }
-      ],
-      "duration_ms": 184399,
-      "name": "La 40",
-      "url": "https://open.spotify.com/track/4MJR6A9N05gpesSkufKImJ"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Rip Lo Nuestro?",
-        "url": "https://open.spotify.com/album/533IN1LZmgTz6hCB7zOEDe"
-      },
-      "artists": [
-        {
-          "name": "ATM FLAVOR",
-          "url": "https://open.spotify.com/artist/1SqAxi0VbVExvWdpR5Pjru"
-        },
-        {
-          "name": "Kimm\u00f8",
-          "url": "https://open.spotify.com/artist/7pLeJaOcw4TbtZk42asvOu"
-        }
-      ],
-      "duration_ms": 151538,
-      "name": "Rip Lo Nuestro?",
-      "url": "https://open.spotify.com/track/1uy05XqepehzYAFhKvhsix"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "PACHEKEO",
         "url": "https://open.spotify.com/album/6erEmxD1XKFchu0MPgn3dv"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 232173,
       "name": "PACHEKEO",
       "url": "https://open.spotify.com/track/2u5zS1c1OeH2Nre5IfNoKD"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Rip Lo Nuestro?",
+        "url": "https://open.spotify.com/album/533IN1LZmgTz6hCB7zOEDe"
+      },
+      "artists": [
+        {
+          "name": "ATM FLAVOR",
+          "url": "https://open.spotify.com/artist/1SqAxi0VbVExvWdpR5Pjru"
+        },
+        {
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/7pLeJaOcw4TbtZk42asvOu"
+        }
+      ],
+      "duration_ms": 151538,
+      "name": "Rip Lo Nuestro?",
+      "url": "https://open.spotify.com/track/1uy05XqepehzYAFhKvhsix"
     },
     {
       "added_at": "2023-04-28 06:00:00",

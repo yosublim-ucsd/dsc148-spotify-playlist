@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,459 likes - 42 songs - 2 hr 0 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,457 likes - 42 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 3 | [SHEEESH](https://open.spotify.com/track/2vCJT0We2y2065mfddct7b) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [SHEEESH EP](https://open.spotify.com/album/6vTMvT40qQINkChUjN3VWU) | 2:12 |
 | 4 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 |
 | 5 | [INOXENTE \- Steve Aoki & Dee Mad Remix](https://open.spotify.com/track/719e5fPCJE34Lb3a6upwhV) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Dee Mad](https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI) | [INOXENTE \(Steve Aoki & Dee Mad Remix\)](https://open.spotify.com/album/3OL3ZtuxuF4czRXHoQBLOi) | 3:00 |
-| 6 | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/track/1ZFTwYqAi4QYtZ0AEesGvC) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/album/3ceLFqR6p8w0JlcsAjudsk) | 2:46 |
+| 6 | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/track/1ZFTwYqAi4QYtZ0AEesGvC) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/album/3ceLFqR6p8w0JlcsAjudsk) | 2:48 |
 | 7 | [Lavender \(feat\. Jolina Elísh\)](https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 3:15 |
 | 8 | [On & On](https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [On & On](https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf) | 2:20 |
 | 9 | [Ocean](https://open.spotify.com/track/483ZlZtG4y2pyysb7FMYzZ) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Ocean](https://open.spotify.com/album/5T5amvYXnuiNKG47VLuMtP) | 2:55 |

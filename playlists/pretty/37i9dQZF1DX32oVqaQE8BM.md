@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,184 likes - 263 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,250 likes - 263 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,7 +227,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 217 | [u make me](https://open.spotify.com/track/6OyPiy5eWajl56cC6Em7no) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [u make me](https://open.spotify.com/album/3iXK2nkrVGdDeAd50g67UY) | 2:02 |
 | 218 | [Until Dawn](https://open.spotify.com/track/64qL1d3aSX0QMZRWf29zy4) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Until Dawn](https://open.spotify.com/album/7akmB3n9nOEkHn48cTZWkI) | 2:26 |
 | 219 | [Express](https://open.spotify.com/track/6mg9PIxAN6fYCBaztFjhJr) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Express](https://open.spotify.com/album/4YuVkDxFHZbloTnjEaNdwz) | 2:21 |
-| 220 | [Feather](https://open.spotify.com/track/3C9SSKzLA3egmM5g9KCnzK) | [Technicyan](https://open.spotify.com/artist/3v3AfH9gjJFvuSM7f2OduC) | [Feather](https://open.spotify.com/album/6hlHOzTl3rmbdWwBd90qJn) | 2:01 |
+| 220 | [Feather](https://open.spotify.com/track/210hkp65BbA0awD0IX2gjE) | [Technicyan](https://open.spotify.com/artist/3v3AfH9gjJFvuSM7f2OduC) | [Feather](https://open.spotify.com/album/3RiGsKtfdiJHRtxq9XH331) | 2:01 |
 | 221 | [drop the ball](https://open.spotify.com/track/6672eTNp29KIwkCHn0Ggyl) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [drop the ball](https://open.spotify.com/album/7I7DErezRt4ezOAM1GfWpw) | 3:29 |
 | 222 | [Through The Wildness](https://open.spotify.com/track/2qRlg2aj8lFiN01eh4PABi) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Through The Wildness](https://open.spotify.com/album/3gmXVJ5KvgK2DpMJo0yFRs) | 1:50 |
 | 223 | [Club Row](https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Club Row](https://open.spotify.com/album/1K9rT7uipaYEjlxDXINrNl) | 2:26 |
@@ -272,4 +272,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 262 | [Spring](https://open.spotify.com/track/62aTQ3i94Ho3xlB3sQzouy) | [The Hooder](https://open.spotify.com/artist/2GwSswDcepZ97m3Oa3onEI) | [Spring](https://open.spotify.com/album/7EWq0eegyBShBKHtAgFBak) | 2:43 |
 | 263 | [Twigs](https://open.spotify.com/track/4mXIW02IV45ryBCq3HKDnU) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Twigs](https://open.spotify.com/album/50pBVjlXEMrAoNQcjgq6qP) | 2:24 |
 
-Snapshot ID: `MCxkODY5MGYyNTMyYjA4MzhlYmU4NGRmYzc0OTY5MGRjZWFhNDI2MDRl`
+Snapshot ID: `MCwzN2E5YWI5NGJjNGIwOGEyZGY3OGYxZmZlNWM5NDVlMWY4N2Y4OGUz`

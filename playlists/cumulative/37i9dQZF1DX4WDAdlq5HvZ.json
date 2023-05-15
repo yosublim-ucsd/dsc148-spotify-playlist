@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Amen A sus Mam\u00e1s",
+        "url": "https://open.spotify.com/album/0VBFC4sHoaCRQShU1c3YAg"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "Amen A sus Mam\u00e1s",
+      "url": "https://open.spotify.com/track/6ndM8lsNfBq7n9b5NcJNo5"
+    },
+    {
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
@@ -767,6 +785,28 @@
     },
     {
       "album": {
+        "name": "Like A Child With Its Mother (Psalm 131) / Have Mercy (Psalm 51)",
+        "url": "https://open.spotify.com/album/2B8NQDsqq1Pp4VknY7zvq1"
+      },
+      "artists": [
+        {
+          "name": "Caroline Cobb",
+          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
+        },
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261954,
+      "name": "Like A Child With Its Mother (Psalm 131)",
+      "url": "https://open.spotify.com/track/0pugZgr6RTCvVQcyGhAPDt"
+    },
+    {
+      "album": {
         "name": "Child Of The Father",
         "url": "https://open.spotify.com/album/6yePsevSZkLJtIxLUAQVJG"
       },
@@ -872,6 +912,24 @@
       "duration_ms": 184111,
       "name": "Mama",
       "url": "https://open.spotify.com/track/4qrbq2Cnq8Ns2cTcxYojge"
+    },
+    {
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/4UIzTVq2CaK61HXnoccPj5"
+      },
+      "artists": [
+        {
+          "name": "Lamboginny",
+          "url": "https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158772,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/4TsPRvWfCbbaGq3nDMfaux"
     },
     {
       "album": {
@@ -998,7 +1056,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 220750,
       "name": "Momma Kinda Lovin",
       "url": "https://open.spotify.com/track/4k3N2Sh67ov5t0qJLudDp1"
@@ -1293,6 +1351,28 @@
     },
     {
       "album": {
+        "name": "Talking To Jesus (Live from The Ryman)",
+        "url": "https://open.spotify.com/album/7E9vyxAfIWcCmWkEHbZoN4"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450146,
+      "name": "Talking To Jesus (Live from The Ryman)",
+      "url": "https://open.spotify.com/track/5tSChUjjjk0dQQHSWqAObG"
+    },
+    {
+      "album": {
         "name": "Tell Your Heart To Beat Again",
         "url": "https://open.spotify.com/album/7CrY1VcYjRqeTSyQ171ke8"
       },
@@ -1509,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Prayed for This Day",
+        "url": "https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Metz",
+          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157746,
+      "name": "When I Talk to God",
+      "url": "https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA"
+    },
+    {
+      "album": {
         "name": "There Is More (Studio Sessions)",
         "url": "https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ"
       },
@@ -1582,7 +1680,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 227855,
       "name": "You Have Provided",
       "url": "https://open.spotify.com/track/00bTXTGgdFZDo46TmY52Rv"

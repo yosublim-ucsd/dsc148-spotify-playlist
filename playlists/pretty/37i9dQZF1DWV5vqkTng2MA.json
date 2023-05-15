@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 361729,
+  "num_followers": 361806,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWRkM2ZhOTUyNmExNGRlZTA0OTUzNjg4ZmFkZGYyODE0NGExZDg5",
+  "snapshot_id": "MCwxNjI0ZjEyZmE5MDNmNTkyMGNmNTA5MTlkZTE5MzYyNWVhOTI0YTYw",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Nathaniel Rateliff & The Night Sweats",
         "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 183080,
       "name": "Look It Here",
       "url": "https://open.spotify.com/track/1uGFKt1GEUeuST97c2jBD4"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "The Beachland Ballroom",
-      "url": "https://open.spotify.com/track/6numDs6jtM3BAVO2NRrwXC"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Bad Self Portraits",
         "url": "https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 204786,
       "name": "Bad Self Portraits",
       "url": "https://open.spotify.com/track/3CWHWrV0UNbA2kT9xtoI6n"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "The Beachland Ballroom",
+      "url": "https://open.spotify.com/track/6numDs6jtM3BAVO2NRrwXC"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Alta Falls",
-        "url": "https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 281893,
-      "name": "Never Been a Captain",
-      "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Out Of Style",
         "url": "https://open.spotify.com/album/2PbLPXxJ8Hh5PWVrcwgM5T"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Year Of The Spider",
-        "url": "https://open.spotify.com/album/2t9TN9PcDnAcLZCP9odxLY"
+        "name": "Alta Falls",
+        "url": "https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X"
       },
       "artists": [
         {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Midnight Wine",
-      "url": "https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI"
+      "duration_ms": 281893,
+      "name": "Never Been a Captain",
+      "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 209198,
       "name": "Oporto-Madrid Blvd",
       "url": "https://open.spotify.com/track/2v8pXJPPFUP6mUl9ZihUfD"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Year Of The Spider",
+        "url": "https://open.spotify.com/album/2t9TN9PcDnAcLZCP9odxLY"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Midnight Wine",
+      "url": "https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Mariachi Static",
-        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
-      },
-      "artists": [
-        {
-          "name": "Izaak Opatz",
-          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "Not Yet",
-      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Aviary: Act 1",
         "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
       },
@@ -1475,6 +1459,26 @@
       "duration_ms": 222937,
       "name": "Slipping",
       "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Hold Time",
+        "url": "https://open.spotify.com/album/5KqYEjZPHBchiXyudUzr5I"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        },
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        }
+      ],
+      "duration_ms": 146200,
+      "name": "Never Had Nobody Like You",
+      "url": "https://open.spotify.com/track/77Y1Weg1iEYfeEteEvvkBt"
     }
   ],
   "unique_name": "the new retro",

@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 176333,
       "name": "Don't Go No Farther - Single Version",
       "url": "https://open.spotify.com/track/2uN2QIBpyfP88G8Y1gtkgY"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 156240,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/3tpfHjfbS7GbA5BFYsxaf1"
@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149666,
+      "name": "Just A Dream (On My Mind)",
+      "url": "https://open.spotify.com/track/5wJfMYutCzdxkHKCKu2oRp"
+    },
+    {
+      "album": {
         "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
         "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
       },
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 174866,
       "name": "Louisiana Blues",
       "url": "https://open.spotify.com/track/2nbV8brWogyKVqRhypvzJS"
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 110213,
       "name": "Muddy Waters Intro - Live",
       "url": "https://open.spotify.com/track/6ni4XOH4ztG8YbJeWE5whN"
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 188160,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 164560,
       "name": "Spoonful'",
       "url": "https://open.spotify.com/track/43usRpZqz4BqLrgKEpzaIQ"
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 200106,
       "name": "Still A Fool",
       "url": "https://open.spotify.com/track/1IS6IcuoQpQSZIGdKoUsPJ"
@@ -1824,7 +1842,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 162000,
       "name": "Trouble No More",
       "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 166493,
       "name": "You Shook Me",
       "url": "https://open.spotify.com/track/0JGycbFUWSITx4NFCkEeqM"

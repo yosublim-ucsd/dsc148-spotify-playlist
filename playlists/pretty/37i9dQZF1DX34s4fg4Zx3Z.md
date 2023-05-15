@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Linh Ka; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,709 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,721 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Alexander](https://open.spotify.com/track/5dpaDNSgDWOGnVhf9ZhAAJ) | [DopeMan](https://open.spotify.com/artist/1IWqwv4Nmco9yWB4vD9R33), [KiddiG](https://open.spotify.com/artist/4JQxhwRWwrrTDQYTsKFR3z), [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Alexander](https://open.spotify.com/album/7ngpNgkZ6BReomEgvcgEzv) | 4:13 |
 | 100 | [Sài Gòn, Cần Những Cái Ôm](https://open.spotify.com/track/0rc01P8QHm2PSCHrjxNEm4) | [Đào Duy Quý](https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi) | [Sài Gòn, Cần Những Cái Ôm](https://open.spotify.com/album/2StYmKEQpZFgh0DPOwePck) | 5:03 |
 
-Snapshot ID: `MCw0OWQzNjM5OThhNWRhMjkzNjIwZmY5ZTI4YzQyNTdlNzE4YTkzMTFm`
+Snapshot ID: `MCw3YThmMjExNDJiNjFlNjZjODY4YTc4ODRiM2VmZjVlNzQzNzIwZWMx`

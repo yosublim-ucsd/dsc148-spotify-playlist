@@ -4,7 +4,7 @@
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-70 songs - 2 hr 23 min
+71 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Hannett and Delia synth exchanges track 14](https://open.spotify.com/track/4HdrI3r3t0t4VwikGGhovW) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:01 | 2022-06-13 | 2023-05-05 |
 | [Hannett and Delia synth exchanges track 15](https://open.spotify.com/track/4MmsZt9kCHtjjUzUA83sMF) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:02 | 2022-07-02 | 2022-08-27 |
 | [Hannett and Delia synth exchanges track 16](https://open.spotify.com/track/5bv0tIM9J7jMxBhHznLt2y) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:54 | 2022-05-29 | 2022-10-07 |
-| [Hannett and Delia synth exchanges track 18](https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 1:29 | 2022-11-22 |  |
+| [Hannett and Delia synth exchanges track 18](https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 1:29 | 2022-11-22 | 2023-05-15 |
+| [Hannett and Delia synth exchanges track 19](https://open.spotify.com/track/243CrAqa2JDtbn078Qd5dF) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:06 | 2023-05-14 |  |
 | [Hannett and Delia synth exchanges track 20](https://open.spotify.com/track/2pd6AauSghzEWC3YYicPCK) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 1:06 | 2022-06-05 |  |
 | [Hannett and Delia synth exchanges track 21](https://open.spotify.com/track/4uLGsgGz29gBwFwgfBcNvt) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:55 | 2022-12-17 | 2022-12-20 |
 | [Hannett and Delia synth exchanges track 3](https://open.spotify.com/track/1xI597kDPd4Z7eZHZaaJ9L) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:43 | 2022-05-29 |  |

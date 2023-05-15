@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-491 songs - 1 day 4 hr 10 min
+492 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-03-18 | 2022-07-29 |
 | [Como Yo Quiero](https://open.spotify.com/track/6QcbtHMt6gDQ79Muv0AZoH) | [Fernanda Aleman](https://open.spotify.com/artist/7j59f8sBApT07ZgGuKgoDK) | [Nogoya](https://open.spotify.com/album/4fhYwvAoULyvveXGG9Kgu7) | 2:54 | 2022-04-01 | 2022-04-17 |
 | [Con el Frío](https://open.spotify.com/track/7dGaRZLn6uA5rfkGvYslkp) | [Salares](https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Con el Frío](https://open.spotify.com/album/3sSlDs0fAjhBXTBFSpNzRD) | 3:43 | 2022-01-21 | 2022-06-02 |
+| [Con Miedo a Ti](https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Alto Cielo](https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V) | 4:51 | 2023-05-12 |  |
 | [Contenida](https://open.spotify.com/track/0SFFoFz2bvkTQmLkw2Z58G) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 4:31 | 2022-10-14 | 2023-02-06 |
 | [Copy Paste](https://open.spotify.com/track/39UXEKOYb2YXx3GgzQf7hs) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Copy Paste](https://open.spotify.com/album/0BMYDRsP7t1nBcDM2Lmatn) | 3:01 | 2022-01-14 | 2023-04-06 |
 | [Corazón](https://open.spotify.com/track/4oXrjrE3R1GJpDZOyRr64Y) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Corazón](https://open.spotify.com/album/6KRdrJAGK5tr9niwAI90kp) | 3:19 | 2022-01-21 | 2022-07-29 |
@@ -318,7 +319,7 @@
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2023-02-03 |  |
 | [Opuesto Complementario](https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:56 | 2023-03-31 |  |
 | [Ordenar](https://open.spotify.com/track/6cMAjbEM3SDBBWFwvx4qSl) | [VETRA](https://open.spotify.com/artist/7obSoqTA0ah9tLNktBUNU7) | [Liberarnos Es Placer](https://open.spotify.com/album/2f920Ow1P5wRwMgSYjr7eC) | 3:03 | 2022-01-21 | 2022-07-25 |
-| [Otra Noche en los '70](https://open.spotify.com/track/4ymeGJhf1r8HJefwWDjv7o) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:37 | 2023-04-21 |  |
+| [Otra Noche en los '70](https://open.spotify.com/track/4ymeGJhf1r8HJefwWDjv7o) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:37 | 2023-04-21 | 2023-05-15 |
 | [Otro Café](https://open.spotify.com/track/11nOwkwi4fCSbSowdrMhBi) | [Jimena Gonik](https://open.spotify.com/artist/0zzqP0G1PR5B9Em78h6ibv) | [Otro Café](https://open.spotify.com/album/6OuR0BZ2t5csQsCotYUQaD) | 3:03 | 2022-04-01 | 2022-07-28 |
 | [Otro Lado](https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Otro Lado](https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K) | 3:57 | 2022-01-14 |  |
 | [Otro Plan](https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Otro Plan](https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW) | 3:02 | 2023-05-12 |  |

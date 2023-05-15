@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,256 likes - 351 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,789 likes - 351 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 137 | [cold pillow](https://open.spotify.com/track/3aUeEklhHTYgO4irZQMKof) | [Tween City](https://open.spotify.com/artist/0tVWLGanEa906nosw2Uu9p) | [cold pillow](https://open.spotify.com/album/2ViC0DuxrdPLoprhkTqB8x) | 2:21 |
 | 138 | [Ocean](https://open.spotify.com/track/4odFMv7t6JlQOosFUwq49Y) | [Clarity Begins](https://open.spotify.com/artist/1VRD904TstsDy6b4boMmWk) | [Ocean](https://open.spotify.com/album/0cUpzQ7CC1j2Ri3UXq6n25) | 2:44 |
 | 139 | [laziness](https://open.spotify.com/track/68qJ3TskDFK2QuEDlUs8rH) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [laziness](https://open.spotify.com/album/3PscnzGhlFUABok52QKHi8) | 1:56 |
-| 140 | [Catching Goldfish](https://open.spotify.com/track/42iZduyTxl5BWkrVDoo5uF) | [Jay\-Lounge](https://open.spotify.com/artist/47sdYTwmCqrIVcJV11c6Cj) | [Catching Goldfish](https://open.spotify.com/album/41BrTOpv9BZ5V6kQYbj8Cb) | 2:44 |
+| 140 | [Catching Goldfish](https://open.spotify.com/track/4OOg4gFlPeDDUtVfEGl3WU) | [Jay\-Lounge](https://open.spotify.com/artist/47sdYTwmCqrIVcJV11c6Cj) | [Catching Goldfish](https://open.spotify.com/album/4ZH5LcYTtobdNkYzm8dfWO) | 2:44 |
 | 141 | [Matcha Latte](https://open.spotify.com/track/7rjvGzy3As2UC6cy8QsRGH) | [Retrospectivous](https://open.spotify.com/artist/1j50Ry1zXXLCtsbeQG94Jt) | [Matcha Latte](https://open.spotify.com/album/2yYUf1FX0pUWyTbVcJXX22) | 2:12 |
 | 142 | [One Step Forward](https://open.spotify.com/track/1TpJwH3hbKGs6qOfQx1zeC) | [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [One Step Forward](https://open.spotify.com/album/4d2kWwVfygbHglSuExOJVM) | 2:18 |
 | 143 | [donuts](https://open.spotify.com/track/4kk88YN0A8rpQh2Stl1Ifx) | [efigenia](https://open.spotify.com/artist/3ImWGWCBoRtNpB1tMK8QGU) | [donuts](https://open.spotify.com/album/5IlHYOqdFMqjJxrJg1kv7N) | 2:24 |
@@ -360,4 +360,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 350 | [glass on rain](https://open.spotify.com/track/2lCqEGGvby2mwEhl06HSjX) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [glass on rain](https://open.spotify.com/album/0RVXB95fOx5ZgbnfKEJTXd) | 1:50 |
 | 351 | [hopscotch](https://open.spotify.com/track/2B1dl95kTHNdwyZkaZsVFX) | [ratio 11](https://open.spotify.com/artist/0ecn09hphRWavIB0uGYNxl) | [hopscotch](https://open.spotify.com/album/3HQQ8v9tvLUtiuACaGUBS5) | 2:30 |
 
-Snapshot ID: `MCxhYWZkODQzMmNhN2JkOWMyNjNmMjVlNmYwOGRiMzQ0MGU4NGY4ODVh`
+Snapshot ID: `MCwyMjY5MzkxMGJiODI4MjQ1YzZlZTgyODk0OWMxMDBlNDQ3NTBmZDgx`

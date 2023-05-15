@@ -3079,6 +3079,24 @@
     },
     {
       "album": {
+        "name": "Could Have Done Anything",
+        "url": "https://open.spotify.com/album/7fYSpC2LvK5Xode0pWSpUB"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cornfield",
+          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204223,
+      "name": "Cut and Dry",
+      "url": "https://open.spotify.com/track/4cbfwZbbQ8n5uLwg4TI8vu"
+    },
+    {
+      "album": {
         "name": "Cut and Dry",
         "url": "https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP"
       },
@@ -3090,7 +3108,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 204223,
       "name": "Cut and Dry",
       "url": "https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd"
@@ -7798,10 +7816,28 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 212973,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6gzgyr3CHPXIs97yeEqU8h"
+    },
+    {
+      "album": {
+        "name": "Love Again (Soundtrack from the Motion Picture)",
+        "url": "https://open.spotify.com/album/1YV5gnob3qCnMQuVomwGwG"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/7LYV8DzfYdArevWVyNNIZ0"
     },
     {
       "album": {

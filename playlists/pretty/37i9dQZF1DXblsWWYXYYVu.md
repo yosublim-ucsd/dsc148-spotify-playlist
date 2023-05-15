@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,907 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,922 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 55 | [To Be Alone](https://open.spotify.com/track/2rMRJx6otE8fMl5hXQn91g) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [I'm With You](https://open.spotify.com/album/5aUd0ggP3UhS9irzEqy6J7) | 3:36 |
 | 56 | [Loved To Be Loved By You](https://open.spotify.com/track/7JoHYBVrBg6A0Rerbnxwlp) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Loved To Be Loved By You](https://open.spotify.com/album/3QKRUJjjnaY28Ap7idOEll) | 2:59 |
 | 57 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 |
-| 58 | [Passengers \- Acoustic](https://open.spotify.com/track/3kZgtM2p8Ep5dZnpiwc4iH) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Passengers](https://open.spotify.com/album/1eVGS5kWPR0cndQ60wg4Gz) | 3:36 |
+| 58 | [Passengers \- Acoustic](https://open.spotify.com/track/5IMQlqI9uG3gASyw3ActK1) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy Solo Sessions](https://open.spotify.com/album/7sq4LBwgMO1hcw4HWdd8Ja) | 3:36 |
 | 59 | [Far Side of the World](https://open.spotify.com/track/3MGpNC75JZVz3V2NAcIgg2) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG), [Jake Fine](https://open.spotify.com/artist/43Bw9eMbgU3flCZxlk238n) | [Far Side of the World](https://open.spotify.com/album/0ocHlazsDX3Kk3VNVOWsys) | 2:56 |
 | 60 | [DRIFT ALONG SMALL WORLD](https://open.spotify.com/track/75sA9kqySGXC9tOae0W0tA) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [DRIFT ALONG SMALL WORLD](https://open.spotify.com/album/5IvyxcEZTKhiGraQJ6Dgrg) | 2:42 |
 | 61 | [The Years](https://open.spotify.com/track/5ppLTSYuW2XRUXRrtHO72z) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/38IhoHvSsheHtFlofWm8Kw) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |
 | 100 | [I Can't \(Acoustic\)](https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova Acoustic](https://open.spotify.com/album/6osrioku931TjO8ybo7oGX) | 3:32 |
 
-Snapshot ID: `MCw1YTE5ZTgwNzcwYzYwNzU0ZDVhMDMzZWZlYzQ4ZjZiODk3ZmVhMWUz`
+Snapshot ID: `MCwwMDQ1OGYzNTdlZWI3YjgzOTczMjZhYzQ2MTMzZGFjODMxZGRjYWQx`

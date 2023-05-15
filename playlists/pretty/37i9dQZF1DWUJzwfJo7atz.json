@@ -1,12 +1,12 @@
 {
   "description": "cute moments in fields and on dancefloors #SpotifyWrapped",
-  "num_followers": 32000,
+  "num_followers": 32141,
   "original_name": "dance tracks we hugged our friends to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjM0NTM3Mjc3MzdkNjMzYzBlMDhlZTVkNGY0YzJkZmRkZjIwNWQ5",
+  "snapshot_id": "MCw4ZTExYjA4MjQ2NDdiMzE2N2RhOWU1NDBkNDUzYTE1N2U0YzJhZmJm",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Diamond Cut / Bby",
+        "url": "https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 343341,
+      "name": "Bby",
+      "url": "https://open.spotify.com/track/7kAJWULoQUsWiiTJp2951Y"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "UUUU",
         "url": "https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 389800,
       "name": "UUUU",
       "url": "https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Diamond Cut / Bby",
-        "url": "https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 343341,
-      "name": "Bby",
-      "url": "https://open.spotify.com/track/7kAJWULoQUsWiiTJp2951Y"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "duration_ms": 295230,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 189422,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
-      },
-      "artists": [
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        }
-      ],
-      "duration_ms": 295230,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
     },
     {
       "added_at": "2022-11-30 13:46:00",

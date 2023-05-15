@@ -1624,6 +1624,24 @@
     {
       "album": {
         "name": "Dreams",
+        "url": "https://open.spotify.com/album/3TymUlSYZsMS09A5NnY7Hc"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229952,
+      "name": "Go Through the Night",
+      "url": "https://open.spotify.com/track/3BkWm5yGQ91hu1b9BHNbaz"
+    },
+    {
+      "album": {
+        "name": "Dreams",
         "url": "https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f"
       },
       "artists": [
@@ -4024,7 +4042,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 341400,
       "name": "Thomas The Fib",
       "url": "https://open.spotify.com/track/24BUtbyeWfHzL0SDCdnywp"

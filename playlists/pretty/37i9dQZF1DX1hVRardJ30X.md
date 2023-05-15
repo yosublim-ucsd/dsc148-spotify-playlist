@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,031 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,159 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 53 | [Déjame Tranquila](https://open.spotify.com/track/2cXJ2LUkGAezPOMgg8vbnp) | [Sofia Delfino](https://open.spotify.com/artist/11fsAXlakhmo0Mc29073Ud) | [Déjame Tranquila](https://open.spotify.com/album/4ss8ie0nv0C2W2OzJzR5Jl) | 2:27 |
 | 54 | [Señorita](https://open.spotify.com/track/2yhTD6Qtlbg0MvHYTyTptj) | [Jean Pi](https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK) | [Señorita](https://open.spotify.com/album/1aHjkGt542li9rMCCtEN9Y) | 2:36 |
 
-Snapshot ID: `MCwzYzFjNDFiOWM1NjY2ODljZmJjNjJkYmMyYTIzYjY3YTk2YTA5MWRi`
+Snapshot ID: `MCw0Y2MxMTliNjUwNzI1ODQ1YWJmNTBhNzY0NzFiMDdjY2Y0ZGJkNzQ2`

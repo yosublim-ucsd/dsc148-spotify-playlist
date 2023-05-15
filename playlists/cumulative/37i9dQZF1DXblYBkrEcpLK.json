@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 227426,
       "name": "Just a little bit",
       "url": "https://open.spotify.com/track/0C5XMxcTleuBCRE1F89AQB"
@@ -3262,7 +3262,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 209744,
       "name": "STONE OCEAN",
       "url": "https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE"
@@ -4566,6 +4566,24 @@
       "duration_ms": 295241,
       "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u304b\u3089",
       "url": "https://open.spotify.com/track/1gqPfUzCXKQ4SaMYcRPK8G"
+    },
+    {
+      "album": {
+        "name": "\u3072\u308d\u304c\u308b\u30b9\u30ab\u30a4!\u30d7\u30ea\u30ad\u30e5\u30a2 \u4e3b\u984c\u6b4c\u30b7\u30f3\u30b0\u30eb\u3010\u901a\u5e38\u76e4\u3011",
+        "url": "https://open.spotify.com/album/6zZczS4QOYcaxESpHfewWr"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u4e95\u3042\u307f",
+          "url": "https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268920,
+      "name": "\u3072\u308d\u304c\u308b\u30b9\u30ab\u30a4!\u30d7\u30ea\u30ad\u30e5\u30a2 ~Hero Girls~",
+      "url": "https://open.spotify.com/track/1ngUOF9wYAuGRA9oQyw9Rx"
     },
     {
       "album": {
@@ -7336,7 +7354,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 209000,
       "name": "\u7d42\u7109\u306eDestiny",
       "url": "https://open.spotify.com/track/6NdiMgPfwfmjvfLpUYBJjc"

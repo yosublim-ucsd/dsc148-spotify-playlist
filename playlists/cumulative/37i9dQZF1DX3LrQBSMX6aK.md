@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-79 songs - 19 hr 14 min
+80 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Raga Maru Bihag \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/6H0o6gAqkdV7xmKQxhkUwW) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/00pIdWlZU4yzutxo4CPU10) | 14:15 | 2023-05-09 |  |
 | [Raga Nata Bhairav \- Remastered](https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: A Morning Raga / An Evening Raga \(Remastered\)](https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx) | 23:18 | 2021-12-07 |  |
 | [Raga Shuddh Kalyan](https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT) | [Kaushiki Chakrabarty, Yogesh Samsi, Brajeshwar Mukherjee, Yogesh Dutt](https://open.spotify.com/artist/0MmJO9ML6eMRRUUWsJf5oQ) | [Swar Sadhna](https://open.spotify.com/album/303Pkb83Anu8cMovTksOen) | 35:12 | 2021-12-07 |  |
-| [Raga Shyam Kalyan \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/3XrktIs9yT571rKQYs7DJg) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6) | 26:00 | 2022-12-30 |  |
+| [Raga Shyam Kalyan \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/3PU0yoxLdbZFmvTFnEyFy5) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/00pIdWlZU4yzutxo4CPU10) | 26:00 | 2023-05-09 |  |
+| [Raga Shyam Kalyan \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/3XrktIs9yT571rKQYs7DJg) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6) | 26:00 | 2022-12-30 | 2023-05-15 |
 | [Ragam Tanam Pallavi](https://open.spotify.com/track/0k5Eg606HtFJU0pqQdgb53) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Parjanya](https://open.spotify.com/album/7kBEWpnF9rrsmMGx2gibFM) | 20:22 | 2021-12-07 | 2023-01-16 |
 | [Raghuvamsa Sudha \(Raga: Kathanakuthuhalam; Tala: Adi\)](https://open.spotify.com/track/67bcbaq2XTq9b5vENbqCzl) | [Chitti Babu](https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z) | [Raghuvamsa Sudha Vol.1](https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7) | 9:11 | 2021-12-07 | 2023-04-06 |
 | [Rang](https://open.spotify.com/track/6xJi7Qel6TsACujetOJd5N) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ), [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 5:31 | 2021-12-07 |  |

@@ -1038,10 +1038,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 164045,
       "name": "Catching Goldfish",
       "url": "https://open.spotify.com/track/42iZduyTxl5BWkrVDoo5uF"
+    },
+    {
+      "album": {
+        "name": "Catching Goldfish",
+        "url": "https://open.spotify.com/album/4ZH5LcYTtobdNkYzm8dfWO"
+      },
+      "artists": [
+        {
+          "name": "Jay-Lounge",
+          "url": "https://open.spotify.com/artist/47sdYTwmCqrIVcJV11c6Cj"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164231,
+      "name": "Catching Goldfish",
+      "url": "https://open.spotify.com/track/4OOg4gFlPeDDUtVfEGl3WU"
     },
     {
       "album": {

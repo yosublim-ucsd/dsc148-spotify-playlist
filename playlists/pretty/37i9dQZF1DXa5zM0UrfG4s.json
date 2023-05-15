@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du kan spelle i kjerra! Cover: Hagle",
-  "num_followers": 98052,
+  "num_followers": 98086,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzdjN2Q1YmUwZGI0NWVhMWUwYmM4ODAyNjRhYjVmNGM3YmRhMDlk",
+  "snapshot_id": "MCw2Yzk0OTI4M2Q4N2ExNmQ1YjgxMGM0MDVlYjdlZDdjMDliMjAyNDVh",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Rom & Cola",
-        "url": "https://open.spotify.com/album/0C3iRNcHRYBZqHgsjIaifU"
-      },
-      "artists": [
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        },
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 132931,
-      "name": "Rom & Cola",
-      "url": "https://open.spotify.com/track/1GFZP2cT6C7nGmRzfX7VEY"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Livet Er Herlig",
         "url": "https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 143261,
       "name": "Livet Er Herlig",
       "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Rom & Cola",
+        "url": "https://open.spotify.com/album/0C3iRNcHRYBZqHgsjIaifU"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        },
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 132931,
+      "name": "Rom & Cola",
+      "url": "https://open.spotify.com/track/1GFZP2cT6C7nGmRzfX7VEY"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Hej sk\u00e5l!",
-        "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
+        "name": "Shakira",
+        "url": "https://open.spotify.com/album/5GOs9VMAYF6Ot8GUwCjTNb"
       },
       "artists": [
         {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+          "name": "Kjartan Lauritzen",
+          "url": "https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf"
         }
       ],
-      "duration_ms": 129375,
-      "name": "Hej sk\u00e5l!",
-      "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
+      "duration_ms": 118461,
+      "name": "Shakira",
+      "url": "https://open.spotify.com/track/6kGas3qqqBNAoDdgwvuuxT"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Shakira",
-        "url": "https://open.spotify.com/album/5GOs9VMAYF6Ot8GUwCjTNb"
+        "name": "Hej sk\u00e5l!",
+        "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
       },
       "artists": [
         {
-          "name": "Kjartan Lauritzen",
-          "url": "https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf"
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
         }
       ],
-      "duration_ms": 118461,
-      "name": "Shakira",
-      "url": "https://open.spotify.com/track/6kGas3qqqBNAoDdgwvuuxT"
+      "duration_ms": 129375,
+      "name": "Hej sk\u00e5l!",
+      "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Norge rundt",
-        "url": "https://open.spotify.com/album/1SAhnYv7WLA9wrKlBUQD4J"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Norge rundt",
-      "url": "https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Helt Sykt VOL2",
         "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
       },
@@ -1159,22 +1143,34 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Bad Booty",
-        "url": "https://open.spotify.com/album/47z1O0BS0n7UoSZZFPGt3X"
+        "name": "Norge rundt",
+        "url": "https://open.spotify.com/album/1SAhnYv7WLA9wrKlBUQD4J"
       },
       "artists": [
         {
-          "name": "Robin Stones",
-          "url": "https://open.spotify.com/artist/4dQfZWcKSxR7yAajmK4H1r"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         }
       ],
-      "duration_ms": 133813,
-      "name": "Bad Booty",
-      "url": "https://open.spotify.com/track/2NXDdSSrR8rZVL7IgTgJEF"
+      "duration_ms": 204306,
+      "name": "Norge rundt",
+      "url": "https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Levva Livet!",
+        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
+      },
+      "artists": [
+        {
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
+        }
+      ],
+      "duration_ms": 274053,
+      "name": "Levva Livet",
+      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1211,18 +1207,46 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Levva Livet!",
-        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
+        "name": "Bad Booty",
+        "url": "https://open.spotify.com/album/47z1O0BS0n7UoSZZFPGt3X"
       },
       "artists": [
         {
-          "name": "\u00c5ge Aleksandersen",
-          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
+          "name": "Robin Stones",
+          "url": "https://open.spotify.com/artist/4dQfZWcKSxR7yAajmK4H1r"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 274053,
-      "name": "Levva Livet",
-      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
+      "duration_ms": 133813,
+      "name": "Bad Booty",
+      "url": "https://open.spotify.com/track/2NXDdSSrR8rZVL7IgTgJEF"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "H\u00f8l i potta",
+        "url": "https://open.spotify.com/album/4G82Kih2HtHLiM3xBptOZD"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        },
+        {
+          "name": "Bl\u00e5semafian",
+          "url": "https://open.spotify.com/artist/1RQaTNChwekPJrzDttGzT2"
+        }
+      ],
+      "duration_ms": 140465,
+      "name": "H\u00f8l i potta",
+      "url": "https://open.spotify.com/track/1fl1aY5bCIv0cin4a2YadF"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1251,22 +1275,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Jag \u00e4r taggad",
-        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 136814,
-      "name": "Jag \u00e4r taggad",
-      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
@@ -1291,18 +1299,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Denne Sommer\u00b4n",
-        "url": "https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl"
+        "name": "Jag \u00e4r taggad",
+        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
       },
       "artists": [
         {
-          "name": "Cir.Cuz",
-          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
         }
       ],
-      "duration_ms": 160720,
-      "name": "Denne Sommer\u00b4n",
-      "url": "https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2"
+      "duration_ms": 136814,
+      "name": "Jag \u00e4r taggad",
+      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

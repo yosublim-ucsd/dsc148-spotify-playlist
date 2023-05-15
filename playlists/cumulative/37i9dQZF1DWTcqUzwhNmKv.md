@@ -4,7 +4,7 @@
 
 > The Amity Affliction on top of the biggest Metal playlist.
 
-433 songs - 1 day 5 hr 4 min
+435 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [Into the Abyss](https://open.spotify.com/track/73fjFTOGycMPfGyWrIPXfg) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The Wretched; The Ruinous](https://open.spotify.com/album/09LBDZTHGu6VF0S8Pcxn34) | 3:23 | 2023-05-12 |  |
 | [Invincible](https://open.spotify.com/track/6fxfsA9mpkStsqV4MKF9lD) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Invincible](https://open.spotify.com/album/7umRt7c53qGsH0tfELotC8) | 3:05 | 2021-12-20 | 2022-01-14 |
 | [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 | 2022-05-13 | 2022-06-10 |
-| [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-05-12 |  |
+| [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-05-12 | 2023-05-15 |
+| [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 | 2023-05-12 |  |
 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 | 2021-12-20 | 2022-03-04 |
 | [Jaded](https://open.spotify.com/track/6syEBcinz3tRLPwM9Kdemo) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Jaded](https://open.spotify.com/album/1CjPzgqkAeSShcb3mQ4iNS) | 4:27 | 2023-03-17 |  |
 | [Jester](https://open.spotify.com/track/2hLzDI8XizgkPsMzs2ULTt) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Jester](https://open.spotify.com/album/2ocH2F2vvI62odBkqvnSdR) | 4:02 | 2022-06-10 | 2022-09-03 |
@@ -377,7 +378,8 @@
 | [The Wretched; The Ruinous](https://open.spotify.com/track/2r7hqnJ4jVQRrT5A5oBF9B) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The Wretched; The Ruinous](https://open.spotify.com/album/5I9RcuaXY3BwAYYNYhVlTL) | 4:20 | 2023-03-03 | 2023-03-25 |
 | [There’s Fear In Letting Go](https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:54 | 2023-02-10 |  |
 | [Thinking in Tongues](https://open.spotify.com/track/4bWxvvHZSbnCERC2liTnIq) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Thinking in Tongues](https://open.spotify.com/album/4rWZPzKJnGLtNyTxVGLFEh) | 3:24 | 2022-05-06 | 2022-06-10 |
-| [Through the Depths](https://open.spotify.com/track/0W6BAkEfeRum8R0uAxrWyl) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Through the Depths](https://open.spotify.com/album/4dcv6Y8XeX1PHRIUKedRBe) | 4:45 | 2023-03-24 |  |
+| [Through the Depths](https://open.spotify.com/track/0W6BAkEfeRum8R0uAxrWyl) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Through the Depths](https://open.spotify.com/album/4dcv6Y8XeX1PHRIUKedRBe) | 4:45 | 2023-03-24 | 2023-05-15 |
+| [Through the Depths](https://open.spotify.com/track/1F3Gag1HgKHUBSctaSWn4Y) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Dealing with Demons Vol\. II](https://open.spotify.com/album/5O4KC0CFhKXjoUniNXKHMw) | 4:45 | 2023-05-12 |  |
 | [Tight Rope XX](https://open.spotify.com/track/2ONKSAWBw6R4lwgzcpx8l7) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Tight Rope XX](https://open.spotify.com/album/7l8G0xgVOBgfYTYDrqmL4D) | 3:37 | 2022-07-29 | 2022-11-26 |
 | [Time](https://open.spotify.com/track/2KypRk2hIQxO8Z8EkQfhsB) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Time](https://open.spotify.com/album/5vco6HFksVqQJxg2agPJIM) | 4:00 | 2022-07-29 | 2022-10-01 |
 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 | 2022-07-08 | 2022-08-27 |

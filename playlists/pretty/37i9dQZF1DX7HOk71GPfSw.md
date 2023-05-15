@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > this heylog song is crazy\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,082 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,478 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 49 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
 | 50 | [crush](https://open.spotify.com/track/3cZV4gjyIpMeTkNV3CfBbm) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [crush](https://open.spotify.com/album/7lXKPK9lVPJWnvnfj2fKNr) | 2:30 |
 | 51 | [sweet dreams](https://open.spotify.com/track/7jl6zALfT0GrbJXoqj2Y7b) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [sweet dreams](https://open.spotify.com/album/2MBr2UoMvh1qAJqFWGGcck) | 2:34 |
-| 52 | [day n nite](https://open.spotify.com/track/7qjEI8v5OIK6N1ruWrgc57) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh), [syris](https://open.spotify.com/artist/5ZpX0S8FDHkArrCYqaGoYE) | [day n nite](https://open.spotify.com/album/4cYM9IgNK3xF1O4WU4S1hp) | 2:38 |
+| 52 | [day n nite](https://open.spotify.com/track/6GCLWIInjc1P42qqG76FYr) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [syris](https://open.spotify.com/artist/5ZpX0S8FDHkArrCYqaGoYE), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [day n nite](https://open.spotify.com/album/5bajYidKuLuo20V3qV17Zk) | 2:38 |
 | 53 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
 | 54 | [Show Me What](https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 2:49 |
 | 55 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [blank point](https://open.spotify.com/track/70qQK5Oi4Q4aCwmiC9aCsX) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [blank point](https://open.spotify.com/album/2vmredwSZqPrwGVuqvGPkX) | 2:34 |
 | 100 | [4get](https://open.spotify.com/track/2mlgFhBe2shVc1ITY0ri9B) | [Delto](https://open.spotify.com/artist/1WlSGhncfBqk79KNYuTicp), [Canna](https://open.spotify.com/artist/3UQddXFBR9NoYWpcxwAYkh) | [4get](https://open.spotify.com/album/6fDcYde0k1VUiSaK5hTCc6) | 2:19 |
 
-Snapshot ID: `MCw3OGJjMjMxN2Y4NDI1ZmQxNWVhOGIwNGRhMmY4MmIzZTZkZTc3NjRi`
+Snapshot ID: `MCxiMjFiMjFhOGFjZWVlNWU5MmQwNDI1MGFjYmVlMDgzMjIzMmZmZjc2`

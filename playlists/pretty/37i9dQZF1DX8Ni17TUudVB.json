@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 136265,
+  "num_followers": 136290,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZThlZDEwNGRhYjZmODI3MGM0NzVmMDEyYWIzOTAyN2EzM2I4NWEy",
+  "snapshot_id": "MCw5YTQ2YTQxMDBiMjdlNjQ2OTE1ZDkyZjBjYmY3MTM2MjEyYmUxMTk0",
   "tracks": [
     {
       "added_at": "2023-05-12 14:19:18",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
         }
       ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
+      "duration_ms": 196044,
+      "name": "Like Wooh Wooh",
+      "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
     },
     {
       "added_at": "2023-05-12 14:19:18",
@@ -559,18 +555,22 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
-        "name": "Like Wooh Wooh",
-        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
       },
       "artists": [
         {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 196044,
-      "name": "Like Wooh Wooh",
-      "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
     },
     {
       "added_at": "2023-05-12 14:19:18",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 169910,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
+    },
+    {
+      "added_at": "2023-05-12 14:19:18",
+      "album": {
         "name": "SICKO MODE (Skrillex Remix)",
         "url": "https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 224200,
       "name": "The Sound Of San Francisco - Progressive Album Mix",
       "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
-    },
-    {
-      "added_at": "2023-05-12 14:19:18",
-      "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 169910,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
     },
     {
       "added_at": "2023-05-12 14:19:18",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
-        "name": "Physical (Alok Remix)",
-        "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Physical - Alok Remix",
-      "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
-    },
-    {
-      "added_at": "2023-05-12 14:19:18",
-      "album": {
         "name": "Creep (mint Singles)",
         "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
+    },
+    {
+      "added_at": "2023-05-12 14:19:18",
+      "album": {
+        "name": "Physical (Alok Remix)",
+        "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Physical - Alok Remix",
+      "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
     },
     {
       "added_at": "2023-05-12 14:19:18",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
-        "name": "Exotica (Deluxe)",
-        "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 185564,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
-    },
-    {
-      "added_at": "2023-05-12 14:19:18",
-      "album": {
         "name": "Take Me (feat. Gloria Kim)",
         "url": "https://open.spotify.com/album/2iKMMT8wYcCKuXjftgtlGn"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 240000,
       "name": "Take Me (feat. Gloria Kim)",
       "url": "https://open.spotify.com/track/4G4CdyOtmmRXJUpV6l2Q8b"
+    },
+    {
+      "added_at": "2023-05-12 14:19:18",
+      "album": {
+        "name": "Exotica (Deluxe)",
+        "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 185564,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
     },
     {
       "added_at": "2023-05-12 14:19:18",
@@ -1351,34 +1351,6 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
-        "name": "Drop It (feat. LUISAH)",
-        "url": "https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
-        },
-        {
-          "name": "LUISAH",
-          "url": "https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG"
-        }
-      ],
-      "duration_ms": 125760,
-      "name": "Drop It (feat. LUISAH)",
-      "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
-    },
-    {
-      "added_at": "2023-05-12 14:19:18",
-      "album": {
         "name": "Do It!",
         "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
       },
@@ -1403,6 +1375,34 @@
       "duration_ms": 157444,
       "name": "Do It! - Dimitri Vegas Radio Edit",
       "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
+    },
+    {
+      "added_at": "2023-05-12 14:19:18",
+      "album": {
+        "name": "Drop It (feat. LUISAH)",
+        "url": "https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        },
+        {
+          "name": "LUISAH",
+          "url": "https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG"
+        }
+      ],
+      "duration_ms": 125760,
+      "name": "Drop It (feat. LUISAH)",
+      "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
     },
     {
       "added_at": "2023-05-12 14:19:18",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-05-12 14:19:18",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8"
-      },
-      "artists": [
-        {
-          "name": "RICCI",
-          "url": "https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G"
-    },
-    {
-      "added_at": "2023-05-12 14:19:18",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 173215,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs"
+    },
+    {
+      "added_at": "2023-05-12 14:19:18",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8"
+      },
+      "artists": [
+        {
+          "name": "RICCI",
+          "url": "https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/77HuzKr2vvl0cJsW3gED3G"
     },
     {
       "added_at": "2023-05-12 14:19:18",

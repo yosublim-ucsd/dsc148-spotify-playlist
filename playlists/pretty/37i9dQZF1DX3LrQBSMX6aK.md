@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 
 > Classical compositions from Ravi Shankar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,103 likes - 50 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,152 likes - 50 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 | 27 | [Raga Bhimpalasi \- Live](https://open.spotify.com/track/2NAJP1wqoaxbSJLiv2X8tL) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 27:17 |
 | 28 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
 | 29 | [Om Namah Shivay](https://open.spotify.com/track/2S2Z0ll0OMa16uBT5UDvIa) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0), [Sanjeev Abhyankar](https://open.spotify.com/artist/70napPWBnaiRereRVDhyB1) | [Spiritual Legacy](https://open.spotify.com/album/1k4ohi81faehwtDi0lYfFp) | 8:36 |
-| 30 | [Raga Shyam Kalyan \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/3XrktIs9yT571rKQYs7DJg) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6) | 26:00 |
+| 30 | [Raga Shyam Kalyan \(Feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/3PU0yoxLdbZFmvTFnEyFy5) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/00pIdWlZU4yzutxo4CPU10) | 26:00 |
 | 31 | [Darbari Kanara Jod and Jhalla](https://open.spotify.com/track/7kXIHzGUKI7pwOUadVeNvt) | [Sayan Ghosh](https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6), [Tamaghna Chakraborty](https://open.spotify.com/artist/55xb23Tep4vdgQeVqFKCVw) | [Raag Darbari Kannada](https://open.spotify.com/album/6xFMAWesokFJbF1iwmASBb) | 7:11 |
 | 32 | [Romance \- Jayant Malhaar in Teentaal](https://open.spotify.com/track/3ON2mBMQpsGiPjaDkVRx9O) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT), [Mita Nag](https://open.spotify.com/artist/19K7sawt1hIsF6EafVW4as) | [Passion](https://open.spotify.com/album/2jHrpUu5dwfzHHuxFvPM03) | 11:15 |
 | 33 | [Raga Shuddh Kalyan](https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT) | [Kaushiki Chakrabarty, Yogesh Samsi, Brajeshwar Mukherjee, Yogesh Dutt](https://open.spotify.com/artist/0MmJO9ML6eMRRUUWsJf5oQ) | [Swar Sadhna](https://open.spotify.com/album/303Pkb83Anu8cMovTksOen) | 35:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 | 49 | [Raga Bibhasi: He Shyam, Shyami](https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 24:46 |
 | 50 | [Rag Bhairavi](https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 11:54 |
 
-Snapshot ID: `MCwxOTNhZGUzOWExMGMwNjAxYmZhNDJkYWQwYTJiNjc1YzJiMGM3ZmY1`
+Snapshot ID: `MCw3MzhhYzU0M2Y4NWJkMzY2MDM0MzE5Yjc1NzA0MDAwNGUyODhiZTE5`

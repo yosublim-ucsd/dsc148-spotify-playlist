@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,206 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,286 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [self aware](https://open.spotify.com/track/4JVmgRpBTAfuvrVWQD94HY) | [memorydrip](https://open.spotify.com/artist/1TcKeJsMqedlyp4nmTmx97) | [self aware](https://open.spotify.com/album/4vs17O1zdQsMeJWETgvgTN) | 3:19 |
 | 60 | [Micro Aggression](https://open.spotify.com/track/0AoVDlD4Da25HVGUpM0liK) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Micro Aggression](https://open.spotify.com/album/22keIGmNhJW6JnSN0beV4z) | 2:37 |
 
-Snapshot ID: `MCwyNTNiOTljYmRjNDMwNThkMzFiYjRlMzY4NDE5NWM3MTJhZGY0Yzlk`
+Snapshot ID: `MCwzZTRmMTYyZjNhODMxOWJhZWE2ZDYyYjllYzk0MGYxOWI4MzFiMjcy`

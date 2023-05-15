@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-425 songs - 1 day 0 hr 13 min
+426 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [DE ESTE LADO DE LA FOTO](https://open.spotify.com/track/35qpbFU4HXSoERLSM25End) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [DE ESTE LADO DE LA FOTO](https://open.spotify.com/album/27tu8mkYCoWvqgGvbECS1O) | 2:50 | 2022-01-07 | 2023-03-03 |
 | [De Nosotros Dos](https://open.spotify.com/track/6nQZ19Gq07AXDVUhfWANQP) | [SERIES](https://open.spotify.com/artist/6ciXwaMXMICBWN8q0R6i6M), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [S1\-E1](https://open.spotify.com/album/5f6pI2xD8r93ZRuhjHvJGB) | 3:07 | 2022-06-03 | 2022-07-20 |
 | [De vos conmigo](https://open.spotify.com/track/3aptZjldNbLCoheBo33YOa) | [Coiffeur](https://open.spotify.com/artist/6uO4hHITsBB37tBsogIB7K) | [Primer corte](https://open.spotify.com/album/6P49QmRp2rqT1o8fL4hNew) | 2:08 | 2022-04-01 | 2022-07-28 |
-| [Debajo de la Superficie](https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 4:37 | 2023-04-14 |  |
+| [Debajo de la Superficie](https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 4:37 | 2023-04-14 | 2023-05-15 |
 | [Debajo de la Superficie](https://open.spotify.com/track/4xs3x5ZAYHHFyxe9PcgeMl) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Debajo de la Superficie](https://open.spotify.com/album/2KsAVCC3dduno7Nf96PEGj) | 4:38 | 2022-01-28 | 2022-07-19 |
 | [Decis Que No](https://open.spotify.com/track/6gS0H9il78eIK2XgpscZgm) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Decis Que No](https://open.spotify.com/album/2TNSW6V3rsuKEf9S0PQACC) | 3:26 | 2022-01-28 | 2022-07-20 |
 | [Decírtelo](https://open.spotify.com/track/3nz82lKGvfe78GjkQmDMl1) | [Facundo Grandío](https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK) | [Decírtelo](https://open.spotify.com/album/4il91GPpN9QclFP0jWJdCw) | 3:12 | 2022-01-28 | 2022-07-25 |
@@ -282,6 +282,7 @@
 | [Nuestra Canción \(feat\. Vicente García\)](https://open.spotify.com/track/4LeFqJu2fxnJdx0QFZ0jkc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Nuestra Canción \(feat\. Vicente García\)](https://open.spotify.com/album/1OZR2tmOPp9fwaIeO3MHmj) | 4:20 | 2022-10-28 | 2022-11-13 |
 | [Nuestra Canción \(feat\. Vicente García\)](https://open.spotify.com/track/5sXk6DrIULH99SMmXxI7YZ) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja De Música \(Edición Especial\)](https://open.spotify.com/album/0c3JGBp60aExJSYIQ0Hbej) | 4:20 | 2022-01-07 | 2022-07-25 |
 | [Obrador](https://open.spotify.com/track/7G5FlmUe9w4y9dToGFnpmQ) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Gigaaaante](https://open.spotify.com/album/0roPQkz7OJqTTB2dRw85e8) | 3:33 | 2022-01-28 | 2022-04-18 |
+| [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 | 2023-05-12 |  |
 | [Ojitos de Md](https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Ojitos de Md](https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv) | 2:17 | 2022-01-07 |  |
 | [Ojos de Planeta](https://open.spotify.com/track/7ehX81xpki8FXQBO94KCF0) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY), [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Ojos de Planeta](https://open.spotify.com/album/48g89qmq4trgf6qkn8x5gH) | 3:15 | 2022-01-07 | 2022-06-30 |
 | [Oleaje](https://open.spotify.com/track/10g8v7bbjoJbNahafh62ov) | [Juan Irio](https://open.spotify.com/artist/4CCMaEemKn2lshMOMyEhgl), [Baro](https://open.spotify.com/artist/0K4EoOGCA4sx0KB7IBbayc) | [Fábula](https://open.spotify.com/album/4aNjhHZ2FLKV56Q4k5vEym) | 2:56 | 2022-04-01 | 2022-04-21 |

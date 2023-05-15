@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Franco Rey en portada.
 
-299 songs - 15 hr 34 min
+300 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Gordo Pesado](https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Gordo Pesado](https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF) | 3:34 | 2022-10-07 | 2022-12-24 |
 | [Guerra Sin Cuartel](https://open.spotify.com/track/1gcmEv26KMm3zzJIBFq2XQ) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Guerra Sin Cuartel](https://open.spotify.com/album/7tGjK4C7DkQwmViEtev57v) | 2:48 | 2022-07-08 | 2022-10-15 |
 | [Hace Frío Aquí en la Cima](https://open.spotify.com/track/538jDVyGwrsKBWV4TjIgcL) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Hace Frío Aquí en la Cima](https://open.spotify.com/album/1RpdlGnhty9ymIv72o0EGw) | 2:57 | 2023-02-24 | 2023-05-06 |
+| [Hija de mi Madre](https://open.spotify.com/track/4uUVhe9PSPqL6gWPnJzBjB) | [Gladys Ruiz](https://open.spotify.com/artist/02p1rp0F8VAwiGbd941PdO) | [Hija de mi Madre](https://open.spotify.com/album/0ZEdugqFtQeYFrN95229VO) | 2:27 | 2023-05-05 |  |
 | [Hombre Normal](https://open.spotify.com/track/2ZrDe83QNYiddNxvsjzKyC) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Hombre Normal](https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04) | 4:14 | 2023-01-13 |  |
 | [Hoodboys](https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f) | [Los De Guamuchil](https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE) | [Hoodboys](https://open.spotify.com/album/1pR6LSB6PFavDG6BIjsKxn) | 3:10 | 2022-12-09 | 2022-12-24 |
 | [Humo](https://open.spotify.com/track/5PnXwGXWNHK0jJhKpeyg88) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Humo](https://open.spotify.com/album/6U3xMwALsK9e4B8OFgVW92) | 3:24 | 2022-08-05 | 2022-12-10 |
@@ -194,7 +195,7 @@
 | [Mis Travesuras](https://open.spotify.com/track/19gfnvZCia2fknfk9utMgB) | [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Pasajes Negros](https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A) | 2:20 | 2022-05-13 | 2022-10-08 |
 | [Modo Avión](https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Modo Avión](https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1) | 3:31 | 2022-12-09 | 2022-12-24 |
 | [Muy Criticado](https://open.spotify.com/track/0fVPo3kDYTcH4LNVgjK5K9) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Pinch3 Polo](https://open.spotify.com/album/1wiIT4mP1CKDmcP0AWCeOR) | 2:47 | 2022-08-05 | 2022-10-08 |
-| [Nada Contigo](https://open.spotify.com/track/2GH7nxSCfsR6vAtzID3S89) | [Los de la GS](https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW) | [Nada Contigo](https://open.spotify.com/album/2eCgfwIDUkkfDC70C4EHkM) | 2:59 | 2022-12-23 |  |
+| [Nada Contigo](https://open.spotify.com/track/2GH7nxSCfsR6vAtzID3S89) | [Los de la GS](https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW) | [Nada Contigo](https://open.spotify.com/album/2eCgfwIDUkkfDC70C4EHkM) | 2:59 | 2022-12-23 | 2023-05-15 |
 | [Nada Sigue Igual](https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Nada Sigue Igual](https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI) | 3:28 | 2023-04-14 |  |
 | [Negro Como La Pantera](https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Negro Como La Pantera](https://open.spotify.com/album/1V2a8dVFLfV4lju73nnIXr) | 2:09 | 2023-02-24 | 2023-05-06 |
 | [No Hay Pedo Hay Peda](https://open.spotify.com/track/76ZtbyTDsdwMkIjvz1Z2sX) | [El Enfermo](https://open.spotify.com/artist/3derxbyWBTqAU8H8DPzn0q), [El Ezequiel](https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw) | [No Hay Pedo Hay Peda](https://open.spotify.com/album/1LCAjw1LW3nWqJmgPR8JqT) | 4:00 | 2022-12-09 | 2023-01-17 |

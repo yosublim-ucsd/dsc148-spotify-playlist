@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > Disco, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,714 likes - 70 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,769 likes - 70 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 69 | [LoMhlaba \- Original Mix](https://open.spotify.com/track/2dbHZpfVKLsd0YqNEWtUbG) | [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [LoMhlaba EP](https://open.spotify.com/album/2Pkf27kgfSNPs71Jy4iWRp) | 7:52 |
 | 70 | [Lela And Mari](https://open.spotify.com/track/35G6DJGmimKwIVhr6xeCLb) | [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9) | [Travel Stories](https://open.spotify.com/album/0Kb6SRz55D3nyaXwM0ugzU) | 6:12 |
 
-Snapshot ID: `MCw4MjBlY2E0ZjBmYThlOWYxNWQ0MmFhMjFlY2ViODdiMWNhNzUyMDY4`
+Snapshot ID: `MCw4NzUwOTgxYzA4NzNiNDQyZjdiZWRhYWQ4YjQwNWM0ZjAwMDQwM2Q4`

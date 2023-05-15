@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. Cover: The Linda Lindas",
-  "num_followers": 45716,
+  "num_followers": 45717,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjEwZTBjN2UwOTBiOTNmZDkwYzFkODcxYmRjYjFmZmE5MTVmY2Y1",
+  "snapshot_id": "MCxlOGI2YWRhZjhjNmMzZWM3YmFjOTU0YWVlMjE5ODc1ZGNiYTg4Y2E2",
   "tracks": [
     {
       "added_at": "2022-11-09 11:58:09",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Deadbeat Holiday",
-      "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Out-Of-State Plates",
         "url": "https://open.spotify.com/album/4i7krZXSr5yexVR7lWuclC"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 139306,
       "name": "I Want An Alien For Christmas",
       "url": "https://open.spotify.com/track/33O5sjotRAcT8nwOeYXXEm"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Deadbeat Holiday",
+      "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -235,6 +235,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
+        "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Is This Christmas? - Radio Edit",
+      "url": "https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Gift Wrapped: 20 Songs That Keep On Giving",
         "url": "https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 199253,
       "name": "Merry Christmas, Kiss My Ass",
       "url": "https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
-        "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Is This Christmas? - Radio Edit",
-      "url": "https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 99573,
-      "name": "God Rest Ye Merry Gentlemen",
-      "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
+      "duration_ms": 127733,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 127733,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
+      "duration_ms": 99573,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -779,18 +779,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "New Found Glory - 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/485PPCvKNtmAJBfzpyw3wk"
+        "name": "Christmas Spirit...In My House",
+        "url": "https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv"
       },
       "artists": [
         {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
         }
       ],
-      "duration_ms": 217426,
-      "name": "Ex-Miss",
-      "url": "https://open.spotify.com/track/0GematrDvLx1cEh5tTZY4Y"
+      "duration_ms": 206000,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -811,34 +811,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Spirit...In My House",
-        "url": "https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv"
+        "name": "New Found Glory - 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/485PPCvKNtmAJBfzpyw3wk"
       },
       "artists": [
         {
-          "name": "Joey Ramone",
-          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Horror Xmas",
-        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 102483,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g"
+      "duration_ms": 217426,
+      "name": "Ex-Miss",
+      "url": "https://open.spotify.com/track/0GematrDvLx1cEh5tTZY4Y"
     },
     {
       "added_at": "2022-12-01 23:00:47",
@@ -855,6 +839,22 @@
       "duration_ms": 185973,
       "name": "Lieder und Lametta",
       "url": "https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Horror Xmas",
+        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 102483,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -887,22 +887,6 @@
       "duration_ms": 124653,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Nothing For Christmas",
-      "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -959,22 +943,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Rock",
-        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 188031,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Stoke Extinguisher",
         "url": "https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7"
       },
@@ -987,6 +955,38 @@
       "duration_ms": 139133,
       "name": "New Year's Revolution",
       "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Nothing For Christmas",
+      "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 188031,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
-      },
-      "artists": [
-        {
-          "name": "Issues",
-          "url": "https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "Merry Christmas, Happy Holidays",
-      "url": "https://open.spotify.com/track/64q83lEZPlPy88UMvdbiTB"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Somewhere in My Memory",
         "url": "https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 149173,
       "name": "Somewhere in My Memory",
       "url": "https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
+          "name": "Issues",
+          "url": "https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "Merry Christmas, Happy Holidays",
+      "url": "https://open.spotify.com/track/64q83lEZPlPy88UMvdbiTB"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas With Weezer",
-        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 92706,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Merry MeX-mas",
         "url": "https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 137346,
       "name": "This Time of Year",
       "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas With Weezer",
+        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 92706,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03"
     },
     {
       "added_at": "2021-11-19 13:39:50",

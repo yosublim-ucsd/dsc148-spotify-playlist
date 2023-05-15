@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qWKq40bBCs.md) - [plain]
 
 > The premios official playlist\. ¿Quién crees que ganará?
 
-[Spotify](https://open.spotify.com/user/spotify) - 194 likes - 95 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 199 likes - 95 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qWKq40bBCs.md) - [plain]
 | 69 | [OJOS FERRARI](https://open.spotify.com/track/2PRmf1sl1EV0zceL9dbvxE) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [OJOS FERRARI](https://open.spotify.com/album/5TpBcMBm8v1UkSeONfsMeT) | 3:00 |
 | 70 | [LENTITO](https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [LENTITO](https://open.spotify.com/album/4wIh0endOPhEFLXLVYQCR3) | 3:23 |
 | 71 | [De Pari](https://open.spotify.com/track/2oYbmygoO3gzLychByw297) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [De Pari](https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj) | 2:54 |
-| 72 | [Diamantes en Mis Dientes](https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Diamantes En Mis Dientes](https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT) | 5:44 |
-| 73 | [Lotería](https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Lotería](https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4) | 4:10 |
+| 72 | [Lotería](https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Lotería](https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4) | 4:10 |
+| 73 | [Diamantes en Mis Dientes](https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Diamantes En Mis Dientes](https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT) | 5:44 |
 | 74 | [Bájala](https://open.spotify.com/track/2DbQbh449mcSNT0wPGQa9Y) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:18 |
 | 75 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 |
 | 76 | [MARTINI](https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MARTINI](https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5) | 3:05 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qWKq40bBCs.md) - [plain]
 | 78 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 |
 | 79 | [A Ciegas RMX](https://open.spotify.com/track/3Qc9hOL8SBjQZEvdtRMeXn) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 4:30 |
 | 80 | [Drippin](https://open.spotify.com/track/55eYLp69sTaodwWSiVNReX) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Drippin](https://open.spotify.com/album/1EaPsewczYbCSvogGhDXlX) | 3:02 |
-| 81 | [Fili](https://open.spotify.com/track/0BQFzRaZWxXNKnaz1hKVyT) | [Catalyna](https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz) | [Fili](https://open.spotify.com/album/7lF2P3NjOTmCcWlGOK6w3z) | 3:16 |
-| 82 | [AUTOMÁTICO](https://open.spotify.com/track/1K1JosFYBCtBUmdRLhFWqr) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:55 |
+| 81 | [AUTOMÁTICO](https://open.spotify.com/track/1K1JosFYBCtBUmdRLhFWqr) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:55 |
+| 82 | [Fili](https://open.spotify.com/track/0BQFzRaZWxXNKnaz1hKVyT) | [Catalyna](https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz) | [Fili](https://open.spotify.com/album/7lF2P3NjOTmCcWlGOK6w3z) | 3:16 |
 | 83 | [Tuyo \- Remix](https://open.spotify.com/track/5qSX9n1khCEJY3QQHfob9Z) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Tuyo \(Remix\)](https://open.spotify.com/album/3GVhKm1yGltRwaOflbaRl3) | 4:04 |
 | 84 | [Anoche](https://open.spotify.com/track/73KMCXbjASgPjAuaHCQoxb) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Anoche](https://open.spotify.com/album/0vaKbOlIWwwQvczXvVROoW) | 2:40 |
 | 85 | [Tu Manto \- Remix](https://open.spotify.com/track/0BEDr7n9SCehDvhJnQPYok) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Tu Manto \(Remix\)](https://open.spotify.com/album/4eKpL9SKZ8fqWIOYq6B4o9) | 3:44 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qWKq40bBCs.md) - [plain]
 | 94 | [Obvio](https://open.spotify.com/track/6uzFCFLkAw2liJlaW6SSdI) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [Obvio](https://open.spotify.com/album/4JWCU9l3VqFMwi08IfjMjB) | 3:34 |
 | 95 | [Bellaco](https://open.spotify.com/track/3V4bH1HI6hGaRJTi7n89ec) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [YOMO](https://open.spotify.com/artist/6FpnTDIH9SzQVwFhobtg61) | [Barrio Canino \(Pt\. 2\)](https://open.spotify.com/album/6IqXc4ruBr8T27kbJ3hBBv) | 3:13 |
 
-Snapshot ID: `MCxhNGNmZWNkYzZjY2QxMDI2YzZmZTBjZDk4OTUyZTVlNjk0MzBmMzVh`
+Snapshot ID: `MCxiZjc2M2UyMWIwZDA5ZGVhMDE2NjYwMzZlZTgzNzYzMjY2NTA3M2I4`

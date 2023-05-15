@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 56507,
+  "num_followers": 56519,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjcwMjk4ZmI5MzlhMDk0MTExNmRiY2VhY2E2NTBkZTQ4ZGYxZjZm",
+  "snapshot_id": "MCxmNTViNTQzNGMxN2M2ZjY2ZTM0MGYwMzEwY2Q3M2EzY2ZhNGZjYjA4",
   "tracks": [
     {
       "added_at": "2023-05-08 03:57:20",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Fading Love",
-        "url": "https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq"
-      },
-      "artists": [
-        {
-          "name": "Burt Mitchell",
-          "url": "https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0"
-        }
-      ],
-      "duration_ms": 280750,
-      "name": "Fading Love",
-      "url": "https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr"
-    },
-    {
-      "added_at": "2023-05-08 03:57:20",
-      "album": {
         "name": "Slow Love",
         "url": "https://open.spotify.com/album/79KUKKwWpL2UZ7HmAMiZIE"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 231933,
       "name": "Moody Caf\u00e9",
       "url": "https://open.spotify.com/track/6uCvwPPCSBVS95TmcB9cTj"
+    },
+    {
+      "added_at": "2023-05-08 03:57:20",
+      "album": {
+        "name": "Fading Love",
+        "url": "https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq"
+      },
+      "artists": [
+        {
+          "name": "Burt Mitchell",
+          "url": "https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0"
+        }
+      ],
+      "duration_ms": 280750,
+      "name": "Fading Love",
+      "url": "https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "The Complete Argo Mercury Sessions",
-        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
+        "name": "Another Standard",
+        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
       },
       "artists": [
         {
-          "name": "Art Farmer & Benny Golson Jazztet",
-          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
+          "name": "Bob Berg",
+          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
         }
       ],
-      "duration_ms": 192893,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA"
+      "duration_ms": 335333,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Another Standard",
-        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
+        "name": "The Complete Argo Mercury Sessions",
+        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
       },
       "artists": [
         {
-          "name": "Bob Berg",
-          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
+          "name": "Art Farmer & Benny Golson Jazztet",
+          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
         }
       ],
-      "duration_ms": 335333,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
+      "duration_ms": 192893,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -1163,6 +1163,22 @@
       "duration_ms": 322133,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
+    },
+    {
+      "added_at": "2023-05-08 03:57:20",
+      "album": {
+        "name": "In A Sentimental Mood",
+        "url": "https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y"
+      },
+      "artists": [
+        {
+          "name": "Serenity State of Mind",
+          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
+        }
+      ],
+      "duration_ms": 162250,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -1187,22 +1203,6 @@
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
-    },
-    {
-      "added_at": "2023-05-08 03:57:20",
-      "album": {
-        "name": "In A Sentimental Mood",
-        "url": "https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y"
-      },
-      "artists": [
-        {
-          "name": "Serenity State of Mind",
-          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
-        }
-      ],
-      "duration_ms": 162250,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5"
+      },
+      "artists": [
+        {
+          "name": "Paul Bley Trio",
+          "url": "https://open.spotify.com/artist/17Z0yELE3Ovk5iqMx1pZXT"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "Ida Lupino",
+      "url": "https://open.spotify.com/track/3r1HC492GiqxQQHrIVSFJK"
+    },
+    {
+      "added_at": "2023-05-08 03:57:20",
+      "album": {
         "name": "The Original Quartet With Chet Baker",
         "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 195160,
       "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
-    },
-    {
-      "added_at": "2023-05-08 03:57:20",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Greensleeves",
-      "url": "https://open.spotify.com/track/4gC95tJcg0TWAz3LJ2dZpN"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -1323,34 +1323,34 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
       },
       "artists": [
         {
-          "name": "Paul Bley Trio",
-          "url": "https://open.spotify.com/artist/17Z0yELE3Ovk5iqMx1pZXT"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 177920,
-      "name": "Ida Lupino",
-      "url": "https://open.spotify.com/track/3r1HC492GiqxQQHrIVSFJK"
+      "duration_ms": 194000,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/4gC95tJcg0TWAz3LJ2dZpN"
     },
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Everytime around",
-        "url": "https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ"
+        "name": "This Is Jazz #14",
+        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
       },
       "artists": [
         {
-          "name": "Vernon Sanders",
-          "url": "https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 325562,
-      "name": "Everytime around",
-      "url": "https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw"
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

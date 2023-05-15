@@ -4,7 +4,7 @@
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-141 songs - 8 hr 34 min
+142 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,8 +90,9 @@
 | [Grateful](https://open.spotify.com/track/0gSaVbrG4PIrmvyL5EurFE) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Sleep](https://open.spotify.com/album/1tDaiSq1p9ZLrlnT4QGkIg) | 3:15 | 2020-12-03 | 2022-07-29 |
 | [Grateful](https://open.spotify.com/track/6XjjJdyY0zS25nsqzXeMAl) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Sleep](https://open.spotify.com/album/7IU1PzMDcGwzix55L8FUH5) | 3:15 | 2020-12-03 |  |
 | [Heavy Heat](https://open.spotify.com/track/0EoOfrsL0YyA0DIbkBlk0M) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:43 | 2020-12-03 | 2022-07-29 |
-| [Heavy Heat](https://open.spotify.com/track/2HV3hX5FCRl4iyNf2Sj3Fe) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Bangs & Works Vol\. 2 \(The Best of Chicago Footwork\)](https://open.spotify.com/album/1j7imfgVHx5wHwNlJHSOGj) | 3:43 | 2020-12-03 |  |
+| [Heavy Heat](https://open.spotify.com/track/2HV3hX5FCRl4iyNf2Sj3Fe) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Bangs & Works Vol\. 2 \(The Best of Chicago Footwork\)](https://open.spotify.com/album/1j7imfgVHx5wHwNlJHSOGj) | 3:43 | 2020-12-03 | 2023-05-15 |
 | [Heavy Heat](https://open.spotify.com/track/4p3l7p4RyB2NTWpabVRrCX) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Bangs & Works Vol\. 2 \(The Best of Chicago Footwork\)](https://open.spotify.com/album/7zDff5WuBv3yetVZ4Iul9L) | 3:43 | 2020-12-03 | 2023-04-30 |
+| [Heavy Heat](https://open.spotify.com/track/4ITPhaaomWd5YNBuZtvKyp) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Legacy Volume 2](https://open.spotify.com/album/0hQOZl8Ltlj9PlIOS8Ohxa) | 3:45 | 2020-12-03 |  |
 | [Hip Thruster](https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Nowadays Pressure](https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD) | 3:48 | 2020-12-03 |  |
 | [HNADFUL OF SAND](https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP) | [x.nte](https://open.spotify.com/artist/3dwRwPEStsaBVjdZp9PllA), [Elevation](https://open.spotify.com/artist/61zHgRKaKFtSxh8kNGIICY), [Empress Lex](https://open.spotify.com/artist/7q7s8rwydoB8ZmcTut10Bm), [NO EYES](https://open.spotify.com/artist/17kvA3T2g0xqLYb67vuCEm) | [HNADFUL OF SAND](https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV) | 2:30 | 2020-12-11 |  |
 | [ICE CREAM](https://open.spotify.com/track/5Bs3ufnc5SfXGPYQdeLrGx) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:14 | 2020-12-03 |  |

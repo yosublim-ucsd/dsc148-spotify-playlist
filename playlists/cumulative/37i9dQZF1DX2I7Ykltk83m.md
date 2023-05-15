@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Indigo De Souza
 
-347 songs - 21 hr 2 min
+348 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [In My Head](https://open.spotify.com/track/2vBARrL4ezTllHBQ9eFHf1) | [Our Girl](https://open.spotify.com/artist/09Lrr4vGyWxxsuo3lrZW7f) | [Stranger Today](https://open.spotify.com/album/0UHdDn5V0W3s5KRf0FPmcr) | 3:48 | 2023-01-27 |  |
 | [Interstate Vision](https://open.spotify.com/track/333ynS8xzTSbeRxxodU33d) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/5ftfK29sHT2Tx7Wc3NMbqR) | 2:42 | 2021-11-14 | 2022-07-28 |
 | [Interstate Vision](https://open.spotify.com/track/348FPMPFwLA7ucpCqNXyPl) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/2ayYjy02kHqMSMKHXOLRGp) | 2:42 | 2022-05-20 | 2023-04-30 |
-| [It Hurts Until It Doesn't](https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 5:33 | 2023-01-27 |  |
+| [Interstate Vision](https://open.spotify.com/track/4LGCqrllsDT8SI8xmmE6OL) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/15nul3qLPn2FopI5zjdEg7) | 2:42 | 2023-04-28 |  |
+| [It Hurts Until It Doesn't](https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 5:33 | 2023-01-27 | 2023-05-15 |
 | [It Just Goes On](https://open.spotify.com/track/0KyGaxIJv099i3GMlrx8my) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:33 | 2022-10-07 | 2023-01-28 |
 | [It Just Goes On](https://open.spotify.com/track/2sQTFWciCwG4CgNql5aiKj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [It Just Goes On](https://open.spotify.com/album/5aXWY1KsCF76okXvdps06y) | 3:33 | 2022-04-01 | 2022-07-29 |
 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I \(motsi\)](https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G) | 3:17 | 2021-11-14 |  |

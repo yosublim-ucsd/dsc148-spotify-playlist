@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 70254,
+  "num_followers": 70315,
   "original_name": "Soulful House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTBiOTM1MzEzOTQyNjY1NDU5NGMzMjhhNTQwMWYxZDE1MzJiNjhk",
+  "snapshot_id": "MCxlYWNkZDExYmJkNWQ2MjkyYzA4MjY0N2JjYTk0MTU4NGQwNWFlZjUy",
   "tracks": [
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "At the Club",
+        "url": "https://open.spotify.com/album/0g6MukWd7tGaELufBpokoy"
+      },
+      "artists": [
+        {
+          "name": "Timmy Regisford",
+          "url": "https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "At the Club",
+      "url": "https://open.spotify.com/track/6cBAUOASCcklnDYqSyMqBp"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Meridian 2016",
         "url": "https://open.spotify.com/album/7IevppU9STA3qUXHvkbKK9"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 424226,
       "name": "What's Your Number - Jazzanova Re-Number",
       "url": "https://open.spotify.com/track/45q5jidHHt7JkO9p9D2SER"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "At the Club",
-        "url": "https://open.spotify.com/album/0g6MukWd7tGaELufBpokoy"
-      },
-      "artists": [
-        {
-          "name": "Timmy Regisford",
-          "url": "https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "At the Club",
-      "url": "https://open.spotify.com/track/6cBAUOASCcklnDYqSyMqBp"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "WELCOME HOME",
+        "url": "https://open.spotify.com/album/2fBXchCWGXcGViKCTRG3Bi"
+      },
+      "artists": [
+        {
+          "name": "Mr V",
+          "url": "https://open.spotify.com/artist/42gpwkOlK8m00RBmB54sQD"
+        }
+      ],
+      "duration_ms": 415680,
+      "name": "Jus Dance",
+      "url": "https://open.spotify.com/track/3bNf9uutsm3cbPs2LnrlVW"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 606093,
       "name": "See-Line Woman - Masters At Work Remix",
       "url": "https://open.spotify.com/track/3KFAVj40D08nGlO0foM86p"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "WELCOME HOME",
-        "url": "https://open.spotify.com/album/2fBXchCWGXcGViKCTRG3Bi"
-      },
-      "artists": [
-        {
-          "name": "Mr V",
-          "url": "https://open.spotify.com/artist/42gpwkOlK8m00RBmB54sQD"
-        }
-      ],
-      "duration_ms": 415680,
-      "name": "Jus Dance",
-      "url": "https://open.spotify.com/track/3bNf9uutsm3cbPs2LnrlVW"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Soul Fever",
-        "url": "https://open.spotify.com/album/6UFogsgPTmVZNueGL4pYVe"
-      },
-      "artists": [
-        {
-          "name": "Simbad ft. Steelo",
-          "url": "https://open.spotify.com/artist/7EemSjl9XAGrw9DTTMvi1J"
-        }
-      ],
-      "duration_ms": 426600,
-      "name": "Soul Fever (remix)",
-      "url": "https://open.spotify.com/track/56PrfjUISk1w1oORAxzRPZ"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Future Retro",
         "url": "https://open.spotify.com/album/1wki4wfFifXgxNMZisngOv"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 266273,
       "name": "Bring Me Joy",
       "url": "https://open.spotify.com/track/6Divhr8qzx944oINsXthUM"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Soul Fever",
+        "url": "https://open.spotify.com/album/6UFogsgPTmVZNueGL4pYVe"
+      },
+      "artists": [
+        {
+          "name": "Simbad ft. Steelo",
+          "url": "https://open.spotify.com/artist/7EemSjl9XAGrw9DTTMvi1J"
+        }
+      ],
+      "duration_ms": 426600,
+      "name": "Soul Fever (remix)",
+      "url": "https://open.spotify.com/track/56PrfjUISk1w1oORAxzRPZ"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1407,58 +1407,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Word, Sound & Power",
-        "url": "https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
-        }
-      ],
-      "duration_ms": 641584,
-      "name": "Morning Factory",
-      "url": "https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Defined",
-        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
-      },
-      "artists": [
-        {
-          "name": "Kenny Bobien",
-          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
-        }
-      ],
-      "duration_ms": 342893,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Lost & Found EP Vol. 1",
-        "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 440854,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Free Pt. I",
         "url": "https://open.spotify.com/album/5mWpWGOgxSZ1obP7ZrXi5h"
       },
@@ -1495,6 +1443,38 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Defined",
+        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
+      },
+      "artists": [
+        {
+          "name": "Kenny Bobien",
+          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
+        }
+      ],
+      "duration_ms": 342893,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Lost & Found EP Vol. 1",
+        "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 440854,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Love It",
         "url": "https://open.spotify.com/album/0KneyKV5tME1HoDFtEMUDS"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 554268,
       "name": "Love It - Phil Asher's Restless Soul Vocal Mix",
       "url": "https://open.spotify.com/track/108xPfHyjfwRv4ZJrDJdHL"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Word, Sound & Power",
+        "url": "https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        }
+      ],
+      "duration_ms": 641584,
+      "name": "Morning Factory",
+      "url": "https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Momma's Groove",
+        "url": "https://open.spotify.com/album/7bUrgjRgOLDrNVOmrbOTSI"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 384012,
+      "name": "Momma's Groove",
+      "url": "https://open.spotify.com/track/7eMprrLOCDuig4qPmZScNO"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Think Twice (Remixes)",
         "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 578013,
       "name": "Think Twice - Mark E Remix",
       "url": "https://open.spotify.com/track/5FqKVL72KUO2vKM6nxcQYd"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Momma's Groove",
-        "url": "https://open.spotify.com/album/7bUrgjRgOLDrNVOmrbOTSI"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 384012,
-      "name": "Momma's Groove",
-      "url": "https://open.spotify.com/track/7eMprrLOCDuig4qPmZScNO"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "The Afro Club Night",
-        "url": "https://open.spotify.com/album/0BT0H5aadr5TFW8pl4yY4K"
-      },
-      "artists": [
-        {
-          "name": "Men From The Nile",
-          "url": "https://open.spotify.com/artist/40dtUsUbqQfyoQ6Ec5XpYO"
-        }
-      ],
-      "duration_ms": 335506,
-      "name": "Watch Them Come (Men from the Nile aka Roy Davis Jr.)",
-      "url": "https://open.spotify.com/track/6SNja7FTHw7sazeyKqdk28"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Timeless Vol. 4",
         "url": "https://open.spotify.com/album/4fl5mvQpEBICZVHFCE01OU"
       },
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "The Afro Club Night",
+        "url": "https://open.spotify.com/album/0BT0H5aadr5TFW8pl4yY4K"
+      },
+      "artists": [
+        {
+          "name": "Men From The Nile",
+          "url": "https://open.spotify.com/artist/40dtUsUbqQfyoQ6Ec5XpYO"
+        }
+      ],
+      "duration_ms": 335506,
+      "name": "Watch Them Come (Men from the Nile aka Roy Davis Jr.)",
+      "url": "https://open.spotify.com/track/6SNja7FTHw7sazeyKqdk28"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Abstract Jazz Journey EP 2",
         "url": "https://open.spotify.com/album/1aPp2W2uo2oe9XdjsSJPZR"
       },
@@ -1687,22 +1687,6 @@
       "duration_ms": 507744,
       "name": "Reach 4 Freedom - DF's Vocal Mix",
       "url": "https://open.spotify.com/track/0ZEcI78PzxOXJ7mY3cRQDV"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Find A Friend",
-        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
-      },
-      "artists": [
-        {
-          "name": "DJ John \u201cJulius\u201d Knight",
-          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
-        }
-      ],
-      "duration_ms": 409238,
-      "name": "Find A Friend",
-      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1723,6 +1707,22 @@
       "duration_ms": 452439,
       "name": "Flight (feat. Monique Bingham) - Nulife Vocal Mix",
       "url": "https://open.spotify.com/track/3pZPJCTjm5r53Na4V6weLs"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Find A Friend",
+        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
+      },
+      "artists": [
+        {
+          "name": "DJ John \u201cJulius\u201d Knight",
+          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
+        }
+      ],
+      "duration_ms": 409238,
+      "name": "Find A Friend",
+      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Track 1 Revisited - Single",
-        "url": "https://open.spotify.com/album/0Pri96DroxtJYpzIdAD42Z"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 348480,
-      "name": "Track 1 Revisited - Reel to Reel Mix",
-      "url": "https://open.spotify.com/track/3M29ceOrJWtL0Q6L4uXcbK"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
         "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 584040,
       "name": "Love Calls - Darryl James Mix",
       "url": "https://open.spotify.com/track/2FcCm2RoIEKs8EfApaZt6P"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Track 1 Revisited - Single",
+        "url": "https://open.spotify.com/album/0Pri96DroxtJYpzIdAD42Z"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 348480,
+      "name": "Track 1 Revisited - Reel to Reel Mix",
+      "url": "https://open.spotify.com/track/3M29ceOrJWtL0Q6L4uXcbK"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Mix The Vibe: Kaoz On King Street",
-        "url": "https://open.spotify.com/album/4Cr31FA15aqhjtv1dVEzzd"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Wilma Beckford",
-          "url": "https://open.spotify.com/artist/0dipYURBztCNS2iEHjl4wV"
-        }
-      ],
-      "duration_ms": 409763,
-      "name": "Come Home - Kerri's Mmmh Mix",
-      "url": "https://open.spotify.com/track/6zhYeCpXsztywWOP05nwJu"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Set Me Free - Remixes",
         "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
       },
@@ -2019,6 +1999,42 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Mix The Vibe: Kaoz On King Street",
+        "url": "https://open.spotify.com/album/4Cr31FA15aqhjtv1dVEzzd"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Wilma Beckford",
+          "url": "https://open.spotify.com/artist/0dipYURBztCNS2iEHjl4wV"
+        }
+      ],
+      "duration_ms": 409763,
+      "name": "Come Home - Kerri's Mmmh Mix",
+      "url": "https://open.spotify.com/track/6zhYeCpXsztywWOP05nwJu"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "The Best of Blaze, Vol. 3 - Natural Blaze",
+        "url": "https://open.spotify.com/album/5kPN9cXKLxoTvJYlx9Akg0"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        }
+      ],
+      "duration_ms": 383160,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2AOZ9fi8iUZdvoPpjODjIX"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "I Got Rhythm (Remixes)",
         "url": "https://open.spotify.com/album/59QaF98IvGfD6xHKn5E0To"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 372480,
       "name": "I Got Rhythm (Original Mix)",
       "url": "https://open.spotify.com/track/4RxPV1yqEbkobZDy3yudgK"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Deep House Anthems",
-        "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
-        }
-      ],
-      "duration_ms": 504933,
-      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
-      "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2071,26 +2071,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Virgin Ubiquity: Remixed",
-        "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
+        "name": "Deep House Anthems",
+        "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
       },
       "artists": [
         {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Terri Wells",
-          "url": "https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
         }
       ],
-      "duration_ms": 526800,
-      "name": "Holiday - Kenny Dope Main Pass",
-      "url": "https://open.spotify.com/track/5sNqQYKPuIUvipXRKWzOc8"
+      "duration_ms": 504933,
+      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
+      "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2111,22 +2103,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Good Morning EP",
-        "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
+        "name": "Virgin Ubiquity: Remixed",
+        "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
       },
       "artists": [
         {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         },
         {
-          "name": "Kaytronik",
-          "url": "https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se"
+          "name": "Terri Wells",
+          "url": "https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
         }
       ],
-      "duration_ms": 373664,
-      "name": "Good Morning - Kaytronik Remix",
-      "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
+      "duration_ms": 526800,
+      "name": "Holiday - Kenny Dope Main Pass",
+      "url": "https://open.spotify.com/track/5sNqQYKPuIUvipXRKWzOc8"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2175,6 +2171,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Good Morning EP",
+        "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        },
+        {
+          "name": "Kaytronik",
+          "url": "https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se"
+        }
+      ],
+      "duration_ms": 373664,
+      "name": "Good Morning - Kaytronik Remix",
+      "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Elle",
         "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
       },
@@ -2207,18 +2223,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "The Best of Blaze, Vol. 3 - Natural Blaze",
-        "url": "https://open.spotify.com/album/5kPN9cXKLxoTvJYlx9Akg0"
+        "name": "Voices & Visions",
+        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
       "artists": [
         {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+          "name": "Copyright",
+          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
+        },
+        {
+          "name": "Song Williamson",
+          "url": "https://open.spotify.com/artist/06O1ocpjJ5R5NXjzIR18MB"
         }
       ],
-      "duration_ms": 383160,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2AOZ9fi8iUZdvoPpjODjIX"
+      "duration_ms": 483573,
+      "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
+      "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2239,26 +2259,6 @@
       "duration_ms": 497280,
       "name": "Rain - Terry Hunter Rainy Daze Remix",
       "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Voices & Visions",
-        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
-      },
-      "artists": [
-        {
-          "name": "Copyright",
-          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
-        },
-        {
-          "name": "Song Williamson",
-          "url": "https://open.spotify.com/artist/06O1ocpjJ5R5NXjzIR18MB"
-        }
-      ],
-      "duration_ms": 483573,
-      "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
-      "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2331,26 +2331,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Todd Terry's Rare Grooves Vol. VI",
-        "url": "https://open.spotify.com/album/1lrAW15Ve0rrlWz4SBpLiR"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "INES Project",
-          "url": "https://open.spotify.com/artist/3lFQPmJq30drpV89vKES8K"
-        }
-      ],
-      "duration_ms": 669373,
-      "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
-      "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Essential Beats, Vol.9",
         "url": "https://open.spotify.com/album/2ei557S2aPyPih7ov1JhGV"
       },
@@ -2367,6 +2347,26 @@
       "duration_ms": 380020,
       "name": "Love Come Down - Main Mix",
       "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Todd Terry's Rare Grooves Vol. VI",
+        "url": "https://open.spotify.com/album/1lrAW15Ve0rrlWz4SBpLiR"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "INES Project",
+          "url": "https://open.spotify.com/artist/3lFQPmJq30drpV89vKES8K"
+        }
+      ],
+      "duration_ms": 669373,
+      "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
+      "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
+      },
+      "artists": [
+        {
+          "name": "Joaquin \"Joe\" Claussell",
+          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
+        }
+      ],
+      "duration_ms": 447026,
+      "name": "Je Ka Jo - Demo Mix",
+      "url": "https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Sermon One EP (feat. Ron Carroll)",
         "url": "https://open.spotify.com/album/1PenNFTRyle8MGmDlTBTE5"
       },
@@ -2471,22 +2487,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
-      },
-      "artists": [
-        {
-          "name": "Joaquin \"Joe\" Claussell",
-          "url": "https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro"
-        }
-      ],
-      "duration_ms": 447026,
-      "name": "Je Ka Jo - Demo Mix",
-      "url": "https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
       },
@@ -2503,6 +2503,34 @@
       "duration_ms": 530459,
       "name": "Crossroads - Vocal Mix",
       "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Forever (feat. Sabrina Johnston)",
+        "url": "https://open.spotify.com/album/4C1MjWCLbqM03ifF4ocFFy"
+      },
+      "artists": [
+        {
+          "name": "Key To Life",
+          "url": "https://open.spotify.com/artist/6WenpbjcPCj6MIhb3sVydR"
+        },
+        {
+          "name": "Sabrina Johnston",
+          "url": "https://open.spotify.com/artist/02JfoUargkADbNg0uXdAR8"
+        },
+        {
+          "name": "Benji Candelario",
+          "url": "https://open.spotify.com/artist/4AzqJfCJinpCj3UfbfwbYx"
+        },
+        {
+          "name": "Wayne Rollins",
+          "url": "https://open.spotify.com/artist/4fMOEv0euNOrHPSwuUp4K2"
+        }
+      ],
+      "duration_ms": 468269,
+      "name": "Forever (feat. Sabrina Johnston) - New Heights Swing Mix",
+      "url": "https://open.spotify.com/track/51LuscIIYE7GGaklN0fxgx"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2539,30 +2567,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Forever (feat. Sabrina Johnston)",
-        "url": "https://open.spotify.com/album/4C1MjWCLbqM03ifF4ocFFy"
+        "name": "Spinning Inside Your Love (DJ Spinna Remix - 2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/7cZjXwMrwHS8Df6a5TMHDr"
       },
       "artists": [
         {
-          "name": "Key To Life",
-          "url": "https://open.spotify.com/artist/6WenpbjcPCj6MIhb3sVydR"
+          "name": "Robert Strauss",
+          "url": "https://open.spotify.com/artist/3GWkz1BXFgGQxJCrVfqJaG"
         },
         {
-          "name": "Sabrina Johnston",
-          "url": "https://open.spotify.com/artist/02JfoUargkADbNg0uXdAR8"
-        },
-        {
-          "name": "Benji Candelario",
-          "url": "https://open.spotify.com/artist/4AzqJfCJinpCj3UfbfwbYx"
-        },
-        {
-          "name": "Wayne Rollins",
-          "url": "https://open.spotify.com/artist/4fMOEv0euNOrHPSwuUp4K2"
+          "name": "Dj Spinna",
+          "url": "https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2"
         }
       ],
-      "duration_ms": 468269,
-      "name": "Forever (feat. Sabrina Johnston) - New Heights Swing Mix",
-      "url": "https://open.spotify.com/track/51LuscIIYE7GGaklN0fxgx"
+      "duration_ms": 421506,
+      "name": "Spinning Inside Your Love - DJ Spinna Remix - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3JOKodchSwl2hIdsrcJ8XB"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2583,26 +2603,6 @@
       "duration_ms": 419400,
       "name": "Wizeman (feat. Imaani)",
       "url": "https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Spinning Inside Your Love (DJ Spinna Remix - 2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/7cZjXwMrwHS8Df6a5TMHDr"
-      },
-      "artists": [
-        {
-          "name": "Robert Strauss",
-          "url": "https://open.spotify.com/artist/3GWkz1BXFgGQxJCrVfqJaG"
-        },
-        {
-          "name": "Dj Spinna",
-          "url": "https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2"
-        }
-      ],
-      "duration_ms": 421506,
-      "name": "Spinning Inside Your Love - DJ Spinna Remix - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/3JOKodchSwl2hIdsrcJ8XB"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "The Best of Blaze, Vol. 2 - Hubert Street",
-        "url": "https://open.spotify.com/album/4FOV54XWPqa1sQDXgGdafZ"
-      },
-      "artists": [
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        }
-      ],
-      "duration_ms": 413200,
-      "name": "Take a Stand - Blaze Shelter Mix",
-      "url": "https://open.spotify.com/track/7xsfE9vCuyXqKY2jtxgGYn"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "I Can't Wait",
         "url": "https://open.spotify.com/album/70CvoeJITpeEJrlkrBr8QE"
       },
@@ -2703,6 +2687,22 @@
       "duration_ms": 443527,
       "name": "I Can't Wait - ATFC Main Vocal",
       "url": "https://open.spotify.com/track/7MSU8gtYyFZkZ9VXgDaqqF"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "The Best of Blaze, Vol. 2 - Hubert Street",
+        "url": "https://open.spotify.com/album/4FOV54XWPqa1sQDXgGdafZ"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        }
+      ],
+      "duration_ms": 413200,
+      "name": "Take a Stand - Blaze Shelter Mix",
+      "url": "https://open.spotify.com/track/7xsfE9vCuyXqKY2jtxgGYn"
     },
     {
       "added_at": "2023-03-07 17:49:21",

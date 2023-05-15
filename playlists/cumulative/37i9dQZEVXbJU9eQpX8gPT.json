@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 261713,
       "name": "Andando",
       "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
@@ -7493,6 +7493,24 @@
     },
     {
       "album": {
+        "name": "Helma",
+        "url": "https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163527,
+      "name": "Helma",
+      "url": "https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -8468,7 +8486,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 190737,
       "name": "Iori 5",
       "url": "https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a"
@@ -8924,7 +8942,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "JRO7I",
       "url": "https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI"
@@ -11720,7 +11738,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 278095,
       "name": "Mandem",
       "url": "https://open.spotify.com/track/68n0XVahvsr0v0usJzykTH"
@@ -12178,7 +12196,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 199411,
       "name": "Mi Barrio",
       "url": "https://open.spotify.com/track/4pS2RiGbEKQbrkeH21QuMe"
@@ -13558,7 +13576,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 247680,
       "name": "No Estuviste En Lo Malo",
       "url": "https://open.spotify.com/track/3hQARI8XG01UawaCalyfjK"
@@ -15466,7 +15484,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 228000,
       "name": "Problemas",
       "url": "https://open.spotify.com/track/2WYd3pWMDXUExZaU1vD3vF"
@@ -16462,7 +16480,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 167730,
       "name": "Salade Coco",
       "url": "https://open.spotify.com/track/2BJh2IoGeq0UQVsLHUcbrK"
@@ -16640,7 +16658,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 259627,
       "name": "Se Grita",
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
@@ -17112,7 +17130,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 228349,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/3kxXMYZKZka5g4SyqNsk09"
@@ -17226,7 +17244,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema and Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
@@ -17372,6 +17390,24 @@
       "duration_ms": 274093,
       "name": "Spring Day",
       "url": "https://open.spotify.com/track/5xFoqABWVj4FIAf7vQX8FN"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG"
+      },
+      "artists": [
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF"
     },
     {
       "album": {
@@ -18358,7 +18394,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 178156,
       "name": "The Planet",
       "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
@@ -19518,7 +19554,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 224628,
       "name": "Vvs",
       "url": "https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP"
@@ -20272,6 +20308,28 @@
       "duration_ms": 194733,
       "name": "Ya lbahri",
       "url": "https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV"
+    },
+    {
+      "album": {
+        "name": "Ya Nari",
+        "url": "https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Cravata",
+          "url": "https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130731,
+      "name": "Ya Nari",
+      "url": "https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug"
     },
     {
       "album": {

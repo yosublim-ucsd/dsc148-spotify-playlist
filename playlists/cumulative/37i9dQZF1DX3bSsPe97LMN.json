@@ -2783,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "Hija de mi Madre",
+        "url": "https://open.spotify.com/album/0ZEdugqFtQeYFrN95229VO"
+      },
+      "artists": [
+        {
+          "name": "Gladys Ruiz",
+          "url": "https://open.spotify.com/artist/02p1rp0F8VAwiGbd941PdO"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147408,
+      "name": "Hija de mi Madre",
+      "url": "https://open.spotify.com/track/4uUVhe9PSPqL6gWPnJzBjB"
+    },
+    {
+      "album": {
         "name": "Hombre Normal",
         "url": "https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04"
       },
@@ -3680,7 +3698,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 179413,
       "name": "Nada Contigo",
       "url": "https://open.spotify.com/track/2GH7nxSCfsR6vAtzID3S89"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: yeule
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,756 likes - 130 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,825 likes - 130 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 129 | [‎cherry ‎stems](https://open.spotify.com/track/091S1Iw6vvNagu2QnQSsSG) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎cherry ‎stems](https://open.spotify.com/album/59X6b30MP14N4rAgN2wtWB) | 2:22 |
 | 130 | [Cherish](https://open.spotify.com/track/39GrR1d8r8gspKwZpjr1fv) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Good Time/Hard Time](https://open.spotify.com/album/34pKOVIghKdG1kB1iRkS5N) | 3:23 |
 
-Snapshot ID: `MCxjYzE4ZGY1MGUwOGQ4ZTgwZjFhODJhMzE1YjgyZTBiMDdmOTBhMzQ1`
+Snapshot ID: `MCw5ZDNhZjA0ZTFiYjU0YzEwNzJiNzc0ZTFjYzg2MGIxMGUxNWVlMGIy`

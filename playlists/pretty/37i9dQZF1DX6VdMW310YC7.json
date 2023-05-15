@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3612004,
+  "num_followers": 3612271,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWM2MmY0N2M4OTdjMjc4MmY5ZjI1ZDYxZmY4YmZjYjdkMzFkNmNj",
+  "snapshot_id": "MCwwNjRkZjZiODAzYWRjMzNlOWJlMDY0M2IwM2JjNmI5OGQ1NGM4MzA1",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -415,22 +415,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
         },
         {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+          "name": "Alex Maher",
+          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
         }
       ],
-      "duration_ms": 184000,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
+      "duration_ms": 240009,
+      "name": "Matter of Time",
+      "url": "https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -451,6 +451,26 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "I Can't See",
         "url": "https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 135245,
       "name": "I Can't See",
       "url": "https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Matter of Time",
-        "url": "https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Alex Maher",
-          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
-        }
-      ],
-      "duration_ms": 240009,
-      "name": "Matter of Time",
-      "url": "https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -599,30 +599,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "All In A Dream",
-        "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Joseph Ashworth",
-          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
-        }
-      ],
-      "duration_ms": 230015,
-      "name": "All In A Dream",
-      "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/4JbY02dRmfHxC2PQvEV27k"
       },
@@ -679,22 +655,26 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Talk It Over",
-        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
+        "name": "All In A Dream",
+        "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         },
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Joseph Ashworth",
+          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
         }
       ],
-      "duration_ms": 209178,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
+      "duration_ms": 230015,
+      "name": "All In A Dream",
+      "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -711,6 +691,26 @@
       "duration_ms": 138796,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/4FIGor0hvkEyu8ZAnjWAe7"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Talk It Over",
+        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 209178,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 257430,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 186472,
       "name": "High On You",
       "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 257430,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Safe (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/4E3pSvdTWyLs6K9saNu97L"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 294009,
-      "name": "Safe - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/2cVGCUx6xnmcdIz2Ns9OLw"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Where did you go",
         "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 168000,
       "name": "Where did you go",
       "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Safe (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/4E3pSvdTWyLs6K9saNu97L"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 294009,
+      "name": "Safe - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/2cVGCUx6xnmcdIz2Ns9OLw"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Tal",
+        "url": "https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I"
+      },
+      "artists": [
+        {
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+        }
+      ],
+      "duration_ms": 291125,
+      "name": "Tal",
+      "url": "https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy"
       },
@@ -1075,42 +1091,6 @@
       "duration_ms": 203773,
       "name": "Why",
       "url": "https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Sweet Nothings (feat. Minke)",
-        "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
-      },
-      "artists": [
-        {
-          "name": "Holiday87",
-          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
-        },
-        {
-          "name": "Minke",
-          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
-        }
-      ],
-      "duration_ms": 228845,
-      "name": "Sweet Nothings (feat. Minke)",
-      "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Tal",
-        "url": "https://open.spotify.com/album/6AtIOsBzi9ROwkwmielD4I"
-      },
-      "artists": [
-        {
-          "name": "p\u00f8laroit",
-          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
-        }
-      ],
-      "duration_ms": 291125,
-      "name": "Tal",
-      "url": "https://open.spotify.com/track/0i15aMXiEJd6IOBOJ0JtiH"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1151,6 +1131,26 @@
       "duration_ms": 261538,
       "name": "Turning Away - Parra for Cuva Remix",
       "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Sweet Nothings (feat. Minke)",
+        "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "Minke",
+          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
+        }
+      ],
+      "duration_ms": 228845,
+      "name": "Sweet Nothings (feat. Minke)",
+      "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1391,22 +1391,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Light Of Day",
-        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
+        "name": "Breaking Apart",
+        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
         },
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 400130,
-      "name": "Light Of Day",
-      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
+      "duration_ms": 275958,
+      "name": "Breaking Apart",
+      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Light Of Day",
+        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 400130,
+      "name": "Light Of Day",
+      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Lost In Space",
         "url": "https://open.spotify.com/album/7EmlgPald7UuGDXgDXBYek"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 222813,
       "name": "Lost In Space",
       "url": "https://open.spotify.com/track/67ck64BdbfbWZDEcgNdP6a"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Breaking Apart",
-        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
-      },
-      "artists": [
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 275958,
-      "name": "Breaking Apart",
-      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Do You Feel The Same? (OCULA Remix)",
-        "url": "https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "Do You Feel The Same? - OCULA Remix",
-      "url": "https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Don't Give Up",
         "url": "https://open.spotify.com/album/7eJ0TQWlnSy4z744vHgDm6"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 196451,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/7E5Tl1oyZW5JPdhqGgW5hz"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Do You Feel The Same? (OCULA Remix)",
+        "url": "https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "Do You Feel The Same? - OCULA Remix",
+      "url": "https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Color of Nothing",
-        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
-      },
-      "artists": [
-        {
-          "name": "ford.",
-          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Fruit&Sun",
-      "url": "https://open.spotify.com/track/69cmKJCT4thXR1qT1g34w7"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Rooms on the Ark",
         "url": "https://open.spotify.com/album/7xE3fSS22cJBxMCuQmtA9E"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 228577,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/4O9wdZGwvJKTeeJGUEa00K"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Color of Nothing",
+        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
+      },
+      "artists": [
+        {
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Fruit&Sun",
+      "url": "https://open.spotify.com/track/69cmKJCT4thXR1qT1g34w7"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "A Range of Light",
-        "url": "https://open.spotify.com/album/5TB7mKRYc9jZ4pP6YGMpGV"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 224637,
-      "name": "All My Days",
-      "url": "https://open.spotify.com/track/768eZ69L0HODV9UlcriGaq"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Catch",
         "url": "https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 243750,
       "name": "Catch",
       "url": "https://open.spotify.com/track/0avqD9l3aBJnuMDZMyFPwl"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "A Range of Light",
+        "url": "https://open.spotify.com/album/5TB7mKRYc9jZ4pP6YGMpGV"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 224637,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/768eZ69L0HODV9UlcriGaq"
     },
     {
       "added_at": "2023-05-12 04:00:00",

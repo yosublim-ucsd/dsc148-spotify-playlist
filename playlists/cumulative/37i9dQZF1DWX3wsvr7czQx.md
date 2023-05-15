@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Michael Bolton
 
-83 songs - 5 hr 27 min
+84 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Long Shot](https://open.spotify.com/track/4Q5CLb0X0TekGSgkwn0jyj) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT), [Amy Sky](https://open.spotify.com/artist/56WqXNPHTG7XlyGRjE3Znb) | [He Sang She Sang](https://open.spotify.com/album/6apzcsmHj4RWqxWPycVsFr) | 4:33 | 2022-05-06 |  |
 | [Lost Inside Your Heart](https://open.spotify.com/track/6YTU4q4ti2tcqIUpbN63I1) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Lost Inside Your Heart](https://open.spotify.com/album/3KYaEaS8IySjbFUgjLIi74) | 4:04 | 2023-04-14 |  |
 | [Love Again](https://open.spotify.com/track/4o1I2WL1pjyFLpshFuLCm2) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again](https://open.spotify.com/album/3IIFp3ItzFscCAKXB6Z2Zv) | 3:32 | 2023-04-14 | 2023-05-10 |
-| [Love Again](https://open.spotify.com/track/6gzgyr3CHPXIs97yeEqU8h) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [I'll Be \(from the Motion Picture Soundtrack Love Again\)](https://open.spotify.com/album/6F7SW0EoekiKTOgcGzg1KB) | 3:32 | 2023-04-14 |  |
+| [Love Again](https://open.spotify.com/track/6gzgyr3CHPXIs97yeEqU8h) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [I'll Be \(from the Motion Picture Soundtrack Love Again\)](https://open.spotify.com/album/6F7SW0EoekiKTOgcGzg1KB) | 3:32 | 2023-04-14 | 2023-05-15 |
+| [Love Again](https://open.spotify.com/track/7LYV8DzfYdArevWVyNNIZ0) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/1YV5gnob3qCnMQuVomwGwG) | 3:32 | 2023-04-14 |  |
 | [Me Not Loving You](https://open.spotify.com/track/2A1DHo5MnoDHKpoXTDR0vi) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [The Body Remembers](https://open.spotify.com/album/5gqkg3QPLgnGQQIVOOupdY) | 4:27 | 2021-10-22 | 2023-01-06 |
 | [Metal Water Wood](https://open.spotify.com/track/74xme6fG8qeC7BfwXiDa7j) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Ocean to Ocean](https://open.spotify.com/album/08dsnxebW6wZCu8NpmK3kn) | 4:00 | 2021-10-29 |  |
 | [Moon Over Wichita](https://open.spotify.com/track/2kWASdkm5BAA5kGJ4jN39D) | [Burt Bacharach](https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC), [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Moon Over Wichita/Heartbreak Storms](https://open.spotify.com/album/1gQZpefWws00Mglq7lv1oM) | 3:12 | 2022-04-01 |  |

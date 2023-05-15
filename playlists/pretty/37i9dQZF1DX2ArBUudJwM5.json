@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Eruca Sativa.\nDales play, dales power.",
-  "num_followers": 29879,
+  "num_followers": 29884,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTRhNmJhMGY3OGNiMTcxNGQ3OWMxMTY4Y2UyYTIxMzNiMDdmN2Mz",
+  "snapshot_id": "MCwxN2U1MjRhNDRmODM5ZmJkODJiOTYwODlhN2U0Y2ZhZDA4Yzk2M2Q3",
   "tracks": [
     {
       "added_at": "2023-05-03 03:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
+        "name": "El Valle Encantado",
+        "url": "https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 137612,
+      "name": "El Valle Encantado",
+      "url": "https://open.spotify.com/track/2nHMuo3mqEOePjLlIz1PhQ"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
         "name": "Luz de perla",
         "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "El Valle Encantado",
-        "url": "https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S"
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
         }
       ],
-      "duration_ms": 137612,
-      "name": "El Valle Encantado",
-      "url": "https://open.spotify.com/track/2nHMuo3mqEOePjLlIz1PhQ"
+      "duration_ms": 246594,
+      "name": "En Toneles",
+      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -383,22 +399,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 246594,
-      "name": "En Toneles",
-      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "En la arena",
         "url": "https://open.spotify.com/album/5K5WS0vFNNSHcSYZTmKma4"
       },
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Solomias",
-        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
+        "name": "DUM",
+        "url": "https://open.spotify.com/album/2VHHU1Sr4sweqmFJXhk2dS"
       },
       "artists": [
         {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
         }
       ],
-      "duration_ms": 125333,
-      "name": "Solomias",
-      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
+      "duration_ms": 163355,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/50fHlG70LL8olJ2e2kbFLW"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "DUM",
-        "url": "https://open.spotify.com/album/2VHHU1Sr4sweqmFJXhk2dS"
+        "name": "Solomias",
+        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
       },
       "artists": [
         {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
         }
       ],
-      "duration_ms": 163355,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/50fHlG70LL8olJ2e2kbFLW"
+      "duration_ms": 125333,
+      "name": "Solomias",
+      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Batalla Naval",
-        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
-      },
-      "artists": [
-        {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
-        }
-      ],
-      "duration_ms": 203186,
-      "name": "Batalla Naval",
-      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "TRI\u00c1NGULA",
         "url": "https://open.spotify.com/album/4TEmP8W3asA1lPttNx6S90"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 226458,
       "name": "Agua Dorada",
       "url": "https://open.spotify.com/track/2B4DhBGl6AXwfNvfkIqXF6"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Batalla Naval",
+        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Batalla Naval",
+      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Mirandesco",
-        "url": "https://open.spotify.com/album/6Wz0DZ95DCDSKJxEiUEtNh"
-      },
-      "artists": [
-        {
-          "name": "Amor Elefante",
-          "url": "https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC"
-        }
-      ],
-      "duration_ms": 204939,
-      "name": "Mirandesco",
-      "url": "https://open.spotify.com/track/48CheHoGPLRrFIBkm6vFsa"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "Hilary D.",
         "url": "https://open.spotify.com/album/38Re6Gvisocy40gAON78H3"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 211830,
       "name": "Manos",
       "url": "https://open.spotify.com/track/3HVHb5Xbb8G8HPKzaCWffe"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Mirandesco",
+        "url": "https://open.spotify.com/album/6Wz0DZ95DCDSKJxEiUEtNh"
+      },
+      "artists": [
+        {
+          "name": "Amor Elefante",
+          "url": "https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC"
+        }
+      ],
+      "duration_ms": 204939,
+      "name": "Mirandesco",
+      "url": "https://open.spotify.com/track/48CheHoGPLRrFIBkm6vFsa"
     },
     {
       "added_at": "2023-05-03 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,081 likes - 49 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,178 likes - 49 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 29 | [I Don't Wanna Leave \- Live From Chattanooga, TN](https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [The Cry: A Live Worship Experience](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 4:06 |
 | 30 | [You're Doing It All Again \(Radio Edit\) \[Live\] \(feat\. Nicole Harris\)](https://open.spotify.com/track/70O4lnaxr3stKaPAZOHSgj) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Nicole Harris](https://open.spotify.com/artist/0vot03PmrmBeagTXjtdxv8) | [You're Doing It All Again \(Radio Edit\) \[Live\] \(feat\. Nicole Harris\)](https://open.spotify.com/album/63Dts9ir6pyJiLrlPB0PBL) | 3:48 |
 | 31 | [The Battle Is the Lord's](https://open.spotify.com/track/1QN1TuZOtJssiRYkYbYO9S) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Live In Washington](https://open.spotify.com/album/6Ig7DpVL0oQhlX8Di6TbUk) | 6:28 |
-| 32 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/39T5NZkYTomQw86dT9x0K1) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 9:45 |
-| 33 | [You Waited \(Live\)](https://open.spotify.com/track/2JffucuR5jZhDf9ysy0EnA) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Setlist Vol\. 1 \(Live\)](https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII) | 5:07 |
+| 32 | [You Waited \(Live\)](https://open.spotify.com/track/2JffucuR5jZhDf9ysy0EnA) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Setlist Vol\. 1 \(Live\)](https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII) | 5:07 |
+| 33 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/39T5NZkYTomQw86dT9x0K1) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 9:45 |
 | 34 | [Now Behold the Lamb](https://open.spotify.com/track/00x6jSUknGq0bvvsF5Dz3w) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 6:52 |
 | 35 | [Rushing In \- Live](https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Peace: The Album](https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s) | 7:42 |
 | 36 | [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ) | 4:09 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [Intentional \- Live](https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Setlist Vol\. 1 \(Live\)](https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII) | 5:38 |
 | 49 | [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 |
 
-Snapshot ID: `MCw4NzU5NWI1NDgyNzhlMjdhYTc4ODlmNDNlODFmYmMyY2Y1Y2E1NjY5`
+Snapshot ID: `MCwyOGNhMTc2NWRmZjVjOWViZDEwMzQ3MGMwNjAzZWEzN2M3MjYxMzQ4`

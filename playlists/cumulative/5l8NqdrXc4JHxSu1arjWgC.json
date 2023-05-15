@@ -1663,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "Futuristic Dragon",
+        "url": "https://open.spotify.com/album/7bxgqrql5oDIr4SVFB1bYN"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194506,
+      "name": "Chrome Sitar",
+      "url": "https://open.spotify.com/track/1OYxUYMyW9LZLIXer4IeZm"
+    },
+    {
+      "album": {
         "name": "London Calling (Remastered)",
         "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
       },
@@ -1732,6 +1750,24 @@
       "duration_ms": 416000,
       "name": "Coming Back to Life - Live",
       "url": "https://open.spotify.com/track/75hr3otyl2HRH2UCFqf2tx"
+    },
+    {
+      "album": {
+        "name": "Frosting On The Beater",
+        "url": "https://open.spotify.com/album/72rfhFLb2C6Zo500hgoKq3"
+      },
+      "artists": [
+        {
+          "name": "The Posies",
+          "url": "https://open.spotify.com/artist/5ZOh5D4MKLhU3GekPzNFam"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379933,
+      "name": "Coming Right Along",
+      "url": "https://open.spotify.com/track/1zcDDZPQLQiwXOq3hojxfk"
     },
     {
       "album": {
@@ -5676,6 +5712,24 @@
       "duration_ms": 237600,
       "name": "Love Is Lost",
       "url": "https://open.spotify.com/track/6c2N8YRRqjtevGfIJovXGP"
+    },
+    {
+      "album": {
+        "name": "Joe Strummer 001",
+        "url": "https://open.spotify.com/album/2IPHxchyGFrtYqKrVHwRFr"
+      },
+      "artists": [
+        {
+          "name": "Joe Strummer",
+          "url": "https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239373,
+      "name": "Love Kills",
+      "url": "https://open.spotify.com/track/6TjVKGblxw2G1EnwfQrcTk"
     },
     {
       "album": {

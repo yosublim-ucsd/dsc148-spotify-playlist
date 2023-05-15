@@ -1,15 +1,15 @@
 {
   "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. Cover: Ado",
-  "num_followers": 31481,
+  "num_followers": 33514,
   "original_name": "Gacha Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTE4ZDJlY2M4MzM0MGFjOGI0OTRjYzk3NWM2NjdjMGVlYTI2NzNi",
+  "snapshot_id": "MCwyNzQwMzc5YWQwNGRiMGIzYjJjMzI2YmUwNTAyYTM5MTIzYzA4NzMz",
   "tracks": [
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Ibara",
         "url": "https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "NIGHT DANCER",
         "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u30a2\u30a4\u30c9\u30eb",
         "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "KICK BACK",
         "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
         "url": "https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O"
@@ -93,7 +93,23 @@
       "url": "https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
+      "album": {
+        "name": "\"Classicaloid\" Chopin Musik",
+        "url": "https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N"
+      },
+      "artists": [
+        {
+          "name": "EHAMIC",
+          "url": "https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR"
+        }
+      ],
+      "duration_ms": 190460,
+      "name": "Koinu no Carnival -From \"Minute Waltz\"-",
+      "url": "https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp"
+    },
+    {
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Overdose",
         "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
@@ -109,23 +125,7 @@
       "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
-      "album": {
-        "name": "ICHIJIKIKOKU",
-        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "OTONABLUE",
-      "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
-    },
-    {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u307e\u3064\u308a",
         "url": "https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5"
@@ -141,7 +141,23 @@
       "url": "https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
+      "album": {
+        "name": "ICHIJIKIKOKU",
+        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "OTONABLUE",
+      "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
+    },
+    {
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u7d46\u30ce\u5947\u8de1",
         "url": "https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "UTA'S SONGS ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "LEFT RIGHT REMIXX (FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS)",
         "url": "https://open.spotify.com/album/6BYq4jicnLns37lj7By6NX"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u8e0a\u308a\u5b50",
         "url": "https://open.spotify.com/album/3qDlmj2bxxsDO7EdVgwb7j"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/4UeWKazLR1ZwwSVnLw9Ir9"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/6MwtCelqyWWJsNXHSHnPOi"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Suzume (Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "FightSong",
         "url": "https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/37vujUbX37xoBmwoddMYck"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "WINK",
         "url": "https://open.spotify.com/album/105329tEvmR4S5ofi0EZig"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/3J7aROvcIXinMbZd2LzL3B"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Castle in Madness",
         "url": "https://open.spotify.com/album/614jKHpWcmW6XcpU2OXRLc"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/6fMnx6sbjk9saMZGlSevrz"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Drink!",
         "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u30dd\u30ea\u30b4\u30f3\u30a6\u30a7\u30a4\u30f4 EP",
         "url": "https://open.spotify.com/album/2LuuZaVVX5Bp7eX3PIV6B7"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/6HPIILGgNy0a4zGnMdmBgv"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Chameleon (Deluxe)",
         "url": "https://open.spotify.com/album/2rhsKbAqtAGNmxXpcTtTvC"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/2s4ErjWLSAVZSdYoqAhfcQ"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "W\u25cfRK",
         "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Specter",
         "url": "https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
         "url": "https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u3072\u304b\u308a\u306e\u30c7\u30a3\u30b9\u30b3",
         "url": "https://open.spotify.com/album/5HmYQLP0mkigw3lwisqirI"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/02lbewNkGqHLr06Irt4wvW"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Zurukunai?",
         "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Neon",
         "url": "https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "maze",
         "url": "https://open.spotify.com/album/6t1kYddCW5E9StZEf0UxMd"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/4B0iIMQz88iQiMlRP47fJ1"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Candy Racer",
         "url": "https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/2AndL1gnrkjtzoxIy2AG8Y"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "NAINAINAI",
         "url": "https://open.spotify.com/album/1syyqRfv0iRNmVzrxFXSdo"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/4LnMz836E4F1Z3qIPxUGVR"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "FINE LINE",
         "url": "https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "ALLSEASON EP.",
         "url": "https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/7Da7crN49ehmABnxJuo52J"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "MAGICAL DREAM",
         "url": "https://open.spotify.com/album/3V6tFl2XWnYgSl5WUR6k6D"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/6YCOnfmSd5G13hFBwcWO4P"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Love You!!!!!!",
         "url": "https://open.spotify.com/album/0ecMSnvcWpp5lxHvs8sKGU"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/2a64t56KzgVqp8iYRCj8fs"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "The Lover",
         "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Baby you",
         "url": "https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Sugar Magic",
         "url": "https://open.spotify.com/album/7vFtPaViNfyM9xb66JZtbF"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "LADY",
         "url": "https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u591c\u306b\u99c6\u3051\u308b",
         "url": "https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Comedy",
         "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Red:birthmark",
         "url": "https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "2019 - 2021",
         "url": "https://open.spotify.com/album/4aPDMXB1iIG0ZTy9MkOMFb"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/1ji3cJU0sobtsiNEZRvNVz"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Samsa",
         "url": "https://open.spotify.com/album/6JvDXCgjEVlPNA34NlT3oH"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/3Su7tjUw5QbSBD5S3QFrWP"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/7gspVQa13prQbNABCRacwE"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "ANGRY ANGRY",
         "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Neon",
         "url": "https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/7uX2DpFsKiitlAYGLSGlci"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Line of sight",
         "url": "https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Sunny!!",
         "url": "https://open.spotify.com/album/6YpoVnWQUIvMLFAeg1lCKU"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/0nW1Aes1arNyR1fzEKXS2m"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "CAGE SCRIPT",
         "url": "https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx"
@@ -881,7 +897,7 @@
       "url": "https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "ITEKOMA HITS",
         "url": "https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4"
@@ -897,7 +913,7 @@
       "url": "https://open.spotify.com/track/6NeSiZokIiQwJaqAID41Vy"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Unleash",
         "url": "https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/73SsGfqjQv6oUxDaC9w8es"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "CANDY CANDY (Moe Shop Remix)",
         "url": "https://open.spotify.com/album/7rNO0ev82wqyzSZ8c9PAUG"
@@ -949,7 +965,7 @@
       "url": "https://open.spotify.com/track/28d5jK6lX3Mipdta6dQWjJ"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u5de3\u98df\u3044\u306e\u3066",
         "url": "https://open.spotify.com/album/14XaMmLLFH2lzWri7DCUrV"
@@ -969,7 +985,7 @@
       "url": "https://open.spotify.com/track/3zIAqsIUasAahJ5Z56sbch"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u5149\u307f\u305f\u3044\u306b\u3059\u3059\u307f\u305f\u3044",
         "url": "https://open.spotify.com/album/4cOihG8VXY5yZ9j48okN5q"
@@ -985,7 +1001,7 @@
       "url": "https://open.spotify.com/track/082cQcc5Hg01f2vcH8ceTV"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "JUST DANCE!",
         "url": "https://open.spotify.com/album/5pNQWKfMgZXtN6rCXoFgLT"
@@ -1001,7 +1017,7 @@
       "url": "https://open.spotify.com/track/337dZo6Fo3hIq0iMANoZmS"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "PUI PUI \u306f\u3068\u307e\u3089\u306a\u3044",
         "url": "https://open.spotify.com/album/2V1RiLuuBRbWoYRgdWc6bC"
@@ -1017,7 +1033,7 @@
       "url": "https://open.spotify.com/track/1uDXHWsB7EAPjHw8XKvm7c"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "TONDEMO-WONDERZ",
         "url": "https://open.spotify.com/album/0E3hZEBiEMetjMHCo93BKk"
@@ -1033,7 +1049,7 @@
       "url": "https://open.spotify.com/track/4hrhv3LGlhO0qK21zWeHgW"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "abon",
         "url": "https://open.spotify.com/album/31N1srmLj3VGR277i4FiUw"
@@ -1049,7 +1065,7 @@
       "url": "https://open.spotify.com/track/6JrnGrFFPMF0VSi1mp5X0R"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u821e\u53f0\u306e\u4e0a\u3067",
         "url": "https://open.spotify.com/album/4XYTZrIy61jFCIj0c4IoPB"
@@ -1069,7 +1085,7 @@
       "url": "https://open.spotify.com/track/51SCBTWn7HbmBRPRHNB8Re"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "MIND CIRCUS (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/1npKTihmjBLLjWiZDBkTEu"
@@ -1089,7 +1105,7 @@
       "url": "https://open.spotify.com/track/3Q1oUYeVsvR3dGAdFN3nTf"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u795d\u796d",
         "url": "https://open.spotify.com/album/3lrZCCakw7a68QVCBTt7BT"
@@ -1105,7 +1121,7 @@
       "url": "https://open.spotify.com/track/7ph7HRUsxYcKLRFTaYCQYQ"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u4e0a\u51fa\u6765",
         "url": "https://open.spotify.com/album/1nUwhyn08TSd7Ibg6EWPmv"
@@ -1121,7 +1137,7 @@
       "url": "https://open.spotify.com/track/3Xmkf8BENKXeHv38sUfUa6"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Welcome to MY WONDERLAND",
         "url": "https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb"
@@ -1137,7 +1153,7 @@
       "url": "https://open.spotify.com/track/5HPkVEqdGS65rqvX4a5UFo"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "BET ME!",
         "url": "https://open.spotify.com/album/4oF8qfwMpxoNbyY3CWJ5Ox"
@@ -1153,7 +1169,7 @@
       "url": "https://open.spotify.com/track/2lTgXM87jM6tKStCwJxKKI"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "4EP1",
         "url": "https://open.spotify.com/album/6IvZXFKfjKgf63hZuOqz8w"
@@ -1169,7 +1185,7 @@
       "url": "https://open.spotify.com/track/08TD3JtW8nc3NEgxaSBNbL"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/4cY8JBsitqaJxGjIIu7eVQ"
@@ -1189,7 +1205,7 @@
       "url": "https://open.spotify.com/track/3ysqNFNj4Qhyu8cwKD7pV0"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "To The Top feat. DVI",
         "url": "https://open.spotify.com/album/4AwYoTKWgBwviwJBJszDpw"
@@ -1217,7 +1233,7 @@
       "url": "https://open.spotify.com/track/6rvR2k7izeE4y67iAoEQOl"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Under the skin",
         "url": "https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K"
@@ -1233,7 +1249,7 @@
       "url": "https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "\u3059\u304d\u3063! (\u8d85ver)",
         "url": "https://open.spotify.com/album/1Y0F8KlXpY5slIUpoNgkqr"
@@ -1249,7 +1265,7 @@
       "url": "https://open.spotify.com/track/4k3vWI14pw0q7FVwNhehWp"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Kokuhakujikkouiinkai -FLYING SONGS- Koishiteru",
         "url": "https://open.spotify.com/album/6RriT3rElmDYDODZjcKBcq"
@@ -1269,23 +1285,7 @@
       "url": "https://open.spotify.com/track/4Mo0vn7a03pJ19uESUrH5a"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
-      "album": {
-        "name": "P",
-        "url": "https://open.spotify.com/album/7fIlrZpTkNXvOZoWXppmcW"
-      },
-      "artists": [
-        {
-          "name": "Suzuko Mimori",
-          "url": "https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Sugarless Kiss",
-      "url": "https://open.spotify.com/track/2pEeXbiebbKqIklSL0gLO0"
-    },
-    {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Setsunano Chikai",
         "url": "https://open.spotify.com/album/5RxLQesE8xz3LsCwyrLIDn"
@@ -1305,7 +1305,7 @@
       "url": "https://open.spotify.com/track/1YKBiydKeMfqHXwDECHLU6"
     },
     {
-      "added_at": "2023-05-09 00:16:02",
+      "added_at": "2023-05-14 07:55:18",
       "album": {
         "name": "Firetruck",
         "url": "https://open.spotify.com/album/7bAkSGLaKkIcBb6RmhR8yN"

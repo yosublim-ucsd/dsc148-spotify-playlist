@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 484857,
+  "num_followers": 485035,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTFiZjVkNjZhNWMwMGM1YTg2NzRmNmJmOTM5ZmQ3ZGZjZDI4NjVj",
+  "snapshot_id": "MCxmYjZiNTBjMDhjMTAyNWU0YTgzMmJiODQ3MmU4Y2M3OTQ5ZGJkNmQz",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Ayra Starr",
-        "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 155150,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/1PDAEpGPDZ0QGWNt3C5Dck"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Can You Take It",
         "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 181783,
       "name": "Can You Take It",
       "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Ayra Starr",
+        "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 155150,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/1PDAEpGPDZ0QGWNt3C5Dck"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1949,22 +1949,6 @@
       "url": "https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4"
     },
     {
-      "added_at": "2023-04-21 11:56:43",
-      "album": {
-        "name": "$weet n $our",
-        "url": "https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ"
-      },
-      "artists": [
-        {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
-        }
-      ],
-      "duration_ms": 183588,
-      "name": "$weet n $our",
-      "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Red Pill Blues (Deluxe)",
@@ -1979,6 +1963,22 @@
       "duration_ms": 216930,
       "name": "Lips On You",
       "url": "https://open.spotify.com/track/5ezKhlg0ZwDPgOtMCoQt1S"
+    },
+    {
+      "added_at": "2023-04-21 11:56:43",
+      "album": {
+        "name": "$weet n $our",
+        "url": "https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        }
+      ],
+      "duration_ms": 183588,
+      "name": "$weet n $our",
+      "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Bridge Back to Your Heart",
-        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
-      },
-      "artists": [
-        {
-          "name": "The Beach",
-          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
-        }
-      ],
-      "duration_ms": 261279,
-      "name": "Bridge Back to Your Heart",
-      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 190104,
       "name": "Radio",
       "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Bridge Back to Your Heart",
+        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
+      },
+      "artists": [
+        {
+          "name": "The Beach",
+          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
+        }
+      ],
+      "duration_ms": 261279,
+      "name": "Bridge Back to Your Heart",
+      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Mary Glenn",
-        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
-      },
-      "artists": [
-        {
-          "name": "Mary Glenn",
-          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
-        }
-      ],
-      "duration_ms": 322478,
-      "name": "Dancefloor",
-      "url": "https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "NIGHT FLIGHT",
         "url": "https://open.spotify.com/album/2CfUVZdfwVHZNzf5WF3BID"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 229120,
       "name": "Parade",
       "url": "https://open.spotify.com/track/1PAH34xJkjVKe51fS0Rv53"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Mary Glenn",
+        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
+      },
+      "artists": [
+        {
+          "name": "Mary Glenn",
+          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
+        }
+      ],
+      "duration_ms": 322478,
+      "name": "Dancefloor",
+      "url": "https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9"
     },
     {
       "added_at": "2023-04-21 12:00:54",

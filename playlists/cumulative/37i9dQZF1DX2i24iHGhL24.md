@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sam Smith
 
-396 songs - 22 hr 43 min
+397 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 | 2022-03-25 | 2022-12-30 |
 | [Crazy](https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Crazy](https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8) | 2:48 | 2022-12-16 |  |
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2022-03-25 | 2022-12-30 |
+| [Creep](https://open.spotify.com/track/7j8FDy7eI1TommLedXXdHz) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Creep](https://open.spotify.com/album/4N20DI57V9TX4VwBQwbkXq) | 2:27 | 2023-05-14 |  |
 | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/track/3jbYY3Bufg13nGMaTyE3By) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/album/4cAhtcqdyshti4UotFGVqJ) | 2:56 | 2022-10-28 | 2022-11-13 |
 | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU) | 2:56 | 2022-07-08 |  |
 | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/track/7AIPMMSKNQkREDzCRwVK1k) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Cruel Summer \(Acoustic Version\)](https://open.spotify.com/album/4B4hmsVThfWwMR0I9eYRi8) | 2:56 | 2021-12-17 | 2022-07-29 |

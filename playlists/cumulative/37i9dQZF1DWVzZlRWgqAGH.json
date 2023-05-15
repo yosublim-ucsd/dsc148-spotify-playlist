@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 196792,
       "name": "Damn",
       "url": "https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ"
@@ -8942,6 +8942,24 @@
       "duration_ms": 165219,
       "name": "Look Easy",
       "url": "https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr"
+    },
+    {
+      "album": {
+        "name": "Looping",
+        "url": "https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193967,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn"
     },
     {
       "album": {

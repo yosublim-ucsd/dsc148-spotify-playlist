@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: RAYE
 
-860 songs - 2 day 2 hr 33 min
+861 songs - 2 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Cyclical](https://open.spotify.com/track/3wH3I5K1ncdQc0VCXoBwSV) | [Cassowary](https://open.spotify.com/artist/3T3Ta5gL9MFTQ9xuZ0h9Dy), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [Cassowary](https://open.spotify.com/album/3ps9Voi4DN1YSxbdeGxQ9v) | 3:18 | 2020-04-24 | 2020-05-22 |
 | [Daily](https://open.spotify.com/track/4nYAZXnEkeQUydNuNRml5k) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Jessy Rose](https://open.spotify.com/artist/71WVLOuQ8jIwgpudcz80Rd) | [Daily](https://open.spotify.com/album/4j6dGTZITzMsywJCLvvlt7) | 3:05 | 2020-04-18 | 2020-12-18 |
 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 | 2023-04-28 |  |
-| [Damn](https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [Damn](https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb) | 3:16 | 2023-05-05 |  |
+| [Damn](https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [Damn](https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb) | 3:16 | 2023-05-05 | 2023-05-15 |
 | [Dawn at the Souk](https://open.spotify.com/track/05KyHSK22P4sLoszUk34dD) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Dawn at the Souk](https://open.spotify.com/album/1WLgN8sZUOEukP5YAvS9Jt) | 5:06 | 2020-03-20 | 2020-06-16 |
 | [Daylight](https://open.spotify.com/track/0cVrv8dZAhs19LKGX61EvS) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Daylight](https://open.spotify.com/album/3NdmyGu5zVDaihh0BGFnNx) | 3:52 | 2020-04-24 | 2022-04-18 |
 | [Daylight](https://open.spotify.com/track/7vg03Vdn4Oxia5YsSgjN3A) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Cereal](https://open.spotify.com/album/78QTgD4N5xiyp7rAYFbC5R) | 3:52 | 2022-07-22 | 2022-09-10 |
@@ -444,6 +444,7 @@
 | [Loner](https://open.spotify.com/track/4MNqMI8GyzKOJ1F0hmRB9b) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Loner](https://open.spotify.com/album/1M0pCeh7vI7JEsPFZVvK52) | 3:29 | 2020-05-01 | 2020-05-22 |
 | [Long Love](https://open.spotify.com/track/3OtTh8NtK2lqEbu2Vijndn) | [AgaJon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [ESO.ES](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Long Love](https://open.spotify.com/album/2XhFvJLfoAv0bn5qrSN12E) | 2:44 | 2019-11-01 | 2020-01-17 |
 | [Look Easy](https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Look Easy](https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi) | 2:45 | 2020-07-10 | 2020-08-20 |
+| [Looping](https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Looping](https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk) | 3:13 | 2023-05-12 |  |
 | [Lost & Found](https://open.spotify.com/track/0rPFXlpHqw24Z2Cg5OzmC9) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Lost & Found](https://open.spotify.com/album/375zZDGd2aYiTXCnxIKQRM) | 3:46 | 2022-07-08 | 2022-07-29 |
 | [Lost & Found](https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Lost & Found](https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X) | 3:46 | 2022-10-07 | 2022-10-18 |
 | [Lost In Nostalgia](https://open.spotify.com/track/5rmXP6ylbfTGpl8Gc7hTcX) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Lost In Nostalgia](https://open.spotify.com/album/1SMsTa34Ztmle8iqh2fnJU) | 2:53 | 2019-10-15 | 2020-04-24 |

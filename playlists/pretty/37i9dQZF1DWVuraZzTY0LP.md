@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Julieta nos comparte sus canciones favoritas como la mamá cool que es ¡Dale play! 💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,719 likes - 49 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,751 likes - 49 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 48 | [La Nostalgia](https://open.spotify.com/track/4KVXrQfCpHzIRSSpZZmutU) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/5e3dSyeSBjthMeTcNJ6VBF) | 3:14 |
 | 49 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 |
 
-Snapshot ID: `MCxmY2U3ZmJhZjAzODM3ZjcxZjJiZjQxZmIzMmQ0MWFjODY1MzVkOTNh`
+Snapshot ID: `MCwxOWJhODQ5M2FhNzZhM2Y3ZDJhZmEwYzEwNzBkNzJhZWNhMTZhMGVj`

@@ -4,7 +4,7 @@
 
 > Những nhạc phẩm đi vào lòng người từ nhiều thế hệ\. Ảnh bìa: Như Quỳnh
 
-185 songs - 15 hr 44 min
+186 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Chuyện Tình Lan Và Điệp \(feat\. Duy Luân\)](https://open.spotify.com/track/026XNgFJNHNPmojQIE5yhy) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x), [Duy Luân](https://open.spotify.com/artist/2sRxSNsEpwhHEeUw2HJO6h) | [Xin Trả Tôi Về](https://open.spotify.com/album/1r5OrgvrLx5yR89oBSA3Y8) | 6:02 | 2022-03-11 | 2022-10-03 |
 | [Chuyện Tình Người Đan Áo](https://open.spotify.com/track/3Q8AfOEUAuE5b0K6J1TI4t) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Chuyện Tình Người Đan Áo](https://open.spotify.com/album/4DTfk0pByjgs7lznB9daS0) | 5:55 | 2022-03-11 | 2022-07-23 |
 | [Con Đường Mang Tên Em](https://open.spotify.com/track/4q05G2c353QJokNYedwHYK) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Friday With Bolero](https://open.spotify.com/album/7GT9HYxTsnzp2au7FTnqec) | 4:01 | 2022-03-11 | 2022-07-26 |
-| [Con Đường Xưa Em Đi](https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q) | 5:00 | 2022-03-11 |  |
+| [Con Đường Xưa Em Đi](https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q) | 5:00 | 2022-03-11 | 2023-05-15 |
 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/6CqHwBAS6vfFTIOn32rXBx) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/2NBPdegSd3xTTGWCergkHv) | 5:00 | 2022-03-11 | 2022-07-28 |
 | [Câu Hẹn Câu Thề](https://open.spotify.com/track/1l2O6oQQtaexyYc96pCLWS) | [Hồ Phương Liên](https://open.spotify.com/artist/1xqw6I7JGeyBPQNJIwYaXU) | [Đừng Hẹn Kiếp Sau](https://open.spotify.com/album/7tVwaqiEYcsgc91i4cFzBh) | 5:25 | 2022-03-11 | 2022-07-28 |
 | [Cõi Đêm](https://open.spotify.com/track/4KsCTN7NrqIDoaKBEQ5wxL) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Cõi Đêm](https://open.spotify.com/album/41XMGXUeOBRDOxkYvAoBFp) | 4:44 | 2022-03-11 | 2022-07-09 |
@@ -112,6 +112,7 @@
 | [Nếu Được Làm Người Tình](https://open.spotify.com/track/0v0nQSPZdflf98Ao026jNC) | [Thụy Anh](https://open.spotify.com/artist/4I5dM947Szx86Bx0yxQUvn) | [Nếu Được Làm Người Tình](https://open.spotify.com/album/5hPQ9TjXSesAZgw2G8o3lU) | 5:10 | 2022-03-11 | 2022-07-19 |
 | [Nếu Đời Không Có Anh](https://open.spotify.com/track/2o16PyrSeQJTCH3yev9HVJ) | [Phan Ý Linh](https://open.spotify.com/artist/0vE2wICpoQ6jTn6zsUCjNi) | [Tuyển Tập Của Phan Ý Linh](https://open.spotify.com/album/7HqrxmFx8Ux2BmB5r6tcaI) | 4:59 | 2022-03-11 | 2022-06-02 |
 | [Nối Lại Tình Xưa](https://open.spotify.com/track/2h5creXsSvj9OqmEHVtNUA) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Có Khi](https://open.spotify.com/album/21DIsAgJIU7ft25qJwkQDE) | 4:13 | 2022-03-11 | 2022-07-29 |
+| [Nối Lại Tình Xưa](https://open.spotify.com/track/5zkV3BWbnfcODH72RC0Qxi) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Có Khi](https://open.spotify.com/album/5vhRUs2lrgVlf5dUJgjnTV) | 4:13 | 2023-01-19 |  |
 | [Nỗi Buồn Gác Trọ](https://open.spotify.com/track/48IfOqYiOgztYqaLk0ZUQA) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe) | [Người Phụ Tình Tôi](https://open.spotify.com/album/30NR2qhdstcERTNSbfH8P7) | 4:46 | 2022-03-11 | 2022-07-10 |
 | [Nỗi Buồn Gác Trọ](https://open.spotify.com/track/1iVRwXrTciOx1ah1rYHiV9) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad) | [Qua Cơn Mê](https://open.spotify.com/album/5e8L4OFh0PSEKzWYKY9uAK) | 3:52 | 2022-03-11 | 2022-07-17 |
 | [Nỗi Buồn Gác Trọ \(Version Lofi\)](https://open.spotify.com/track/0dnXeBSlnqLpHkJ5g5o2eY) | [Phuong My Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Nỗi Buồn Gác Trọ \(Version Lofi\)](https://open.spotify.com/album/5RiWfZNluUklLApntD9oRG) | 2:53 | 2022-03-11 | 2022-10-11 |

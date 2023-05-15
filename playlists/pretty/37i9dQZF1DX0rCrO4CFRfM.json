@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 902314,
+  "num_followers": 902668,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDFlODBkZDY4ZjMyNzZjODFkY2U2Y2Q1MTg2ZGIzZjdiOTRkOTk2",
+  "snapshot_id": "MCxkNzUzOGNjMWZmZjM3YjliMzg3NmJkNWUyMzA4ZGFhMzFiOTcxNDE4",
   "tracks": [
     {
       "added_at": "2023-01-11 17:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Are You Gonna Be My Girl",
-        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Are You Gonna Be My Girl - Acoustic",
-      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Boxes (Acoustic)",
         "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 262186,
       "name": "Boxes - Acoustic",
       "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Are You Gonna Be My Girl",
+        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Are You Gonna Be My Girl - Acoustic",
+      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
     },
     {
       "added_at": "2023-01-11 17:00:00",

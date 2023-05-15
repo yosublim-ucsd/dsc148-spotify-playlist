@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 263818,
+  "num_followers": 263975,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmJkMDVhNGE2MGEwZDI2Njc1ZTEwNzhlM2UyMTU0ZTUyMjA1ODE2",
+  "snapshot_id": "MCwzN2FjYmZjNThkOGQwN2VkODhjN2MxODIxMTQ2NzQyYWQwODAwMDE4",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "Oh Lonesome Me",
+      "url": "https://open.spotify.com/track/0F8JWFitStLlel68uSLhUX"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "Memorial Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
       },
@@ -795,34 +811,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
       },
       "artists": [
         {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 149026,
-      "name": "Oh Lonesome Me",
-      "url": "https://open.spotify.com/track/0F8JWFitStLlel68uSLhUX"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Bobby Helms Sings To My Special Angel",
-        "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "My Special Angel",
-      "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
+      "duration_ms": 164240,
+      "name": "Under Your Spell Again",
+      "url": "https://open.spotify.com/track/62aHZDM8REF3iJKIVcNoRK"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
+        "name": "Bobby Helms Sings To My Special Angel",
+        "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
         }
       ],
-      "duration_ms": 164240,
-      "name": "Under Your Spell Again",
-      "url": "https://open.spotify.com/track/62aHZDM8REF3iJKIVcNoRK"
+      "duration_ms": 179293,
+      "name": "My Special Angel",
+      "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
     },
     {
       "added_at": "2023-01-02 21:32:07",

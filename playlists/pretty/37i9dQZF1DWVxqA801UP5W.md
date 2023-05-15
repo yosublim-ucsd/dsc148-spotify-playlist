@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,603 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,682 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 42 | [Boyfriend \- Tiësto Remix](https://open.spotify.com/track/3LfCdPrgeIikpAoHuMsN3b) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Boyfriend \(Tiësto Remix\)](https://open.spotify.com/album/4x7whh3CrAeZ5fF7WdraNN) | 2:57 |
 | 43 | [Don't Start Now \- Kungs Remix](https://open.spotify.com/track/4cqoZl61mIxLMak6gFCSIo) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Don't Start Now \(Remixes\)](https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt) | 3:36 |
 | 44 | [You & I \- Emily Nash Remix](https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy), [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [You & I \(Emily Nash Remix\)](https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz) | 2:52 |
-| 45 | [Skank All Night \(You Wot, You Wot\)](https://open.spotify.com/track/0gAHzuT4ekkbMAfscfCQXB) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Skank All Night \(You Wot, You Wot\)](https://open.spotify.com/album/328mrxymT5lIZ74ls25Ze6) | 2:44 |
-| 46 | [10:35 \(feat\. Tate McRae\) \- Joel Corry Remix](https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35 \(feat\. Tate McRae\) \[The Remixes\]](https://open.spotify.com/album/3das2a1AZx2zx9HfBwIwWo) | 3:01 |
+| 45 | [10:35 \(feat\. Tate McRae\) \- Joel Corry Remix](https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35 \(feat\. Tate McRae\) \[The Remixes\]](https://open.spotify.com/album/3das2a1AZx2zx9HfBwIwWo) | 3:01 |
+| 46 | [Skank All Night \(You Wot, You Wot\)](https://open.spotify.com/track/0gAHzuT4ekkbMAfscfCQXB) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Skank All Night \(You Wot, You Wot\)](https://open.spotify.com/album/328mrxymT5lIZ74ls25Ze6) | 2:44 |
 | 47 | [Sour Candy \(with BLACKPINK\) \- Shygirl & Mura Masa Remix](https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:45 |
 | 48 | [If We Ever Broke Up \- goddard\. Remix](https://open.spotify.com/track/2U9nC0E0VMiGEadMOdV6dN) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [If We Ever Broke Up \(goddard\. Remix\)](https://open.spotify.com/album/0ToSBYDbCC4Up9JlpZkXSr) | 2:36 |
 | 49 | [Save Room For Us \(Remix\)](https://open.spotify.com/track/0W7rLXul6bBP5uAkBXxQhE) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Save Room For Us \(Remix\)](https://open.spotify.com/album/6g5pWr4B5gwxjQjFCv84pW) | 2:41 |
 | 50 | [Better Days \- Galantis Remix](https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Better Days \(Remixes\)](https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ) | 3:01 |
 
-Snapshot ID: `MCxjMmVhNjExNzI4MzI5MjhiZjdiZjdjZDE1OGNmNWZhM2RiZjU5ZWM0`
+Snapshot ID: `MCw1MTc2NzU4ZWJmMmM4ZjJiZmUwMjk4MzkwNmQ1NWY3MDRjNGQ0ZGIw`

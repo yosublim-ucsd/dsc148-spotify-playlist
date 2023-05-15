@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9236,
+  "num_followers": 9244,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODU5Mjc5YzM5OGI3ZTkyNjRjYzA4YTg4NDViMzA5Mzc2ZTI0NjAy",
+  "snapshot_id": "MCw2MGZjMTgzYjVhMTQxNmMwN2I2YjA5NjQ2NjMyMjc5ZWQyYzgxZDU4",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Rate Who Rate You",
-        "url": "https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Rate Who Rate You",
-      "url": "https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Caution Riddim",
         "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 193488,
       "name": "Fattt",
       "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Rate Who Rate You",
+        "url": "https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Rate Who Rate You",
+      "url": "https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8"
     },
     {
       "added_at": "2022-02-24 18:00:00",

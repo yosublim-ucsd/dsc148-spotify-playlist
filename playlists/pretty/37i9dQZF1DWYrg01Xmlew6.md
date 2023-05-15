@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Luchè in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,938 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,048 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [Pane e miseria](https://open.spotify.com/track/73zmaeL2sXpoc9gsWQ38Fx) | [Luis Add](https://open.spotify.com/artist/3oMuALMGNkRZ5OZaktx8s0), [Pino Franzese](https://open.spotify.com/artist/0l0FOScVlsDoqviZiYCJpo) | [Pane e miseria](https://open.spotify.com/album/2QGUAAI0ygmYQ6nBjqlydS) | 2:57 |
 | 50 | [MON FRÈRE](https://open.spotify.com/track/0asWoyaaXT6epkNPPBZafV) | [Eris Gacha](https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2) | [MON FRÈRE](https://open.spotify.com/album/0ZNmo17Fggyeq9To4l203d) | 2:13 |
 
-Snapshot ID: `MCwyYjYzNzhjNDNlNDQxOTA1MzAxNzJiNjNkYjZiN2IzNzE5OGZlMjcz`
+Snapshot ID: `MCxhN2E2NzFmNTc0M2VjODVhZDczMjM1MTljOTliNmRjZmUxY2UxZjc3`

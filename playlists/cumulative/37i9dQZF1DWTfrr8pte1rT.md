@@ -4,7 +4,7 @@
 
 > Rock with a Drop Cover: ILLENIUM \\m/
 
-300 songs - 17 hr 9 min
+301 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Martyr](https://open.spotify.com/track/3cNhxhJQz1QF1aSqqj9ix5) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 2:37 | 2021-12-10 | 2022-07-29 |
 | [Medulla \- Barren Gates Remix](https://open.spotify.com/track/2MlzZqpjkGNCigtGOaj8oT) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt), [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Medulla \(Barren Gates Remix\)](https://open.spotify.com/album/0XF4M7GOmdrOouV87cKcLd) | 4:08 | 2021-12-10 | 2022-07-29 |
 | [Modern Guy \- grandson remix](https://open.spotify.com/track/06N9EtG8FGff0RBaQuyiV4) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Modern Guy \(grandson remix\)](https://open.spotify.com/album/2jSPvTo1wN8DKMIKZS6fzT) | 2:18 | 2021-12-10 | 2022-06-25 |
-| [Money Makes The World Go Round](https://open.spotify.com/track/13Y9yaZJ1kM9nQ7kKgCiwC) | [JAXSON GAMBLE](https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI), [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [Money Makes The World Go Round](https://open.spotify.com/album/46EIJuzWWUL56issUXlSaw) | 2:42 | 2023-03-03 |  |
+| [Money Makes The World Go Round](https://open.spotify.com/track/13Y9yaZJ1kM9nQ7kKgCiwC) | [JAXSON GAMBLE](https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI), [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [Money Makes The World Go Round](https://open.spotify.com/album/46EIJuzWWUL56issUXlSaw) | 2:42 | 2023-03-03 | 2023-05-15 |
 | [Moonlight](https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Moonlight](https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk) | 2:23 | 2022-03-18 | 2023-01-16 |
 | [My Head](https://open.spotify.com/track/4cvQl9lwZV9RkekUBdoYsY) | [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC), [Listing](https://open.spotify.com/artist/2KFVbDcO6wEgFaecVXDMhw) | [Bloom](https://open.spotify.com/album/2sy97HeTkGB4xLK4ATxuqV) | 4:30 | 2021-12-10 | 2022-01-27 |
 | [My Name Is Thunder](https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [The Great Electronic Swindle](https://open.spotify.com/album/20huTj57KXvDNglsTbvoDi) | 2:47 | 2021-12-10 |  |
@@ -232,6 +232,7 @@
 | [Rise Up](https://open.spotify.com/track/11s8gbi7pqmvuREruilbJP) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [IV](https://open.spotify.com/album/6osgmserT0Gtg7VjkoVxEQ) | 3:01 | 2021-12-10 | 2022-06-23 |
 | [Ritual](https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Ritual](https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq) | 4:06 | 2021-12-10 |  |
 | [Runaway](https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Runaway](https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X) | 3:16 | 2021-12-10 |  |
+| [Sacrifice \- Ray Volpe Remix](https://open.spotify.com/track/0Hi0rfeMiMvYdwXYMeML9t) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Color Decay \(Deluxe\)](https://open.spotify.com/album/4ivtHYEdInBvOFptjVmEYf) | 4:06 | 2023-05-05 |  |
 | [Sacrificial](https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Sacrificial](https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS) | 3:02 | 2021-12-10 |  |
 | [Satellite](https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Satellite](https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq) | 3:46 | 2022-07-22 | 2022-11-17 |
 | [Scars \(feat\. Yung Pinch\)](https://open.spotify.com/track/5vYFytw8LxagF6WbpK5imG) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Scars \(feat\. Yung Pinch\)](https://open.spotify.com/album/1zXaRrzJaDURzzFeic90Dc) | 3:16 | 2021-12-10 | 2022-02-23 |

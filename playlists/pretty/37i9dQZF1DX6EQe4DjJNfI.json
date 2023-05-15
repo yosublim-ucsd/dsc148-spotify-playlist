@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Yas Werneck",
-  "num_followers": 159981,
+  "num_followers": 160002,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjdiZGY3ZjZiYTIwNDQ4NzE4ODQyOTI5NTQ4YjA4MzEwN2I4YzA2",
+  "snapshot_id": "MCxkZmI3MjAzMmM4NWJiZWU2MzE3Y2U4MjlhNjU3NDdmM2E5YjQ3ZmIz",
   "tracks": [
     {
       "added_at": "2023-05-12 03:01:00",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
-        "name": "Sensual",
-        "url": "https://open.spotify.com/album/3P0v9NCQ7sp9mGjc44q42O"
-      },
-      "artists": [
-        {
-          "name": "Black Queen",
-          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
-        },
-        {
-          "name": "Rare G",
-          "url": "https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH"
-        },
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Sensual",
-      "url": "https://open.spotify.com/track/67n8fu0kS4alk55PRvqq70"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
         "name": "Rec\u00edproco",
         "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
       },
@@ -1115,6 +1091,30 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
+        "name": "Sensual",
+        "url": "https://open.spotify.com/album/3P0v9NCQ7sp9mGjc44q42O"
+      },
+      "artists": [
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Rare G",
+          "url": "https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH"
+        },
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Sensual",
+      "url": "https://open.spotify.com/track/67n8fu0kS4alk55PRvqq70"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
         "name": "Tempo pra Perder",
         "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
@@ -1131,18 +1131,26 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
-        "name": "Roupa de Ontem",
-        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
+        "name": "Teu Sinal",
+        "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
       "artists": [
         {
-          "name": "Krupinsk",
-          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
+          "name": "Nathy Veras",
+          "url": "https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "Bubblegun Studios",
+          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Roupa de Ontem",
-      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
+      "duration_ms": 189230,
+      "name": "Teu Sinal",
+      "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
     },
     {
       "added_at": "2023-05-12 03:01:00",
@@ -1171,26 +1179,18 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
-        "name": "Teu Sinal",
-        "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
+        "name": "Roupa de Ontem",
+        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
       },
       "artists": [
         {
-          "name": "Nathy Veras",
-          "url": "https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        },
-        {
-          "name": "Bubblegun Studios",
-          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
+          "name": "Krupinsk",
+          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
         }
       ],
-      "duration_ms": 189230,
-      "name": "Teu Sinal",
-      "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+      "duration_ms": 278000,
+      "name": "Roupa de Ontem",
+      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
     },
     {
       "added_at": "2023-05-12 03:01:00",

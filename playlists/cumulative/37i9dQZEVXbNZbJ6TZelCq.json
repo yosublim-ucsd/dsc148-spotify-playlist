@@ -3788,7 +3788,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 195300,
       "name": "Ciumaflex",
       "url": "https://open.spotify.com/track/2D5kYklIoaVBWQJeA9ckEh"
@@ -4600,7 +4600,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "Dac\u0103 n-ai bani",
       "url": "https://open.spotify.com/track/1C0G4YZEz2eOQlL2HfbyFO"
@@ -5240,7 +5240,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "Din cauza ta",
       "url": "https://open.spotify.com/track/35k1HtCpLlTncvJpipWVrL"
@@ -7726,6 +7726,24 @@
       "duration_ms": 175250,
       "name": "Gherla",
       "url": "https://open.spotify.com/track/5YvTO7gYQU4AScgbAZhkuR"
+    },
+    {
+      "album": {
+        "name": "Gipsy Style",
+        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
+      },
+      "artists": [
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188355,
+      "name": "Gipsy Style",
+      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
     },
     {
       "album": {
@@ -11114,7 +11132,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Libera",
       "url": "https://open.spotify.com/track/4j8mVMGhUkL2mCZnebKSPL"
@@ -12066,7 +12084,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 158297,
       "name": "MARATON - From \"Haita De Ac\u021biune\" The Movie",
       "url": "https://open.spotify.com/track/3YCtgIn37ssc8PQmw6WLC5"
@@ -15258,7 +15276,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 180063,
       "name": "Piramida",
       "url": "https://open.spotify.com/track/7FnJTkhJlH9DnRoa73SvNq"
@@ -16354,7 +16372,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 81014,
       "name": "Regii NFT",
       "url": "https://open.spotify.com/track/2JqiJCN3C9QPcD3baxZYyN"
@@ -19605,6 +19623,32 @@
     },
     {
       "album": {
+        "name": "Te-am a\u0219teptat (From \"Romina VTM\" The Movie)",
+        "url": "https://open.spotify.com/album/1kJAbSHnOXLxdoyyIhIIQH"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cherry",
+          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+        },
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185128,
+      "name": "Te-am a\u0219teptat - From \"Romina VTM\" The Movie",
+      "url": "https://open.spotify.com/track/1Uk54JjbaIHZCPPHgaKJmy"
+    },
+    {
+      "album": {
         "name": "Te-am vazut fara inel",
         "url": "https://open.spotify.com/album/6eL6yUUCqcaRVQXINrakiI"
       },
@@ -20022,7 +20066,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 178156,
       "name": "The Planet",
       "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
@@ -20304,7 +20348,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
@@ -21116,7 +21160,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 165283,
       "name": "UNDE M\u0102 DUC",
       "url": "https://open.spotify.com/track/0OT2P203sOLqq3haE6KH10"

@@ -1,13 +1,49 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 421903,
+  "num_followers": 421894,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWYxYTIxYzRkMmM0OGJhMTRkNTkwMDI0MTZhOGE1ZTMwMWFlMWM0",
+  "snapshot_id": "MCwwODRkNTI4ZGRjMWMxNDJjZTI1MjBmZTI1MGI0NjAyNGNlN2I1NWNm",
   "tracks": [
+    {
+      "added_at": "2023-05-14 07:00:00",
+      "album": {
+        "name": "Uno De Eses Gatos",
+        "url": "https://open.spotify.com/album/2XqFUgoZxHF0rlx8FVafHy"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "duration_ms": 165350,
+      "name": "Uno De Eses Gatos",
+      "url": "https://open.spotify.com/track/2tkDf7W81NUS5EnZLHK93h"
+    },
+    {
+      "added_at": "2023-05-14 07:00:00",
+      "album": {
+        "name": "Dame Un Break",
+        "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 200598,
+      "name": "Dame Un Break",
+      "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
+    },
     {
       "added_at": "2023-05-12 05:02:00",
       "album": {
@@ -843,38 +879,6 @@
       "duration_ms": 340200,
       "name": "Medalla de Oro",
       "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
-    },
-    {
-      "added_at": "2023-04-10 18:00:00",
-      "album": {
-        "name": "Blin Blin",
-        "url": "https://open.spotify.com/album/3Qz5C0bjoDOCfEe9FldQVC"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Blin Blin",
-      "url": "https://open.spotify.com/track/6cg36xQgUAsbRJ6xaadKWD"
-    },
-    {
-      "added_at": "2023-04-10 18:00:00",
-      "album": {
-        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
-        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 326961,
-      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
     },
     {
       "added_at": "2023-04-10 18:00:00",

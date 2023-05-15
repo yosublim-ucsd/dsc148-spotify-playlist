@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 141825,
       "name": "El Bikini de la Chica Popof",
       "url": "https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3"
@@ -1722,6 +1722,24 @@
       "duration_ms": 199266,
       "name": "Hey Lupe",
       "url": "https://open.spotify.com/track/1U0KCm09KsWCZjuEqQhctq"
+    },
+    {
+      "album": {
+        "name": "Rock en Espanol, Vol. 1",
+        "url": "https://open.spotify.com/album/7izW2Pzyz1qLA2Z6Pc79xS"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Hey Lupe",
+      "url": "https://open.spotify.com/track/1oyb4zsThmXB92wdKWcqXv"
     },
     {
       "album": {

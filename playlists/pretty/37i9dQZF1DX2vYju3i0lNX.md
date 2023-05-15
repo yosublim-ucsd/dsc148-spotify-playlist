@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,184 likes - 423 songs - 1 day 0 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,382 likes - 423 songs - 1 day 0 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -432,4 +432,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 422 | [Postcards](https://open.spotify.com/track/1IxO95D87hSIyA20XTLCiU) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Postcards](https://open.spotify.com/album/6Oi5hnd7ZOiAlhv9AYTenT) | 3:05 |
 | 423 | [Copley Plaza](https://open.spotify.com/track/6FXuCckUGvVWpRrtfuQ5xQ) | [Low City Trio](https://open.spotify.com/artist/1GYL97YxtpuZ6V3QCMRxyo) | [Low City](https://open.spotify.com/album/7l9iEJK2yf9wHuzagin2MX) | 5:06 |
 
-Snapshot ID: `MCw5ZmViMGUzN2FiMmMzNjg0NzZlYjVkNDhlYmFkZWVlNGRiNTkxNmI1`
+Snapshot ID: `MCxiNzQzZmM4YzI0MGQ0MTY4OTY2MGY2N2ExNmRlZWE2ZWM4NjQzMTJi`

@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Gondwana",
-  "num_followers": 1237501,
+  "num_followers": 1237608,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmI5NjY3NjE4YTBjNTNlMjFkYTljMjA2N2JkNGUzY2UxNDZlZThi",
+  "snapshot_id": "MCxlOWE1MzMyYTJiMTc5OGZlNGI4ODg4YmM0Njc1MzRiN2QwYTU2N2Jk",
   "tracks": [
     {
       "added_at": "2023-05-05 16:28:21",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-05-05 16:28:21",
       "album": {
+        "name": "Esfuerzo Universal",
+        "url": "https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 305813,
+      "name": "Sal a Caminar",
+      "url": "https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ"
+    },
+    {
+      "added_at": "2023-05-05 16:28:21",
+      "album": {
         "name": "Pupilas Lejanas",
         "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 206328,
       "name": "Lo M\u00e1s Sincero",
       "url": "https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM"
-    },
-    {
-      "added_at": "2023-05-05 16:28:21",
-      "album": {
-        "name": "Esfuerzo Universal",
-        "url": "https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 305813,
-      "name": "Sal a Caminar",
-      "url": "https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ"
     },
     {
       "added_at": "2023-05-05 16:28:21",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-05-05 16:28:21",
       "album": {
-        "name": "Calamaro Querido!! Cantando Al Salm\u00f3n Parte 1",
-        "url": "https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "A Los Ojos",
-      "url": "https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ"
-    },
-    {
-      "added_at": "2023-05-05 16:28:21",
-      "album": {
         "name": "Obvio S\u00ed",
         "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 177536,
       "name": "El Seis",
       "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
+    },
+    {
+      "added_at": "2023-05-05 16:28:21",
+      "album": {
+        "name": "Calamaro Querido!! Cantando Al Salm\u00f3n Parte 1",
+        "url": "https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "A Los Ojos",
+      "url": "https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ"
     },
     {
       "added_at": "2023-05-05 16:28:21",
@@ -1707,78 +1707,6 @@
     {
       "added_at": "2023-05-05 16:28:21",
       "album": {
-        "name": "Seguirla",
-        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
-      },
-      "artists": [
-        {
-          "name": "Gaspar OM",
-          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
-        },
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 191776,
-      "name": "Seguirla",
-      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
-    },
-    {
-      "added_at": "2023-05-05 16:28:21",
-      "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
-    },
-    {
-      "added_at": "2023-05-05 16:28:21",
-      "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
-      },
-      "artists": [
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        },
-        {
-          "name": "The Islanauts",
-          "url": "https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx"
-        }
-      ],
-      "duration_ms": 195156,
-      "name": "Cocomango",
-      "url": "https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY"
-    },
-    {
-      "added_at": "2023-05-05 16:28:21",
-      "album": {
-        "name": "MIL Canciones",
-        "url": "https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Sin Ti (feat. Quique Neira)",
-      "url": "https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi"
-    },
-    {
-      "added_at": "2023-05-05 16:28:21",
-      "album": {
         "name": "Celebration (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E"
       },
@@ -1803,6 +1731,78 @@
       "duration_ms": 231933,
       "name": "Celebration (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr"
+    },
+    {
+      "added_at": "2023-05-05 16:28:21",
+      "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
+    },
+    {
+      "added_at": "2023-05-05 16:28:21",
+      "album": {
+        "name": "MIL Canciones",
+        "url": "https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Sin Ti (feat. Quique Neira)",
+      "url": "https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi"
+    },
+    {
+      "added_at": "2023-05-05 16:28:21",
+      "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
+      },
+      "artists": [
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        },
+        {
+          "name": "The Islanauts",
+          "url": "https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx"
+        }
+      ],
+      "duration_ms": 195156,
+      "name": "Cocomango",
+      "url": "https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY"
+    },
+    {
+      "added_at": "2023-05-05 16:28:21",
+      "album": {
+        "name": "Seguirla",
+        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
+      },
+      "artists": [
+        {
+          "name": "Gaspar OM",
+          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
+        },
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 191776,
+      "name": "Seguirla",
+      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
     },
     {
       "added_at": "2023-05-05 16:28:21",

@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 47898,
+  "num_followers": 47934,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjNjZTNhMjE3NDZmYzNmZTRiZWVhOGVkZTk0OWU1NTU4ODUxNzQw",
+  "snapshot_id": "MCwzOGFiYjhlN2MwMjM5OThhNzM4ZjllN2MxMGUxOWMxNmRhZmNkMTUz",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -247,22 +247,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Zapp",
-        "url": "https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY"
-      },
-      "artists": [
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
-        }
-      ],
-      "duration_ms": 311120,
-      "name": "More Bounce to the Ounce",
-      "url": "https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Superfly (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 233600,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Zapp",
+        "url": "https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY"
+      },
+      "artists": [
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+        }
+      ],
+      "duration_ms": 311120,
+      "name": "More Bounce to the Ounce",
+      "url": "https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -663,6 +663,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Tuxedo III",
+        "url": "https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX"
+      },
+      "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        }
+      ],
+      "duration_ms": 209875,
+      "name": "On a Good One",
+      "url": "https://open.spotify.com/track/71nvrESAOkHt17x0n5pibQ"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Jeannie's Getdown",
         "url": "https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 186348,
       "name": "A Message from the Meters",
       "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Tuxedo III",
-        "url": "https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX"
-      },
-      "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        }
-      ],
-      "duration_ms": 209875,
-      "name": "On a Good One",
-      "url": "https://open.spotify.com/track/71nvrESAOkHt17x0n5pibQ"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -787,22 +787,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Tuxedo II",
-        "url": "https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68"
-      },
-      "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        }
-      ],
-      "duration_ms": 166590,
-      "name": "Fux with the Tux",
-      "url": "https://open.spotify.com/track/5pdyEWdUmpbxs9jkAagOMh"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Souled Out",
         "url": "https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 210160,
       "name": "Miss Madison",
       "url": "https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Tuxedo II",
+        "url": "https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68"
+      },
+      "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        }
+      ],
+      "duration_ms": 166590,
+      "name": "Fux with the Tux",
+      "url": "https://open.spotify.com/track/5pdyEWdUmpbxs9jkAagOMh"
     },
     {
       "added_at": "2019-09-20 18:33:34",
@@ -1001,6 +1001,22 @@
       "url": "https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq"
     },
     {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Funky President (People It's Bad)",
+      "url": "https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep"
+    },
+    {
       "added_at": "2019-09-20 18:17:51",
       "album": {
         "name": "Shake It",
@@ -1019,22 +1035,6 @@
       "duration_ms": 177080,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/1apfl27W9ell44IcK6Wb1t"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Funky President (People It's Bad)",
-      "url": "https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Breaks from the Border",
-        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Take What You Need",
-      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Undercover Mixtape",
         "url": "https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 265800,
       "name": "Death Or Devotion",
       "url": "https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Breaks from the Border",
+        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
     },
     {
       "added_at": "2019-08-22 14:26:16",

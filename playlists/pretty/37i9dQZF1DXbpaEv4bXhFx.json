@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 8778,
+  "num_followers": 8783,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzVmYTlkMDEwNzg0MDM5ZGI5MTlkNzI4NGY0NDQ4NTJhZGZhNzhj",
+  "snapshot_id": "MCxlNDhjMjgzMTFkNjFmYjUzMTcxODFiYmQ0OTcxNjI4MWQzZmE4OTQ5",
   "tracks": [
     {
       "added_at": "2023-05-05 08:13:30",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-05-05 08:13:30",
       "album": {
+        "name": "Track 03",
+        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
+    },
+    {
+      "added_at": "2023-05-05 08:13:30",
+      "album": {
         "name": "You Are My Spring OST Part 3",
         "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 210857,
       "name": "tokki",
       "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"
-    },
-    {
-      "added_at": "2023-05-05 08:13:30",
-      "album": {
-        "name": "Track 03",
-        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
-      },
-      "artists": [
-        {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
     },
     {
       "added_at": "2023-05-05 08:13:30",

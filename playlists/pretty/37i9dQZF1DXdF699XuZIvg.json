@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 626518,
+  "num_followers": 627054,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGQ2ZjQzOWVmZmFkY2E5MTIxMzYyYmEwYTkyZTFmMjU0YjY1NjE5",
+  "snapshot_id": "MCxlNzNmM2U4MmY2OWU0NjJhMDVkZGE4NWY3M2RjMzE1ODU0YThlZjgw",
   "tracks": [
     {
       "added_at": "2023-03-13 17:39:55",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
+        "name": "23 Singles",
+        "url": "https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB"
+      },
+      "artists": [
+        {
+          "name": "Beatsteaks",
+          "url": "https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Hand In Hand",
+      "url": "https://open.spotify.com/track/6gX9WJMPGIdszeHjBp2w4w"
+    },
+    {
+      "added_at": "2023-03-13 17:39:55",
+      "album": {
         "name": "Outlaws & Outsiders",
         "url": "https://open.spotify.com/album/1FMwktOdGcAx5tzgdHRUf4"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
-        "name": "23 Singles",
-        "url": "https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB"
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
       },
       "artists": [
         {
-          "name": "Beatsteaks",
-          "url": "https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 169066,
-      "name": "Hand In Hand",
-      "url": "https://open.spotify.com/track/6gX9WJMPGIdszeHjBp2w4w"
+      "duration_ms": 250600,
+      "name": "Eat The Rich",
+      "url": "https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd"
     },
     {
       "added_at": "2023-03-13 17:39:55",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+        "name": "See Where The Night Goes",
+        "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
         }
       ],
-      "duration_ms": 250600,
-      "name": "Eat The Rich",
-      "url": "https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd"
+      "duration_ms": 247895,
+      "name": "Step Aside",
+      "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
     },
     {
       "added_at": "2023-03-13 17:39:55",
@@ -1195,38 +1211,18 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
-        "name": "See Where The Night Goes",
-        "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
+        "name": "Hidden Gems",
+        "url": "https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B"
       },
       "artists": [
         {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
         }
       ],
-      "duration_ms": 247895,
-      "name": "Step Aside",
-      "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
-    },
-    {
-      "added_at": "2023-03-13 17:39:55",
-      "album": {
-        "name": "Talk To Me (feat. Lzzy Hale)",
-        "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Lzzy Hale",
-          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
-        }
-      ],
-      "duration_ms": 208021,
-      "name": "Talk To Me (feat. Lzzy Hale)",
-      "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
+      "duration_ms": 222936,
+      "name": "Shakin' Off The Rust",
+      "url": "https://open.spotify.com/track/5PUlGG3xO8PUuDcYKuaeZH"
     }
   ],
   "unique_name": "Highway to Yell",

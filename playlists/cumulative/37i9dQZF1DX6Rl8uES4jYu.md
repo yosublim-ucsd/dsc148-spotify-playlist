@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-377 songs - 21 hr 22 min
+377 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Crybaby](https://open.spotify.com/track/1dBmN1VxLCgBEVnvE5NCGe) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Ill Camille](https://open.spotify.com/artist/4XPgViBvmCOxptCYxTvJo4), [MXXWLL](https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU) | [Crybaby](https://open.spotify.com/album/38hQVfL0zZ8BCQ1fmp2O3g) | 3:37 | 2021-05-14 | 2022-07-17 |
 | [Damage](https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX) | [The Groove Collection](https://open.spotify.com/album/2Z6wtJYpyZux5OZHpYZxzH) | 2:30 | 2021-09-21 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/71rj28ER4lLn4hzv5uoU28) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Cody Dear](https://open.spotify.com/artist/019crWCRkPjQjBnhKaafTV) | [Dance With Me](https://open.spotify.com/album/0FpS3fMRCvjggvuaNFQzvg) | 2:33 | 2020-11-13 | 2022-03-26 |
-| [Dance With You \(The Comeback\)](https://open.spotify.com/track/1ilkppSXMza88ER3LRG05B) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Dance With You \(The Comeback\)](https://open.spotify.com/album/2nN3SvOwvL9p98jt1fPnKp) | 2:44 | 2023-04-07 |  |
+| [Dance With You \(The Comeback\)](https://open.spotify.com/track/1ilkppSXMza88ER3LRG05B) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Dance With You \(The Comeback\)](https://open.spotify.com/album/2nN3SvOwvL9p98jt1fPnKp) | 4:00 | 2023-04-07 |  |
 | [Daydreams](https://open.spotify.com/track/7471rZWt1MAHHS54AUd0cy) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Daydreams/Sunset](https://open.spotify.com/album/0SxqQkr5kB82oG93fRvtjE) | 4:02 | 2020-11-13 | 2022-03-26 |
 | [Design](https://open.spotify.com/track/1pX8oB4YvglQZEkLJBMkRv) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Design](https://open.spotify.com/album/5x1d3pzZkeUW3lDPgsbPHH) | 3:37 | 2021-05-14 | 2022-04-21 |
 | [Devotion \- Shakur Ahmad Remix](https://open.spotify.com/track/6wKmElTGYNVPTJ9AE9lqxe) | [Flara K](https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Shakur Ahmad](https://open.spotify.com/artist/2AH7NRIWkddZkdpyiFuR8S) | [Devotion \(Shakur Ahmad Remix\)](https://open.spotify.com/album/5MLhPlELucdc3OdlACAXdC) | 3:20 | 2021-04-09 | 2022-08-09 |

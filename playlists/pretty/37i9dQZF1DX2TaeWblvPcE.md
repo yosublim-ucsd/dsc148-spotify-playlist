@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 
 > Concentrate comfortably with sweet k\-pop accompaniments without lyrics\. \(가사 없는 감미로운 가요 반주곡들과 편안하게 집중하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,524 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,530 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 24 | [Love Poem](https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF) | [짱군 Zzanggoon](https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL) | [이 겨울 피아노로 만나는 따끈한 K\-Pop K\-Pop Hotlist Piano for the Winter](https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H) | 4:16 |
 | 25 | [Shine On You \- Instrumental](https://open.spotify.com/track/5YulRNwiJWA0XbTr08D5fx) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Record of Youth \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0RXkfsaEQIeOyAfC5Im2hY) | 4:30 |
 | 26 | [Orbit \- Instrumental](https://open.spotify.com/track/17cK339xKTGOIlBTM02WbS) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2) | 3:06 |
-| 27 | [I Just Want To Stay With You \- Instrumental](https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T) | 3:27 |
+| 27 | [Be a Flame](https://open.spotify.com/track/2wt4pn6IN8L2eatDPT6EkC) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Mr\. Sunshine \(Original Television Soundtrack\)](https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ) | 3:22 |
 | 28 | [Feel Special \(Sad Ver.\)](https://open.spotify.com/track/1KnxMIoj6vvru9055Le3II) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 3:52 |
-| 29 | [Be a Flame](https://open.spotify.com/track/2wt4pn6IN8L2eatDPT6EkC) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Mr\. Sunshine \(Original Television Soundtrack\)](https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ) | 3:22 |
+| 29 | [I Just Want To Stay With You \- Instrumental](https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T) | 3:27 |
 | 30 | [That Person \- Instrumental](https://open.spotify.com/track/7JhEKgTX5WoIWJkJk4tBUy) | [Monogram](https://open.spotify.com/artist/527XQt0xJFseCh4cu50LuC) | [A Poem a Day \(tvN DRAMA\) OST Part.7](https://open.spotify.com/album/01neY4Yc8lzmHDagkIuYW2) | 3:32 |
 | 31 | [More Than Words \- Instrumental](https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [DINNER MATE \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF) | 3:15 |
 | 32 | [With My Tears \- Instrumental](https://open.spotify.com/track/6j1NUuVnwa20lAEpyqcLA3) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em) | 4:13 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 89 | [Stay Gold](https://open.spotify.com/track/7GwffgrxyiUAIsUpkXoWdO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 4:26 |
 | 90 | [Eight](https://open.spotify.com/track/3mawoeGPC2iTtLicvHTQfC) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 2:56 |
 | 91 | [Ice Cream](https://open.spotify.com/track/79UofKF9hZbHO0znW7JARC) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 3:49 |
-| 92 | [Into The New World](https://open.spotify.com/track/5ECj49QATlIZ13JP58SVW8) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 5:00 |
-| 93 | [Fake Love](https://open.spotify.com/track/5M6UhxWExK0Tc9ZsXsMjIQ) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of BTS, Vol\. 2](https://open.spotify.com/album/0eVZHRyaA8xrIhMCTcLA9w) | 4:10 |
+| 92 | [Fake Love](https://open.spotify.com/track/5M6UhxWExK0Tc9ZsXsMjIQ) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [The Best of BTS, Vol\. 2](https://open.spotify.com/album/0eVZHRyaA8xrIhMCTcLA9w) | 4:10 |
+| 93 | [Into The New World](https://open.spotify.com/track/5ECj49QATlIZ13JP58SVW8) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 5:00 |
 | 94 | [Don't Wanna Cry](https://open.spotify.com/track/3uIevIXr4mTipq1bBhNWGS) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 3:31 |
 | 95 | [Black Swan](https://open.spotify.com/track/19KkK8hM5JzQBSqjQilIhb) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 3:37 |
 | 96 | [SOLO](https://open.spotify.com/track/4j656MxuT4dVMC61idr7ax) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 99 | [Boy With Luv](https://open.spotify.com/track/7xThmcrNfxkwlljLH1tkzO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 4:00 |
 | 100 | [Make It Right](https://open.spotify.com/track/1CalLW36KN3v7Qx57BgVTV) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 3:54 |
 
-Snapshot ID: `MCwyNGQ0NzY4ZDNiZjYzOTllOTVkZmQyMTY1ZjFhYTUzYTUzNTljZWM0`
+Snapshot ID: `MCw3N2FkZTEyOTE2MDdjMjgxNTA5MTVkMWE3ZGM5NjRhNDNkMDMyYjhm`

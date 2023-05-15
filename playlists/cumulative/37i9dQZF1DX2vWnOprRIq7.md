@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.
 
-116 songs - 7 hr 1 min
+117 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Galactic Feelings](https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Galactic Feelings](https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X) | 4:10 | 2023-03-17 |  |
 | [Haikus](https://open.spotify.com/track/4FRghceXp9rv6OpVak9d7u) | [KO](https://open.spotify.com/artist/1hEKn5JEB1BjkjaEqn7ERu) | [Kamishibai: Un Viaje Tejido en el Tiempo](https://open.spotify.com/album/5rqbwd6aFbeFiOAMbm8jFt) | 3:31 | 2023-04-21 | 2023-05-13 |
 | [hambre](https://open.spotify.com/track/2tZflzxvr7gqNqkKlOl0M4) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [mondomamba](https://open.spotify.com/album/6sUFaYvnWtt4mfD5OtUZMS) | 3:32 | 2023-03-17 |  |
-| [Hasta el Final](https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26) | [Sofía Uzal](https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd) | [Hasta el Final](https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY) | 2:49 | 2023-03-17 |  |
+| [Hasta el Final](https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26) | [Sofía Uzal](https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd) | [Hasta el Final](https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY) | 2:49 | 2023-03-17 | 2023-05-15 |
 | [Hondo](https://open.spotify.com/track/0KeAMlYAbxfA1YL5HPZqkl) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:57 | 2023-03-17 |  |
 | [HYPERREAL](https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:00 | 2023-03-17 |  |
 | [Ilegal](https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ), [ALOT](https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV) | [Ilegal](https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd) | 2:31 | 2023-03-17 |  |
@@ -61,6 +61,7 @@
 | [La Luna de Madrid](https://open.spotify.com/track/3PK51yIv33XfpD3jfBxy76) | [DouleurDolor](https://open.spotify.com/artist/6vfKO3oqYLZffoexZveF6T) | [La Luna de Madrid](https://open.spotify.com/album/3Ji3Q5aaBM7kp3dmP5ALbu) | 3:39 | 2023-03-17 |  |
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2023-03-17 |  |
 | [Lento](https://open.spotify.com/track/4DnVYaILlOP8hmakfhihoq) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lento](https://open.spotify.com/album/5qV1Lre7WqcT9UJCDMZyed) | 3:12 | 2023-04-21 |  |
+| [Libre](https://open.spotify.com/track/7iiErQtUNjJgpKlMlAIEsF) | [Nina Vais](https://open.spotify.com/artist/0qVAQKgjUfw82KTe43p1tF) | [Libre](https://open.spotify.com/album/4etlu4cg4TYpsjpbFEht1e) | 3:57 | 2023-05-12 |  |
 | [LLUVIA](https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [LLUVIA](https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd) | 3:38 | 2023-03-17 |  |
 | [Luna Blanca](https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Lo Que Fue](https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT) | 3:40 | 2023-03-17 |  |
 | [Mala](https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db) | [Curena Mía](https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx) | [Mala](https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV) | 3:55 | 2023-03-17 |  |

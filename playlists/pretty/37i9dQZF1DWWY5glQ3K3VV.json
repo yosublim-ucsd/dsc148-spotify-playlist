@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Tony Effe",
-  "num_followers": 78979,
+  "num_followers": 79064,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTI5MjZhNDI5YWIyMDY3ZTYzY2UyNzI1NGY3OTk1NmQ5Y2VlYjI3",
+  "snapshot_id": "MCw0Y2IxYTA5NGEzZmZhMmU3OTY5YzZmMTk2MWY3NWJmMzUzYmUzYWE0",
   "tracks": [
     {
       "added_at": "2023-04-19 19:49:54",
@@ -1087,8 +1087,8 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
-        "name": "BlaBlaBla",
-        "url": "https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7"
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
       },
       "artists": [
         {
@@ -1096,17 +1096,13 @@
           "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
         },
         {
-          "name": "Nardi",
-          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
-        },
-        {
-          "name": "Finesse",
-          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
         }
       ],
-      "duration_ms": 113511,
-      "name": "BlaBlaBla",
-      "url": "https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP"
+      "duration_ms": 152440,
+      "name": "Twerk (con Boro Boro)",
+      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -1187,8 +1183,8 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
+        "name": "BlaBlaBla",
+        "url": "https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7"
       },
       "artists": [
         {
@@ -1196,13 +1192,17 @@
           "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
         },
         {
-          "name": "Boro Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+          "name": "Nardi",
+          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
         }
       ],
-      "duration_ms": 152440,
-      "name": "Twerk (con Boro Boro)",
-      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
+      "duration_ms": 113511,
+      "name": "BlaBlaBla",
+      "url": "https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP"
     },
     {
       "added_at": "2023-04-19 19:49:54",

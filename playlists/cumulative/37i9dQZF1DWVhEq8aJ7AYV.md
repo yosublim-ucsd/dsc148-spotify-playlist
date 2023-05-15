@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-229 songs - 11 hr 24 min
+230 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [El Beach Boy](https://open.spotify.com/track/1P56hKJF93achBpRvllYcV) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/05IVUYcH4LBJifRy3C0BBB) | 2:17 | 2021-09-03 | 2022-07-29 |
 | [El Beach Boy](https://open.spotify.com/track/6oqxj450uTm4141WYeLLOM) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:17 | 2021-09-03 |  |
 | [El Bikini de la Chica Popof](https://open.spotify.com/track/5v9qoKW6B0czgAEubebKJt) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/05IVUYcH4LBJifRy3C0BBB) | 2:21 | 2021-09-03 | 2022-07-29 |
-| [El Bikini de la Chica Popof](https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:21 | 2021-09-03 |  |
+| [El Bikini de la Chica Popof](https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:21 | 2021-09-03 | 2023-05-15 |
 | [El Exorsista](https://open.spotify.com/track/2uEbPvG2mUuDuvwN3JhPiu) | [Espectroplasma](https://open.spotify.com/artist/48ljuzBJK83T0146ueaNZq) | [Espectroplasma I](https://open.spotify.com/album/4VDEjivZLmKKHWR01lIPjL) | 2:25 | 2021-09-03 | 2022-07-28 |
 | [El Garage de Gina Monster](https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Tequila Connection 3](https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC) | 3:03 | 2021-09-03 | 2022-11-13 |
 | [El Gran Sur](https://open.spotify.com/track/6yA543x9Q4ayk9nMOBpJ1C) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 4:10 | 2021-09-03 | 2022-07-26 |
@@ -102,6 +102,7 @@
 | [Haunted Hipster](https://open.spotify.com/track/68SpOPs6SbGBK7WFTfsUB7) | [The Fleshtones](https://open.spotify.com/artist/3a9cSOmXeX3S8Tosfy9Dwv) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3D6VjAipDxmTrWtlqfEmlI) | 3:00 | 2021-09-03 | 2022-07-27 |
 | [Hawaii Five\-O](https://open.spotify.com/track/3UUwbJd2j4RORlalTUhaDk) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Hawaii Five\-O](https://open.spotify.com/album/3Z2RefmmeYl2m3K2Vj4Yj1) | 1:53 | 2021-09-03 |  |
 | [Hey Lupe](https://open.spotify.com/track/1U0KCm09KsWCZjuEqQhctq) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Rock en Espanol, Vol\. 1](https://open.spotify.com/album/1i5umb6OsQrLPqWA84vKql) | 3:19 | 2021-09-03 | 2023-04-29 |
+| [Hey Lupe](https://open.spotify.com/track/1oyb4zsThmXB92wdKWcqXv) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Rock en Espanol, Vol\. 1](https://open.spotify.com/album/7izW2Pzyz1qLA2Z6Pc79xS) | 3:19 | 2021-09-03 |  |
 | [Hey Lupe](https://open.spotify.com/track/6DvXacvfWJMQjbf7svgLKV) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Rock En Espanol Vol\. 1](https://open.spotify.com/album/6gE8ol6OTdEFZ1N9UkEatE) | 3:19 | 2021-09-03 | 2022-07-29 |
 | [Hey Monstruo Hey](https://open.spotify.com/track/1hYC8B4sfO4Wyi7WFbB44P) | [Wau y Los Arrrghs!!!](https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh) | [Canten en Espanol](https://open.spotify.com/album/4fP6yefBsMCraBXac208kD) | 2:06 | 2021-09-03 | 2022-07-29 |
 | [Hippie Marihuano](https://open.spotify.com/track/7pB63ZDL6eTzBis4vyBn7T) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [The Return of the Champiñons](https://open.spotify.com/album/5GWNXyFe76ENUIcpXhSHcp) | 2:57 | 2021-09-03 | 2022-07-28 |

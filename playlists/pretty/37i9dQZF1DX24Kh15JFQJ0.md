@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,020 likes - 146 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,046 likes - 146 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 62 | [Along Comes A Girl](https://open.spotify.com/track/72QxSlml6G5C1m2RLEyNuL) | [McBride & The Ride](https://open.spotify.com/artist/5frbtLmwyULdCkg8VqcEvV) | [Along Comes A Girl](https://open.spotify.com/album/5QG6mzPUvkigoYv1kNKEDv) | 3:29 |
 | 63 | [Hearts in the Sand](https://open.spotify.com/track/3C91xtXZGNY4mM2DcbzlRt) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [The Rest of It's Mine](https://open.spotify.com/album/6b5WQURAJNRYKYYKbtMenX) | 3:56 |
 | 64 | [Little by Little](https://open.spotify.com/track/4zSbTl3sUeqanklVBUqO8p) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Little by Little](https://open.spotify.com/album/3kcWY1qUhNQVWLFPYKdfAc) | 3:17 |
-| 65 | [Country Star](https://open.spotify.com/track/0ZesYm9KhuCthYX8No6eMs) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Country Star](https://open.spotify.com/album/3y792nYJ1zF9mjLEGDfUDc) | 3:05 |
+| 65 | [Country Star](https://open.spotify.com/track/4mUtEy26ZqNiquNBKgnF6C) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Country Star](https://open.spotify.com/album/66hwNPOLrvdIDsKZJZW0gD) | 3:05 |
 | 66 | [I Like It When It's Stormy](https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Rich White Honky Blues](https://open.spotify.com/album/38rR3FBk86jQHnEqmozisW) | 3:19 |
 | 67 | [Redhead](https://open.spotify.com/track/3zAnuUCPKbRBsOsllYCmFC) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Redhead](https://open.spotify.com/album/7hCl3yuH8JK5vRR0iSQpwF) | 2:43 |
 | 68 | [Tiger By The Tail](https://open.spotify.com/track/7jRNqtVCBvXa1XzJJCqwng) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Don't Know A Thing About Love: The Songs of Harlan Howard](https://open.spotify.com/album/4lO42iHAoge8T139BkRc8S) | 2:24 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 145 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 |
 | 146 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MCw4ZGI4YzIxMGE1YTJhMTVjOTVlMzBhYTdiYTQyM2IyOGI2OGFlY2Ez`
+Snapshot ID: `MCwzMTNlMDg0ZWI1NGY4MmQ3ZjBiYmI2NjIxNzUxZWQ0OTc3NjFmY2Q3`

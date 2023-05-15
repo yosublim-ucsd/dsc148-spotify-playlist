@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 107878,
+  "num_followers": 107926,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzg2Mjk4YWExNGRkNzAzZTNkYzRiNmUwMTE5NDkxMDYwMzcxNWQ4",
+  "snapshot_id": "MCwyYTBiZmJiZmYwNDU5ZmIzYjMzZTg1NGUwNmJmMjU2MDQ5MDU4ZmMx",
   "tracks": [
     {
       "added_at": "2023-05-08 10:32:53",
@@ -451,30 +451,6 @@
     {
       "added_at": "2023-05-08 10:32:53",
       "album": {
-        "name": "Blessings REMIX (feat. French Montana & Davido)",
-        "url": "https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9"
-      },
-      "artists": [
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Blessings REMIX (feat. French Montana & Davido)",
-      "url": "https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5"
-    },
-    {
-      "added_at": "2023-05-08 10:32:53",
-      "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
+    },
+    {
+      "added_at": "2023-05-08 10:32:53",
+      "album": {
+        "name": "Blessings REMIX (feat. French Montana & Davido)",
+        "url": "https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9"
+      },
+      "artists": [
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Blessings REMIX (feat. French Montana & Davido)",
+      "url": "https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5"
     },
     {
       "added_at": "2023-05-08 10:32:53",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-05-08 10:32:53",
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Jeje de Whine",
+      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
+    },
+    {
+      "added_at": "2023-05-08 10:32:53",
+      "album": {
         "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
         "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
-    },
-    {
-      "added_at": "2023-05-08 10:32:53",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Jeje de Whine",
-      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
     },
     {
       "added_at": "2023-05-08 10:32:53",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-05-08 10:32:53",
       "album": {
+        "name": "WONDALAND",
+        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "MOSLADO",
+      "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
+    },
+    {
+      "added_at": "2023-05-08 10:32:53",
+      "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 192108,
       "name": "Guava Rose",
       "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
-    },
-    {
-      "added_at": "2023-05-08 10:32:53",
-      "album": {
-        "name": "WONDALAND",
-        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "MOSLADO",
-      "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
     },
     {
       "added_at": "2023-05-08 10:32:53",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-05-08 10:32:53",
       "album": {
+        "name": "No Wahala (Latin Remix)",
+        "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 157523,
+      "name": "No Wahala - Latin Remix",
+      "url": "https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4"
+    },
+    {
+      "added_at": "2023-05-08 10:32:53",
+      "album": {
         "name": "Mimosas (Remix)",
         "url": "https://open.spotify.com/album/1xsyvauPdMlbEoqnJAAsZ9"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 273370,
       "name": "Mimosas - Remix",
       "url": "https://open.spotify.com/track/07grlLnIM285o7Y69mge5L"
-    },
-    {
-      "added_at": "2023-05-08 10:32:53",
-      "album": {
-        "name": "No Wahala (Latin Remix)",
-        "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 157523,
-      "name": "No Wahala - Latin Remix",
-      "url": "https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4"
     },
     {
       "added_at": "2023-05-08 10:32:53",
@@ -1483,22 +1483,22 @@
     {
       "added_at": "2023-05-08 10:32:53",
       "album": {
-        "name": "Mare Mare",
-        "url": "https://open.spotify.com/album/5smSak9EETU92nlyJ4ARRS"
+        "name": "LoLo (Remix) [feat. Farina]",
+        "url": "https://open.spotify.com/album/2x2JPCp6svGwi8zHO6Y0fU"
       },
       "artists": [
         {
-          "name": "Matata",
-          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         },
         {
-          "name": "Lamaz KOB",
-          "url": "https://open.spotify.com/artist/4kqNOkXINObNexaey34DMj"
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
         }
       ],
-      "duration_ms": 197210,
-      "name": "Mare Mare",
-      "url": "https://open.spotify.com/track/4Z6VSJZDhmMhS9V7E4etFV"
+      "duration_ms": 166730,
+      "name": "LoLo (Remix) [feat. Farina]",
+      "url": "https://open.spotify.com/track/05s2GU3X9VET94jDtQi4bg"
     }
   ],
   "unique_name": "Afro Ritmo",

@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 915242,
+  "num_followers": 915637,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDJkZjI0ZDQzYjRhOGM0NjY1Yzc5NTBlMWNjNzVkNDI0NzVhNDY3",
+  "snapshot_id": "MCxhNWY4MDM5OGY3NjM1M2I2NzlhYTllMTUyYmRkNmJlNDhkMGRjZjU0",
   "tracks": [
     {
       "added_at": "2023-04-07 03:03:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Live In London - At The Royal Albert Hall",
-        "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "O Que \u00c9 Que Tem",
-      "url": "https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK"
-    },
-    {
-      "added_at": "2023-04-07 03:03:00",
-      "album": {
         "name": "Len\u00e7ol Dobrado",
         "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 179164,
       "name": "Len\u00e7ol Dobrado",
       "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "added_at": "2023-04-07 03:03:00",
+      "album": {
+        "name": "Live In London - At The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "O Que \u00c9 Que Tem",
+      "url": "https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -679,8 +679,8 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Tudo Em Paz",
-        "url": "https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL"
+        "name": "Como. Sempre Feito. Nunca (ao Vivo)",
+        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 174081,
-      "name": "Namorando Com Saudade",
-      "url": "https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6"
+      "duration_ms": 184032,
+      "name": "Paredes - Ao Vivo",
+      "url": "https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Eu, Voc\u00ea, O Mar e Ela",
-      "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
-    },
-    {
-      "added_at": "2023-04-07 03:03:00",
-      "album": {
         "name": "Ferida Curada",
         "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 159164,
       "name": "Ferida Curada",
       "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
+    },
+    {
+      "added_at": "2023-04-07 03:03:00",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Eu, Voc\u00ea, O Mar e Ela",
+      "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -815,8 +815,8 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Como. Sempre Feito. Nunca (ao Vivo)",
-        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
+        "name": "Tudo Em Paz",
+        "url": "https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 184032,
-      "name": "Paredes - Ao Vivo",
-      "url": "https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK"
+      "duration_ms": 174081,
+      "name": "Namorando Com Saudade",
+      "url": "https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6"
     },
     {
       "added_at": "2023-04-07 03:03:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation Cover: Bedroom
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,161 likes - 84 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,289 likes - 84 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 83 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 | 84 | [Carthage](https://open.spotify.com/track/0e0T3WcSL0IvHFc2CqMLIy) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME) | 5:30 |
 
-Snapshot ID: `MCxmYzYyNDNjMDA5MTYzNzRhN2NjNjZiNjMxZDkzM2JmMjljNTBkZGU3`
+Snapshot ID: `MCw2YTJjOTFlMzc1OGY0OWE4YjA2YzYwMGE2YjE4ZmI0OTA5MmRjM2I0`

@@ -164,7 +164,7 @@
     {
       "album": {
         "name": "Lesa Lesa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/29neFKEMvDSN0pKTQnzX47"
+        "url": "https://open.spotify.com/album/39duPVmuuhmR0hZYPEN27h"
       },
       "artists": [
         {
@@ -179,6 +179,28 @@
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 309708,
+      "name": "Aval Ulaghazhagi",
+      "url": "https://open.spotify.com/track/0KDKxJptsEZ8WBEJjGa6Ms"
+    },
+    {
+      "album": {
+        "name": "Lesa Lesa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29neFKEMvDSN0pKTQnzX47"
+      },
+      "artists": [
+        {
+          "name": "Harris Jayaraj",
+          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
       "duration_ms": 309708,
       "name": "Aval Ulaghazhagi",
       "url": "https://open.spotify.com/track/2JHXWuIevI334vUGoYcwrn"
@@ -1238,10 +1260,36 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 359586,
       "name": "Munbe Vaa",
       "url": "https://open.spotify.com/track/0QuJ2PZ4O2nrwnUgNCfoPP"
+    },
+    {
+      "album": {
+        "name": "Sillunu Oru Kaadhal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7sVKjX52Oyjo7zfxOVmWjz"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Naresh Iyer",
+          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359586,
+      "name": "Munbe Vaa",
+      "url": "https://open.spotify.com/track/4ARAo4CAIOU0zY74zvei1K"
     },
     {
       "album": {

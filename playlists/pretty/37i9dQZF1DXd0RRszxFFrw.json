@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 47141,
+  "num_followers": 47174,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2JiZThhZTUwODNlOWRjYjRmMGY3MDA4NmU0NmVmOWVkNDZiNzg3",
+  "snapshot_id": "MCwxMWIzY2FkYzQ4YzAxZWMwZWMwNDU1MTI1ZTg0ZWFlMWYwMTM4ZTcw",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Muniesa",
-        "url": "https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK"
-      },
-      "artists": [
-        {
-          "name": "Muniesa",
-          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
-        }
-      ],
-      "duration_ms": 126688,
-      "name": "Montalba\u0301n",
-      "url": "https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Habichuela en Rama",
         "url": "https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 230866,
       "name": "Canta la Guitarra",
       "url": "https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Muniesa",
+        "url": "https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK"
+      },
+      "artists": [
+        {
+          "name": "Muniesa",
+          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
+        }
+      ],
+      "duration_ms": 126688,
+      "name": "Montalba\u0301n",
+      "url": "https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ponte Vecchio",
-        "url": "https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc"
-      },
-      "artists": [
-        {
-          "name": "Indigo Mazati",
-          "url": "https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw"
-        }
-      ],
-      "duration_ms": 148716,
-      "name": "Ponte Veccio",
-      "url": "https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Luminosity",
         "url": "https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a"
       },
@@ -567,18 +551,34 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "A Brand New World",
-        "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
+        "name": "Ponte Vecchio",
+        "url": "https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc"
       },
       "artists": [
         {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+          "name": "Indigo Mazati",
+          "url": "https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw"
         }
       ],
-      "duration_ms": 142560,
-      "name": "Bossa Bravado",
-      "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
+      "duration_ms": 148716,
+      "name": "Ponte Veccio",
+      "url": "https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Flight to Paradise",
+        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
+      },
+      "artists": [
+        {
+          "name": "Novamenco",
+          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
+        }
+      ],
+      "duration_ms": 256399,
+      "name": "Mood for Love",
+      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Flight to Paradise",
-        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
+        "name": "A Brand New World",
+        "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
       },
       "artists": [
         {
-          "name": "Novamenco",
-          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
         }
       ],
-      "duration_ms": 256399,
-      "name": "Mood for Love",
-      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
+      "duration_ms": 142560,
+      "name": "Bossa Bravado",
+      "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ibiza Sunset",
-        "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
+        "name": "Bossa Nova Sounds EP",
+        "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
       },
       "artists": [
         {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+          "name": "Rio Mendes",
+          "url": "https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK"
         }
       ],
-      "duration_ms": 168432,
-      "name": "Ibiza Sunset",
-      "url": "https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j"
+      "duration_ms": 180860,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Bossa Nova Sounds EP",
-        "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
+        "name": "Ibiza Sunset",
+        "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
       },
       "artists": [
         {
-          "name": "Rio Mendes",
-          "url": "https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK"
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
         }
       ],
-      "duration_ms": 180860,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e"
+      "duration_ms": 168432,
+      "name": "Ibiza Sunset",
+      "url": "https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Siena",
-        "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
+        "name": "Blue Bossa",
+        "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
       },
       "artists": [
         {
-          "name": "Marcus Larsen",
-          "url": "https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX"
+          "name": "Denisinho",
+          "url": "https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6"
         }
       ],
-      "duration_ms": 131209,
-      "name": "Siena",
-      "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
+      "duration_ms": 181498,
+      "name": "Black Orpheus",
+      "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Blue Bossa",
-        "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
+        "name": "Siena",
+        "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
       },
       "artists": [
         {
-          "name": "Denisinho",
-          "url": "https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6"
+          "name": "Marcus Larsen",
+          "url": "https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX"
         }
       ],
-      "duration_ms": 181498,
-      "name": "Black Orpheus",
-      "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
+      "duration_ms": 131209,
+      "name": "Siena",
+      "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Only In Paris",
-        "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
-      },
-      "artists": [
-        {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Bossanova in My Heart",
-      "url": "https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "M\u00fasica De Espa\u00f1a",
         "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 221637,
       "name": "Rumbita (Guitar Version)",
       "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Only In Paris",
+        "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
+      },
+      "artists": [
+        {
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Bossanova in My Heart",
+      "url": "https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA"
     },
     {
       "added_at": "2022-10-27 22:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Nuevo rock alternativo argentino\. <br/>📷 Winona Riders.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,572 likes - 56 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,598 likes - 56 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 55 | [Alimentarte](https://open.spotify.com/track/1ebB7EnsXFME2cAhXx6Mw0) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Suerte](https://open.spotify.com/album/392hK64cm39C8CDetPM6HC) | 4:11 |
 | 56 | [Catedral](https://open.spotify.com/track/67aui76AVhF2XwGNvRcK1N) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Mariano Esain](https://open.spotify.com/artist/4bUov6Vu3oOOC1GFLYJ2u8) | [Una Línea Muy Fina Parecida a la Curva de un Corazón](https://open.spotify.com/album/2YisE6MYvZownFAhHqnGX8) | 2:53 |
 
-Snapshot ID: `MCxhMTEzNTA5NThmOWQ4NGJhMjhmOWFjZDJlYzE3N2M0MzJlODg1NDE2`
+Snapshot ID: `MCxkM2VmMmJiMWJjZTEyMDY2YmU5OGNhYjY1OWExZTNlMzRmNmVlMzc4`

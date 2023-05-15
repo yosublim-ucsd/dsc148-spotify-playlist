@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-688 songs - 2 day 2 hr 7 min
+689 songs - 2 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Cantaloupe Island](https://open.spotify.com/track/3IUX5LP1PJrneT8YRmZ3zY) | [Nat Adderley](https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D) | [Sayin' Somethin'](https://open.spotify.com/album/6Lx0TWxJVikugddsq6RYYd) | 7:18 | 2022-04-14 | 2022-04-28 |
 | [Carry On](https://open.spotify.com/track/5hzDqrcTySa1Ek9nRCRd7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Carry On](https://open.spotify.com/album/6cnOoNMXb9MsYM11nbOjDF) | 2:48 | 2022-04-14 | 2022-04-27 |
 | [Casual](https://open.spotify.com/track/0l38zb1uYJy2XlSblloL17) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Casual](https://open.spotify.com/album/3ieMsFkfAmnxD3wPyMB3WL) | 3:40 | 2022-08-29 | 2023-02-03 |
+| [Changes](https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Changes](https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee) | 3:45 | 2023-05-04 |  |
 | [Changin'](https://open.spotify.com/track/4g8azbjpYgA04ygE6Tlm8H) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Changin'](https://open.spotify.com/album/1OssHpwAhBYTcPLUtYXe0L) | 2:41 | 2023-03-09 |  |
 | [chemin de la lune](https://open.spotify.com/track/7BgjINRWnW9fIiuLdMXQ5R) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [chemin de la lune](https://open.spotify.com/album/15mvy7ylxmKsgrBHa0WCA1) | 3:39 | 2023-03-09 |  |
 | [Cherry Blossom](https://open.spotify.com/track/1AMYy0LjeIQ5jVs7J0ym9P) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [Cherry Blossom](https://open.spotify.com/album/6aslcHlAWXZbMcdgkxQbrf) | 3:08 | 2023-04-27 |  |
@@ -382,7 +383,7 @@
 | [Mean to Me](https://open.spotify.com/track/6Q7U4bTozx5kfLjWT81u7P) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan In Hi\-Fi](https://open.spotify.com/album/3atCVYmLjlC6j3duEB6XuN) | 2:52 | 2022-04-14 | 2022-09-23 |
 | [Measures](https://open.spotify.com/track/6jwlziYjqQXHxFRKHDItHy) | [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN), [The Monster](https://open.spotify.com/artist/3l08OYoeuhxPi8npdww6rn) | [Measures](https://open.spotify.com/album/59zzehn8UfZuvCi8HYwQWo) | 4:17 | 2022-08-29 | 2022-09-21 |
 | [Measures](https://open.spotify.com/track/0zAIkzb2mls12aWWX7dwrT) | [Nostalgia 77 and the Monster](https://open.spotify.com/artist/1XOziqVpUljB7gkL2OdqBR) | [Fifteen](https://open.spotify.com/album/4k7Bf3P7j76awEPPkIBYKH) | 4:17 | 2022-04-14 | 2022-07-28 |
-| [Meet Me In Mashatu](https://open.spotify.com/track/2IP1MFL8G8A5hIOIXhnaz1) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Meet Me In Mashatu](https://open.spotify.com/album/63ohpbYeVe4i2SB8dTAsxF) | 3:22 | 2023-03-09 |  |
+| [Meet Me In Mashatu](https://open.spotify.com/track/2IP1MFL8G8A5hIOIXhnaz1) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Meet Me In Mashatu](https://open.spotify.com/album/63ohpbYeVe4i2SB8dTAsxF) | 3:22 | 2023-03-09 | 2023-05-15 |
 | [Mellow Moments](https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Mellow Moments](https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk) | 3:08 | 2023-04-27 |  |
 | [Memories Of Her Music](https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Memories Of Her Music](https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV) | 3:33 | 2023-02-09 |  |
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-08 |  |

@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)
 
-420 songs - 1 day 4 hr 51 min
+421 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Infinity!Our wings!!](https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:31 | 2022-06-09 | 2022-07-25 |
 | [Itsu Aetara](https://open.spotify.com/track/7C2Tc4aJRphK6qUSWbnLyg) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Itsu Aetara](https://open.spotify.com/album/2ObLoP9QlsMdbU1O0KssLI) | 4:05 | 2023-04-11 | 2023-05-10 |
 | [Jinsei Easy?](https://open.spotify.com/track/1XhL4crZyyv7UXnGkunn2T) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [DIALOGUE+1](https://open.spotify.com/album/2LYWVRbZGHUuXeMqVmtt2w) | 3:44 | 2022-06-12 | 2022-07-19 |
-| [Just a little bit](https://open.spotify.com/track/0C5XMxcTleuBCRE1F89AQB) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [Just a little bit](https://open.spotify.com/album/7rBC4zRreOc5U16g48oOnh) | 3:47 | 2023-04-11 |  |
+| [Just a little bit](https://open.spotify.com/track/0C5XMxcTleuBCRE1F89AQB) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [Just a little bit](https://open.spotify.com/album/7rBC4zRreOc5U16g48oOnh) | 3:47 | 2023-04-11 | 2023-05-15 |
 | [JUST DO IT](https://open.spotify.com/track/0YkFZJCArseEHnqFcJEpp4) | [H\-el\-ical//](https://open.spotify.com/artist/4jfky9U27rUJYG9SnkIBJO) | [JUST DO IT](https://open.spotify.com/album/20srBrUtmI1mucWxIZmmNI) | 4:09 | 2022-06-24 | 2022-06-27 |
 | [Just do it](https://open.spotify.com/track/2hVmebNehDEYuYijsaNCbl) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(東方天乙統女\)](https://open.spotify.com/artist/06T6xGOE6y3vciqX3sHb08) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:24 | 2023-04-13 |  |
 | [Kimi no Tonaride](https://open.spotify.com/track/38LULZ1VrM0u9p13WT7JlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/23CWIjCLZrE3FfZbCRQ90A) | 4:34 | 2022-06-09 | 2022-07-28 |
@@ -183,7 +183,7 @@
 | [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-09 | 2023-04-12 |
 | [Starlight](https://open.spotify.com/track/1ABjxk6Qi7TVUDOdGuwUku) | [山崎エリイ](https://open.spotify.com/artist/5YaIAeyoNO71sWHtzxyX3e) | [夜明けのシンデレラ](https://open.spotify.com/album/6BwUGhGZ8oVop9FdTXnwyz) | 4:35 | 2022-07-19 | 2022-07-24 |
 | [Startear](https://open.spotify.com/track/38V08pHESW17gjuCPLyDrj) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [Candy Lips](https://open.spotify.com/album/15urkuwuHAyODCoizByCf2) | 5:02 | 2022-07-07 | 2022-07-10 |
-| [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 | 2022-07-28 | 2023-04-14 |
+| [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 | 2022-07-28 |  |
 | [Strobe Memory](https://open.spotify.com/track/67w7LRacfJu0OcQsZb7HK5) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Hikari](https://open.spotify.com/album/7B4RA5lKKIbw5sTj9Sce3B) | 4:44 | 2022-06-12 | 2022-07-24 |
 | [Subversive](https://open.spotify.com/track/6acIbFRfo20buNEmQiOl8K) | [高槻かなこ](https://open.spotify.com/artist/2do49zyzTTvfteT4XSof5k) | [Subversive](https://open.spotify.com/album/2gAqGyDjUcea47yN0KeAo1) | 4:37 | 2022-06-09 | 2022-07-28 |
 | [Sugarless Kiss](https://open.spotify.com/track/3UVrd41wMv9ERbwE3IC87l) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Sugarless Kiss](https://open.spotify.com/album/5awyrxElo4j1ph2UH7nvfl) | 3:34 | 2022-06-14 | 2022-07-25 |
@@ -252,6 +252,7 @@
 | [ひかり、ひかり](https://open.spotify.com/track/77di5Jekbdai0aPybpcDOU) | [相坂優歌](https://open.spotify.com/artist/3s96N2VlNLmsyVyDoG8vyS) | [屋上の真ん中 で君の心は青く香るまま](https://open.spotify.com/album/2IYqL8Oei8sUMUFhHAuULL) | 3:36 | 2022-06-12 | 2022-07-10 |
 | [ひかりのディスコ](https://open.spotify.com/track/02lbewNkGqHLr06Irt4wvW) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [ひかりのディスコ](https://open.spotify.com/album/5HmYQLP0mkigw3lwisqirI) | 5:24 | 2022-06-24 | 2022-06-28 |
 | [ひとりじゃないから](https://open.spotify.com/track/1gqPfUzCXKQ4SaMYcRPK8G) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [ひとりじゃないから](https://open.spotify.com/album/1Rf7oYP5gF5iXSTFk5WsaE) | 4:55 | 2022-07-07 | 2022-07-29 |
+| [ひろがるスカイ!プリキュア \~Hero Girls\~](https://open.spotify.com/track/1ngUOF9wYAuGRA9oQyw9Rx) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV) | [ひろがるスカイ!プリキュア 主題歌シングル【通常盤】](https://open.spotify.com/album/6zZczS4QOYcaxESpHfewWr) | 4:28 | 2023-05-14 |  |
 | [まひるいろシエスタ](https://open.spotify.com/track/0ljrJ1wIXoeV16yP98YI2t) | [Yui Sakakibara](https://open.spotify.com/artist/6T21A06nQ9nZ9TzfWhct9L) | [TVアニメ『アズールレーン びそくぜんしんっ!』主題歌シングル「Longing for! / まひるいろシエスタ」](https://open.spotify.com/album/7baklDpXCciw4nJcejsLhH) | 3:41 | 2022-06-09 | 2022-07-21 |
 | [みちくさ](https://open.spotify.com/track/3gH7Af4Y7FTuPAclJQdma8) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [みちくさ](https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS) | 4:04 | 2022-06-12 | 2022-07-22 |
 | [みちしるべ](https://open.spotify.com/track/3dRVzK0PsqrT2WUuAGvitu) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [SPIRAL](https://open.spotify.com/album/0CuFeKWcv86ic7NzUvbmjO) | 4:46 | 2022-06-14 | 2022-07-19 |
@@ -402,7 +403,7 @@
 | [箱庭の幸福](https://open.spotify.com/track/5lLfoz7xP0jKyjFbCYWQ1Q) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [箱庭の幸福](https://open.spotify.com/album/7wVBxbqGcZZ9t7uHoZ1ULC) | 4:55 | 2022-06-09 | 2022-07-26 |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2022-07-28 |  |
 | [紅蓮華](https://open.spotify.com/track/1hFsEbHxsfflhLEPCq5tzk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/29HFXP2q5ixW557hc55McT) | 3:58 | 2022-06-09 | 2022-07-23 |
-| [終焉のDestiny](https://open.spotify.com/track/6NdiMgPfwfmjvfLpUYBJjc) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [終焉のDestiny](https://open.spotify.com/album/47QURrkAfB80PiwXbLesqv) | 3:29 | 2023-04-13 |  |
+| [終焉のDestiny](https://open.spotify.com/track/6NdiMgPfwfmjvfLpUYBJjc) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [終焉のDestiny](https://open.spotify.com/album/47QURrkAfB80PiwXbLesqv) | 3:29 | 2023-04-13 | 2023-05-15 |
 | [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 | 2022-07-28 | 2023-01-07 |
 | [聴こえる?](https://open.spotify.com/track/7yO6MXpbXh2Va2n6DOr9fT) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [聴こえる?](https://open.spotify.com/album/555t5S8CPEHq2EMHXYXohY) | 4:05 | 2022-06-24 | 2022-07-07 |
 | [航海の唄](https://open.spotify.com/track/6jZBvlt3xG6gdPh1vFMBhs) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [About a Voyage \(My Hero Academia Ending Theme Song\) \[World Edition\]](https://open.spotify.com/album/6RJpk9d7aZWVij0NnSVYbl) | 4:44 | 2022-06-09 | 2022-06-12 |

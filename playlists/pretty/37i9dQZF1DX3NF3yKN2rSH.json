@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 54113,
+  "num_followers": 54110,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDg1MWM2NGRkNzhiOTViNzRjODM2YWFjNzkwMTA5ZWJkYTY2MWJk",
+  "snapshot_id": "MCw3NTFlOWIwMWU3NTZlYjI5ODA4ODE5YjNlZTYyYWIwZGUwN2MzZmI2",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 373986,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Easter (feat. Todd Dulaney)",
         "url": "https://open.spotify.com/album/10mfB8u8N71xXGatlhkDdG"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 427640,
       "name": "Easter (feat. Todd Dulaney)",
       "url": "https://open.spotify.com/track/5yUJMkUWsJmOfsP964tNtg"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Declarations",
-        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        }
-      ],
-      "duration_ms": 373986,
-      "name": "Jesus I Love You",
-      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live in Concert",
-        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
-      },
-      "artists": [
-        {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
-        }
-      ],
-      "duration_ms": 573933,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Classic Gold: We're Waiting",
         "url": "https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 266466,
       "name": "Nothing But the Blood v1.1",
       "url": "https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Live in Concert",
+        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
+      },
+      "artists": [
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "duration_ms": 573933,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Vickie Winans: Greatest Hits",
-        "url": "https://open.spotify.com/album/5tZW4VvxZM4hOX7YuDLwHI"
-      },
-      "artists": [
-        {
-          "name": "Vickie Winans",
-          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
-        }
-      ],
-      "duration_ms": 421946,
-      "name": "Oh What Love",
-      "url": "https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
         "url": "https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 286946,
       "name": "Power In the Blood v1.1",
       "url": "https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Vickie Winans: Greatest Hits",
+        "url": "https://open.spotify.com/album/5tZW4VvxZM4hOX7YuDLwHI"
+      },
+      "artists": [
+        {
+          "name": "Vickie Winans",
+          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
+        }
+      ],
+      "duration_ms": 421946,
+      "name": "Oh What Love",
+      "url": "https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "He Carried The Cross For Me",
-        "url": "https://open.spotify.com/album/1bX7rKDrzP6RUTC1w2FhWN"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 230659,
-      "name": "He Carried The Cross For Me",
-      "url": "https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Live: The Praise, the Worship",
         "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 329186,
       "name": "Oh Holy Lamb",
       "url": "https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "He Carried The Cross For Me",
+        "url": "https://open.spotify.com/album/1bX7rKDrzP6RUTC1w2FhWN"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 230659,
+      "name": "He Carried The Cross For Me",
+      "url": "https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr"
     },
     {
       "added_at": "2023-04-09 08:49:39",

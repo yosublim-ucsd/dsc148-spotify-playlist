@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume\. Cover: Katherine Li
 
-837 songs - 1 day 20 hr 10 min
+839 songs - 1 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [Crystal Ball](https://open.spotify.com/track/2U5WF7KJR8Uh4RJIUKvr9z) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [Crystal Ball](https://open.spotify.com/album/12V9dpCyl7Hmrw718OfDHY) | 4:07 | 2022-03-08 | 2022-04-07 |
 | [Crépuscule](https://open.spotify.com/track/3SqaQQ3WiaKNO64iZbotqj) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:45 | 2022-11-09 | 2022-12-01 |
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2022-04-06 | 2022-05-04 |
-| [Cut and Dry](https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP) | 3:24 | 2023-05-03 |  |
+| [Cut and Dry](https://open.spotify.com/track/4cbfwZbbQ8n5uLwg4TI8vu) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Could Have Done Anything](https://open.spotify.com/album/7fYSpC2LvK5Xode0pWSpUB) | 3:24 | 2023-05-03 |  |
+| [Cut and Dry](https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP) | 3:24 | 2023-05-03 | 2023-05-15 |
 | [Damn Those Eyes](https://open.spotify.com/track/3uvA7vzmyuO8tSpERJNWxN) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Damn Those Eyes](https://open.spotify.com/album/2AWH1W0A0dDh4FITfg7FEh) | 3:00 | 2023-04-05 | 2023-05-04 |
 | [DANCING ELEPHANTS](https://open.spotify.com/track/7iMvfX5hAfh2ZeYshXyzaJ) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 5:18 | 2022-02-02 | 2022-07-07 |
 | [DANGEROUS](https://open.spotify.com/track/1E9SjPOByVGL26Lu3BTMzx) | [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6) | [DANGEROUS](https://open.spotify.com/album/4bHgRcGIlsdvrhIw37ezgU) | 2:44 | 2023-04-05 | 2023-05-04 |
@@ -433,7 +434,8 @@
 | [Lost Time](https://open.spotify.com/track/4zb78k2BG51tiRIsRd0HMR) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Hate to See You Go](https://open.spotify.com/album/5JqZM8bcsv0HhLxH7I30Lj) | 3:29 | 2022-07-06 | 2022-08-04 |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-03-01 | 2023-04-06 |
 | [Love Again](https://open.spotify.com/track/4o1I2WL1pjyFLpshFuLCm2) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again](https://open.spotify.com/album/3IIFp3ItzFscCAKXB6Z2Zv) | 3:32 | 2023-05-03 | 2023-05-10 |
-| [Love Again](https://open.spotify.com/track/6gzgyr3CHPXIs97yeEqU8h) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [I'll Be \(from the Motion Picture Soundtrack Love Again\)](https://open.spotify.com/album/6F7SW0EoekiKTOgcGzg1KB) | 3:32 | 2023-05-03 |  |
+| [Love Again](https://open.spotify.com/track/6gzgyr3CHPXIs97yeEqU8h) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [I'll Be \(from the Motion Picture Soundtrack Love Again\)](https://open.spotify.com/album/6F7SW0EoekiKTOgcGzg1KB) | 3:32 | 2023-05-03 | 2023-05-15 |
+| [Love Again](https://open.spotify.com/track/7LYV8DzfYdArevWVyNNIZ0) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/1YV5gnob3qCnMQuVomwGwG) | 3:32 | 2023-05-03 |  |
 | [Love Alone](https://open.spotify.com/track/1qBOFi4RL3dPOgoQMQ8tkY) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Love Alone](https://open.spotify.com/album/11r93iWsgjzlkyDp2jymBc) | 4:06 | 2021-12-08 | 2022-02-03 |
 | [Love At First Song](https://open.spotify.com/track/5dsczwZSemU34OYuik2knd) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [Love At First Song](https://open.spotify.com/album/5lpdNa3vhbSdcgN2OrA4NC) | 3:23 | 2022-04-06 | 2022-05-04 |
 | [Love Is My Condition](https://open.spotify.com/track/7JMIWkV5UaYvXFjNk0Dw0B) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Love Is My Condition / Away](https://open.spotify.com/album/5Yyqtdm1bLpOij6ISgvG8K) | 3:08 | 2022-11-09 | 2023-02-02 |

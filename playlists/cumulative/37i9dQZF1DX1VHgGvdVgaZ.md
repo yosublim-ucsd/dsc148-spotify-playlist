@@ -4,7 +4,7 @@
 
 > Instrumental selections from the South Indian school of music.
 
-91 songs - 12 hr 52 min
+92 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Sree Mahaganapathim](https://open.spotify.com/track/5uITcl35S5Xl211DFwIlVt) | [Kunnakudi Vaidyanathan](https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr) | [Kunnakudi Vaidyanathan Vol \- 1](https://open.spotify.com/album/5JhDdMhTAzcZChrqQu4jrk) | 8:09 | 2022-07-07 |  |
 | [Sree Mahaganapathim \- Atana \- Adi](https://open.spotify.com/track/5VfJfkpigSFdU6t9pHiWhm) | [Kunnakudi Vaidyanathan](https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr), [Valayapatti A\. R\. Subramaniam](https://open.spotify.com/artist/74Wx6RR7idiXa5emx0LUIa), [Kannan](https://open.spotify.com/artist/5qGDWLq39656h7QldZuTc1) | [Kunnakudi Vaidyanathan, Vol\. 1](https://open.spotify.com/album/4lLLyjxSXfHsZAoWN5y2rd) | 8:10 | 2021-06-28 | 2022-07-29 |
 | [Sri Chakra Raja](https://open.spotify.com/track/3GaK2kfpt8nNmZAQymTkL4) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Jagajanani \(Instrumental\)](https://open.spotify.com/album/2keIh30RhaEYo9IDP5kRo4) | 6:50 | 2021-06-28 | 2022-07-29 |
-| [Sri Chakra Raja](https://open.spotify.com/track/2hVXhADIRbE34DP36llqV5) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Sudhamayi 1](https://open.spotify.com/album/4BckzQM9jnSg4PknTrcHTp) | 6:53 | 2022-07-07 |  |
+| [Sri Chakra Raja](https://open.spotify.com/track/2hVXhADIRbE34DP36llqV5) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Sudhamayi 1](https://open.spotify.com/album/4BckzQM9jnSg4PknTrcHTp) | 6:53 | 2022-07-07 | 2023-05-15 |
+| [Sri Chakra Raja](https://open.spotify.com/track/7JkjbdZxZ8Vt8wBh4aDYPf) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Sudhamayi 1](https://open.spotify.com/album/4VBDKWQpHki7jzQ1499Xu5) | 6:53 | 2022-07-07 |  |
 | [Sri Kantimateem: Kriti](https://open.spotify.com/track/4hg9XXjCehm0dJTXQkAfWj) | [N\. Ravikiran](https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5), [Mysore Manjunath](https://open.spotify.com/artist/4CXYQGrrXt84gdDVwIws5r), [Guruvayoor Dorai](https://open.spotify.com/artist/74SVzoYD2IZJqVTIifcNYS) | [Music from Madras](https://open.spotify.com/album/09RfLY6H8ZjWl9woRQYY7f) | 14:11 | 2021-06-28 |  |
 | [Sriganesa Thilang Adi](https://open.spotify.com/track/1Oievd5Y3lAwGxuxHGXSM5) | [Tyagaraja](https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Mahathi Melodies](https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B) | 6:30 | 2021-06-28 |  |
 | [Srikanthimati \- Raga Hemavati \- Adi](https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC), [S\. D\. Shreedhar](https://open.spotify.com/artist/4dxOpsI4hcEO0T6LSAAY2v) | [Classical Icons \- U\. Srinivas](https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi) | 26:49 | 2021-06-28 |  |

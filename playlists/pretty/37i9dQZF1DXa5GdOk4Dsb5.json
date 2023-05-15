@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 100789,
+  "num_followers": 100962,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWQwMThmZjRmYTQzNzQxZjUwOGJlMzFjNzJlZDAyNjlhNjJhZDg0",
+  "snapshot_id": "MCxjM2U2OTZkZDk1YzFmZTk4OTEzOGQyOWRhOWY2NzU2Nzk1M2IzMGVi",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Pa' Olvidar",
-        "url": "https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3"
+        "name": "El Rey del Despecho - Internacional",
+        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
       },
       "artists": [
         {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
         }
       ],
-      "duration_ms": 199210,
-      "name": "Dile al Amor",
-      "url": "https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP"
+      "duration_ms": 219559,
+      "name": "Sobrevivir\u00e9",
+      "url": "https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "El Rey del Despecho - Internacional",
-        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
+        "name": "Pa' Olvidar",
+        "url": "https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3"
       },
       "artists": [
         {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
         }
       ],
-      "duration_ms": 219559,
-      "name": "Sobrevivir\u00e9",
-      "url": "https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H"
+      "duration_ms": 199210,
+      "name": "Dile al Amor",
+      "url": "https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7fae9p1hEjCjUiY7P6VZBS"
+      },
+      "artists": [
+        {
+          "name": "Fernando Burbano",
+          "url": "https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6"
+        }
+      ],
+      "duration_ms": 211121,
+      "name": "Ahora Que Puedo",
+      "url": "https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "El Alumno",
         "url": "https://open.spotify.com/album/4rHTyJISches0y7efQTJbW"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 188567,
       "name": "El Alumno",
       "url": "https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7fae9p1hEjCjUiY7P6VZBS"
-      },
-      "artists": [
-        {
-          "name": "Fernando Burbano",
-          "url": "https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6"
-        }
-      ],
-      "duration_ms": 211121,
-      "name": "Ahora Que Puedo",
-      "url": "https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E"
     },
     {
       "added_at": "2023-04-14 06:00:00",

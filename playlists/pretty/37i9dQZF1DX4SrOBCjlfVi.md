@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Durk, A Boogie Wit Da Hoodie, and more\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,665 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,757 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [BLAME ON ME](https://open.spotify.com/track/3vPgWyElaNItFt5KSB7L0x) | [Realbleeda](https://open.spotify.com/artist/0DNZpdaIrwHQAknPciWiU7) | [EMOTIONAL CREATURE](https://open.spotify.com/album/7qcZanCG2hCGTWwz5NIC4q) | 2:07 |
 | 50 | [Grind Harder](https://open.spotify.com/track/5hsntNpynrV7QXyHeV0NaQ) | [Fedd the God](https://open.spotify.com/artist/23tQKPyz9GU1ZuCjH7X9Hw) | [Grind Harder](https://open.spotify.com/album/66X6mNYIEtHMTmgtSpNGfs) | 3:04 |
 
-Snapshot ID: `MCw2YTNlMWFiMDhjNTU2ZmNiZDdkZTdkNzc1NThkNWFlZmY2M2QyNTg2`
+Snapshot ID: `MCwyN2JmNTc4Mzc1MTY4ZjVhZWY4YjlmNDk3YjdmM2JiYzQwMDA3NDg3`

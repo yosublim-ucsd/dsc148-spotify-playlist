@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring SNENiE. Updates every Wednesday.",
-  "num_followers": 169894,
+  "num_followers": 169901,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTlkNGJlODU0MjJhMzE1MDU2YjYyMjMxMzY5YTcwNTQ3YzdjZTU1",
+  "snapshot_id": "MCxlNmY0Zjg4ZDcxNzkwZjQwMGEyN2JlMWJkNWRjNGFhY2U3OTcyZTAx",
   "tracks": [
     {
       "added_at": "2023-05-10 04:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-05-10 04:00:00",
       "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/4iLRZohe57Q4qq2EgMITFD"
-      },
-      "artists": [
-        {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
-        }
-      ],
-      "duration_ms": 160612,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/0FnWZZTkUeenPGOxIF247f"
-    },
-    {
-      "added_at": "2023-05-10 04:00:00",
-      "album": {
         "name": "Sola [Parte I]",
         "url": "https://open.spotify.com/album/1jlqnNX45GMIeexHFJsWOy"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 199183,
       "name": "No Hay Veneno",
       "url": "https://open.spotify.com/track/7lhzEm9GClkeO6f853sMVa"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/4iLRZohe57Q4qq2EgMITFD"
+      },
+      "artists": [
+        {
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
+        }
+      ],
+      "duration_ms": 160612,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/0FnWZZTkUeenPGOxIF247f"
     },
     {
       "added_at": "2023-05-10 04:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-05-10 04:00:00",
       "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/0oAKvpLkEE5SDJZSC2I5uN"
+        "name": "Miluhska (Tigre Den Session)",
+        "url": "https://open.spotify.com/album/0NEH1iZEps2ak8mSculbL3"
       },
       "artists": [
         {
-          "name": "Lalezka",
-          "url": "https://open.spotify.com/artist/1QORf7tbxagwS8t06BuHaY"
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
         }
       ],
-      "duration_ms": 144947,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/683OupaDPQs73s58zY2Aup"
+      "duration_ms": 264247,
+      "name": "Un Veneno - Tigre Den Session",
+      "url": "https://open.spotify.com/track/6EiQaPHDsK8LNFBgHabIZl"
     },
     {
       "added_at": "2023-05-10 04:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-05-10 04:00:00",
       "album": {
-        "name": "Miluhska (Tigre Den Session)",
-        "url": "https://open.spotify.com/album/0NEH1iZEps2ak8mSculbL3"
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/0oAKvpLkEE5SDJZSC2I5uN"
       },
       "artists": [
         {
-          "name": "Miluhska",
-          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+          "name": "Lalezka",
+          "url": "https://open.spotify.com/artist/1QORf7tbxagwS8t06BuHaY"
         }
       ],
-      "duration_ms": 264247,
-      "name": "Un Veneno - Tigre Den Session",
-      "url": "https://open.spotify.com/track/6EiQaPHDsK8LNFBgHabIZl"
+      "duration_ms": 144947,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/683OupaDPQs73s58zY2Aup"
     },
     {
       "added_at": "2023-05-10 04:00:00",

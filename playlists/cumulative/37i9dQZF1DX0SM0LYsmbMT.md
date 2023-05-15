@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,484 songs - 5 day 13 hr 54 min
+3,485 songs - 5 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,7 +797,7 @@
 | [Dreaming Reality](https://open.spotify.com/track/3tsK1dMdL8q1Fb0fkzbeVW) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Dreaming Reality](https://open.spotify.com/album/4YniiagQQMVQ6UaMJeBTW1) | 2:44 | 2019-06-22 | 2019-11-29 |
 | [Dreams](https://open.spotify.com/track/2BMqw1SwM0Oj7JcgX0cAI3) | [lofi lemur](https://open.spotify.com/artist/5veYeCJr7DmizEWGrJ42Pl) | [Dreams](https://open.spotify.com/album/2eF83llUWqhdsYLxwYv1Tm) | 1:40 | 2020-11-03 | 2021-05-21 |
 | [Dreams About](https://open.spotify.com/track/7qjOk4LdB11CnE6a4llbFI) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Dreams About](https://open.spotify.com/album/21lS055Om5S3lo49Cbo2m0) | 2:48 | 2022-06-02 | 2023-04-14 |
-| [Dreamwalking](https://open.spotify.com/track/3SG29mgnB2tvy5lR8Qgtdk) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Dreamwalking](https://open.spotify.com/album/7bh09ptCTVOY51VhdgA1ms) | 2:04 | 2022-05-12 |  |
+| [Dreamwalking](https://open.spotify.com/track/3SG29mgnB2tvy5lR8Qgtdk) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Dreamwalking](https://open.spotify.com/album/7bh09ptCTVOY51VhdgA1ms) | 2:04 | 2022-05-12 | 2023-05-15 |
 | [Dreamy](https://open.spotify.com/track/4KKCW5nGHbO0OqE4L02rhb) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Dreamy](https://open.spotify.com/album/4WLQGmBGAzeJlm8q2SVqci) | 2:15 | 2021-07-16 | 2021-09-10 |
 | [Drift](https://open.spotify.com/track/6nwDUDXx8IWzPMqQGm72we) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Drift](https://open.spotify.com/album/29Fr3IX73K1KX8gBPhqdFW) | 2:45 | 2021-02-18 | 2021-07-09 |
 | [Drift](https://open.spotify.com/track/0oOJy3FP3Z0zPBqXgxy1A8) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Drift / Voyage](https://open.spotify.com/album/0tQpckZax3v5yKDqXODGoM) | 2:05 | 2020-06-19 | 2021-03-06 |
@@ -928,6 +928,7 @@
 | [Fables Of Tales](https://open.spotify.com/track/5763XSbc9rVp3N9l6O2Nu9) | [Terce S.](https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Fables Of Tales](https://open.spotify.com/album/236Cesg6xaHoN4NP24cbi2) | 1:56 | 2021-05-21 | 2022-11-20 |
 | [Faces](https://open.spotify.com/track/5n16dEoZ1OwdpqOIK13m1X) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [Faces](https://open.spotify.com/album/67qmIPe1qBlLUS4jSvm4nC) | 2:13 | 2019-05-26\* | 2019-06-15 |
 | [Fading Mist](https://open.spotify.com/track/6Zjsl9f98ywJ1T6yvMNFaZ) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Fading Mist](https://open.spotify.com/album/1fB9bOoK4JJYJOlDsuhbGi) | 2:53 | 2020-11-06 | 2021-06-11 |
+| [Fadrr](https://open.spotify.com/track/3ydQENKjLp5fd3yshzLfJY) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Fungie](https://open.spotify.com/artist/14BlioFG7L0d0j0ZBwIUeS) | [Fadrr](https://open.spotify.com/album/6YRZJwRKp8WhfbKDYKg9CS) | 2:20 | 2023-05-11 |  |
 | [Fairytale](https://open.spotify.com/track/4MnsjIYWN5GVwqD1FGGi9G) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Fairytale](https://open.spotify.com/album/7uyCNTRk6s3OXCYGj3x6FW) | 1:50 | 2022-11-03 | 2023-01-13 |
 | [Fall](https://open.spotify.com/track/22TaxtoFfaJz2YUZUbTc4Z) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Fall](https://open.spotify.com/album/10nrgLZ75uZHO6sQIXOQUD) | 3:20 | 2020-12-11 | 2021-02-12 |
 | [Fallcameearly](https://open.spotify.com/track/0ScH5BP3inzNxEQiekotMa) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Fallcameearly](https://open.spotify.com/album/7aKq8TzX1y7I889SHOmqp6) | 1:55 | 2021-09-17 | 2021-10-16 |

@@ -5947,6 +5947,24 @@
     },
     {
       "album": {
+        "name": "\u30ed\u30f3\u30ea\u30fc\u30e1\u30a4\u30d3\u30fc",
+        "url": "https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E"
+      },
+      "artists": [
+        {
+          "name": "peanut butters",
+          "url": "https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179340,
+      "name": "she so come!!!",
+      "url": "https://open.spotify.com/track/0QH4z68TORGX2tBGuYPkr2"
+    },
+    {
+      "album": {
         "name": "SHINOBI-NAI (\u96eb\u30ab\u30ea\u30a6\u30bfver.)",
         "url": "https://open.spotify.com/album/6W6v13UkKLgISktIaC5hbs"
       },
@@ -13764,7 +13782,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 369253,
       "name": "\u604b\u3059\u308b - 10YEARS THANK YOU",
       "url": "https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D"

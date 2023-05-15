@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Cover: Owain Davies of Panchiko",
-  "num_followers": 68772,
+  "num_followers": 69080,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTZiYjM1MGVjNTVkMGYxMzJlNGE1YzA5NDBhY2MyZjU1YjYxNTA4",
+  "snapshot_id": "MCw3N2I1MzJiYjQwNWI0ZmIyZDhmYmE0ZWRlMWFkMjFlOGJkZTQwZWYw",
   "tracks": [
     {
       "added_at": "2023-05-05 04:01:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Winks & Kisses: Melted",
+        "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "The Big Roar",
         "url": "https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet"
       },
@@ -609,20 +625,20 @@
       "url": "https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Winks & Kisses: Melted",
-        "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
+        "name": "\"XCAPE\", PT. 1 JEAN DAWSON AS \"PHOENIX\"",
+        "url": "https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV"
       },
       "artists": [
         {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 566466,
-      "name": "In Your Room",
-      "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
+      "duration_ms": 165519,
+      "name": "youth+",
+      "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"
     },
     {
       "added_at": "2023-02-27 23:19:06",
@@ -639,22 +655,6 @@
       "duration_ms": 171563,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 123331,
-      "name": "At It Again",
-      "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 123331,
+      "name": "At It Again",
+      "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "The Waves",
         "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 220760,
       "name": "Love Fade",
       "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "\"XCAPE\", PT. 1 JEAN DAWSON AS \"PHOENIX\"",
-        "url": "https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 165519,
-      "name": "youth+",
-      "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
-      },
-      "artists": [
-        {
-          "name": "Beach Vacation",
-          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
-    },
-    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "Someone2Me",
@@ -799,6 +783,22 @@
       "duration_ms": 226471,
       "name": "Someone2Me",
       "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "idk how to luv",
-        "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
-      },
-      "artists": [
-        {
-          "name": "zzzahara",
-          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
-        }
-      ],
-      "duration_ms": 150251,
-      "name": "idk how to luv",
-      "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Happy Songs for Happy Zombies",
@@ -1023,6 +1007,22 @@
       "duration_ms": 204202,
       "name": "Blaster",
       "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "idk how to luv",
+        "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "duration_ms": 150251,
+      "name": "idk how to luv",
+      "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "Out of Line",
+        "url": "https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo"
+      },
+      "artists": [
+        {
+          "name": "Bedchamber",
+          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
+        }
+      ],
+      "duration_ms": 131674,
+      "name": "Out of Line",
+      "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
+    },
+    {
       "added_at": "2021-12-08 15:59:07",
       "album": {
         "name": "Death Spells",
@@ -1269,20 +1285,28 @@
       "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Out of Line",
-        "url": "https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo"
+        "name": "4am",
+        "url": "https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH"
       },
       "artists": [
         {
-          "name": "Bedchamber",
-          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
+          "name": "soft siren",
+          "url": "https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2"
+        },
+        {
+          "name": "CASHFORGOLD",
+          "url": "https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX"
+        },
+        {
+          "name": "Sidewalks and Skeletons",
+          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
         }
       ],
-      "duration_ms": 131674,
-      "name": "Out of Line",
-      "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
+      "duration_ms": 177900,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1353,22 +1377,6 @@
       "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "House",
-        "url": "https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw"
-      },
-      "artists": [
-        {
-          "name": "heavn",
-          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "Where I Met U",
-      "url": "https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi"
-    },
-    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "Here at All",
@@ -1401,6 +1409,22 @@
       "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
     },
     {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "House",
+        "url": "https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw"
+      },
+      "artists": [
+        {
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+        }
+      ],
+      "duration_ms": 122812,
+      "name": "Where I Met U",
+      "url": "https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Flood Into",
@@ -1415,6 +1439,22 @@
       "duration_ms": 181593,
       "name": "Flood Into",
       "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
+    },
+    {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "All We've Ever Known",
+        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 183221,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4saJggfntxQyb3Ro8mk03U"
     },
     {
       "added_at": "2022-09-11 03:41:26",
@@ -1451,22 +1491,6 @@
       "duration_ms": 230437,
       "name": "Catch a Fade",
       "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
-    },
-    {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "All We've Ever Known",
-        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 183221,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4saJggfntxQyb3Ro8mk03U"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1533,22 +1557,6 @@
       "url": "https://open.spotify.com/track/33wLXkDuB4FQRiQDlRFrDa"
     },
     {
-      "added_at": "2023-03-31 18:27:23",
-      "album": {
-        "name": "Debris",
-        "url": "https://open.spotify.com/album/5m9bsX1WJMuAtN2d4ssMHS"
-      },
-      "artists": [
-        {
-          "name": "Relay Tapes",
-          "url": "https://open.spotify.com/artist/7xIrG2TmYRzrigiWJXznFp"
-        }
-      ],
-      "duration_ms": 266250,
-      "name": "Daylighter",
-      "url": "https://open.spotify.com/track/2Nfv9rms6Q7uloTk2KYU8k"
-    },
-    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "Pearlty",
@@ -1565,36 +1573,20 @@
       "url": "https://open.spotify.com/track/2dNOg4we0JnbP1UzWzsGPS"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2023-03-31 18:27:23",
       "album": {
-        "name": "Mindfullness",
-        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
+        "name": "Debris",
+        "url": "https://open.spotify.com/album/5m9bsX1WJMuAtN2d4ssMHS"
       },
       "artists": [
         {
-          "name": "Flyying Colours",
-          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
+          "name": "Relay Tapes",
+          "url": "https://open.spotify.com/artist/7xIrG2TmYRzrigiWJXznFp"
         }
       ],
-      "duration_ms": 186253,
-      "name": "Long Holiday",
-      "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"
-    },
-    {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "alter",
-        "url": "https://open.spotify.com/album/0hDtH1xvaXKuXThFpPQLGC"
-      },
-      "artists": [
-        {
-          "name": "Indie Anthony",
-          "url": "https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM"
-        }
-      ],
-      "duration_ms": 138049,
-      "name": "alter",
-      "url": "https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT"
+      "duration_ms": 266250,
+      "name": "Daylighter",
+      "url": "https://open.spotify.com/track/2Nfv9rms6Q7uloTk2KYU8k"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1613,20 +1605,36 @@
       "url": "https://open.spotify.com/track/5AqfZijqhbE04nZfyDjfZr"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "Devour",
-        "url": "https://open.spotify.com/album/6xhZzuX1veVEVGCTxsLMaM"
+        "name": "alter",
+        "url": "https://open.spotify.com/album/0hDtH1xvaXKuXThFpPQLGC"
       },
       "artists": [
         {
-          "name": "Star Horse",
-          "url": "https://open.spotify.com/artist/1zC23cF77Lj7ukFsy19nor"
+          "name": "Indie Anthony",
+          "url": "https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Last Night's Haze",
-      "url": "https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV"
+      "duration_ms": 138049,
+      "name": "alter",
+      "url": "https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "Mindfullness",
+        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
+      },
+      "artists": [
+        {
+          "name": "Flyying Colours",
+          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "Long Holiday",
+      "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"
     }
   ],
   "unique_name": "Shoegaze Now",

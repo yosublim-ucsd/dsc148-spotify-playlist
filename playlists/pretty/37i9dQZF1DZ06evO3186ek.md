@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,737 likes - 50 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,836 likes - 50 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Lean Back \(feat\. Amanda Lindsey Cook & Chandler Moore\)](https://open.spotify.com/track/4EtKV9VxLbL6wgeQjiPm4r) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 15:45 |
 | 50 | [Joy of the Lord \(feat\. Dante Bowe, Naomi Raine, Katie Torwalt & Mav City Gospel Choir\)](https://open.spotify.com/track/1aQ3fg8LGKYAGohdbpnLEs) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Katie Torwalt](https://open.spotify.com/artist/6AXIMz03907VRnxzPsRiW6), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 14:22 |
 
-Snapshot ID: `MjgwNjYzMTYsMDAwMDAwMDAzMzA2ZTRkMDgyOWI2ZDFhZThlMDZhMzExNjkyZWZkMw==`
+Snapshot ID: `MjgwNjc4MzIsMDAwMDAwMDAwOTFiMjAzNzA1NTJmZGNlNmNkYjZiNzU2YWJhODgwYw==`

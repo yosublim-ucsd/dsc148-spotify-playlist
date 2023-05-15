@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Alex Porat
 
-1,639 songs - 3 day 11 hr 26 min
+1,640 songs - 3 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1202,7 +1202,7 @@
 | [Routine](https://open.spotify.com/track/7aIhTwqikfUfxAO4oQn69H) | [Limón Limón](https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70) | [Routine](https://open.spotify.com/album/1Tcs9eaYklWGY4WFdJwyek) | 3:11 | 2020-04-28 | 2020-11-13 |
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2022-06-10 | 2022-06-25 |
 | [ruin my life](https://open.spotify.com/track/2e2RJ0nomb2aAHpzbnL1aV) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [ruin my life](https://open.spotify.com/album/23Z5DQSMp0l6MVIKoAAhBr) | 2:46 | 2021-11-08 | 2022-01-29 |
-| [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 |  |
+| [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 | 2023-05-15 |
 | [Run](https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Run](https://open.spotify.com/album/2ZDJw4XzF5nEx4dEd7RmJP) | 3:16 | 2022-03-18 | 2022-10-20 |
 | [Run & Hide](https://open.spotify.com/track/4ReVKQaXjsl7ihqY43pbXB) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Run & Hide](https://open.spotify.com/album/4XYTnZdyX9ltTsmrzaX4Iq) | 3:00 | 2022-05-06 | 2022-10-06 |
 | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/track/5yZsE3TKmxdRVrSc8TCqfx) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/album/7zVCh92Cr2xyHnSnheohp7) | 2:48 | 2021-10-08 | 2022-01-08 |
@@ -1299,6 +1299,7 @@
 | [SMILE](https://open.spotify.com/track/6eshn81GQPqBfv7TEOyoTI) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [SMILE](https://open.spotify.com/album/7B8WilS3K8r0D23duwPnlq) | 2:41 | 2021-10-08 | 2022-01-08 |
 | [Smile](https://open.spotify.com/track/3OZ812Wywu349zAw9zaYKh) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Smile](https://open.spotify.com/album/5gN92MuecXEnWHhf2C3Amd) | 3:23 | 2019-09-29 | 2021-05-16 |
 | [Smoke Signal](https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Smoke Signal](https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs) | 2:32 | 2022-12-02 | 2023-01-17 |
+| [SNAKE EYES](https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [SNAKE EYES](https://open.spotify.com/album/3S6MFjq2tvxbK8pWhQBnvQ) | 2:10 | 2023-05-14 |  |
 | [snakes](https://open.spotify.com/track/4CigTjRg2PZZKYAus45wOA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [achoo!](https://open.spotify.com/album/5jKZmUNJOPLqToPimNr41p) | 2:23 | 2022-04-01 | 2022-05-28 |
 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-07-15 | 2022-08-27 |
 | [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-09-02 |  |

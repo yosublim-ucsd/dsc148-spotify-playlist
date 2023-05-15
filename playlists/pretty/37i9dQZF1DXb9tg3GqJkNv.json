@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Drake \ud83e\udd89",
-  "num_followers": 3994,
+  "num_followers": 4034,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTQ4NTViNzE4NDgzNzE4YzQ5NTQ2ZDllZjlmMjY0M2I2Yzg5M2Ez",
+  "snapshot_id": "MCw1ZmI1ZDMxYTI4MTZjN2U4ZTk5ZDJlZTFjNTFlZDQ2ODBmODE3MDM2",
   "tracks": [
     {
       "added_at": "2023-05-08 17:01:50",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
+        "name": "Sorry 4 What",
+        "url": "https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 145918,
+      "name": "Why Did I",
+      "url": "https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6"
+    },
+    {
+      "added_at": "2023-05-08 17:01:50",
+      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 132739,
       "name": "100 Rounds",
       "url": "https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO"
-    },
-    {
-      "added_at": "2023-05-08 17:01:50",
-      "album": {
-        "name": "Sorry 4 What",
-        "url": "https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 145918,
-      "name": "Why Did I",
-      "url": "https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6"
     },
     {
       "added_at": "2023-05-08 17:01:50",
@@ -675,30 +675,6 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
-        "name": "Special Occasion",
-        "url": "https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp"
-      },
-      "artists": [
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        },
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 233239,
-      "name": "Bass (feat. Tech N9ne & Hopsin)",
-      "url": "https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s"
-    },
-    {
-      "added_at": "2023-05-08 17:01:50",
-      "album": {
         "name": "All Aces",
         "url": "https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 201600,
       "name": "All Aces",
       "url": "https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF"
+    },
+    {
+      "added_at": "2023-05-08 17:01:50",
+      "album": {
+        "name": "Special Occasion",
+        "url": "https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 233239,
+      "name": "Bass (feat. Tech N9ne & Hopsin)",
+      "url": "https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s"
     },
     {
       "added_at": "2023-05-08 17:01:50",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
-        "name": "Dwayne Carter Flow",
-        "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
-      },
-      "artists": [
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Dwayne Carter Flow",
-      "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
-    },
-    {
-      "added_at": "2023-05-08 17:01:50",
-      "album": {
         "name": "DUSK to DAWN",
         "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 150292,
       "name": "VULTURES",
       "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
+    },
+    {
+      "added_at": "2023-05-08 17:01:50",
+      "album": {
+        "name": "Dwayne Carter Flow",
+        "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Dwayne Carter Flow",
+      "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
     },
     {
       "added_at": "2023-05-08 17:01:50",

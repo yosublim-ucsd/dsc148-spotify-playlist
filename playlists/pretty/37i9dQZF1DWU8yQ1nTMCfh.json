@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Wiplash",
-  "num_followers": 280309,
+  "num_followers": 280326,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2Y1ZjFiNDRmMDYzZWNkZTgxYzAzMGNiY2JjM2M3MGQ1YTMxYjA1",
+  "snapshot_id": "MCwxNzFjZTliYTA3N2VmZTJhZTAzOGE3NmNkMjkzOTZiMzQ0NWI5Mjkz",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Cuenta conmigo",
-        "url": "https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6"
+        "name": "San Saltar\u00edn",
+        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
       },
       "artists": [
         {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 166717,
-      "name": "Cuenta conmigo",
-      "url": "https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A"
+      "duration_ms": 258765,
+      "name": "San Saltar\u00edn",
+      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -587,6 +587,22 @@
       "duration_ms": 204455,
       "name": "Venganza",
       "url": "https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Cuenta conmigo",
+        "url": "https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 166717,
+      "name": "Cuenta conmigo",
+      "url": "https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -651,22 +667,6 @@
       "duration_ms": 291106,
       "name": "La Petite Mort",
       "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "San Saltar\u00edn",
-        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 258765,
-      "name": "San Saltar\u00edn",
-      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "No me preguntes por qu\u00e9",
-        "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
-      },
-      "artists": [
-        {
-          "name": "Rouss",
-          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 173436,
-      "name": "No me preguntes por qu\u00e9",
-      "url": "https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Renacimiento",
         "url": "https://open.spotify.com/album/1bgDT6xm0mP29HMfGTbpAm"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 212810,
       "name": "Sentimientos Encontrados",
       "url": "https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "No me preguntes por qu\u00e9",
+        "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
+      },
+      "artists": [
+        {
+          "name": "Rouss",
+          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
+        },
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 173436,
+      "name": "No me preguntes por qu\u00e9",
+      "url": "https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "PRISMARAMA",
+        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Celosa",
         "url": "https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 200693,
       "name": "Maldivas",
       "url": "https://open.spotify.com/track/0dpXgd1OyD0etHnvCodXXZ"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Guanaco",
-        "url": "https://open.spotify.com/album/5NfJb3X3Yr0lAEu3tRdWgr"
-      },
-      "artists": [
-        {
-          "name": "Kiltro",
-          "url": "https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm"
-        }
-      ],
-      "duration_ms": 308035,
-      "name": "Guanaco",
-      "url": "https://open.spotify.com/track/4alR2UPn0Xwlg45XJNAyMS"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Guanaco",
+        "url": "https://open.spotify.com/album/5NfJb3X3Yr0lAEu3tRdWgr"
+      },
+      "artists": [
+        {
+          "name": "Kiltro",
+          "url": "https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm"
+        }
+      ],
+      "duration_ms": 308035,
+      "name": "Guanaco",
+      "url": "https://open.spotify.com/track/4alR2UPn0Xwlg45XJNAyMS"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Astronom\u00eda Interior",
         "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 203880,
       "name": "Movimiento",
       "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Multiverso",
-        "url": "https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X"
-      },
-      "artists": [
-        {
-          "name": "Rayden",
-          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
-        }
-      ],
-      "duration_ms": 181340,
-      "name": "Multiverso",
-      "url": "https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1179,6 +1179,22 @@
       "duration_ms": 183342,
       "name": "Al menos ahora",
       "url": "https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Multiverso",
+        "url": "https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X"
+      },
+      "artists": [
+        {
+          "name": "Rayden",
+          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
+        }
+      ],
+      "duration_ms": 181340,
+      "name": "Multiverso",
+      "url": "https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1227,22 +1243,6 @@
       "duration_ms": 182780,
       "name": "Soy Un Guapo",
       "url": "https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "El Ding Dong",
-        "url": "https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 159829,
-      "name": "El Ding Dong",
-      "url": "https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI"
     },
     {
       "added_at": "2023-05-12 04:01:00",

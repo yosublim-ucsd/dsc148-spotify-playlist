@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Rubber Factory",
+        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "Act Nice and Gentle",
+      "url": "https://open.spotify.com/track/0xjiVZARgDnyYQF3dOXeOp"
+    },
+    {
+      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 355434,
       "name": "Come on and Go with Me",
       "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
@@ -542,10 +560,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 140933,
       "name": "I'll Be Your Man",
       "url": "https://open.spotify.com/track/1nIUgRxbi4aY4fV5A26Jrp"
+    },
+    {
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140933,
+      "name": "I'll Be Your Man",
+      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
     },
     {
       "album": {

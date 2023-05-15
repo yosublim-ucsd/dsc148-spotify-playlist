@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 162354,
+  "num_followers": 162337,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzE1NzBjMjY1ZGY0YzYxMGFiNjJiZDY0MjMwNmYzMDZiZTZhYzEw",
+  "snapshot_id": "MCxiOTEwN2IyMDA3ODAyZjQwYjkyNTY4OTdhNzIzMTA2MzgzNGZiMjdl",
   "tracks": [
     {
       "added_at": "2022-12-23 02:36:32",
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Home To You (This Christmas)",
-        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
+        "name": "Transatlanticism (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
       },
       "artists": [
         {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
         }
       ],
-      "duration_ms": 225817,
-      "name": "Home To You (This Christmas)",
-      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
+      "duration_ms": 246373,
+      "name": "The New Year",
+      "url": "https://open.spotify.com/track/4nPNsnv4QEiIzihzCU5zHH"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Transatlanticism (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
+        "name": "Home To You (This Christmas)",
+        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
         }
       ],
-      "duration_ms": 246373,
-      "name": "The New Year",
-      "url": "https://open.spotify.com/track/4nPNsnv4QEiIzihzCU5zHH"
+      "duration_ms": 225817,
+      "name": "Home To You (This Christmas)",
+      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
+        "name": "Phrazes For The Young",
+        "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
+      },
+      "artists": [
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "Christmas Treat",
+      "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
         "name": "Ain't Christmas (with Laufey)",
         "url": "https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL"
       },
@@ -655,34 +671,26 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Phrazes For The Young",
-        "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
-      },
-      "artists": [
-        {
-          "name": "Julian Casablancas",
-          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Christmas Treat",
-      "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/5P6ipsN2cYH8Bp2DokqkHf"
+        "name": "7 O'Clock News / Silent Night",
+        "url": "https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn"
       },
       "artists": [
         {
           "name": "Phoebe Bridgers",
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        },
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
         }
       ],
-      "duration_ms": 179368,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6KktzUnQSJZC3iZSwj812R"
+      "duration_ms": 120426,
+      "name": "7 O'Clock News / Silent Night",
+      "url": "https://open.spotify.com/track/3sIupwcMw6vCZ3bqMJa0NV"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -755,6 +763,22 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
+        "name": "Linus n' Lucy (Theme from Peanuts)",
+        "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 172207,
+      "name": "Linus n' Lucy (Theme from Peanuts)",
+      "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
         "name": "LIFE ON EARTH (with Preservation Hall Jazz Band)",
         "url": "https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w"
       },
@@ -771,22 +795,6 @@
       "duration_ms": 380480,
       "name": "LIFE ON EARTH - with Preservation Hall Jazz Band",
       "url": "https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
-        "name": "Linus n' Lucy (Theme from Peanuts)",
-        "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 172207,
-      "name": "Linus n' Lucy (Theme from Peanuts)",
-      "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
     },
     {
       "added_at": "2022-12-23 02:36:32",

@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 845,
+  "num_followers": 848,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmQ4YzljY2JlYWEyZWNjN2UyZDM4MzM1NzIwYTY0YTM1YTRlYzg1",
+  "snapshot_id": "MCxiZmEwNjQ4YmE1ZWZiNjQwMWQ3ODFlOTViMzg0NDFkOTMxZjVlZjJj",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Koleksyon Dor",
+        "url": "https://open.spotify.com/album/7x2ysdP957dBY4KY2oKDUD"
+      },
+      "artists": [
+        {
+          "name": "Evoloziq",
+          "url": "https://open.spotify.com/artist/7MFxyq8uWZZo0eP48b80m8"
+        }
+      ],
+      "duration_ms": 204742,
+      "name": "Moris",
+      "url": "https://open.spotify.com/track/3QU5nBA3JzyXtAXQcfUcQG"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "La famille",
         "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 247136,
       "name": "Ingra",
       "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Koleksyon Dor",
-        "url": "https://open.spotify.com/album/7x2ysdP957dBY4KY2oKDUD"
-      },
-      "artists": [
-        {
-          "name": "Evoloziq",
-          "url": "https://open.spotify.com/artist/7MFxyq8uWZZo0eP48b80m8"
-        }
-      ],
-      "duration_ms": 204742,
-      "name": "Moris",
-      "url": "https://open.spotify.com/track/3QU5nBA3JzyXtAXQcfUcQG"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
+        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
+      },
+      "artists": [
+        {
+          "name": "Andy Janvier",
+          "url": "https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS"
+        }
+      ],
+      "duration_ms": 246766,
+      "name": "Janvier",
+      "url": "https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 301287,
       "name": "Granper Sorti Diego",
       "url": "https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
-        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
-      },
-      "artists": [
-        {
-          "name": "Andy Janvier",
-          "url": "https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS"
-        }
-      ],
-      "duration_ms": 246766,
-      "name": "Janvier",
-      "url": "https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2"
     },
     {
       "added_at": "2022-08-11 10:05:16",

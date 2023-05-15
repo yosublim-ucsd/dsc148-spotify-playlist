@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/098hVwvAVYKJZd5kTwm9Ra.md) - [plain]
 
 > Listen to Summer BBQ essentials featuring Classic Rock, Yacht Rock, and Country favorites from AC/DC, Kenny Loggins, Rick Springfield, TOTO, Van Morrison + more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 76,549 likes - 184 songs - 12 hr 15 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 76,674 likes - 184 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

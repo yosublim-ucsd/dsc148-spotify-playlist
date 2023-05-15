@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 126218,
+  "num_followers": 126212,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmZiMzc5ZjQxYjFlOWVlNmQ0YzFhY2ZlZmY4NWRlYTE1YTczMjk0",
+  "snapshot_id": "MCxlZjE1YmU1ZGE5NjQ1MzE0MjNhNDViOWY2ZjE4NTExZjE3ZWNjM2M2",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Together With Cliff Richard",
-        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard",
-          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Mistletoe and Wine",
-      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
         "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 163680,
       "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
       "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Together With Cliff Richard",
+        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Mistletoe and Wine",
+      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -633,6 +633,22 @@
       "url": "https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg"
     },
     {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Love Unlimited",
+          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "It May Be Winter Outside (But In My Heart It's Spring)",
+      "url": "https://open.spotify.com/track/4tHGsplffm1rxS33yrL59b"
+    },
+    {
       "added_at": "2022-12-09 00:00:00",
       "album": {
         "name": "River (Live in Studio)",
@@ -671,22 +687,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Christmas Bells",
-        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 246745,
-      "name": "Christmas Bells",
-      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "The Kacey Musgraves Christmas Show",
         "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
       },
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+        "name": "Christmas Bells",
+        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
       },
       "artists": [
         {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 187733,
-      "name": "It May Be Winter Outside (But In My Heart It's Spring)",
-      "url": "https://open.spotify.com/track/4tHGsplffm1rxS33yrL59b"
+      "duration_ms": 246745,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "The Magic Of Christmas",
-        "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
-      },
-      "artists": [
-        {
-          "name": "LYRA",
-          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "The Magic Of Christmas",
-      "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "This Must Be Christmas",
         "url": "https://open.spotify.com/album/2pu1UdU80EqKShbMTQgrHb"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 213182,
       "name": "This Must Be Christmas - Single Mix",
       "url": "https://open.spotify.com/track/2hXjYeuMrcZZ2Z9C3MER4c"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The Magic Of Christmas",
+        "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
+      },
+      "artists": [
+        {
+          "name": "LYRA",
+          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "The Magic Of Christmas",
+      "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
     },
     {
       "added_at": "2022-11-18 01:05:05",

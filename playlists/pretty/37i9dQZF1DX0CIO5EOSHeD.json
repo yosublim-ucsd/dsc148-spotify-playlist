@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 428043,
+  "num_followers": 428242,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmU2YTUxNjYxMTExMjI1YjBhM2M3M2I2ZjEzMzRiMjdhMzJhMzUx",
+  "snapshot_id": "MCw1N2Q0OGJmYjNmY2QyOWI3ZTQ2YWMyZDQ1NWY2MTA5MmY5MTlkYTRi",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Sun Outside My Window",
+        "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sun Outside My Window",
+      "url": "https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Fade",
         "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 273360,
       "name": "Physical",
       "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Sun Outside My Window",
-        "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Sun Outside My Window",
-      "url": "https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Ways to Go",
+        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 127061,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Can\u2019t Get Enough",
         "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 96000,
       "name": "AHH!!",
       "url": "https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Ways to Go",
-        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 127061,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Reality",
+        "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
+      },
+      "artists": [
+        {
+          "name": "Em Glasser",
+          "url": "https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5"
+        },
+        {
+          "name": "Maatz",
+          "url": "https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr"
+        }
+      ],
+      "duration_ms": 219205,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "i want to die in your arms",
         "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 194060,
       "name": "at least, I tried",
       "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Reality",
-        "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
-      },
-      "artists": [
-        {
-          "name": "Em Glasser",
-          "url": "https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5"
-        },
-        {
-          "name": "Maatz",
-          "url": "https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr"
-        }
-      ],
-      "duration_ms": 219205,
-      "name": "Reality",
-      "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
     },
     {
       "added_at": "2022-09-13 23:04:24",

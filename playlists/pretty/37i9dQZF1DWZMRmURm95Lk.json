@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Nerone ed Ensi, Brava Gente, in cover.",
-  "num_followers": 32309,
+  "num_followers": 32324,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2VhNzQzMmQwOGNmMDNjY2E0ZTI2NGQ1MTQ0ZTdlYzVhNjVkY2Iy",
+  "snapshot_id": "MCw4YWYzNjk2YmY5MjA5ZDgyYTUzMjM2ZWU2NzIwMjVmZTIwNTg5OTFh",
   "tracks": [
     {
       "added_at": "2023-05-12 13:19:37",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-05-12 13:19:37",
       "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 202885,
+      "name": "Una Volta Sola",
+      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
+    },
+    {
+      "added_at": "2023-05-12 13:19:37",
+      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
-    },
-    {
-      "added_at": "2023-05-12 13:19:37",
-      "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 202885,
-      "name": "Una Volta Sola",
-      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
     },
     {
       "added_at": "2023-05-12 13:19:37",
@@ -915,38 +915,6 @@
     {
       "added_at": "2023-05-12 13:19:37",
       "album": {
-        "name": "Dead Poets 3 - Maledetti",
-        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
-      },
-      "artists": [
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Caparezza",
-          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
-        },
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Funky Nano",
-          "url": "https://open.spotify.com/artist/6TSfxHqdLfsHgAJ64mF7DH"
-        },
-        {
-          "name": "Roy Paci",
-          "url": "https://open.spotify.com/artist/6ZABE2V1BqiqDoTT8kgeJb"
-        }
-      ],
-      "duration_ms": 237965,
-      "name": "Smackdown",
-      "url": "https://open.spotify.com/track/5yLmfZy36qHMJMyuuiSCiJ"
-    },
-    {
-      "added_at": "2023-05-12 13:19:37",
-      "album": {
         "name": "Curre curre guagli\u00f2",
         "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
@@ -975,6 +943,38 @@
       "duration_ms": 253683,
       "name": "L'Anima Giusta",
       "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
+    },
+    {
+      "added_at": "2023-05-12 13:19:37",
+      "album": {
+        "name": "Dead Poets 3 - Maledetti",
+        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Caparezza",
+          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Funky Nano",
+          "url": "https://open.spotify.com/artist/6TSfxHqdLfsHgAJ64mF7DH"
+        },
+        {
+          "name": "Roy Paci",
+          "url": "https://open.spotify.com/artist/6ZABE2V1BqiqDoTT8kgeJb"
+        }
+      ],
+      "duration_ms": 237965,
+      "name": "Smackdown",
+      "url": "https://open.spotify.com/track/5yLmfZy36qHMJMyuuiSCiJ"
     },
     {
       "added_at": "2023-05-12 13:19:37",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-05-12 13:19:37",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 295293,
+      "name": "Cani sciolti",
+      "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
+    },
+    {
+      "added_at": "2023-05-12 13:19:37",
+      "album": {
         "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
         "url": "https://open.spotify.com/album/6NRN8TCJDem82aZJEicCKM"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 197227,
       "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
       "url": "https://open.spotify.com/track/3knYKrDUrIv8F271A7cmEm"
-    },
-    {
-      "added_at": "2023-05-12 13:19:37",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 295293,
-      "name": "Cani sciolti",
-      "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
     },
     {
       "added_at": "2023-05-12 13:19:37",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-05-12 13:19:37",
       "album": {
-        "name": "XENOVERSO",
-        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
-      },
-      "artists": [
-        {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Lontano 2036",
-      "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
-    },
-    {
-      "added_at": "2023-05-12 13:19:37",
-      "album": {
         "name": "B.U.F.",
         "url": "https://open.spotify.com/album/3IuWUPJzVr63tXvAeyWRHp"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 185880,
       "name": "Hashishin",
       "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
+    },
+    {
+      "added_at": "2023-05-12 13:19:37",
+      "album": {
+        "name": "XENOVERSO",
+        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+      },
+      "artists": [
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Lontano 2036",
+      "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
     },
     {
       "added_at": "2023-05-12 13:19:37",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-05-12 13:19:37",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 251133,
+      "name": "Lo straniero",
+      "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
+    },
+    {
+      "added_at": "2023-05-12 13:19:37",
+      "album": {
         "name": "SULL'AMORE E ALTRE OSCURE QUESTIONI (feat. Ghemon)",
         "url": "https://open.spotify.com/album/6z1wbb6ssO42mq3Qy5OEwz"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 207600,
       "name": "SULL'AMORE E ALTRE OSCURE QUESTIONI (feat. Ghemon)",
       "url": "https://open.spotify.com/track/6afdBu5WuSgxKD2nVEJ8CM"
-    },
-    {
-      "added_at": "2023-05-12 13:19:37",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 251133,
-      "name": "Lo straniero",
-      "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
     },
     {
       "added_at": "2023-05-12 13:19:37",
@@ -1831,22 +1831,22 @@
     {
       "added_at": "2023-05-12 13:19:37",
       "album": {
-        "name": "Brothers Cavalera",
-        "url": "https://open.spotify.com/album/1bH9kfwI27cy18IdV4cRZC"
+        "name": "Lo Spirito Che Suona",
+        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
       },
       "artists": [
         {
-          "name": "Nex Cassel",
-          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
         },
         {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
         }
       ],
-      "duration_ms": 129767,
-      "name": "Brothers Cavalera",
-      "url": "https://open.spotify.com/track/3wCt0lbBjnpLuP1QikoGlb"
+      "duration_ms": 269760,
+      "name": "Citt\u00e0 di vetro",
+      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
     },
     {
       "added_at": "2023-05-12 13:19:37",
@@ -1871,22 +1871,22 @@
     {
       "added_at": "2023-05-12 13:19:37",
       "album": {
-        "name": "Lo Spirito Che Suona",
-        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
+        "name": "Brothers Cavalera",
+        "url": "https://open.spotify.com/album/1bH9kfwI27cy18IdV4cRZC"
       },
       "artists": [
         {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
         },
         {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         }
       ],
-      "duration_ms": 269760,
-      "name": "Citt\u00e0 di vetro",
-      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
+      "duration_ms": 129767,
+      "name": "Brothers Cavalera",
+      "url": "https://open.spotify.com/track/3wCt0lbBjnpLuP1QikoGlb"
     },
     {
       "added_at": "2023-05-12 13:19:37",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-05-12 13:19:37",
       "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Il coraggio di dirti",
-      "url": "https://open.spotify.com/track/18FcA4logPoWj73sYqanLU"
-    },
-    {
-      "added_at": "2023-05-12 13:19:37",
-      "album": {
         "name": "Sotto lo stesso effetto",
         "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 295333,
       "name": "Amor de mi vida",
       "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
+    },
+    {
+      "added_at": "2023-05-12 13:19:37",
+      "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Il coraggio di dirti",
+      "url": "https://open.spotify.com/track/18FcA4logPoWj73sYqanLU"
     },
     {
       "added_at": "2023-05-12 13:19:37",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2023-05-12 13:19:37",
       "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Chi more pe' mme",
+      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
+    },
+    {
+      "added_at": "2023-05-12 13:19:37",
+      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 177400,
       "name": "Coltelli",
       "url": "https://open.spotify.com/track/5FYJs2NzhioUpt8pJ6BnHo"
-    },
-    {
-      "added_at": "2023-05-12 13:19:37",
-      "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Chi more pe' mme",
-      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
     },
     {
       "added_at": "2023-05-12 13:19:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,364 likes - 524 songs - 19 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,768 likes - 524 songs - 19 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -533,4 +533,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 523 | [Sandy Feels](https://open.spotify.com/track/4gBuDTT5zCALOr2zJJFTaA) | [Stan Morgley](https://open.spotify.com/artist/0eH6vvgXNKhsU7d862ZArZ) | [Sandy Feels](https://open.spotify.com/album/6xBm6nNdFvYwnO6DXSoowt) | 2:18 |
 | 524 | [golden ratio](https://open.spotify.com/track/4F5FPoDTBsuFmwkmIiDypZ) | [russki dilemma](https://open.spotify.com/artist/7Mo8ORceX8Hw7BdLKRso4J) | [golden ratio](https://open.spotify.com/album/2K2SqemhUZ9RO6ZWNr6sjZ) | 2:23 |
 
-Snapshot ID: `MCxiMzMwOTNjZGQ3MGVjZDA1MGZhYjUwOTBiOTI5OGYzNjRjZjM5OTFh`
+Snapshot ID: `MCxmMzQzOWEwYjI4MmZhMDhlMjdhZGQ5ZDA0OWUzNDJjNzk2Y2E3MmY3`

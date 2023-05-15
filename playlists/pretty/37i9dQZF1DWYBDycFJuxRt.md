@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: iri \*👉 <a href="https://spice.eplus.jp/articles/318042?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,484 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,521 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [薄明光線](https://open.spotify.com/track/7GBcaDq8SWxon97pOWXQEI) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [薄明光線](https://open.spotify.com/album/71PaUDkhfU8KRaIF7UDqlN) | 3:27 |
 | 70 | [わからないよな](https://open.spotify.com/track/7Ity0z6dLFuP42PnkmkYgu) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [わからないよな](https://open.spotify.com/album/36zXcsDPeCVntMrnxAyb06) | 3:03 |
 
-Snapshot ID: `MCw4ZGIwNWNjZDIyNjI5ZTFmMjJkNGYzZjljZWI5ZTBmYzIwYTFhMDUx`
+Snapshot ID: `MCw4YWI1ZGM3ZmNkZjQ5M2FkNDcwMGQ0MTcxMzRkNDU0NDkzNjdkNTBk`

@@ -4,7 +4,7 @@
 
 > All the biggest hits from the biggest boybands\. Cover: BTS
 
-160 songs - 10 hr 32 min
+161 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Fool Again](https://open.spotify.com/track/5Aa33rAPkp7f7l1aVqsHO8) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN) | 3:54 | 2022-05-17 |  |
 | [Fool Again](https://open.spotify.com/track/5yTk7KPsD43u7hjeiGP2Kw) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/7hiLA8LEQScMnVvqoKHCHO) | 3:55 | 2021-04-29 | 2022-07-29 |
 | [Freak Me](https://open.spotify.com/track/06oS63X7MWr6uhrmFQryZT) | [Another Level](https://open.spotify.com/artist/3kcqSqWEss8JZtHBE5IJzZ) | [Love Songs](https://open.spotify.com/album/6YXGp7o4GmZBzXqYB6XQMK) | 4:55 | 2021-04-29 | 2022-11-13 |
-| [Girl On TV](https://open.spotify.com/track/4DJwdQDai9DLYBL9TNrEDo) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:07 | 2022-12-23 |  |
+| [Girl On TV](https://open.spotify.com/track/4DJwdQDai9DLYBL9TNrEDo) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:07 | 2022-12-23 | 2023-05-15 |
 | [Glad You Came](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:17 | 2022-12-23 |  |
 | [Gone](https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 4:52 | 2022-03-18 |  |
 | [Got the Feelin' \- Radio Edit](https://open.spotify.com/track/5pHkdbnwsgEuwdpNvwy3My) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Five](https://open.spotify.com/album/3x5IW1MzKe5OS9vw7gprFX) | 3:27 | 2021-04-29 | 2022-07-14 |
@@ -157,6 +157,7 @@
 | [True To Your Heart](https://open.spotify.com/track/1MIFTX7nIC12s9Z0ZiKawg) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mulan Original Soundtrack](https://open.spotify.com/album/4z7cSxC9GqPVh9Nz579wel) | 4:17 | 2021-04-29 | 2022-07-29 |
 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 | 2022-03-09 |  |
 | [Water Runs Dry](https://open.spotify.com/track/7yhmvQh1JOzbNiNFQo4Tfc) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:21 | 2022-03-09 | 2022-12-20 |
+| [Waves](https://open.spotify.com/track/3VAKlkSSrbEasm9WDDD9Jd) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Another Life](https://open.spotify.com/album/6TNSl6N3tdvWQ6hBm81Dz7) | 3:14 | 2023-05-14 |  |
 | [We've Got It Goin' On \- Radio Edit](https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H) | 3:39 | 2021-04-29 | 2022-03-10 |
 | [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:19 | 2022-12-23 |  |
 | [Where Do You Go](https://open.spotify.com/track/1lkfcyCLP0KPykSLIgh1VT) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [Greatest Hits](https://open.spotify.com/album/3tabuqpmg0z2LZiO24V1Vl) | 4:31 | 2021-04-29 | 2022-11-13 |

@@ -2414,6 +2414,28 @@
     {
       "album": {
         "name": "Pictures of Flowers",
+        "url": "https://open.spotify.com/album/0e68piRWBeQPkDomRltnvf"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        },
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260458,
+      "name": "Pictures of Flowers",
+      "url": "https://open.spotify.com/track/33u3HQgpjtsdP6nDR5SKtf"
+    },
+    {
+      "album": {
+        "name": "Pictures of Flowers",
         "url": "https://open.spotify.com/album/6jHE9E6D7YJEonXtoZVsRN"
       },
       "artists": [
@@ -2536,7 +2558,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 175773,
       "name": "Rae",
       "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"

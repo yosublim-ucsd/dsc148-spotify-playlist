@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,300 likes - 28 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,302 likes - 28 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 27 | [This is Halloween](https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:19 |
 | 28 | [The Twilight Zone \- Remastered 1992](https://open.spotify.com/track/2pdqaNUADr4vkmml8wveJd) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35), [Kevin Reeves](https://open.spotify.com/artist/3hXPNhCTXeyEnwwrXHpMNC), [Ron Furmanek](https://open.spotify.com/artist/7LrLiL3hiy4IDwbWH29vnG) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 2:36 |
 
-Snapshot ID: `MCw3YTliMWYzNWZhNDVkNTZkMjcwZjdmNmY1ODY3YzU1ODNlOTZhZjVl`
+Snapshot ID: `MCxmOTUxNWJmNmYwZTA1MTQwYzIxNGI1Y2I1NzRmYzg2NTAwMTk2MDU2`

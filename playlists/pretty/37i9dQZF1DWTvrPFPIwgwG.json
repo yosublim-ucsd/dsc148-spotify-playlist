@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 72270,
+  "num_followers": 72396,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWE4MTBkOGM4MzgxNjMyYzMwNzMyNmE4ZmMxNDJhYjc4NzYxMGE3",
+  "snapshot_id": "MCw0OGMyN2NmNmZhMWY0NTA3NDE2YzBkOTk5MzliZTc3MDkxOWY5MzFl",
   "tracks": [
     {
       "added_at": "2023-05-12 18:48:07",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-05-12 18:48:07",
       "album": {
-        "name": "No Sil\u00eancio (Ao vivo)",
-        "url": "https://open.spotify.com/album/7bPcheoTQfzLaVqO8Iw3GK"
-      },
-      "artists": [
-        {
-          "name": "Jefferson & Suellen",
-          "url": "https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28"
-        }
-      ],
-      "duration_ms": 265183,
-      "name": "No Sil\u00eancio - Ao vivo",
-      "url": "https://open.spotify.com/track/0NgRrEnBuuUyfBptNRyxdP"
-    },
-    {
-      "added_at": "2023-05-12 18:48:07",
-      "album": {
         "name": "H\u00e1 um Tempo",
         "url": "https://open.spotify.com/album/4N0OsVr0l5lTjkxCeqGHbp"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 284671,
       "name": "H\u00e1 um Tempo",
       "url": "https://open.spotify.com/track/4RRhPzBkN2rLr1jz3Da1NK"
+    },
+    {
+      "added_at": "2023-05-12 18:48:07",
+      "album": {
+        "name": "No Sil\u00eancio (Ao vivo)",
+        "url": "https://open.spotify.com/album/7bPcheoTQfzLaVqO8Iw3GK"
+      },
+      "artists": [
+        {
+          "name": "Jefferson & Suellen",
+          "url": "https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28"
+        }
+      ],
+      "duration_ms": 265183,
+      "name": "No Sil\u00eancio - Ao vivo",
+      "url": "https://open.spotify.com/track/0NgRrEnBuuUyfBptNRyxdP"
     },
     {
       "added_at": "2023-05-12 18:48:07",
@@ -991,6 +991,26 @@
     {
       "added_at": "2023-05-12 18:48:07",
       "album": {
+        "name": "Vendavais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Ij0TmdXKBzx3iq9pRpSNV"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 369635,
+      "name": "Vendavais - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qdZ1ORxeOMSFMBhi8MikJ"
+    },
+    {
+      "added_at": "2023-05-12 18:48:07",
+      "album": {
         "name": "Eu Te Toquei (Ao Vivo)",
         "url": "https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 319018,
       "name": "Eu Te Toquei - Ao Vivo",
       "url": "https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp"
-    },
-    {
-      "added_at": "2023-05-12 18:48:07",
-      "album": {
-        "name": "H\u00e1 uma Sa\u00edda: 45 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv"
-      },
-      "artists": [
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        },
-        {
-          "name": "Elaine de Jesus",
-          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
-        }
-      ],
-      "duration_ms": 377500,
-      "name": "H\u00e1 uma Sa\u00edda: 45 Anos - Ao Vivo",
-      "url": "https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc"
     },
     {
       "added_at": "2023-05-12 18:48:07",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2023-05-12 18:48:07",
       "album": {
+        "name": "H\u00e1 uma Sa\u00edda: 45 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        },
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        }
+      ],
+      "duration_ms": 377500,
+      "name": "H\u00e1 uma Sa\u00edda: 45 Anos - Ao Vivo",
+      "url": "https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc"
+    },
+    {
+      "added_at": "2023-05-12 18:48:07",
+      "album": {
         "name": "Vai Ter Festa",
         "url": "https://open.spotify.com/album/7qIy0gZAG6rClu3mi6dPXX"
       },
@@ -1183,26 +1203,6 @@
     {
       "added_at": "2023-05-12 18:48:07",
       "album": {
-        "name": "Vendavais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Ij0TmdXKBzx3iq9pRpSNV"
-      },
-      "artists": [
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 369635,
-      "name": "Vendavais - Ao Vivo",
-      "url": "https://open.spotify.com/track/0qdZ1ORxeOMSFMBhi8MikJ"
-    },
-    {
-      "added_at": "2023-05-12 18:48:07",
-      "album": {
         "name": "Marcados pela Gl\u00f3ria",
         "url": "https://open.spotify.com/album/3w4cHIj0xF3RcjoLC3Pruh"
       },
@@ -1215,62 +1215,6 @@
       "duration_ms": 301619,
       "name": "Marcados pela Gl\u00f3ria",
       "url": "https://open.spotify.com/track/0Tz9cUyqBfcsHJYQkP0r2m"
-    },
-    {
-      "added_at": "2023-05-12 18:48:07",
-      "album": {
-        "name": "Profetiza",
-        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 294475,
-      "name": "Profetiza",
-      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
-    },
-    {
-      "added_at": "2023-05-12 18:48:07",
-      "album": {
-        "name": "A Vit\u00f3ria Chegou",
-        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "A Vit\u00f3ria Chegou",
-      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
-    },
-    {
-      "added_at": "2023-05-12 18:48:07",
-      "album": {
-        "name": "Vai Passar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 315022,
-      "name": "Vai Passar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
     },
     {
       "added_at": "2023-05-12 18:48:07",
@@ -1295,6 +1239,62 @@
     {
       "added_at": "2023-05-12 18:48:07",
       "album": {
+        "name": "A Vit\u00f3ria Chegou",
+        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "A Vit\u00f3ria Chegou",
+      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
+    },
+    {
+      "added_at": "2023-05-12 18:48:07",
+      "album": {
+        "name": "Profetiza",
+        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 294475,
+      "name": "Profetiza",
+      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
+    },
+    {
+      "added_at": "2023-05-12 18:48:07",
+      "album": {
+        "name": "Vai Passar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 315022,
+      "name": "Vai Passar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
+    },
+    {
+      "added_at": "2023-05-12 18:48:07",
+      "album": {
         "name": "O Deus Incompar\u00e1vel",
         "url": "https://open.spotify.com/album/1YtRptMSLaYic90xjdpLmt"
       },
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-05-12 18:48:07",
       "album": {
+        "name": "O La\u00e7o Quebrou",
+        "url": "https://open.spotify.com/album/3fmwuz2g3d8yvt8gQRYbER"
+      },
+      "artists": [
+        {
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        }
+      ],
+      "duration_ms": 258019,
+      "name": "O La\u00e7o Quebrou",
+      "url": "https://open.spotify.com/track/62GyXwfo1upFdbx9MxonJh"
+    },
+    {
+      "added_at": "2023-05-12 18:48:07",
+      "album": {
         "name": "Prepare o Culto",
         "url": "https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN"
       },
@@ -1327,26 +1343,6 @@
       "duration_ms": 360909,
       "name": "Prepare o Culto",
       "url": "https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG"
-    },
-    {
-      "added_at": "2023-05-12 18:48:07",
-      "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
-      },
-      "artists": [
-        {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        },
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
     },
     {
       "added_at": "2023-05-12 18:48:07",
@@ -1415,6 +1411,26 @@
     {
       "added_at": "2023-05-12 18:48:07",
       "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
+      },
+      "artists": [
+        {
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        },
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
+    },
+    {
+      "added_at": "2023-05-12 18:48:07",
+      "album": {
         "name": "N\u00e3o Desista de Orar (Ao Vivo)",
         "url": "https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 485055,
       "name": "N\u00e3o Desista de Orar - Ao Vivo",
       "url": "https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3"
-    },
-    {
-      "added_at": "2023-05-12 18:48:07",
-      "album": {
-        "name": "O La\u00e7o Quebrou",
-        "url": "https://open.spotify.com/album/3fmwuz2g3d8yvt8gQRYbER"
-      },
-      "artists": [
-        {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        }
-      ],
-      "duration_ms": 258019,
-      "name": "O La\u00e7o Quebrou",
-      "url": "https://open.spotify.com/track/62GyXwfo1upFdbx9MxonJh"
     },
     {
       "added_at": "2023-05-12 18:48:07",

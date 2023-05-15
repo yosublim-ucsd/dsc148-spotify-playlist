@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 18193,
+  "num_followers": 18209,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzAxM2VhYTI0N2ZhNjNiOWVhNDY1MjEwZTUyOGI0NzU3ZjUzYTQ3",
+  "snapshot_id": "MCw3ZjU1YWMzYjcyNDhhZThmYTQwYTQ1ZDEyOTI4NTcwMzEyYzBjMDE5",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -375,8 +375,8 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+        "name": "Harp Attack!",
+        "url": "https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b"
       },
       "artists": [
         {
@@ -384,33 +384,41 @@
           "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
         },
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Cotton Mouth Man",
-      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Roots And Branches - The Songs Of Little Walter",
-        "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
-      },
-      "artists": [
-        {
           "name": "Billy Branch",
           "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
         },
         {
-          "name": "Billy Branch & The Sons of Blues",
-          "url": "https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y"
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 187186,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
+      "duration_ms": 383933,
+      "name": "Down Home Blues",
+      "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Meet Me In Bluesland",
+        "url": "https://open.spotify.com/album/6AOvEQvCDRMkymHKKOn0ZS"
+      },
+      "artists": [
+        {
+          "name": "The Kentucky Headhunters",
+          "url": "https://open.spotify.com/artist/2sgj794K3UaW1ApX28ZUhY"
+        },
+        {
+          "name": "Johnnie Johnson",
+          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "Walking With The Wolf",
+      "url": "https://open.spotify.com/track/1scXvckUDN7ViQDPB77MqJ"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -447,22 +455,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Meet Me In Bluesland",
-        "url": "https://open.spotify.com/album/6AOvEQvCDRMkymHKKOn0ZS"
+        "name": "Roots And Branches - The Songs Of Little Walter",
+        "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
       },
       "artists": [
         {
-          "name": "The Kentucky Headhunters",
-          "url": "https://open.spotify.com/artist/2sgj794K3UaW1ApX28ZUhY"
+          "name": "Billy Branch",
+          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
         },
         {
-          "name": "Johnnie Johnson",
-          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
+          "name": "Billy Branch & The Sons of Blues",
+          "url": "https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y"
         }
       ],
-      "duration_ms": 208533,
-      "name": "Walking With The Wolf",
-      "url": "https://open.spotify.com/track/1scXvckUDN7ViQDPB77MqJ"
+      "duration_ms": 187186,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -515,8 +523,8 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Harp Attack!",
-        "url": "https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b"
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
       },
       "artists": [
         {
@@ -524,21 +532,13 @@
           "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
         },
         {
-          "name": "Billy Branch",
-          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
-        },
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 383933,
-      "name": "Down Home Blues",
-      "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
+      "duration_ms": 227373,
+      "name": "Cotton Mouth Man",
+      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
     },
     {
       "added_at": "2020-09-21 10:42:33",

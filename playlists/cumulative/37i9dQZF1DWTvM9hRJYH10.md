@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Greylan James
 
-265 songs - 14 hr 1 min
+266 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [THE DRILL](https://open.spotify.com/track/7FdVVD2WD45K7gLnN3ly41) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [THE DRILL](https://open.spotify.com/album/0YK0h0tRUflzEx4LrmjcSg) | 3:31 | 2022-04-01 |  |
 | [The Hell of Growing Up](https://open.spotify.com/track/35rwwX2KWvKIryS3enGiVH) | [Jason Reeves](https://open.spotify.com/artist/4ISvSAA85lr3lDwpMEBNgS), [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [The Hell of Growing Up](https://open.spotify.com/album/03xew9gcAHb4cHjeRpps6v) | 3:41 | 2021-12-31 | 2023-02-25 |
 | [The Least You Could Do](https://open.spotify.com/track/7v0LWyA2fZo24xyxw6vEYL) | [Teagan Stewart](https://open.spotify.com/artist/4UUoAIVwAOhWNncWlfQxkb) | [The Least You Could Do](https://open.spotify.com/album/1Uvssuk2dY5MMvmT1q9Rpg) | 3:01 | 2022-04-15 |  |
-| [The Only Thing](https://open.spotify.com/track/0s2io8QC8ufwSpDuSkt86j) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [The Only Thing](https://open.spotify.com/album/67ZROIW0YnahqNW0wSo9Ld) | 3:09 | 2023-05-03 |  |
+| [The Only Thing](https://open.spotify.com/track/0boZxNrnnJPbg325dV8oFt) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [The Only Thing](https://open.spotify.com/album/484IDGa4WEjSUFb7vYaoID) | 3:09 | 2023-05-03 |  |
+| [The Only Thing](https://open.spotify.com/track/0s2io8QC8ufwSpDuSkt86j) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [The Only Thing](https://open.spotify.com/album/67ZROIW0YnahqNW0wSo9Ld) | 3:09 | 2023-05-03 | 2023-05-15 |
 | [The Only Thing](https://open.spotify.com/track/7yzUuwUZk07zmeRNTPeIYQ) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [The Only Thing](https://open.spotify.com/album/1nH2M5l54JzGUaWvJzDqVY) | 3:09 | 2021-12-31 | 2023-05-14 |
 | [The Road](https://open.spotify.com/track/4FZI7N03gZMZY59QEqnC7I) | [Cort Carpenter](https://open.spotify.com/artist/6lfRjPeIhzhxRovhoTGtsn) | [The Road](https://open.spotify.com/album/072rBBXzlxzLJDqy80hP6q) | 3:07 | 2021-12-31 | 2022-02-12 |
 | [The Storm](https://open.spotify.com/track/0DMfKoqcOIZDyzcl5iMfeo) | [Presley & Taylor](https://open.spotify.com/artist/5H6ZPpGKLbtB3O8idjxIZy) | [The Storm](https://open.spotify.com/album/2PfguD2plJWzW903T83UNu) | 3:44 | 2022-03-11 |  |

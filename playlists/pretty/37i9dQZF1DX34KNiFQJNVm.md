@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ferrugem, Guilherme & Benuto com Simone Mendes, Shakira, Papatinho com Luiza Sonza e DJ Biel do Furduncinho, Alexandre Pires com Maiara & Maraísa e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,869,267 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,869,505 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 54 | [Ela Me Acha Demais](https://open.spotify.com/track/4FshlE5XvkMLm5HY9tRodE) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Ela Me Acha Demais](https://open.spotify.com/album/4aLSWFihsd8zqr5ZwCJSVB) | 3:41 |
 | 55 | [GOAT](https://open.spotify.com/track/3819l7BGRbVgLpYljqA4lR) | [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [GOAT](https://open.spotify.com/album/7w5Yopn5PbMhheS3IcQxLa) | 2:24 |
 | 56 | [Boleto do Abandono \- Ao Vivo](https://open.spotify.com/track/3LF6Lv05tuyY8S3vLORsbq) | [Leandro & Romário](https://open.spotify.com/artist/3BwrR3T9qKOrTV42JkJkOk), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Boleto do Abandono \(Ao Vivo\)](https://open.spotify.com/album/3TC7iPg9fwvvlyhtVfz6UC) | 3:04 |
-| 57 | [Bulldogue](https://open.spotify.com/track/3eeqz5JZ1nVH1veJrsRwDd) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Preto No Branco](https://open.spotify.com/album/5nYvCS3VXPSO6bYLrFvQNh) | 3:15 |
+| 57 | [Bulldog](https://open.spotify.com/track/3eeqz5JZ1nVH1veJrsRwDd) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Preto No Branco](https://open.spotify.com/album/5nYvCS3VXPSO6bYLrFvQNh) | 3:15 |
 | 58 | [Terra do Carnaval](https://open.spotify.com/track/5Auw5sFzDIPlPN0H2GAT1b) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Terra do Carnaval](https://open.spotify.com/album/2YNsqv9BrULePiZJ1XyjW3) | 5:30 |
 | 59 | [Exportação](https://open.spotify.com/track/31c3glaJj5mGKeB7CXMZWX) | [Mc Kelvinho](https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Exportação](https://open.spotify.com/album/3Cr58HshWcR9gQt03T2dum) | 3:12 |
 | 60 | [Right Back](https://open.spotify.com/track/04dLlhvDV0WzT456h6y4Ud) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Right Back](https://open.spotify.com/album/5AI3y0LeETKLlq5r4jBeVE) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [CENA DE CRIME](https://open.spotify.com/track/7Dqq9FMpcTZ9PFRIcoQtCB) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [CENA DE CRIME](https://open.spotify.com/album/1tOPXu6JWqZ8eoAczxWAob) | 2:56 |
 | 100 | [Alô Mãe](https://open.spotify.com/track/2MhUz4FlePwbAQN8mTQZXa) | [LT](https://open.spotify.com/artist/27EsaYcDfQ1XhSx08LJCNR) | [Alô Mãe](https://open.spotify.com/album/21us8PfHTrtENnQvL9QFnr) | 2:32 |
 
-Snapshot ID: `MCxjOTM3Zjc2ODkwOTNkNTY0MjFiOGJhN2FjZDUwNjkyZDZhOWI2NWE1`
+Snapshot ID: `MCxmYmJhM2M5NzZhMWU5YjUyYjFkMmE0YzUzZmZlOWUyNTZiMGM0MDhh`

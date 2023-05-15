@@ -1970,7 +1970,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 188026,
       "name": "Just About Over You - Acoustic Version",
       "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
@@ -4178,6 +4178,24 @@
       "duration_ms": 295000,
       "name": "Woman Of My Word",
       "url": "https://open.spotify.com/track/6F9sPxH3E2o3orwHljR43X"
+    },
+    {
+      "album": {
+        "name": "Wrong Side of a Sunrise (Demo)",
+        "url": "https://open.spotify.com/album/3IRuv1ruKwhOABEVjJDIkm"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201876,
+      "name": "Wrong Side of a Sunrise - Demo",
+      "url": "https://open.spotify.com/track/4Wc6scPPCOoR7aA6frfzoD"
     },
     {
       "album": {

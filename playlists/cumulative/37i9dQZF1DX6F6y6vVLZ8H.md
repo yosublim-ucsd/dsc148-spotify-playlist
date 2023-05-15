@@ -4,7 +4,7 @@
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-68 songs - 3 hr 24 min
+69 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Cyclone](https://open.spotify.com/track/2qQieiApQ1TkvkZGLkbCH0) | [Dub Pistols](https://open.spotify.com/artist/4LYX3rRdXV2l99wR5YPFoK) | [Point Blank](https://open.spotify.com/album/4IMpWiEUoJKedGQ21Nmmq4) | 3:34 | 2020-05-15 |  |
 | [Cyco Vision](https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Freedumb](https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C) | 1:49 | 2020-07-30 |  |
 | [Deathwire](https://open.spotify.com/track/68XsbWfxcvmlAVukxPVy9d) | [Rough Francis](https://open.spotify.com/artist/60uXjIudDRbL8LIWwYk2sQ) | [Deathwire](https://open.spotify.com/album/3MYhb46f5Vusrzt58E6uot) | 3:09 | 2020-07-28 |  |
-| [Duck Eat Duck World](https://open.spotify.com/track/0VuJkzId5KlafuZTN38P4B) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 2:10 | 2020-07-28 |  |
+| [Duck Eat Duck World](https://open.spotify.com/track/0VuJkzId5KlafuZTN38P4B) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 2:10 | 2020-07-28 | 2023-05-15 |
+| [Duck Eat Duck World](https://open.spotify.com/track/3eFSgjJcMxLPvhk42FZycQ) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/2JDCMUQW60W32tWFxDFSgF) | 2:10 | 2020-07-28 |  |
 | [Euro\-Barge](https://open.spotify.com/track/5mA9emcAvirVisUHkrE5PU) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Hitler Bad, Vandals Good](https://open.spotify.com/album/1VDzkX1kHYOhlnHWQjqy05) | 1:53 | 2020-05-15 |  |
 | [Evil Eye](https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Action Is Go](https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9) | 3:30 | 2020-05-15 |  |
 | [Firecracker](https://open.spotify.com/track/7cJvf5ZrfXDTcYHq1iXuRW) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Suburban Teenage Wasteland Blues \(Reissue\)](https://open.spotify.com/album/76f9KTJVuMIpYRv2hsW8R0) | 2:54 | 2020-07-28 |  |

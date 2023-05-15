@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 212068,
+  "num_followers": 212073,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmE0NzNhOWI4Y2Q0N2M2OTE5ZjA2YmZlMjhkOTFmZTQzMDI1MWJi",
+  "snapshot_id": "MCw5YWRkYjZjN2FjODIxN2JiMzBiOGM0MzVmNTBmMjA3MTRjZDMxMjEz",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Carnivora",
-        "url": "https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS"
-      },
-      "artists": [
-        {
-          "name": "Mastifal",
-          "url": "https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM"
-        }
-      ],
-      "duration_ms": 287573,
-      "name": "Culto vacio radical",
-      "url": "https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Sentir Metalero",
         "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Esp\u00edritu Combativo",
-        "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
+        "name": "Carnivora",
+        "url": "https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS"
       },
       "artists": [
         {
-          "name": "Malon",
-          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
+          "name": "Mastifal",
+          "url": "https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM"
         }
       ],
-      "duration_ms": 218729,
-      "name": "Castigador por Herencia",
-      "url": "https://open.spotify.com/track/50YRa66db8G4ASXnqww06C"
+      "duration_ms": 287573,
+      "name": "Culto vacio radical",
+      "url": "https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -603,6 +587,22 @@
       "duration_ms": 254748,
       "name": "Cenizas\u202c",
       "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Esp\u00edritu Combativo",
+        "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
+      },
+      "artists": [
+        {
+          "name": "Malon",
+          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
+        }
+      ],
+      "duration_ms": 218729,
+      "name": "Castigador por Herencia",
+      "url": "https://open.spotify.com/track/50YRa66db8G4ASXnqww06C"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Los Cantipuercos",
-        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
-      },
-      "artists": [
-        {
-          "name": "Cuentos de los Hermanos Grind",
-          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "La Caperuputa y el Lobo Culi\u00f3n",
-      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Tierras Muertas",
         "url": "https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 309054,
       "name": "O\u00eddos Sordos",
       "url": "https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Los Cantipuercos",
+        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
+      },
+      "artists": [
+        {
+          "name": "Cuentos de los Hermanos Grind",
+          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "La Caperuputa y el Lobo Culi\u00f3n",
+      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
     }
   ],
   "unique_name": "Metal del Nuestro",

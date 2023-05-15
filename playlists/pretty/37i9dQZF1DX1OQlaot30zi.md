@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Néza, Luchè, Dylan, Kid Yugi e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,661 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,678 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [MASHALLAH](https://open.spotify.com/track/22WYQTGU6FSlvoUqnS5bjF) | [Grelmos](https://open.spotify.com/artist/1u50IuLSHEITB0XFdcMUyY) | [MASHALLAH](https://open.spotify.com/album/1TdFiqQSBhSjZ7f04YA8Nb) | 2:26 |
 | 100 | [Tony Touch](https://open.spotify.com/track/04rB1C1hk5tTMLKsadw3Ie) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [Adriacosta](https://open.spotify.com/artist/2zK3CvLgTmiJzT9d38fuoW), [Gionni Gioielli](https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z), [Nex Cassel](https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe), [Gionni Grano](https://open.spotify.com/artist/5Lp6pNq4km6sycD2mmgFIb), [DJ Bonz](https://open.spotify.com/artist/140cowp52Tvl7eMCs1Ecdy) | [MIXTAPE SEASON](https://open.spotify.com/album/5jea46s4Z6fmrdZyEX9VMH) | 3:35 |
 
-Snapshot ID: `MCxiYTdhYTRjN2I0MmNlMWI2ZTBkMTY0YmU5YWJkMTYzNjRjMWEyZTRl`
+Snapshot ID: `MCxhYWM4YzgwYWI3ZjU1OTcxYWM4MmE5Y2EyOGM4NGE3M2RjYjA0MzRm`

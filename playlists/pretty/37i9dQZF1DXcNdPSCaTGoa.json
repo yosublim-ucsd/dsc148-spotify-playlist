@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 35392,
+  "num_followers": 35439,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTQwYTk0NzM3YmFkZGVmMTRkZjQyZGJkOTk4YTU0MWFlOTI3ZGM3",
+  "snapshot_id": "MCwzZGZjNmFmNzBjMTRjNTQ1MTY1ZTE1NGQ5ODUxMzdkZTgyNGEwYjcy",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Nkalakatha",
+        "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
+      },
+      "artists": [
+        {
+          "name": "Mandoza",
+          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Nkalakatha",
+      "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Sondela",
         "url": "https://open.spotify.com/album/7GeMrR8cQSwri1oBuAahiD"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 330605,
       "name": "Sondela",
       "url": "https://open.spotify.com/track/749pe97jomnW5rw0mEjCkR"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Nkalakatha",
-        "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
-      },
-      "artists": [
-        {
-          "name": "Mandoza",
-          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Nkalakatha",
-      "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Loliwe",
-        "url": "https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0"
-      },
-      "artists": [
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq"
-        }
-      ],
-      "duration_ms": 272386,
-      "name": "Loliwe",
-      "url": "https://open.spotify.com/track/1y9bfiGVKNMLoN0XR54S4z"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Durbans Finest",
         "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 353266,
       "name": "Special Star",
       "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Loliwe",
+        "url": "https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0"
+      },
+      "artists": [
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq"
+        }
+      ],
+      "duration_ms": 272386,
+      "name": "Loliwe",
+      "url": "https://open.spotify.com/track/1y9bfiGVKNMLoN0XR54S4z"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Respect Toasted Gona' Ganati",
+        "url": "https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE"
+      },
+      "artists": [
+        {
+          "name": "Trompies",
+          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
+        },
+        {
+          "name": "Lebo Mathosa",
+          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
+        }
+      ],
+      "duration_ms": 347960,
+      "name": "Magasman",
+      "url": "https://open.spotify.com/track/73lpchagNBcgfb0Z7nnMp8"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "All or Nothing",
         "url": "https://open.spotify.com/album/33bVAGWCw4CjpCAi2OAakA"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 436960,
       "name": "Lengoma",
       "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Respect Toasted Gona' Ganati",
-        "url": "https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE"
-      },
-      "artists": [
-        {
-          "name": "Trompies",
-          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
-        },
-        {
-          "name": "Lebo Mathosa",
-          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
-        }
-      ],
-      "duration_ms": 347960,
-      "name": "Magasman",
-      "url": "https://open.spotify.com/track/73lpchagNBcgfb0Z7nnMp8"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "The Ultimate 'Hotstix'",
-        "url": "https://open.spotify.com/album/3UjSkBMpuXbgOMe9l54ZAw"
-      },
-      "artists": [
-        {
-          "name": "Sipho 'Hotstix' Mabuse",
-          "url": "https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx"
-        }
-      ],
-      "duration_ms": 294200,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/0wqorlaFfScZh2Iqf9BvWD"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "BullDawgz First Lady",
         "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 301853,
       "name": "Kortes (Kasi Luv)",
       "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "The Ultimate 'Hotstix'",
+        "url": "https://open.spotify.com/album/3UjSkBMpuXbgOMe9l54ZAw"
+      },
+      "artists": [
+        {
+          "name": "Sipho 'Hotstix' Mabuse",
+          "url": "https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/0wqorlaFfScZh2Iqf9BvWD"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
-      },
-      "artists": [
-        {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
-        }
-      ],
-      "duration_ms": 387500,
-      "name": "Heavenly Sent",
-      "url": "https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 332720,
       "name": "Dlala Mapantsula",
       "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        }
+      ],
+      "duration_ms": 387500,
+      "name": "Heavenly Sent",
+      "url": "https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "King Of Kwaito",
-        "url": "https://open.spotify.com/album/4HOkw5G26NKfIf8yR41dTW"
+        "name": "Respect Toasted Gona' Ganati",
+        "url": "https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE"
       },
       "artists": [
         {
-          "name": "Brothers of Peace",
-          "url": "https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj"
+          "name": "Trompies",
+          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
+        },
+        {
+          "name": "Tzozo",
+          "url": "https://open.spotify.com/artist/3u1EqktOzAt4oYfRbpGji2"
         }
       ],
-      "duration_ms": 320266,
-      "name": "Manyonyoba",
-      "url": "https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc"
+      "duration_ms": 315653,
+      "name": "Bengim'ngaka",
+      "url": "https://open.spotify.com/track/1NXjMuNzN1wV6IUsn5arhg"
     }
   ],
   "unique_name": "SA Gold",

@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 26834,
+  "num_followers": 26854,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmE0MDBmZWY1Yzk3YjQ1NDRlMjVjM2QyMzI2MWNmMjFlZDE2Y2Nl",
+  "snapshot_id": "MCxhMjMwOTRlMGZiZjcwZTQ5ODk5NmVjYzA1NWQ4MDVhMmEzYmUzN2I3",
   "tracks": [
     {
       "added_at": "2023-05-10 08:30:14",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-05-10 08:30:14",
       "album": {
-        "name": "Charlie Parker With Strings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
-    },
-    {
-      "added_at": "2023-05-10 08:30:14",
-      "album": {
         "name": "In the Land of Hi-Fi",
         "url": "https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 157893,
       "name": "Let's Do It (Let's Fall in Love)",
       "url": "https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7"
+    },
+    {
+      "added_at": "2023-05-10 08:30:14",
+      "album": {
+        "name": "Charlie Parker With Strings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
     },
     {
       "added_at": "2023-05-10 08:30:14",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-05-10 08:30:14",
       "album": {
-        "name": "Cool Heat",
-        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "My Heart Belongs To Daddy",
-      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
-    },
-    {
-      "added_at": "2023-05-10 08:30:14",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 207773,
       "name": "At Long Last Love",
       "url": "https://open.spotify.com/track/4xavtlLxd9kswqwpOCjkAC"
+    },
+    {
+      "added_at": "2023-05-10 08:30:14",
+      "album": {
+        "name": "Cool Heat",
+        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "My Heart Belongs To Daddy",
+      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
     },
     {
       "added_at": "2023-05-10 08:30:14",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-10 08:30:14",
       "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
-      },
-      "artists": [
-        {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Why Don't We Try Staying Home?",
-      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
-    },
-    {
-      "added_at": "2023-05-10 08:30:14",
-      "album": {
         "name": "A Man and His Trombone",
         "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
       },
@@ -939,18 +923,34 @@
     {
       "added_at": "2023-05-10 08:30:14",
       "album": {
-        "name": "Sinatra Sings Cole Porter",
-        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
         }
       ],
-      "duration_ms": 145533,
-      "name": "I Am Loved",
-      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
+      "duration_ms": 266466,
+      "name": "Why Don't We Try Staying Home?",
+      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
+    },
+    {
+      "added_at": "2023-05-10 08:30:14",
+      "album": {
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+      },
+      "artists": [
+        {
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "\u00c7a, C'est l'Amour",
+      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
     },
     {
       "added_at": "2023-05-10 08:30:14",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-05-10 08:30:14",
       "album": {
-        "name": "John Barrowman Swings Cole Porter",
-        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+        "name": "Sinatra Sings Cole Porter",
+        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
       },
       "artists": [
         {
-          "name": "John Barrowman",
-          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 143066,
-      "name": "\u00c7a, C'est l'Amour",
-      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
+      "duration_ms": 145533,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
     },
     {
       "added_at": "2023-05-10 08:30:14",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-05-10 08:30:14",
       "album": {
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+      },
+      "artists": [
+        {
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "Goodbye Little Dream, Goodbye",
+      "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
+    },
+    {
+      "added_at": "2023-05-10 08:30:14",
+      "album": {
         "name": "Night and Day With Cole Porter",
         "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
@@ -1067,34 +1083,18 @@
     {
       "added_at": "2023-05-10 08:30:14",
       "album": {
-        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
-        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Why Can't You Behave?",
-      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
-    },
-    {
-      "added_at": "2023-05-10 08:30:14",
-      "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
-      },
-      "artists": [
-        {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Goodbye Little Dream, Goodbye",
-      "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
+      "duration_ms": 127906,
+      "name": "I Happen To Like New York",
+      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
     },
     {
       "added_at": "2023-05-10 08:30:14",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-05-10 08:30:14",
       "album": {
-        "name": "John Barrowman Swings Cole Porter",
-        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
+        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
       },
       "artists": [
         {
-          "name": "John Barrowman",
-          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 127906,
-      "name": "I Happen To Like New York",
-      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
+      "duration_ms": 197800,
+      "name": "Why Can't You Behave?",
+      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
     },
     {
       "added_at": "2023-05-10 08:30:14",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-05-10 08:30:14",
       "album": {
-        "name": "The Columbia Years (1943-1952) The Complete Recordings",
-        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "You Don't Remind Me",
-      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
-    },
-    {
-      "added_at": "2023-05-10 08:30:14",
-      "album": {
         "name": "Mabel Mercer Sings Cole Porter",
         "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 111306,
       "name": "I Am Ashamed That Women Are so Simple",
       "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
+    },
+    {
+      "added_at": "2023-05-10 08:30:14",
+      "album": {
+        "name": "The Columbia Years (1943-1952) The Complete Recordings",
+        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "You Don't Remind Me",
+      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
     },
     {
       "added_at": "2023-05-10 08:30:14",

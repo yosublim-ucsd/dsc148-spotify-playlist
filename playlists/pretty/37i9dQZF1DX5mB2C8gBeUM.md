@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Diplo & Lily Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,466 likes - 124 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,542 likes - 124 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 123 | [Dutton Ranch Freestyle](https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk) | 2:23 |
 | 124 | [Young and Stupid](https://open.spotify.com/track/07Eq4v5xtaWJ8l4X2qzSiB) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Young and Stupid](https://open.spotify.com/album/5xl2oTEoecXlwCVQ6waF89) | 3:58 |
 
-Snapshot ID: `MCw2N2M1YWE1YmIyMjY3YjcwMzhiN2YxMDMyNmQxMzE4ZDI0ZDAyNTUy`
+Snapshot ID: `MCxiMWI0NzIzYzg3MmUyNWFmNmYwYzlmODc4NTY4NmNhNzZjMDk2YWQy`

@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-332 songs - 23 hr 23 min
+333 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,8 +329,9 @@
 | [Wayman](https://open.spotify.com/track/5IbV5J5utEcAspeG0qzHxI) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Wayman](https://open.spotify.com/album/3rpM2guIq3eFlQJirasyu9) | 3:29 | 2021-05-21 | 2022-03-17 |
 | [Weekend Groove](https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [The Inauguration of Jtjazz \(Jesse Thompson the Man Behind the Keys\)](https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a) | 4:53 | 2022-05-06 |  |
 | [West Coast Soul](https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH) | [Chris Godber](https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53) | [West Coast Soul](https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V) | 4:19 | 2021-08-13 | 2022-09-17 |
-| [What You Do To Me](https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do To Me](https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV) | 4:57 | 2022-03-11 |  |
+| [What You Do To Me](https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do To Me](https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV) | 4:57 | 2022-03-11 | 2023-05-15 |
 | [What You Do To Me](https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do to Me](https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1) | 4:57 | 2022-03-11 | 2022-07-29 |
+| [What You Do To Me](https://open.spotify.com/track/78dIxf6kjnSm1GEpHAdFuD) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/0FZhmvhU6G8QTfj1Buk7nX) | 4:57 | 2022-03-18 |  |
 | [Whatever You Like](https://open.spotify.com/track/1U05WLPnnMpGFS99PAyj0n) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Here's the Thing](https://open.spotify.com/album/3vT5YoaOxXO6rY7YPmHxv2) | 5:38 | 2023-04-28 |  |
 | [When and Where](https://open.spotify.com/track/1VR8txe3fStPrSSzqeDOPc) | [Rob Zinn](https://open.spotify.com/artist/6I8oFZvFlvaEXz6ZYhEB65), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [When and Where](https://open.spotify.com/album/3W8rYwj9jh0X6kZGJ1js0O) | 3:59 | 2023-02-10 |  |
 | [When We Dance](https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Into the Light](https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR) | 4:24 | 2020-10-30 | 2022-03-18 |

@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Jesus Piece
 
-394 songs - 22 hr 38 min
+395 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [SENSE AGAIN](https://open.spotify.com/track/3707JCg368dfwEnevPlqpr) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [Flip Phone Fantasy](https://open.spotify.com/album/0Usgtnb9x0c1NXTFNABFf9) | 3:03 | 2021-11-30 | 2022-07-25 |
 | [Separation](https://open.spotify.com/track/46MroZ6OGJef6YKyABvk2R) | [Vagrants](https://open.spotify.com/artist/4WLao04vBPdHGLJS5YIogU) | [Separation](https://open.spotify.com/album/775vVZBPc4LrvVBDdE4GpS) | 3:59 | 2021-11-30 | 2022-07-27 |
 | [Shade](https://open.spotify.com/track/01qepvQsz0gMKfeQXvXlq4) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/0Q6FKFBM1tSvPMwWS42myR) | 3:25 | 2021-11-30 | 2022-07-22 |
-| [Shade](https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW) | 3:25 | 2022-04-01 |  |
+| [Shade](https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW) | 3:25 | 2022-04-01 | 2023-05-15 |
 | [Shadow The Day](https://open.spotify.com/track/7h5y4boQvUezQktpDFWvYK) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [SIOIS](https://open.spotify.com/album/1PAtw7zQhKsMkvg1KQhdcv) | 3:26 | 2021-11-30 | 2022-06-15 |
 | [Shadows](https://open.spotify.com/track/2j5zbp4uYmaRwTqIQ0jxcu) | [We Set Signals](https://open.spotify.com/artist/4XM7gdCotrXDsX0MA1LwAP) | [Abandon Hope](https://open.spotify.com/album/2eNBAkxoEyh1pZ1eayNUs0) | 2:48 | 2022-01-21 | 2022-05-02 |
 | [Shake The Fear](https://open.spotify.com/track/0vriVSMC39p9PAysEw8Pbh) | [Words Like Wildfire](https://open.spotify.com/artist/4fL5vxgHJhwg6tRS6nqrv0), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Classic Tragedy](https://open.spotify.com/album/2RDhBkMPSRCaIOiN3XsLqE) | 3:06 | 2021-11-30 | 2022-07-27 |
@@ -382,6 +382,7 @@
 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 | 2023-03-17 |  |
 | [Unseen](https://open.spotify.com/track/4TgpMwyBwhJvQlcMu9Nkyc) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Unseen](https://open.spotify.com/album/48nQ4ZTi7TUtrY2TbCmSGw) | 3:31 | 2021-11-30 | 2022-07-27 |
 | [Untouchable](https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 3:05 | 2022-02-28 | 2023-05-07 |
+| [Untouchable](https://open.spotify.com/track/4I5QCNEbMbeRusKosXgZtK) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Baptize](https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF) | 3:05 | 2023-03-17 |  |
 | [Useless Hands](https://open.spotify.com/track/4RaO6AytPosGrVFMKLZznb) | [Rival Town](https://open.spotify.com/artist/49KEHU4tamf9YVgxUvVKUM) | [Useless Hands](https://open.spotify.com/album/6b8Vk2RmN89BMFCqVSfaaz) | 3:42 | 2022-04-01 | 2022-04-21 |
 | [Velvet Dreams](https://open.spotify.com/track/6EX9kqSPHt2oJKnWiiYADD) | [A Boy Named John](https://open.spotify.com/artist/7fYxDRNZREuC9Dht93kX5G) | [Velvet Dreams](https://open.spotify.com/album/5FuYsZlepb3G4NxazH0HlP) | 4:06 | 2021-11-30 | 2022-07-07 |
 | [Walk On](https://open.spotify.com/track/4vUWzxdmtVqMonTp97JIOf) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Walk On](https://open.spotify.com/album/5854MVXCfaOOY1GHuZJEjg) | 3:34 | 2021-11-30 | 2022-07-28 |

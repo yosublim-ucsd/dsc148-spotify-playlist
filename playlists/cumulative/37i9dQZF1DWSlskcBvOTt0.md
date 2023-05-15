@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-414 songs - 1 day 17 hr 54 min
+415 songs - 1 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Venus](https://open.spotify.com/track/7L567iPcbnYYpmfduZsj8n) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Celestial Bodies](https://open.spotify.com/album/2kySDejbrQxj5HGuhXUXyT) | 6:23 | 2023-02-17 | 2023-04-21 |
 | [Viking](https://open.spotify.com/track/0SD82lVuflMLT8S4BamWtp) | [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i), [M O N I T O R S](https://open.spotify.com/artist/6ZxQphvx5MuI3m1xzHSE6C) | [Viking](https://open.spotify.com/album/5J4gonRmEDbWf0bdqBaph7) | 6:58 | 2021-04-21 | 2022-06-30 |
 | [Visions](https://open.spotify.com/track/34Q9Ai7qwAYdFnFegPxeqD) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv), [RJLA](https://open.spotify.com/artist/5kNFgh5lrjDoe6HtpTzRHf) | [Visions](https://open.spotify.com/album/0uiBVJj45bQNSh0kYsUnav) | 3:31 | 2023-05-05 |  |
-| [Voices In My Head](https://open.spotify.com/track/2rKgp5Ih2eNVVGl6Yqn5VW) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Voices In My Head](https://open.spotify.com/album/6qqH0iIEkz9tsrjjuyESDT) | 3:34 | 2023-02-10 |  |
+| [Voices In My Head](https://open.spotify.com/track/2rKgp5Ih2eNVVGl6Yqn5VW) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Voices In My Head](https://open.spotify.com/album/6qqH0iIEkz9tsrjjuyESDT) | 3:34 | 2023-02-10 | 2023-05-15 |
 | [Voices of Salvation](https://open.spotify.com/track/4GY2MQG6X5ueZWB9IVqWXB) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Signals](https://open.spotify.com/album/3YWkAZqJYfmZAAtqdLUXJ5) | 6:40 | 2022-04-19 | 2022-05-26 |
 | [Voicing Something \- Adriatique Remix](https://open.spotify.com/track/4eJ4jBDqGwA9Z9kesunDQE) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi), [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Live and Love EP](https://open.spotify.com/album/2AcfJOvLQ9LwpmnM4cY8JW) | 7:24 | 2022-04-19 | 2022-08-06 |
 | [Voyage](https://open.spotify.com/track/21bJw0TvqosdshB9CwFcHp) | [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Sol](https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi) | 8:33 | 2021-05-07 | 2022-07-29 |
@@ -422,5 +422,6 @@
 | [Your Love \- Agents of Time Remix](https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Your Love \(Agents of Time Remix\)](https://open.spotify.com/album/7yud1MBi2dNt3mqzfVXgXT) | 6:50 | 2022-10-28 |  |
 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 | 2022-08-19 |  |
 | [Your Way](https://open.spotify.com/track/2V64rudkFZ9gciglMM0t5S) | [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Your Way](https://open.spotify.com/album/0QZrG85ir88fpUnbxzgFe6) | 6:18 | 2022-09-30 | 2022-10-29 |
+| [Zodiac](https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Zodiac](https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV) | 5:42 | 2023-05-12 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

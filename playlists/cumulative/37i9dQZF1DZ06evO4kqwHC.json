@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 250546,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
@@ -956,6 +956,24 @@
       "duration_ms": 278213,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/3KsatAMRt1a7iryhWt5I8U"
+    },
+    {
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150653,
+      "name": "Wind Up",
+      "url": "https://open.spotify.com/track/56ucsSaTrjiQaokbbDASOR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kqwHC"

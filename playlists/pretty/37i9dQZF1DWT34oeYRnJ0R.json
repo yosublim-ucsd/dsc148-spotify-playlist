@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: De La Ghetto ",
-  "num_followers": 695370,
+  "num_followers": 695358,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTI0ZmViNmU2ZmNkYjU4YjNiOTY0YzdjODY3ZjgxODk1NTUwZjQ2",
+  "snapshot_id": "MCwwYTM0MDg4YmU3M2RiY2M3Y2NjNDcwZDkxZDljMDNmZDY5MmJkYzcy",
   "tracks": [
     {
       "added_at": "2023-05-12 19:56:24",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
-        "name": "REGALONA",
-        "url": "https://open.spotify.com/album/3oWWVVloAsuujw2QOoGF9d"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 177412,
-      "name": "REGALONA",
-      "url": "https://open.spotify.com/track/0vwCRieFJeccdBaDUSANOk"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
         "name": "L\u00e1grimas pa otro d\u00eda",
         "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 124110,
       "name": "No te lo niego, ma dol\u00edo",
       "url": "https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
+        "name": "REGALONA",
+        "url": "https://open.spotify.com/album/3oWWVVloAsuujw2QOoGF9d"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 177412,
+      "name": "REGALONA",
+      "url": "https://open.spotify.com/track/0vwCRieFJeccdBaDUSANOk"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/4d2O4fr026apliDVapi0j0"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
         "name": "Sue\u00f1os de Dal\u00ed",
         "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 147561,
       "name": "For Ya",
       "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/4d2O4fr026apliDVapi0j0"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
-        "name": "Reggaet\u00f3n Sex",
-        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 165473,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 87000,
       "name": "Dices que",
       "url": "https://open.spotify.com/track/1y3UT74qi3hgzBygSpMkVi"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 165473,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
-        "name": "B-Day",
-        "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
       },
@@ -1243,6 +1227,26 @@
       "duration_ms": 151304,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1267,26 +1271,6 @@
       "duration_ms": 213983,
       "name": "La Ideal",
       "url": "https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "algo as\u00ed",
+      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
         "name": "K Tas Haciendo?",
         "url": "https://open.spotify.com/album/2u8q8zfkCdLrZiWWKuvshA"
       },
@@ -1379,38 +1379,6 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
-        "name": "diamantes y espinas",
-        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "algo as\u00ed",
-      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
         "name": "Tu No Me Amas",
         "url": "https://open.spotify.com/album/4MKwAPEjNQ7Vsv0mhDxXgh"
       },
@@ -1427,6 +1395,22 @@
       "duration_ms": 154960,
       "name": "Tu No Me Amas",
       "url": "https://open.spotify.com/track/2uyJGVcniKrNpt2ZSIGOqg"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1615,22 +1599,6 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 160243,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
         "name": "Guitarra",
         "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
       },
@@ -1643,6 +1611,22 @@
       "duration_ms": 174000,
       "name": "Guitarra",
       "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 160243,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1775,6 +1759,22 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
+        "name": "No Me Busques Donde Mismo",
+        "url": "https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
         "name": "if you let me",
         "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
       },
@@ -1787,6 +1787,22 @@
       "duration_ms": 160909,
       "name": "if you let me",
       "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
+        "name": "Til Death",
+        "url": "https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 97391,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1807,22 +1823,6 @@
       "duration_ms": 260786,
       "name": "NOTEVI",
       "url": "https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
-        "name": "Til Death",
-        "url": "https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 97391,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV"
     },
     {
       "added_at": "2023-05-12 19:56:24",

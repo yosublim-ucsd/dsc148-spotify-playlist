@@ -4186,7 +4186,7 @@
     {
       "album": {
         "name": "The Only Thing",
-        "url": "https://open.spotify.com/album/67ZROIW0YnahqNW0wSo9Ld"
+        "url": "https://open.spotify.com/album/484IDGa4WEjSUFb7vYaoID"
       },
       "artists": [
         {
@@ -4197,6 +4197,24 @@
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189444,
+      "name": "The Only Thing",
+      "url": "https://open.spotify.com/track/0boZxNrnnJPbg325dV8oFt"
+    },
+    {
+      "album": {
+        "name": "The Only Thing",
+        "url": "https://open.spotify.com/album/67ZROIW0YnahqNW0wSo9Ld"
+      },
+      "artists": [
+        {
+          "name": "Mason Horne",
+          "url": "https://open.spotify.com/artist/341ntJveJBpKhKj316dttw"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
       "duration_ms": 189444,
       "name": "The Only Thing",
       "url": "https://open.spotify.com/track/0s2io8QC8ufwSpDuSkt86j"

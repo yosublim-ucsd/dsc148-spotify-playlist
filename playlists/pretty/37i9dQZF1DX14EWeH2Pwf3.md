@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Sfera Ebbasta, Ozuna, GIMS, Aribeatz
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,990 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,350 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [DONNA VEDI](https://open.spotify.com/track/1ddXr35F0pevdaLeqW83NH) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [L'AMORE](https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG) | 2:43 |
 | 50 | [IN HEAVEN \(feat\. Ernia\)](https://open.spotify.com/track/0IEMAsKTp3fbnlBI2T92Yl) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [OUTSIDER](https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu) | 3:26 |
 
-Snapshot ID: `MCw3YjJkNGRkMDA2Yzg4OWY3Y2Q1YzhkMWE5ZTM4YmJlYzJiZGMwZmZl`
+Snapshot ID: `MCxjYzg0ZTRmOGUxY2M5YzNjOWRiNjY3NzE5MjliYTJhODBhN2Q4N2Q2`

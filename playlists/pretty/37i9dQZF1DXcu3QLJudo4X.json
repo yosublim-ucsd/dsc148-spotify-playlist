@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 50587,
+  "num_followers": 50677,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODI2YjBmOTg1MjYwNDQ2YmFlNzk1MjliMjQ4NjI2NTQyOTBmYWJl",
+  "snapshot_id": "MCwyYmM4ZDE4N2VjYmRlMTFjOTA3NDkyZmU3N2M5ZjkxNTU5YmU1MGI4",
   "tracks": [
     {
       "added_at": "2023-03-03 18:12:25",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-03-03 18:12:25",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "How Long Blues",
-      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
-    },
-    {
-      "added_at": "2023-03-03 18:12:25",
-      "album": {
         "name": "I Pity The Fool: The Duke Recordings, Vol. One",
         "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 177306,
       "name": "Farther Up The Road",
       "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
+    },
+    {
+      "added_at": "2023-03-03 18:12:25",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "How Long Blues",
+      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
     },
     {
       "added_at": "2023-03-03 18:12:25",
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
     },
     {
-      "added_at": "2023-05-14 01:32:40",
+      "added_at": "2023-05-15 00:43:56",
       "album": {
         "name": "Poet Of The Blues",
         "url": "https://open.spotify.com/album/7oD8K0s2rvJ53vjLurRLNf"

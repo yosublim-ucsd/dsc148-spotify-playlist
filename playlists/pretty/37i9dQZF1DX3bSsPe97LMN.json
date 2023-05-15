@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Franco Rey en portada.",
-  "num_followers": 53860,
+  "num_followers": 53901,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmRiZTIzYjZmNTY3M2NjNDBiNzY4ZTVjODVkNjA0MzM3MDM1NzMx",
+  "snapshot_id": "MCwzNWY1NGMyODU4MDcxM2VlMDcxNzFkODZhNmY2MGFkZDcwNjdiN2Zh",
   "tracks": [
     {
       "added_at": "2023-05-05 18:32:45",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Gente Del Nini",
-        "url": "https://open.spotify.com/album/6DXVgORaX4tpn4r5GoTI5R"
-      },
-      "artists": [
-        {
-          "name": "Victor Rivera Y Su Nuevo Estilo",
-          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
-        }
-      ],
-      "duration_ms": 128088,
-      "name": "Gente Del Nini",
-      "url": "https://open.spotify.com/track/6tnZI1qKVP3yf4emQhC4ED"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Esta Borrachera Va Por Ti (Chalino por Camilo)",
         "url": "https://open.spotify.com/album/2hXb1mTtXkbmcZPgJKcUEy"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Gente Del Nini",
+        "url": "https://open.spotify.com/album/6DXVgORaX4tpn4r5GoTI5R"
+      },
+      "artists": [
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "duration_ms": 128088,
+      "name": "Gente Del Nini",
+      "url": "https://open.spotify.com/track/6tnZI1qKVP3yf4emQhC4ED"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
         "url": "https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 212004,
       "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
       "url": "https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Este Sentimiento",
+        "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "Este Sentimiento",
+      "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -515,22 +531,6 @@
       "duration_ms": 176720,
       "name": "El Sello Adixion",
       "url": "https://open.spotify.com/track/2v6sGn3VKqssfoKQmhvwf7"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Este Sentimiento",
-        "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "Este Sentimiento",
-      "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Mi Dolor",
-        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "Mi Dolor",
-      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Solo Una Amiga",
         "url": "https://open.spotify.com/album/4GnhEiT4St0Qvlp5LV8UnG"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 264490,
       "name": "Solo Una Amiga",
       "url": "https://open.spotify.com/track/1fDtV4aKfx3veJqpz9iYsM"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Mi Dolor",
+        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Mi Dolor",
+      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "No Llega El Olvido (En Vivo)",
-        "url": "https://open.spotify.com/album/1LW3Trn9wtBrtMi4rveSVY"
-      },
-      "artists": [
-        {
-          "name": "Uriel Barrera",
-          "url": "https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH"
-        },
-        {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        }
-      ],
-      "duration_ms": 228720,
-      "name": "No Llega El Olvido - En Vivo",
-      "url": "https://open.spotify.com/track/6G5qABmBsCynrpdqlWWgK3"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "El Flaco",
         "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
       },
@@ -871,6 +851,22 @@
       "duration_ms": 147957,
       "name": "El Flaco",
       "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 162037,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -891,6 +887,26 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "No Llega El Olvido (En Vivo)",
+        "url": "https://open.spotify.com/album/1LW3Trn9wtBrtMi4rveSVY"
+      },
+      "artists": [
+        {
+          "name": "Uriel Barrera",
+          "url": "https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH"
+        },
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        }
+      ],
+      "duration_ms": 228720,
+      "name": "No Llega El Olvido - En Vivo",
+      "url": "https://open.spotify.com/track/6G5qABmBsCynrpdqlWWgK3"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "Los Medios Suenan",
         "url": "https://open.spotify.com/album/25fSEdtDsDfk7BdhvqKF1x"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
       },
       "artists": [
         {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+          "name": "Drupys",
+          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
         }
       ],
-      "duration_ms": 162037,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
+      "duration_ms": 204826,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -959,22 +975,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Bandera De Mi Ap\u00e1",
-        "url": "https://open.spotify.com/album/5gvYcER7tV1RQJyINJa6vU"
-      },
-      "artists": [
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Bandera De Mi Ap\u00e1",
-      "url": "https://open.spotify.com/track/7mCttx5YbOEopPSEkdrpj8"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Barba De Herencia",
         "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
       },
@@ -1007,54 +1007,18 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
+        "name": "Bandera De Mi Ap\u00e1",
+        "url": "https://open.spotify.com/album/5gvYcER7tV1RQJyINJa6vU"
       },
       "artists": [
         {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
         }
       ],
-      "duration_ms": 213711,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
-      },
-      "artists": [
-        {
-          "name": "Drupys",
-          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Al Ladito De Mi Sombra",
-        "url": "https://open.spotify.com/album/1YAJoaesc067ftdir8W1EE"
-      },
-      "artists": [
-        {
-          "name": "Tapy Quintero",
-          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
-        },
-        {
-          "name": "Fuerza de Tijuana",
-          "url": "https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ"
-        }
-      ],
-      "duration_ms": 161696,
-      "name": "Al Ladito De Mi Sombra",
-      "url": "https://open.spotify.com/track/4qdPTE5pmLw6FdXTq8iwxw"
+      "duration_ms": 166800,
+      "name": "Bandera De Mi Ap\u00e1",
+      "url": "https://open.spotify.com/track/7mCttx5YbOEopPSEkdrpj8"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1075,6 +1039,42 @@
       "duration_ms": 131351,
       "name": "Sigo Avanzando",
       "url": "https://open.spotify.com/track/5JKWwVkoGymp4clv8DsLZf"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
+      },
+      "artists": [
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "duration_ms": 213711,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Al Ladito De Mi Sombra",
+        "url": "https://open.spotify.com/album/1YAJoaesc067ftdir8W1EE"
+      },
+      "artists": [
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        },
+        {
+          "name": "Fuerza de Tijuana",
+          "url": "https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ"
+        }
+      ],
+      "duration_ms": 161696,
+      "name": "Al Ladito De Mi Sombra",
+      "url": "https://open.spotify.com/track/4qdPTE5pmLw6FdXTq8iwxw"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "INFIERNO",
-        "url": "https://open.spotify.com/album/3QcR7ZgPZ940A9ae8R7J0R"
-      },
-      "artists": [
-        {
-          "name": "Pr\u00f3digo Secreto",
-          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
-        }
-      ],
-      "duration_ms": 178076,
-      "name": "INFIERNO",
-      "url": "https://open.spotify.com/track/1sbCNvLF93dBZAlvSeO5FH"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Hombre Normal",
         "url": "https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 254999,
       "name": "Hombre Normal",
       "url": "https://open.spotify.com/track/2ZrDe83QNYiddNxvsjzKyC"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "INFIERNO",
+        "url": "https://open.spotify.com/album/3QcR7ZgPZ940A9ae8R7J0R"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3digo Secreto",
+          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
+        }
+      ],
+      "duration_ms": 178076,
+      "name": "INFIERNO",
+      "url": "https://open.spotify.com/track/1sbCNvLF93dBZAlvSeO5FH"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Bloqueado",
-        "url": "https://open.spotify.com/album/6CClgwR7m644jsRJoF69Xb"
-      },
-      "artists": [
-        {
-          "name": "La Fase 3",
-          "url": "https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Bloqueado",
-      "url": "https://open.spotify.com/track/31u0xddM70KxFebPyLawpR"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "En Cada Trago",
         "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 172645,
       "name": "En Cada Trago",
       "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Bloqueado",
+        "url": "https://open.spotify.com/album/6CClgwR7m644jsRJoF69Xb"
+      },
+      "artists": [
+        {
+          "name": "La Fase 3",
+          "url": "https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Bloqueado",
+      "url": "https://open.spotify.com/track/31u0xddM70KxFebPyLawpR"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Nada Contigo",
-        "url": "https://open.spotify.com/album/2eCgfwIDUkkfDC70C4EHkM"
+        "name": "Hija de mi Madre",
+        "url": "https://open.spotify.com/album/0ZEdugqFtQeYFrN95229VO"
       },
       "artists": [
         {
-          "name": "Los de la GS",
-          "url": "https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW"
+          "name": "Gladys Ruiz",
+          "url": "https://open.spotify.com/artist/02p1rp0F8VAwiGbd941PdO"
         }
       ],
-      "duration_ms": 179413,
-      "name": "Nada Contigo",
-      "url": "https://open.spotify.com/track/2GH7nxSCfsR6vAtzID3S89"
+      "duration_ms": 147408,
+      "name": "Hija de mi Madre",
+      "url": "https://open.spotify.com/track/4uUVhe9PSPqL6gWPnJzBjB"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

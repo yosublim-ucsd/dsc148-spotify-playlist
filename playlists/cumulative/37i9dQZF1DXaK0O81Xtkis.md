@@ -4,7 +4,7 @@
 
 > make it pop! cover: Jeremy Zucker
 
-638 songs - 1 day 8 hr 4 min
+639 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1234](https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27) | 2:49 | 2022-08-12 | 2022-09-24 |
 | [1990something](https://open.spotify.com/track/1bC1bEPZSKxgZgBgEVn2yj) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [1990something](https://open.spotify.com/album/7cCB1WAPcvnpnT0BRHDfSE) | 3:03 | 2022-07-08 | 2022-09-17 |
 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-14 | 2023-04-20 |
-| [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-14 |  |
+| [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-14 | 2023-05-15 |
 | [2 Tickets](https://open.spotify.com/track/6YjaHh4wHcODkm1dcwlCj7) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [2 Tickets](https://open.spotify.com/album/3WbCUUnQCxiWDCkAKpMIpF) | 2:28 | 2022-07-15 | 2022-08-27 |
 | [26](https://open.spotify.com/track/0du67LyuJeUjQChxl8rTa8) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [26](https://open.spotify.com/album/2pPSHoIampOxsEPMsah6RG) | 2:38 | 2022-01-28 | 2022-03-18 |
 | [30/90 \(from "tick, tick..\. BOOM!" Soundtrack from the Netflix Film\)](https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [MJ Rodriguez](https://open.spotify.com/artist/1fNy49puWuYTyLiKNHAcig) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 4:22 | 2021-12-10 | 2022-01-15 |
@@ -609,6 +609,7 @@
 | [Waste Your Time](https://open.spotify.com/track/1OYWoqq19KO8IhXpQ4HTys) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [Past Selves](https://open.spotify.com/album/3FOX9TnBKrJDTmvrRusZWk) | 3:01 | 2023-02-10 | 2023-03-25 |
 | [Waste Your Time](https://open.spotify.com/track/4xtAYBNS8oC6R7KbGZQWg1) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [Past Selves](https://open.spotify.com/album/6oK7OqWNFQJMjUChpNzJZ7) | 3:01 | 2023-02-10 | 2023-02-19 |
 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 | 2022-09-17 |
+| [Waves](https://open.spotify.com/track/3VAKlkSSrbEasm9WDDD9Jd) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Another Life](https://open.spotify.com/album/6TNSl6N3tdvWQ6hBm81Dz7) | 3:14 | 2023-05-14 |  |
 | [Way Back When](https://open.spotify.com/track/0sHwaKBOtXCz4vrlVFafXv) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ) | [Way Back When](https://open.spotify.com/album/4dclpKjcjXDAL8UllLWrTC) | 2:14 | 2021-12-17 | 2022-02-26 |
 | [Way Out](https://open.spotify.com/track/7Mne5Z9Xi6olZCkveX8KWn) | [CALI JEWLS](https://open.spotify.com/artist/0iDbrXm29WpIVqxhWaVzlH) | [Way Out](https://open.spotify.com/album/2gJEPcCWkTEUp3jX4HiTX1) | 3:36 | 2023-01-27 | 2023-03-25 |
 | [We Are All We Need](https://open.spotify.com/track/6GITd9tdOOiBvT9sfqNHTu) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Cleanse](https://open.spotify.com/album/0WHBKdvUJFdklfNhZYHKkV) | 3:29 | 2022-02-11 | 2022-03-12 |

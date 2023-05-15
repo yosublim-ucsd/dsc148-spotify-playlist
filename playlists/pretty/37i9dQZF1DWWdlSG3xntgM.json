@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 34223,
+  "num_followers": 34231,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjgwYjQ3MDIwMTU3MjUwY2IzNTA1YTZlYTY3OGI2MThmMmU1Mzcx",
+  "snapshot_id": "MCxkOGQ4NmEwZTFlYWFiNTg0NGE1ODA3NGNjMzYyMTU0ODVkNDE3NTVj",
   "tracks": [
     {
       "added_at": "2023-01-19 04:02:47",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
-        "name": "M\u01b0a \u0111\u00eam n\u1ec9nh nh\u1ecf",
-        "url": "https://open.spotify.com/album/6TZAiMlGuGXcNY6Y0DIZca"
-      },
-      "artists": [
-        {
-          "name": "Che Linh",
-          "url": "https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi"
-        },
-        {
-          "name": "Thanh Tuy\u1ec1n",
-          "url": "https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED"
-        }
-      ],
-      "duration_ms": 328573,
-      "name": "Phu\u0301t cu\u00f4\u0301i",
-      "url": "https://open.spotify.com/track/7cW56TRgleFy24m00m5fHc"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
         "name": "Best of Tr\u01b0\u1eddng V\u0169",
         "url": "https://open.spotify.com/album/2CkD43gESVfM5A3KmMtssU"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 356240,
       "name": "Lk Ngh\u00e8o",
       "url": "https://open.spotify.com/track/3bUr4wVFdUUWcmqTDyqNXX"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
+        "name": "M\u01b0a \u0111\u00eam n\u1ec9nh nh\u1ecf",
+        "url": "https://open.spotify.com/album/6TZAiMlGuGXcNY6Y0DIZca"
+      },
+      "artists": [
+        {
+          "name": "Che Linh",
+          "url": "https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi"
+        },
+        {
+          "name": "Thanh Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED"
+        }
+      ],
+      "duration_ms": 328573,
+      "name": "Phu\u0301t cu\u00f4\u0301i",
+      "url": "https://open.spotify.com/track/7cW56TRgleFy24m00m5fHc"
     },
     {
       "added_at": "2023-01-19 04:02:47",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
-        "name": "Song Ca Nh\u1ea1c V\u00e0ng Bolero V\u00e0 Remix Ph\u1ea7n 1",
-        "url": "https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q"
+        "name": "C\u00f3 Khi",
+        "url": "https://open.spotify.com/album/5vhRUs2lrgVlf5dUJgjnTV"
       },
       "artists": [
         {
-          "name": "T\u1ed1 My",
-          "url": "https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb"
+          "name": "Ho\u00e0i L\u00e2m",
+          "url": "https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW"
         }
       ],
-      "duration_ms": 300773,
-      "name": "Con \u0110\u01b0\u1eddng X\u01b0a Em \u0110i",
-      "url": "https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn"
+      "duration_ms": 253701,
+      "name": "N\u1ed1i L\u1ea1i T\u00ecnh X\u01b0a",
+      "url": "https://open.spotify.com/track/5zkV3BWbnfcODH72RC0Qxi"
     }
   ],
   "unique_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",

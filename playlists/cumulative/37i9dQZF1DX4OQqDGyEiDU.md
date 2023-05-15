@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。
 
-486 songs - 1 day 3 hr 56 min
+487 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Daikokuten](https://open.spotify.com/track/3HDZ3ziwAT19sCVSleTVuj) | [RuLu](https://open.spotify.com/artist/0xFS8oBdlugpwYgW8dxoQm), [Youi](https://open.spotify.com/artist/79lJNIwRztO9qEL6iI5dc0) | [Daikokuten](https://open.spotify.com/album/41AWwBAG57MWfVIH5PuHUh) | 3:20 | 2022-06-30 | 2022-07-03 |
 | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) | 2:47 | 2022-07-26 | 2022-10-14 |
 | [DARLING DANCE](https://open.spotify.com/track/32cvZTXsJi4EzkvVDMH4Ij) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [DARLING SYNDROME](https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9) | 3:26 | 2022-07-26 |  |
-| [day by days](https://open.spotify.com/track/6SRkWroP8AXI5bqNfmI6Mn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [day by days](https://open.spotify.com/album/7Ir2ssbW6ov5OxbiQNcksm) | 2:09 | 2022-07-26 |  |
+| [day by days](https://open.spotify.com/track/6SRkWroP8AXI5bqNfmI6Mn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [day by days](https://open.spotify.com/album/7Ir2ssbW6ov5OxbiQNcksm) | 2:09 | 2022-07-26 | 2023-05-15 |
 | [Digital Girl](https://open.spotify.com/track/15h9C2CLOJyNNdfNVFcp7m) | [KIRA](https://open.spotify.com/artist/11T32AM3Tp0oYZ3PEWHGLZ), [Hatsune Miku](https://open.spotify.com/artist/2AynL2BUHgIk5ApzFVwDIL) | [Digital Girl](https://open.spotify.com/album/5LyEP5iDIqGJMKbRpsKDMq) | 3:02 | 2022-06-28 | 2022-07-13 |
 | [Dinner Bell](https://open.spotify.com/track/4R4HYbhg9yBcHKX9yKvVK3) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [Dinner Bell](https://open.spotify.com/album/4mWPo2Z5XVSJ2DImosQz2B) | 3:06 | 2023-04-11 | 2023-04-28 |
 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 | 2022-07-26 |  |
@@ -77,6 +77,7 @@
 | [Killer Spider](https://open.spotify.com/track/3nOEQq57iGLmixCoGY0rOR) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Killer Spider](https://open.spotify.com/album/1ZS9h9lLWmMPBNSvbjOmXG) | 3:16 | 2022-10-13 | 2022-10-28 |
 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 | 2022-06-09 |  |
 | [KLY](https://open.spotify.com/track/5kU2uwJrjRuADfLltDgLc2) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [KLY](https://open.spotify.com/album/5cZP3s2SdQ8vXKR5yz52SU) | 4:02 | 2023-04-11 |  |
+| [Koinu no Carnival \-From "Minute Waltz"\-](https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | ["Classicaloid" Chopin Musik](https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N) | 3:10 | 2023-05-14 |  |
 | [kyu\-kurarin](https://open.spotify.com/track/72wehM3q2RVZb4XLmAkyTr) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [kyu\-kurarin](https://open.spotify.com/album/4f5TDdboXv76t95A48thSs) | 3:37 | 2022-12-13 |  |
 | [Lap Tap Love](https://open.spotify.com/track/7weaxG7FEqDVCyZsLsyaKX) | [koyori](https://open.spotify.com/artist/6gZ9klmJVVAgpXEdL6sZQE), [向日葵](https://open.spotify.com/artist/5fY5L5NPHQRgEhdjgTvoCZ) | [Resonance](https://open.spotify.com/album/4r5hRygA5bz0oDlJoRC7Yy) | 3:22 | 2022-06-09 | 2022-06-11 |
 | [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ANTICYCLONE](https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB) | 3:24 | 2022-07-26 | 2023-01-13 |
@@ -259,7 +260,7 @@
 | [チチンプイプイ \- Cover](https://open.spotify.com/track/28KRH7HAhLQgVEy7uGF96E) | [あを。](https://open.spotify.com/artist/3vtV5ZBgbq99AAJicqpv7p), [真島ゆろ](https://open.spotify.com/artist/460r2Oaa2Sp7EKP0nds0Ow) | [チチンプイプイ \(Cover\)](https://open.spotify.com/album/5rUHnH2POtLBvcB7XZ6gNR) | 3:06 | 2022-06-09 | 2022-07-29 |
 | [チュルリラ・チュルリラ・ダッダッダ!](https://open.spotify.com/track/0M1JGQcBPw0Wx4HJTYSnAz) | [WADATAKEAKI KurageP](https://open.spotify.com/artist/3N1Bm1zHjxERruWhTsoQXO) | [わたしの未成年観測](https://open.spotify.com/album/49gFmYr9KCdaxCXr2d8HxF) | 3:16 | 2022-06-09 | 2022-07-29 |
 | [チルドレンレコード \- Re:boot](https://open.spotify.com/track/7EgAQ88TKT5HHsYpRThUQc) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [チルドレンレコード \(Re:boot\)](https://open.spotify.com/album/0Kp2uX7B1gdSYcBiL8brMx) | 3:07 | 2022-06-09 | 2022-08-17 |
-| [チーズ](https://open.spotify.com/track/3bjyPSQqaxldKhMQuJ3U5v) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [チーズ](https://open.spotify.com/album/0JQrvuksIwuucJWdGGgOtX) | 2:40 | 2022-12-29 | 2023-04-28 |
+| [チーズ](https://open.spotify.com/track/3bjyPSQqaxldKhMQuJ3U5v) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [チーズ](https://open.spotify.com/album/0JQrvuksIwuucJWdGGgOtX) | 2:40 | 2022-12-29 |  |
 | [ツギハギスタッカート](https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W) | [toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [ツギハギスタッカート](https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD) | 4:10 | 2022-06-09 | 2023-01-13 |
 | [テオ \(2021\)](https://open.spotify.com/track/0E3EDDVxdSi061upF0jUIl) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [テオ \(2021\)](https://open.spotify.com/album/1mQqzQpa72OHnVj1BRAeMG) | 3:29 | 2022-06-09 | 2022-07-29 |
 | [テルミーアンサー \(feat\. 鏡音リン\)](https://open.spotify.com/track/5wKcApvgq2RV0GKRP95sLh) | [kinoshita](https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5) | [テルミーアンサー](https://open.spotify.com/album/7yMPyldG6C7odkmS1wURoG) | 3:12 | 2022-06-09 | 2022-07-16 |
@@ -325,7 +326,7 @@
 | [ベルコメン](https://open.spotify.com/track/0FkaGYIzvLbAVNCWWjDpO3) | [香椎モイミ](https://open.spotify.com/artist/09bfsJNaKxdLPpxiX1kfwZ) | [偏愛](https://open.spotify.com/album/3Vw6LxPWbtDLKoSzoetvNK) | 3:51 | 2023-02-08 | 2023-02-17 |
 | [ペタペタ](https://open.spotify.com/track/0QfPdBYuquukh7i0cp7soC) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ペタペタ](https://open.spotify.com/album/5wHBtD5cW9FKGi2Z0Olrhm) | 3:19 | 2022-06-14 | 2022-07-24 |
 | [ボッカデラベリタ](https://open.spotify.com/track/3sbj4p74huvGfIu3zKw7GJ) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2) | [ヘイトフル](https://open.spotify.com/album/6AK0ZWjL1tdCfYM2p8mRJM) | 3:21 | 2022-06-14 | 2022-07-25 |
-| [ボニー&クライド](https://open.spotify.com/track/2o3z08ZoSbTt8yGw5rSH4T) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ボニー&クライド](https://open.spotify.com/album/1ml6frwbwpvD4XLWzSmYnD) | 2:45 | 2023-05-09 |  |
+| [ボニー&クライド](https://open.spotify.com/track/2o3z08ZoSbTt8yGw5rSH4T) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ボニー&クライド](https://open.spotify.com/album/1ml6frwbwpvD4XLWzSmYnD) | 2:45 | 2023-05-09 | 2023-05-15 |
 | [ポジティブ☆ダンスタイム](https://open.spotify.com/track/7v5xPGDLbGMLqSnPfIrRgK) | [kinoshita](https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5) | [ポジティブ☆ダンスタイム](https://open.spotify.com/album/5SizyZsAfotoDLoNYbph5M) | 4:02 | 2022-06-09 | 2022-07-22 |
 | [マカロン](https://open.spotify.com/track/2VmOvzDdJmycCnGgCzkNrx) | [ATOLS](https://open.spotify.com/artist/1JiIdIqUZMFCPcZmTtSwLM) | [ATOLS/MIKU](https://open.spotify.com/album/3FXyXuRhxBSgj2r4v9PS7V) | 3:16 | 2022-06-14 | 2022-07-28 |
 | [マシンガンポエムドール](https://open.spotify.com/track/6XshXpv0LPjtTJbKkeilBQ) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [マシンガンポエムドール](https://open.spotify.com/album/2XdBm2tkrw0q2T5J1F0kF9) | 2:20 | 2022-06-09 | 2022-07-23 |

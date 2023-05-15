@@ -1,12 +1,12 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 831323,
+  "num_followers": 831554,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWE0NzU1NDM4MDQ0N2ViZDRiZWJlYjQ0ZmViNTIyM2EyZDNlYmNm",
+  "snapshot_id": "MCxlYTkyODVjMmI1MGMyNmE2OTljNGE4ZWJmMTFmODRkZDA0NTk0NmMz",
   "tracks": [
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Sing Sing Death House",
-        "url": "https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi"
-      },
-      "artists": [
-        {
-          "name": "The Distillers",
-          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "City Of Angels",
-      "url": "https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Better Weather",
         "url": "https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 180554,
       "name": "Voldemort",
       "url": "https://open.spotify.com/track/27oxSfW0iib7w0NG4zf9Fp"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Sing Sing Death House",
+        "url": "https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi"
+      },
+      "artists": [
+        {
+          "name": "The Distillers",
+          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "City Of Angels",
+      "url": "https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF"
     },
     {
       "added_at": "2022-07-26 16:46:12",

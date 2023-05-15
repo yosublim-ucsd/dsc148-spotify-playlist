@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,437 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,443 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 35 | [Lord, Lord, Lord](https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [New Orleans Brass Band Music \- Memories Of The Fairview & Hurricane Band](https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu) | 2:25 |
 | 36 | [You're Gonna Lose Your Gal](https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [Swing Out](https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc) | 2:53 |
 | 37 | [His Eye Is On The Sparrow](https://open.spotify.com/track/1CaDni89B5qBXIwdHwqaed) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Shake That Thing](https://open.spotify.com/album/7FZO1OPxRXhxkz72LD5x2k) | 6:12 |
-| 38 | [When I Get You Alone Tonight](https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB) | [Wingy Manone](https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG) | [Swinging Mainstream Sides](https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al) | 3:12 |
-| 39 | [Do You Know What It Means to Miss New Orleans \- Live](https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great Chicago Concert 1956 \- Complete](https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q) | 5:06 |
+| 38 | [Do You Know What It Means to Miss New Orleans \- Live](https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great Chicago Concert 1956 \- Complete](https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q) | 5:06 |
+| 39 | [When I Get You Alone Tonight](https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB) | [Wingy Manone](https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG) | [Swinging Mainstream Sides](https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al) | 3:12 |
 | 40 | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV) | [New Breed Brass Band](https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5), [5th Ward Weebie](https://open.spotify.com/artist/1Gd5PupkpVsM1OvgVDUvmH) | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK) | 4:36 |
 | 41 | [I Found a New Baby](https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234) | [Jack Teagarden](https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf), [Bobby Hackett](https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq) | [Jazz In Hi\-Fi](https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn) | 2:44 |
 | 42 | [Shreveport Stomp](https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Atlantic Jazz: New Orleans](https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV) | 3:00 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 46 | [I Gotta Woman \- Bonus Track](https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J) | [Dejan's Olympia Brass Band](https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk) | [Here Come da Great Olympia Band](https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17) | 6:25 |
 | 47 | [Don't You Think I Love You](https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt) | [King Oliver](https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ), [King Oliver Orchestra](https://open.spotify.com/artist/1IbLwRHEw4pcpSaIAH56HM) | [New Orleans Shout \- The Complete Victor Recordings, Vol\. 2](https://open.spotify.com/album/6UVV9UfTiyy75RLufKmUeY) | 2:48 |
 | 48 | [When You're Smiling](https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR) | [Kid Thomas](https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe), [Thomas Jefferson](https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR), [Percy Humphrey](https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE) | [New Orleans Traditional Jazz Legends, Vol\. 3](https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs) | 4:27 |
-| 49 | [On the Square](https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [The Great Olympia Band](https://open.spotify.com/album/0Wnrzvyabjext6HSTvJ4IB) | 3:43 |
-| 50 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
+| 49 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
+| 50 | [On the Square](https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [The Great Olympia Band](https://open.spotify.com/album/0Wnrzvyabjext6HSTvJ4IB) | 3:43 |
 
-Snapshot ID: `MCwwZWNlYWEwOTE0NTljZjQ4NzRlYWU4MGRkOGMyNjkwYzFjODU4NWE5`
+Snapshot ID: `MCw0NDJiNTU2MGFiNmFlNDQ3ZGU1M2Q3YWJhMzEzOThkNjBiM2VjY2E4`

@@ -4,7 +4,7 @@
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-189 songs - 9 hr 48 min
+190 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Popurri Jarocho](https://open.spotify.com/track/78SHvCcwpWBehX2YzaF5UJ) | [Mariachi Divas](https://open.spotify.com/artist/27c4TvzdsKPi3kDRPBW96u) | [15 Aniversario](https://open.spotify.com/album/3trDp9UHjRGKtLBIbTZkKD) | 3:26 | 2021-09-01 | 2022-07-29 |
 | [Popurri Jarocho: Veracruz / Maria Chuchena / Balajú / El Torito](https://open.spotify.com/track/7pT8049q2ltzDvbCgEbzrB) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [15 Aniversario](https://open.spotify.com/album/3B9uJgYwjlPfXq4kVAQerp) | 3:28 | 2022-01-25 | 2022-08-03 |
 | [Popurrí de Sones](https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT) | [Mariachi Nuevo Ordaz de Purépero](https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs) | [Cuando México Canta](https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW) | 5:22 | 2021-09-01 |  |
-| [Puro Cachanilla](https://open.spotify.com/track/37Z8i6jx0D7Tw9VBaB1QeL) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:19 | 2022-08-02 |  |
+| [Puro Cachanilla](https://open.spotify.com/track/37Z8i6jx0D7Tw9VBaB1QeL) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:19 | 2022-08-02 | 2023-05-15 |
+| [Puro Cachanilla](https://open.spotify.com/track/6Ahpr5bhGJMHu0QTy4yoky) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:21 | 2022-09-12 |  |
 | [Que Bonita Es Mi Tierra](https://open.spotify.com/track/450De2xJInnSzKGgFucBqP) | [Fernando De La Mora](https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fernando de la Mora Interpreta a Rubén Fuentes](https://open.spotify.com/album/5azGsYjlvnnqsRplgVxznL) | 3:34 | 2021-09-01 | 2022-07-29 |
 | [Que Lindo Es Michoacan](https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF) | 3:11 | 2022-08-02 |  |
 | [Qué Bonita Es Mi Tierra \(feat\. Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/track/0mB37B9FDCsKSmjiSdEfci) | [Fernando De La Mora](https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fernando De La Mora Interpreta A Rubén Fuentes \(feat\. Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/4bh55n600iD6h3tMa2HbWF) | 3:34 | 2022-01-25 |  |

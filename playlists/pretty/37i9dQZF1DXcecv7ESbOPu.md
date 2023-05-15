@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,098 likes - 118 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,152 likes - 118 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 117 | [HAPPY DOOMSDAY](https://open.spotify.com/track/1S4YtFEbKHda2byazJ2Jr8) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [HAPPY DOOMSDAY](https://open.spotify.com/album/2NorUBquYHC1J7MHuWUPtj) | 2:50 |
 | 118 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
 
-Snapshot ID: `MCwwOTcwN2Q5NmRlODA5YzNmMzNiOWQ4ZGQ2N2FlMGViNjYxYjJhMjUw`
+Snapshot ID: `MCw5YzI1MmI4ODc2NjgzMzA5M2Q1OWJhZjZiZjBiZWE3ODQ4NjUyNDYx`

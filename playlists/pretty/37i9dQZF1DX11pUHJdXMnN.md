@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,985 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,037 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Computer](https://open.spotify.com/track/43dypLxBZqo8KlPdsJOmwy) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Glowal](https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ) | [Picture: Adana Twins](https://open.spotify.com/album/6EmW2P6OZMqtGyuYXs53X0) | 8:35 |
 | 2 | [Divine Reality](https://open.spotify.com/track/45ITwtPzk2n7XBWGD32NZb) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Divine Reality](https://open.spotify.com/album/15eAEjJ4qWNLbtTACrb0oK) | 7:39 |
 | 3 | [Deleters \- Palms Trax Remix](https://open.spotify.com/track/0oqga82uitzPVW5TR8SKVx) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11), [Angus Andrew](https://open.spotify.com/artist/4sKeiukDMta5llXZ8v4Vdu), [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [Deleter Remixed](https://open.spotify.com/album/6zys7HVqBqIlAHqQM1eruT) | 4:15 |
-| 4 | [You And I \- Late Nite Tuff Guy Dub Remix](https://open.spotify.com/track/2BQgYWhMidgerKZGm12xax) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/1KwHWoSdaV3d9Xs8tgxkFl) | 6:24 |
-| 5 | [Silver Machine](https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp) | [ANII](https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o) | [ANIITIME003](https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ) | 7:24 |
+| 4 | [Silver Machine](https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp) | [ANII](https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o) | [ANIITIME003](https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ) | 7:24 |
+| 5 | [You And I \- Late Nite Tuff Guy Dub Remix](https://open.spotify.com/track/2BQgYWhMidgerKZGm12xax) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/1KwHWoSdaV3d9Xs8tgxkFl) | 6:24 |
 | 6 | [Modern Romance](https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Modern Romance](https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz) | 3:34 |
 | 7 | [Place And Time](https://open.spotify.com/track/6CBJ7na2t7S6dx1MCDpS73) | [Walk Then Dance](https://open.spotify.com/artist/7DpsCj5MSS01dxB3aG4Wx6) | [Place And Time](https://open.spotify.com/album/6FbKm2ygSB2fq7Hl51RsaW) | 4:04 |
 | 8 | [Lille Vals](https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ) | [Storken](https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi) | [Lille Vals](https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x) | 3:55 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 | 45 | [Fantasia](https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM) | 6:33 |
 
-Snapshot ID: `MCwxZDZhYTU5NjRjMTlmNGJhZmQxMDRkYmZkNDI2Y2U0YzFkZWE3ZTU3`
+Snapshot ID: `MCxiY2RmZjJlMjE2OGUwZjlkZTFiOThmMDY1MmM0YjY5NmRlZGZhYTdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,745 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,794 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 45 | [Lock It In The Pocket](https://open.spotify.com/track/2uSTcrVUckp3k6FuMaEfiq) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Mas Borracho](https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH) | 3:36 |
 | 46 | [Breaking Glass \- 2017 Remaster](https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 1:52 |
 | 47 | [A Man with No Direction](https://open.spotify.com/track/05GUpbQn0dizTVwIQsNw75) | [Cross Country Driver](https://open.spotify.com/artist/7yVGyHGB9ZrxNMBZK0mirb), [Doug Pinnick](https://open.spotify.com/artist/51S9dRF8a9hrdg4N1PbEWT), [Jesse O'Brien](https://open.spotify.com/artist/1bWBqCpBTf2inuBorWzlZK) | [A Man with No Direction](https://open.spotify.com/album/5Dz6If4NYIIwEX7nlSVDwK) | 2:59 |
-| 48 | [Mull](https://open.spotify.com/track/1E9aJiINWakPxFnVYopfh3) | [Mike Gordon](https://open.spotify.com/artist/2Onb70uN9rRM3VMerSpA37) | [Mull](https://open.spotify.com/album/6t9fHNq2Y9OJ47kuaVNxNz) | 3:37 |
+| 48 | [Mull](https://open.spotify.com/track/1jnYj6S2Ng6DcyE7ySChdK) | [Mike Gordon](https://open.spotify.com/artist/2Onb70uN9rRM3VMerSpA37) | [Flying Games](https://open.spotify.com/album/3M1aIFOZFJPn4mxF9NyeOs) | 3:37 |
 | 49 | [Who Really Are the Monsters?](https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH) | 5:19 |
 | 50 | [Bonin' In the Boneyard](https://open.spotify.com/track/3WBRoMyO2huOjKnrq0PaTX) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 4:44 |
 | 51 | [Tones Of Home](https://open.spotify.com/track/5Cr8DxrjyP2fS93XjGXlFl) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 99 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 |
 | 100 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 |
 
-Snapshot ID: `MCwyYzQ0YmMzODAyZjg2NDA5MWMyZWY5ZjYwNmY3ZjM2NTBiNjI4ZDRk`
+Snapshot ID: `MCw4OGEyNzdjNjZmNzc2ZDIzMDQ3NTllOTk4M2YxZTkxNTk5OTM4ZmQ0`

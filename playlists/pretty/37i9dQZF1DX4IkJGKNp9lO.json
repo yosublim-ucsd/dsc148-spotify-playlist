@@ -1,12 +1,12 @@
 {
   "description": "Svensk punk fr\u00e5n f\u00f6rr och nu. \n",
-  "num_followers": 28372,
+  "num_followers": 28374,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTc4ZWJmNGIwMGI4NGUxYWY0OWNkMDZlYzUwZGM1OTU2MGJjMTli",
+  "snapshot_id": "MCw2YzMwZTI0NjZjZWM2OGQ2YTU0NzY2NzgwOWE0MDM0M2M3YWJiZmQy",
   "tracks": [
     {
       "added_at": "2023-05-04 22:10:49",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Demons From the Past",
-        "url": "https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb"
-      },
-      "artists": [
-        {
-          "name": "Skumdum",
-          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
-        }
-      ],
-      "duration_ms": 148653,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/3eh8uUhn2VGZA2WCpewFj8"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
         "name": "Finito",
         "url": "https://open.spotify.com/album/2SlVOhQ6AwhzB2fDOTrl4f"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 172133,
       "name": "Bakom Spegeln",
       "url": "https://open.spotify.com/track/6TYwqGXwwgBbkocgdvJvzL"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "Demons From the Past",
+        "url": "https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb"
+      },
+      "artists": [
+        {
+          "name": "Skumdum",
+          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/3eh8uUhn2VGZA2WCpewFj8"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Versace Style",
-        "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
-      },
-      "artists": [
-        {
-          "name": "En Svensk Tiger",
-          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
-        }
-      ],
-      "duration_ms": 128080,
-      "name": "Punkrockarflicka",
-      "url": "https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
         "name": "Krymplings",
         "url": "https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 239893,
       "name": "Dunken",
       "url": "https://open.spotify.com/track/7InzmgtRkwsheHlrUz0VLK"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "Versace Style",
+        "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
+      },
+      "artists": [
+        {
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+        }
+      ],
+      "duration_ms": 128080,
+      "name": "Punkrockarflicka",
+      "url": "https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+        "name": "Tecken I Tiden",
+        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
       },
       "artists": [
         {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
         }
       ],
-      "duration_ms": 149760,
-      "name": "Tyst f\u00f6r fan",
-      "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
+      "duration_ms": 250866,
+      "name": "Herrarna I Sandl\u00e5dan",
+      "url": "https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -543,34 +543,18 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Tecken I Tiden",
-        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
       "artists": [
         {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
         }
       ],
-      "duration_ms": 250866,
-      "name": "Herrarna I Sandl\u00e5dan",
-      "url": "https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
-        "name": "Med is i magen",
-        "url": "https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2"
-      },
-      "artists": [
-        {
-          "name": "Asta Kask",
-          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
-        }
-      ],
-      "duration_ms": 167480,
-      "name": "Psykist Instabil",
-      "url": "https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO"
+      "duration_ms": 149760,
+      "name": "Tyst f\u00f6r fan",
+      "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -587,6 +571,22 @@
       "duration_ms": 207866,
       "name": "Jag G\u00e5r Upp Och H\u00e5ller K\u00e4ften",
       "url": "https://open.spotify.com/track/0aozr0Hc6LefOhDj818RDI"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "Med is i magen",
+        "url": "https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2"
+      },
+      "artists": [
+        {
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Psykist Instabil",
+      "url": "https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
-        "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
-      },
-      "artists": [
-        {
-          "name": "Strebers",
-          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
-        }
-      ],
-      "duration_ms": 143560,
-      "name": "Balladen Om Lilla Elsa",
-      "url": "https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
         "name": "Tecken I Tiden",
         "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
       },
@@ -671,34 +655,18 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "V\u00e4lkommen Hit",
-        "url": "https://open.spotify.com/album/2z3APsZA3kx1vFH88VnX8f"
+        "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
+        "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
       },
       "artists": [
         {
-          "name": "V\u00c4NSTERN\u00c4VEN",
-          "url": "https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl"
+          "name": "Strebers",
+          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
         }
       ],
-      "duration_ms": 90493,
-      "name": "Arbetsl\u00f6s",
-      "url": "https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
-        "name": "St\u00e5r st\u00f6tt",
-        "url": "https://open.spotify.com/album/4xsmrWEDxBzNOeyFMqPCNG"
-      },
-      "artists": [
-        {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        }
-      ],
-      "duration_ms": 138680,
-      "name": "Sm\u00e5 steg",
-      "url": "https://open.spotify.com/track/6wNd0yL725a1cjO5lDNBUt"
+      "duration_ms": 143560,
+      "name": "Balladen Om Lilla Elsa",
+      "url": "https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -719,18 +687,34 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
-        "url": "https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD"
+        "name": "St\u00e5r st\u00f6tt",
+        "url": "https://open.spotify.com/album/4xsmrWEDxBzNOeyFMqPCNG"
       },
       "artists": [
         {
-          "name": "Asta Kask",
-          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
         }
       ],
-      "duration_ms": 196840,
-      "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
-      "url": "https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU"
+      "duration_ms": 138680,
+      "name": "Sm\u00e5 steg",
+      "url": "https://open.spotify.com/track/6wNd0yL725a1cjO5lDNBUt"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "V\u00e4lkommen Hit",
+        "url": "https://open.spotify.com/album/2z3APsZA3kx1vFH88VnX8f"
+      },
+      "artists": [
+        {
+          "name": "V\u00c4NSTERN\u00c4VEN",
+          "url": "https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl"
+        }
+      ],
+      "duration_ms": 90493,
+      "name": "Arbetsl\u00f6s",
+      "url": "https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -747,6 +731,22 @@
       "duration_ms": 251353,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
+        "url": "https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD"
+      },
+      "artists": [
+        {
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
+      "url": "https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Gbg Noir",
-        "url": "https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN"
+        "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
+        "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
       },
       "artists": [
         {
-          "name": "En Svensk Tiger",
-          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+          "name": "Strebers",
+          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
         }
       ],
-      "duration_ms": 182526,
-      "name": "Svegregationen",
-      "url": "https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA"
+      "duration_ms": 211640,
+      "name": "39 Steg",
+      "url": "https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -863,34 +863,34 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
-        "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
+        "name": "Gbg Noir",
+        "url": "https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN"
       },
       "artists": [
         {
-          "name": "Strebers",
-          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
         }
       ],
-      "duration_ms": 211640,
-      "name": "39 Steg",
-      "url": "https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I"
+      "duration_ms": 182526,
+      "name": "Svegregationen",
+      "url": "https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA"
     },
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
+        "name": "Sista Dansen",
+        "url": "https://open.spotify.com/album/1wXD1Pkuf56DSvkQE3kFQz"
       },
       "artists": [
         {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
         }
       ],
-      "duration_ms": 78800,
-      "name": "Jag vill bli som far",
-      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
+      "duration_ms": 199160,
+      "name": "Psykopaten",
+      "url": "https://open.spotify.com/track/2NXA45aJcDNJ8zdE9LB4YO"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Sista Dansen",
-        "url": "https://open.spotify.com/album/1wXD1Pkuf56DSvkQE3kFQz"
+        "name": "Aktion",
+        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
       },
       "artists": [
         {
-          "name": "Asta Kask",
-          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
         }
       ],
-      "duration_ms": 199160,
-      "name": "Psykopaten",
-      "url": "https://open.spotify.com/track/2NXA45aJcDNJ8zdE9LB4YO"
+      "duration_ms": 78800,
+      "name": "Jag vill bli som far",
+      "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "Tidens tempo",
-      "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
         "name": "I All Hast",
         "url": "https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 167266,
       "name": "Mitt Sista Andetag",
       "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "What We Did Best",
+        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
+      },
+      "artists": [
+        {
+          "name": "Skumdum",
+          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Meningsl\u00f6sa M\u00e5ndag",
+      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
     }
   ],
   "unique_name": "Svensk Punk",

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Magdalena Bay
 
-1,557 songs - 3 day 10 hr 9 min
+1,558 songs - 3 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1104,6 +1104,7 @@
 | [Post Humorous](https://open.spotify.com/track/59BJgnWKzFnh5TGkhHfmod) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Post Humorous](https://open.spotify.com/album/3Gk3QuFFF4zi4RdyYhBkpy) | 4:39 | 2020-10-13\* | 2021-06-03 |
 | [poster boy](https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [poster boy](https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr) | 2:46 | 2023-04-14 |  |
 | [predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to) | 2:55 | 2021-10-02 | 2022-04-15 |
+| [Prescription](https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Prescription](https://open.spotify.com/album/7HmE6jyAnWoVY870oQGNpo) | 3:33 | 2023-05-12 |  |
 | [Prescriptions](https://open.spotify.com/track/3LYjxu7eqgGPDiPz8ed4pX) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Prescriptions](https://open.spotify.com/album/3hdDCo5ApKuKVWBOPluH5L) | 3:47 | 2022-02-25 | 2022-04-21 |
 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 | 2022-10-21 | 2022-10-29 |
 | [Pressure Point](https://open.spotify.com/track/6viryDZQ6Jr8J2bjqf2hSg) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Pressure Point](https://open.spotify.com/album/5B7CTMT8SCyoOzdh8MsqVX) | 3:26 | 2022-03-29 | 2022-07-25 |
@@ -1167,7 +1168,7 @@
 | [Running Around](https://open.spotify.com/track/6Tc9wBnQxETvqUCUZzCf6k) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Running Around](https://open.spotify.com/album/4fRGzIYX6Oeagpi13HKagP) | 3:16 | 2020-10-16 | 2020-10-23 |
 | [running back](https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/5rULMY8zzfeKSBlpuDOIZe) | 1:52 | 2022-01-28 | 2022-07-02 |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-10-22 | 2022-06-11 |
-| [Rêve](https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Rêve](https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G) | 3:09 | 2023-04-07 |  |
+| [Rêve](https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Rêve](https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G) | 3:09 | 2023-04-07 | 2023-05-15 |
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-29 | 2022-04-11 |
 | [Sad Girl Summer](https://open.spotify.com/track/6WyCDecnLaByR2WN3BVGDQ) | [smol fish](https://open.spotify.com/artist/1s6NvPMt2shlv4MBNu9M9v) | [Sad Girl Summer](https://open.spotify.com/album/2Kcmjgcrs002N9IPKOZvo0) | 3:06 | 2021-05-03 | 2021-05-27 |
 | [Sad to Breathe](https://open.spotify.com/track/1NtoOI83OIXz4NXPj2VaKV) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sad to Breathe](https://open.spotify.com/album/0sGBhfoO2V3a2gJejL2Li6) | 3:34 | 2023-04-21 |  |

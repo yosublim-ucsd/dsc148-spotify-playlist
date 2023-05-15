@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT?si=Io9oZOUzRbmk\_VlXGU8duQ">Anmily Brown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,941 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,013 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [No Soy Yo](https://open.spotify.com/track/1jAUgNZdcfpaAjxipcbxyD) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [No Soy Yo](https://open.spotify.com/album/07uyloxJYzMBLGdhLV8ITy) | 2:50 |
 | 100 | [Paz](https://open.spotify.com/track/5Zh3zFsIl0UwnUucE3Td0u) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Otro Trance](https://open.spotify.com/album/1BYvcfamUxuoSKh4qs1yNI) | 3:23 |
 
-Snapshot ID: `MCxmMjM5NjU3NmMwNzA4OTk5MDZjNTJjMTdlZTA4ZTMyMTE4MzBlNjI0`
+Snapshot ID: `MCxmMjUxNGJjZGYxYTAwNmQyZWEyN2M2MTBmMGMwNjE5YjJjZGNkMmIx`

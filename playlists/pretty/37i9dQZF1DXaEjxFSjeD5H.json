@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 13361,
+  "num_followers": 13387,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzVkMGQ4ZDFjMTA0NjhkNzg0NTU2ZTg1ZWNhNTAyN2Q3YTRiM2Yw",
+  "snapshot_id": "MCwyZDlkNDEwZGEwMThkNDgxNGRkZjVkMWM4MTRlZDMwMTRiYjU5YTBk",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
         }
       ],
-      "duration_ms": 182517,
-      "name": "El 13-20",
-      "url": "https://open.spotify.com/track/1ViXZ4USiaIIAsk5RgR9sw"
+      "duration_ms": 199288,
+      "name": "Caldo de Oso",
+      "url": "https://open.spotify.com/track/3MsAogIkJ57WmRm1G8mu7X"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
         }
       ],
-      "duration_ms": 199288,
-      "name": "Caldo de Oso",
-      "url": "https://open.spotify.com/track/3MsAogIkJ57WmRm1G8mu7X"
+      "duration_ms": 182517,
+      "name": "El 13-20",
+      "url": "https://open.spotify.com/track/1ViXZ4USiaIIAsk5RgR9sw"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -759,8 +759,8 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Danzonera Joven de Mexico del Chamaco Aguilar, Vol. 2",
-        "url": "https://open.spotify.com/album/60Naej3w02R25knHK4eZwr"
+        "name": "Aut\u00e9ntico Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 217546,
-      "name": "Ang\u00e9lica",
-      "url": "https://open.spotify.com/track/0RWQSk38aQTalfBgGLXfCH"
+      "duration_ms": 258530,
+      "name": "Bodas de Oro",
+      "url": "https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -875,8 +875,8 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Aut\u00e9ntico Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
+        "name": "La Danzonera Joven de Mexico del Chamaco Aguilar, Vol. 2",
+        "url": "https://open.spotify.com/album/60Naej3w02R25knHK4eZwr"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 258530,
-      "name": "Bodas de Oro",
-      "url": "https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX"
+      "duration_ms": 217546,
+      "name": "Ang\u00e9lica",
+      "url": "https://open.spotify.com/track/0RWQSk38aQTalfBgGLXfCH"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
+        "name": "Danzones Salon Mexico",
+        "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
+      },
+      "artists": [
+        {
+          "name": "Los Mejores Danzones",
+          "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
+        }
+      ],
+      "duration_ms": 273345,
+      "name": "Kid Azteca",
+      "url": "https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
         "name": "El Embrujo del Danz\u00f3n",
         "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 229040,
       "name": "Sal\u00f3n Casa Blanca",
       "url": "https://open.spotify.com/track/5YIo2jiYLvwttvGr63ZH3A"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzones Salon Mexico",
-        "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
-      },
-      "artists": [
-        {
-          "name": "Los Mejores Danzones",
-          "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
-        }
-      ],
-      "duration_ms": 273345,
-      "name": "Kid Azteca",
-      "url": "https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq"
     },
     {
       "added_at": "2022-08-02 23:28:22",

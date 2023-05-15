@@ -3215,6 +3215,24 @@
     },
     {
       "album": {
+        "name": "WETLANDS",
+        "url": "https://open.spotify.com/album/56l7sgYUPRc7kPX1DseBCv"
+      },
+      "artists": [
+        {
+          "name": "Christian Cohle",
+          "url": "https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314185,
+      "name": "Spinning Heart",
+      "url": "https://open.spotify.com/track/17nnRPp1cTVQ8XUacodl5c"
+    },
+    {
+      "album": {
         "name": "Spinning Heart",
         "url": "https://open.spotify.com/album/0gDo1Rm6rhd1spRHA3z5eY"
       },
@@ -3226,7 +3244,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 314185,
       "name": "Spinning Heart",
       "url": "https://open.spotify.com/track/3Af909IMUQwHxT4w4Q5sEM"

@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-936 songs - 2 day 9 hr 10 min
+937 songs - 2 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Campanas en la Noche \- Versión Juan José Vasconcellos](https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Juan José Vasconcellos](https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A) | [De Mi Flor](https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P) | 3:41 | 2022-04-01 | 2022-04-07 |
 | [Canción Para Que Vuelvas](https://open.spotify.com/track/44pTqOSWCDTzYTskh8aJc1) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [SUPERSTICIONES](https://open.spotify.com/album/52lk6YflfGkqPcZXt7wE5L) | 3:35 | 2022-03-24 | 2022-04-06 |
 | [Canción para cantar de a dos](https://open.spotify.com/track/6Kl3mQYxh99eh8U3OkYmJQ) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Canción para cantar de a dos](https://open.spotify.com/album/62mvHNoscp2kDuDWvIiYQp) | 3:40 | 2022-03-24 | 2022-04-21 |
+| [Canción para Mi Muerte](https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 3:35 | 2023-05-05 |  |
 | [Canción para Soltar](https://open.spotify.com/track/5wUEqcq5hzjie5m8cnDu5n) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Canción para Soltar](https://open.spotify.com/album/2oZSyEJljiMCLmFhfABCMx) | 2:46 | 2022-04-08 | 2022-04-10 |
 | [Cantata de Puentes Amarillos \(En Vivo\)](https://open.spotify.com/track/4eJbaOtTMHqEvWERy3tJRm) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Mil Noches y un Instante \(En Vivo en el Teatro Gran Rex\)](https://open.spotify.com/album/0FEw1ELbSr36VjZRlOhpbx) | 8:42 | 2022-03-24 | 2022-03-27 |
 | [Cantemos \(feat\. Emiliano Brancciari\)](https://open.spotify.com/track/3cwY7pvMIdmtMbF6tXF8WU) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [20 Años Celebrando](https://open.spotify.com/album/5SEEUhmdbhGv7G8PViKi0W) | 5:44 | 2022-03-28 | 2022-04-13 |
@@ -680,7 +681,7 @@
 | [Porque Te Vas](https://open.spotify.com/track/0gIYEcz6TwJBFyQVcZa169) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli), [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Porque Te Vas](https://open.spotify.com/album/6Y4pNWxQL6DDIcgfpee7Dz) | 3:48 | 2022-03-28 | 2022-04-19 |
 | [Pretty Girl \- Acoustic Version](https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [Pretty Girl \(Acoustic Version\)](https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk) | 3:00 | 2022-03-24 | 2022-04-21 |
 | [Primavera](https://open.spotify.com/track/6r6GgoTmwSBBUf78E5iWpr) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Primavera](https://open.spotify.com/album/1fTQQxzsm3FLidMc52dKfk) | 3:52 | 2022-03-24 | 2022-07-19 |
-| [Prisionero](https://open.spotify.com/track/6BvLxVbjHqWgDqjhVRbTaZ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Prisionero](https://open.spotify.com/album/3NxfSFXY3AXan2AQ6e6PMq) | 3:55 | 2023-04-06 |  |
+| [Prisionero](https://open.spotify.com/track/6BvLxVbjHqWgDqjhVRbTaZ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Prisionero](https://open.spotify.com/album/3NxfSFXY3AXan2AQ6e6PMq) | 3:55 | 2023-04-06 | 2023-05-15 |
 | [Profundidad](https://open.spotify.com/track/3KQaM03bZXWRPCtewW5eGI) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Que Esperas \(Versión Exclusiva\)](https://open.spotify.com/album/2vd3SPSRppBEPjRWoFTDRp) | 4:10 | 2022-01-28 | 2022-04-09 |
 | [Profundo](https://open.spotify.com/track/6TK99qUs7Cep7TQ4VXDjqv) | [Melaní Luraschi](https://open.spotify.com/artist/5PBojwvlt5Smdc4alC9xZw), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Profundo](https://open.spotify.com/album/0t9VcYXdHlMRyC2JGmsNCK) | 2:57 | 2022-04-01 | 2022-04-04 |
 | [Promesas Sobre El Bidet \- Live](https://open.spotify.com/track/18q9HXSEKJ7w1nTAST38jB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 3:06 | 2022-03-28 | 2022-04-01 |

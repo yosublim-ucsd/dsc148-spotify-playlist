@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,631 likes - 200 songs - 15 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,853 likes - 200 songs - 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [Mars Blues](https://open.spotify.com/track/6KDen8FE1Cw8Rr0VAuiRwj) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Corydrums](https://open.spotify.com/artist/3LU0lAD1W7SbzLnzeYudtJ) | [Mars Blues](https://open.spotify.com/album/1AbmpVcRmp1qeEiMNLqMqo) | 3:50 |
 
-Snapshot ID: `MCxkMTJhYzU3OGRlNTc4NmJkMDI5NGM2NmRjMTU4ZmI4MmQ3NWYzYTZm`
+Snapshot ID: `MCwwOWFhZDE2ODE4NzA0NGFkMWVjNTliYzMxYzNhMGI2ZWVhY2IzMGEz`

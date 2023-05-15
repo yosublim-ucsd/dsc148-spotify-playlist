@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Riot Ten
 
-349 songs - 19 hr 57 min
+350 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [GAME OVER](https://open.spotify.com/track/0MwhtZx5lhT4HUey9HPwoW) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5), [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W) | [GAME OVER](https://open.spotify.com/album/1xmqJrt14gPX50jRItkRty) | 2:46 | 2023-03-31 |  |
 | [Gawdam](https://open.spotify.com/track/35LfVddGN6zR5gE78o0EdU) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8) | [Gawdam](https://open.spotify.com/album/0qSMwW0ZBiZJUuFsxmr3Oj) | 2:36 | 2021-12-17 | 2022-03-12 |
 | [GAWT DAT](https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [BERNZIKIAL](https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS) | [GAWT DAT](https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T) | 2:09 | 2022-02-04 | 2022-09-10 |
+| [Get It On](https://open.spotify.com/track/3Ho2FJutH67enqPLYc1K51) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Get It On](https://open.spotify.com/album/0l8a4E9Qc0w6TPHbweipbI) | 3:05 | 2023-05-12 |  |
 | [Get Up](https://open.spotify.com/track/5bW5xB2hInPhcLHhwJXbYR) | [SoDown](https://open.spotify.com/artist/61u2rGJj9r6d7utXK0J0oS), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Get Up](https://open.spotify.com/album/1VxLRJpczwSafsznDhCUtU) | 3:04 | 2022-04-01 | 2022-11-01 |
 | [GIGACHAD](https://open.spotify.com/track/2VXSei3puBk9C8EW5v1MmF) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [GIGACHAD](https://open.spotify.com/album/4ZsbsF13Yc5hSQ4y6XZlnV) | 3:32 | 2022-02-25 | 2023-04-01 |
 | [Go Off](https://open.spotify.com/track/1bAd9fX3dh6qtWaBC0Rw0u) | [Louder Space](https://open.spotify.com/artist/5qbZKHWNHuVAOwZPQtneCV), [DMN](https://open.spotify.com/artist/6sntDbmjDwLQBqaFhcDT7n) | [Go Off](https://open.spotify.com/album/4PQyYCE5lrvbrke8cyTVPM) | 4:14 | 2021-12-17 | 2022-07-29 |
@@ -145,7 +146,7 @@
 | [HARD HEADZ](https://open.spotify.com/track/79DeXXSTNCKwo1Ii6LuGpI) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [HARD HEADZ](https://open.spotify.com/album/18ybB6BbZdJCh3OZmMb4ec) | 4:13 | 2022-11-11 |  |
 | [Haxo \-Sharks Remix](https://open.spotify.com/track/1HIj9nk8ceUK7o87SgXv8o) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Graphyt](https://open.spotify.com/artist/7fDOwYn3gMkegC9nGL0NNK), [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Haxo \(Sharks Remix\)](https://open.spotify.com/album/0iB4RlVaPtgJchRRY8SpVj) | 4:12 | 2022-06-10 | 2023-05-13 |
 | [Heavyweights](https://open.spotify.com/track/5RLo69t3nlQ5YwXsJTYH5i) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu) | [Energy Timewarp](https://open.spotify.com/album/0RrDWUxUMo5BLBZoGPFUyD) | 3:04 | 2022-02-25 | 2022-08-02 |
-| [Higher](https://open.spotify.com/track/5wzp6qTG9HebBeK9lByJs7) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI), [Charmae](https://open.spotify.com/artist/6YwsIfJahtVO1AUlVumEs8) | [Higher](https://open.spotify.com/album/0Sl0PD8pjEBHRk4rX8kac8) | 4:58 | 2023-03-31 |  |
+| [Higher](https://open.spotify.com/track/5wzp6qTG9HebBeK9lByJs7) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI), [Charmae](https://open.spotify.com/artist/6YwsIfJahtVO1AUlVumEs8) | [Higher](https://open.spotify.com/album/0Sl0PD8pjEBHRk4rX8kac8) | 4:58 | 2023-03-31 | 2023-05-15 |
 | [Holla](https://open.spotify.com/track/5ZXKxQWkDCm8RI0JWnBaam) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Holla](https://open.spotify.com/album/4icJQ3JuZV3PW6RVVVvU1A) | 3:02 | 2022-04-01 | 2023-05-13 |
 | [Hollow](https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Hollow](https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd) | 4:00 | 2023-02-06 |  |
 | [Horizon](https://open.spotify.com/track/5dDHmJULJfgacnHLwK68xe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2) | [Closer](https://open.spotify.com/album/4OoqrSbmdPHjdr3GAKGZaQ) | 5:21 | 2022-05-13 | 2022-10-29 |

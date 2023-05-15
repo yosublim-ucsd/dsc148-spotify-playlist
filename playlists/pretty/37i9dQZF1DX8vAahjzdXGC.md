@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,653 likes - 112 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,665 likes - 112 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 101 | [Heaven](https://open.spotify.com/track/3PKd9beBPjwU9RP7e1Bvke) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Heaven](https://open.spotify.com/album/3mjRL9Jz75UKCzwIvXH2DB) | 3:21 |
 | 102 | [MOVE](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [MOVE](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 |
 | 103 | [Not Sorry](https://open.spotify.com/track/3OdlFUOQX41biCMp92B7dq) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [Not Sorry](https://open.spotify.com/album/0kE76uk7BUTXChOxsAHnJZ) | 2:39 |
-| 104 | [PAGE II](https://open.spotify.com/track/5Y2pQsm5ogXBnVyT1dLPOf) | [Spatchies](https://open.spotify.com/artist/0k37BODzpiqtHD9Zq6c1Y0), [ธีรภัทร วงศ์จันทร์เพ็ญ](https://open.spotify.com/artist/03Y0XuoQ8qSpEIAg6n16uZ), [ธรรมรัตน์ ดวงศิริ](https://open.spotify.com/artist/0TOlpDNruc7bXTqzEqXz4e) | [Sketches](https://open.spotify.com/album/71N17YFtsJbNxq8uWShPAL) | 3:54 |
+| 104 | [PAGE II](https://open.spotify.com/track/5Y2pQsm5ogXBnVyT1dLPOf) | [Spatchies](https://open.spotify.com/artist/0k37BODzpiqtHD9Zq6c1Y0), [Tattyxl](https://open.spotify.com/artist/0ICk00SsBQSvzWZLoYZWfS), [ธรรมรัตน์ ดวงศิริ](https://open.spotify.com/artist/0TOlpDNruc7bXTqzEqXz4e) | [Sketches](https://open.spotify.com/album/71N17YFtsJbNxq8uWShPAL) | 3:54 |
 | 105 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 106 | [my stupid feelings](https://open.spotify.com/track/670mNsOhOQopWQMP8eAq1y) | [ÊMIA](https://open.spotify.com/artist/2Q1WubieQ4mTNNf4YOlFGh), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [my stupid feelings](https://open.spotify.com/album/05Rk7Ugl7rnGOceyDrtCsF) | 2:36 |
 | 107 | [make it okay \(change is terrifying\)](https://open.spotify.com/track/0T1SgBVcEkmqYRxyr1s9vo) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [make it okay \(change is terrifying\)](https://open.spotify.com/album/08s5jfhQc3usYnlOXhnvCD) | 4:34 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [All Over Your Body](https://open.spotify.com/track/0fzLeKFa0E77C32S5fZ5ET) | [NICKIIE](https://open.spotify.com/artist/4t9KjIvjkNdv2KFosqr5xT) | [All Over Your Body](https://open.spotify.com/album/2gQ2u1yjazsI7oKuMzvMZ1) | 3:24 |
 | 112 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 |
 
-Snapshot ID: `MCwxOTUyMjRmYzY0MWJkOTE4ZDhmMTJhNjdhZmRmZTYyOGY3ZGE1NTc2`
+Snapshot ID: `MCxmM2M5NzRlNWQ2ZDAyN2YxM2VlNTM4NzlkYzkwYzI5YWRlOWI3NmQw`

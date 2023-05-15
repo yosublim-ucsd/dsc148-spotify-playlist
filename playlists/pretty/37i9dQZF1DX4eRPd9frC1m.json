@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2541791,
+  "num_followers": 2541808,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGY2MDQyNzg0Y2Y0MTBiM2VlYzNhZmQ5NTkyNTM4ZGZhZWRkYTk2",
+  "snapshot_id": "MCxlZTkxZjgwMGMzZDBmZDI3ZWM2Zjc5NDg0ZjQyZDRkZWYzOTAwMWRm",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Never Be The Same (feat. Sara Benyo)",
-        "url": "https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Sara Benyo",
-          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
-        }
-      ],
-      "duration_ms": 230425,
-      "name": "Never Be The Same (feat. Sara Benyo)",
-      "url": "https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "NOVA (The Remixes, Vol. 1)",
         "url": "https://open.spotify.com/album/6jqYfL2en7nuHT7fYfBJQE"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 212571,
       "name": "Undo - AWAY Remix",
       "url": "https://open.spotify.com/track/49v7kRlVxnwrrJzCRxeRXl"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Never Be The Same (feat. Sara Benyo)",
+        "url": "https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
+        }
+      ],
+      "duration_ms": 230425,
+      "name": "Never Be The Same (feat. Sara Benyo)",
+      "url": "https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Grenade",
+        "url": "https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "duration_ms": 248147,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Gainz",
         "url": "https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr"
       },
@@ -1259,18 +1275,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Grenade",
-        "url": "https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL"
+        "name": "Rainbow Brain",
+        "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
       },
       "artists": [
         {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Jantsen",
+          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
         }
       ],
-      "duration_ms": 248147,
-      "name": "Grenade",
-      "url": "https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ"
+      "duration_ms": 226206,
+      "name": "Burn Up The Floor",
+      "url": "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1291,26 +1311,6 @@
       "duration_ms": 169714,
       "name": "Trenches",
       "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Rainbow Brain",
-        "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Jantsen",
-          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Burn Up The Floor",
-      "url": "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "No Limit",
         "url": "https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0"
       },
@@ -1531,26 +1515,42 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "TILL I DIE",
-        "url": "https://open.spotify.com/album/2wWiYLW1cWHnS0gi8ftyHo"
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
       },
       "artists": [
         {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        },
-        {
-          "name": "A$AP TyY",
-          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
         }
       ],
-      "duration_ms": 171810,
-      "name": "TILL I DIE",
-      "url": "https://open.spotify.com/track/2RI6gyxYWRQgvsBqxNgiJB"
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "AD INFINITUM",
+        "url": "https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "SHARPS",
+          "url": "https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8"
+        },
+        {
+          "name": "Hashu",
+          "url": "https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "G.T.F.O.T.W. (feat. Hashu)",
+      "url": "https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty"
     }
   ],
   "unique_name": "Hype",

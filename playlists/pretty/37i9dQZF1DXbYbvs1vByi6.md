@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. it never gets old, no guest list required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,561 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,584 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 49 | [Men's Needs](https://open.spotify.com/track/3qel23hQWhHT3qGewBQ0pE) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Men's Needs, Women's Needs, Whatever \(Standard Version\)](https://open.spotify.com/album/0uf3G2hMRqZ0LOqv6QhZiL) | 3:15 |
 | 50 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 |
 
-Snapshot ID: `MCxhNjFkYzY2YTQ2ODVlN2E4MmZiOTYyODc5ODZjMWMwYWVjOGY5MmY2`
+Snapshot ID: `MCxhM2YxZDhhZTI4Y2MxZWJhZDk0NTIyZjQ2YzRhOGYxZTZlZmM0ZDcx`

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 32348,
+  "num_followers": 32421,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGM0MzZiM2E4ZWMxNjYzY2Y5NWI0ZWU3NjQ5NTJiMWRhZWRmYzFi",
+  "snapshot_id": "MCwyZGU2YzhlODc1MzA3ZmZhNWU4NThhMTVkODBhMmI3ZGJhZWJiZjg3",
   "tracks": [
     {
       "added_at": "2023-05-11 23:00:00",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Eurotape",
+        "url": "https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        },
+        {
+          "name": "tripsyhell",
+          "url": "https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Fada",
+      "url": "https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Sons de Amor",
         "url": "https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 288200,
       "name": "N\u00e3o Me Enganas (feat. Ivandro & Nayr Faquira)",
       "url": "https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Eurotape",
-        "url": "https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6"
-      },
-      "artists": [
-        {
-          "name": "Chico da Tina",
-          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
-        },
-        {
-          "name": "tripsyhell",
-          "url": "https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Fada",
-      "url": "https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Tequila (Studio Version)",
-        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 199376,
-      "name": "Tequila (Studio Version)",
-      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Roll Another One",
         "url": "https://open.spotify.com/album/5QsRYyibg1rSkwTKhWJhPe"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 193269,
       "name": "Roll Another One",
       "url": "https://open.spotify.com/track/0WtWIiMHgYKCX11kOwX6my"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Tequila (Studio Version)",
+        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 199376,
+      "name": "Tequila (Studio Version)",
+      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1111,6 +1111,38 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Nu Ta Combina",
+        "url": "https://open.spotify.com/album/0HrHUZGAPxXZtenHkbPczt"
+      },
+      "artists": [
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        }
+      ],
+      "duration_ms": 200851,
+      "name": "Impressionanti",
+      "url": "https://open.spotify.com/track/0yiExFdxS1wafmmTcKdEHA"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 279423,
+      "name": "Depois da Chuva",
+      "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "LUZ",
         "url": "https://open.spotify.com/album/2EihWuZWFX3O8L6kSPGmm6"
       },
@@ -1139,38 +1171,6 @@
       "duration_ms": 216831,
       "name": "Lua",
       "url": "https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 279423,
-      "name": "Depois da Chuva",
-      "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Nu Ta Combina",
-        "url": "https://open.spotify.com/album/0HrHUZGAPxXZtenHkbPczt"
-      },
-      "artists": [
-        {
-          "name": "DreNaz",
-          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
-        }
-      ],
-      "duration_ms": 200851,
-      "name": "Impressionanti",
-      "url": "https://open.spotify.com/track/0yiExFdxS1wafmmTcKdEHA"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1263,38 +1263,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "HEADS or TAILS",
-        "url": "https://open.spotify.com/album/1AMSJVpNiXRLssl0IZd8WS"
-      },
-      "artists": [
-        {
-          "name": "THE F LIBRA",
-          "url": "https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm"
-        }
-      ],
-      "duration_ms": 221597,
-      "name": "HEADS or TAILS",
-      "url": "https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Ansiedade",
-        "url": "https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV"
-      },
-      "artists": [
-        {
-          "name": "DJ Danifox",
-          "url": "https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL"
-        }
-      ],
-      "duration_ms": 225781,
-      "name": "Chopper",
-      "url": "https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Golo",
         "url": "https://open.spotify.com/album/4xIBKZiRrMQVeL45RJmb3x"
       },
@@ -1311,6 +1279,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "HEADS or TAILS",
+        "url": "https://open.spotify.com/album/1AMSJVpNiXRLssl0IZd8WS"
+      },
+      "artists": [
+        {
+          "name": "THE F LIBRA",
+          "url": "https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm"
+        }
+      ],
+      "duration_ms": 221597,
+      "name": "HEADS or TAILS",
+      "url": "https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Ngana Zambi",
         "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 256144,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Ansiedade",
+        "url": "https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV"
+      },
+      "artists": [
+        {
+          "name": "DJ Danifox",
+          "url": "https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL"
+        }
+      ],
+      "duration_ms": 225781,
+      "name": "Chopper",
+      "url": "https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn"
     },
     {
       "added_at": "2023-05-11 23:00:00",

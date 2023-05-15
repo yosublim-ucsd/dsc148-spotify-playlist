@@ -1136,10 +1136,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-15",
       "duration_ms": 206466,
       "name": "Les elucubrations d'Antoine",
       "url": "https://open.spotify.com/track/6898KjBwWLdsJUH1Tu9rI7"
+    },
+    {
+      "album": {
+        "name": "Cuentame",
+        "url": "https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs"
+      },
+      "artists": [
+        {
+          "name": "Antoine",
+          "url": "https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Les elucubrations d'Antoine",
+      "url": "https://open.spotify.com/track/2yHTeToSYvVE9FuUO3uwHe"
     },
     {
       "album": {

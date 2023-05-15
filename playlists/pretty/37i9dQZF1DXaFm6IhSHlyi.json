@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 138975,
+  "num_followers": 139003,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGJlY2Q1ODE1ZjkwZDZiMjQyNGUwYjdlZTlmOTE4NmJmYjAyYzhm",
+  "snapshot_id": "MCw2MjM5Y2UxMWIyZGQ4ODc0OTdhMGZlN2JlMGQ1ZjY3M2U3YmJkNGJl",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Binalewala",
-        "url": "https://open.spotify.com/album/1793zMKn7sOceKYWdN7yQX"
-      },
-      "artists": [
-        {
-          "name": "Michael Dutchi Libranda",
-          "url": "https://open.spotify.com/artist/6ZdzYE3CEgY0Umgi3Dsgv8"
-        }
-      ],
-      "duration_ms": 268486,
-      "name": "Binalewala - Original Version",
-      "url": "https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "What If I Told You That I Love You",
         "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 193667,
       "name": "What If I Told You That I Love You",
       "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Binalewala",
+        "url": "https://open.spotify.com/album/1793zMKn7sOceKYWdN7yQX"
+      },
+      "artists": [
+        {
+          "name": "Michael Dutchi Libranda",
+          "url": "https://open.spotify.com/artist/6ZdzYE3CEgY0Umgi3Dsgv8"
+        }
+      ],
+      "duration_ms": 268486,
+      "name": "Binalewala - Original Version",
+      "url": "https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 205583,
-      "name": "For You - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Hacia Adentro",
         "url": "https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 243680,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 205583,
+      "name": "For You - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sa Paghimig Mo",
-        "url": "https://open.spotify.com/album/0JzWTRJ2fBl3Egldr14llU"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 236516,
-      "name": "Sa Paghimig Mo",
-      "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Accetto Miracoli",
         "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 225386,
       "name": "In Mezzo A Questo Inverno",
       "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sa Paghimig Mo",
+        "url": "https://open.spotify.com/album/0JzWTRJ2fBl3Egldr14llU"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 236516,
+      "name": "Sa Paghimig Mo",
+      "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 241093,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 178906,
       "name": "Stories",
       "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Flourishing",
-        "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 241093,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5"
-      },
-      "artists": [
-        {
-          "name": "\u6df1\u6839",
-          "url": "https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt"
-        }
-      ],
-      "duration_ms": 225082,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/4RDy6zlwAFeMGGKeeJTwUA"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 230000,
       "name": "111",
       "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5"
+      },
+      "artists": [
+        {
+          "name": "\u6df1\u6839",
+          "url": "https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt"
+        }
+      ],
+      "duration_ms": 225082,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/4RDy6zlwAFeMGGKeeJTwUA"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3"
-      },
-      "artists": [
-        {
-          "name": "Adam Hender",
-          "url": "https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB"
-        }
-      ],
-      "duration_ms": 239803,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "How Is This Love ?",
         "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 331607,
       "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
       "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3"
+      },
+      "artists": [
+        {
+          "name": "Adam Hender",
+          "url": "https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
-      },
-      "artists": [
-        {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
-        }
-      ],
-      "duration_ms": 187535,
-      "name": "The Everyday Bit",
-      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/5SlNvCe8v6F7FhW8DpPF10"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 170156,
       "name": "Patience",
       "url": "https://open.spotify.com/track/3T2e5G5tL6X4gbtxdnVf0l"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
+      },
+      "artists": [
+        {
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+        }
+      ],
+      "duration_ms": 187535,
+      "name": "The Everyday Bit",
+      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Bla Bik",
-        "url": "https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3"
-      },
-      "artists": [
-        {
-          "name": "Nada",
-          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Bla Bik",
-      "url": "https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 228541,
       "name": "You Are",
       "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Bla Bik",
+        "url": "https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3"
+      },
+      "artists": [
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Bla Bik",
+      "url": "https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs"
     },
     {
       "added_at": "2022-10-17 15:00:00",
