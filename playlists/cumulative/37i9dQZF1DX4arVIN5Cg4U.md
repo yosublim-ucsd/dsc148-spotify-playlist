@@ -4,7 +4,7 @@
 
 > Get your bassface on with these classic Dubstep tracks.
 
-90 songs - 6 hr 51 min
+91 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Crush On You](https://open.spotify.com/track/6NJNZKFys2ypAG7L0XKaeT) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:10 | 2020-10-03 |  |
 | [Crush On You](https://open.spotify.com/track/7JJLUJwQCMv7i9lWDvTCLN) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality](https://open.spotify.com/album/02Zb13fM8k04tRwTfMUhe9) | 4:10 | 2020-10-03 | 2022-07-27 |
 | [Dark Matter](https://open.spotify.com/track/0kmABryX13FCanpYXjoYdo) | [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Dark Matter / HP Sauce](https://open.spotify.com/album/38JjEHK0Q9MW0FYqjeWr4m) | 7:00 | 2020-10-03 | 2022-07-29 |
+| [Decisions](https://open.spotify.com/track/2E3wYUlW72BCDsGn5YNgCC) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Decisions \- EP](https://open.spotify.com/album/6VjR9AEeFdSqpIjBkQieqR) | 3:13 | 2020-10-03 |  |
 | [Deeper](https://open.spotify.com/track/5qRe3KNf0uXJpt1RKEAEwI) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Phephe](https://open.spotify.com/artist/6hbDRl5YS14dPDgukOomDc) | [Deeper](https://open.spotify.com/album/5hwtvGZkoGZa3zwB7zM3eB) | 4:42 | 2020-10-03 | 2022-07-29 |
 | [Doomsday](https://open.spotify.com/track/3ziKJoRHiJsaoTaeBYCJBA) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:11 | 2020-10-03 |  |
 | [Doomsday](https://open.spotify.com/track/2C8YrzMqdi6HgijBREcFAk) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality](https://open.spotify.com/album/6GazPcWYAUnvB83tXIbs97) | 4:11 | 2020-10-03 | 2022-07-29 |
@@ -80,7 +81,7 @@
 | [Ruffhouse \(feat\. Rod Azlan\)](https://open.spotify.com/track/7CrJEJxN8IX52KgHYxVsP4) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz), [Rod Azlan](https://open.spotify.com/artist/5ifCekzNY9aSB2RExCeDTW) | [J:Kenzo](https://open.spotify.com/album/4RWMR22mHQEbhOfjNO7GFv) | 5:33 | 2020-10-03 | 2022-07-28 |
 | [Running](https://open.spotify.com/track/1qZO1LW9wVoxBSXF3M1N0S) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than A Lot \(New Edition\)](https://open.spotify.com/album/2q0wnAh21oFg9I2sznnPSA) | 4:47 | 2020-10-03 | 2022-07-27 |
 | [Running](https://open.spotify.com/track/5BW2ieMFF1MhCgdUvbCmP3) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 4:47 | 2020-10-03 |  |
-| [Rutten](https://open.spotify.com/track/28T5MOMLbQ1MMmJAbrrxWr) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skream! \(Expanded Edition\)](https://open.spotify.com/album/1nWIYpBIbSn759fhDYPvrx) | 6:31 | 2020-10-03 |  |
+| [Rutten](https://open.spotify.com/track/28T5MOMLbQ1MMmJAbrrxWr) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skream! \(Expanded Edition\)](https://open.spotify.com/album/1nWIYpBIbSn759fhDYPvrx) | 6:31 | 2020-10-03 | 2023-05-16 |
 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 | 2020-10-03 |  |
 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/5q8oybjZelukF4h0CzSUN9) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites \(Deluxe Tour Edition\)](https://open.spotify.com/album/6HbNEBza64W10MQxUFq6QL) | 4:03 | 2020-10-03 | 2022-07-29 |
 | [Sepia](https://open.spotify.com/track/4vpvkDPQfCVPDS64hBtUbl) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3) | [Altar \- EP](https://open.spotify.com/album/1pxXH6HjtVHsZuR0Atlqor) | 3:04 | 2020-10-03 | 2022-07-29 |

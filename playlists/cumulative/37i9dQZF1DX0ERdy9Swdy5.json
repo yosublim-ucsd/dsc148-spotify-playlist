@@ -874,10 +874,28 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 268526,
       "name": "Eres",
       "url": "https://open.spotify.com/track/2lqLTJzIxifX7690QwvCxF"
+    },
+    {
+      "album": {
+        "name": "A Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268560,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/1aBJ5ljG2GalxEl01vQn04"
     },
     {
       "album": {
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 265733,
       "name": "Hoy Quiero Confesar",
       "url": "https://open.spotify.com/track/04VVASURM79ZfORL5XsJHG"
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 268493,
       "name": "Mi Libertad",
       "url": "https://open.spotify.com/track/5aoiZpjbWrDkWAaGDARn2q"

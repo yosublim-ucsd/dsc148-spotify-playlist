@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 132551,
+  "num_followers": 132882,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDJlMTZlMGYzN2Q5NGNkYjM3NWJkZGY2YWQzOTA3NjJmNGQ5OThj",
+  "snapshot_id": "MCwwMzRjODg2ODY3NDRhNDUyYjdmNWFhZTI2ZmQ1OTQwOWVjODhlOGQ2",
   "tracks": [
     {
       "added_at": "2023-05-02 06:14:26",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 196505,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
         "name": "The Red Summer - Summer Mini Album",
         "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 218993,
       "name": "La Vie en Rose",
       "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
-        "name": "The Most Beautiful Moment in Life: Young Forever",
-        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 196505,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 181196,
+      "name": "Not For Sale",
+      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
         "name": "HANN (Alone)",
         "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 212480,
       "name": "Mixtape : OH",
       "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 181196,
-      "name": "Not For Sale",
-      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -635,6 +635,38 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
+        "name": "DUMDi DUMDi",
+        "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "DUMDi DUMDi",
+      "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 189858,
+      "name": "Let Me In (20 CUBE)",
+      "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
         "name": "Summer Special [Flip That]",
         "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
       },
@@ -663,38 +695,6 @@
       "duration_ms": 185253,
       "name": "My My",
       "url": "https://open.spotify.com/track/4rnvC8St4YDHGuQdBEByRz"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
-        "name": "BORDER : DAY ONE",
-        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 189858,
-      "name": "Let Me In (20 CUBE)",
-      "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
-        "name": "DUMDi DUMDi",
-        "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "DUMDi DUMDi",
-      "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
+        "name": "ONE & SIX",
+        "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 199402,
+      "name": "I'm so sick",
+      "url": "https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
         "name": "BORDER : DAY ONE",
         "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 169800,
       "name": "Drowning (Feat. SOLE)",
       "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
-        "name": "ONE & SIX",
-        "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 199402,
-      "name": "I'm so sick",
-      "url": "https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
+        "name": "Bare&Rare, Pt. 1",
+        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
         "name": "KARD 1st Mini Album 'Hola Hola'",
         "url": "https://open.spotify.com/album/5eJ58cjTjSRGxOPtVeke2Z"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 174880,
       "name": "LALALAY",
       "url": "https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
-        "name": "Bare&Rare, Pt. 1",
-        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
+        "name": "Summer Queen",
+        "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Chi Mat Ba Ram",
+      "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
         "name": "FACE - The 1st Album",
         "url": "https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "Summer Queen",
-        "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
-      },
-      "artists": [
-        {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Chi Mat Ba Ram",
-      "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
         "name": "SEE SEA",
         "url": "https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 200125,
       "name": "SEE SEA",
       "url": "https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/1x9CUUDTZpk8wpeGH9ZAzW"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1x9CUUDTZpk8wpeGH9ZAzW"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
         "name": "WE",
         "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 176906,
       "name": "AH YEAH",
       "url": "https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1411,6 +1395,30 @@
       "duration_ms": 198420,
       "name": "Why Don\u2019t You Know",
       "url": "https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
+        "name": "Move Like This (Feat. YUNA KIM)",
+        "url": "https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        },
+        {
+          "name": "ANYUJIN (IVE)",
+          "url": "https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE"
+        },
+        {
+          "name": "YUNA KIM",
+          "url": "https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Move Like This (Feat. YUNA KIM)",
+      "url": "https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1447,30 +1455,6 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "Move Like This (Feat. YUNA KIM)",
-        "url": "https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        },
-        {
-          "name": "ANYUJIN (IVE)",
-          "url": "https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE"
-        },
-        {
-          "name": "YUNA KIM",
-          "url": "https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Move Like This (Feat. YUNA KIM)",
-      "url": "https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
         "name": "SPECIAL ALBUM <For the Summer>",
         "url": "https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 204833,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1555,42 +1555,6 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "The Blowing",
-        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
-      },
-      "artists": [
-        {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "NOT THE END",
-      "url": "https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
-        "name": "PROMISE U (REVIBE Vol.1)",
-        "url": "https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV"
-      },
-      "artists": [
-        {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
-        },
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "Promise U",
-      "url": "https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf"
-    },
-    {
-      "added_at": "2023-05-02 06:14:26",
-      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
       },
@@ -1603,6 +1567,22 @@
       "duration_ms": 182800,
       "name": "Parade",
       "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
+        "name": "The Blowing",
+        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "NOT THE END",
+      "url": "https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1623,6 +1603,26 @@
       "duration_ms": 187200,
       "name": "OCEAN VIEW (Feat.CHANYEOL)",
       "url": "https://open.spotify.com/track/5f8pHuUR6958PQKIdLibdB"
+    },
+    {
+      "added_at": "2023-05-02 06:14:26",
+      "album": {
+        "name": "PROMISE U (REVIBE Vol.1)",
+        "url": "https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        },
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 207613,
+      "name": "Promise U",
+      "url": "https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf"
     },
     {
       "added_at": "2023-05-02 06:14:26",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-05-02 06:14:26",
       "album": {
-        "name": "GATEWAY",
-        "url": "https://open.spotify.com/album/5mSkyxRRofx2WkVaij09sW"
+        "name": "-77.82x-78.29",
+        "url": "https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI"
       },
       "artists": [
         {
-          "name": "ASTRO",
-          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
         }
       ],
-      "duration_ms": 209280,
-      "name": "When You Call My Name",
-      "url": "https://open.spotify.com/track/1e6OozrLhrFOit0DsCPTv2"
+      "duration_ms": 216093,
+      "name": "NO GOOD REASON",
+      "url": "https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

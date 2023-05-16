@@ -1215,6 +1215,28 @@
     },
     {
       "album": {
+        "name": "YIN YANG TAPES: Summer Season (1989-1990)",
+        "url": "https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277338,
+      "name": "Bloody 98 (feat. Ghostemane)",
+      "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
+    },
+    {
+      "album": {
         "name": "Bloody Crescent",
         "url": "https://open.spotify.com/album/6V8LTX1vyMrJoHxjQ0Ye7R"
       },
@@ -8106,7 +8128,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 116781,
       "name": "TYRANT",
       "url": "https://open.spotify.com/track/1TdvR1RJGlEIGXLA1IXYi0"

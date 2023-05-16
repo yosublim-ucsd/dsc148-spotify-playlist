@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 180072,
+  "num_followers": 180106,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODVjNzZhNjU3YmQxNDA1MjY4Mzg3NjQwMDhjODM1MTJiMzQ4ZWNj",
+  "snapshot_id": "MCw5Yjg1NjRjZDZiNTgwY2FjMjZkZjUyNTlmOTZmZDNmNGQ0MzZkYzNm",
   "tracks": [
     {
       "added_at": "2023-05-04 22:01:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 307172,
       "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -719,38 +719,18 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
+        "name": "The Lingering",
+        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
       },
       "artists": [
         {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
         }
       ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
-        "name": "Time of Waiting",
-        "url": "https://open.spotify.com/album/55d318EyF219Cbnei0f0wV"
-      },
-      "artists": [
-        {
-          "name": "Tommy Berre",
-          "url": "https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt"
-        },
-        {
-          "name": "Roberto Dalla Vecchia",
-          "url": "https://open.spotify.com/artist/7bfm99qXAlGJQrkcudmwyA"
-        }
-      ],
-      "duration_ms": 168583,
-      "name": "Time of Waiting",
-      "url": "https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq"
+      "duration_ms": 193622,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -771,18 +751,18 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "The Lingering",
-        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
       },
       "artists": [
         {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 193622,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -799,6 +779,26 @@
       "duration_ms": 224179,
       "name": "October",
       "url": "https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
+        "name": "Time of Waiting",
+        "url": "https://open.spotify.com/album/55d318EyF219Cbnei0f0wV"
+      },
+      "artists": [
+        {
+          "name": "Tommy Berre",
+          "url": "https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt"
+        },
+        {
+          "name": "Roberto Dalla Vecchia",
+          "url": "https://open.spotify.com/artist/7bfm99qXAlGJQrkcudmwyA"
+        }
+      ],
+      "duration_ms": 168583,
+      "name": "Time of Waiting",
+      "url": "https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "Buffy",
-        "url": "https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Buffy",
-      "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
         "name": "N\u00e6rmere",
         "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 288678,
       "name": "Stilla",
       "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
+        "name": "Buffy",
+        "url": "https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Buffy",
+      "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -919,8 +919,8 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "Br\u00e5tebrann (Vinyl Edition)",
-        "url": "https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F"
+        "name": "Tran\u00f8y fyr",
+        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 288973,
-      "name": "Spor i sand",
-      "url": "https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE"
+      "duration_ms": 236480,
+      "name": "Tran\u00f8y fyr",
+      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "Sumie",
-        "url": "https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg"
+        "name": "May",
+        "url": "https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl"
       },
       "artists": [
         {
-          "name": "Sumie",
-          "url": "https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan"
+          "name": "Broken Twin",
+          "url": "https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX"
         }
       ],
-      "duration_ms": 195741,
-      "name": "Hunting Sky",
-      "url": "https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO"
+      "duration_ms": 214986,
+      "name": "Glimpse of a Time",
+      "url": "https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu"
     }
   ],
   "unique_name": "Nordic Folk",

@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. girli
 
-525 songs - 1 day 0 hr 46 min
+526 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 | 2022-07-15 |
 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 | 2022-10-28 | 2023-03-03 |
 | [CEO OF MY ASS](https://open.spotify.com/track/2ZDKYbeCuzfEE2inGU5Ybj) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [CEO OF MY ASS](https://open.spotify.com/album/2rmZayJCme9uQLV2MnNXfp) | 2:04 | 2022-06-23 | 2022-09-30 |
+| [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-15 |  |
 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 | 2022-04-19 | 2022-04-29 |
 | [CHAOS](https://open.spotify.com/track/2jddZTHfshojFoIiuAs0zp) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [CHAOS](https://open.spotify.com/album/7vNoEhF5nw6OltQxoeIgtE) | 2:56 | 2022-03-31 | 2022-08-05 |
 | [Cheap Love](https://open.spotify.com/track/6wXeopx3eNpkqZMNDR0B8P) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Cheap Love](https://open.spotify.com/album/3GS9722YN1sHJYSO39HwW9) | 3:05 | 2023-03-30 |  |
@@ -458,7 +459,7 @@
 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 | 2023-03-10 | 2023-03-31 |
 | [Surrender](https://open.spotify.com/track/7FPqhm4DioOegiFpJS5lzH) | [VR SEX](https://open.spotify.com/artist/0L9DzGxpz3Pn5cOk3VzkMr) | [Human Traffic Jam](https://open.spotify.com/album/15AVDnJQc2gzARopL0fOC0) | 5:38 | 2022-08-04 | 2022-09-09 |
 | [survival of the littest](https://open.spotify.com/track/3VtoWz29VkRNtCMKfn6VZv) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM) | 2:12 | 2022-05-19 | 2022-08-05 |
-| [Swallow](https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Swallow](https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134) | 3:09 | 2023-01-13 |  |
+| [Swallow](https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Swallow](https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134) | 3:09 | 2023-01-13 | 2023-05-16 |
 | [Sweet Sweet](https://open.spotify.com/track/6GMKSAc1546d4mMen2UHd3) | [xDZVONx](https://open.spotify.com/artist/0EVHp9A1Qu3JIkeiOaHRW0) | [Sweet Sweet](https://open.spotify.com/album/17kfWL3qV8fIZWmAQexElT) | 2:31 | 2023-01-27 |  |
 | [Talking To Myself](https://open.spotify.com/track/770scgQUE3GaT1HeemGdtp) | [EMMETH](https://open.spotify.com/artist/1C4YaCx7UmWLQrycPwu7Dy), [Lil Tytan](https://open.spotify.com/artist/6xPylMjsDB2ZlarNnsSmev) | [Talking To Myself](https://open.spotify.com/album/7iqocKiDfPid4GJNbzB0ql) | 2:12 | 2022-11-11 | 2023-01-22 |
 | [the boy has to go](https://open.spotify.com/track/4FjpjCIamZBgedcleaCvXW) | [SCARLET](https://open.spotify.com/artist/284gfU2jTQOAWk8WJgYKUj) | [the boy has to go](https://open.spotify.com/album/0aVw3K6DI8SaVyriGFnacg) | 2:45 | 2022-10-27 | 2023-01-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 96417,
+  "num_followers": 96484,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTM3NDFhNDE2ZGU1Yjg0MGY3YTIzMTk3MGU2YjZhY2ZlOGYxYzRi",
+  "snapshot_id": "MCw4NjI5YmU4NTA1ODQ2M2JlNTFjYTViYmUzNjAxY2MyZjMyZjJkMTBk",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Lucid Dreams",
-        "url": "https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0"
-      },
-      "artists": [
-        {
-          "name": "Slumberville",
-          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
-        }
-      ],
-      "duration_ms": 116417,
-      "name": "Ladybug",
-      "url": "https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Chill in Lydda",
         "url": "https://open.spotify.com/album/2oJRkGteUQziUCaE16Gxvu"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 156000,
       "name": "Chill in Lydda",
       "url": "https://open.spotify.com/track/205BdRvvSaHf4LldyoRIkM"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0"
+      },
+      "artists": [
+        {
+          "name": "Slumberville",
+          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
+        }
+      ],
+      "duration_ms": 116417,
+      "name": "Ladybug",
+      "url": "https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -303,18 +303,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Glazed",
-        "url": "https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12"
+        "name": "HAAT",
+        "url": "https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn"
       },
       "artists": [
         {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
         }
       ],
-      "duration_ms": 159560,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD"
+      "duration_ms": 150821,
+      "name": "HAAT - Instrumental",
+      "url": "https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -335,34 +335,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "HAAT",
-        "url": "https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn"
+        "name": "Glazed",
+        "url": "https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12"
       },
       "artists": [
         {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
         }
       ],
-      "duration_ms": 150821,
-      "name": "HAAT - Instrumental",
-      "url": "https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Above the Clouds",
-        "url": "https://open.spotify.com/album/0An0CtQgoD3lTBajLZ5BKT"
-      },
-      "artists": [
-        {
-          "name": "DJ Lethal Skillz",
-          "url": "https://open.spotify.com/artist/7F3kgeoTzXbi5JLPylw4qW"
-        }
-      ],
-      "duration_ms": 195353,
-      "name": "Lifted",
-      "url": "https://open.spotify.com/track/7Gtaq3mJs8K4CY58TjCk9j"
+      "duration_ms": 159560,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -383,6 +367,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Above the Clouds",
+        "url": "https://open.spotify.com/album/0An0CtQgoD3lTBajLZ5BKT"
+      },
+      "artists": [
+        {
+          "name": "DJ Lethal Skillz",
+          "url": "https://open.spotify.com/artist/7F3kgeoTzXbi5JLPylw4qW"
+        }
+      ],
+      "duration_ms": 195353,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/7Gtaq3mJs8K4CY58TjCk9j"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Chasin Daisys",
         "url": "https://open.spotify.com/album/7GT5JveFqzf8ugLQOaunBe"
       },
@@ -399,22 +399,6 @@
       "duration_ms": 131707,
       "name": "Chasin Daisys",
       "url": "https://open.spotify.com/track/6Ubd7b9qq9gihaR8WElv7m"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Rudimentary",
-        "url": "https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy"
-      },
-      "artists": [
-        {
-          "name": "Ballpoint",
-          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
-        }
-      ],
-      "duration_ms": 129098,
-      "name": "Spectra",
-      "url": "https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -447,6 +431,22 @@
       "duration_ms": 217163,
       "name": "Adults",
       "url": "https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Rudimentary",
+        "url": "https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy"
+      },
+      "artists": [
+        {
+          "name": "Ballpoint",
+          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+        }
+      ],
+      "duration_ms": 129098,
+      "name": "Spectra",
+      "url": "https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Skye",
-        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
-      },
-      "artists": [
-        {
-          "name": "Off / Side",
-          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
-        }
-      ],
-      "duration_ms": 190098,
-      "name": "Skye",
-      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Stay at Home",
         "url": "https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 175384,
       "name": "Stay at Home",
       "url": "https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Skye",
+        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
+      },
+      "artists": [
+        {
+          "name": "Off / Side",
+          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
+        }
+      ],
+      "duration_ms": 190098,
+      "name": "Skye",
+      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Eshkol",
-        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Eshkol",
-      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "SMOK",
         "url": "https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 212000,
       "name": "Qahwah Con Leche",
       "url": "https://open.spotify.com/track/3tUdYudStuFWmlb43jvo24"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Eshkol",
+        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Eshkol",
+      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
     },
     {
       "added_at": "2022-03-22 11:23:16",

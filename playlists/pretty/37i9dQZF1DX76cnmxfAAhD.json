@@ -1,12 +1,12 @@
 {
   "description": "Ultimate mix of songs from the 1990s to insure a good time while on the road.",
-  "num_followers": 501198,
+  "num_followers": 501950,
   "original_name": "90s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTU4ZGE3YTViYWJjN2YxNDFmODA0NzQ1MGNiNzRjZThiN2QwYjQz",
+  "snapshot_id": "MCw0OTEyNTRiNmY1YmJjNDkxNjk1MzAzZGNmZjY5YmU3NzBkMzBlMzRj",
   "tracks": [
     {
       "added_at": "2023-01-03 14:44:23",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Superunknown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 318586,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Remember the Time",
-      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 242106,
       "name": "Learning To Fly",
       "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Remember the Time",
+      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "Tal Bachman",
         "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 188066,
       "name": "Hard To Handle",
       "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Stunt (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
-      },
-      "artists": [
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "One Week",
-      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 214400,
       "name": "Friday I'm in Love",
       "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Stunt (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Women In Technology",
-        "url": "https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6"
-      },
-      "artists": [
-        {
-          "name": "White Town",
-          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "Your Woman",
-      "url": "https://open.spotify.com/track/4ACxa9buEUnOdYEoPcnMpi"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Desireless",
         "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Brigade",
-        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
+        "name": "Women In Technology",
+        "url": "https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "White Town",
+          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
         }
       ],
-      "duration_ms": 310893,
-      "name": "All I Wanna Do Is Make Love To You",
-      "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
+      "duration_ms": 259893,
+      "name": "Your Woman",
+      "url": "https://open.spotify.com/track/4ACxa9buEUnOdYEoPcnMpi"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1543,6 +1527,22 @@
       "duration_ms": 279600,
       "name": "Would I Lie To You?",
       "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Brigade",
+        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "All I Wanna Do Is Make Love To You",
+      "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Joyride (Extended Version)",
-        "url": "https://open.spotify.com/album/5WVNP6IBwMSULc0wehXW8N"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "Fading Like A Flower (Every Time You Leave)",
-      "url": "https://open.spotify.com/track/3r6lBKYbdru7e7ky2MiF75"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 316466,
       "name": "Crash into Me",
       "url": "https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Joyride (Extended Version)",
+        "url": "https://open.spotify.com/album/5WVNP6IBwMSULc0wehXW8N"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 230680,
+      "name": "Fading Like A Flower (Every Time You Leave)",
+      "url": "https://open.spotify.com/track/3r6lBKYbdru7e7ky2MiF75"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Schubert Dip",
-        "url": "https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe"
-      },
-      "artists": [
-        {
-          "name": "EMF",
-          "url": "https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Unbelievable",
-      "url": "https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 232066,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Schubert Dip",
+        "url": "https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe"
+      },
+      "artists": [
+        {
+          "name": "EMF",
+          "url": "https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Unbelievable",
+      "url": "https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Sheryl Crow",
-        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 323400,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Come On Over (Internationl Version / Special Edition)",
         "url": "https://open.spotify.com/album/2eiMbazzkhkBAD2qRujLop"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 238641,
       "name": "That Don't Impress Me Much - International Mix",
       "url": "https://open.spotify.com/track/54m5HrUjtbaeLQ7RX5Ilk1"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Sheryl Crow",
+        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 323400,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "C.M.B.",
-        "url": "https://open.spotify.com/album/17mrdLXkhmlY36jRm9cUbw"
-      },
-      "artists": [
-        {
-          "name": "Color Me Badd",
-          "url": "https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG"
-        }
-      ],
-      "duration_ms": 236946,
-      "name": "I Wanna Sex You Up - Single Mix",
-      "url": "https://open.spotify.com/track/1kPBHRXyXdrtYfUfeRwBko"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Move Until We Fly",
         "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 240773,
       "name": "I Promised Myself",
       "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "C.M.B.",
+        "url": "https://open.spotify.com/album/17mrdLXkhmlY36jRm9cUbw"
+      },
+      "artists": [
+        {
+          "name": "Color Me Badd",
+          "url": "https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG"
+        }
+      ],
+      "duration_ms": 236946,
+      "name": "I Wanna Sex You Up - Single Mix",
+      "url": "https://open.spotify.com/track/1kPBHRXyXdrtYfUfeRwBko"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Violator (2006 Remaster)",
-        "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 294040,
-      "name": "Policy of Truth - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0C6EIiQu8CS4eYtOCMEiAd"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Blacks' Magic",
         "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 334386,
       "name": "Creep - 2017 Remaster",
       "url": "https://open.spotify.com/track/6dmueYtoihUhlQZlImBCmm"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Violator (2006 Remaster)",
+        "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 294040,
+      "name": "Policy of Truth - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0C6EIiQu8CS4eYtOCMEiAd"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "Always On The Run",
-      "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Cooleyhighharmony (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 235226,
       "name": "Motownphilly",
       "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "Always On The Run",
+      "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2791,22 +2791,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 293105,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "America's Least Wanted",
         "url": "https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR"
       },
@@ -2851,6 +2835,22 @@
       "duration_ms": 382266,
       "name": "Whatever - Remastered",
       "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 293105,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Mr. Wendal",
-      "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "We Can't Dance",
         "url": "https://open.spotify.com/album/1lCuwXVtx72gZN0iT20TmO"
       },
@@ -3019,18 +3003,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "80's & 90's Jams! Hits of the Decade",
-        "url": "https://open.spotify.com/album/3cyC3DUwdsVFqj1ltKuYUC"
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
       },
       "artists": [
         {
-          "name": "P.M. Dawn",
-          "url": "https://open.spotify.com/artist/5RwYolhMWFlt79aBX5sGfw"
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
         }
       ],
-      "duration_ms": 235800,
-      "name": "Set Adrift on Memory Bliss (Re-Recorded)",
-      "url": "https://open.spotify.com/track/0qiF6U6WT4nGQTQnhU1chs"
+      "duration_ms": 247506,
+      "name": "Mr. Wendal",
+      "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -3055,6 +3039,22 @@
       "duration_ms": 237506,
       "name": "Twist And Shout",
       "url": "https://open.spotify.com/track/4wrS2dvdYei9jZN0JlUBP6"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "80's & 90's Jams! Hits of the Decade",
+        "url": "https://open.spotify.com/album/3cyC3DUwdsVFqj1ltKuYUC"
+      },
+      "artists": [
+        {
+          "name": "P.M. Dawn",
+          "url": "https://open.spotify.com/artist/5RwYolhMWFlt79aBX5sGfw"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "Set Adrift on Memory Bliss (Re-Recorded)",
+      "url": "https://open.spotify.com/track/0qiF6U6WT4nGQTQnhU1chs"
     },
     {
       "added_at": "2023-01-03 14:44:23",

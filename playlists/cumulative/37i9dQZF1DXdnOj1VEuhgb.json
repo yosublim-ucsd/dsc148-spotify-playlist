@@ -1289,6 +1289,32 @@
     },
     {
       "album": {
+        "name": "KYOTO/GEISHA",
+        "url": "https://open.spotify.com/album/7xFfe4vRZ1xLcrRoTgit1W"
+      },
+      "artists": [
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        },
+        {
+          "name": "Cotard",
+          "url": "https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8"
+        },
+        {
+          "name": "Emrah Turken",
+          "url": "https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "KYOTO/GEISHA",
+      "url": "https://open.spotify.com/track/3YbEPt5omnMtMvvfIWllPd"
+    },
+    {
+      "album": {
         "name": "MARS",
         "url": "https://open.spotify.com/album/4zdB94jhyyJoaG1iyylZvq"
       },
@@ -1764,7 +1790,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 132571,
       "name": "Rol",
       "url": "https://open.spotify.com/track/5ouX13VSFgp5XGawCTprLW"

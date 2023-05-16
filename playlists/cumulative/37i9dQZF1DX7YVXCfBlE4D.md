@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-373 songs - 18 hr 18 min
+375 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Cuando Ya No Me Quieras](https://open.spotify.com/track/4aWWhnZ3izYAfmmCSOkqlM) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Tito With Love](https://open.spotify.com/album/3fAbfV4TGbi2El5oFlV1WJ) | 2:58 | 2022-01-21 |  |
 | [Cuando Ya No Me Quieras](https://open.spotify.com/track/77KSVeUtWyUulX2dGo7Frp) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Sabor a Bolero](https://open.spotify.com/album/30T9OyYzmJkcjQ1Sa29Fgp) | 2:59 | 2022-01-21 | 2022-11-13 |
 | [Cuidadito, Cuidadito](https://open.spotify.com/track/2eNyia284twoi86yKlDFxV) | [Maria Victoria](https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb) | [Dame Que Te Doy](https://open.spotify.com/album/61TnSCAvXeFGjVF5TVSjJs) | 3:11 | 2021-05-15 | 2022-07-29 |
-| [Cuidadito, Cuidadito](https://open.spotify.com/track/2wbhsA8q85vyULsa50UBoe) | [Maria Victoria](https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb) | [Almas del Bolero](https://open.spotify.com/album/2usuClqnPxDeDHBzZZdbLw) | 3:11 | 2022-01-21 |  |
+| [Cuidadito, Cuidadito](https://open.spotify.com/track/2wbhsA8q85vyULsa50UBoe) | [Maria Victoria](https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb) | [Almas del Bolero](https://open.spotify.com/album/2usuClqnPxDeDHBzZZdbLw) | 3:11 | 2022-01-21 | 2023-05-16 |
+| [Cuidadito, Cuidadito](https://open.spotify.com/track/6eMxxt9iziFpTmXzxN5sFc) | [Maria Victoria](https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb) | [Tesoros de Colección \- María Victoria \(Celebrando 60 Años de Historia Musical\)](https://open.spotify.com/album/7n6fO3Gcbl83fErBx0A2S4) | 3:13 | 2022-12-30 |  |
 | [Cómo Han Pasado Los Años](https://open.spotify.com/track/76pVkjsBBjrO1Cn6pLw8sk) | [Esmeralda Olasabal](https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH) | [Esmeralda Olasabal](https://open.spotify.com/album/2BM3B53KjhWy8MGMHCRy8v) | 4:01 | 2021-05-15 |  |
 | [Dame Mi Corazón \- Bolero](https://open.spotify.com/track/1wv0V9bXlxGOcu32HuIdTM) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Sonora Santanera \- Luces De New York](https://open.spotify.com/album/1LylU3ubmE1EE5giv9NTqm) | 3:01 | 2022-01-21 |  |
 | [De Cigarro en Cigarro](https://open.spotify.com/track/6LB5hr3XF8gdnJITmTF5gH) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 3:07 | 2022-01-21 |  |
@@ -145,7 +146,8 @@
 | [Frenesí](https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Boleros Bonitos](https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg) | 2:49 | 2021-05-15 |  |
 | [Gema](https://open.spotify.com/track/1v2XBanPZytVy4tewN8Q93) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Enlace](https://open.spotify.com/album/4eZnZivzONzA8DReJQUlbl) | 2:32 | 2021-05-15 | 2022-01-22 |
 | [Granito de Sal](https://open.spotify.com/track/6Das3siX1mj9ZY9kk7Gtx9) | [Guty Cárdenas](https://open.spotify.com/artist/1XXNhXjfbtXeW1amhbUKIW) | [Las Estrellas De La Hora Azul](https://open.spotify.com/album/6Uzg3WMmliknLO5y6s1yH4) | 2:57 | 2022-01-21 | 2022-07-29 |
-| [Granito de Sal](https://open.spotify.com/track/49ybsS7jARvUFI1B21uWwN) | [Guty Cárdenas](https://open.spotify.com/artist/1XXNhXjfbtXeW1amhbUKIW) | [La Gran Coleccion Del 60 Aniversario CBS \- Guty Cardenas](https://open.spotify.com/album/2UQRSutnjzjGI1JLdYwPvM) | 2:58 | 2022-01-21 |  |
+| [Granito de Sal](https://open.spotify.com/track/5zHiWkIvWCGZQ3jBemOYVg) | [Guty Cárdenas](https://open.spotify.com/artist/1XXNhXjfbtXeW1amhbUKIW) | [Un Siglo..\. De Recuerdos Con El Mas Grande Trovador Mexicano Guty Cardenas](https://open.spotify.com/album/4o0wE1QwrpQmb5ndTQl0nW) | 2:57 | 2022-12-30 |  |
+| [Granito de Sal](https://open.spotify.com/track/49ybsS7jARvUFI1B21uWwN) | [Guty Cárdenas](https://open.spotify.com/artist/1XXNhXjfbtXeW1amhbUKIW) | [La Gran Coleccion Del 60 Aniversario CBS \- Guty Cardenas](https://open.spotify.com/album/2UQRSutnjzjGI1JLdYwPvM) | 2:58 | 2022-01-21 | 2023-05-16 |
 | [Granito De Sal](https://open.spotify.com/track/4hiAZMOwvkmmFJ9MjJuqF5) | [Guty Cárdenas](https://open.spotify.com/artist/1XXNhXjfbtXeW1amhbUKIW) | [Qué Te Ha Dado Esa Mujer](https://open.spotify.com/album/480c8ehhudMKlV8S1FfpXO) | 2:59 | 2022-01-21 | 2022-11-13 |
 | [Guantanamera](https://open.spotify.com/track/2apgz0JhPuDcEslrWzbJ2F) | [Los 3 Paraguayos](https://open.spotify.com/artist/4d2uAPKUyg1aMWXOnyPibN) | [Boleros Tríos, Vol\. 1](https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA) | 3:08 | 2021-05-15 |  |
 | [He perdido contigo](https://open.spotify.com/track/3253prbfEMwMJUKxKvlSBI) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:47 | 2022-01-21 |  |

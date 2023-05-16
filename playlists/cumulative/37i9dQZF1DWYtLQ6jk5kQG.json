@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 178200,
       "name": "Amor de Mis Amores",
       "url": "https://open.spotify.com/track/5LI6baS6dpvHBDlQUzn1S7"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184773,
       "name": "Amor de Mis Amores",
       "url": "https://open.spotify.com/track/6ykbMeaYP0fcADEFAn65Y9"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209173,
       "name": "El Amor...Cosa Tan Rara",
       "url": "https://open.spotify.com/track/46VfNbTLGFZUZkbcsihWU8"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 209933,
       "name": "El Amor...Cosa Tan Rara",
       "url": "https://open.spotify.com/track/17a9qgo9YytWpRrz1KkXiq"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170800,
       "name": "Melina",
       "url": "https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 168253,
       "name": "Melina - Remasterizado",
       "url": "https://open.spotify.com/track/1VIE012Xl6cTjVLXnfQNUq"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 193546,
       "name": "Nunca Cambies",
       "url": "https://open.spotify.com/track/5TSpVVe4Fr3im9sNfSBSo5"
@@ -1424,6 +1424,24 @@
       "duration_ms": 196746,
       "name": "Nunca Cambies",
       "url": "https://open.spotify.com/track/3IABXM6njNG4S0ms82kchS"
+    },
+    {
+      "album": {
+        "name": "20 Aut\u00e9nticos \u00c9xitos Originales - Napole\u00f3n",
+        "url": "https://open.spotify.com/album/4OQ2rybmMU5Ls6oSuxMOxH"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Nunca Cambies",
+      "url": "https://open.spotify.com/track/1Nfd7GYxs62AIh2T72W60h"
     },
     {
       "album": {

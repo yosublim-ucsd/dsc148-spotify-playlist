@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Jonas Brothers, Lil Durk & J\. Cole, Charlotte Cardin, and BABY GRAVY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,243 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,257 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [dressing room](https://open.spotify.com/track/49s62sKc0M1Mq2gS2uJgPC) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [dressing room](https://open.spotify.com/album/4wEzDAzUkRjj2Zef7iO49k) | 3:16 |
 | 100 | [Vati\-Klan](https://open.spotify.com/track/1a26LRo4cZzzwQm9dJQSSX) | [Q052](https://open.spotify.com/artist/2T6gwpmENgpNZTWLJ2bKVE) | [Vati\-Klan](https://open.spotify.com/album/0x7Zsa4qgdyFYKfnPFbN0c) | 2:58 |
 
-Snapshot ID: `MCxmYmQ4MzI3N2YyYWIyOGZjZWNkYWFhZGI4NGRmMjFmZDA3NGJiZmMz`
+Snapshot ID: `MCwyNTNlOGMzMjI2MjE1YzI0YjkxMDM4MTEzMDJiNjMwMTk1MGVlMGEx`

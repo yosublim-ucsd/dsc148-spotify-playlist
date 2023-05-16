@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-146 songs - 12 hr 11 min
+147 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Believe For It \(Eu Creio\)](https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It \(Eu Creio\)](https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK) | 5:38 | 2022-08-25 |  |
 | [Bisengo ya lola](https://open.spotify.com/track/30m1YigY1INpbNVD5Polg5) | [Mike Kalambay](https://open.spotify.com/artist/6JrKAZX6GY55wH27xlcMX9) | [Bisengo ya lola](https://open.spotify.com/album/15pCjtn5maKwQjXrc1QHcd) | 7:29 | 2023-04-07 | 2023-04-28 |
 | [Blessed](https://open.spotify.com/track/2jPpjqNgpYiOfarRH5A1p2) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt), [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ) | [Blessed](https://open.spotify.com/album/43a4ZtP3TRzwWQiF3nU1Yr) | 5:09 | 2023-03-03 | 2023-04-15 |
-| [Blessings](https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Blessings](https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW) | 2:41 | 2022-06-30 |  |
+| [Blessings](https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Blessings](https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW) | 2:41 | 2022-06-30 | 2023-05-16 |
 | [Blessings Follow Me](https://open.spotify.com/track/6K2Pm2e6qTqb1vC8qT3INV) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4), [KS Bloom](https://open.spotify.com/artist/5tjO5VGPByZF90lhuAQc6A) | [Blessings Follow Me](https://open.spotify.com/album/2x7GuHDER800C7nHwUTZrm) | 2:45 | 2022-09-30 | 2023-05-08 |
 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 | 2022-06-30 |  |
 | [Clarity](https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:34 | 2022-06-30 | 2023-01-20 |
@@ -137,6 +137,7 @@
 | [This can only be God](https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [This can only be God](https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q) | 3:38 | 2023-03-03 |  |
 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 | 2022-06-30 |  |
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2023-02-20 |  |
+| [TOTORI \(The Name of Jesus\)](https://open.spotify.com/track/21rTE3IBtnxuVE1tmt90Ac) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/album/6QKDQjlkZlsm2V0T4gxjZj) | 3:24 | 2023-05-12 |  |
 | [VIBES](https://open.spotify.com/track/05ee5RwDmyeOpIQeshWlJq) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY) | [VIBES](https://open.spotify.com/album/1JB6EdMUgU9PwXNsGCvyAP) | 3:13 | 2022-06-30 | 2023-03-31 |
 | [Victory](https://open.spotify.com/track/6yZu268Sq4D1xfEY0Q9x8f) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [Johnny Haick](https://open.spotify.com/artist/3uSVYg6uMnIBv06tyILBj3) | [Victory](https://open.spotify.com/album/1IJgW1LInx1jkRSSLegyRL) | 7:55 | 2022-06-30 | 2023-01-21 |
 | [VICTORY DANCE](https://open.spotify.com/track/0bRt230xIYDhNJ6fC1voSt) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [VICTORY DANCE](https://open.spotify.com/album/4HOinc1ltZLvIjmHlA2E2M) | 9:53 | 2023-03-30 |  |

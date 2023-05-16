@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 552311,
+  "num_followers": 552414,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTFiYzZjNzJhZWI2NGE3MmVkMDUwNWU4ZDUyZGQ4NGI5ODNmYjk5",
+  "snapshot_id": "MCxhMDVmMjQ2MWIxN2RmZTI2NjhhMjJmZTBmZWZiYjk2NDNkYTExZGQ3",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/2REjRtNDCn61o7cafbTCaA"
     },
     {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Half-Bloom",
-        "url": "https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5"
-      },
-      "artists": [
-        {
-          "name": "Asta Hiroki",
-          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Half-Bloom",
-      "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Feed Me Weird Things (Remastered)",
@@ -439,6 +423,22 @@
       "duration_ms": 223475,
       "name": "Dr. Disclosure",
       "url": "https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA"
+    },
+    {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Half-Bloom",
+        "url": "https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5"
+      },
+      "artists": [
+        {
+          "name": "Asta Hiroki",
+          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Half-Bloom",
+      "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
     },
     {
       "added_at": "2022-04-25 13:59:49",
@@ -805,6 +805,22 @@
       "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
     },
     {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Night Lands",
+        "url": "https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82"
+      },
+      "artists": [
+        {
+          "name": "Sunda Arc",
+          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
+        }
+      ],
+      "duration_ms": 308313,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Praise the Sun",
@@ -823,22 +839,6 @@
       "duration_ms": 309532,
       "name": "The Great Conjunction",
       "url": "https://open.spotify.com/track/3XE0173HJVx4L34FqdakeK"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Night Lands",
-        "url": "https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82"
-      },
-      "artists": [
-        {
-          "name": "Sunda Arc",
-          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
-        }
-      ],
-      "duration_ms": 308313,
-      "name": "Beacons",
-      "url": "https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Above Us",
-        "url": "https://open.spotify.com/album/5JDYGlqd6K6xmQJWtANYZa"
-      },
-      "artists": [
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Above Us",
-      "url": "https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0"
-    },
-    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Thoughts Under Water",
@@ -975,6 +959,22 @@
       "duration_ms": 203597,
       "name": "I Love Her",
       "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Above Us",
+        "url": "https://open.spotify.com/album/5JDYGlqd6K6xmQJWtANYZa"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Above Us",
+      "url": "https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -1017,26 +1017,6 @@
       "url": "https://open.spotify.com/track/7jl8cROOmTLw7Cj097oN5m"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "The Pilot",
-        "url": "https://open.spotify.com/album/4WrzOyPrCEE9s9FVzWYhUL"
-      },
-      "artists": [
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        },
-        {
-          "name": "Bao",
-          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
-        }
-      ],
-      "duration_ms": 186414,
-      "name": "The Pilot",
-      "url": "https://open.spotify.com/track/6Vd9oj4XJPExClsCa9O6q2"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "The Whales",
@@ -1075,6 +1055,26 @@
       "duration_ms": 135999,
       "name": "Northbound",
       "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/4WrzOyPrCEE9s9FVzWYhUL"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Bao",
+          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
+        }
+      ],
+      "duration_ms": 186414,
+      "name": "The Pilot",
+      "url": "https://open.spotify.com/track/6Vd9oj4XJPExClsCa9O6q2"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/0un4iPkl5VKOBDB7toAfDL"
     },
     {
+      "added_at": "2021-10-08 04:02:00",
+      "album": {
+        "name": "Bonzai View",
+        "url": "https://open.spotify.com/album/6GT1SMUUhwBwbEZrRpabfa"
+      },
+      "artists": [
+        {
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+        }
+      ],
+      "duration_ms": 212527,
+      "name": "Bonzai View",
+      "url": "https://open.spotify.com/track/5qhfbZ9QWxujhlokGPPY4C"
+    },
+    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "The Universe",
@@ -1161,20 +1177,20 @@
       "url": "https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
+      "added_at": "2021-02-26 05:01:00",
       "album": {
-        "name": "Deep in the Pocket",
-        "url": "https://open.spotify.com/album/5biMirupjO0D7M8lOetEid"
+        "name": "Panspermia",
+        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
       },
       "artists": [
         {
-          "name": "Pablo Queu",
-          "url": "https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 224971,
-      "name": "Kountdown",
-      "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
+      "duration_ms": 188000,
+      "name": "Panspermia",
+      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -1205,20 +1221,20 @@
       "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
+      "added_at": "2021-04-02 05:01:00",
       "album": {
-        "name": "Panspermia",
-        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
+        "name": "Deep in the Pocket",
+        "url": "https://open.spotify.com/album/5biMirupjO0D7M8lOetEid"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Pablo Queu",
+          "url": "https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Panspermia",
-      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
+      "duration_ms": 224971,
+      "name": "Kountdown",
+      "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1261,20 +1277,20 @@
       "url": "https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg"
     },
     {
-      "added_at": "2021-10-08 04:02:00",
+      "added_at": "2021-07-30 04:01:00",
       "album": {
-        "name": "Bonzai View",
-        "url": "https://open.spotify.com/album/6GT1SMUUhwBwbEZrRpabfa"
+        "name": "Come Out and Play",
+        "url": "https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X"
       },
       "artists": [
         {
-          "name": "Potatohead People",
-          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+          "name": "Umziky",
+          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
         }
       ],
-      "duration_ms": 212527,
-      "name": "Bonzai View",
-      "url": "https://open.spotify.com/track/5qhfbZ9QWxujhlokGPPY4C"
+      "duration_ms": 187343,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1291,22 +1307,6 @@
       "duration_ms": 716744,
       "name": "SAMURAI - 2022 version",
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
-    },
-    {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Come Out and Play",
-        "url": "https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X"
-      },
-      "artists": [
-        {
-          "name": "Umziky",
-          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
-        }
-      ],
-      "duration_ms": 187343,
-      "name": "Come Out and Play",
-      "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1449,38 +1449,6 @@
       "url": "https://open.spotify.com/track/3465BrFB3rjk1rd4sQKPF9"
     },
     {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "We Don't Need No Roads",
-        "url": "https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm"
-      },
-      "artists": [
-        {
-          "name": "FKAjazz",
-          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
-        }
-      ],
-      "duration_ms": 258334,
-      "name": "We Don't Need No Roads",
-      "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Mind Racing",
-        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
-      },
-      "artists": [
-        {
-          "name": "Noah Rosen",
-          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
-        }
-      ],
-      "duration_ms": 347368,
-      "name": "Carlyle Clyde",
-      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
-    },
-    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "Pire",
@@ -1499,6 +1467,38 @@
       "duration_ms": 463540,
       "name": "Pire",
       "url": "https://open.spotify.com/track/7qZ5is8K4lCoyFPeUcOK8C"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Mind Racing",
+        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
+      },
+      "artists": [
+        {
+          "name": "Noah Rosen",
+          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
+        }
+      ],
+      "duration_ms": 347368,
+      "name": "Carlyle Clyde",
+      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
+    },
+    {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "We Don't Need No Roads",
+        "url": "https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "duration_ms": 258334,
+      "name": "We Don't Need No Roads",
+      "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -1529,34 +1529,6 @@
       "url": "https://open.spotify.com/track/1lLEiBayOjUDTTIKp9Ef4A"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Cloud Bounce",
-        "url": "https://open.spotify.com/album/4bWsVeslIr0hqmhtOQBtRN"
-      },
-      "artists": [
-        {
-          "name": "9ICK",
-          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
-        },
-        {
-          "name": "Calvin Bennett",
-          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
-        },
-        {
-          "name": "Gustav Gustav",
-          "url": "https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8"
-        },
-        {
-          "name": "Bertram Kvist",
-          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Cloud Bounce",
-      "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
-    },
-    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "RED PILL",
@@ -1571,6 +1543,22 @@
       "duration_ms": 161495,
       "name": "RED PILL",
       "url": "https://open.spotify.com/track/2XFuWi1l0V7tTQsfXWPotg"
+    },
+    {
+      "added_at": "2022-08-08 13:44:11",
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/2FjNnJa5iOokbI5Ns9simp"
+      },
+      "artists": [
+        {
+          "name": "THREESIXTY",
+          "url": "https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5"
+        }
+      ],
+      "duration_ms": 224399,
+      "name": "Dazed",
+      "url": "https://open.spotify.com/track/02d5NRh9mUGchOfmwHOm4W"
     }
   ],
   "unique_name": "Jazztronica",

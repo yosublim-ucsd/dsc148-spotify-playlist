@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Mha Iri
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,017 likes - 79 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,241 likes - 79 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 78 | [Love Together](https://open.spotify.com/track/5az552PCCPkDoF82MguQwQ) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Love Together](https://open.spotify.com/album/3LRiW0BDug10pYLN405eaz) | 4:13 |
 | 79 | [Feels Like My Hands Are On Fire](https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:28 |
 
-Snapshot ID: `MCw0MTExNjdjYjI2Nzk3ZTlkN2ExMDI0Mjk5MTM2OTZjM2IzOGEwY2Q2`
+Snapshot ID: `MCxmZTdkMTM4MmEzZGFhMzU0NWRjMzc4Nzc3MjkwYzM2YzE0ZDIzYzUx`

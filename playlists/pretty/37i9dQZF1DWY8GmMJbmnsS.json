@@ -1,12 +1,12 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: Percy Sledge",
-  "num_followers": 327371,
+  "num_followers": 327431,
   "original_name": "Timeless Soul Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWM0OTAxM2RlODJhZjIwNjFjYmIyN2UxZmMzYWE1MGY0ODNkYzkw",
+  "snapshot_id": "MCw0MmNmODY5NTM2MDI5ODg5OGZjNTMyOTVkMGI4MTAwNWRkM2E1OWZk",
   "tracks": [
     {
       "added_at": "2022-03-04 21:48:30",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
+        "name": "A Change Is Gonna Come",
+        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 201866,
       "name": "Drown in My Own Tears",
       "url": "https://open.spotify.com/track/0oQtjAjUeksVd9gHE5fl02"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "A Change Is Gonna Come",
-        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
     },
     {
       "added_at": "2022-03-04 21:48:30",

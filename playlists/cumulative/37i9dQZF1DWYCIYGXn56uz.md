@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Matteo Romano, Luigi Strangis
+> ✨giovane✨pop✨z✨ Cover: Angelina Mango
 
-125 songs - 5 hr 52 min
+127 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amelie](https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Amelie](https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q) | 3:18 | 2023-04-13 |  |
 | [Amore Bianco](https://open.spotify.com/track/7omuQEx0gZX4TjXKX58AGl) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL) | [Amore Bianco](https://open.spotify.com/album/53ouXegw7U2gjuMsl0jnqg) | 2:21 | 2023-03-23 | 2023-03-31 |
 | [Anima Tormentata](https://open.spotify.com/track/7C1cnKPhNwieQsKORc0hE1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:56 | 2023-04-13 |  |
+| [Anni 70](https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Anni 70](https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE) | 2:27 | 2023-05-15 |  |
 | [Basta \(feat\. LDA\)](https://open.spotify.com/track/13EWG0TWbIVmyzd2ohpE0B) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Ammore Malamente](https://open.spotify.com/album/5pydbU79C724udCB6btJsy) | 3:11 | 2023-04-20 |  |
 | [Cado](https://open.spotify.com/track/1zPBSgyezsh0BBTv8CPa1L) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Cado](https://open.spotify.com/album/2HgX6tuQ1Qjl8gZAZkKdW4) | 3:03 | 2023-03-23 |  |
 | [Cambiami La Vita](https://open.spotify.com/track/0PnPBuAw3Vm1TsZiHqkKb0) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Cambiami La Vita](https://open.spotify.com/album/1xeUPCllh2Zy5zRSx568mi) | 2:55 | 2023-03-23 |  |
@@ -30,6 +31,7 @@
 | [Cause Perse](https://open.spotify.com/track/7zbLHH0prN66iIognD95F6) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/3aJU4Ey5gJcUOIWwwG40ix) | 2:21 | 2023-03-23 |  |
 | [Che mettevi sempre](https://open.spotify.com/track/5STrHzIUfsWe9glyyUCGjx) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK), [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Che mettevi sempre](https://open.spotify.com/album/2XdkDYtLGXJ8lAQaMWxtFN) | 3:03 | 2023-03-23 | 2023-04-14 |
 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 | 2023-03-23 |  |
+| [Ci pensiamo domani](https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf) | 3:00 | 2023-05-15 |  |
 | [Cicatrice](https://open.spotify.com/track/0epSbGpKaNemoWZaVEjS9S) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [Cicatrice](https://open.spotify.com/album/7fL67B6qXHYa4rRK1I2lsG) | 2:31 | 2023-04-27 |  |
 | [Cinque giorni](https://open.spotify.com/track/1E6iCByNzL2vvToIpBAJBF) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Cinque giorni](https://open.spotify.com/album/2TLzYxJe0WkKnV1WviVhsb) | 3:35 | 2023-03-23 |  |
 | [Come Marilyn](https://open.spotify.com/track/0omRmMj87tSJhmggf4cWo1) | [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Come Marilyn](https://open.spotify.com/album/6lqeWrraxv3mCVWytlzBT0) | 2:58 | 2023-04-20 |  |
@@ -50,7 +52,7 @@
 | [fluo](https://open.spotify.com/track/2F6uEtSu7h6QUjgenM86K7) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [fluo](https://open.spotify.com/album/7H6plhkpevG4P0dF05CMnt) | 2:55 | 2023-03-23 | 2023-04-21 |
 | [GENERAZIONE Z](https://open.spotify.com/track/2eIZENRFcJPL14ScPKwYO1) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb) | [GENERAZIONE Z](https://open.spotify.com/album/4XQV30eFDzbjRgEjBHIEWL) | 2:51 | 2023-04-13 | 2023-04-28 |
 | [Giocattolo](https://open.spotify.com/track/4jsAmpTOebHF7aw9LK6I3z) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Giocattolo](https://open.spotify.com/album/1IGfJgpVrcUgQZa1zaC7HC) | 2:50 | 2023-04-13 |  |
-| [GIORNATA DI MERDA](https://open.spotify.com/track/3ZSIiyETN5pxzicLQLROvd) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u), [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [GIORNATA DI MERDA](https://open.spotify.com/album/1EOmLJZ06IsRymHUr03qfv) | 2:32 | 2023-05-04 |  |
+| [GIORNATA DI MERDA](https://open.spotify.com/track/3ZSIiyETN5pxzicLQLROvd) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u), [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [GIORNATA DI MERDA](https://open.spotify.com/album/1EOmLJZ06IsRymHUr03qfv) | 2:32 | 2023-05-04 | 2023-05-16 |
 | [Giovane e triste](https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giovane e triste](https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1) | 3:06 | 2023-03-23 |  |
 | [Goccia \(feat\. Sissi\)](https://open.spotify.com/track/4MYgRIZmue4SNzhMw0mxiE) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH), [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [GLORIA](https://open.spotify.com/album/4oJn7mM9OaDqOaffvkW5PW) | 2:55 | 2023-04-27 |  |
 | [Gran Finale](https://open.spotify.com/track/5elZw9mtjjPsXc4ukn3XeH) | [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Indaco](https://open.spotify.com/album/00ALxUXwprONphiPixCN0l) | 2:42 | 2023-03-23 | 2023-03-31 |
@@ -123,7 +125,7 @@
 | [SUPEREROI](https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [SUPEREROI](https://open.spotify.com/album/54YVUZvEjuGMyVSyLwPPdn) | 3:15 | 2023-03-23 |  |
 | [TANGO](https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [TANGO](https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs) | 3:29 | 2023-03-23 |  |
 | [Tatuaggi](https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tatuaggi](https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa) | 3:22 | 2023-03-23 | 2023-03-31 |
-| [Toccare la luna](https://open.spotify.com/track/0P0OENNOGNpzra0Ma1Ur9t) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Notturno](https://open.spotify.com/album/2NVlFPygfMDfSxlcFXUAKu) | 2:24 | 2023-04-13 |  |
+| [Toccare la luna](https://open.spotify.com/track/0P0OENNOGNpzra0Ma1Ur9t) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Notturno](https://open.spotify.com/album/2NVlFPygfMDfSxlcFXUAKu) | 2:24 | 2023-04-13 | 2023-05-16 |
 | [Tu mi fai bene](https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Tu mi fai bene](https://open.spotify.com/album/55VCDai04r0JFf3mySHac6) | 1:57 | 2023-04-27 |  |
 | [Tulipani Blu](https://open.spotify.com/track/5zBrVEBLgFYJAT63YoxFuO) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b), [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Tulipani Blu](https://open.spotify.com/album/5szcJT2NHzGev98dSKMLpN) | 2:39 | 2023-05-04 |  |
 | [Tutta La Vita](https://open.spotify.com/track/4BbZIc6WR5i2osyiVWLFzn) | [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Tutta La Vita](https://open.spotify.com/album/0JJ8ADGkEPang7Rhnd1p8t) | 2:51 | 2023-03-23 | 2023-03-31 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Cinderella (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
+      },
+      "artists": [
+        {
+          "name": "Lily James",
+          "url": "https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120546,
+      "name": "A Dream Is a Wish Your Heart Makes",
+      "url": "https://open.spotify.com/track/3s6nfqfT6kyLBT10vs0M4l"
+    },
+    {
+      "album": {
         "name": "Mulan (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
       },
@@ -36,7 +54,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 146053,
       "name": "A Girl Worth Fighting For",
       "url": "https://open.spotify.com/track/3wjgPeXocinhLyPL37p70e"
@@ -62,10 +80,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 208376,
       "name": "A Place Called Slaughter Race",
       "url": "https://open.spotify.com/track/30UNAz40wbR8CnLMZkCLe7"
+    },
+    {
+      "album": {
+        "name": "Mary Poppins",
+        "url": "https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d"
+      },
+      "artists": [
+        {
+          "name": "Julie Andrews",
+          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249040,
+      "name": "A Spoonful of Sugar - From \"Mary Poppins\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A"
     },
     {
       "album": {
@@ -110,7 +146,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 242956,
       "name": "A Whole New World (End Title)",
       "url": "https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT"
@@ -132,10 +168,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 177322,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
+    },
+    {
+      "album": {
+        "name": "All I Want (From \"High School Musical: The Musical: The Series\")",
+        "url": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177322,
+      "name": "All I Want - From \"High School Musical: The Musical: The Series\"",
+      "url": "https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW"
     },
     {
       "album": {
@@ -168,10 +226,64 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 125439,
       "name": "All Is Found",
       "url": "https://open.spotify.com/track/61HVbcNeRACZpyvHrc3AnD"
+    },
+    {
+      "album": {
+        "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
+      },
+      "artists": [
+        {
+          "name": "Anika Noni Rose",
+          "url": "https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144426,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/2GLyruWagsv8o7aGNXboH1"
+    },
+    {
+      "album": {
+        "name": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk"
+      },
+      "artists": [
+        {
+          "name": "Adriana Caselotti",
+          "url": "https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263920,
+      "name": "Animal Friends / With a Smile and a Song",
+      "url": "https://open.spotify.com/track/72cMnqPIvKZOIkvsMMnHjp"
+    },
+    {
+      "album": {
+        "name": "Aladdin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193096,
+      "name": "Arabian Nights (2019)",
+      "url": "https://open.spotify.com/track/6ZxPYutGhjLTrcmvcshCa4"
     },
     {
       "album": {
@@ -186,10 +298,58 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 177293,
       "name": "Baby Mine",
       "url": "https://open.spotify.com/track/1UU3IpxOVpjjHdoQjchpgX"
+    },
+    {
+      "album": {
+        "name": "Baby Mine (From \"Dumbo\")",
+        "url": "https://open.spotify.com/album/6e9I7W5LrZ512paeUY7hS4"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "Baby Mine - From \"Dumbo\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2ufkOFn5LKYNoAdss0GUKR"
+    },
+    {
+      "album": {
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+      },
+      "artists": [
+        {
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        },
+        {
+          "name": "Jerry Orbach",
+          "url": "https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO"
+        },
+        {
+          "name": "Chorus - Beauty And the Beast",
+          "url": "https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224920,
+      "name": "Be Our Guest",
+      "url": "https://open.spotify.com/track/2F8LPJgSVTJxukoParTyBD"
     },
     {
       "album": {
@@ -216,7 +376,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 288763,
       "name": "Be Our Guest",
       "url": "https://open.spotify.com/track/1LJtyvOmNOyp0DRpq9of29"
@@ -290,7 +450,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 227928,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/7wMPhUSe6CZga1vOMpLTJP"
@@ -319,6 +479,50 @@
     },
     {
       "album": {
+        "name": "Walt Disney Records The Legacy Collection: Beauty and the Beast",
+        "url": "https://open.spotify.com/album/7hq1LYjKOhg1jn39YzbqVK"
+      },
+      "artists": [
+        {
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162266,
+      "name": "Beauty and the Beast - Remastered 2018",
+      "url": "https://open.spotify.com/track/4f1BwLXtk02i8GjJvK9cUL"
+    },
+    {
+      "album": {
+        "name": "Disney's Greatest Volume 1",
+        "url": "https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY"
+      },
+      "artists": [
+        {
+          "name": "George Givot",
+          "url": "https://open.spotify.com/artist/0amtHf5yFCceg0y8YUBd1z"
+        },
+        {
+          "name": "Bill Thompson",
+          "url": "https://open.spotify.com/artist/5qUyUS9vNS4ei4hm7ysj8W"
+        },
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160693,
+      "name": "Bella Notte - From \"Lady And The Tramp\" Soundtrack",
+      "url": "https://open.spotify.com/track/6suDwyuHm9aTkEGEd5FSNf"
+    },
+    {
+      "album": {
         "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc"
       },
@@ -338,7 +542,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 333265,
       "name": "Belle",
       "url": "https://open.spotify.com/track/1cPfKp9ThNZ1fez9itmUMN"
@@ -371,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Disney's Greatest Vol. 3",
+        "url": "https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh"
+      },
+      "artists": [
+        {
+          "name": "Pearl Bailey",
+          "url": "https://open.spotify.com/artist/2cskX7NGnrWMjA4PRSxVPL"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135346,
+      "name": "Best of Friends - From \"The Fox & The Hound\" / Soundtrack",
+      "url": "https://open.spotify.com/track/3lP9eoNsz04dMCfPIG0PpK"
+    },
+    {
+      "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
       },
@@ -382,10 +604,46 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 82466,
       "name": "Bibbidi-Bobbidi-Boo (The Magic Song)",
       "url": "https://open.spotify.com/track/0tZqXCvOx44WKqcgEZtIRl"
+    },
+    {
+      "album": {
+        "name": "Disney's Greatest Volume 1",
+        "url": "https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY"
+      },
+      "artists": [
+        {
+          "name": "Verna Felton",
+          "url": "https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77933,
+      "name": "Bibbidi-Bobbidi-Boo - From \"Cinderella\" Soundtrack",
+      "url": "https://open.spotify.com/track/50ssiEHx556vul2XyUbxwU"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: Sleeping Beauty",
+        "url": "https://open.spotify.com/album/5rhHliTFYcptlK8nbjXEYM"
+      },
+      "artists": [
+        {
+          "name": "Mary Costa",
+          "url": "https://open.spotify.com/artist/1qeo0u3hwxCBcYsn3a4kyo"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163826,
+      "name": "Blue Bird / I Wonder",
+      "url": "https://open.spotify.com/track/2GI8c03jgjHYdtVkw81xHp"
     },
     {
       "album": {
@@ -400,10 +658,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 127413,
       "name": "Call me Cruella",
       "url": "https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt"
+    },
+    {
+      "album": {
+        "name": "The Lion King: Special Edition",
+        "url": "https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241973,
+      "name": "Can You Feel the Love Tonight - End Title/ From \"The Lion King\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/6TL9gJE5JibG8QR6n26eCS"
     },
     {
       "album": {
@@ -434,7 +710,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 177786,
       "name": "Can You Feel the Love Tonight - From \"The Lion King\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/5E8yddtSG3sH4hw2SfwcgW"
@@ -464,7 +740,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 262640,
       "name": "Can You Imagine That?",
       "url": "https://open.spotify.com/track/5ollDCofTmRZN0Bbhz4EDW"
@@ -482,7 +758,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 213732,
       "name": "Carried Me With You",
       "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
@@ -500,10 +776,80 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 100533,
       "name": "Chill or Be Chilled - Frozone's Theme",
       "url": "https://open.spotify.com/track/2ifRmHoyg1f2pUtFhlqrn2"
+    },
+    {
+      "album": {
+        "name": "Mary Poppins (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3TpEE2z8atZWn2p7MUHF0U"
+      },
+      "artists": [
+        {
+          "name": "Dick Van Dyke",
+          "url": "https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6"
+        },
+        {
+          "name": "Julie Andrews",
+          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+        },
+        {
+          "name": "Karen Dotrice",
+          "url": "https://open.spotify.com/artist/2vHx2wi7daCLxHL0jKOZiz"
+        },
+        {
+          "name": "Matthew Garber",
+          "url": "https://open.spotify.com/artist/3YDM76Dml4Pyo8H7JSfafZ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166600,
+      "name": "Chim Chim Cher-ee",
+      "url": "https://open.spotify.com/track/0IKYsgkoaylTKGzrlfrpu7"
+    },
+    {
+      "album": {
+        "name": "Disney Classics",
+        "url": "https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0"
+      },
+      "artists": [
+        {
+          "name": "The Disney Afternoon Studio Chorus",
+          "url": "https://open.spotify.com/artist/0kzp6Ezum8UhblfmLkcyPq"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214973,
+      "name": "Chip 'N' Dale's Rescue Rangers Theme Song",
+      "url": "https://open.spotify.com/track/0GbtySuOrHz5uapOakoHLM"
+    },
+    {
+      "album": {
+        "name": "The Lion King: Special Edition",
+        "url": "https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl"
+      },
+      "artists": [
+        {
+          "name": "Carmen Twillie",
+          "url": "https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239360,
+      "name": "Circle of Life - From \"The Lion King\" Soundtrack",
+      "url": "https://open.spotify.com/track/2KPMRUOwr8yB32EMvIg8aT"
     },
     {
       "album": {
@@ -518,7 +864,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 175280,
       "name": "Colombia, Mi Encanto",
       "url": "https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8"
@@ -543,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Walt Disney Records The Legacy Collection: Pocahontas",
+        "url": "https://open.spotify.com/album/4M9kB42Y2SfXzwuH903ycJ"
+      },
+      "artists": [
+        {
+          "name": "Judy Kuhn",
+          "url": "https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230186,
+      "name": "Colors of the Wind",
+      "url": "https://open.spotify.com/track/2KLr3dKxIINgnWKiMK37ST"
+    },
+    {
+      "album": {
         "name": "Songs and Story: Pocahontas",
         "url": "https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj"
       },
@@ -554,7 +918,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 212933,
       "name": "Colors of the Wind - From \"Pocahontas\"",
       "url": "https://open.spotify.com/track/2rnX4QWY4Wc1TCAZ0wK6yP"
@@ -576,6 +940,82 @@
       "duration_ms": 214880,
       "name": "Colors of the Wind - From \"Pocahontas\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/3lcZbYkrRfjBwnRMxi5iMH"
+    },
+    {
+      "album": {
+        "name": "101 Dalmatians",
+        "url": "https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr"
+      },
+      "artists": [
+        {
+          "name": "Bill Lee",
+          "url": "https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303760,
+      "name": "Cruella De Vil - From \"101 Dalmatians\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN"
+    },
+    {
+      "album": {
+        "name": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104113,
+      "name": "Derezzed",
+      "url": "https://open.spotify.com/track/7hqlHZIXhwAzpWQxm9KzBd"
+    },
+    {
+      "album": {
+        "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
+      },
+      "artists": [
+        {
+          "name": "Jenifer Lewis",
+          "url": "https://open.spotify.com/artist/6e28WiPlKSu1ukkhHCZEnF"
+        },
+        {
+          "name": "The Pinnacle Gospel Choir",
+          "url": "https://open.spotify.com/artist/4R1dpQ2VCZsEutiXZKeIzk"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "Dig a Little Deeper",
+      "url": "https://open.spotify.com/track/7kh64k3P9Fk4EsA6vOdwmj"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Disco",
+        "url": "https://open.spotify.com/album/13pz7nMDx6VgoPDfBgxAxg"
+      },
+      "artists": [
+        {
+          "name": "Chorus - Mickey Mouse Disco",
+          "url": "https://open.spotify.com/artist/4pzdz2mMg0rkOMHQfDRHt4"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236960,
+      "name": "Disco Mickey Mouse",
+      "url": "https://open.spotify.com/track/4O5hM0PUJaQfOtVbNUZM8z"
     },
     {
       "album": {
@@ -628,6 +1068,64 @@
       "duration_ms": 206506,
       "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7Ctju5iILqGbvMKG6CgTl9"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214613,
+      "name": "Dos Oruguitas",
+      "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
+    },
+    {
+      "album": {
+        "name": "Disney Classics",
+        "url": "https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0"
+      },
+      "artists": [
+        {
+          "name": "The Disney Afternoon Studio Chorus",
+          "url": "https://open.spotify.com/artist/0kzp6Ezum8UhblfmLkcyPq"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168346,
+      "name": "Duck Tales Theme - From \u201cDuck Tales\u201c",
+      "url": "https://open.spotify.com/track/0XypNs2gluoWHdtfSTsIUF"
+    },
+    {
+      "album": {
+        "name": "Mary Poppins",
+        "url": "https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d"
+      },
+      "artists": [
+        {
+          "name": "Julie Andrews",
+          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+        },
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231040,
+      "name": "Feed The Birds (Tuppence A Bag) - From \"Mary Poppins\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/4P73qgh9VA1S9Hct6VhLI4"
     },
     {
       "album": {
@@ -690,7 +1188,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 149640,
       "name": "For the First Time in Forever (Reprise) - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/65GjU6KDPzF5IO143vvTgn"
@@ -726,7 +1224,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 182906,
       "name": "Friend Like Me - From \"Aladdin\"",
       "url": "https://open.spotify.com/track/2JxTIvfbuN6ucvqOBBhk3Z"
@@ -752,7 +1250,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 265787,
       "name": "Gaston",
       "url": "https://open.spotify.com/track/1v7HQKegIjcBAsAsHjnXZU"
@@ -782,6 +1280,58 @@
       "duration_ms": 265787,
       "name": "Gaston",
       "url": "https://open.spotify.com/track/1xfW7zqJPRR5Jr9b1zWXJ3"
+    },
+    {
+      "album": {
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+      },
+      "artists": [
+        {
+          "name": "Richard White",
+          "url": "https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G"
+        },
+        {
+          "name": "Jesse Corti",
+          "url": "https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5"
+        },
+        {
+          "name": "Chorus - Beauty And the Beast",
+          "url": "https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "Gaston",
+      "url": "https://open.spotify.com/track/494qL09gtrLyndmhLg4yYX"
+    },
+    {
+      "album": {
+        "name": "Pinocchio",
+        "url": "https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz"
+      },
+      "artists": [
+        {
+          "name": "Cliff Edwards",
+          "url": "https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn"
+        },
+        {
+          "name": "Dickie Jones",
+          "url": "https://open.spotify.com/artist/0bGGvfpbJAFYj1rX6ScbbJ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97586,
+      "name": "Give a Little Whistle",
+      "url": "https://open.spotify.com/track/16Ekkvg5dxPVdDo5Ys30j8"
     },
     {
       "album": {
@@ -847,6 +1397,88 @@
     },
     {
       "album": {
+        "name": "Walt Disney Records The Legacy Collection: Disneyland",
+        "url": "https://open.spotify.com/album/6Tl4sqA4gMSbqAAs2T0C41"
+      },
+      "artists": [
+        {
+          "name": "The Melomen",
+          "url": "https://open.spotify.com/artist/2Zdiv6y6Bd0GpdlEtvXzVB"
+        },
+        {
+          "name": "Paul Frees",
+          "url": "https://open.spotify.com/artist/4O7CH489gsT4ZDJNL98Eqk"
+        },
+        {
+          "name": "Betty Taylor",
+          "url": "https://open.spotify.com/artist/1lD6fWemp959GGVhH0NuC1"
+        },
+        {
+          "name": "Bill Lee",
+          "url": "https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL"
+        },
+        {
+          "name": "Thurl Ravenscroft",
+          "url": "https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332400,
+      "name": "Grim Grinning Ghosts - From \"The Haunted Mansion\"",
+      "url": "https://open.spotify.com/track/22HoAbMq2QiKjfc1ZNqy0D"
+    },
+    {
+      "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Nathan Lane",
+          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
+        },
+        {
+          "name": "Ernie Sabella",
+          "url": "https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr"
+        },
+        {
+          "name": "Jason Weaver",
+          "url": "https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ"
+        },
+        {
+          "name": "Joseph Williams",
+          "url": "https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Hakuna Matata - From \"The Lion King\" Soundtrack",
+      "url": "https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN"
+    },
+    {
+      "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
+      },
+      "artists": [
+        {
+          "name": "Amy Adams",
+          "url": "https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129613,
+      "name": "Happy Working Song - From \"Enchanted\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/7G061Oqw7NXFr1NDTpXoI4"
+    },
+    {
+      "album": {
         "name": "Lilo & Stitch",
         "url": "https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP"
       },
@@ -869,6 +1501,68 @@
     },
     {
       "album": {
+        "name": "Best Of Hannah Montana",
+        "url": "https://open.spotify.com/album/5zZMy9QhbzvAjokurBvEgd"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181720,
+      "name": "He Could Be the One",
+      "url": "https://open.spotify.com/track/0ObHdZzOdFZo2MfUCpHiyu"
+    },
+    {
+      "album": {
+        "name": "The Lion King: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK"
+      },
+      "artists": [
+        {
+          "name": "Jason Raize",
+          "url": "https://open.spotify.com/artist/7wtyPvLmy8LAf2CO0Xwy4p"
+        },
+        {
+          "name": "Tsidii Le Loka",
+          "url": "https://open.spotify.com/artist/478Cvh1XjJiURpkqbM23SV"
+        },
+        {
+          "name": "Ensemble - The Lion King",
+          "url": "https://open.spotify.com/artist/0s0Hfb6ckk9qTjDeUOZXJp"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252240,
+      "name": "He Lives In You (Reprise)",
+      "url": "https://open.spotify.com/track/67MoDnJtywQsAS6Bovvuon"
+    },
+    {
+      "album": {
+        "name": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk"
+      },
+      "artists": [
+        {
+          "name": "The Dwarf Chorus",
+          "url": "https://open.spotify.com/artist/6oyAC5MXCvdwRH2bpPOmYz"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166933,
+      "name": "Heigh-Ho",
+      "url": "https://open.spotify.com/track/4OkD0WYpUTu8eJcDDVJERl"
+    },
+    {
+      "album": {
         "name": "Incredibles 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO"
       },
@@ -880,10 +1574,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 83186,
       "name": "Here Comes Elastigirl - Elastigirl's Theme",
       "url": "https://open.spotify.com/track/0mL1awDtKnXGZUVE2ijGIc"
+    },
+    {
+      "album": {
+        "name": "Pinocchio",
+        "url": "https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz"
+      },
+      "artists": [
+        {
+          "name": "Walter Catlett",
+          "url": "https://open.spotify.com/artist/1yCdvNCmOAMzEqOcw3CvHF"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100506,
+      "name": "Hi-Diddle-Dee-Dee (An Actor's Life for Me)",
+      "url": "https://open.spotify.com/track/1eM1TAhv39wg4LY7XmtqoL"
     },
     {
       "album": {
@@ -916,7 +1628,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 63863,
       "name": "How Does A Moment Last Forever (Music Box)",
       "url": "https://open.spotify.com/track/01E4XLmGfZj86FUxmRTOGD"
@@ -970,7 +1682,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 175506,
       "name": "How Far I'll Go - Alessia Cara Version",
       "url": "https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq"
@@ -1028,7 +1740,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 162826,
       "name": "I Am Moana (Song of the Ancestors)",
       "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
@@ -1072,7 +1784,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 225013,
       "name": "I Believe (feat. Demi Lovato) - As featured in the Walt Disney Pictures' \"A WRINKLE IN TIME\"",
       "url": "https://open.spotify.com/track/1hEiVb61xXfCc9JL4cJRQP"
@@ -1090,7 +1802,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 125786,
       "name": "I Can't Let You Throw Yourself Away",
       "url": "https://open.spotify.com/track/7tSODhfDkv0JEhkSMYSIBS"
@@ -1145,6 +1857,44 @@
     },
     {
       "album": {
+        "name": "Hercules (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
+      },
+      "artists": [
+        {
+          "name": "Susan Egan",
+          "url": "https://open.spotify.com/artist/7CckquWatDQSr3PFKkjM8M"
+        },
+        {
+          "name": "Cheryl Freeman",
+          "url": "https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd"
+        },
+        {
+          "name": "LaChanze",
+          "url": "https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A"
+        },
+        {
+          "name": "Vaneese Thomas",
+          "url": "https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK"
+        },
+        {
+          "name": "Lillias White",
+          "url": "https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140226,
+      "name": "I Won't Say (I'm In Love)",
+      "url": "https://open.spotify.com/track/0PKmDncVOiNQLO6D1P6PXi"
+    },
+    {
+      "album": {
         "name": "Mulan (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
       },
@@ -1171,6 +1921,102 @@
     },
     {
       "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+        },
+        {
+          "name": "Brad Garrett",
+          "url": "https://open.spotify.com/artist/7JpGJvNR3Uvftc3JlyacFH"
+        },
+        {
+          "name": "Ensemble - Tangled",
+          "url": "https://open.spotify.com/artist/1bhBH3mWYi8lCiitTXtkZL"
+        },
+        {
+          "name": "Zachary Levi",
+          "url": "https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st"
+        },
+        {
+          "name": "Jeffrey Tambor",
+          "url": "https://open.spotify.com/artist/65Rokc4cfvKbRYPitoajAD"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191413,
+      "name": "I've Got a Dream - From \"Tangled\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0TCt7OFRdD8PQ6vTRQxNgQ"
+    },
+    {
+      "album": {
+        "name": "Pinocchio",
+        "url": "https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz"
+      },
+      "artists": [
+        {
+          "name": "Dickie Jones",
+          "url": "https://open.spotify.com/artist/0bGGvfpbJAFYj1rX6ScbbJ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142720,
+      "name": "I've Got No Strings",
+      "url": "https://open.spotify.com/track/7fjmYUeonVOEyr0lYOKvMy"
+    },
+    {
+      "album": {
+        "name": "A Goofy Movie",
+        "url": "https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P"
+      },
+      "artists": [
+        {
+          "name": "Tevin Campbell",
+          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+        },
+        {
+          "name": "Rosie Gaines",
+          "url": "https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241386,
+      "name": "I2I",
+      "url": "https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp"
+    },
+    {
+      "album": {
+        "name": "Monsters, Inc. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz"
+      },
+      "artists": [
+        {
+          "name": "Billy Crystal",
+          "url": "https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh"
+        },
+        {
+          "name": "John Goodman",
+          "url": "https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217786,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602"
+    },
+    {
+      "album": {
         "name": "Ralph Breaks the Internet (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4YWNDk8pwKyWE9PhjCTiJG"
       },
@@ -1182,7 +2028,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 201342,
       "name": "In This Place",
       "url": "https://open.spotify.com/track/2cOE7d35PyfAh9M7DglPk0"
@@ -1222,10 +2068,36 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 189132,
       "name": "Into the Unknown - Panic! At The Disco Version",
       "url": "https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm"
+    },
+    {
+      "album": {
+        "name": "Disney's Greatest Volume 2",
+        "url": "https://open.spotify.com/album/6KSC0FkAhdErc0azFDze0i"
+      },
+      "artists": [
+        {
+          "name": "The Disneyland Children's Chorus",
+          "url": "https://open.spotify.com/artist/4OO3sW1MwAxI5MW3V1Dx4v"
+        },
+        {
+          "name": "Robert B. Sherman",
+          "url": "https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ"
+        },
+        {
+          "name": "Richard M. Sherman",
+          "url": "https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182893,
+      "name": "It's a Small World - From \"It's a Small World\"",
+      "url": "https://open.spotify.com/track/5ouuPi1o6eOVSgHn2exemw"
     },
     {
       "album": {
@@ -1240,10 +2112,50 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 170186,
       "name": "It's All Right",
       "url": "https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y"
+    },
+    {
+      "album": {
+        "name": "Disney Classics",
+        "url": "https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0"
+      },
+      "artists": [
+        {
+          "name": "Helen Reddy",
+          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
+        },
+        {
+          "name": "Sean Marshall",
+          "url": "https://open.spotify.com/artist/5jR6zZugUWoU9PClPLoFa2"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190680,
+      "name": "It's Not Easy - From \"Pete's Dragon\"",
+      "url": "https://open.spotify.com/track/25ENCBEvmC3L19MKrf3Lfs"
+    },
+    {
+      "album": {
+        "name": "Pocahontas",
+        "url": "https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd"
+      },
+      "artists": [
+        {
+          "name": "Judy Kuhn",
+          "url": "https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147706,
+      "name": "Just Around the Riverbend - From \"Pocahontas\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/6P316E7tFylzpVrDrXVF9s"
     },
     {
       "album": {
@@ -1262,10 +2174,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 163386,
       "name": "Kiss the Girl - From \"The Little Mermaid\"/ Soundtrack Version",
       "url": "https://open.spotify.com/track/6CDiKAFgbWXlwQTU59GKYT"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160880,
+      "name": "Kiss the Girl - Remastered 2014",
+      "url": "https://open.spotify.com/track/75VAFZAhvPSw1euEHg1fQU"
     },
     {
       "album": {
@@ -1341,6 +2271,42 @@
     },
     {
       "album": {
+        "name": "Let's Get Together With Hayley Mills",
+        "url": "https://open.spotify.com/album/5qnHifHuv2R2pAamT34pK4"
+      },
+      "artists": [
+        {
+          "name": "Hayley Mills",
+          "url": "https://open.spotify.com/artist/61g53RNwNxFue8DjFshq05"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88360,
+      "name": "Let's Get Together - From \"The Parent Trap\"",
+      "url": "https://open.spotify.com/track/6IOnUNpll37ONAgshDwa5B"
+    },
+    {
+      "album": {
+        "name": "Cars (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275640,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
+    },
+    {
+      "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
@@ -1352,10 +2318,48 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+    },
+    {
+      "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/30ztQHKhC0EqPNkAt6QQIK"
+      },
+      "artists": [
+        {
+          "name": "Amy Lou Barnes",
+          "url": "https://open.spotify.com/artist/4R0cSnUwirqaBOdD7CGKJh"
+        },
+        {
+          "name": "Sally Mueller",
+          "url": "https://open.spotify.com/artist/6Knu1GBSexbXop7ougKLc3"
+        },
+        {
+          "name": "Mary Moder",
+          "url": "https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh"
+        },
+        {
+          "name": "Alice Sixer",
+          "url": "https://open.spotify.com/artist/38hKa4GYWbtkBXufkutBBn"
+        },
+        {
+          "name": "Betty Bayne",
+          "url": "https://open.spotify.com/artist/0F23svEwc83LQJTYeLDpXf"
+        },
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233240,
+      "name": "Little April Shower - From \"Bambi\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1OwcR9OYz2vuUttTQSOVZN"
     },
     {
       "album": {
@@ -1370,10 +2374,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 185231,
       "name": "Lost in the Woods - Weezer Version",
       "url": "https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Santino Fontana",
+          "url": "https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124733,
+      "name": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq"
     },
     {
       "album": {
@@ -1388,7 +2414,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 177650,
       "name": "Love Power (End Credit Version) - From \"Disenchanted\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1Kbf3jLMs9QiDVBZXSpsJl"
@@ -1406,7 +2432,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 166199,
       "name": "Loyal Brave True - From \"Mulan\"",
       "url": "https://open.spotify.com/track/3gy8PSkBSyvPyWZazgQn0F"
@@ -1424,10 +2450,190 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 209666,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3hE9T8H1jzSS0SxLNtUtKl"
+    },
+    {
+      "album": {
+        "name": "Peter Pan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1tCVqfTbVWmXFXx0HmGkob"
+      },
+      "artists": [
+        {
+          "name": "The Jud Conlon Chorus",
+          "url": "https://open.spotify.com/artist/5s5jvj5TkkMkQDR28awRsA"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138400,
+      "name": "Main Title (The Second Star to the Right) / All This Has Happened Before",
+      "url": "https://open.spotify.com/track/01sOUDhgCz6cNoghrnO8bG"
+    },
+    {
+      "album": {
+        "name": "The Muppets (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50"
+      },
+      "artists": [
+        {
+          "name": "Jason Segel",
+          "url": "https://open.spotify.com/artist/2eaAoOUNWD4RNjmU7Slqi6"
+        },
+        {
+          "name": "Walter",
+          "url": "https://open.spotify.com/artist/5l3UmzjFGoGXxOwJJhfm2D"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "Man Or Muppet",
+      "url": "https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB"
+    },
+    {
+      "album": {
+        "name": "Disney's Greatest Vol. 3",
+        "url": "https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Dodd",
+          "url": "https://open.spotify.com/artist/3lXIWFdkU2fmvN6WO0vZWO"
+        },
+        {
+          "name": "The Mouseketeers",
+          "url": "https://open.spotify.com/artist/7vnmderMtsr4NY2OAr7bPZ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107626,
+      "name": "Mickey Mouse Club Alma Mater - From \"The Mickey Mouse Club TV Show\"",
+      "url": "https://open.spotify.com/track/0qxhucKlrket7p5dw37cpQ"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse and his Friends",
+        "url": "https://open.spotify.com/album/4NqS1BaGSwcMHDpT1zUvJb"
+      },
+      "artists": [
+        {
+          "name": "The Mouseketeers",
+          "url": "https://open.spotify.com/artist/7vnmderMtsr4NY2OAr7bPZ"
+        },
+        {
+          "name": "Jimmie Dodd",
+          "url": "https://open.spotify.com/artist/3lXIWFdkU2fmvN6WO0vZWO"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96693,
+      "name": "Mickey Mouse March",
+      "url": "https://open.spotify.com/track/46ZH0FJ6pWW9R5u5tqwq6a"
+    },
+    {
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Donna Murphy",
+          "url": "https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190440,
+      "name": "Mother Knows Best - From \"Tangled\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1lOSxJNCLvWm2bYaTcTSmK"
+    },
+    {
+      "album": {
+        "name": "Peter Pan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1tCVqfTbVWmXFXx0HmGkob"
+      },
+      "artists": [
+        {
+          "name": "Frank Churchill",
+          "url": "https://open.spotify.com/artist/5HxxQWbYtQSFMKTjx9LPtZ"
+        },
+        {
+          "name": "Jack Lawrence",
+          "url": "https://open.spotify.com/artist/0sBKkpFqxsLg0Ao6924RHK"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104426,
+      "name": "Never Smile at a Crocodile",
+      "url": "https://open.spotify.com/track/03f2e7WrN33uwicte4iZb7"
+    },
+    {
+      "album": {
+        "name": "Peter Pan & Wendy (Original Score)",
+        "url": "https://open.spotify.com/album/2yRvITr3gmDH3VQ4MO9piz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Hart",
+          "url": "https://open.spotify.com/artist/3T91YntaaHTAKK2GYoTUPW"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162893,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/67YQwy99nrMTE9BpqcXvuS"
+    },
+    {
+      "album": {
+        "name": "Turning Red (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
+      },
+      "artists": [
+        {
+          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
+          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
+        {
+          "name": "Topher Ngo",
+          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
+        },
+        {
+          "name": "Grayson Villanueva",
+          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160946,
+      "name": "Nobody Like U",
+      "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
     },
     {
       "album": {
@@ -1462,10 +2668,90 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 160958,
       "name": "Nobody Like U - From \"Turning Red\"",
       "url": "https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8"
+    },
+    {
+      "album": {
+        "name": "Disney's Greatest Volume 1",
+        "url": "https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY"
+      },
+      "artists": [
+        {
+          "name": "Mary Costa",
+          "url": "https://open.spotify.com/artist/1qeo0u3hwxCBcYsn3a4kyo"
+        },
+        {
+          "name": "Bill Shirley",
+          "url": "https://open.spotify.com/artist/259T26oxdhM7losfoXOXOl"
+        },
+        {
+          "name": "Chorus - Sleeping Beauty",
+          "url": "https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167013,
+      "name": "Once Upon a Dream - From \"Sleeping Beauty\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/2urMIG2y7CsnH206CxykV0"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: Robin Hood",
+        "url": "https://open.spotify.com/album/56ewU1ti6LTUjDQzsI9QZD"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59933,
+      "name": "Oo-De-Lally",
+      "url": "https://open.spotify.com/track/5Asz9rHr2rViBdl6pkXpoq"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Takes You to Disneyland",
+        "url": "https://open.spotify.com/album/3jG28snbnmyGA5rh3XteY1"
+      },
+      "artists": [
+        {
+          "name": "Disneyland Concert Orchestra",
+          "url": "https://open.spotify.com/artist/6XhmSf8oAZdvQC3S32g8rq"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388773,
+      "name": "Overture / Main Street, U.S.A. - Disneyland Attraction Version",
+      "url": "https://open.spotify.com/track/531Kq6cHz5GOSsLL132pE3"
+    },
+    {
+      "album": {
+        "name": "Part of Your World (From \"The Little Mermaid\")",
+        "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214373,
+      "name": "Part of Your World - From \"The Little Mermaid\"",
+      "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
     },
     {
       "album": {
@@ -1484,10 +2770,68 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 195493,
       "name": "Part of Your World - From \"The Little Mermaid\" Soundtrack",
       "url": "https://open.spotify.com/track/5J4pDyvjRrYfcgHetKjKSj"
+    },
+    {
+      "album": {
+        "name": "Alice In Wonderland (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Beaumont",
+          "url": "https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132640,
+      "name": "Pay Attention / In a World of My Own",
+      "url": "https://open.spotify.com/track/4jadyA9N53rvVjy6KjKAgT"
+    },
+    {
+      "album": {
+        "name": "Hawaiiannette",
+        "url": "https://open.spotify.com/album/7d3Fownt5tTnTR1KpvfZ00"
+      },
+      "artists": [
+        {
+          "name": "Annette Funicello",
+          "url": "https://open.spotify.com/artist/1uHivHZ0fLfvwPL1UgkpMU"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147960,
+      "name": "Pineapple Princess",
+      "url": "https://open.spotify.com/track/6uTfpDEETdJhYb3y3bB9NO"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Pat Carroll",
+          "url": "https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291693,
+      "name": "Poor Unfortunate Souls",
+      "url": "https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2"
     },
     {
       "album": {
@@ -1502,7 +2846,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 90986,
       "name": "Pow! Pow! Pow! - Mr. Incredible's Theme",
       "url": "https://open.spotify.com/track/7kyoJDOSu5qz5UgzHSdUyr"
@@ -1520,10 +2864,54 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 209666,
       "name": "Prince Ali",
       "url": "https://open.spotify.com/track/1Pt2STlAgfB1CiEV8mf3CN"
+    },
+    {
+      "album": {
+        "name": "Descendants 3 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jeffery",
+          "url": "https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189397,
+      "name": "Queen of Mean",
+      "url": "https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna"
+    },
+    {
+      "album": {
+        "name": "Mulan (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
+      },
+      "artists": [
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146760,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/2AILbz83cBnrAMAG06rZts"
     },
     {
       "album": {
@@ -1538,7 +2926,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 217996,
       "name": "Reflection (2020) - From \"Mulan\"",
       "url": "https://open.spotify.com/track/437eNQXusBT4q9q3f34oW9"
@@ -1560,7 +2948,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 164453,
       "name": "Remember Me (D\u00fao)",
       "url": "https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY"
@@ -1604,10 +2992,150 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 118833,
       "name": "Ring in the Season",
       "url": "https://open.spotify.com/track/4UoYb2HJklHzXbVA5klJGt"
+    },
+    {
+      "album": {
+        "name": "Descendants (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162066,
+      "name": "Rotten to the Core",
+      "url": "https://open.spotify.com/track/2bNxCVI4Fub8BAwr0CQDyd"
+    },
+    {
+      "album": {
+        "name": "Saludos Amigos",
+        "url": "https://open.spotify.com/album/6R3voGYHT27CMIoWI9b1i1"
+      },
+      "artists": [
+        {
+          "name": "Studio Chorus - Saludos Amigos",
+          "url": "https://open.spotify.com/artist/2zW34AioxS0YICva6WajLx"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104626,
+      "name": "Saludos Amigos - From \"Saludos Amigos\"",
+      "url": "https://open.spotify.com/track/58NywJgcHVLXrndCpLATvg"
+    },
+    {
+      "album": {
+        "name": "Newsies (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk"
+      },
+      "artists": [
+        {
+          "name": "Ben Fankhauser",
+          "url": "https://open.spotify.com/artist/46yt6WJsgzPiAtnCe809UV"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Newsies Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/6yTc5YHDriVSWYq8vPA4Xi"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322940,
+      "name": "Seize The Day",
+      "url": "https://open.spotify.com/track/0BxKZikii9efSIodiQALJ5"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Jemaine Clement",
+          "url": "https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185466,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/1IZwCzAmaFmmdJj0cmhaax"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Evan Rachel Wood",
+          "url": "https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260906,
+      "name": "Show Yourself",
+      "url": "https://open.spotify.com/track/50WeOnXhM1H7AZEeIDoWfZ"
+    },
+    {
+      "album": {
+        "name": "Disney Princess: The Ultimate Song Collection",
+        "url": "https://open.spotify.com/album/1YlALay0y3WHzVz39xU3AJ"
+      },
+      "artists": [
+        {
+          "name": "Ilene Woods",
+          "url": "https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj"
+        },
+        {
+          "name": "Mike Douglas",
+          "url": "https://open.spotify.com/artist/4lwnV2S8BCbclu9nqBPGvI"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92600,
+      "name": "So This Is Love - From \"Cinderella\"",
+      "url": "https://open.spotify.com/track/1EwRMgWXS9U8Oet39tlYwY"
     },
     {
       "album": {
@@ -1722,7 +3250,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 174878,
       "name": "Something There",
       "url": "https://open.spotify.com/track/77JhqIuQjqzVmkRTUcm9ji"
@@ -1758,10 +3286,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 273120,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/38SueFAjT6jtFneyoQamYi"
+    },
+    {
+      "album": {
+        "name": "A Goofy Movie",
+        "url": "https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P"
+      },
+      "artists": [
+        {
+          "name": "Tevin Campbell",
+          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180440,
+      "name": "Stand Out",
+      "url": "https://open.spotify.com/track/48UDhM2xL9wUuYLfrpK2Jv"
     },
     {
       "album": {
@@ -1780,7 +3326,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 101176,
       "name": "Start of Something New - Nini Version",
       "url": "https://open.spotify.com/track/5IZU5UmMN4Q1up8pnW2hWL"
@@ -1798,10 +3344,72 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 204173,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/6N6Y1AdoGqw5H3lzli5DgL"
+    },
+    {
+      "album": {
+        "name": "Steamboat Willie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/10ahmVYvfoND25ZelOzUhB"
+      },
+      "artists": [
+        {
+          "name": "Walt Disney",
+          "url": "https://open.spotify.com/artist/2qyTNQUXF8iFeYwTnExDch"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457474,
+      "name": "Steamboat Willie",
+      "url": "https://open.spotify.com/track/0OFx1SDlSF7BueX3xZBjG4"
+    },
+    {
+      "album": {
+        "name": "Tarzan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "Strangers Like Me",
+      "url": "https://open.spotify.com/track/3T74kgnbHw8JqkYGJKD4Tl"
+    },
+    {
+      "album": {
+        "name": "Mary Poppins (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3TpEE2z8atZWn2p7MUHF0U"
+      },
+      "artists": [
+        {
+          "name": "Julie Andrews",
+          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+        },
+        {
+          "name": "Dick Van Dyke",
+          "url": "https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6"
+        },
+        {
+          "name": "The Pearlie Chorus",
+          "url": "https://open.spotify.com/artist/0sT01j0t90pOjUgS61doJw"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123026,
+      "name": "Supercalifragilisticexpialidocious",
+      "url": "https://open.spotify.com/track/7fImDWw5bcUhRbZ0w1ny4J"
     },
     {
       "album": {
@@ -1824,7 +3432,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 123026,
       "name": "Supercalifragilisticexpialidocious - From \"Mary Poppins\" Soundtrack",
       "url": "https://open.spotify.com/track/05miM6U3bpqzG5BRr0C8FF"
@@ -1849,6 +3457,78 @@
     },
     {
       "album": {
+        "name": "Annette",
+        "url": "https://open.spotify.com/album/1MFYzmNeW4tyNs8BfJ9JZQ"
+      },
+      "artists": [
+        {
+          "name": "Annette Funicello",
+          "url": "https://open.spotify.com/artist/1uHivHZ0fLfvwPL1UgkpMU"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97080,
+      "name": "Tall Paul",
+      "url": "https://open.spotify.com/track/7oJujJSTfOKP1Gw95dK3Sy"
+    },
+    {
+      "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
+      },
+      "artists": [
+        {
+          "name": "Amy Adams",
+          "url": "https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228960,
+      "name": "That's How You Know - From \"Enchanted\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7"
+    },
+    {
+      "album": {
+        "name": "Bedknobs and Broomsticks",
+        "url": "https://open.spotify.com/album/5HnvqWzFrgJ2LFa1pccKMz"
+      },
+      "artists": [
+        {
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198253,
+      "name": "The Age Of Not Believing - From \"Bedknobs And Broomsticks\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/1Afzcuo0XKgOiGS9sdq8ko"
+    },
+    {
+      "album": {
+        "name": "Disney Classics",
+        "url": "https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0"
+      },
+      "artists": [
+        {
+          "name": "The Mellomen",
+          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101213,
+      "name": "The Ballad of Davy Crockett - From \"Frontierland\"",
+      "url": "https://open.spotify.com/track/5ZmGoux6Pu8rtfjBWtLR7w"
+    },
+    {
+      "album": {
         "name": "Toy Story 4 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA"
       },
@@ -1860,7 +3540,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 105013,
       "name": "The Ballad of the Lonesome Cowboy",
       "url": "https://open.spotify.com/track/3a24rUSZ1Ui3xmPNnqpor8"
@@ -1882,10 +3562,50 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 180706,
       "name": "The Bare Necessities",
       "url": "https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6"
+    },
+    {
+      "album": {
+        "name": "The Jungle Book",
+        "url": "https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE"
+      },
+      "artists": [
+        {
+          "name": "Phil Harris",
+          "url": "https://open.spotify.com/artist/2ISMfPtVzHc9jDDVPUEHDa"
+        },
+        {
+          "name": "Bruce Reitherman",
+          "url": "https://open.spotify.com/artist/43HPW60tz4BMYMRnmXMagJ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291466,
+      "name": "The Bare Necessities",
+      "url": "https://open.spotify.com/track/7h5crXBSY5SSpXRIlklv74"
+    },
+    {
+      "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174120,
+      "name": "The Best of Both Worlds - From \"Hannah Montana\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg"
     },
     {
       "album": {
@@ -1926,7 +3646,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 99005,
       "name": "The Glory Days - A Cappella",
       "url": "https://open.spotify.com/track/3YOMW7b5F56UVmPGzR1CzZ"
@@ -1944,10 +3664,130 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 223893,
       "name": "The Place Where Lost Things Go",
       "url": "https://open.spotify.com/track/6BK8BcFxMFr3JVUaAOZsYC"
+    },
+    {
+      "album": {
+        "name": "Walt Disney World Official Album",
+        "url": "https://open.spotify.com/album/6lMJcDBuF11ofh3RcY5JIC"
+      },
+      "artists": [
+        {
+          "name": "Richard M. Sherman",
+          "url": "https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb"
+        },
+        {
+          "name": "Robert B. Sherman",
+          "url": "https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207653,
+      "name": "The Tiki, Tiki, Tiki Room - From \"The Enchanted Tiki Room\"",
+      "url": "https://open.spotify.com/track/0OnRX1i8ZS9eCRnKYkK98n"
+    },
+    {
+      "album": {
+        "name": "Disney's Greatest Vol. 3",
+        "url": "https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh"
+      },
+      "artists": [
+        {
+          "name": "Tigger",
+          "url": "https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e"
+        },
+        {
+          "name": "Jim Cummings",
+          "url": "https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36373,
+      "name": "The Wonderful Thing About Tiggers - From \"Winnie The Pooh And The Blustery Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/26pgDPmuZy1dmC14jxAdA0"
+    },
+    {
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Anthony Gonzalez",
+          "url": "https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv"
+        },
+        {
+          "name": "Antonio Sol",
+          "url": "https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50765,
+      "name": "The World Es Mi Familia",
+      "url": "https://open.spotify.com/track/7FOS31xq9jv4cXWtp6Jnzw"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: Disneyland",
+        "url": "https://open.spotify.com/album/6Tl4sqA4gMSbqAAs2T0C41"
+      },
+      "artists": [
+        {
+          "name": "Rex Allen",
+          "url": "https://open.spotify.com/artist/66SqnH24eOjN0IEwWjmMyQ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422173,
+      "name": "There's a Great Big Beautiful Tomorrow - From The Carousel of Progress",
+      "url": "https://open.spotify.com/track/1LFX9caGBvgcOh7mlhAbdh"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Aristocats",
+        "url": "https://open.spotify.com/album/7IPWub5h9QABjRGJrRV1Cz"
+      },
+      "artists": [
+        {
+          "name": "Phil Harris",
+          "url": "https://open.spotify.com/artist/2ISMfPtVzHc9jDDVPUEHDa"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162680,
+      "name": "Thomas O'Malley Cat - Original Soundtrack Version",
+      "url": "https://open.spotify.com/track/4GUsoI49mC1wLsckhCf9z1"
     },
     {
       "album": {
@@ -2004,10 +3844,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 245957,
       "name": "Trip a Little Light Fantastic - From \"Mary Poppins Returns\"/Edit",
       "url": "https://open.spotify.com/track/5YWSlrbFrK7X0ENL0uK9Uz"
+    },
+    {
+      "album": {
+        "name": "Zootopia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "Try Everything",
+      "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
     },
     {
       "album": {
@@ -2022,7 +3880,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 214600,
       "name": "Two Oruguitas",
       "url": "https://open.spotify.com/track/6jPVyjPqp2BNUJnDSwm8tK"
@@ -2051,6 +3909,28 @@
     },
     {
       "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7"
+    },
+    {
+      "album": {
         "name": "The Little Mermaid",
         "url": "https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG"
       },
@@ -2066,7 +3946,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 195146,
       "name": "Under the Sea - From \"The Little Mermaid\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/4qqfI5oNO53a6W7nWfutKH"
@@ -2159,6 +4039,78 @@
     },
     {
       "album": {
+        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242160,
+      "name": "What Dreams Are Made Of",
+      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "What's This?",
+      "url": "https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK"
+    },
+    {
+      "album": {
+        "name": "Toy Story Favorites",
+        "url": "https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183440,
+      "name": "When She Loved Me - From \"Toy Story 2\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/780W6YW5HFANQLR77Owern"
+    },
+    {
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152333,
+      "name": "When Will My Life Begin? - From \"Tangled\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj"
+    },
+    {
+      "album": {
         "name": "Pinocchio (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL"
       },
@@ -2170,10 +4122,146 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 117693,
       "name": "When You Wish Upon A Star",
       "url": "https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf"
+    },
+    {
+      "album": {
+        "name": "When You Wish Upon a Star (From \"Disney 100\")",
+        "url": "https://open.spotify.com/album/5AGZKi74CsJrmJ7hJAFNrH"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234004,
+      "name": "When You Wish Upon a Star - From \"Disney 100\"",
+      "url": "https://open.spotify.com/track/2xdvhChCtpYxyNApVJEUG1"
+    },
+    {
+      "album": {
+        "name": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk"
+      },
+      "artists": [
+        {
+          "name": "Adriana Caselotti",
+          "url": "https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203746,
+      "name": "Whistle While You Work",
+      "url": "https://open.spotify.com/track/1ai54RVIzu7IKebNbPEwMv"
+    },
+    {
+      "album": {
+        "name": "Disney's Greatest Vol. 3",
+        "url": "https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh"
+      },
+      "artists": [
+        {
+          "name": "Pinto Colvig",
+          "url": "https://open.spotify.com/artist/4X8LTt7CXvrqzfS4G4ONUX"
+        },
+        {
+          "name": "Mary Moder",
+          "url": "https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh"
+        },
+        {
+          "name": "Dorothy Compton",
+          "url": "https://open.spotify.com/artist/0humNRtJZUnSFh10d8Vnou"
+        },
+        {
+          "name": "Billy Bletcher",
+          "url": "https://open.spotify.com/artist/7MCVs8C2nykvXVyTyrUoVd"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187320,
+      "name": "Who's Afraid of the Big, Bad Wolf - From \"Three Little Pigs\"",
+      "url": "https://open.spotify.com/track/4K1kR94TrMRoznMHBFaa3C"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Winnie the Pooh and the Honey Tree",
+        "url": "https://open.spotify.com/album/2h7GDf31ar6zI2SkHrQ9TE"
+      },
+      "artists": [
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138200,
+      "name": "Winnie the Pooh - From \"Winnie the Pooh and the Honey Tree\"",
+      "url": "https://open.spotify.com/track/7dAhz8AzHFI4qPiv2zF7Xi"
+    },
+    {
+      "album": {
+        "name": "Disney's Ultimate Swashbuckler Collection",
+        "url": "https://open.spotify.com/album/7AARXLsjtDsT3TloDKsuau"
+      },
+      "artists": [
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201640,
+      "name": "Yo Ho (A Pirate's Life for Me)",
+      "url": "https://open.spotify.com/track/35zjgo7EZJ84SgBSKD7TQT"
+    },
+    {
+      "album": {
+        "name": "Peter Pan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1tCVqfTbVWmXFXx0HmGkob"
+      },
+      "artists": [
+        {
+          "name": "Bobby Driscoll",
+          "url": "https://open.spotify.com/artist/4CkLcamYYOTtKnLWjuUDyr"
+        },
+        {
+          "name": "Kathryn Beaumont",
+          "url": "https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls"
+        },
+        {
+          "name": "Paul Collins",
+          "url": "https://open.spotify.com/artist/1aL3c8BNATMQEsauxJoYn7"
+        },
+        {
+          "name": "Tommy Luske",
+          "url": "https://open.spotify.com/artist/51AV2GURH2q9LqgBcUsUJf"
+        },
+        {
+          "name": "The Jud Conlon Chorus",
+          "url": "https://open.spotify.com/artist/5s5jvj5TkkMkQDR28awRsA"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264280,
+      "name": "You Can Fly! You Can Fly! You Can Fly!",
+      "url": "https://open.spotify.com/track/1HTqoEMp8bRSfPDM7c5xIm"
     },
     {
       "album": {
@@ -2192,7 +4280,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 196619,
       "name": "You Never Know",
       "url": "https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop"
@@ -2210,7 +4298,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 256733,
       "name": "You'll Be In My Heart",
       "url": "https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid"
@@ -2246,10 +4334,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 258133,
       "name": "You'll Be In My Heart - From \"Tarzan\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1fTDYdx5zYfWJSX0JlKO8o"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163893,
+      "name": "You're Welcome",
+      "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
     },
     {
       "album": {
@@ -2264,7 +4370,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 124386,
       "name": "You've Got a Friend in Me",
       "url": "https://open.spotify.com/track/5aaUXcrsXI477I93yBE8lu"
@@ -2318,7 +4424,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 210933,
       "name": "Zero - From the Original Motion Picture \"Ralph Breaks The Internet\"",
       "url": "https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi"
@@ -2354,7 +4460,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 159533,
       "name": "Zero To Hero - From \"Hercules\"",
       "url": "https://open.spotify.com/track/685FssvXssY1hyIZWDb7WX"

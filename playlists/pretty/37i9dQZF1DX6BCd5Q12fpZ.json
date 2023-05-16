@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 64154,
+  "num_followers": 64300,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTQzYWExNTljNzQ4NzNjYzhiOTUyNDZiNGUyOWM5MmVkZTExOTY4",
+  "snapshot_id": "MCw4ZjkyYzhjMzllNzM4ZDMwOTNiMjUzYjg3NGRiMDAxZjJiMjg4Zjk5",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Love Me, Please Love Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15"
-      },
-      "artists": [
-        {
-          "name": "Sandie Shaw",
-          "url": "https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Puppet On A String",
-      "url": "https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Trenule\u021bul",
         "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 172152,
       "name": "Rhythm Inside",
       "url": "https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Love Me, Please Love Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15"
+      },
+      "artists": [
+        {
+          "name": "Sandie Shaw",
+          "url": "https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Puppet On A String",
+      "url": "https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "The New Seekers",
-        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
       },
       "artists": [
         {
-          "name": "The New Seekers",
-          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+          "name": "Jedward",
+          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
         }
       ],
-      "duration_ms": 167333,
-      "name": "Beg, Steal Or Borrow",
-      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
+      "duration_ms": 175000,
+      "name": "Lipstick - Radio Edit",
+      "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -795,38 +795,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "t.A.T.u. - The Best",
-        "url": "https://open.spotify.com/album/0tzIPJxQTy6j6nQ3rbWXXy"
-      },
-      "artists": [
-        {
-          "name": "t.A.T.u.",
-          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Ne Ver, Ne Boisia - Eurovision 2003 Version",
-      "url": "https://open.spotify.com/track/4MuQWNaW51V9LRocFQUZRU"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Lipstick",
-        "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Lipstick - Radio Edit",
-      "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Secret Combination",
         "url": "https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a"
       },
@@ -839,6 +807,22 @@
       "duration_ms": 182586,
       "name": "Secret Combination - Eurovision 2008 Mix",
       "url": "https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "The New Seekers",
+        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -859,6 +843,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "t.A.T.u. - The Best",
+        "url": "https://open.spotify.com/album/0tzIPJxQTy6j6nQ3rbWXXy"
+      },
+      "artists": [
+        {
+          "name": "t.A.T.u.",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Ne Ver, Ne Boisia - Eurovision 2003 Version",
+      "url": "https://open.spotify.com/track/4MuQWNaW51V9LRocFQUZRU"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "J'ai cherch\u00e9",
         "url": "https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Sexuality",
-        "url": "https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Tellier",
-          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 207594,
       "name": "Glorious - Video Edit",
       "url": "https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Sexuality",
+        "url": "https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        }
+      ],
+      "duration_ms": 188853,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "No Boundaries",
-        "url": "https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu"
-      },
-      "artists": [
-        {
-          "name": "Sertab Erener",
-          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Every Way That I Can - Philippe Laurent from Galleon Radio Edit",
-      "url": "https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "To Hrono Stamatao",
         "url": "https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 180586,
       "name": "Shake It - Eurovision Version",
       "url": "https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "No Boundaries",
+        "url": "https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu"
+      },
+      "artists": [
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Every Way That I Can - Philippe Laurent from Galleon Radio Edit",
+      "url": "https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp"
     },
     {
       "added_at": "2023-05-05 17:20:54",

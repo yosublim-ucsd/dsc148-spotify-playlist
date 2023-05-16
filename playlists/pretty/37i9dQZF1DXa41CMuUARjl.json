@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Chlo\u00e9 Caillet.",
-  "num_followers": 434559,
+  "num_followers": 434674,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmIxYjRiNDNhMTBiZTY5ODBjMTY5M2RkYWU3YTUwYzMyMjMyN2I0",
+  "snapshot_id": "MCwwNTE4NGZiZjAyNTI5OTFlNzcxZjEzNDViYmRkMDk1YmE0ZmQ4ZGRi",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -583,46 +583,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Candle Flame (Opolopo Remix)",
-        "url": "https://open.spotify.com/album/1TgevMR4b6rX7wxXI252us"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Opolopo",
-          "url": "https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94"
-        }
-      ],
-      "duration_ms": 353164,
-      "name": "Candle Flame - Opolopo Remix",
-      "url": "https://open.spotify.com/track/6rGww3K64vpXmxa0azKA8L"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Blacked Out Rover (Don Diablo Edit)",
-        "url": "https://open.spotify.com/album/35xtEq9arVOIZhbSoLFgfS"
-      },
-      "artists": [
-        {
-          "name": "NIGHT / MOVES",
-          "url": "https://open.spotify.com/artist/0XMAZpLBHMc9ZvwsrctpmJ"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 162381,
-      "name": "Blacked Out Rover - Don Diablo Edit",
-      "url": "https://open.spotify.com/track/3Fn3QYO5vuLHwQvZBo8xh4"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Out Of Options (feat. midwxst)",
         "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
       },
@@ -659,6 +619,46 @@
       "duration_ms": 144037,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/02RIHCcIRIrFgRYzUizHlJ"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Blacked Out Rover (Don Diablo Edit)",
+        "url": "https://open.spotify.com/album/35xtEq9arVOIZhbSoLFgfS"
+      },
+      "artists": [
+        {
+          "name": "NIGHT / MOVES",
+          "url": "https://open.spotify.com/artist/0XMAZpLBHMc9ZvwsrctpmJ"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 162381,
+      "name": "Blacked Out Rover - Don Diablo Edit",
+      "url": "https://open.spotify.com/track/3Fn3QYO5vuLHwQvZBo8xh4"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Candle Flame (Opolopo Remix)",
+        "url": "https://open.spotify.com/album/1TgevMR4b6rX7wxXI252us"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Opolopo",
+          "url": "https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94"
+        }
+      ],
+      "duration_ms": 353164,
+      "name": "Candle Flame - Opolopo Remix",
+      "url": "https://open.spotify.com/track/6rGww3K64vpXmxa0azKA8L"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The World to Come",
-        "url": "https://open.spotify.com/album/46woSsdEBn20ygi6rQOu9r"
-      },
-      "artists": [
-        {
-          "name": "Zusha",
-          "url": "https://open.spotify.com/artist/0VXG44vdmNhcTCipc2Iz3Z"
-        }
-      ],
-      "duration_ms": 193445,
-      "name": "The World to Come",
-      "url": "https://open.spotify.com/track/3kRm4aprusJnK7baeXzcsF"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Someone To Forget",
         "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 241714,
       "name": "Someone To Forget",
       "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The World to Come",
+        "url": "https://open.spotify.com/album/46woSsdEBn20ygi6rQOu9r"
+      },
+      "artists": [
+        {
+          "name": "Zusha",
+          "url": "https://open.spotify.com/artist/0VXG44vdmNhcTCipc2Iz3Z"
+        }
+      ],
+      "duration_ms": 193445,
+      "name": "The World to Come",
+      "url": "https://open.spotify.com/track/3kRm4aprusJnK7baeXzcsF"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "It Burns - EP",
+        "url": "https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 192619,
+      "name": "It Burns",
+      "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Keep You As A Memory (Disco Lines Remix)",
         "url": "https://open.spotify.com/album/3KIo8fRmpODr82I90l3XcC"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 193040,
       "name": "Vai Tu",
       "url": "https://open.spotify.com/track/6lBDf2Qx6SC9WtncLcBFOf"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "It Burns - EP",
-        "url": "https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 192619,
-      "name": "It Burns",
-      "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1091,46 +1091,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Function",
-        "url": "https://open.spotify.com/album/4oWN5dvjdwaoCJj7JWkbqV"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Sage Armstrong",
-          "url": "https://open.spotify.com/artist/1cfwUSXEE2axXJGQfnfVFH"
-        }
-      ],
-      "duration_ms": 170551,
-      "name": "The Function",
-      "url": "https://open.spotify.com/track/6LmyUEqf0CKS0cEsL5Hlvo"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/525ORJiAr0Gt29UjF1hpJU"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 276157,
-      "name": "Nation",
-      "url": "https://open.spotify.com/track/7u6e2bismSIAH1fyUvj3Ru"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Rosebud / Black Dove",
         "url": "https://open.spotify.com/album/0GqxOSETsidoCMzXvjLN3o"
       },
@@ -1167,26 +1127,42 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Walk To Church",
-        "url": "https://open.spotify.com/album/51D8zWZh1XZ2XREofvYF8Q"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/525ORJiAr0Gt29UjF1hpJU"
       },
       "artists": [
         {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
         },
         {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
         }
       ],
-      "duration_ms": 198095,
-      "name": "The Walk To Church",
-      "url": "https://open.spotify.com/track/2mZRna9DI8dqUEt1JhZs6l"
+      "duration_ms": 276157,
+      "name": "Nation",
+      "url": "https://open.spotify.com/track/7u6e2bismSIAH1fyUvj3Ru"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Function",
+        "url": "https://open.spotify.com/album/4oWN5dvjdwaoCJj7JWkbqV"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Sage Armstrong",
+          "url": "https://open.spotify.com/artist/1cfwUSXEE2axXJGQfnfVFH"
+        }
+      ],
+      "duration_ms": 170551,
+      "name": "The Function",
+      "url": "https://open.spotify.com/track/6LmyUEqf0CKS0cEsL5Hlvo"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1207,22 +1183,26 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "2 MARTINIS ON THE GO",
-        "url": "https://open.spotify.com/album/0Bi4rmdRjCNYPQ85hHeRdG"
+        "name": "The Walk To Church",
+        "url": "https://open.spotify.com/album/51D8zWZh1XZ2XREofvYF8Q"
       },
       "artists": [
         {
-          "name": "Albin Myers",
-          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
         },
         {
-          "name": "Young Earth Sauce",
-          "url": "https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf"
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
         }
       ],
-      "duration_ms": 109112,
-      "name": "2 MARTINIS ON THE GO",
-      "url": "https://open.spotify.com/track/39ErQKxX5vWCjzIQvAtTZM"
+      "duration_ms": 198095,
+      "name": "The Walk To Church",
+      "url": "https://open.spotify.com/track/2mZRna9DI8dqUEt1JhZs6l"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1267,18 +1247,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Laugh",
-        "url": "https://open.spotify.com/album/1bdCAIPA5z4ixrc9D8ch8F"
+        "name": "2 MARTINIS ON THE GO",
+        "url": "https://open.spotify.com/album/0Bi4rmdRjCNYPQ85hHeRdG"
       },
       "artists": [
         {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+          "name": "Albin Myers",
+          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
+        },
+        {
+          "name": "Young Earth Sauce",
+          "url": "https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf"
         }
       ],
-      "duration_ms": 218395,
-      "name": "Laugh",
-      "url": "https://open.spotify.com/track/2sHAn0xGFqwl5X1ciLvfv2"
+      "duration_ms": 109112,
+      "name": "2 MARTINIS ON THE GO",
+      "url": "https://open.spotify.com/track/39ErQKxX5vWCjzIQvAtTZM"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1295,6 +1279,22 @@
       "duration_ms": 193548,
       "name": "Waiting All My Life",
       "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Laugh",
+        "url": "https://open.spotify.com/album/1bdCAIPA5z4ixrc9D8ch8F"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "duration_ms": 218395,
+      "name": "Laugh",
+      "url": "https://open.spotify.com/track/2sHAn0xGFqwl5X1ciLvfv2"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/5FMnWmP8wTn0EUXajr5Zaq"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "duration_ms": 251058,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/7JAkvffm6VZJ0uVO3DY3My"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Out Of My Mind (feat. Jalja)",
         "url": "https://open.spotify.com/album/70gA4UkYX9QtFF0wojFjpV"
       },
@@ -1335,6 +1351,22 @@
       "duration_ms": 197423,
       "name": "Out Of My Mind (feat. Jalja)",
       "url": "https://open.spotify.com/track/3hKYGXCJC7NWtI6gMIMywE"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Proper Time",
+        "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
+      },
+      "artists": [
+        {
+          "name": "Vakabular",
+          "url": "https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt"
+        }
+      ],
+      "duration_ms": 301935,
+      "name": "Proper Time",
+      "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1359,38 +1391,38 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/5FMnWmP8wTn0EUXajr5Zaq"
+        "name": "Polychrome",
+        "url": "https://open.spotify.com/album/0NdJ9dK8zavK2oB68fJFva"
       },
       "artists": [
         {
-          "name": "Blossom",
-          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
         }
       ],
-      "duration_ms": 251058,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/7JAkvffm6VZJ0uVO3DY3My"
+      "duration_ms": 286034,
+      "name": "I'll Be There for You",
+      "url": "https://open.spotify.com/track/6TxceRnA4BeLn0XFRNbl5Y"
     },
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "CHOMPO I",
-        "url": "https://open.spotify.com/album/6P6m7fqCHXDwAFSq7iqzGZ"
+        "name": "With A Kiss",
+        "url": "https://open.spotify.com/album/5ScayNQ3lgD8pYIHWFk8h8"
       },
       "artists": [
         {
-          "name": "CHOMPO",
-          "url": "https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT"
+          "name": "Pink Panda",
+          "url": "https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH"
         },
         {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+          "name": "Jeffrey Sutorius",
+          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
         }
       ],
-      "duration_ms": 143437,
-      "name": "VOLC4NO",
-      "url": "https://open.spotify.com/track/5aPVwcXawK8A066VqnsQti"
+      "duration_ms": 149032,
+      "name": "With A Kiss - Radio Edit",
+      "url": "https://open.spotify.com/track/7LzTk4S944EfMcCx6pZ4I9"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1419,38 +1451,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Proper Time",
-        "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
-      },
-      "artists": [
-        {
-          "name": "Vakabular",
-          "url": "https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt"
-        }
-      ],
-      "duration_ms": 301935,
-      "name": "Proper Time",
-      "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Polychrome",
-        "url": "https://open.spotify.com/album/0NdJ9dK8zavK2oB68fJFva"
-      },
-      "artists": [
-        {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
-        }
-      ],
-      "duration_ms": 286034,
-      "name": "I'll Be There for You",
-      "url": "https://open.spotify.com/track/6TxceRnA4BeLn0XFRNbl5Y"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Almost Weightless",
         "url": "https://open.spotify.com/album/5DnqvrQnOpEZr2vVnGnq3l"
       },
@@ -1467,38 +1467,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "With A Kiss",
-        "url": "https://open.spotify.com/album/5ScayNQ3lgD8pYIHWFk8h8"
+        "name": "CHOMPO I",
+        "url": "https://open.spotify.com/album/6P6m7fqCHXDwAFSq7iqzGZ"
       },
       "artists": [
         {
-          "name": "Pink Panda",
-          "url": "https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH"
+          "name": "CHOMPO",
+          "url": "https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT"
         },
         {
-          "name": "Jeffrey Sutorius",
-          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
         }
       ],
-      "duration_ms": 149032,
-      "name": "With A Kiss - Radio Edit",
-      "url": "https://open.spotify.com/track/7LzTk4S944EfMcCx6pZ4I9"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Dinosaurs EP",
-        "url": "https://open.spotify.com/album/6FcXt3XyQYicYLr8goJrT9"
-      },
-      "artists": [
-        {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        }
-      ],
-      "duration_ms": 348460,
-      "name": "Dinosaurs",
-      "url": "https://open.spotify.com/track/3mCRbYWRmGDZKaX2VR4T05"
+      "duration_ms": 143437,
+      "name": "VOLC4NO",
+      "url": "https://open.spotify.com/track/5aPVwcXawK8A066VqnsQti"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Love My House",
-        "url": "https://open.spotify.com/album/1DSAMWIcYeWOvVxzdZJ4Cw"
+        "name": "Dinosaurs EP",
+        "url": "https://open.spotify.com/album/6FcXt3XyQYicYLr8goJrT9"
       },
       "artists": [
         {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Love My House",
-      "url": "https://open.spotify.com/track/7muGDRh89CHmI2vuexyWK4"
+      "duration_ms": 348460,
+      "name": "Dinosaurs",
+      "url": "https://open.spotify.com/track/3mCRbYWRmGDZKaX2VR4T05"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1579,6 +1563,38 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/2JQZHflIHUVBYaSfuGUmJE"
+      },
+      "artists": [
+        {
+          "name": "Fahlberg",
+          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/6W2ZjBmxbpzETmwJQ5h7jA"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Love My House",
+        "url": "https://open.spotify.com/album/1DSAMWIcYeWOvVxzdZJ4Cw"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Love My House",
+      "url": "https://open.spotify.com/track/7muGDRh89CHmI2vuexyWK4"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Fuckin' EP",
         "url": "https://open.spotify.com/album/2IjubawH9RnKEvVd3f9lv6"
       },
@@ -1611,38 +1627,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Place To Be",
-        "url": "https://open.spotify.com/album/4AFTUQtnX34HBOJjk08Wdp"
-      },
-      "artists": [
-        {
-          "name": "Miane",
-          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
-        }
-      ],
-      "duration_ms": 192086,
-      "name": "Place To Be",
-      "url": "https://open.spotify.com/track/7fEXuHcjNUIDjoe1LUxyqt"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Targa",
-        "url": "https://open.spotify.com/album/2gGsxnuv7r7POARudVVnw4"
-      },
-      "artists": [
-        {
-          "name": "Waterm\u00e4t",
-          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
-        }
-      ],
-      "duration_ms": 186576,
-      "name": "Targa",
-      "url": "https://open.spotify.com/track/0QN7gdtDObMcnhWTKXqb2O"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Blue Nights",
         "url": "https://open.spotify.com/album/7FjwOeLaarR2vidPzmFKXO"
       },
@@ -1671,6 +1655,38 @@
       "duration_ms": 165500,
       "name": "VOODOO",
       "url": "https://open.spotify.com/track/2ryYs693sIZvV2No5g3vY7"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Targa",
+        "url": "https://open.spotify.com/album/2gGsxnuv7r7POARudVVnw4"
+      },
+      "artists": [
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+        }
+      ],
+      "duration_ms": 186576,
+      "name": "Targa",
+      "url": "https://open.spotify.com/track/0QN7gdtDObMcnhWTKXqb2O"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Place To Be",
+        "url": "https://open.spotify.com/album/4AFTUQtnX34HBOJjk08Wdp"
+      },
+      "artists": [
+        {
+          "name": "Miane",
+          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
+        }
+      ],
+      "duration_ms": 192086,
+      "name": "Place To Be",
+      "url": "https://open.spotify.com/track/7fEXuHcjNUIDjoe1LUxyqt"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1735,22 +1751,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Bad Love",
-        "url": "https://open.spotify.com/album/2JQZHflIHUVBYaSfuGUmJE"
-      },
-      "artists": [
-        {
-          "name": "Fahlberg",
-          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/6W2ZjBmxbpzETmwJQ5h7jA"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Never Going Home",
         "url": "https://open.spotify.com/album/5zhtSm1uVoHLOpP6W24RGj"
       },
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "goingoutsad",
+        "url": "https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN"
+      },
+      "artists": [
+        {
+          "name": "keltiey",
+          "url": "https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys"
+        }
+      ],
+      "duration_ms": 119931,
+      "name": "goingoutsad",
+      "url": "https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Sword",
         "url": "https://open.spotify.com/album/7lG7VCOz17CZVqvvYVPrhf"
       },
@@ -1827,6 +1843,22 @@
       "duration_ms": 185240,
       "name": "Sword",
       "url": "https://open.spotify.com/track/5BeECKIzdqB3HoxBeWZA47"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "the kick is good",
+        "url": "https://open.spotify.com/album/7MtRauhe7CW1b1dj0tbcF7"
+      },
+      "artists": [
+        {
+          "name": "MOR",
+          "url": "https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "junk in the trunk",
+      "url": "https://open.spotify.com/track/3RUjSAqcqw9Cc42in88607"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1871,22 +1903,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "the kick is good",
-        "url": "https://open.spotify.com/album/7MtRauhe7CW1b1dj0tbcF7"
-      },
-      "artists": [
-        {
-          "name": "MOR",
-          "url": "https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "junk in the trunk",
-      "url": "https://open.spotify.com/track/3RUjSAqcqw9Cc42in88607"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Euclidean",
         "url": "https://open.spotify.com/album/1QOLKfkA9OW1gJFHsAxe27"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 280266,
       "name": "Euclidean",
       "url": "https://open.spotify.com/track/5nsn7LtAnTDyF8kuApNXCK"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "goingoutsad",
-        "url": "https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN"
-      },
-      "artists": [
-        {
-          "name": "keltiey",
-          "url": "https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys"
-        }
-      ],
-      "duration_ms": 119931,
-      "name": "goingoutsad",
-      "url": "https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W"
     },
     {
       "added_at": "2023-05-12 04:00:00",

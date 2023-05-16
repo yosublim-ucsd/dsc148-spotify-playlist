@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW?si=4a5915da17984cd0">The Young Escape</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,708 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,817 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [less is more](https://open.spotify.com/track/6LtfBO4j0drKRguNyuIR5r) | [Gaetan Judd](https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc) | [upperroom](https://open.spotify.com/album/3znNeJteM16vHwOsgnIbK3) | 2:32 |
 | 100 | [pure](https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [pure](https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0) | 5:56 |
 
-Snapshot ID: `MCw2MzNhMzQ0NmVhNzg4OTNhYmRlZWRmNDQwNzkzM2M2ZjBiYjVkNTBh`
+Snapshot ID: `MCw5NDM4OTMxNjA0Nzg2MGJjNDRmNjllZWVjMmY0YjBhZWI0YzBlY2M2`

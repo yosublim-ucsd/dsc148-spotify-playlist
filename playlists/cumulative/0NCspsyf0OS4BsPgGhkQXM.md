@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-741 songs - 1 day 16 hr 26 min
+742 songs - 1 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Out Of My Head](https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Thrashout](https://open.spotify.com/artist/06gQPVgdmLJUAo4HdW8oLy) | [Out Of My Head](https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ) | 2:43 | 2022-06-24 | 2022-07-29 |
 | [Out There](https://open.spotify.com/track/7biGIoDMM2fi4kyeThFviQ) | [Synchronice](https://open.spotify.com/artist/1pOmjpg4X03jcvS2R0FY53) | [Out There](https://open.spotify.com/album/7lS0irSjPX8JqfxKBJkPkw) | 3:07 | 2022-01-14 | 2022-09-15 |
 | [Outta Here](https://open.spotify.com/track/2FAtvwUovZe4rx2xFgq19O) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Outta Here](https://open.spotify.com/album/45ftOGlHABO8dnOPjH9Q7s) | 4:00 | 2022-01-14 | 2022-09-15 |
+| [Outta my head](https://open.spotify.com/track/1joXqptvn9OgoDbXA1S3p7) | [Omido](https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh), [Rick Jansen](https://open.spotify.com/artist/53lSnB02n045g5jMu0ItCz), [Ordell](https://open.spotify.com/artist/1sQcw2YF60pAu0HYJzUhKN) | [Outta my head](https://open.spotify.com/album/0xsbdCQqV9Rl4K0d82aOe0) | 2:41 | 2023-05-15 |  |
 | [Overflow](https://open.spotify.com/track/7fmijESG18W7PcwEUdVKmh) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [LV\-L8](https://open.spotify.com/artist/3UpBv2zDd5kMfECzOquXy4) | [Overflow](https://open.spotify.com/album/20U8HQGNGCy5vBVq0xfxRp) | 2:37 | 2022-07-08 | 2022-07-29 |
 | [Overthinker](https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/04jog2osd7pTEQc49jEIem) | 4:28 | 2022-01-14 | 2022-11-24 |
 | [Overthinker](https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/1eCYiLDLT6ZLzCeThN90UF) | 4:28 | 2022-11-22 |  |
@@ -703,7 +704,7 @@
 | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1) | 3:02 | 2022-11-17 |  |
 | [Walked Through Fire](https://open.spotify.com/track/5GjxlgXBgCMbp0zHLFUaug) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [Walked Through Fire](https://open.spotify.com/album/3K1a93RS9IWlIulb8Tkqhn) | 3:34 | 2022-08-26 | 2022-10-08 |
 | [Wannabe](https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1) | 3:37 | 2023-02-21 |  |
-| [WANT 2](https://open.spotify.com/track/1sPaKzY12RpRuY0IeFcaPM) | [andrei](https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [WANT 2](https://open.spotify.com/album/4HGwuo32aQEziAi12CdUXc) | 2:38 | 2023-05-12 |  |
+| [WANT 2 \(feat\. Snoop Dogg\)](https://open.spotify.com/track/1sPaKzY12RpRuY0IeFcaPM) | [andrei](https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [WANT 2 \(feat\. Snoop Dogg\)](https://open.spotify.com/album/4HGwuo32aQEziAi12CdUXc) | 2:38 | 2023-05-12 |  |
 | [Want It](https://open.spotify.com/track/3oImOUmlh3VnTc0saqOqVG) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Want It \(Remixes\)](https://open.spotify.com/album/4Vz1Xbx9XetfeKtBpqSRTC) | 3:36 | 2023-01-21 |  |
 | [Want To](https://open.spotify.com/track/4eRKLoekIhUlkwkszb928L) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [On The Coast!](https://open.spotify.com/album/2PjCRugBN4ew86DC17hT0g) | 4:25 | 2022-10-14 |  |
 | [Want to Know](https://open.spotify.com/track/4ZFhZGMxxt5nF3S8NtYkFN) | [Synchronice](https://open.spotify.com/artist/1pOmjpg4X03jcvS2R0FY53) | [Want to Know](https://open.spotify.com/album/1lBWKizQH5gBD4ZLTyVtE6) | 3:04 | 2022-01-14 | 2022-04-08 |

@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Decisions - EP",
+        "url": "https://open.spotify.com/album/6VjR9AEeFdSqpIjBkQieqR"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193855,
+      "name": "Decisions",
+      "url": "https://open.spotify.com/track/2E3wYUlW72BCDsGn5YNgCC"
+    },
+    {
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/5hwtvGZkoGZa3zwB7zM3eB"
       },
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 391866,
       "name": "Rutten",
       "url": "https://open.spotify.com/track/28T5MOMLbQ1MMmJAbrrxWr"

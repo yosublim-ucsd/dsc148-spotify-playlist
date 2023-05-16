@@ -217,6 +217,28 @@
     },
     {
       "album": {
+        "name": "Soundpieces: Da Antidote",
+        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
+      },
+      "artists": [
+        {
+          "name": "Lootpack",
+          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
+        },
+        {
+          "name": "Quasimoto",
+          "url": "https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283600,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/62XG3j3pMiIkHZxybltx4g"
+    },
+    {
+      "album": {
         "name": "Home Field Advantage",
         "url": "https://open.spotify.com/album/05d5zAD9KAdaJf7yQ98jxF"
       },
@@ -1646,7 +1668,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 146279,
       "name": "Players",
       "url": "https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI"

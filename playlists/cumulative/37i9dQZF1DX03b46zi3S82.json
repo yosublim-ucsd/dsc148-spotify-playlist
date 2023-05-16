@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Consolation",
+        "url": "https://open.spotify.com/album/0PlKcFXf5aU7M4RXiPqCHC"
+      },
+      "artists": [
+        {
+          "name": "Luiza Delma",
+          "url": "https://open.spotify.com/artist/6peVpFZZljbb4UEsYhlS7q"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109284,
+      "name": "Consolation",
+      "url": "https://open.spotify.com/track/5DfnvePy8Gw9vPoD2Q6LBC"
+    },
+    {
+      "album": {
         "name": "Continuation",
         "url": "https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj"
       },
@@ -4062,6 +4080,24 @@
       "duration_ms": 131146,
       "name": "Romanze",
       "url": "https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1"
+    },
+    {
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/1tUPHtLwTsYCJbJHgqxD3E"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131723,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/7AGO4RrJJKHUUX3rKPlIiL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Abbey Cone, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,822 likes - 110 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,857 likes - 110 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 73 | [Jesus and Jesse James](https://open.spotify.com/track/1ZSuRjgXoq4IMfHZvKjxVo) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Jesus and Jesse James](https://open.spotify.com/album/1K3SVTjEpKBZbeludZ1NQw) | 3:45 |
 | 74 | [Bar Changes](https://open.spotify.com/track/0tqF8JJv9ook6ATfxRuY14) | [Aaron Clafton](https://open.spotify.com/artist/0B1YrDxMjTzdGWoWLMDtP6) | [Bar Changes](https://open.spotify.com/album/4XwWRQPAZovEAEdUpUQrex) | 3:16 |
 | 75 | [Lemonade](https://open.spotify.com/track/4pvj3RiMqttMnkbBLaW9Qx) | [Sarah Wickett](https://open.spotify.com/artist/1Iw7F1iQ2LuyEJh3rGnFhc) | [Lemonade](https://open.spotify.com/album/2GfhapLVpGONup6ALHLWFi) | 2:30 |
-| 76 | [Good on You](https://open.spotify.com/track/4fb1LzcwIRU7cUr1V5jAdz) | [Steven Cali](https://open.spotify.com/artist/5r6D8shj3aoncfvLAhMyUD) | [Good on You](https://open.spotify.com/album/519zeXyJ71nSpegWl0iEUP) | 2:36 |
+| 76 | [Good On You](https://open.spotify.com/track/5EY8kdEyyGf9Lx0bBGUGZa) | [Steven Cali](https://open.spotify.com/artist/5r6D8shj3aoncfvLAhMyUD) | [Good On You](https://open.spotify.com/album/5Zcxg4zmO2UoWPYnceUknq) | 2:36 |
 | 77 | [Unforgivingly Me](https://open.spotify.com/track/3AhDEZJSqachAClLXNfSx9) | [Jade Gibson](https://open.spotify.com/artist/6WySchWeh56OiZ7Fxzu7Aq) | [Unforgivingly Me](https://open.spotify.com/album/01hoYJaRqNuMi06xhfvcLF) | 2:56 |
 | 78 | [Tennessee Ya Later](https://open.spotify.com/track/3pLBTLSNjFOVaUhyw7Aac8) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Tennessee Ya Later](https://open.spotify.com/album/797iPffK6s2txs3v1fajGX) | 3:27 |
 | 79 | [Here](https://open.spotify.com/track/0tO22YIhX8p5RYYqFIBDu4) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [Here](https://open.spotify.com/album/348h0Xi7XootpTLa7PiRwz) | 3:33 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 109 | [High Road](https://open.spotify.com/track/1wIeiRZ1u1BEY25BoAPbde) | [Rachel Wiggins](https://open.spotify.com/artist/58OPHOw8pfpLzzEGc2wyYp) | [High Road](https://open.spotify.com/album/0evY6hVLSDH5rh1nBvj63N) | 3:00 |
 | 110 | [Lonely Look Like](https://open.spotify.com/track/6IHdxPB9IwXTDNTW6KsSIo) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Lonely Look Like](https://open.spotify.com/album/0LVucQtYyQ51s1kVbZKhmA) | 3:44 |
 
-Snapshot ID: `MCxmYzczZmNjOGZhYTgxMDNkMzQ0OWZmNWY5MzZkN2Q4Y2YyNjEwMjAw`
+Snapshot ID: `MCwxNjdkM2YyMDljMmU0OTdjODA3MTNkOTAwMjJlMjY5ZThjZGNmMDAx`

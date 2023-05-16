@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=lXygR8XNTOmWchcoEDKwcQ"> Suté Iwar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,767 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,783 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 35 | [SuperWoman](https://open.spotify.com/track/4b3WPf16QNInzAr2VZk3pT) | [Mikun](https://open.spotify.com/artist/2Yqu9xcF435MXsfujOkSjg) | [SuperWoman](https://open.spotify.com/album/3fASBc7GXLtE2NiWOvOwsc) | 2:59 |
 | 36 | [Your Mind](https://open.spotify.com/track/4bruz4SVwYjjcIBtuBEN3n) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn) | [Your Mind](https://open.spotify.com/album/6Hz8dBX8nHEjlyEF8Fg2na) | 3:25 |
 | 37 | [Jejely](https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Jejely](https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO) | 3:01 |
-| 38 | [Who Jah Bless](https://open.spotify.com/track/37DMRdeaoKAu2N5Db8SNfB) | [CUBA](https://open.spotify.com/artist/2THhXchAWxdQ9ZFtFgeg9A) | [Who Jah Bless](https://open.spotify.com/album/62uQuYGHtnx0RP3zGF32Ei) | 2:58 |
+| 38 | [Who Jah Bless](https://open.spotify.com/track/16IVLOlgUsrF7u8TKSagxs) | [CUBA](https://open.spotify.com/artist/2THhXchAWxdQ9ZFtFgeg9A) | [Who Jah Bless](https://open.spotify.com/album/65REpLgTBfaSqHUt7rAOux) | 2:58 |
 | 39 | [Silly Nigga](https://open.spotify.com/track/5A9jthOz2ZMepULTBPQACH) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV) | [Silly Nigga](https://open.spotify.com/album/1wHUHtcfT6Rs7rV9vj9ung) | 2:55 |
 | 40 | [komplete riddim](https://open.spotify.com/track/1n4ddwMC0TWGuVSpA4XwK6) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC](https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n) | 3:17 |
 | 41 | [BBBBBB](https://open.spotify.com/track/2PrIK96A5GDg7GtbsCgJwg) | [MAUVEY](https://open.spotify.com/artist/6AdFoQsWjrVfWwi4BWYXCH), [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB) | [BEFORE THE ALBUM 2: a brief overview](https://open.spotify.com/album/2eYcC9osTDcUIIpqo1SgMd) | 2:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 69 | [See Finish](https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [See Finish](https://open.spotify.com/album/2f3gCbx2qefdq823voOXuh) | 3:00 |
 | 70 | [WORK](https://open.spotify.com/track/7KFRcebVg5o52rQ9VN68kN) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [WORK](https://open.spotify.com/album/5mWVY9sdHib1YkZHOxuE3X) | 2:34 |
 
-Snapshot ID: `MCw0YTJhOTlhNWI5MDc5YWU1NGI3Yzg1ZTZlZDJmMTA4MTRjMmI0ZmYz`
+Snapshot ID: `MCwwNzRjZjYzYTYyZDViZjRiMDBmNmQ4OGM0ODgwYTA0ZmViNmM5NThk`

@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 922908,
+  "num_followers": 923097,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjZlMGE5YmNmNGE3ZGI3MzRjNzhkMGY5NzljYTEyOGIzMmRjZmMw",
+  "snapshot_id": "MCwzNWQ2ZmY1NTk5ZjlkM2NjYzA2NDhhYjg5Nzc4OWI2NGE1MGQyYzY5",
   "tracks": [
     {
       "added_at": "2023-04-25 20:43:50",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
+        "name": "Do You Like Me?",
+        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 227663,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 204109,
       "name": "WHARF TALK (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
-        "name": "Do You Like Me?",
-        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 227663,
-      "name": "Do You Like Me?",
-      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 183230,
-      "name": "Me (heavy)",
-      "url": "https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c"
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+      "duration_ms": 183230,
+      "name": "Me (heavy)",
+      "url": "https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "Want U Around (feat. Ruel)",
-        "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Want U Around (feat. Ruel)",
-      "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "The Colour In Anything",
         "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "Want U Around (feat. Ruel)",
+        "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Want U Around (feat. Ruel)",
+      "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1091,38 +1091,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "september 13th",
-        "url": "https://open.spotify.com/album/3l7cgNajTN496lgJSXRlza"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 129981,
-      "name": "september 13th",
-      "url": "https://open.spotify.com/track/3VLanFEDmh9JduRky83qQe"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
-        "name": "Slacks",
-        "url": "https://open.spotify.com/album/08W1N1M71WmwpgbnpVZOF3"
-      },
-      "artists": [
-        {
-          "name": "St. South",
-          "url": "https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D"
-        }
-      ],
-      "duration_ms": 206634,
-      "name": "Slacks",
-      "url": "https://open.spotify.com/track/1fCtah6RlmidPvSiyMfncH"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -1143,18 +1111,34 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "some light",
-        "url": "https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T"
+        "name": "Slacks",
+        "url": "https://open.spotify.com/album/08W1N1M71WmwpgbnpVZOF3"
       },
       "artists": [
         {
-          "name": "airshade",
-          "url": "https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ"
+          "name": "St. South",
+          "url": "https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D"
         }
       ],
-      "duration_ms": 111468,
-      "name": "some light",
-      "url": "https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt"
+      "duration_ms": 206634,
+      "name": "Slacks",
+      "url": "https://open.spotify.com/track/1fCtah6RlmidPvSiyMfncH"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "september 13th",
+        "url": "https://open.spotify.com/album/3l7cgNajTN496lgJSXRlza"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 129981,
+      "name": "september 13th",
+      "url": "https://open.spotify.com/track/3VLanFEDmh9JduRky83qQe"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1171,6 +1155,22 @@
       "duration_ms": 237973,
       "name": "Hannah Hunt",
       "url": "https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "some light",
+        "url": "https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T"
+      },
+      "artists": [
+        {
+          "name": "airshade",
+          "url": "https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ"
+        }
+      ],
+      "duration_ms": 111468,
+      "name": "some light",
+      "url": "https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "peas",
-        "url": "https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 234645,
-      "name": "peas",
-      "url": "https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 324266,
       "name": "Kin",
       "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "peas",
+        "url": "https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 234645,
+      "name": "peas",
+      "url": "https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "A Violent Dichotomy",
-        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
-      },
-      "artists": [
-        {
-          "name": "LUCIUS ARTHUR",
-          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
-        }
-      ],
-      "duration_ms": 255113,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 260064,
       "name": "Underwaterfall",
       "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "A Violent Dichotomy",
+        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
+      },
+      "artists": [
+        {
+          "name": "LUCIUS ARTHUR",
+          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
+        }
+      ],
+      "duration_ms": 255113,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "Valencia",
-        "url": "https://open.spotify.com/album/3VQysw3feitddUUw8Y7uAk"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 128360,
-      "name": "Lumbago",
-      "url": "https://open.spotify.com/track/0DIgltOMdzrEWAMoe7ayZ6"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "Valencia",
+        "url": "https://open.spotify.com/album/3VQysw3feitddUUw8Y7uAk"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 128360,
+      "name": "Lumbago",
+      "url": "https://open.spotify.com/track/0DIgltOMdzrEWAMoe7ayZ6"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "cz",
-        "url": "https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 228946,
-      "name": "cz",
-      "url": "https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "Process",
         "url": "https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "cz",
+        "url": "https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 228946,
+      "name": "cz",
+      "url": "https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP"
     }
   ],
   "unique_name": "late night vibes",

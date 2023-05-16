@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Moha MMZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,562 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,596 likes - 39 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,24 +29,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 19 | [Paraît\-il](https://open.spotify.com/track/5VJerGXFJYqUsV63tvUYlb) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma](https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF) | 2:50 |
 | 20 | [No Love](https://open.spotify.com/track/43s7xJq0iHdcn2eGfE4M2x) | [Enolevrai](https://open.spotify.com/artist/08tDZqfKfLCf5TXC8A2aNf) | [No Love](https://open.spotify.com/album/6oTrv1boqK0GsoqLXbnuu8) | 2:27 |
 | 21 | [Baby Mama](https://open.spotify.com/track/5ClOFvLqn08NldYWLqwbmw) | [Chany Z](https://open.spotify.com/artist/4w8X99AfTxbDYZ2KeTGNSH) | [Baby Mama](https://open.spotify.com/album/3XQQBuq63jACEfOek488cD) | 3:30 |
-| 22 | [Larmes](https://open.spotify.com/track/278IRNfCKsIEDlXgZCLWZ6) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Larmes](https://open.spotify.com/album/1YGUXrZ9U4pLtke6ZQPVW1) | 3:42 |
-| 23 | [Minuit](https://open.spotify.com/track/3qppQ6d1ffg1NUp4uGVY3g) | [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ) | [Minuit](https://open.spotify.com/album/1VvnLoLqEjpGw3MqgWVFzp) | 2:33 |
-| 24 | [Miami Vice](https://open.spotify.com/track/7okGX2stmpuVyyCm2CSbXa) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Bel Air](https://open.spotify.com/album/2acXYtO8RQqEcQyrywwlxa) | 2:56 |
-| 25 | [C'EST MORT](https://open.spotify.com/track/4gZdVjI2z8RpfWOoboONMA) | [NAOHS](https://open.spotify.com/artist/6Te81qcP1wIVOh1v6mJAFb) | [C'EST MORT](https://open.spotify.com/album/4pArbRYS8VZSyYGVRazSKI) | 2:36 |
-| 26 | [BORDEL](https://open.spotify.com/track/2zsHwRpE74couNe2TM97vl) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [BORDEL](https://open.spotify.com/album/1OYNMkOWvo55wG2Pl39NLh) | 2:47 |
-| 27 | [Tous les jours](https://open.spotify.com/track/1O5nheIwgavNsDYIHIUx7Z) | [BFG](https://open.spotify.com/artist/3XxZVlDivZ7aV3xCIViakY) | [KILO](https://open.spotify.com/album/7f9bQMl1mk8T3B5aBz72Ya) | 2:46 |
-| 28 | [Remède](https://open.spotify.com/track/7faltIY2L3Vce9l569cltM) | [joysad](https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z), [LVZ](https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf) | [Remède](https://open.spotify.com/album/5xAq29Ub5l00PDHjGakITD) | 4:00 |
-| 29 | [Moonrock](https://open.spotify.com/track/4ZfOtNtErg8RHq8B7E2iir) | [Tissmey](https://open.spotify.com/artist/6cL4mIBIA85TnOIzhhukZT), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Noir & blanc \(Volume 1\)](https://open.spotify.com/album/6Wdhr6fo82OqCwifi45fI9) | 3:05 |
-| 30 | [En bas de chez moi](https://open.spotify.com/track/3OzkuO27kVWHxiQESqVvmw) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Sous l'averse](https://open.spotify.com/album/4XXVV9QRUogm1ZU9oYHcwy) | 2:42 |
-| 31 | [PERDU](https://open.spotify.com/track/43bfTCUSTBAJNWCourc7Mb) | [Vadek](https://open.spotify.com/artist/40m5FHZCGhyfN6eMi1oJPv), [Demas](https://open.spotify.com/artist/6jgxd1BrkpYObThse9uhfG) | [PERDU](https://open.spotify.com/album/1W1QqDVrF4rMqE2O7OnVYg) | 3:15 |
-| 32 | [Fêler](https://open.spotify.com/track/5xfKt7vsV90MpwcNHCmfkj) | [Palas](https://open.spotify.com/artist/3NRe8rQ57HY4nsmfMN0dPW), [joysad](https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z) | [TOUMAÏ](https://open.spotify.com/album/1Knno1r3osIV1pWFN5EWSr) | 2:17 |
-| 33 | [Gaouri](https://open.spotify.com/track/6usP72J7HRHaR0wqiJXcxc) | [Eniah](https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj) | [Gaouri](https://open.spotify.com/album/48ABfPStfF7AJjEd5woBOP) | 2:39 |
-| 34 | [En bas](https://open.spotify.com/track/3vdu2mV11LcnesdeJTRjZu) | [Djiggy](https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa) | [En bas](https://open.spotify.com/album/1M69vczIjdtS7r5ffXe0eo) | 2:19 |
-| 35 | [Ambiance d'hiver](https://open.spotify.com/track/2eAmTZ6vURJ4kUg4XVPjia) | [HK La Paille](https://open.spotify.com/artist/4NSdzXHjbwdR28akJRT9KY) | [Ambiance d'hiver](https://open.spotify.com/album/55L1liPHD1johi1votMIcO) | 2:41 |
-| 36 | [Rooftop](https://open.spotify.com/track/3UnOokumsh7zsWbMwdMVdo) | [illi](https://open.spotify.com/artist/2qDnnMwHGuuOavNoAczDgZ) | [Meribel](https://open.spotify.com/album/5EXbemr2yfeyEIfocOf5R7) | 3:03 |
-| 37 | [Fall in love](https://open.spotify.com/track/5LTHUMgaJp001MAKlotwr9) | [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [L'inconnue d'en face](https://open.spotify.com/album/0w6oQvHWjelePItuPAjIOD) | 2:43 |
-| 38 | [Synopsis](https://open.spotify.com/track/1bMGTZTAeM3FO6Y4V7Hj6y) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Synopsis](https://open.spotify.com/album/3c3EKhBjT67KGlOX5Cs7X1) | 2:22 |
-| 39 | [QLT](https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [QLT](https://open.spotify.com/album/1m40YiFmeZB6jvEhFujsS9) | 2:37 |
-| 40 | [16 appels manqués](https://open.spotify.com/track/5aJOVLvDSbKvg3vDFCNlIV) | [Cashmire](https://open.spotify.com/artist/4Z7rTDNEHqLkQmRzAlNnjL) | [16 appels manqués](https://open.spotify.com/album/7zKUv0YPtYlnSkrIbjnw0C) | 2:01 |
+| 22 | [Minuit](https://open.spotify.com/track/3qppQ6d1ffg1NUp4uGVY3g) | [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ) | [Minuit](https://open.spotify.com/album/1VvnLoLqEjpGw3MqgWVFzp) | 2:33 |
+| 23 | [Miami Vice](https://open.spotify.com/track/7okGX2stmpuVyyCm2CSbXa) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Bel Air](https://open.spotify.com/album/2acXYtO8RQqEcQyrywwlxa) | 2:56 |
+| 24 | [C'EST MORT](https://open.spotify.com/track/4gZdVjI2z8RpfWOoboONMA) | [NAOHS](https://open.spotify.com/artist/6Te81qcP1wIVOh1v6mJAFb) | [C'EST MORT](https://open.spotify.com/album/4pArbRYS8VZSyYGVRazSKI) | 2:36 |
+| 25 | [BORDEL](https://open.spotify.com/track/2zsHwRpE74couNe2TM97vl) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [BORDEL](https://open.spotify.com/album/1OYNMkOWvo55wG2Pl39NLh) | 2:47 |
+| 26 | [Tous les jours](https://open.spotify.com/track/1O5nheIwgavNsDYIHIUx7Z) | [BFG](https://open.spotify.com/artist/3XxZVlDivZ7aV3xCIViakY) | [KILO](https://open.spotify.com/album/7f9bQMl1mk8T3B5aBz72Ya) | 2:46 |
+| 27 | [Remède](https://open.spotify.com/track/7faltIY2L3Vce9l569cltM) | [joysad](https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z), [LVZ](https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf) | [Remède](https://open.spotify.com/album/5xAq29Ub5l00PDHjGakITD) | 4:00 |
+| 28 | [Moonrock](https://open.spotify.com/track/4ZfOtNtErg8RHq8B7E2iir) | [Tissmey](https://open.spotify.com/artist/6cL4mIBIA85TnOIzhhukZT), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Noir & blanc \(Volume 1\)](https://open.spotify.com/album/6Wdhr6fo82OqCwifi45fI9) | 3:05 |
+| 29 | [En bas de chez moi](https://open.spotify.com/track/3OzkuO27kVWHxiQESqVvmw) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Sous l'averse](https://open.spotify.com/album/4XXVV9QRUogm1ZU9oYHcwy) | 2:42 |
+| 30 | [PERDU](https://open.spotify.com/track/43bfTCUSTBAJNWCourc7Mb) | [Vadek](https://open.spotify.com/artist/40m5FHZCGhyfN6eMi1oJPv), [Demas](https://open.spotify.com/artist/6jgxd1BrkpYObThse9uhfG) | [PERDU](https://open.spotify.com/album/1W1QqDVrF4rMqE2O7OnVYg) | 3:15 |
+| 31 | [Fêler](https://open.spotify.com/track/5xfKt7vsV90MpwcNHCmfkj) | [Palas](https://open.spotify.com/artist/3NRe8rQ57HY4nsmfMN0dPW), [joysad](https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z) | [TOUMAÏ](https://open.spotify.com/album/1Knno1r3osIV1pWFN5EWSr) | 2:17 |
+| 32 | [Gaouri](https://open.spotify.com/track/6usP72J7HRHaR0wqiJXcxc) | [Eniah](https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj) | [Gaouri](https://open.spotify.com/album/48ABfPStfF7AJjEd5woBOP) | 2:39 |
+| 33 | [En bas](https://open.spotify.com/track/3vdu2mV11LcnesdeJTRjZu) | [Djiggy](https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa) | [En bas](https://open.spotify.com/album/1M69vczIjdtS7r5ffXe0eo) | 2:19 |
+| 34 | [Ambiance d'hiver](https://open.spotify.com/track/2eAmTZ6vURJ4kUg4XVPjia) | [HK La Paille](https://open.spotify.com/artist/4NSdzXHjbwdR28akJRT9KY) | [Ambiance d'hiver](https://open.spotify.com/album/55L1liPHD1johi1votMIcO) | 2:41 |
+| 35 | [Rooftop](https://open.spotify.com/track/3UnOokumsh7zsWbMwdMVdo) | [illi](https://open.spotify.com/artist/2qDnnMwHGuuOavNoAczDgZ) | [Meribel](https://open.spotify.com/album/5EXbemr2yfeyEIfocOf5R7) | 3:03 |
+| 36 | [Fall in love](https://open.spotify.com/track/5LTHUMgaJp001MAKlotwr9) | [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [L'inconnue d'en face](https://open.spotify.com/album/0w6oQvHWjelePItuPAjIOD) | 2:43 |
+| 37 | [Synopsis](https://open.spotify.com/track/1bMGTZTAeM3FO6Y4V7Hj6y) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Synopsis](https://open.spotify.com/album/3c3EKhBjT67KGlOX5Cs7X1) | 2:22 |
+| 38 | [QLT](https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [QLT](https://open.spotify.com/album/1m40YiFmeZB6jvEhFujsS9) | 2:37 |
+| 39 | [16 appels manqués](https://open.spotify.com/track/5aJOVLvDSbKvg3vDFCNlIV) | [Cashmire](https://open.spotify.com/artist/4Z7rTDNEHqLkQmRzAlNnjL) | [16 appels manqués](https://open.spotify.com/album/7zKUv0YPtYlnSkrIbjnw0C) | 2:01 |
 
-Snapshot ID: `MCxjZDQ3NDRhZTBiNTNmNGJjYjU4NDc2M2FkNzM4OGNhMmY0NGY0NTAy`
+Snapshot ID: `MCwzNjYxZjU1MjZiNzJiNDA1NmE5YTIzN2FiOTljYWIyYTUyODk2Nzgx`

@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 165557,
       "name": "All Eyez On Me - Gangsta Remix",
       "url": "https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc"
@@ -328,6 +328,24 @@
       "duration_ms": 103972,
       "name": "Bunda",
       "url": "https://open.spotify.com/track/0dibU6Iktkhk94uPKESVFm"
+    },
+    {
+      "album": {
+        "name": "Disc Charge",
+        "url": "https://open.spotify.com/album/6aVh29cSNxXPvQwn5YhqGZ"
+      },
+      "artists": [
+        {
+          "name": "Boys Town Gang",
+          "url": "https://open.spotify.com/artist/0yrScqagPyABiZeoNHHe3H"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575674,
+      "name": "Can't Take My Eyes Off You - Original Extended Version",
+      "url": "https://open.spotify.com/track/566U7bjbnK0I3RxObVVpA9"
     },
     {
       "album": {
@@ -1955,6 +1973,28 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167323,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG"
+    },
+    {
+      "album": {
         "name": "Pacman",
         "url": "https://open.spotify.com/album/58cgGThT5NejuPh4ERwq6x"
       },
@@ -2633,7 +2673,7 @@
     },
     {
       "album": {
-        "name": "Timeless (G0100050597381)",
+        "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
       "artists": [

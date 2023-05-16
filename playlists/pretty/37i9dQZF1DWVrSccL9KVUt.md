@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of worship music! Cover: Brooke Ligertwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,544 likes - 80 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,620 likes - 80 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 79 | [Spirit Break Out \- Live](https://open.spotify.com/track/573mudwDhftRSSbvLHC8xS) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Still Believe \(Live\)](https://open.spotify.com/album/5SjDZwjks6vfJxdXbGnLal) | 6:22 |
 | 80 | [Know You \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/38Oqk3geeK0GAYA7dxxUZ9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [I AM](https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg) | 4:49 |
 
-Snapshot ID: `MCw0ZTc2NzIyYThiNzQyNmUwZGU0NzkyMmNmOWRkNzIyYThiZGI3MWNm`
+Snapshot ID: `MCw4MzhkMTk4YjBjMTczZDZkODZjMjQwNjE4MmZlNmI3NjkyNzE4ZGUw`

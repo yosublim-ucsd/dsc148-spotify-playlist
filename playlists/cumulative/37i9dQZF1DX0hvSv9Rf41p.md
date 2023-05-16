@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
-478 songs - 1 day 3 hr 44 min
+479 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Forever](https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Forever](https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae) | 3:14 | 2022-04-08 | 2023-04-22 |
 | [Forever](https://open.spotify.com/track/0gWQBwxwQRum86Rx4DaDHL) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Forever](https://open.spotify.com/album/3NkRNGqhU0WONr1ob77DKD) | 3:25 | 2021-12-17 | 2022-02-19 |
 | [Forgive You Anyway](https://open.spotify.com/track/5NpVwsN4IvmWUzWdn22ILw) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Heavenly](https://open.spotify.com/album/5yWY4gVRl4oJEuRSBbBOHq) | 4:29 | 2022-08-26 |  |
+| [Freefall](https://open.spotify.com/track/0G62w7rw46fQnj2YP1kLY8) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Freefall](https://open.spotify.com/album/3NlzrvC7EEGG7CDBvQXEDb) | 2:33 | 2023-05-12 |  |
 | [Front Man](https://open.spotify.com/track/1Ipo7AQ2vWCoCjkSTxGEMX) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g) | [Front Man](https://open.spotify.com/album/1TOcjhSqr0yJISowqjr7CV) | 4:08 | 2022-01-21 | 2022-03-12 |
 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 | 2021-12-17 | 2022-03-12 |
 | [FUNKONAUT](https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [FUNKONAUT](https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ) | 3:30 | 2022-08-26 |  |
@@ -240,7 +241,7 @@
 | [Laserbeam \- Sullivan King Remix](https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Laserbeam \(Sullivan King Remix\)](https://open.spotify.com/album/30P2BMPn9DlUW4XtODJbYP) | 3:46 | 2022-10-21 |  |
 | [Lay It Down](https://open.spotify.com/track/0dxAvCV7LGcGIJQZuqhmgL) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 4:24 | 2021-12-17 | 2022-03-12 |
 | [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-01-20 |  |
-| [LEFT TO RIGHT \- Subsonic Remix](https://open.spotify.com/track/2GAsRV6TNEFPosAHtbIaxo) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [LEFT TO RIGHT \(Subsonic Remix\)](https://open.spotify.com/album/0bfCjB90W0daFxgDBt8mTm) | 2:59 | 2023-03-10 |  |
+| [LEFT TO RIGHT \- Subsonic Remix](https://open.spotify.com/track/2GAsRV6TNEFPosAHtbIaxo) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [LEFT TO RIGHT \(Subsonic Remix\)](https://open.spotify.com/album/0bfCjB90W0daFxgDBt8mTm) | 2:59 | 2023-03-10 | 2023-05-16 |
 | [Let That Go](https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Let That Go](https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP) | 3:51 | 2022-09-23 |  |
 | [LEVIATHAN](https://open.spotify.com/track/1JHLFyGl62MDj5jDBJics2) | [GRUMGULLY](https://open.spotify.com/artist/5eNxx0VmxNINub3wOEzALm), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [LEVIATHAN](https://open.spotify.com/album/2Hskj4JWDAV8T8NhnPQ43o) | 2:43 | 2022-07-01 |  |
 | [Libre](https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 3:18 | 2023-03-31 |  |

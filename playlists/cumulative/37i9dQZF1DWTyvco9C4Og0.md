@@ -4,7 +4,7 @@
 
 > Las leyendas del mariachi están aquí\. Christian Nodal en portada.
 
-177 songs - 9 hr 7 min
+178 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Camino de Guanajuato](https://open.spotify.com/track/5BRx13zPTL7euQtTNasI6O) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Mis Número 1..\. Pa' Todo el Año](https://open.spotify.com/album/6JZ2h7P15MxTI8hHWOxBW2) | 3:04 | 2022-01-25 | 2022-11-14 |
 | [Camino de Guanajuato](https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:13 | 2022-01-25 |  |
 | [Caminos de Michoacán](https://open.spotify.com/track/6rhDW2z2TTDxRsv1fI4CnC) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [15 Exitos De Federico Villa \- Versiones Originales](https://open.spotify.com/album/14M2p00a5ozip7k4XZYihk) | 3:29 | 2022-01-25 | 2022-07-29 |
-| [Caminos de Michoacán](https://open.spotify.com/track/01N7WLJxshd4dDhK7f3WVe) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [RCA 100 Años De Musica](https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA) | 3:30 | 2022-01-25 |  |
+| [Caminos de Michoacán](https://open.spotify.com/track/01N7WLJxshd4dDhK7f3WVe) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [RCA 100 Años De Musica](https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA) | 3:30 | 2022-01-25 | 2023-05-16 |
+| [Caminos de Michoacán](https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [La Coleccion Del Siglo \- Federico Villa](https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL) | 3:30 | 2023-04-28 |  |
 | [Caminos De Michoacán](https://open.spotify.com/track/4BKL2LvMs3tYG9Q4DMufCb) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [Camino De Michoacán](https://open.spotify.com/album/4QwXuwif6l1Ipxgpp6kG9o) | 3:33 | 2022-01-25 | 2022-11-13 |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-03-04 |  |
 | [Cheque en Blanco](https://open.spotify.com/track/55s09WrtpaOI1dqr4xtHGy) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Frente a Frente: Paquita la del Barrio \- Antonio Aguilar](https://open.spotify.com/album/4T6aCegy8vbxZMZSPMXP9f) | 2:34 | 2022-01-25 | 2022-07-28 |

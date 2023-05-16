@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 38711,
+  "num_followers": 38740,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDczOTViODFiM2FiNzBkN2ViYTI2YzE5OGZmY2NhN2VhMTFlMjI5",
+  "snapshot_id": "MCw5ZGQ3YWVmMDZhMWY0MTc3ZGRmZTEzMTY5YmY2YTI0YzllYTI1Zjlh",
   "tracks": [
     {
       "added_at": "2023-05-09 20:04:54",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-09 20:04:54",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
-    },
-    {
-      "added_at": "2023-05-09 20:04:54",
-      "album": {
         "name": "Never Look Back",
         "url": "https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 162587,
       "name": "Never Look Back",
       "url": "https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M"
+    },
+    {
+      "added_at": "2023-05-09 20:04:54",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
       "added_at": "2023-05-09 20:04:54",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-05-09 20:04:54",
       "album": {
-        "name": "How Does It Feel",
-        "url": "https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 143573,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui"
-    },
-    {
-      "added_at": "2023-05-09 20:04:54",
-      "album": {
         "name": "Cloudy Day",
         "url": "https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 185303,
       "name": "Cloudy Day",
       "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
+    },
+    {
+      "added_at": "2023-05-09 20:04:54",
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 143573,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui"
     },
     {
       "added_at": "2023-05-09 20:04:54",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-05-09 20:04:54",
       "album": {
-        "name": "Self-Portrait",
-        "url": "https://open.spotify.com/album/6knL6sodlU2l6vZKbD33e0"
-      },
-      "artists": [
-        {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        }
-      ],
-      "duration_ms": 141648,
-      "name": "Self-Portrait",
-      "url": "https://open.spotify.com/track/0vcCSUW0GskE8uN2xdj60f"
-    },
-    {
-      "added_at": "2023-05-09 20:04:54",
-      "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/0nTp6hAIuLmbxoWX0gWmYM"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 137352,
       "name": "X&Y",
       "url": "https://open.spotify.com/track/5s8msIjj5PJ5UBNsjddZBL"
+    },
+    {
+      "added_at": "2023-05-09 20:04:54",
+      "album": {
+        "name": "Self-Portrait",
+        "url": "https://open.spotify.com/album/6knL6sodlU2l6vZKbD33e0"
+      },
+      "artists": [
+        {
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+        }
+      ],
+      "duration_ms": 141648,
+      "name": "Self-Portrait",
+      "url": "https://open.spotify.com/track/0vcCSUW0GskE8uN2xdj60f"
     },
     {
       "added_at": "2023-05-09 20:04:54",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-05-09 20:04:54",
       "album": {
-        "name": "Kiss You",
-        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "Kiss You",
-      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
-    },
-    {
-      "added_at": "2023-05-09 20:04:54",
-      "album": {
         "name": "THE GRATITUDE PROJECT",
         "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2023-05-09 20:04:54",
       "album": {
-        "name": "Get Better",
-        "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
+        "name": "Kiss You",
+        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
       },
       "artists": [
         {
-          "name": "Cate",
-          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
         }
       ],
-      "duration_ms": 171913,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
+      "duration_ms": 152506,
+      "name": "Kiss You",
+      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
     },
     {
       "added_at": "2023-05-09 20:04:54",
@@ -931,6 +915,22 @@
       "duration_ms": 139508,
       "name": "Giant Feelings",
       "url": "https://open.spotify.com/track/7wCFToKO63HYn4oP6xZMHh"
+    },
+    {
+      "added_at": "2023-05-09 20:04:54",
+      "album": {
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
+      },
+      "artists": [
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "duration_ms": 171913,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
     },
     {
       "added_at": "2023-05-09 20:04:54",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-05-09 20:04:54",
       "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 139462,
+      "name": "Make It Better",
+      "url": "https://open.spotify.com/track/0V1IeCSY8h2Ym2bdnmpvWJ"
+    },
+    {
+      "added_at": "2023-05-09 20:04:54",
+      "album": {
         "name": "Sleep Tight",
         "url": "https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 218013,
       "name": "Sleep Tight",
       "url": "https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76"
-    },
-    {
-      "added_at": "2023-05-09 20:04:54",
-      "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 145324,
-      "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
     },
     {
       "added_at": "2023-05-09 20:04:54",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-05-09 20:04:54",
       "album": {
-        "name": "Drunk On A Flight",
-        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 139462,
-      "name": "Make It Better",
-      "url": "https://open.spotify.com/track/0V1IeCSY8h2Ym2bdnmpvWJ"
-    },
-    {
-      "added_at": "2023-05-09 20:04:54",
-      "album": {
         "name": "LUCID",
         "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 218108,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
+    },
+    {
+      "added_at": "2023-05-09 20:04:54",
+      "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 145324,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
     },
     {
       "added_at": "2023-05-09 20:04:54",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-09 20:04:54",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/138lSNAApov9p0YikNh5gh"
-      },
-      "artists": [
-        {
-          "name": "RVBY",
-          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5qOlWfTdKPafaINlhpVY5V"
-    },
-    {
-      "added_at": "2023-05-09 20:04:54",
-      "album": {
         "name": "Better Love",
         "url": "https://open.spotify.com/album/7kI2gwnSmr9mm41DqGkF42"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 162862,
       "name": "Better Love",
       "url": "https://open.spotify.com/track/5Tfei3YpA30gHiEq2cfRFk"
+    },
+    {
+      "added_at": "2023-05-09 20:04:54",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/138lSNAApov9p0YikNh5gh"
+      },
+      "artists": [
+        {
+          "name": "RVBY",
+          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5qOlWfTdKPafaINlhpVY5V"
     },
     {
       "added_at": "2023-05-09 20:04:54",

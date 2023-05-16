@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 155454,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/124LAe6tqwsbVusWRkSw16"
@@ -2818,7 +2818,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 326241,
       "name": "grayscale",
       "url": "https://open.spotify.com/track/7bDVv5WI1ZPJOVNtJvqmYb"
@@ -5597,6 +5597,24 @@
     },
     {
       "album": {
+        "name": "Sakura Overdose",
+        "url": "https://open.spotify.com/album/6evHyAD6RhPbBQWjNHmFej"
+      },
+      "artists": [
+        {
+          "name": "AIKA",
+          "url": "https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230057,
+      "name": "Sakura Overdose",
+      "url": "https://open.spotify.com/track/50a5h9XobmXXPoiYeWE6BH"
+    },
+    {
+      "album": {
         "name": "VISUALS (DELUXE)",
         "url": "https://open.spotify.com/album/1uV3CJwt4iG0IVIYFWt7OZ"
       },
@@ -6754,10 +6772,32 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 168652,
       "name": "VLONE",
       "url": "https://open.spotify.com/track/0jYBQcR3imgLDhSZN9npPL"
+    },
+    {
+      "album": {
+        "name": "CHOMPO I",
+        "url": "https://open.spotify.com/album/6P6m7fqCHXDwAFSq7iqzGZ"
+      },
+      "artists": [
+        {
+          "name": "CHOMPO",
+          "url": "https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT"
+        },
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143437,
+      "name": "VOLC4NO",
+      "url": "https://open.spotify.com/track/5aPVwcXawK8A066VqnsQti"
     },
     {
       "album": {
@@ -6860,6 +6900,24 @@
       "duration_ms": 178470,
       "name": "want u 2 stay",
       "url": "https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE"
+    },
+    {
+      "album": {
+        "name": "Almost Weightless",
+        "url": "https://open.spotify.com/album/5DnqvrQnOpEZr2vVnGnq3l"
+      },
+      "artists": [
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231679,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/4THzf8XAVHJptdedD0ZlKO"
     },
     {
       "album": {

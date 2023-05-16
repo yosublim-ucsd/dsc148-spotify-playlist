@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: \bCoogie(\ucfe0\uae30)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: QM(\ucfe0\uae30)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 689466,
       "name": "Achoo Remix",
       "url": "https://open.spotify.com/track/40oPzn3XgquFNnQWnwLz5A"
@@ -2982,6 +2982,28 @@
       "duration_ms": 272291,
       "name": "Bibbidi bobbidi boo(feat. superbee)",
       "url": "https://open.spotify.com/track/5jbouP6c0SEKcz9oxQYdBB"
+    },
+    {
+      "album": {
+        "name": "VS2",
+        "url": "https://open.spotify.com/album/2lJa3oHsU4kHjPZ74GDQDY"
+      },
+      "artists": [
+        {
+          "name": "QM",
+          "url": "https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j"
+        },
+        {
+          "name": "Odee",
+          "url": "https://open.spotify.com/artist/6cXolDFPOgf0wuRe5kMPxo"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136525,
+      "name": "BIG BOY",
+      "url": "https://open.spotify.com/track/7BdLqNupCDhB4A8bhbwewA"
     },
     {
       "album": {
@@ -11204,7 +11226,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 165957,
       "name": "JANGJEON (feat.Coogie, pH-1 & PUFF DAEHEE)",
       "url": "https://open.spotify.com/track/75o7SzlCbsZKRqWx4c0fKi"
@@ -24532,7 +24554,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 363627,
       "name": "Young Muthafuckas (Prod. Nochang)",
       "url": "https://open.spotify.com/track/4JEKkn4drM8DdnpiaatUk9"

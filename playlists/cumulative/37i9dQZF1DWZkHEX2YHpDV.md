@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-967 songs - 2 day 3 hr 14 min
+968 songs - 2 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Cathedral Bell](https://open.spotify.com/track/6XmQuWdDRF0E2QwDsrRbkb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Cathedral Bell](https://open.spotify.com/album/1EAnGsIjR5X3sdIiwQAGcT) | 3:04 | 2021-12-10 | 2022-06-17 |
 | [Cave In](https://open.spotify.com/track/7foB3FgACotzkH5hkWOOAS) | [I The Mighty](https://open.spotify.com/artist/1aK2PiGHyEgc4wAIKQzMj2) | [Cave In](https://open.spotify.com/album/62qer7kVON5XSwZ3wd8W7B) | 3:27 | 2021-12-10 | 2022-06-22 |
 | [Changing of Seasons](https://open.spotify.com/track/3eQJPPAwjrsnJtO0R4A3MK) | [Santa Cruz](https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri) | [Changing of Seasons](https://open.spotify.com/album/6WAetoimROIvqKjMCpjEzo) | 2:45 | 2022-03-25 | 2022-04-19 |
+| [Checking In](https://open.spotify.com/track/7t2YrgFxbTxTUxkl8bbYHa) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Checking In](https://open.spotify.com/album/1BSES1gYrSt5nUVPfDunDQ) | 2:59 | 2023-05-12 |  |
 | [Chemical Drugs](https://open.spotify.com/track/5pgRkSw1elCTQP8EDUaZvs) | [Karma Kids](https://open.spotify.com/artist/2tolFkeeZ90dTrTpuSUTiK) | [Chemical Drugs](https://open.spotify.com/album/7woZ2Lt8fIjmWEBLW77jIG) | 3:24 | 2022-02-04 | 2022-04-18 |
 | [Children of The Dark](https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Children of The Dark](https://open.spotify.com/album/78MIA5qaj5wiJgE9pTA9py) | 2:32 | 2021-12-10 | 2023-04-11 |
 | [Choose Life](https://open.spotify.com/track/41RFlQraiq9x4bUZzyvN84) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Choose Life](https://open.spotify.com/album/3Skld4zlZJAZIKqs3bx98i) | 2:09 | 2021-12-10 | 2022-07-29 |
@@ -306,7 +307,7 @@
 | [Floor 71](https://open.spotify.com/track/4rjG0cSrp7RdHoEJPHC69E) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Someone Who Isn't Me](https://open.spotify.com/album/68JruhL6yvE7hstfJMne6B) | 3:32 | 2021-12-10 | 2022-06-25 |
 | [For My Sorrow](https://open.spotify.com/track/14oHybgp6z9zegbbDxUg8b) | [The Fallen State](https://open.spotify.com/artist/3wNjTfkaWlmNat9VufX7Ua) | [A Deadset Endeavour](https://open.spotify.com/album/1TJe6apOtzWttw9Uye9rew) | 3:50 | 2022-02-04 | 2022-05-30 |
 | [For What It's Worth](https://open.spotify.com/track/2kApQ4IdatPcNEdYP3Vluf) | [Sincerely, Me](https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8) | [Half Empty](https://open.spotify.com/album/1yMVC1lUAGlniJkmyMyWex) | 2:51 | 2021-12-10 | 2022-04-21 |
-| [Foxglove](https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Foxglove](https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd) | 3:38 | 2022-05-20 |  |
+| [Foxglove](https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Foxglove](https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd) | 3:38 | 2022-05-20 | 2023-05-16 |
 | [Fragile](https://open.spotify.com/track/6D9jdwoRaYmrpvlmogRSCX) | [Capsize](https://open.spotify.com/artist/3Nt2h0gWNi9cxuLeNjOsET) | [Fragile](https://open.spotify.com/album/3YelCerflr0Tf0Qu2cGehb) | 3:47 | 2022-02-04 | 2022-04-17 |
 | [FREAK \(Feat\. jxdn\)](https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [FREAK \(Feat\. jxdn\)](https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5) | 2:29 | 2023-04-10 |  |
 | [free bird](https://open.spotify.com/track/7imX9kF7UBpQowZLGJ5u8F) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [free bird](https://open.spotify.com/album/6HPdViA4WtlqajENtq8EGI) | 2:00 | 2021-12-10 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Kevin Ortiz & Oscar Ortiz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,862 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,069 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 |
 | 75 | [Serious](https://open.spotify.com/track/0G0U4hpQoZ66kaHMxi1eJk) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Serious](https://open.spotify.com/album/3GO6iy0Nbuf388ZHxuqZxV) | 3:18 |
 
-Snapshot ID: `MCw3MDhlZTliM2ZiZDkwMmU3YWRkOTEyYTFjMzE2YzM5MThlMDZkYWU4`
+Snapshot ID: `MCwyYWE1MzdmNzM4ODlkZjZiNDc2MGU5NzMwM2M4MDM2NGEyNjk5NmIx`

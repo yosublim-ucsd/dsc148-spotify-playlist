@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,402 likes - 35 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,409 likes - 35 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 19 | [Pour louper l'école](https://open.spotify.com/track/0XW5XY9LcCw6hpS7EuORkj) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Kids United Nouvelle Generation](https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt) | [10 ans d'Enfantillages !](https://open.spotify.com/album/20yuAjZhTVhDHcYx6dep1w) | 3:14 |
 | 20 | [L'hiver](https://open.spotify.com/track/3gUgoLt5p69lJCfCJ7bhLd) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les Royaumes Minuscules](https://open.spotify.com/album/3VGubAeKi1fg002fAta5rz) | 4:12 |
 | 21 | [Provocante](https://open.spotify.com/track/5LdCzn92GXvMOJ2wHMHKJh) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 4:42 |
-| 22 | [La vie](https://open.spotify.com/track/3Qolx4UFKqkAK865XSTFG5) | [Arthur H](https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR) | [LA VIE](https://open.spotify.com/album/10jDF7CGfczyhmy8zcfLvy) | 4:29 |
-| 23 | [Je voudrais voir la mer](https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Un trou dans les nuages](https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN) | 5:19 |
+| 22 | [Je voudrais voir la mer](https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Un trou dans les nuages](https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN) | 5:19 |
+| 23 | [La vie](https://open.spotify.com/track/3Qolx4UFKqkAK865XSTFG5) | [Arthur H](https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR) | [LA VIE](https://open.spotify.com/album/10jDF7CGfczyhmy8zcfLvy) | 4:29 |
 | 24 | [Aux portes du matin](https://open.spotify.com/track/7tPINSBzEWzNaw8Bw1d7pX) | [Richard Séguin](https://open.spotify.com/artist/4uaplzxgAkmohdv30bAFZo) | [Aux portes du matin](https://open.spotify.com/album/16KeQd5pDMvrMI4Kt4NyHW) | 5:37 |
 | 25 | [L'âge de bière](https://open.spotify.com/track/7IqeBR9zKQr60ocw6tJnf9) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4) | 3:52 |
 | 26 | [C\-17](https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [C\-17](https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc) | 2:52 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 34 | [Inconfortable](https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT) | [Les Hôtesses D' Hilaire](https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx) | [Pas l'temps d'niaiser](https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz) | 3:09 |
 | 35 | [Chou](https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB) | [Chou](https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2) | [Chou](https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1) | 2:03 |
 
-Snapshot ID: `MCxkNTBmZWEwNzA5OWI3OTQ2YjI0NWVlYzg3MjY2Y2JlM2QwYmIwZGQ5`
+Snapshot ID: `MCw1YzAzMzQ1MmMwMmEwNjcwNTNiY2E5ODNlZTAyNjQ1OTkwZDUxOGI2`

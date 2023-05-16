@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. New Candys e Bugo in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,926 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,931 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [Rosso](https://open.spotify.com/track/1dCoLitotcRABlWlOOZcTs) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Rosso](https://open.spotify.com/album/7wl8O8kzkACKcaiWrmXKEV) | 3:35 |
 | 55 | [Provare ancora](https://open.spotify.com/track/0iYojKItJ3j1RrKjcso0ia) | [Morgana](https://open.spotify.com/artist/3aiVVjTuv8e3GRBl8QYBeQ) | [Contemporaneità](https://open.spotify.com/album/2LiklOzR73i1RhJGYu3YqM) | 2:48 |
 
-Snapshot ID: `MCwzYmQyY2U1NDkzODRkMWJkZWM4YTBiMjc1MTdhNTZkN2FlNzhmM2Jh`
+Snapshot ID: `MCwzM2VjZDc1NmQ5NzcwMmUyM2M0MmUwN2JhODQwMmYxMDViY2M2ZTI3`

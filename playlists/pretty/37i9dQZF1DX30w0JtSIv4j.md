@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30w0JtSIv4j.md) - [plain]
 
 > Eve gets your New Years party started with Hip\-Hop House Party \#NYE2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,686,821 likes - 41 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,686,980 likes - 41 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30w0JtSIv4j.md) - [plain]
 | 40 | [How We Do](https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:55 |
 | 41 | [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 |
 
-Snapshot ID: `MCxlMjJiNzE2ZjAzZWU2MmY1MDhmMDgzMGI2ZDIwYTczY2NjYzlhYTJh`
+Snapshot ID: `MCwzMTVkMWRhYzhlNmY3ZTkzOGIwYTllYjM1ZjhhOGEwMmM2NDEyMjNj`

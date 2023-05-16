@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 56337,
+  "num_followers": 56382,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzk1NTQwYmE1YjA1M2MzYmM2NzU2MzcxN2NlZTk1NWFhOTYxNzgz",
+  "snapshot_id": "MCw1OGE3ZWZkZjdkZTFlMDI1ZDQ5OGFiYjRjOGJmODE2MjlhN2M5NzU5",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -95,26 +95,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Opal (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 494256,
-      "name": "Opal - Four Tet Remix",
-      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Nude Remixes",
         "url": "https://open.spotify.com/album/13V7SBTiEGttVK8zwqd2tr"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 421306,
       "name": "Singularity",
       "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Opal (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 494256,
+      "name": "Opal - Four Tet Remix",
+      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 216267,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Blurred",
         "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
       },
@@ -267,18 +283,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+        "name": "Syvsover",
+        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
       },
       "artists": [
         {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
         }
       ],
-      "duration_ms": 216267,
-      "name": "Ayaya",
-      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
+      "duration_ms": 360118,
+      "name": "Ghostly",
+      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -347,22 +363,6 @@
       "duration_ms": 95973,
       "name": "Bocuma",
       "url": "https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Syvsover",
-        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 360118,
-      "name": "Ghostly",
-      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Caturne V - EP",
-        "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
+        "name": "Hold Me To The Light",
+        "url": "https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI"
       },
       "artists": [
         {
-          "name": "Aemone",
-          "url": "https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d"
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
         }
       ],
-      "duration_ms": 252959,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
+      "duration_ms": 474142,
+      "name": "The Hymn Of Fallen Dreams",
+      "url": "https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -707,6 +707,22 @@
       "duration_ms": 440118,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Caturne V - EP",
+        "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
+      },
+      "artists": [
+        {
+          "name": "Aemone",
+          "url": "https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d"
+        }
+      ],
+      "duration_ms": 252959,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -763,18 +779,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Hold Me To The Light",
-        "url": "https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI"
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
       },
       "artists": [
         {
-          "name": "KAS:ST",
-          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
         }
       ],
-      "duration_ms": 474142,
-      "name": "The Hymn Of Fallen Dreams",
-      "url": "https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l"
+      "duration_ms": 407317,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -795,22 +811,6 @@
       "duration_ms": 340100,
       "name": "Dance Machine - Original Mix",
       "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 407317,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Ring EP",
-        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
-      },
-      "artists": [
-        {
-          "name": "Lucci Minati",
-          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
-        }
-      ],
-      "duration_ms": 391680,
-      "name": "Take Your Place",
-      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Foans",
         "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 420465,
       "name": "What I Saw That Night",
       "url": "https://open.spotify.com/track/4ApOByOlG6mFtAtn7TjEs1"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Ring EP",
+        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
+      },
+      "artists": [
+        {
+          "name": "Lucci Minati",
+          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
+        }
+      ],
+      "duration_ms": 391680,
+      "name": "Take Your Place",
+      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Occasional Magic Remixes EP",
-        "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
-      },
-      "artists": [
-        {
-          "name": "Yppah",
-          "url": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
-        },
-        {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
-        }
-      ],
-      "duration_ms": 330145,
-      "name": "Occasional Magic - Ulrich Schnauss Remix",
-      "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Passengers",
         "url": "https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 366898,
       "name": "Orbital Hypnosis - Erly Tepshi Remix",
       "url": "https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Occasional Magic Remixes EP",
+        "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
+      },
+      "artists": [
+        {
+          "name": "Yppah",
+          "url": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
+        },
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+        }
+      ],
+      "duration_ms": 330145,
+      "name": "Occasional Magic - Ulrich Schnauss Remix",
+      "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Deep Blues",
-        "url": "https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 381453,
-      "name": "Deep Blues - Session Victim Remix",
-      "url": "https://open.spotify.com/track/3IRF31C4uQOiT9oqEE8UjX"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Shift I - II",
         "url": "https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 356571,
       "name": "Shift II - Original Mix",
       "url": "https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Deep Blues",
+        "url": "https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 381453,
+      "name": "Deep Blues - Session Victim Remix",
+      "url": "https://open.spotify.com/track/3IRF31C4uQOiT9oqEE8UjX"
     },
     {
       "added_at": "2022-07-15 17:34:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Dance hits in 2023\. Cover: SG Lewis
 
-[Digster](https://open.spotify.com/user/digster.fm) - 116,440 likes - 50 songs - 2 hr 23 min
+[Digster](https://open.spotify.com/user/digster.fm) - 116,432 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 49 | [I Hope That It Hurts](https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [I Hope That It Hurts](https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck) | 2:40 |
 | 50 | [Nothing But A Heartache](https://open.spotify.com/track/0JQQoErvSqk1VdXApeVSs8) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [The Flirtations](https://open.spotify.com/artist/3Hra0KQr00Pe9oqmQdVtvp) | [Nothing But A Heartache](https://open.spotify.com/album/24sK7dXdU5nesFN6pQfsHd) | 2:22 |
 
-Snapshot ID: `NDYwOCxmZTFmNTdjN2UzNTBlNGMyYzUyYjA1NWRmM2E1N2Y3OGUyNjBlMzM3`
+Snapshot ID: `NDYxMCxiZjc1YzBmNzI1YzkwM2EzNzI5MWFkNGJkYWNkZWE0ZTNhZDdmOGU4`

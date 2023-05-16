@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 16021,
+  "num_followers": 16033,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTE2MTI0N2FjNjFjZTE2YjY3MDFmMjdlODQ1MzZhOTcyMDFlZmNk",
+  "snapshot_id": "MCw2NmE2ZTFiNGE1OWVmNWI4NzI5MWUxYzNlNTQ5ZTVmMzdkZjA5ZWIx",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -183,6 +183,54 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 411866,
+      "name": "Negro Drama",
+      "url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Re\u00fas",
+      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Desorientado Sem Cortes",
+        "url": "https://open.spotify.com/album/43dcRDmbqfUWdrrmUUl5G1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 303800,
+      "name": "Vida Longa, Mundo Pequeno",
+      "url": "https://open.spotify.com/track/2mZDpgyFfPYGZoS4gr7ku1"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Ela S\u00f3 Quer Paz",
         "url": "https://open.spotify.com/album/0kt2b6HTMmlV4A5f97LZk9"
       },
@@ -227,54 +275,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Desorientado Sem Cortes",
-        "url": "https://open.spotify.com/album/43dcRDmbqfUWdrrmUUl5G1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        }
-      ],
-      "duration_ms": 303800,
-      "name": "Vida Longa, Mundo Pequeno",
-      "url": "https://open.spotify.com/track/2mZDpgyFfPYGZoS4gr7ku1"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 411866,
-      "name": "Negro Drama",
-      "url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Re\u00fas",
-      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Abaixo de Zero: Hello Hell",
         "url": "https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT"
       },
@@ -287,6 +287,50 @@
       "duration_ms": 177077,
       "name": "Vai Baby",
       "url": "https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 220171,
+      "name": "Neur\u00f3tico de Guerra",
+      "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Praia do Rosa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 256523,
+      "name": "Praia do Rosa - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -359,30 +403,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Praia do Rosa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 256523,
-      "name": "Praia do Rosa - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Podium",
         "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
       },
@@ -431,42 +451,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 220171,
-      "name": "Neur\u00f3tico de Guerra",
-      "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Com os Neur\u00f4nios Evoluidos",
-        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
-      },
-      "artists": [
-        {
-          "name": "ConeCrewDiretoria",
-          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
-        }
-      ],
-      "duration_ms": 353532,
-      "name": "Chama os Mulekes",
-      "url": "https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
         "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
       },
@@ -487,22 +471,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Convoque Seu Buda",
-        "url": "https://open.spotify.com/album/48k5IgjoER3755RUTy5EHh"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Convoque Seu Buda",
-      "url": "https://open.spotify.com/track/2FtVRCIZmGxORMNVyHKLbg"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Mandona (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3Uzv21BbYSmMkKUm70zCw4"
       },
@@ -519,6 +487,22 @@
       "duration_ms": 239999,
       "name": "Mandona - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0R4dwzW253KTxchGryT1H6"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Convoque Seu Buda",
+        "url": "https://open.spotify.com/album/48k5IgjoER3755RUTy5EHh"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Convoque Seu Buda",
+      "url": "https://open.spotify.com/track/2FtVRCIZmGxORMNVyHKLbg"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -559,6 +543,22 @@
       "duration_ms": 263078,
       "name": "Raplord",
       "url": "https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Com os Neur\u00f4nios Evoluidos",
+        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "duration_ms": 353532,
+      "name": "Chama os Mulekes",
+      "url": "https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Babylon By Gus",
+      "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "O L\u00edder em Movimento",
         "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 256161,
       "name": "Universo",
       "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Babylon By Gus",
-      "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -931,42 +931,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "A Divina Com\u00e9dia",
-        "url": "https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud"
-      },
-      "artists": [
-        {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Zeus",
-          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
-        },
-        {
-          "name": "Gigante No Mic",
-          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
-        },
-        {
-          "name": "Nocivo Shomon",
-          "url": "https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 320744,
-      "name": "A Divina Com\u00e9dia",
-      "url": "https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Poetas no Topo 2",
         "url": "https://open.spotify.com/album/4Qnc9kgBCgCD4BAOlf8GHb"
       },
@@ -1011,6 +975,42 @@
       "duration_ms": 523467,
       "name": "Poetas no Topo 2",
       "url": "https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "A Divina Com\u00e9dia",
+        "url": "https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        },
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Nocivo Shomon",
+          "url": "https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "duration_ms": 320744,
+      "name": "A Divina Com\u00e9dia",
+      "url": "https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1151,34 +1151,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Poesia Ac\u00fastica Ep. Acabou",
-        "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
+        "name": "Fuga",
+        "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
         },
         {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Poesia Ac\u00fastica Ep. Acabou",
-      "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
+      "duration_ms": 232191,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1227,22 +1215,34 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Fuga",
-        "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
+        "name": "Poesia Ac\u00fastica Ep. Acabou",
+        "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
       },
       "artists": [
         {
-          "name": "Cacife Clandestino",
-          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
         }
       ],
-      "duration_ms": 232191,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
+      "duration_ms": 270000,
+      "name": "Poesia Ac\u00fastica Ep. Acabou",
+      "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1275,30 +1275,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Mixtape: O Homem N\u00e3o para Nunca, Vol. 1",
-        "url": "https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Santzu",
-          "url": "https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 294913,
-      "name": "Vem Tranquilo",
-      "url": "https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y"
       },
@@ -1327,6 +1303,30 @@
       "duration_ms": 186666,
       "name": "Dior",
       "url": "https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Mixtape: O Homem N\u00e3o para Nunca, Vol. 1",
+        "url": "https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Santzu",
+          "url": "https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 294913,
+      "name": "Vem Tranquilo",
+      "url": "https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Foco, For\u00e7a E F\u00e9",
-        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
+        "name": "Oriente",
+        "url": "https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu"
       },
       "artists": [
         {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+          "name": "Oriente, Rebeca",
+          "url": "https://open.spotify.com/artist/4OihQRMAYzuKUobEFCpmLE"
         }
       ],
-      "duration_ms": 224546,
-      "name": "Foco, For\u00e7a E F\u00e9",
-      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
+      "duration_ms": 202617,
+      "name": "Linda, Louca e Mimada",
+      "url": "https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

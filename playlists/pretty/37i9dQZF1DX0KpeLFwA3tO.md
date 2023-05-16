@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Sorry Mom
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,031 likes - 113 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,133 likes - 113 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 112 | [Armageddon](https://open.spotify.com/track/0cphnlzamiAzqoX52U0UtB) | [Lil Misery](https://open.spotify.com/artist/5eZhEAEkHKmrPhambLphk9) | [Armageddon](https://open.spotify.com/album/5m839NgZKuERdFCsDB5Exi) | 2:41 |
 | 113 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 |
 
-Snapshot ID: `MCxjMzUyMmE2OTE3NDYzMzJlODYwNDkwODIwMDM1YTAzZTJiNzVhOTdj`
+Snapshot ID: `MCw3MzJmZjE5YTc5Njg1MzQyZThkNGQxNGViNDVjZWMyYjA5YzU3ODdi`

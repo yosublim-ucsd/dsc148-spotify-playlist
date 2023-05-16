@@ -856,7 +856,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 80842,
       "name": "I Just Want to Be the One You Love",
       "url": "https://open.spotify.com/track/7gZDMiW9u6N3UIgBzbdUFU"
@@ -944,6 +944,24 @@
       "duration_ms": 192288,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/3xiWDPsXIUshCnlemRhFde"
+    },
+    {
+      "album": {
+        "name": "ijustwanttobetheoneyoulove",
+        "url": "https://open.spotify.com/album/6rsIlXB1A8U7kwgXagSvyH"
+      },
+      "artists": [
+        {
+          "name": "leydown n chill",
+          "url": "https://open.spotify.com/artist/5EKYmdWFCxbTsg2wGfgVtl"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80875,
+      "name": "ijustwanttobetheoneyoulove",
+      "url": "https://open.spotify.com/track/2xj9puMPJGIoIDM54UjiY2"
     },
     {
       "album": {

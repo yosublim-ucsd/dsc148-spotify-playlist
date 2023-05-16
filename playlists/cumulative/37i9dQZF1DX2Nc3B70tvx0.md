@@ -4,7 +4,7 @@
 
 > The best & biggest indie songs of 2023 so far\. Cover: Suki Waterhouse
 
-1,579 songs - 3 day 22 hr 40 min
+1,580 songs - 3 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2021-10-14 | 2022-03-07 |
 | [Change](https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Change](https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6) | 2:57 | 2022-06-30 | 2022-09-03 |
 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 | 2022-08-18 | 2022-09-10 |
+| [CHARLES JEFFREY \- A COLORS SHOW](https://open.spotify.com/track/1EzZnsbtkWcSsCHX1MJA8w) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [CHARLES JEFFREY \- A COLORS SHOW](https://open.spotify.com/album/4J2stJagijzvESkYTJ3GQP) | 3:12 | 2023-05-15 |  |
 | [Charlie](https://open.spotify.com/track/5Z69nqYhcktzSRDIBA9JvS) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/2sf7N2WKAzMKlpPn0JuYbj) | 3:10 | 2019-08-16 | 2020-01-10 |
 | [Charmed](https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Charmed](https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax) | 2:38 | 2022-04-01 | 2022-06-25 |
 | [Cheers](https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Cheers](https://open.spotify.com/album/1SZyOSR32ufm1Gdx6guwZR) | 3:15 | 2021-05-08 | 2021-10-11 |
@@ -945,7 +946,7 @@
 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 | 2023-04-21 |  |
 | [Next To Me](https://open.spotify.com/track/25B37PuDwZCLof9uOtlVww) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Next To Me](https://open.spotify.com/album/7KVCSOYFXS42GI7zsu9z84) | 2:33 | 2022-02-11 | 2022-04-21 |
 | [Night Like This](https://open.spotify.com/track/54kwgaNYb7EzcMd8za1cam) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [Night Like This](https://open.spotify.com/album/0tYyC1yyUj1tMHWaf8Im2t) | 3:03 | 2021-02-24 | 2021-10-09 |
-| [Night Vision](https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Night Vision](https://open.spotify.com/album/4lN4JWv9uMwvZ7eL1XviGa) | 3:50 | 2023-02-17 |  |
+| [Night Vision](https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Night Vision](https://open.spotify.com/album/4lN4JWv9uMwvZ7eL1XviGa) | 3:50 | 2023-02-17 | 2023-05-16 |
 | [Nihilist Kite Flyer](https://open.spotify.com/track/1wTmri3120lu6TuZjPKLMB) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Nihilist Kite Flyer](https://open.spotify.com/album/0pdJoqnJlz2IyXURszYGUF) | 3:02 | 2019-05-26\* | 2019-08-13 |
 | [Nine One One](https://open.spotify.com/track/6bIpNnu1282YtrvSS9iQMQ) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Nine One One](https://open.spotify.com/album/0rwjE0ualXAYfxoELeBF9a) | 4:00 | 2020-01-10 | 2020-08-07 |
 | [No Bullets Spent](https://open.spotify.com/track/2atf946FbB7wpXr2Kwdx1t) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [No Bullets Spent](https://open.spotify.com/album/4MMH177sCQHkE5lpK46Om6) | 3:40 | 2019-06-29 | 2020-05-01 |

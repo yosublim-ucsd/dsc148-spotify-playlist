@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Louis Pascal",
-  "num_followers": 609,
+  "num_followers": 620,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGRmOGJhZTVkMGUzN2M3NmMwZTdlZjc4YTcxYjhkZTA1MGUxNGIw",
+  "snapshot_id": "MCwyZTQ0NmYxNGY2YWQ4Yzk2M2MxOTE2OGNiYzliN2E3ODljOWZjY2Jk",
   "tracks": [
     {
       "added_at": "2023-04-20 23:59:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Adom Grace",
-        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 290527,
-      "name": "Adom Grace",
-      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Ote Me Mu",
         "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
       },
@@ -259,6 +243,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Adom Grace",
+        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 290527,
+      "name": "Adom Grace",
+      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP"
       },
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Yesu Mo",
-        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Victory Chant",
         "url": "https://open.spotify.com/album/2DQxNMyBTK6uJ9hULpuMx1"
       },
@@ -311,38 +295,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 264788,
-      "name": "Awurade Ye",
-      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Guide Me",
-        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 227258,
-      "name": "Guide Me",
-      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -355,6 +307,22 @@
       "duration_ms": 324440,
       "name": "W' asue Me",
       "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Yesu Mo",
+        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -391,6 +359,38 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Guide Me",
+        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 227258,
+      "name": "Guide Me",
+      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 264788,
+      "name": "Awurade Ye",
+      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "Golden Oil",
         "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
       },
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Me Dan Wo (feat. Kweku Teye)",
-        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Kweku Teye",
-          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
-        }
-      ],
-      "duration_ms": 372240,
-      "name": "Me Dan Wo (feat. Kweku Teye)",
-      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Style Bia Bi",
         "url": "https://open.spotify.com/album/0h2kD49Ru5nAGuEIly7JlK"
       },
@@ -455,38 +435,6 @@
       "duration_ms": 249704,
       "name": "Style Bia Bi",
       "url": "https://open.spotify.com/track/0Eu8dLMDhMDrtHeRLRKzdc"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Nyansabuakwa Nyame",
-        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Nyansabuakwa Nyame",
-      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Efiri Nyame",
-        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Me Ko M'Anim",
-      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -527,6 +475,42 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Me Dan Wo (feat. Kweku Teye)",
+        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Kweku Teye",
+          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
+        }
+      ],
+      "duration_ms": 372240,
+      "name": "Me Dan Wo (feat. Kweku Teye)",
+      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "Deeper Touch",
         "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 174236,
       "name": "Who Say God No Dey",
       "url": "https://open.spotify.com/track/3Ff4Jeg1zd09LYVABJ4YUU"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Efiri Nyame",
+        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Me Ko M'Anim",
+      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Prayer for deliverance",
-        "url": "https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth"
-      },
-      "artists": [
-        {
-          "name": "Broda Harrison",
-          "url": "https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t"
-        }
-      ],
-      "duration_ms": 94111,
-      "name": "Prayer for deliverance",
-      "url": "https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Mehyia Yesu",
         "url": "https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp"
       },
@@ -679,8 +663,8 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Testimony Therapy",
-        "url": "https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7"
+        "name": "Final Say (Live)",
+        "url": "https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY"
       },
       "artists": [
         {
@@ -688,9 +672,25 @@
           "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
         }
       ],
-      "duration_ms": 219824,
-      "name": "Testimony - Acoustic",
-      "url": "https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7"
+      "duration_ms": 408235,
+      "name": "Amenuveve (Grace) - Live",
+      "url": "https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Prayer for deliverance",
+        "url": "https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth"
+      },
+      "artists": [
+        {
+          "name": "Broda Harrison",
+          "url": "https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t"
+        }
+      ],
+      "duration_ms": 94111,
+      "name": "Prayer for deliverance",
+      "url": "https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Gyae Su",
+        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
+      },
+      "artists": [
+        {
+          "name": "Solomon King",
+          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
+        }
+      ],
+      "duration_ms": 258001,
+      "name": "Gyae Su",
+      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "This Is Us",
         "url": "https://open.spotify.com/album/06C51VglvEDVHgbI25OCty"
       },
@@ -759,18 +775,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Gyae Su",
-        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
+        "name": "CYB",
+        "url": "https://open.spotify.com/album/0KqMiA8MVuuBsK8KXlCAmy"
       },
       "artists": [
         {
-          "name": "Solomon King",
-          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
+          "name": "Regardless Da YungKing",
+          "url": "https://open.spotify.com/artist/7dkbG2UVvht2XS9FzRXBcy"
+        },
+        {
+          "name": "Morphat",
+          "url": "https://open.spotify.com/artist/6aOcPv0XzxXzDWpEQer0rw"
         }
       ],
-      "duration_ms": 258001,
-      "name": "Gyae Su",
-      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
+      "duration_ms": 179413,
+      "name": "CYB",
+      "url": "https://open.spotify.com/track/4RROgBvii00NTvk2ga3xZk"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -791,8 +811,8 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Final Say (Live)",
-        "url": "https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY"
+        "name": "Testimony Therapy",
+        "url": "https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7"
       },
       "artists": [
         {
@@ -800,29 +820,9 @@
           "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
         }
       ],
-      "duration_ms": 408235,
-      "name": "Amenuveve (Grace) - Live",
-      "url": "https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "CYB",
-        "url": "https://open.spotify.com/album/0KqMiA8MVuuBsK8KXlCAmy"
-      },
-      "artists": [
-        {
-          "name": "Regardless Da YungKing",
-          "url": "https://open.spotify.com/artist/7dkbG2UVvht2XS9FzRXBcy"
-        },
-        {
-          "name": "Morphat",
-          "url": "https://open.spotify.com/artist/6aOcPv0XzxXzDWpEQer0rw"
-        }
-      ],
-      "duration_ms": 179413,
-      "name": "CYB",
-      "url": "https://open.spotify.com/track/4RROgBvii00NTvk2ga3xZk"
+      "duration_ms": 219824,
+      "name": "Testimony - Acoustic",
+      "url": "https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7"
     },
     {
       "added_at": "2023-04-20 23:59:00",

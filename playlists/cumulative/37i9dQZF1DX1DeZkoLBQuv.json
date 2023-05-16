@@ -106,10 +106,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 250840,
       "name": "Ao \u00danico",
       "url": "https://open.spotify.com/track/0XwBn8aFHYmhHKeiwGBS4i"
+    },
+    {
+      "album": {
+        "name": "O Poder do Teu Amor",
+        "url": "https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250840,
+      "name": "Ao \u00danico",
+      "url": "https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie music every Friday\. Cover: Rahill
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,402 likes - 170 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,439 likes - 170 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 169 | [Eraser](https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Eraser](https://open.spotify.com/album/38zJIoiflwVxYFpQX1II64) | 3:03 |
 | 170 | [You Can Be Mean](https://open.spotify.com/track/5HlHycHNeXIjYhY4AJRErt) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [You Can Be Mean](https://open.spotify.com/album/55AeOkUW28sgptXC5DCzn9) | 2:25 |
 
-Snapshot ID: `MCwxNzAzYTEyZmViOWVlZjViYmM4ZDVhYzZjYTgzOGQ5YTliMzQ0ZjIy`
+Snapshot ID: `MCwxZjJkMzM0MWZkNjcxMGQxNDM4ZDhkM2U0NjViMjZkMGJkM2VlNmQ4`

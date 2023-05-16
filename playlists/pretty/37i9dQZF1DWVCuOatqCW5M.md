@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Srushti Tawade
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,431 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,506 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 6 | [HIIR](https://open.spotify.com/track/0LVplQ76aGSnnggq9IbP5b) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kimera](https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [HIIR](https://open.spotify.com/album/1lanWxzAYPt2NgrtvQTFQZ) | 2:43 |
 | 7 | [Rista Rista](https://open.spotify.com/track/3z9qUGvXpaCVzhxUY1HkxL) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Rista Rista \- Single](https://open.spotify.com/album/4BvvVMvGkLp4cus4R3tNcx) | 3:20 |
 | 8 | [Maahaul](https://open.spotify.com/track/04Vy0aip3DySmX6Oyf8TKI) | [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908) | [Maahaul](https://open.spotify.com/album/7MaUlFCM9IDvm4vOo4XIYL) | 3:32 |
-| 9 | [Tu Aa Jaana](https://open.spotify.com/track/09G4zMIoDXHoqaUqPCiQkS) | [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA), [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Jannatein \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/341tVTCcNfhhrWZSntrpa7) | 2:37 |
+| 9 | [Tu Aa Jaana](https://open.spotify.com/track/09G4zMIoDXHoqaUqPCiQkS) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Jannatein \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/341tVTCcNfhhrWZSntrpa7) | 2:37 |
 | 10 | [O Maaeri](https://open.spotify.com/track/6Y7yk5x4XtBnMKs6yPyBzO) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU), [Nivedita Padmanabhan](https://open.spotify.com/artist/6M618OVMbrk9lxyQog8hX6), [Sanchit Choudhary](https://open.spotify.com/artist/0YhkqcYYdOmbkpekzNtAGz) | [O Maaeri](https://open.spotify.com/album/5hT9w6QqwK34fLjBtHa0eq) | 4:29 |
 | 11 | [Raah](https://open.spotify.com/track/3FnaNHFWHmWUs5sMyGhhiN) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC) | [Raah](https://open.spotify.com/album/4riwoENCoewQiI4k1fK9xj) | 2:57 |
 | 12 | [Pyaar To Bas Pyaar Hai](https://open.spotify.com/track/1SEJXJfGgICROKUvbY7TPP) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Pyaar To Bas Pyaar Hai](https://open.spotify.com/album/6uHbPxhi9ZzKlcgs368n9S) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Meri Banogi Kya](https://open.spotify.com/track/6gprR0rGv59wALbBU7yZkl) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Meri Banogi Kya](https://open.spotify.com/album/0cpuLQbNPdQtnKsjbu6NsW) | 3:35 |
 | 50 | [Tere Mere](https://open.spotify.com/track/07RF13WWpYtCnnIEuoKLM7) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Tere Mere](https://open.spotify.com/album/1eu7DChmxi7jV7B58cylO9) | 3:55 |
 
-Snapshot ID: `MCw0NmEyYjJkYmY5NjFiNmY0ZWRjODNjZTg4OWYzMzZlOGU4MTQ1N2Y5`
+Snapshot ID: `MCxkOGEyMGNhYjQ5NDA2NzdjYzgzNDVlMGFhODNiY2VjZTU2MjJmYjFm`

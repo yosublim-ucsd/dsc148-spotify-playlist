@@ -4,7 +4,7 @@
 
 > Late night chilled vibes, for those intimate moments.
 
-247 songs - 13 hr 58 min
+248 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Shameless](https://open.spotify.com/track/3F7wzgbp8cmewbUycgY0BI) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Shameless / Dancing With The Devil](https://open.spotify.com/album/0sqCZwAgWCRMFbMf0SPBgx) | 2:32 | 2022-08-22 | 2022-10-24 |
 | [Shine](https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Shine](https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb) | 3:46 | 2022-03-21 | 2022-10-16 |
 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 | 2022-07-17 | 2023-05-15 |
-| [SIDE OF YOU](https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SIDE OF YOU](https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG) | 2:45 | 2023-03-03 |  |
+| [SIDE OF YOU](https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SIDE OF YOU](https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG) | 2:45 | 2023-03-03 | 2023-05-16 |
 | [Signs](https://open.spotify.com/track/76PrUXO5Skxiavr4BCfF7n) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Signs](https://open.spotify.com/album/06hjhEvBK1TGl2vgVV9Beb) | 4:49 | 2022-03-21 | 2022-07-01 |
 | [Sit Back](https://open.spotify.com/track/7E9N70fhyaUnhgMl9OlRgF) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Sit Back](https://open.spotify.com/album/02MX06GlX0M5zl7XSg1b54) | 3:00 | 2022-03-21 | 2022-07-26 |
 | [Smile \(See the Light\)](https://open.spotify.com/track/7GmhZ73EtMtL8hM57aaNGs) | [Paul White](https://open.spotify.com/artist/5agXR9PXcQ3whCRLu8LeeN), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1), [REMI](https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q) | [Smile \(See the Light\)](https://open.spotify.com/album/5oiDi8v1AAjdBdiKFLJNtO) | 3:25 | 2022-03-21 | 2022-07-29 |
@@ -226,6 +226,7 @@
 | [This Side](https://open.spotify.com/track/6XPG4Gk25Ml6QWWQw6axxC) | [Miles from Kinshasa](https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE) | [This Side](https://open.spotify.com/album/5Vze5kztj3LK8OPzXUswf2) | 3:01 | 2022-08-22 | 2022-10-24 |
 | [Time Is Precious](https://open.spotify.com/track/6hdFvWuFjmoxJjSeEjiJpg) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Air](https://open.spotify.com/album/7KR3GaBmiaydLWXrzHDKMt) | 7:03 | 2022-10-23 | 2023-03-04 |
 | [To Taste The Divine](https://open.spotify.com/track/1nVNewVFnEgwduK6Q5iDve) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Taste The Divine](https://open.spotify.com/album/3bs6w2b6yMTGOfz0A0WNib) | 2:40 | 2022-03-21 | 2022-07-28 |
+| [Trouble](https://open.spotify.com/track/5N7usY5OYD0sCTNiZZlyQn) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Trouble](https://open.spotify.com/album/3Yd1ohFCiXM3ZuaiftVaxs) | 3:52 | 2023-05-15 |  |
 | [Tryna Be](https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:50 | 2022-08-22 |  |
 | [Two Steps](https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM) | 4:02 | 2022-03-21 | 2022-07-29 |
 | [Uh Huh Okay \(Remix\)](https://open.spotify.com/track/5vLBaq5dQezK5rDb6KMzv3) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Uh Huh Okay \(Remix\)](https://open.spotify.com/album/7rdHBe5L4dFHtLjzdUuYhW) | 4:14 | 2022-03-21 | 2022-07-04 |

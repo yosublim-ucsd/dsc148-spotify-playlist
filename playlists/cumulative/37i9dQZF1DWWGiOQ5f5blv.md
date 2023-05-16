@@ -4,10 +4,12 @@
 
 > Listen to the soundtracks of the drama Doctor Cha\. \(드라마 닥터 차정숙의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs  selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-51 songs - 3 hr 3 min
+53 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [After this night](https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4) | 4:16 | 2023-05-15 |  |
+| [After this night \- Instrumental](https://open.spotify.com/track/2RR3SMCgcEgt8v7Nz77mxh) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4) | 4:16 | 2023-05-15 |  |
 | [Alone](https://open.spotify.com/track/4UVa6uMDD4ngcd2CXVQZ47) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/41qO8KPuWWoGOzQYJ8ObV4) | 2:50 | 2023-04-21 |  |
 | [Alone \- Instrumental](https://open.spotify.com/track/7kPeRke6FL6Y08Bsp8RaJG) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/41qO8KPuWWoGOzQYJ8ObV4) | 2:50 | 2023-04-21 |  |
 | [Always With You](https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Always With You](https://open.spotify.com/album/2Pc9gnZShvCsZF5xcaXc3a) | 5:03 | 2023-04-21 |  |

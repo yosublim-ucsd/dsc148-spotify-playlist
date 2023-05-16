@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 
 > It's a Saturday night in the country, all the time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,226 likes - 68 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,292 likes - 68 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 | 67 | [One Beer at a Time](https://open.spotify.com/track/1MYqkrzQqhs6h0ZYaSun6R) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Nothin' but Trouble](https://open.spotify.com/album/6x0Ii6bxYJONhprG5YjkRp) | 3:10 |
 | 68 | [Hotel Key](https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 2:46 |
 
-Snapshot ID: `MCw0OTdmZjFhYmY1OTc1ZWQ1ZDVhNDg0YjlhMDliOTc1MmFhZjAwZjdi`
+Snapshot ID: `MCw3MjVjZDFjYmFhMjAwZTFjMDc2ZDFhMWNmZTllMDYxZjExMTYzMDll`

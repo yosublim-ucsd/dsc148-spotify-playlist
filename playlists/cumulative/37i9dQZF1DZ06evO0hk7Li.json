@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 218947,
       "name": "Sink or Swim",
       "url": "https://open.spotify.com/track/5ldyAFx6EaPRi9vw9GgUNf"
@@ -1222,6 +1222,28 @@
       "duration_ms": 222483,
       "name": "SOMEONE ELSE (feat. Jacob Banks)",
       "url": "https://open.spotify.com/track/4R6rTr9UY7r9aeSHpy4GBB"
+    },
+    {
+      "album": {
+        "name": "SOMEONE ELSE (featuring Jacob Banks)",
+        "url": "https://open.spotify.com/album/4eBkyax61tYK5RUkXaBQMk"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222483,
+      "name": "SOMEONE ELSE (featuring Jacob Banks)",
+      "url": "https://open.spotify.com/track/2CQD7tRYaQtCLTZCOlgLnw"
     },
     {
       "album": {

@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 302986,
       "name": "Aapki Yaad Aati Rahi Raat Bhar",
       "url": "https://open.spotify.com/track/2bCwBISaRkGc0CUY5t7X87"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 322066,
       "name": "Chhupana Bhi Nahin Aata (From \"Baazigar\")",
       "url": "https://open.spotify.com/track/2oAy8P7WfjbZW0cWw6RnAG"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 434453,
       "name": "Chitthi Aai Hai",
       "url": "https://open.spotify.com/track/09xLwwXCwGcNK9nU20cwQM"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 468826,
       "name": "Chupke Chupke Raat Din",
       "url": "https://open.spotify.com/track/02K9EZr0aJwXzHTclgNHL8"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 695087,
       "name": "Chupke Chupke Raat Din",
       "url": "https://open.spotify.com/track/4E0KNKup3x1EqEpfiDfGVt"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 307000,
       "name": "Hoshwalon Ko Khabar Kya",
       "url": "https://open.spotify.com/track/5NbR7c5zrOZN3Dje3JVJEN"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 209960,
       "name": "Jeeye to Jeeye Kaise (From \"Saajan\")",
       "url": "https://open.spotify.com/track/6xkH51odPN6GVpMgth0lWL"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 197786,
       "name": "Koi Yeh Kaise Bataye",
       "url": "https://open.spotify.com/track/0xacMfqz3t5x29sgDmaYms"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 308733,
       "name": "Phir Chiddi Raat",
       "url": "https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 732666,
       "name": "Ranjish Hi Sahi Dil Hi Dukhane Ke Liye",
       "url": "https://open.spotify.com/track/4NbG28kd9gYQHnNbF5Hsjd"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 321311,
       "name": "Tum Itna Jo Muskura Rahe Ho",
       "url": "https://open.spotify.com/track/4SVLJYv9gJQgFhtJdW3TEX"
@@ -1574,6 +1574,28 @@
       "duration_ms": 313283,
       "name": "Voh Tere Mere Ishq Ka",
       "url": "https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs"
+    },
+    {
+      "album": {
+        "name": "The Latest",
+        "url": "https://open.spotify.com/album/07RBhfRhDPQO2ULIe68RYn"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        },
+        {
+          "name": "Chitra Singh",
+          "url": "https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388998,
+      "name": "Woh Kaghaz Ki Kashti",
+      "url": "https://open.spotify.com/track/6qtSFL6qFbw7EmaRIsS0IR"
     },
     {
       "album": {

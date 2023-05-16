@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141443,
+  "num_followers": 141449,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDJiNTU2MGFiNmFlNDQ3ZGU1M2Q3YWJhMzEzOThkNjBiM2VjY2E4",
+  "snapshot_id": "MCwwZWNlYWEwOTE0NTljZjQ4NzRlYWU4MGRkOGMyNjkwYzFjODU4NWE5",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -157,22 +157,6 @@
       "url": "https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm"
     },
     {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Do Watcha Wanna",
-        "url": "https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi"
-      },
-      "artists": [
-        {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
-        }
-      ],
-      "duration_ms": 335506,
-      "name": "I Feel Like Funkin' It Up - Extended Mix",
-      "url": "https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1"
-    },
-    {
       "added_at": "2022-01-28 05:02:00",
       "album": {
         "name": "Stompin' Ground",
@@ -195,6 +179,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Do Watcha Wanna",
+        "url": "https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 335506,
+      "name": "I Feel Like Funkin' It Up - Extended Mix",
+      "url": "https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "New Orleans Jazz Collection - French Quarter Favorites",
         "url": "https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL"
       },
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Her New Orleans Music",
-        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 225928,
-      "name": "None of My Jelly Roll",
-      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Our New Orleans (Expanded Edition)",
         "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 278440,
       "name": "My Feet Can't Fail Me Now",
       "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "New New Orleans Jazz",
+        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "duration_ms": 294760,
+      "name": "Hot Lips",
+      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Presenting Johnny Dodds",
         "url": "https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 179600,
       "name": "I'm Goin' Huntin'",
       "url": "https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "New New Orleans Jazz",
-        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
-      },
-      "artists": [
-        {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
-        }
-      ],
-      "duration_ms": 294760,
-      "name": "Hot Lips",
-      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "The Complete Columbia Session 1946",
-        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 150986,
-      "name": "The Bucket's Got a Hole in It",
-      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
         "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "The Complete Columbia Session 1946",
+        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 150986,
+      "name": "The Bucket's Got a Hole in It",
+      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Ultimate Mardi Gras",
         "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 201146,
       "name": "Mardi Gras In New Orleans",
       "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
-        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong & His Hot Five",
-          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Hotter Than That",
-      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -603,18 +587,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Swing Out",
-        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
+        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
       },
       "artists": [
         {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+          "name": "Louis Armstrong & His Hot Five",
+          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
         }
       ],
-      "duration_ms": 173866,
-      "name": "You're Gonna Lose Your Gal",
-      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
+      "duration_ms": 182600,
+      "name": "Hotter Than That",
+      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -631,6 +615,22 @@
       "duration_ms": 372106,
       "name": "His Eye Is On The Sparrow",
       "url": "https://open.spotify.com/track/1CaDni89B5qBXIwdHwqaed"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Swing Out",
+        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
+      },
+      "artists": [
+        {
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're Gonna Lose Your Gal",
+      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -687,6 +687,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Atlantic Jazz: New Orleans",
+        "url": "https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Shreveport Stomp",
+      "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Jazz In Hi-Fi",
         "url": "https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 164200,
       "name": "I Found a New Baby",
       "url": "https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Atlantic Jazz: New Orleans",
-        "url": "https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV"
-      },
-      "artists": [
-        {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Shreveport Stomp",
-      "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
     },
     {
       "added_at": "2021-04-26 16:53:52",

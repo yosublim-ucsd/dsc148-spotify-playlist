@@ -9258,10 +9258,28 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 156081,
       "name": "Good on You",
       "url": "https://open.spotify.com/track/4fb1LzcwIRU7cUr1V5jAdz"
+    },
+    {
+      "album": {
+        "name": "Good On You",
+        "url": "https://open.spotify.com/album/5Zcxg4zmO2UoWPYnceUknq"
+      },
+      "artists": [
+        {
+          "name": "Steven Cali",
+          "url": "https://open.spotify.com/artist/5r6D8shj3aoncfvLAhMyUD"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156081,
+      "name": "Good On You",
+      "url": "https://open.spotify.com/track/5EY8kdEyyGf9Lx0bBGUGZa"
     },
     {
       "album": {

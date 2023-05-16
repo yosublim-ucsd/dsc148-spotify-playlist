@@ -1,12 +1,12 @@
 {
   "description": "A journey in the modern & old Sudanese sounds.\nCover: Soulja",
-  "num_followers": 16078,
+  "num_followers": 16090,
   "original_name": "Sudan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWViMTE4YmY5NGQ3NGMwNjJiM2YzOGIwNjFhYmU5OWZhNDk2OWI4",
+  "snapshot_id": "MCw0MWQzNTQyZTgwMWYwMmIwM2I3NGQzMjAyZmM4ZDMzYjJiNjVlYTcw",
   "tracks": [
     {
       "added_at": "2023-05-12 18:12:19",
@@ -367,74 +367,6 @@
     {
       "added_at": "2023-05-12 18:12:19",
       "album": {
-        "name": "Sudaniyat",
-        "url": "https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5"
-      },
-      "artists": [
-        {
-          "name": "Rasha",
-          "url": "https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls"
-        }
-      ],
-      "duration_ms": 387902,
-      "name": "Azara Alhai",
-      "url": "https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3"
-    },
-    {
-      "added_at": "2023-05-12 18:12:19",
-      "album": {
-        "name": "\u062a\u0633\u062c\u064a\u0644 \u062f\u062e\u0648\u0644",
-        "url": "https://open.spotify.com/album/0tAkfOwyGCWjR2iLrhbVHI"
-      },
-      "artists": [
-        {
-          "name": "Hleem Taj Alser",
-          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
-        },
-        {
-          "name": "Dj Aloo",
-          "url": "https://open.spotify.com/artist/6IxTrmFoKAlamtTxTKUzkH"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "\u062a\u0633\u062c\u064a\u0644 \u062f\u062e\u0648\u0644",
-      "url": "https://open.spotify.com/track/6d3kzCWQESvrsDJkItIMzS"
-    },
-    {
-      "added_at": "2023-05-12 18:12:19",
-      "album": {
-        "name": "pretty kitten",
-        "url": "https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 142576,
-      "name": "pretty kitten",
-      "url": "https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8"
-    },
-    {
-      "added_at": "2023-05-12 18:12:19",
-      "album": {
-        "name": "Muslims and Christians (Habibi Funk 008)",
-        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
-      },
-      "artists": [
-        {
-          "name": "Kamal Keila",
-          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
-        }
-      ],
-      "duration_ms": 391000,
-      "name": "Taban Ahwak",
-      "url": "https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j"
-    },
-    {
-      "added_at": "2023-05-12 18:12:19",
-      "album": {
         "name": "\u0627\u0644\u0646\u0627\u0631 \u0648\u0644\u0639\u062a (feat. Ali Naseraldeen)",
         "url": "https://open.spotify.com/album/5Qm9D2Cgs5yKNuSReeLvTw"
       },
@@ -455,18 +387,34 @@
     {
       "added_at": "2023-05-12 18:12:19",
       "album": {
-        "name": "Kandaka",
-        "url": "https://open.spotify.com/album/3HWMN3fMzjLCmHlbJYybdH"
+        "name": "Sudaniyat",
+        "url": "https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5"
       },
       "artists": [
         {
-          "name": "MarSimba",
-          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+          "name": "Rasha",
+          "url": "https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls"
         }
       ],
-      "duration_ms": 181160,
-      "name": "Kandaka",
-      "url": "https://open.spotify.com/track/7GiLIZ1JNiq2EAzlI5pNXM"
+      "duration_ms": 387902,
+      "name": "Azara Alhai",
+      "url": "https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3"
+    },
+    {
+      "added_at": "2023-05-12 18:12:19",
+      "album": {
+        "name": "pretty kitten",
+        "url": "https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 142576,
+      "name": "pretty kitten",
+      "url": "https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8"
     },
     {
       "added_at": "2023-05-12 18:12:19",
@@ -495,22 +443,70 @@
     {
       "added_at": "2023-05-12 18:12:19",
       "album": {
-        "name": "Tnt: Injaz",
-        "url": "https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf"
+        "name": "\u062a\u0633\u062c\u064a\u0644 \u062f\u062e\u0648\u0644",
+        "url": "https://open.spotify.com/album/0tAkfOwyGCWjR2iLrhbVHI"
       },
       "artists": [
         {
-          "name": "Rotation",
-          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
         },
         {
-          "name": "TooDope",
-          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
+          "name": "Dj Aloo",
+          "url": "https://open.spotify.com/artist/6IxTrmFoKAlamtTxTKUzkH"
         }
       ],
-      "duration_ms": 220164,
-      "name": "Ejaza",
-      "url": "https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk"
+      "duration_ms": 176470,
+      "name": "\u062a\u0633\u062c\u064a\u0644 \u062f\u062e\u0648\u0644",
+      "url": "https://open.spotify.com/track/6d3kzCWQESvrsDJkItIMzS"
+    },
+    {
+      "added_at": "2023-05-12 18:12:19",
+      "album": {
+        "name": "Kandaka",
+        "url": "https://open.spotify.com/album/3HWMN3fMzjLCmHlbJYybdH"
+      },
+      "artists": [
+        {
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+        }
+      ],
+      "duration_ms": 181160,
+      "name": "Kandaka",
+      "url": "https://open.spotify.com/track/7GiLIZ1JNiq2EAzlI5pNXM"
+    },
+    {
+      "added_at": "2023-05-12 18:12:19",
+      "album": {
+        "name": "Muslims and Christians (Habibi Funk 008)",
+        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "duration_ms": 391000,
+      "name": "Taban Ahwak",
+      "url": "https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j"
+    },
+    {
+      "added_at": "2023-05-12 18:12:19",
+      "album": {
+        "name": "Silt",
+        "url": "https://open.spotify.com/album/6V4ed5KMWm6F5lYNhQxH9W"
+      },
+      "artists": [
+        {
+          "name": "Alsarah & The Nubatones",
+          "url": "https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n"
+        }
+      ],
+      "duration_ms": 198368,
+      "name": "Habibi Taal",
+      "url": "https://open.spotify.com/track/4YNoMqHMhY4HYFVNbDKfUU"
     },
     {
       "added_at": "2023-05-12 18:12:19",
@@ -535,18 +531,62 @@
     {
       "added_at": "2023-05-12 18:12:19",
       "album": {
-        "name": "Silt",
-        "url": "https://open.spotify.com/album/6V4ed5KMWm6F5lYNhQxH9W"
+        "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e (feat. Ali Naseraldeen)\u200e",
+        "url": "https://open.spotify.com/album/0jv9jFilvRshD4DZ61UxLr"
       },
       "artists": [
         {
-          "name": "Alsarah & The Nubatones",
-          "url": "https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n"
+          "name": "Esaam Satti",
+          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
+        },
+        {
+          "name": "Ali Naseraldeen",
+          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
         }
       ],
-      "duration_ms": 198368,
-      "name": "Habibi Taal",
-      "url": "https://open.spotify.com/track/4YNoMqHMhY4HYFVNbDKfUU"
+      "duration_ms": 182758,
+      "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e\u200e (feat. Ali Naseraldeen)",
+      "url": "https://open.spotify.com/track/2LaqDKPXxtJOtIiN56G6cx"
+    },
+    {
+      "added_at": "2023-05-12 18:12:19",
+      "album": {
+        "name": "Tnt: Injaz",
+        "url": "https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf"
+      },
+      "artists": [
+        {
+          "name": "Rotation",
+          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
+        },
+        {
+          "name": "TooDope",
+          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
+        }
+      ],
+      "duration_ms": 220164,
+      "name": "Ejaza",
+      "url": "https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk"
+    },
+    {
+      "added_at": "2023-05-12 18:12:19",
+      "album": {
+        "name": "Sit Al Banat (feat. Sheme)",
+        "url": "https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz"
+      },
+      "artists": [
+        {
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+        },
+        {
+          "name": "Sheme",
+          "url": "https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD"
+        }
+      ],
+      "duration_ms": 206424,
+      "name": "Sit Al Banat (feat. Sheme)",
+      "url": "https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw"
     },
     {
       "added_at": "2023-05-12 18:12:19",
@@ -587,46 +627,6 @@
     {
       "added_at": "2023-05-12 18:12:19",
       "album": {
-        "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e (feat. Ali Naseraldeen)\u200e",
-        "url": "https://open.spotify.com/album/0jv9jFilvRshD4DZ61UxLr"
-      },
-      "artists": [
-        {
-          "name": "Esaam Satti",
-          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
-        },
-        {
-          "name": "Ali Naseraldeen",
-          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
-        }
-      ],
-      "duration_ms": 182758,
-      "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e\u200e (feat. Ali Naseraldeen)",
-      "url": "https://open.spotify.com/track/2LaqDKPXxtJOtIiN56G6cx"
-    },
-    {
-      "added_at": "2023-05-12 18:12:19",
-      "album": {
-        "name": "Sit Al Banat (feat. Sheme)",
-        "url": "https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz"
-      },
-      "artists": [
-        {
-          "name": "MarSimba",
-          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
-        },
-        {
-          "name": "Sheme",
-          "url": "https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD"
-        }
-      ],
-      "duration_ms": 206424,
-      "name": "Sit Al Banat (feat. Sheme)",
-      "url": "https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw"
-    },
-    {
-      "added_at": "2023-05-12 18:12:19",
-      "album": {
         "name": "Ganay Albreedo",
         "url": "https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q"
       },
@@ -639,26 +639,6 @@
       "duration_ms": 335960,
       "name": "Ganay Albreedo",
       "url": "https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ"
-    },
-    {
-      "added_at": "2023-05-12 18:12:19",
-      "album": {
-        "name": "Caribby",
-        "url": "https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6"
-      },
-      "artists": [
-        {
-          "name": "Soulja",
-          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
-        },
-        {
-          "name": "77",
-          "url": "https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U"
-        }
-      ],
-      "duration_ms": 136001,
-      "name": "Caribby",
-      "url": "https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi"
     },
     {
       "added_at": "2023-05-12 18:12:19",
@@ -683,6 +663,26 @@
     {
       "added_at": "2023-05-12 18:12:19",
       "album": {
+        "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
+        "url": "https://open.spotify.com/album/6r8vCGqbxWAMj6TK1cdAI6"
+      },
+      "artists": [
+        {
+          "name": "Esaam Satti",
+          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
+        },
+        {
+          "name": "Ali Naseraldeen",
+          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
+      "url": "https://open.spotify.com/track/3vjHJ9U0YkrR4QRDs5sy25"
+    },
+    {
+      "added_at": "2023-05-12 18:12:19",
+      "album": {
         "name": "\u0639\u0645\u0644 \u0641\u0646\u064a (feat. Mshakil)",
         "url": "https://open.spotify.com/album/6g6W5IWII0q3MxUgpfTtzG"
       },
@@ -699,6 +699,26 @@
       "duration_ms": 169090,
       "name": "\u0639\u0645\u0644 \u0641\u0646\u064a (feat. Mshakil)",
       "url": "https://open.spotify.com/track/2crJITZBcAbD338mKCwTLE"
+    },
+    {
+      "added_at": "2023-05-12 18:12:19",
+      "album": {
+        "name": "Caribby",
+        "url": "https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6"
+      },
+      "artists": [
+        {
+          "name": "Soulja",
+          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
+        },
+        {
+          "name": "77",
+          "url": "https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U"
+        }
+      ],
+      "duration_ms": 136001,
+      "name": "Caribby",
+      "url": "https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi"
     },
     {
       "added_at": "2023-05-12 18:12:19",
@@ -739,42 +759,6 @@
     {
       "added_at": "2023-05-12 18:12:19",
       "album": {
-        "name": "Blue - COLORS Sudan",
-        "url": "https://open.spotify.com/album/654DDiRWyseI6jGG3Wq7k1"
-      },
-      "artists": [
-        {
-          "name": "Flippter",
-          "url": "https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX"
-        }
-      ],
-      "duration_ms": 166838,
-      "name": "Blue - COLORS Sudan",
-      "url": "https://open.spotify.com/track/1OdkisCZUpGjqRIEOCVF5X"
-    },
-    {
-      "added_at": "2023-05-12 18:12:19",
-      "album": {
-        "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
-        "url": "https://open.spotify.com/album/6r8vCGqbxWAMj6TK1cdAI6"
-      },
-      "artists": [
-        {
-          "name": "Esaam Satti",
-          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
-        },
-        {
-          "name": "Ali Naseraldeen",
-          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
-      "url": "https://open.spotify.com/track/3vjHJ9U0YkrR4QRDs5sy25"
-    },
-    {
-      "added_at": "2023-05-12 18:12:19",
-      "album": {
         "name": "Ghadara",
         "url": "https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 182970,
       "name": "Ghadara",
       "url": "https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f"
+    },
+    {
+      "added_at": "2023-05-12 18:12:19",
+      "album": {
+        "name": "Blue - COLORS Sudan",
+        "url": "https://open.spotify.com/album/654DDiRWyseI6jGG3Wq7k1"
+      },
+      "artists": [
+        {
+          "name": "Flippter",
+          "url": "https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX"
+        }
+      ],
+      "duration_ms": 166838,
+      "name": "Blue - COLORS Sudan",
+      "url": "https://open.spotify.com/track/1OdkisCZUpGjqRIEOCVF5X"
     },
     {
       "added_at": "2023-05-12 18:12:19",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-05-12 18:12:19",
       "album": {
-        "name": "Tmsa7",
-        "url": "https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8"
-      },
-      "artists": [
-        {
-          "name": "Fodi",
-          "url": "https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE"
-        }
-      ],
-      "duration_ms": 128565,
-      "name": "Tmsa7",
-      "url": "https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2"
-    },
-    {
-      "added_at": "2023-05-12 18:12:19",
-      "album": {
         "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
         "url": "https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 301000,
       "name": "Farrah Galbi Aljadeed",
       "url": "https://open.spotify.com/track/1PfU9f0u6GJs7aADG0voSk"
+    },
+    {
+      "added_at": "2023-05-12 18:12:19",
+      "album": {
+        "name": "Tmsa7",
+        "url": "https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8"
+      },
+      "artists": [
+        {
+          "name": "Fodi",
+          "url": "https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE"
+        }
+      ],
+      "duration_ms": 128565,
+      "name": "Tmsa7",
+      "url": "https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2"
     }
   ],
   "unique_name": "Sudan Sounds",

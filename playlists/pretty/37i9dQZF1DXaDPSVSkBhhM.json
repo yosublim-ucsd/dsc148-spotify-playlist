@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 60943,
+  "num_followers": 60969,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTE3OWY5YjI3ZTU0N2JlYWMyYmIzZDY0NzlhNzdlNDdjM2E5MWY2",
+  "snapshot_id": "MCwyYTFiMWM2N2ZmOWRlYTVkNzc4ZjdiNTRmZjZmM2U4ODllYWZiZTky",
   "tracks": [
     {
       "added_at": "2023-05-12 06:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Me Pongo Hasta la Madre Porque Estoy Hasta la Madre",
-        "url": "https://open.spotify.com/album/5aiTG05rC4AcL0ZaV2pAYu"
-      },
-      "artists": [
-        {
-          "name": "Chingadazo de Kung Fu",
-          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
-        }
-      ],
-      "duration_ms": 183209,
-      "name": "3 de Noviembre (No Me Ag\u00fcito)",
-      "url": "https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Historias De La Calle",
         "url": "https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 210337,
       "name": "Eso Es Todo Lo Que Soy",
       "url": "https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Me Pongo Hasta la Madre Porque Estoy Hasta la Madre",
+        "url": "https://open.spotify.com/album/5aiTG05rC4AcL0ZaV2pAYu"
+      },
+      "artists": [
+        {
+          "name": "Chingadazo de Kung Fu",
+          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+        }
+      ],
+      "duration_ms": 183209,
+      "name": "3 de Noviembre (No Me Ag\u00fcito)",
+      "url": "https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -307,22 +307,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "La B\u00fasqueda del Tiempo Perdido",
-        "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
+        "name": "Coraz\u00f3n D' Roto",
+        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Canalla",
-          "url": "https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB"
-        },
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
         }
       ],
-      "duration_ms": 223960,
-      "name": "La B\u00fasqueda del Tiempo Perdido",
-      "url": "https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG"
+      "duration_ms": 217920,
+      "name": "Apariencia",
+      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -339,6 +335,26 @@
       "duration_ms": 226063,
       "name": "Cc (Como Compas)",
       "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "La B\u00fasqueda del Tiempo Perdido",
+        "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Canalla",
+          "url": "https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB"
+        },
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "La B\u00fasqueda del Tiempo Perdido",
+      "url": "https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -387,22 +403,6 @@
       "duration_ms": 224680,
       "name": "Desamorados",
       "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Coraz\u00f3n D' Roto",
-        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
-      },
-      "artists": [
-        {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "Apariencia",
-      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Nadie Me Entiende",
-        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nadie Me Entiende",
-      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "La teor\u00eda de los septenios",
         "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 151757,
       "name": "No olvides de enfocarte siempre en lo importante",
       "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "S.C.E.N.A.",
-        "url": "https://open.spotify.com/album/3U0Y3Uyed506dKHMpQDCI9"
-      },
-      "artists": [
-        {
-          "name": "Ningun Artista",
-          "url": "https://open.spotify.com/artist/2hErZkRG3ZcpWCh0B3wQkV"
-        }
-      ],
-      "duration_ms": 220250,
-      "name": "AMSIEDAD",
-      "url": "https://open.spotify.com/track/6INLA7eSR6wKYdCUtQyDLQ"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Clavo",
         "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 170400,
       "name": "Clavo",
       "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "S.C.E.N.A.",
+        "url": "https://open.spotify.com/album/3U0Y3Uyed506dKHMpQDCI9"
+      },
+      "artists": [
+        {
+          "name": "Ningun Artista",
+          "url": "https://open.spotify.com/artist/2hErZkRG3ZcpWCh0B3wQkV"
+        }
+      ],
+      "duration_ms": 220250,
+      "name": "AMSIEDAD",
+      "url": "https://open.spotify.com/track/6INLA7eSR6wKYdCUtQyDLQ"
     },
     {
       "added_at": "2023-05-12 06:00:00",

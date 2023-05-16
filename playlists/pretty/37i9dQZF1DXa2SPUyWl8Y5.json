@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 454692,
+  "num_followers": 454832,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGFlMGNhOGFmMjlhMzkzZTQ0OWYxZDE5MGYxMzkyMWJiYjAzMGYz",
+  "snapshot_id": "MCwxMTQxNmQyNmUyZTAwYjBiNmZlNTc5NTFkMzEyZGYwN2RkNTdkNmRl",
   "tracks": [
     {
       "added_at": "2023-04-28 15:41:26",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "We're Back Chilling",
         "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
       },
@@ -311,22 +295,6 @@
       "duration_ms": 267096,
       "name": "Finding Atlantis",
       "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Sonderling Berlin 50",
-        "url": "https://open.spotify.com/album/08gDkNObzQIlfqT2MJA2pk"
-      },
-      "artists": [
-        {
-          "name": "Dapayk solo",
-          "url": "https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp"
-        }
-      ],
-      "duration_ms": 488048,
-      "name": "Klunkerkranich",
-      "url": "https://open.spotify.com/track/5yxgv9875TDH0x0WLEia9B"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -347,6 +315,38 @@
       "duration_ms": 544957,
       "name": "Petroleum - Fabio Vanore Remix",
       "url": "https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Sonderling Berlin 50",
+        "url": "https://open.spotify.com/album/08gDkNObzQIlfqT2MJA2pk"
+      },
+      "artists": [
+        {
+          "name": "Dapayk solo",
+          "url": "https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp"
+        }
+      ],
+      "duration_ms": 488048,
+      "name": "Klunkerkranich",
+      "url": "https://open.spotify.com/track/5yxgv9875TDH0x0WLEia9B"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Millenium (Edit)",
-        "url": "https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 220659,
-      "name": "Millenium - Edit",
-      "url": "https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
         "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 528959,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Millenium (Edit)",
+        "url": "https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 220659,
+      "name": "Millenium - Edit",
+      "url": "https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Owls (Edit)",
-        "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 226014,
-      "name": "Owls - Edit",
-      "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 364918,
       "name": "Crescendo",
       "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Owls (Edit)",
+        "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 226014,
+      "name": "Owls - Edit",
+      "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
+        "name": "Pure Love EP",
+        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        }
+      ],
+      "duration_ms": 393495,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
         "name": "Cliff (Einmusik Remix)",
         "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 444816,
       "name": "Cliff - Einmusik Remix",
       "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Pure Love EP",
-        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        }
-      ],
-      "duration_ms": 393495,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Meertraum",
-        "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
-      },
-      "artists": [
-        {
-          "name": "Azaleh",
-          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
-        }
-      ],
-      "duration_ms": 394418,
-      "name": "Meertraum",
-      "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Sense of Wonder",
         "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 241282,
       "name": "Sense of Wonder",
       "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Meertraum",
+        "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
+      },
+      "artists": [
+        {
+          "name": "Azaleh",
+          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
+        }
+      ],
+      "duration_ms": 394418,
+      "name": "Meertraum",
+      "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
-      },
-      "artists": [
-        {
-          "name": "GHEIST",
-          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
-        }
-      ],
-      "duration_ms": 377419,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Thrust",
         "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 389092,
       "name": "Aldebaran",
       "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
+      },
+      "artists": [
+        {
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
+        }
+      ],
+      "duration_ms": 377419,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
+        "name": "Planet Earth | March of the Giants",
+        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 457080,
+      "name": "March of the giants",
+      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 262926,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Planet Earth | March of the Giants",
-        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 457080,
-      "name": "March of the giants",
-      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1051,22 +1051,6 @@
       "duration_ms": 433564,
       "name": "Seige",
       "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
-      },
-      "artists": [
-        {
-          "name": "Moonwalk",
-          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
-        }
-      ],
-      "duration_ms": 269153,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
+      },
+      "artists": [
+        {
+          "name": "Moonwalk",
+          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
+        }
+      ],
+      "duration_ms": 269153,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
         "name": "Fader",
         "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
       },
@@ -1119,6 +1119,38 @@
       "duration_ms": 373875,
       "name": "Fader",
       "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Resurrect EP",
+        "url": "https://open.spotify.com/album/2oPWTDFuxa9zguoGsPOYck"
+      },
+      "artists": [
+        {
+          "name": "Forgotten Notes",
+          "url": "https://open.spotify.com/artist/0UoDyIWlKQdUukk9f7snZx"
+        }
+      ],
+      "duration_ms": 450595,
+      "name": "Resurrect",
+      "url": "https://open.spotify.com/track/2lV0ovLujswvwAquxjXw4D"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "duration_ms": 570543,
+      "name": "Red Planet",
+      "url": "https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1143,22 +1175,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 570543,
-      "name": "Red Planet",
-      "url": "https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
       },
@@ -1171,38 +1187,6 @@
       "duration_ms": 435238,
       "name": "Housefly",
       "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Resurrect EP",
-        "url": "https://open.spotify.com/album/2oPWTDFuxa9zguoGsPOYck"
-      },
-      "artists": [
-        {
-          "name": "Forgotten Notes",
-          "url": "https://open.spotify.com/artist/0UoDyIWlKQdUukk9f7snZx"
-        }
-      ],
-      "duration_ms": 450595,
-      "name": "Resurrect",
-      "url": "https://open.spotify.com/track/2lV0ovLujswvwAquxjXw4D"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Piano & Electronic Ensemble Op. 1",
-        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
-      },
-      "artists": [
-        {
-          "name": "Schlindwein",
-          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
-        }
-      ],
-      "duration_ms": 375483,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1223,6 +1207,22 @@
       "duration_ms": 412500,
       "name": "Entrudo - Booka Shade Remix",
       "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Piano & Electronic Ensemble Op. 1",
+        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
+      },
+      "artists": [
+        {
+          "name": "Schlindwein",
+          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
+        }
+      ],
+      "duration_ms": 375483,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Revolt",
-        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
-      },
-      "artists": [
-        {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
-        }
-      ],
-      "duration_ms": 284187,
-      "name": "Revolt",
-      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "10 Years URSL - Reframed Future",
         "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 425437,
       "name": "Reframed Future",
       "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
+      },
+      "artists": [
+        {
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        }
+      ],
+      "duration_ms": 284187,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
     },
     {
       "added_at": "2023-04-28 15:41:26",

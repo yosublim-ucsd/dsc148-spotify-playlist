@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fRquEp6m8D.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,009,468 likes - 48 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,009,863 likes - 48 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fRquEp6m8D.md) - [plain]
 | 47 | [Not My Problem \(feat\. JID\)](https://open.spotify.com/track/69GVTnxGmUlF2ymLPL2CEp) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:23 |
 | 48 | [I'd Rather Go Blind \- Live](https://open.spotify.com/track/5nMkd5cq4JPZqAoQTXv8Wm) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 2:36 |
 
-Snapshot ID: `MCw1YzQ5MjU0NTk0M2NkMzdlMjA0ZGUzYjFjMTdiYzU5M2JlOWQyYzY0`
+Snapshot ID: `MCwwNWI2MTg2Y2Q3YTMxNjM5Y2JlMDM5OGU0YzVmYzMyZDYwOWUxMjJi`

@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 144873,
+  "num_followers": 145092,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTA3MzQ0MTI0MDM2Y2QxYTVhNDMwOTkyNzcxNTdkOGQ2NzY0NDJk",
+  "snapshot_id": "MCw0ZjYyNmJlMjg5ZWQxZDM5MTk5YmQ2NTFiMTI1NTEzMmEyOWI2N2Vm",
   "tracks": [
     {
       "added_at": "2022-03-02 23:11:11",
@@ -139,18 +139,22 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "Temple of Null",
-        "url": "https://open.spotify.com/album/3vmSi6NMDAxnYPVKB5EATU"
+        "name": "Temple Of Null",
+        "url": "https://open.spotify.com/album/3SbRTZRltGc23PCabzGmDu"
       },
       "artists": [
+        {
+          "name": "Untitled Archive",
+          "url": "https://open.spotify.com/artist/4ozEOTYdEmZ4zJ7rxNzyXK"
+        },
         {
           "name": "Acetantina",
           "url": "https://open.spotify.com/artist/4pOU5L3kyzl3mOup7X0Xxp"
         }
       ],
       "duration_ms": 168000,
-      "name": "Temple of Null",
-      "url": "https://open.spotify.com/track/6BN0SHZZkdksdMFXDhCvDT"
+      "name": "Temple Of Null",
+      "url": "https://open.spotify.com/track/37mUEcpOtA8VIJxDhPFe22"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -633,22 +637,6 @@
       "url": "https://open.spotify.com/track/1jpeaMkkBI62OYH0z5nAhb"
     },
     {
-      "added_at": "2022-03-03 00:20:55",
-      "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 89640,
-      "name": "The descent",
-      "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
-    },
-    {
       "added_at": "2022-03-02 23:11:11",
       "album": {
         "name": "carepackage",
@@ -679,6 +667,22 @@
       "duration_ms": 96883,
       "name": "Eternal.Temp",
       "url": "https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye"
+    },
+    {
+      "added_at": "2022-03-03 00:20:55",
+      "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 89640,
+      "name": "The descent",
+      "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
     },
     {
       "added_at": "2022-04-01 14:56:46",
@@ -1049,22 +1053,6 @@
       "url": "https://open.spotify.com/track/2IvnzqJv070rZ2I6u5ocuR"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "I Love You Kyary",
-        "url": "https://open.spotify.com/album/5QKkoqSFe1lUea4tuAtoJb"
-      },
-      "artists": [
-        {
-          "name": "Yesterdayneverhappened",
-          "url": "https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh"
-        }
-      ],
-      "duration_ms": 81000,
-      "name": "I Really Wish I Was Playing Smash Bros Right Now",
-      "url": "https://open.spotify.com/track/7hST4LHaypUoUeGayzsuPG"
-    },
-    {
       "added_at": "2022-03-02 23:11:11",
       "album": {
         "name": "I'll Try Living Like This",
@@ -1115,6 +1103,22 @@
       "duration_ms": 116363,
       "name": "RED ALERT",
       "url": "https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "I Love You Kyary",
+        "url": "https://open.spotify.com/album/5QKkoqSFe1lUea4tuAtoJb"
+      },
+      "artists": [
+        {
+          "name": "Yesterdayneverhappened",
+          "url": "https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh"
+        }
+      ],
+      "duration_ms": 81000,
+      "name": "I Really Wish I Was Playing Smash Bros Right Now",
+      "url": "https://open.spotify.com/track/7hST4LHaypUoUeGayzsuPG"
     },
     {
       "added_at": "2022-03-02 23:11:11",

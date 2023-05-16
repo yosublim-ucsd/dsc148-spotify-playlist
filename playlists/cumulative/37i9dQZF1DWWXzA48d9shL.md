@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-439 songs - 17 hr 15 min
+440 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Blood Oceans \(How Many?\)](https://open.spotify.com/track/7HG0J5pblRBXV1weLaNeMr) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW), [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Blood Oceans \(How Many?\)](https://open.spotify.com/album/5btlL9UCJuwk2pAZ6SUabF) | 1:58 | 2022-05-16 | 2022-06-11 |
 | [BLOOD RACE](https://open.spotify.com/track/0D3SaRvnoMohXOEJ75GieD) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [BLOOD RACE](https://open.spotify.com/album/0Z2rXTvzrwiyWAtsMFrqg5) | 1:49 | 2022-06-03 | 2022-07-27 |
 | [BLOODLINE](https://open.spotify.com/track/3EqkflivbF639pZxjyl7JN) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0), [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [BLOODLINE](https://open.spotify.com/album/5XYjAX7dHfxTt1MVr8HYQs) | 1:55 | 2022-02-11 | 2022-04-21 |
+| [Bloody 98 \(feat\. Ghostemane\)](https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [YIN YANG TAPES: Summer Season \(1989\-1990\)](https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f) | 4:37 | 2023-05-15 |  |
 | [Bloody Crescent](https://open.spotify.com/track/2fWfZfktaLdOi5U13BLQKJ) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Bloody Crescent](https://open.spotify.com/album/6V8LTX1vyMrJoHxjQ0Ye7R) | 2:48 | 2022-03-11 | 2022-04-20 |
 | [bloody!](https://open.spotify.com/track/4ZBEfyphqFsSkjWP7y2L6E) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [bloody!](https://open.spotify.com/album/3yAw6PBvcHJo3nVyHKEOp8) | 1:53 | 2022-08-19 | 2022-11-26 |
 | [Blow](https://open.spotify.com/track/2zVgPURwEBzRhmvoO8GyO4) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:41 | 2021-09-17 | 2022-06-11 |
@@ -403,7 +404,7 @@
 | [TOXIC](https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [TOXIC](https://open.spotify.com/album/1JDRqkMuIapYrNN8nYOiTh) | 1:24 | 2023-01-05 | 2023-01-23 |
 | [Trinity](https://open.spotify.com/track/41PeGZiPALdktSyL8jqKeB) | [Lorta](https://open.spotify.com/artist/0jfcbc9ax7GnUiCzhexJOb), [Devilish Trio](https://open.spotify.com/artist/45brkGrBxvV5pxj8eiImiF) | [Trinity](https://open.spotify.com/album/46KiNG5vmNGAqHq8LMUHor) | 2:07 | 2023-04-14 |  |
 | [Trumpets](https://open.spotify.com/track/18wVzwlJ2zkBxzwV6SKNQs) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [Trumpets](https://open.spotify.com/album/2911GWsISHeF45SK8iy3NY) | 1:34 | 2021-09-17 | 2022-10-29 |
-| [TYRANT](https://open.spotify.com/track/1TdvR1RJGlEIGXLA1IXYi0) | [TVSTELESS](https://open.spotify.com/artist/0fW2IGCuzMtYSToamwOAHS), [Mvko](https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P) | [TYRANT](https://open.spotify.com/album/0R16n2AAbIfpifjHnL3Zun) | 1:56 | 2023-01-27 |  |
+| [TYRANT](https://open.spotify.com/track/1TdvR1RJGlEIGXLA1IXYi0) | [TVSTELESS](https://open.spotify.com/artist/0fW2IGCuzMtYSToamwOAHS), [Mvko](https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P) | [TYRANT](https://open.spotify.com/album/0R16n2AAbIfpifjHnL3Zun) | 1:56 | 2023-01-27 | 2023-05-16 |
 | [UBER EATS](https://open.spotify.com/track/5Uv2YYRGuqQ9sjIJq7WZZU) | [Northside Hollow](https://open.spotify.com/artist/7CTwgcHGx4eMeP4YeW1lC5), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [UBER EATS](https://open.spotify.com/album/08WdgJ9VIl80uCj9LFmwaz) | 2:25 | 2022-07-01 | 2022-07-08 |
 | [Ugliest](https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:58 | 2022-04-05 | 2022-05-17 |
 | [UNDER THE FLOOR](https://open.spotify.com/track/35GDPnipCe8z8worRp3rTS) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [UNDER THE FLOOR](https://open.spotify.com/album/7gCQgabNEjhNucylRYZgix) | 2:04 | 2021-10-20 | 2022-04-21 |

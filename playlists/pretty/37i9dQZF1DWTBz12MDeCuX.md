@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Jumpa, Chapo102
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,472 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,794 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [I LIKE](https://open.spotify.com/track/6MEp7B2OltOI1cZXEwxNAh) | [Yecca](https://open.spotify.com/artist/0ypMouAPYgghSqlAwwOebe) | [I LIKE](https://open.spotify.com/album/43d48gV9x1lyeM6UhffIgt) | 2:16 |
 | 100 | [Wie Du](https://open.spotify.com/track/1HQVrKIUKAF6pq1JYqNMzS) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Wie Du](https://open.spotify.com/album/6dkH0Z1f411BzyjcHuZk9I) | 2:50 |
 
-Snapshot ID: `MCxhNTU3MjdlNWM4M2QyMjZhMjNiZGVlNWNjY2E0NmY5NjNlMGU0ZmY3`
+Snapshot ID: `MCw3MzY0MWYzMGUzNmE4NWY1ZDVmOGVlMmVlYjllNGUyNDBhNzRmZWIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Joachim Pastor
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,549 likes - 150 songs - 7 hr 57 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,550 likes - 150 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 2 | [Burn It Down](https://open.spotify.com/track/3ZULXQYRpINwMSJLf13lgv) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Burn It Down](https://open.spotify.com/album/0bOjWx9E7bKO37vJhee5PC) | 2:39 |
 | 3 | [How You Samba](https://open.spotify.com/track/5OsYviJJXb8g8uM1K7JiPm) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/6qm3xWNQ0APs9N1KmXAD9B) | 2:31 |
 | 4 | [Forsaken Memories](https://open.spotify.com/track/4DrZ4toAJLG8I89YeCi64y) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ), [Cartouche](https://open.spotify.com/artist/1cW9UOFK73DmDudvD0nIHL) | [Forsaken Memories](https://open.spotify.com/album/3RpD5MXbwjwnOZzRoWB9YA) | 3:33 |
-| 5 | [Blow Ya Mind](https://open.spotify.com/track/21hxN3cxOJoDmQwg2tXUpN) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lee Cabrera](https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w), [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9), [Bleech](https://open.spotify.com/artist/0az6y7AjCCOAZzAF3i1Jaq) | [Blow Ya Mind](https://open.spotify.com/album/6GK4SX32R65JWHOCeZqdiA) | 2:29 |
+| 5 | [Blow Ya Mind](https://open.spotify.com/track/21hxN3cxOJoDmQwg2tXUpN) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lee Cabrera](https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w), [Bleech](https://open.spotify.com/artist/0az6y7AjCCOAZzAF3i1Jaq), [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9) | [Blow Ya Mind](https://open.spotify.com/album/6GK4SX32R65JWHOCeZqdiA) | 2:29 |
 | 6 | [Hijóping](https://open.spotify.com/track/4FltryA18s8UU5ypUxJuPW) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Hijóping](https://open.spotify.com/album/0DahCEkHa16TIQrbra18oF) | 3:27 |
 | 7 | [Everlasting](https://open.spotify.com/track/3S4K6TzIDA3vGTBBJf6Dh8) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Money For Nothing](https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY) | [Everlasting](https://open.spotify.com/album/6pbIqiw3vNBsBXNjN0tOnO) | 3:39 |
 | 8 | [The Duty](https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [The Duty](https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS) | 3:14 |

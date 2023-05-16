@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 134510,
+  "num_followers": 134500,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGYzMGYzZDg5NzQ4YWRiZmU5YWQ3NGM1YzAxZmNjMzJlYTkzNmEx",
+  "snapshot_id": "MCw2NDkxYjViZDM4MDI5MmM2YWM2NWIxOTY2YjIyN2E5MzNiZTQ0MTYy",
   "tracks": [
     {
       "added_at": "2022-12-16 16:34:09",
@@ -491,22 +491,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Naughty List",
-        "url": "https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1"
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6cHWO6sSqfJ0WIRA6yiJ6B"
       },
       "artists": [
         {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        },
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
         }
       ],
-      "duration_ms": 239280,
-      "name": "I Hope It Snows",
-      "url": "https://open.spotify.com/track/1Tu2vqQl3Oo7HaQP1AS38G"
+      "duration_ms": 187968,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/7IguZUbEN3K37mQ2lTI4Uq"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -527,18 +523,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/6cHWO6sSqfJ0WIRA6yiJ6B"
+        "name": "Naughty List",
+        "url": "https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1"
       },
       "artists": [
         {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        },
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
         }
       ],
-      "duration_ms": 187968,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/7IguZUbEN3K37mQ2lTI4Uq"
+      "duration_ms": 239280,
+      "name": "I Hope It Snows",
+      "url": "https://open.spotify.com/track/1Tu2vqQl3Oo7HaQP1AS38G"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "The Ballad of Mrs. Claus",
+        "url": "https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs"
+      },
+      "artists": [
+        {
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "The Ballad of Mrs. Claus",
+      "url": "https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "The Ballad of Mrs. Claus",
-        "url": "https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs"
+        "name": "christmas vacation",
+        "url": "https://open.spotify.com/album/3wQIx8fylcIeKYMmfzVDkp"
       },
       "artists": [
         {
-          "name": "Elliot Maginot",
-          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
         }
       ],
-      "duration_ms": 221000,
-      "name": "The Ballad of Mrs. Claus",
-      "url": "https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6"
+      "duration_ms": 133633,
+      "name": "christmas vacation",
+      "url": "https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -811,22 +827,6 @@
       "duration_ms": 180573,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "christmas vacation",
-        "url": "https://open.spotify.com/album/3wQIx8fylcIeKYMmfzVDkp"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 133633,
-      "name": "christmas vacation",
-      "url": "https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Rise Up Shepherd",
-        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
-      },
-      "artists": [
-        {
-          "name": "Twin Bandit",
-          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
-        }
-      ],
-      "duration_ms": 147134,
-      "name": "Rise Up Shepherd",
-      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Last Xmas",
         "url": "https://open.spotify.com/album/7gvrogvTiup7SSSRCG5caa"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 226000,
       "name": "Last Xmas",
       "url": "https://open.spotify.com/track/6dyjwojf6jZV8aQorBTmGD"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Rise Up Shepherd",
+        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
+      },
+      "artists": [
+        {
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        }
+      ],
+      "duration_ms": 147134,
+      "name": "Rise Up Shepherd",
+      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "A Winter Wonderland",
-        "url": "https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 227748,
-      "name": "A Winter Wonderland",
-      "url": "https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "A very chilly christmas",
         "url": "https://open.spotify.com/album/02UKO5a8LFQ5DLmyozpQBc"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "A Winter Wonderland",
+        "url": "https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 227748,
+      "name": "A Winter Wonderland",
+      "url": "https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Hangover For Christmas",
         "url": "https://open.spotify.com/album/5BvP4OjFYbqwRGdInh5aZC"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 180929,
       "name": "Hangover For Christmas",
       "url": "https://open.spotify.com/track/5PibhDx6l13d6e2kiKOcfW"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Count Your Blessings Instead Of Sheep",
+      "url": "https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1135,22 +1151,6 @@
       "duration_ms": 206421,
       "name": "Christmas at Home",
       "url": "https://open.spotify.com/track/3ALSNnwqeIwMOk8DsgLZux"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "Count Your Blessings Instead Of Sheep",
-      "url": "https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "It Snowed",
+        "url": "https://open.spotify.com/album/5d7XWrnwFwMMHcvOtdSlU9"
+      },
+      "artists": [
+        {
+          "name": "Meaghan Smith",
+          "url": "https://open.spotify.com/artist/47QqI0kuVSCrV0KVRBZ3km"
+        }
+      ],
+      "duration_ms": 224026,
+      "name": "It Snowed - Remastered",
+      "url": "https://open.spotify.com/track/7eRH77hH1hT3jMZxfaYT38"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "They Don\u2019t Make Them Like That Anymore",
         "url": "https://open.spotify.com/album/4HtQJ64lhKr84L5LRHVVEt"
       },
@@ -1383,18 +1399,34 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "It Snowed",
-        "url": "https://open.spotify.com/album/5d7XWrnwFwMMHcvOtdSlU9"
+        "name": "two christmases",
+        "url": "https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM"
       },
       "artists": [
         {
-          "name": "Meaghan Smith",
-          "url": "https://open.spotify.com/artist/47QqI0kuVSCrV0KVRBZ3km"
+          "name": "nobody likes you pat",
+          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
         }
       ],
-      "duration_ms": 224026,
-      "name": "It Snowed - Remastered",
-      "url": "https://open.spotify.com/track/7eRH77hH1hT3jMZxfaYT38"
+      "duration_ms": 142658,
+      "name": "two christmases",
+      "url": "https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Darling, It's Cold Out",
+        "url": "https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW"
+      },
+      "artists": [
+        {
+          "name": "Cassi\u00f8peia",
+          "url": "https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S"
+        }
+      ],
+      "duration_ms": 180237,
+      "name": "Darling, It's Cold Out",
+      "url": "https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1431,34 +1463,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Darling, It's Cold Out",
-        "url": "https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW"
+        "name": "River City Christmas",
+        "url": "https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg"
       },
       "artists": [
         {
-          "name": "Cassi\u00f8peia",
-          "url": "https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S"
+          "name": "Crash Test Dummies",
+          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
         }
       ],
-      "duration_ms": 180237,
-      "name": "Darling, It's Cold Out",
-      "url": "https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "two christmases",
-        "url": "https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM"
-      },
-      "artists": [
-        {
-          "name": "nobody likes you pat",
-          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
-        }
-      ],
-      "duration_ms": 142658,
-      "name": "two christmases",
-      "url": "https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS"
+      "duration_ms": 219666,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1475,22 +1491,6 @@
       "duration_ms": 197167,
       "name": "Don't Hang The Mistletoe",
       "url": "https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "River City Christmas",
-        "url": "https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg"
-      },
-      "artists": [
-        {
-          "name": "Crash Test Dummies",
-          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Joy to the World",
-        "url": "https://open.spotify.com/album/61i2xsCv4xblemUmhtRnGh"
-      },
-      "artists": [
-        {
-          "name": "Hunter Brothers",
-          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "What I See",
-      "url": "https://open.spotify.com/track/3vdKhieD57HDrBx0wyMyYh"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Just Like Christmas",
-        "url": "https://open.spotify.com/album/6nAO8njLZoV7rKfun9I3mI"
+        "name": "Joy to the World",
+        "url": "https://open.spotify.com/album/61i2xsCv4xblemUmhtRnGh"
       },
       "artists": [
         {
-          "name": "Housewife",
-          "url": "https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN"
+          "name": "Hunter Brothers",
+          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
         }
       ],
-      "duration_ms": 180694,
-      "name": "Just Like Christmas",
-      "url": "https://open.spotify.com/track/2gwTSk4cypsnt1nckURmDM"
+      "duration_ms": 169666,
+      "name": "What I See",
+      "url": "https://open.spotify.com/track/3vdKhieD57HDrBx0wyMyYh"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1615,6 +1599,22 @@
       "duration_ms": 200998,
       "name": "Snow Place Like Home",
       "url": "https://open.spotify.com/track/2MMoRePvDXAP1BAEF2TV3s"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Just Like Christmas",
+        "url": "https://open.spotify.com/album/6nAO8njLZoV7rKfun9I3mI"
+      },
+      "artists": [
+        {
+          "name": "Housewife",
+          "url": "https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN"
+        }
+      ],
+      "duration_ms": 180694,
+      "name": "Just Like Christmas",
+      "url": "https://open.spotify.com/track/2gwTSk4cypsnt1nckURmDM"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Christmas Is Hittin' Me Different",
-        "url": "https://open.spotify.com/album/4dU3Oj6Z49rIyJzEpU5O80"
-      },
-      "artists": [
-        {
-          "name": "Steven Lee Olsen",
-          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
-        }
-      ],
-      "duration_ms": 200070,
-      "name": "Christmas Is Hittin' Me Different",
-      "url": "https://open.spotify.com/track/1MjT5Ye12aNXQDyJB4aBHX"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Someday at Christmas",
         "url": "https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 186890,
       "name": "Someday at Christmas",
       "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Christmas Is Hittin' Me Different",
+        "url": "https://open.spotify.com/album/4dU3Oj6Z49rIyJzEpU5O80"
+      },
+      "artists": [
+        {
+          "name": "Steven Lee Olsen",
+          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
+        }
+      ],
+      "duration_ms": 200070,
+      "name": "Christmas Is Hittin' Me Different",
+      "url": "https://open.spotify.com/track/1MjT5Ye12aNXQDyJB4aBHX"
     }
   ],
   "unique_name": "Christmas in Canada",

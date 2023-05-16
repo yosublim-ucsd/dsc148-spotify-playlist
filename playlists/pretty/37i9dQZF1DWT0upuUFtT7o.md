@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Waterbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,365 likes - 120 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,433 likes - 120 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 119 | [Done With the Day](https://open.spotify.com/track/2ohsDgZQM0W3FamOXVUCXK) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Bird Hour](https://open.spotify.com/album/0WIlE8U5KX5gjNj5i8J5Ae) | 3:30 |
 | 120 | [Itinerary](https://open.spotify.com/track/5OJvD7iPHQo0SuSB6zjoO7) | [V.V\. Lightbody](https://open.spotify.com/artist/0g7sn95ZJ9iMKdmIAec3E5) | [Itinerary](https://open.spotify.com/album/2Qiu1gpocWUsFGIx0fJsTF) | 3:30 |
 
-Snapshot ID: `MCw1YjVlMmM5M2Q4ODY3YjMzMjMzMGFkNTE4MWJiNzEwOWViNmEwNDA2`
+Snapshot ID: `MCwxZWYxZTg0ZTM0MGRhODJmNjJhMDg0MDhhYjM2NTVkNTliNGFkNTk2`

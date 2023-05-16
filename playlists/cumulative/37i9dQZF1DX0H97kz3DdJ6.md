@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-116 songs - 5 hr 36 min
+117 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [alguém](https://open.spotify.com/track/6UDPt5g8OZtUHIQDUGztQc) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [NJDDAMC](https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89) | 2:08 | 2022-11-17 |  |
 | [Amanhã](https://open.spotify.com/track/7C1CvniWykrusLwitFH7WK) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Amanhã](https://open.spotify.com/album/5EeiFSXE4afZ0F5s06rRF8) | 3:00 | 2022-05-20 |  |
 | [Amenizar](https://open.spotify.com/track/2CcBndSk67PNfDZNlP1Lxw) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Amenizar](https://open.spotify.com/album/2kZOSp08IjUyvABagI7otX) | 3:34 | 2022-05-20 | 2022-06-25 |
-| [Amores Nascem e Morrem](https://open.spotify.com/track/6sYoOLkoTCerRMgfHh8J65) | [NOVENOVE](https://open.spotify.com/artist/4t2AqdHzMvBMeaFrPrCEmj) | [Amores Nascem e Morrem](https://open.spotify.com/album/7KH7FYJCl0AUq5yHM3vSgy) | 3:16 | 2022-05-20 |  |
+| [Amores Nascem e Morrem](https://open.spotify.com/track/4Aw8bX9m5kuj5bs7lbgYbB) | [NOVENOVE](https://open.spotify.com/artist/4t2AqdHzMvBMeaFrPrCEmj) | [Amores Nascem e Morrem](https://open.spotify.com/album/22P4UGFKYSRcwfaiCvD5qw) | 3:16 | 2023-05-12 |  |
+| [Amores Nascem e Morrem](https://open.spotify.com/track/6sYoOLkoTCerRMgfHh8J65) | [NOVENOVE](https://open.spotify.com/artist/4t2AqdHzMvBMeaFrPrCEmj) | [Amores Nascem e Morrem](https://open.spotify.com/album/7KH7FYJCl0AUq5yHM3vSgy) | 3:16 | 2022-05-20 | 2023-05-16 |
 | [Amores Vazios](https://open.spotify.com/track/7bMt0gzTI76SJWIClQjIbn) | [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Amores Vazios](https://open.spotify.com/album/7ymyRcnUEU1gUslHqo8bIZ) | 2:22 | 2022-05-20 |  |
 | [Apaixonadin](https://open.spotify.com/track/0rocmkucHNcpgoClAQNlWu) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Apaixonadin](https://open.spotify.com/album/4XCSej2LVgk2PWNvVIXZtJ) | 2:12 | 2022-05-20 |  |
 | [Atende o Celular](https://open.spotify.com/track/4EOqOj69x0J7adGabCvKjw) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Atende o Celular](https://open.spotify.com/album/6K0ErGr3QPMvDttVAnG8di) | 2:54 | 2022-05-20 | 2023-05-10 |

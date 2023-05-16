@@ -4,7 +4,7 @@
 
 > ¡Brillando baldosa! Foto: Grupo Niche
 
-93 songs - 7 hr 0 min
+94 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Rebelión](https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Grandes Exitos](https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51) | 4:47 | 2022-06-24 |  |
 | [Rebelión](https://open.spotify.com/track/5MHGvuIF5LZmCZZ3Exfpvt) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Greatest Salsa Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/29k81bFSFRcvmCuiKo8UyI) | 4:47 | 2022-06-24 | 2022-11-13 |
 | [Ron Pa' Todo el Mundo \(feat\. Diomedes Díaz\)](https://open.spotify.com/track/54NxLSsiNtL61VSCOLNSSA) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [20 Exitos Originales](https://open.spotify.com/album/2uCGn4JJyhXOzoZ7OBLbQR) | 4:16 | 2022-06-24 | 2022-11-13 |
-| [Ron Pa' Todo el Mundo \(feat\. Diomedes Díaz\)](https://open.spotify.com/track/4kgAZUvmdUE6f16j4HEVK7) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [32 Grandes Exitos](https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA) | 4:20 | 2022-06-24 |  |
+| [Ron Pa' Todo el Mundo \(feat\. Diomedes Díaz\)](https://open.spotify.com/track/4kgAZUvmdUE6f16j4HEVK7) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [32 Grandes Exitos](https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA) | 4:20 | 2022-06-24 | 2023-05-16 |
+| [Ron Pa' Todo el Mundo \(feat\. Diomedes Díaz\)](https://open.spotify.com/track/6jQeAqkvJfT27Mk87kPlVk) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [El Rey Del Congo De Oro](https://open.spotify.com/album/6UOBUAMiWXbZm0rky3Ivdf) | 4:20 | 2023-03-24 |  |
 | [Sabre Olvidar](https://open.spotify.com/track/7ycF9ruw3EKOxY2lgKN5Ks) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [32 Grandes Exitos](https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA) | 4:15 | 2022-06-24 |  |
 | [Salsa](https://open.spotify.com/track/7ElA9eXX6zKtexObEeexHf) | [Yuri Buenaventura](https://open.spotify.com/artist/7FIeKWN0FTtzvQ1i7Z1aTx) | [Salsita Pal Corazón](https://open.spotify.com/album/5Sec49juKX7hXBWI6tz7j0) | 4:28 | 2022-06-24 | 2022-11-13 |
 | [Sentimiento Caleño](https://open.spotify.com/track/0Sv9GZus14o4AwvXb8CeYs) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Salsa Pa Rato](https://open.spotify.com/album/6PiAJKP3eTFzCa0Bni784i) | 5:32 | 2022-06-24 |  |

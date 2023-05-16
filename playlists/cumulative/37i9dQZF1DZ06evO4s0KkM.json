@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 183306,
       "name": "Black Velvet Band",
       "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 110625,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/4zuEua2fQF5q6ev0oWt5XW"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 264473,
       "name": "Fields of Athenry",
       "url": "https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd"
@@ -562,6 +562,24 @@
       "duration_ms": 166065,
       "name": "Gotta Get To Peekskill (feat. Violent Femmes)",
       "url": "https://open.spotify.com/track/17hb9Umsj8gB9dsRnyRX9J"
+    },
+    {
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184255,
+      "name": "Hear The Curfew Blowin",
+      "url": "https://open.spotify.com/track/1JkejsQonh89GAXG6GtsYI"
     },
     {
       "album": {
@@ -980,7 +998,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 234133,
       "name": "Paying My Way",
       "url": "https://open.spotify.com/track/6MSzeTzRq4ZMH4VwJs7XMy"
@@ -1056,6 +1074,28 @@
       "duration_ms": 231655,
       "name": "Queen Of Suffolk County",
       "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
+    },
+    {
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Jesse Ahern",
+          "url": "https://open.spotify.com/artist/6r0uPWjVNMn86oxk3A2jta"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207645,
+      "name": "Rippin Up The Boundary Line (feat. Jesse Ahern)",
+      "url": "https://open.spotify.com/track/4MRZXY4jBPHxGJ1nDr7Avi"
     },
     {
       "album": {
@@ -1608,7 +1648,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 205613,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
@@ -1792,6 +1832,24 @@
       "duration_ms": 182913,
       "name": "Waters Are A'risin",
       "url": "https://open.spotify.com/track/5Vj1Tsd7aTFt1AVPVQySqL"
+    },
+    {
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152501,
+      "name": "When I Was A Little Boy",
+      "url": "https://open.spotify.com/track/4AnsvntwCYKAuKkUaG851H"
     },
     {
       "album": {

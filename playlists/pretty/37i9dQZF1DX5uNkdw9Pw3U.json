@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 63160,
+  "num_followers": 63192,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2UwYmRjMmQwOTQ1MmMxOGRmN2EzMDEyYzE5MTFhZWExZjJmODUx",
+  "snapshot_id": "MCw3OWUxNzYyOGYxYmEzNTAwNDI1Nzc0YzAzYzViYTNhNjVjMTM4NGIx",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -339,6 +339,26 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 219332,
+      "name": "Make It Better (feat. Smokey Robinson)",
+      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Yo Love (From \"Queen & Slim: The Soundtrack\")",
         "url": "https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 143830,
       "name": "Yo Love - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 219332,
-      "name": "Make It Better (feat. Smokey Robinson)",
-      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 155298,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 208395,
       "name": "Jet Black (feat. Brandy)",
       "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 155298,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Do To Me",
-        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 225103,
-      "name": "Do To Me",
-      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 266812,
       "name": "Come Home (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Do To Me",
+        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 225103,
+      "name": "Do To Me",
+      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 215239,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Measure of a Man (feat. Central Cee)",
         "url": "https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 195466,
       "name": "Measure of a Man (feat. Central Cee)",
       "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 215239,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "sukkerspinn & hodepine (Del 2)",
-        "url": "https://open.spotify.com/album/1liGHJczFXltMS2R4kqV8R"
-      },
-      "artists": [
-        {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        },
-        {
-          "name": "Magdi",
-          "url": "https://open.spotify.com/artist/37TkImYSoPGZ9LDo0Frf2J"
-        }
-      ],
-      "duration_ms": 163366,
-      "name": "gangster romanse (feat. Magdi)",
-      "url": "https://open.spotify.com/track/1ftdrKxNslW2b60trc2inw"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Hyperion",
         "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 216560,
       "name": "So Bad (feat. HAIM)",
       "url": "https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "sukkerspinn & hodepine (Del 2)",
+        "url": "https://open.spotify.com/album/1liGHJczFXltMS2R4kqV8R"
+      },
+      "artists": [
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        },
+        {
+          "name": "Magdi",
+          "url": "https://open.spotify.com/artist/37TkImYSoPGZ9LDo0Frf2J"
+        }
+      ],
+      "duration_ms": 163366,
+      "name": "gangster romanse (feat. Magdi)",
+      "url": "https://open.spotify.com/track/1ftdrKxNslW2b60trc2inw"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Sweet Insomnia",
-        "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 185371,
-      "name": "Compromise (feat. Sabrina Claudio)",
-      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X"
       },
@@ -1739,6 +1719,22 @@
       "duration_ms": 200168,
       "name": "I Blodet (feat. Natnael)",
       "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Sympati For Djevelen",
+        "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
+      },
+      "artists": [
+        {
+          "name": "L.U:N.A",
+          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "Sympati For Djevelen",
+      "url": "https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W"
     }
   ],
   "unique_name": "Laid Back Beats",

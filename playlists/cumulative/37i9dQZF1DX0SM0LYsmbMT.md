@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,485 songs - 5 day 13 hr 56 min
+3,486 songs - 5 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [Cloudscape](https://open.spotify.com/track/6B5KhqPjHzUsxVpWDVD8xu) | [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Cloudscape](https://open.spotify.com/album/1XiN8tlI4p0vAZySBdZxHX) | 2:02 | 2022-03-17 | 2022-11-20 |
 | [Cloudscapes](https://open.spotify.com/track/2NBVrQ6qrweR2PXEZ0AaKc) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Cloudscapes](https://open.spotify.com/album/0Uu1gWOkn12f2xLrijFPHC) | 2:12 | 2021-07-16 | 2021-10-13 |
 | [Cloudscapes](https://open.spotify.com/track/6pMWWN9t8VaqKZasjkPXE6) | [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q) | [Cloudscapes](https://open.spotify.com/album/1PxdRfuohZkc5mNJx1dNfj) | 2:48 | 2020-07-18 | 2020-10-09 |
-| [cloudsleeper](https://open.spotify.com/track/1f7kX0jU1nYZwb8871d78x) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [cloudsleeper](https://open.spotify.com/album/34MHDDyYAiCFinOUBYqCDB) | 2:39 | 2022-11-17 |  |
+| [cloudsleeper](https://open.spotify.com/track/1f7kX0jU1nYZwb8871d78x) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [cloudsleeper](https://open.spotify.com/album/34MHDDyYAiCFinOUBYqCDB) | 2:39 | 2022-11-17 | 2023-05-16 |
 | [Clubmaster](https://open.spotify.com/track/2r24Vg178CbzSFGUG3nnS6) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Jellify](https://open.spotify.com/album/535SwkF6crJSfb8k5baArf) | 1:41 | 2020-02-18 | 2020-04-18 |
 | [Clyde Drexler](https://open.spotify.com/track/3cdTPhBXN57pma19cqNBN5) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Clyde Drexler](https://open.spotify.com/album/0IWlH7WxPQFQmAaGNbiFAX) | 3:24 | 2020-10-09 | 2021-03-06 |
 | [Coast](https://open.spotify.com/track/3ho7ODJyClN4tEaVpzb5cc) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Coast](https://open.spotify.com/album/7JZwigoK6bVgnlUMwzzq0D) | 1:55 | 2020-02-28 | 2020-06-29 |
@@ -3401,6 +3401,7 @@
 | [Wichita](https://open.spotify.com/track/2zbTK6I0usacoWgxFBnsrG) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [Monomo](https://open.spotify.com/artist/2dmpVwPMr9wEkPAgntGyqY) | [Wichita](https://open.spotify.com/album/06xt02MpiLzMxSS5nrEJhW) | 2:16 | 2022-03-10 | 2022-04-20 |
 | [Wie ein Stein](https://open.spotify.com/track/7nhnrb8OjaJACxPRv8eLYc) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Wie ein Stein](https://open.spotify.com/album/47Afo2R5CRzwXw0Bgg6ReL) | 2:14 | 2021-07-18 | 2021-08-13 |
 | [Wie Ein U](https://open.spotify.com/track/4dEY85DR5Rnsm3b0yb0Rym) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Wie Ein U](https://open.spotify.com/album/3HBTfcx0Wu8x2FyrKuc6tZ) | 1:47 | 2022-03-31 | 2022-05-13 |
+| [Wild](https://open.spotify.com/track/3zqH3Bs2jhXLhB0GoqGDtV) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Wild](https://open.spotify.com/album/0JeHHHgAxWFm7iwyKLgEmE) | 1:54 | 2023-05-11 |  |
 | [Wild Dreams](https://open.spotify.com/track/4lke2maACdsWr6iYXJAfQd) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Wild Dreams](https://open.spotify.com/album/0uI90jEDIjXgC806kqLuys) | 1:58 | 2023-05-05 |  |
 | [Wild Paradise](https://open.spotify.com/track/2Mt3DZqujNwDQ7JDKRkWSI) | [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ) | [Wild Paradise](https://open.spotify.com/album/1UVn7hbe2yhQJE94D0Bkk1) | 2:38 | 2020-02-11 | 2020-05-15 |
 | [Wilderness](https://open.spotify.com/track/3a3yFYCGA0dAqXsD5vqrkQ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Karru](https://open.spotify.com/album/4Ujw019tiip86gVC9DxrdL) | 2:44 | 2020-04-10 | 2020-06-13 |

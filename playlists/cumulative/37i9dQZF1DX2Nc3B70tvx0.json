@@ -4551,6 +4551,24 @@
     },
     {
       "album": {
+        "name": "CHARLES JEFFREY - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4J2stJagijzvESkYTJ3GQP"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192385,
+      "name": "CHARLES JEFFREY - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1EzZnsbtkWcSsCHX1MJA8w"
+    },
+    {
+      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/2sf7N2WKAzMKlpPn0JuYbj"
       },
@@ -17430,7 +17448,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 230760,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6"

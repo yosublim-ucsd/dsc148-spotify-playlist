@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new music by independent artists and labels\. Updates every Wednesday\. Cover: MERŌN
+> The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Issac Stuart
 
 2,958 songs - 6 day 6 hr 47 min
 

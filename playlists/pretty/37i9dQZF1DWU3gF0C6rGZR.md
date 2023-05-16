@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,501 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,544 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 72 | [Parabola](https://open.spotify.com/track/1iYsg65dfhhfE6dqhnySj2) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 2:15 |
 | 73 | [El Caso de la Rubia Platino](https://open.spotify.com/track/4t3SZAVRsVx5oTcQfAVCyN) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esencial Joaquin Sabina](https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet) | 4:48 |
 | 74 | [Cada Loco Con Su Tema](https://open.spotify.com/track/1thgvw4iBQEUTzcGKOPwhy) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Cada Loco Con Su Tema](https://open.spotify.com/album/5RX5mfuHRA7QIriJ693QG3) | 5:36 |
-| 75 | [Pongamos Que Hablo de Madrid](https://open.spotify.com/track/4L3gOv26fhKuOZCOaZgQYj) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Mucho Sabina](https://open.spotify.com/album/5pr2R3J9kR06c9RmRGlvqa) | 4:05 |
+| 75 | [Pongamos Que Hablo de Madrid](https://open.spotify.com/track/5Mk78wLlqsNuxIxDBkI9Ms) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Pongamos que Hablo De Madrid](https://open.spotify.com/album/7hlblvbsLqXpyKR0wDpuEd) | 4:05 |
 | 76 | [Nanas de la Cebolla](https://open.spotify.com/track/1joUuNG5lEcjY2OxUJwL5J) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Miguel Hernandez](https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S) | 5:53 |
 | 77 | [Una Canción para la Magdalena \- Directo](https://open.spotify.com/track/6GNN6bwXY656oi15ymkbiW) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [500 Noches para una Crisis \(En Directo\)](https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme) | 4:48 |
 | 78 | [A Usted](https://open.spotify.com/track/5k3IIxkZbvGoWdEPhw6Z2L) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [En Transito](https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 99 | [El Titiritero \- Directo México](https://open.spotify.com/track/3PjTUuYX87fitBBaRhFaVa) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat en Bellas Artes \(Directo México\)](https://open.spotify.com/album/7kOxIx5NZ9dFbArJFMNZIY) | 4:21 |
 | 100 | [Mas de Cien Mentiras \- En Directo](https://open.spotify.com/track/4Nt5ZxHaMELMnGmrL5pn6v) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [500 Noches para una Crisis \(En Directo\)](https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme) | 3:23 |
 
-Snapshot ID: `MCwwNGE0NDk5MmQwMzExYjQ2YzcxOTYwYmUyNmZiYmE1ZjdhZjYzNzNj`
+Snapshot ID: `MCw1ODk2MTViOWJhMjBmODRlMmJmNDQyZWI5NTYzZDNjOTRmMTViMjY3`

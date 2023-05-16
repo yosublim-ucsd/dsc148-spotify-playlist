@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,677 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,486 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 100 | [The World to Come](https://open.spotify.com/track/3kRm4aprusJnK7baeXzcsF) | [Zusha](https://open.spotify.com/artist/0VXG44vdmNhcTCipc2Iz3Z) | [The World to Come](https://open.spotify.com/album/46woSsdEBn20ygi6rQOu9r) | 3:13 |
 
-Snapshot ID: `MCxlOWRlNTVkZmRiNmRiOGVkMTUxZDA0NTJkM2Q5OTQ3ZWU1YjMyYzQ1`
+Snapshot ID: `MCxjMTI3NmQyMWZiZjJjNmI4ZTk4ZTk5NmFiMWVhNjAxNjQ4MWY4ZmM1`

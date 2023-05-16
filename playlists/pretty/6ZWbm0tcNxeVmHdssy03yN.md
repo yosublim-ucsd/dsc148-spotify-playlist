@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,120 likes - 96 songs - 4 hr 50 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,135 likes - 96 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 95 | [Bloodline](https://open.spotify.com/track/4HUT57IIZkpHJDhcW47yPT) | [Chloe Gallardo](https://open.spotify.com/artist/3R6rkVKR0D5iNDBL4wIOm3) | [Bloodline](https://open.spotify.com/album/08BdUZYVxoZF4rIkYKrouL) | 3:01 |
 | 96 | [Trust Issues](https://open.spotify.com/track/6vKQ7XVKuNjDFiIMHLy7ly) | [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Trust Issues \(feat\. Kashcpt\) \- Remix](https://open.spotify.com/album/5juHzl3j2FttaUUjGItJtb) | 2:37 |
 
-Snapshot ID: `NTgxNCxkYzE1NzcyZmNlOWUwNjU1ZTQ5NzFhZTNkZWE4ZmY0NDBhYmQwOTQy`
+Snapshot ID: `NTgxNiwzZjViYWIzYzEzMjA0YTUzYzM0NzNjZmZhOTg5YjM0NDFiM2ViYzE1`

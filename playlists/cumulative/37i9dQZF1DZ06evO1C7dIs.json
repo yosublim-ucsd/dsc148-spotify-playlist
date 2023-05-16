@@ -844,10 +844,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 245000,
       "name": "Sleeping Sun",
       "url": "https://open.spotify.com/track/2VPK0BMgwyRtx9QlyBpdb0"
+    },
+    {
+      "album": {
+        "name": "Oceanborn",
+        "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Sleeping Sun",
+      "url": "https://open.spotify.com/track/64v7AaXu9qmbefvFwOtbvm"
     },
     {
       "album": {

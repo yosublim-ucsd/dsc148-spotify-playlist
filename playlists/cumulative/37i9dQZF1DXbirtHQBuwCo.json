@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: colde(\ucf5c\ub4dc))",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: SOULBYSEL, Sion(\uc2dc\uc628))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -730,7 +730,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 178282,
       "name": "Boyhood (Feat. VVON, DANA)",
       "url": "https://open.spotify.com/track/4mjHZGcLuttpM6upxu35mP"
@@ -7145,6 +7145,24 @@
     },
     {
       "album": {
+        "name": "NIGHT DANCER (BIG Naughty Remix)",
+        "url": "https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209411,
+      "name": "NIGHT DANCER - Korean Ver.",
+      "url": "https://open.spotify.com/track/19V8IRXP5XdFs1SVL58ZSA"
+    },
+    {
+      "album": {
         "name": "Last Pure Luv",
         "url": "https://open.spotify.com/album/2W4sJVKg3dAA7DbffsoFFh"
       },
@@ -7340,7 +7358,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
@@ -10667,6 +10685,28 @@
     },
     {
       "album": {
+        "name": "SOULBYSEL Compilation 05",
+        "url": "https://open.spotify.com/album/2tjn8gtG8HgEZx9YoqkJr9"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/5wliEtVRgUc5yEhemjrODh"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6l6EPz5kfTHW6gCpRQXEQo"
+    },
+    {
+      "album": {
         "name": "Walk In The Night (Feat. Zion.T)",
         "url": "https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g"
       },
@@ -11570,7 +11610,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"

@@ -472,7 +472,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 171382,
       "name": "Al Aram\u0131zdan",
       "url": "https://open.spotify.com/track/6Uaw8GEKP6AxIMNUyi6q6w"
@@ -3040,7 +3040,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 173987,
       "name": "DEFOL",
       "url": "https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I"
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 142853,
       "name": "Di\u011fer Yar\u0131m",
       "url": "https://open.spotify.com/track/38QSynLcDBfbETORhSsssH"
@@ -4188,7 +4188,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 195957,
       "name": "Firuze",
       "url": "https://open.spotify.com/track/4WBMMoqjsofE9fdSXSU41S"
@@ -4660,7 +4660,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 194907,
       "name": "Ge\u00e7\u00e7ek",
       "url": "https://open.spotify.com/track/7qT1uoiwvXEHSjaiHbw0n1"
@@ -5164,7 +5164,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "g\u00f6zlerindeki ay",
       "url": "https://open.spotify.com/track/5Ll8YoELGiZ3jeoaY3TABg"
@@ -5270,6 +5270,24 @@
       "duration_ms": 179651,
       "name": "G\u00fcya",
       "url": "https://open.spotify.com/track/45psv4nJ95oCkdkp8UCkQk"
+    },
+    {
+      "album": {
+        "name": "G\u00fczel G\u00fcnler G\u00f6rece\u011fiz",
+        "url": "https://open.spotify.com/album/5aTgnY538G5ZpBvg9eIQgj"
+      },
+      "artists": [
+        {
+          "name": "Edip Akbayram",
+          "url": "https://open.spotify.com/artist/0oFiWQjHNvksJlD0aWzBZM"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250826,
+      "name": "G\u00fczel G\u00fcnler G\u00f6rece\u011fiz",
+      "url": "https://open.spotify.com/track/3hquu1aE9pUSva5ktRzvGh"
     },
     {
       "album": {
@@ -7282,6 +7300,24 @@
       "duration_ms": 280739,
       "name": "K\u00fc\u00e7\u00fck Bir Yol",
       "url": "https://open.spotify.com/track/6KybXlftuqmAxRI05yqDfk"
+    },
+    {
+      "album": {
+        "name": "K\u0131l\u0131\u00e7daro\u011flu",
+        "url": "https://open.spotify.com/album/2l6dmbCmOruZ5vnO3Bip9X"
+      },
+      "artists": [
+        {
+          "name": "Onur Ak\u0131n",
+          "url": "https://open.spotify.com/artist/4CQctd09SRWjRoo3G7QBZf"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "K\u0131l\u0131\u00e7daro\u011flu",
+      "url": "https://open.spotify.com/track/7Fcd576Wwi9R70D1xtHtm9"
     },
     {
       "album": {
@@ -10243,6 +10279,32 @@
     },
     {
       "album": {
+        "name": "sana s\u00f6z yine baharlar gelecek",
+        "url": "https://open.spotify.com/album/1N4J6AD7zAMnZlD6C1NfKV"
+      },
+      "artists": [
+        {
+          "name": "nezexous",
+          "url": "https://open.spotify.com/artist/2jFc0gwjzIe1klTCZF8BDH"
+        },
+        {
+          "name": "CASH INC.",
+          "url": "https://open.spotify.com/artist/6SlwDPsViVqnsWqQerbZH8"
+        },
+        {
+          "name": "samet aka spud",
+          "url": "https://open.spotify.com/artist/3qrVFzmsmq7upWkunEfrKc"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209606,
+      "name": "sana s\u00f6z yine baharlar gelecek",
+      "url": "https://open.spotify.com/track/0gEo5eyqUlq7XkgPMTtUy1"
+    },
+    {
+      "album": {
         "name": "Sana \u00c7\u0131k\u0131yor Yollar (Kaderimin Oyunu Orijinal Dizi M\u00fczi\u011fi)",
         "url": "https://open.spotify.com/album/6GR9ERCXRTQ8edXsSuX7wi"
       },
@@ -10366,7 +10428,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 188500,
       "name": "Seni Dert Etmeler",
       "url": "https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew"
@@ -11433,6 +11495,24 @@
     },
     {
       "album": {
+        "name": "Med Cezir",
+        "url": "https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO"
+      },
+      "artists": [
+        {
+          "name": "Levent Y\u00fcksel",
+          "url": "https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319895,
+      "name": "Tuana",
+      "url": "https://open.spotify.com/track/3Kut1u60mgcH59QWty8uUz"
+    },
+    {
+      "album": {
         "name": "EL CHAVO",
         "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
       },
@@ -11738,7 +11818,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 147760,
       "name": "Veda Saati",
       "url": "https://open.spotify.com/track/0NJJ31ggDI7aODrLYZQkgV"

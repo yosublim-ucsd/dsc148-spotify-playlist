@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana e dai suoi alleati. Queen Of Saba e BigMama in cover! \u2728 ",
-  "num_followers": 5446,
+  "num_followers": 5448,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWI4ZGM5ZTUwNjYxNDM0M2ViOTA4ZmY2ZTNiMWU5MTA1NjA5OTEw",
+  "snapshot_id": "MCw2NDljOTYyZDRiNjE5OTI2OTViMWJjY2YyOGU0NjQyY2FhNWUyYTZm",
   "tracks": [
     {
       "added_at": "2023-05-11 22:01:00",
@@ -811,22 +811,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "ON (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/05Jq14wv5J80ZW2MFkZUhL"
+        "name": "Raffaella Carr\u00e0",
+        "url": "https://open.spotify.com/album/6E7WXLdeWOGUqSZzntA7FC"
       },
       "artists": [
         {
-          "name": "Headman",
-          "url": "https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64"
-        },
-        {
-          "name": "Luca Santucci",
-          "url": "https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI"
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
         }
       ],
-      "duration_ms": 320971,
-      "name": "Moisture - Headman Club Version [Bonus Track]",
-      "url": "https://open.spotify.com/track/7MQISmF9JZI49VOodLfTi7"
+      "duration_ms": 226666,
+      "name": "Tanti auguri",
+      "url": "https://open.spotify.com/track/2LUmJjjBNx3LumAV3m19Je"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Raffaella Carr\u00e0",
-        "url": "https://open.spotify.com/album/6E7WXLdeWOGUqSZzntA7FC"
+        "name": "ON (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05Jq14wv5J80ZW2MFkZUhL"
       },
       "artists": [
         {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+          "name": "Headman",
+          "url": "https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64"
+        },
+        {
+          "name": "Luca Santucci",
+          "url": "https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Tanti auguri",
-      "url": "https://open.spotify.com/track/2LUmJjjBNx3LumAV3m19Je"
+      "duration_ms": 320971,
+      "name": "Moisture - Headman Club Version [Bonus Track]",
+      "url": "https://open.spotify.com/track/7MQISmF9JZI49VOodLfTi7"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Notte divina",
-        "url": "https://open.spotify.com/album/5bD4FUyTkm2PKNmeJrXkI8"
-      },
-      "artists": [
-        {
-          "name": "Moy Boy",
-          "url": "https://open.spotify.com/artist/0TJfVmdYJVP8pt2nFPtFms"
-        },
-        {
-          "name": "Frank'O Moiraghi",
-          "url": "https://open.spotify.com/artist/4eHnEMdLNXd1HaZZrcnFRI"
-        }
-      ],
-      "duration_ms": 405533,
-      "name": "Notte Divina - Vocal Night Version",
-      "url": "https://open.spotify.com/track/6hqM6PuQ7kENdOC1qLLXWr"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 196653,
       "name": "MOVESET (feat. Kiddy Smile & David Blank)",
       "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Notte divina",
+        "url": "https://open.spotify.com/album/5bD4FUyTkm2PKNmeJrXkI8"
+      },
+      "artists": [
+        {
+          "name": "Moy Boy",
+          "url": "https://open.spotify.com/artist/0TJfVmdYJVP8pt2nFPtFms"
+        },
+        {
+          "name": "Frank'O Moiraghi",
+          "url": "https://open.spotify.com/artist/4eHnEMdLNXd1HaZZrcnFRI"
+        }
+      ],
+      "duration_ms": 405533,
+      "name": "Notte Divina - Vocal Night Version",
+      "url": "https://open.spotify.com/track/6hqM6PuQ7kENdOC1qLLXWr"
     },
     {
       "added_at": "2023-05-11 22:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 3109,
+  "num_followers": 3385,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTIyMmFjNmYwMjQ0ZGJiYTM5YTQ0MTA2MjIxYzQyZDkwNzQ3NDRl",
+  "snapshot_id": "MCw5NjhkNjBiYjIxYmYwNWU5NTMyYzc4NzI0NTI3MGI2MGU0NGI4YmMw",
   "tracks": [
     {
       "added_at": "2023-05-01 20:33:48",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Pain in My Heart",
         "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 154533,
       "name": "These Arms of Mine",
       "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Please Mr. Postman",
+        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "Please Mr. Postman - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Please Mr. Postman",
-        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
       "artists": [
         {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 148040,
-      "name": "Please Mr. Postman - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "You'll Lose A Good Thing",
         "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
       },
@@ -679,22 +663,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "I Do Love You",
-        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
-      },
-      "artists": [
-        {
-          "name": "Billy Stewart",
-          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Sitting In The Park",
-      "url": "https://open.spotify.com/track/0Iwbts8iqaJJh2kPiXbtgV"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Car Wash",
         "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
       },
@@ -707,6 +675,38 @@
       "duration_ms": 238200,
       "name": "I Wanna Get Next To You",
       "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "I Do Love You",
+        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
+      },
+      "artists": [
+        {
+          "name": "Billy Stewart",
+          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Sitting In The Park",
+      "url": "https://open.spotify.com/track/0Iwbts8iqaJJh2kPiXbtgV"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Nobody's Clown",
+        "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
+      },
+      "artists": [
+        {
+          "name": "Los Yesterdays",
+          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Nobody's Clown",
+      "url": "https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "The Skyliners",
         "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Nobody's Clown",
-        "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
       "artists": [
         {
-          "name": "Los Yesterdays",
-          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Nobody's Clown",
-      "url": "https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc"
+      "duration_ms": 165333,
+      "name": "You Beat Me To The Punch",
+      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -987,18 +1003,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+        "name": "Workin' On A Groovy Thing....The Best Of",
+        "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
       },
       "artists": [
         {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+          "name": "Patti Drew",
+          "url": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
         }
       ],
-      "duration_ms": 165333,
-      "name": "You Beat Me To The Punch",
-      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
+      "duration_ms": 151453,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1015,22 +1031,6 @@
       "duration_ms": 249866,
       "name": "I Want to Be Your Man",
       "url": "https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Workin' On A Groovy Thing....The Best Of",
-        "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
-      },
-      "artists": [
-        {
-          "name": "Patti Drew",
-          "url": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
-        }
-      ],
-      "duration_ms": 151453,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Betcha by Golly Wow (Live)",
-        "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 253004,
-      "name": "Betcha by Golly Wow (Live)",
-      "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Never Ending Impressions",
         "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+        "name": "Betcha by Golly Wow (Live)",
+        "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
       },
       "artists": [
         {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
         }
       ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+      "duration_ms": 253004,
+      "name": "Betcha by Golly Wow (Live)",
+      "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1207,6 +1191,38 @@
       "duration_ms": 194020,
       "name": "Seems Like",
       "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 117133,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1239,22 +1255,6 @@
       "duration_ms": 119553,
       "name": "Smile Now, Cry Later",
       "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 117133,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Why Can't We Be Friends?",
-        "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
-      },
-      "artists": [
-        {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Don't Let No One Get You Down",
-      "url": "https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Will You Still Love Me Tomorrow",
         "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Don't Tell Me",
-        "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
+        "name": "Why Can't We Be Friends?",
+        "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
       },
       "artists": [
         {
-          "name": "Joey Quinones",
-          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
         }
       ],
-      "duration_ms": 233430,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
+      "duration_ms": 240866,
+      "name": "Don't Let No One Get You Down",
+      "url": "https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1383,6 +1367,22 @@
       "duration_ms": 148706,
       "name": "Baby, I'm Yours",
       "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Don't Tell Me",
+        "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
+      },
+      "artists": [
+        {
+          "name": "Joey Quinones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+        }
+      ],
+      "duration_ms": 233430,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Searching For My Love",
-        "url": "https://open.spotify.com/album/7lpZkRX58TVPOyRbCFiRjV"
-      },
-      "artists": [
-        {
-          "name": "Bobby Moore & The Rhythm Aces",
-          "url": "https://open.spotify.com/artist/6qlpFH9e4sZ52tAPy2KmLz"
-        }
-      ],
-      "duration_ms": 150533,
-      "name": "Searching For My Love",
-      "url": "https://open.spotify.com/track/6EtOgpD6m1fBzcnckUAEfW"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Will You Still Love Me Tomorrow",
         "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 161000,
       "name": "Baby It's You",
       "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Searching For My Love",
+        "url": "https://open.spotify.com/album/7lpZkRX58TVPOyRbCFiRjV"
+      },
+      "artists": [
+        {
+          "name": "Bobby Moore & The Rhythm Aces",
+          "url": "https://open.spotify.com/artist/6qlpFH9e4sZ52tAPy2KmLz"
+        }
+      ],
+      "duration_ms": 150533,
+      "name": "Searching For My Love",
+      "url": "https://open.spotify.com/track/6EtOgpD6m1fBzcnckUAEfW"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Dry Your Eyes",
+        "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
+      },
+      "artists": [
+        {
+          "name": "Brenda And The Tabulations",
+          "url": "https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Somebody Please (Stereo Mix 2019)",
         "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 168773,
       "name": "I Really Love You",
       "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Dry Your Eyes",
-        "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
-      },
-      "artists": [
-        {
-          "name": "Brenda And The Tabulations",
-          "url": "https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1955,18 +1955,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Complete Motown Singles Vol. 10: 1970",
-        "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
+        "name": "Ilusi\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa"
       },
       "artists": [
         {
-          "name": "The Originals",
-          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+          "name": "Jensine Benitez",
+          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
+        },
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 172560,
-      "name": "The Bells",
-      "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
+      "duration_ms": 225796,
+      "name": "Ilusi\u00f3n De Amor",
+      "url": "https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1987,22 +1991,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Ilusi\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa"
+        "name": "The Complete Motown Singles Vol. 10: 1970",
+        "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
       },
       "artists": [
         {
-          "name": "Jensine Benitez",
-          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
-        },
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
         }
       ],
-      "duration_ms": 225796,
-      "name": "Ilusi\u00f3n De Amor",
-      "url": "https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b"
+      "duration_ms": 172560,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "I Like the Way You Love Me",
-        "url": "https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR"
-      },
-      "artists": [
-        {
-          "name": "Cota",
-          "url": "https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM"
-        }
-      ],
-      "duration_ms": 146809,
-      "name": "I Like the Way You Love Me",
-      "url": "https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Tangled Up in You",
         "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "I Like the Way You Love Me",
+        "url": "https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR"
+      },
+      "artists": [
+        {
+          "name": "Cota",
+          "url": "https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM"
+        }
+      ],
+      "duration_ms": 146809,
+      "name": "I Like the Way You Love Me",
+      "url": "https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Reaper of Love",
-        "url": "https://open.spotify.com/album/1JVWbgxF1ylN2Z19qetAKc"
-      },
-      "artists": [
-        {
-          "name": "Rocky Padilla",
-          "url": "https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0"
-        }
-      ],
-      "duration_ms": 211369,
-      "name": "Reaper of Love",
-      "url": "https://open.spotify.com/track/6olpTbCFIRPCO99iz2DzRO"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Entertainer",
         "url": "https://open.spotify.com/album/0ywM9vXLCWhCAthJ0aHnv0"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 160063,
       "name": "The Entertainer",
       "url": "https://open.spotify.com/track/5cnaeNo5ODjXiUrqWMD0iA"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Reaper of Love",
+        "url": "https://open.spotify.com/album/1JVWbgxF1ylN2Z19qetAKc"
+      },
+      "artists": [
+        {
+          "name": "Rocky Padilla",
+          "url": "https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0"
+        }
+      ],
+      "duration_ms": 211369,
+      "name": "Reaper of Love",
+      "url": "https://open.spotify.com/track/6olpTbCFIRPCO99iz2DzRO"
     },
     {
       "added_at": "2023-05-01 20:33:48",

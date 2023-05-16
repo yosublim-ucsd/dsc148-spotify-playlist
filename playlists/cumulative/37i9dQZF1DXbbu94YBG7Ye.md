@@ -2,7 +2,7 @@
 
 ### [Éxitos Argentina](https://open.spotify.com/playlist/37i9dQZF1DXbbu94YBG7Ye)
 
-> Si la rompe está acá\. Foto: Callejero Fino, La Joaqui, Lola Indigo & BM.
+> Si la rompe está acá\. Foto: FMK, Big One & Ke Personajes.
 
 254 songs - 13 hr 24 min
 

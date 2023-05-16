@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 403797,
+  "num_followers": 404219,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZThhYzYxZjJkMjMzMGM5N2RmNjIyNWY0NzRjMWIxODkxMDU0OWRj",
+  "snapshot_id": "MCwzY2YyOWU0YTVjY2Q3MTM0NzA5MTYzMGY1ZTE1NjNiN2M3NmY3NGQy",
   "tracks": [
     {
       "added_at": "2023-03-10 22:36:17",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
         "name": "Beachball",
         "url": "https://open.spotify.com/album/5twL3A9cQUR61zLddNP6cf"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 179800,
       "name": "Airwave - Radio Vocal Edit",
       "url": "https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM"
+      },
+      "artists": [
+        {
+          "name": "Tomcraft",
+          "url": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
+        }
+      ],
+      "duration_ms": 228653,
+      "name": "Loneliness - Radio Cut",
+      "url": "https://open.spotify.com/track/7mPrEblYX8GLGRXLmPL8ws"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
         "name": "Symsonic",
         "url": "https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z"
       },
@@ -539,18 +555,22 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM"
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
       },
       "artists": [
         {
-          "name": "Tomcraft",
-          "url": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 228653,
-      "name": "Loneliness - Radio Cut",
-      "url": "https://open.spotify.com/track/7mPrEblYX8GLGRXLmPL8ws"
+      "duration_ms": 210786,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -587,26 +607,6 @@
       "duration_ms": 204396,
       "name": "Carte Blanche - FM Edit",
       "url": "https://open.spotify.com/track/5yTN79Mgt4licL40oassM3"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/201vsPXufpD68a7bulnr5O"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
         "name": "Fatum Presents: 20 Years Of Anjunabeats",
         "url": "https://open.spotify.com/album/0knnadrIb51q2XTdSMrTC3"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 255258,
       "name": "Lonely Girl - Gareth Emery Remix (Edit)",
       "url": "https://open.spotify.com/track/0AyySV2exaNwoyK99nTfeQ"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "Offshore",
-        "url": "https://open.spotify.com/album/201vsPXufpD68a7bulnr5O"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
     }
   ],
   "unique_name": "Trance Classics",

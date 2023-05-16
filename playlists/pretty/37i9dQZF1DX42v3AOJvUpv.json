@@ -1,12 +1,12 @@
 {
   "description": "Entre peinados, maquillajes y vestimentas ex\u00f3ticas, la est\u00e9tica domin\u00f3 la escena musical de los a\u00f1os \u201980. Foto:<a href=\"spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL\"> Soda Stereo</a>",
-  "num_followers": 34922,
+  "num_followers": 34985,
   "original_name": "Jet Set",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzExNWZkNThmODM0ODA1ZDc5ODg0OGQ3NWM5OWZjNDIzZTA2M2I2",
+  "snapshot_id": "MCxmYzA0ZmYyMTFlYWQ5MTRlZmVkNDljNzMzNGQ5MTNhMjNiNWMwOGYz",
   "tracks": [
     {
       "added_at": "2020-03-16 16:12:42",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Ey!",
-        "url": "https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "Polaroid De Locura Ordinaria",
-      "url": "https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Signos (Remastered)",
         "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 292266,
       "name": "Persiana Americana - Remasterizado 2007",
       "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Ey!",
+        "url": "https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "Polaroid De Locura Ordinaria",
+      "url": "https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -219,38 +219,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Rata Blanca",
-        "url": "https://open.spotify.com/album/19wA8bZa5CGUISYVPgM3kF"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 432866,
-      "name": "El Sue\u00f1oDe La Gitana",
-      "url": "https://open.spotify.com/track/0jeONCVcTJdM3cT50MUSMm"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "El Extra\u00f1o del Pelo Largo",
-      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -263,6 +231,22 @@
       "duration_ms": 273306,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Juegos De Seducci\u00f3n - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/39YibHWQJLIgjQ0xWKlq6t"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -303,18 +287,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Nada Personal (Remastered)",
-        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Juegos De Seducci\u00f3n - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/39YibHWQJLIgjQ0xWKlq6t"
+      "duration_ms": 173866,
+      "name": "El Extra\u00f1o del Pelo Largo",
+      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -335,6 +319,22 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
+        "name": "Rata Blanca",
+        "url": "https://open.spotify.com/album/19wA8bZa5CGUISYVPgM3kF"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 432866,
+      "name": "El Sue\u00f1oDe La Gitana",
+      "url": "https://open.spotify.com/track/0jeONCVcTJdM3cT50MUSMm"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
         "name": "Noche y D\u00eda",
         "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 256493,
       "name": "Bailando en las Veredas",
       "url": "https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Yo Te Avis\u00e9",
-        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Mi Novia Se Cay\u00f3 en un Pozo Ciego - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -383,6 +367,22 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
+        "name": "Yo Te Avis\u00e9",
+        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Mi Novia Se Cay\u00f3 en un Pozo Ciego - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
         "name": "Don Cornelio y La Zona",
         "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 251173,
       "name": "Ella Vendr\u00e1 - Remastered",
       "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 140346,
+      "name": "Por Qu\u00e9 No Puedo Ser Del Jet Set? - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -447,18 +463,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Soda Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 140346,
-      "name": "Por Qu\u00e9 No Puedo Ser Del Jet Set? - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg"
+      "duration_ms": 269093,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -475,22 +491,6 @@
       "duration_ms": 258146,
       "name": "Menta y lim\u00f3n",
       "url": "https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Parte De La Religion",
-        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 282840,
-      "name": "Buscando un S\u00edmbolo de Paz",
-      "url": "https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Perlas y Diamantes",
         "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 214600,
       "name": "Extra\u00f1o Ser",
       "url": "https://open.spotify.com/track/2P2eKFKQxDQcidLcZik3kq"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Parte De La Religion",
+        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 282840,
+      "name": "Buscando un S\u00edmbolo de Paz",
+      "url": "https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -639,22 +639,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Heroes / Antologia 1986 - 1988",
-        "url": "https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5"
-      },
-      "artists": [
-        {
-          "name": "Friccion",
-          "url": "https://open.spotify.com/artist/5MoGn6jc9GHCMiWzccjWRD"
-        }
-      ],
-      "duration_ms": 379866,
-      "name": "H\u00e9roes",
-      "url": "https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Seru Giran 92",
         "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "La Dicha En Movimiento",
-        "url": "https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo"
+        "name": "Heroes / Antologia 1986 - 1988",
+        "url": "https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5"
       },
       "artists": [
         {
-          "name": "Los Twist",
-          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
+          "name": "Friccion",
+          "url": "https://open.spotify.com/artist/5MoGn6jc9GHCMiWzccjWRD"
         }
       ],
-      "duration_ms": 162360,
-      "name": "Jugando Hulla Hulla",
-      "url": "https://open.spotify.com/track/2cJ3haVTlqsA94NUD9Zmo2"
+      "duration_ms": 379866,
+      "name": "H\u00e9roes",
+      "url": "https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -719,22 +703,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Noche y D\u00eda",
-        "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
-      },
-      "artists": [
-        {
-          "name": "Raul Porchetto",
-          "url": "https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "Corazones Muertos",
-      "url": "https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Sentidos Congelados",
         "url": "https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ"
       },
@@ -747,6 +715,22 @@
       "duration_ms": 301200,
       "name": "Conexi\u00f3n Par\u00eds",
       "url": "https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Noche y D\u00eda",
+        "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
+      },
+      "artists": [
+        {
+          "name": "Raul Porchetto",
+          "url": "https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Corazones Muertos",
+      "url": "https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -779,6 +763,22 @@
       "duration_ms": 208146,
       "name": "Nada que perder",
       "url": "https://open.spotify.com/track/67RABWmvqhxgRt2shdCOrr"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "La Dicha En Movimiento",
+        "url": "https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo"
+      },
+      "artists": [
+        {
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Jugando Hulla Hulla",
+      "url": "https://open.spotify.com/track/2cJ3haVTlqsA94NUD9Zmo2"
     },
     {
       "added_at": "2020-03-16 16:12:42",

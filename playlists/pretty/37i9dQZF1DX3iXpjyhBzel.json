@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: AM\u00c9M",
-  "num_followers": 932802,
+  "num_followers": 933170,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmY4MDk0MjFlMDU3ZWJjZjEzNDg2ZGJhZjEyMTFmM2IxZGUyYTYy",
+  "snapshot_id": "MCwyZjY3YzlhYjNhMzVkNzFmZTU0NWU0NTU1OGQ5ZjM5Mzc4MmJkOGZh",
   "tracks": [
     {
       "added_at": "2023-05-12 18:21:18",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-05-12 18:21:18",
       "album": {
+        "name": "Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 267077,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
+    },
+    {
+      "added_at": "2023-05-12 18:21:18",
+      "album": {
         "name": "A Reforma",
         "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
       },
@@ -327,26 +343,6 @@
     {
       "added_at": "2023-05-12 18:21:18",
       "album": {
-        "name": "Promessas (Promises) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/6Bm010xs1prbkP2bVbKPFj"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        },
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 347927,
-      "name": "Promessas (Promises) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3KVF4VK0Kclakez9LCGYga"
-    },
-    {
-      "added_at": "2023-05-12 18:21:18",
-      "album": {
         "name": "Yahweh Se Manifestar\u00e1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6PkqqM3tz6lQCyWTqTvh7f"
       },
@@ -375,18 +371,22 @@
     {
       "added_at": "2023-05-12 18:21:18",
       "album": {
-        "name": "Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
+        "name": "Promessas (Promises) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/6Bm010xs1prbkP2bVbKPFj"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
         }
       ],
-      "duration_ms": 267077,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
+      "duration_ms": 347927,
+      "name": "Promessas (Promises) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3KVF4VK0Kclakez9LCGYga"
     },
     {
       "added_at": "2023-05-12 18:21:18",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-05-12 18:21:18",
       "album": {
+        "name": "Ecoar",
+        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 276965,
+      "name": "Esp\u00edrito, Enche A Minha Vida / Ao \u00danico",
+      "url": "https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf"
+    },
+    {
+      "added_at": "2023-05-12 18:21:18",
+      "album": {
         "name": "Momentos (Vol.1)",
         "url": "https://open.spotify.com/album/5OBBURED8xXfMnTSeraLrY"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 522461,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/2EMy05KEE6JLDUSvnklzk6"
-    },
-    {
-      "added_at": "2023-05-12 18:21:18",
-      "album": {
-        "name": "Ecoar",
-        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 276965,
-      "name": "Esp\u00edrito, Enche A Minha Vida / Ao \u00danico",
-      "url": "https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf"
     },
     {
       "added_at": "2023-05-12 18:21:18",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-05-12 18:21:18",
       "album": {
+        "name": "\u00c9s o Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 403538,
+      "name": "\u00c9s o Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
+    },
+    {
+      "added_at": "2023-05-12 18:21:18",
+      "album": {
         "name": "Palavras",
         "url": "https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 307220,
       "name": "Quarto Secreto",
       "url": "https://open.spotify.com/track/6wrNrFlUJEPUXWxIJQOluR"
-    },
-    {
-      "added_at": "2023-05-12 18:21:18",
-      "album": {
-        "name": "\u00c9s o Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 403538,
-      "name": "\u00c9s o Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "added_at": "2023-05-12 18:21:18",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-05-12 18:21:18",
       "album": {
+        "name": "O Amor Tem Um Nome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 427444,
+      "name": "O Amor Tem Um Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx"
+    },
+    {
+      "added_at": "2023-05-12 18:21:18",
+      "album": {
         "name": "Pode Morar Aqui (feat. Alessandro Vilas Boas) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 416842,
       "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
-    },
-    {
-      "added_at": "2023-05-12 18:21:18",
-      "album": {
-        "name": "O Amor Tem Um Nome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 427444,
-      "name": "O Amor Tem Um Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx"
     },
     {
       "added_at": "2023-05-12 18:21:18",
@@ -1039,42 +1039,6 @@
     {
       "added_at": "2023-05-12 18:21:18",
       "album": {
-        "name": "Rei da Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3KbdZIKpJM32CHylgpB851"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 513505,
-      "name": "Rei da Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/7xJTjQuvpicM3FsnbaoDb6"
-    },
-    {
-      "added_at": "2023-05-12 18:21:18",
-      "album": {
-        "name": "Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 320186,
-      "name": "Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
-    },
-    {
-      "added_at": "2023-05-12 18:21:18",
-      "album": {
         "name": "Seu Amor / Diante da Cruz",
         "url": "https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS"
       },
@@ -1091,6 +1055,26 @@
       "duration_ms": 497600,
       "name": "Seu Amor / Diante da Cruz",
       "url": "https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x"
+    },
+    {
+      "added_at": "2023-05-12 18:21:18",
+      "album": {
+        "name": "Rei da Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KbdZIKpJM32CHylgpB851"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 513505,
+      "name": "Rei da Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/7xJTjQuvpicM3FsnbaoDb6"
     },
     {
       "added_at": "2023-05-12 18:21:18",
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-05-12 18:21:18",
       "album": {
+        "name": "Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 320186,
+      "name": "Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+    },
+    {
+      "added_at": "2023-05-12 18:21:18",
+      "album": {
         "name": "Santo Pra Sempre (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
       },
@@ -1155,6 +1155,26 @@
       "duration_ms": 312219,
       "name": "Santo Pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
+    },
+    {
+      "added_at": "2023-05-12 18:21:18",
+      "album": {
+        "name": "Eu Amo a Tua Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vdMe0H5bGJDKJVqbuheca"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        }
+      ],
+      "duration_ms": 538613,
+      "name": "Eu Amo a Tua Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bA5Bt4d2drlsBOYAghABi"
     },
     {
       "added_at": "2023-05-12 18:21:18",
@@ -1175,6 +1195,22 @@
       "duration_ms": 453930,
       "name": "Teu Toque - Ao Vivo",
       "url": "https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2"
+    },
+    {
+      "added_at": "2023-05-12 18:21:18",
+      "album": {
+        "name": "\u00danico (Live)",
+        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 379514,
+      "name": "Jeov\u00e1 - Live",
+      "url": "https://open.spotify.com/track/65vz0dGp7fzWp9nXN1COS5"
     },
     {
       "added_at": "2023-05-12 18:21:18",
@@ -1211,22 +1247,18 @@
     {
       "added_at": "2023-05-12 18:21:18",
       "album": {
-        "name": "Eu Amo a Tua Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vdMe0H5bGJDKJVqbuheca"
+        "name": "S\u00f3 Tenho a Ti",
+        "url": "https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ"
       },
       "artists": [
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
         }
       ],
-      "duration_ms": 538613,
-      "name": "Eu Amo a Tua Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/6bA5Bt4d2drlsBOYAghABi"
+      "duration_ms": 153717,
+      "name": "S\u00f3 Tenho a Ti",
+      "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"
     },
     {
       "added_at": "2023-05-12 18:21:18",
@@ -1243,38 +1275,6 @@
       "duration_ms": 438080,
       "name": "N\u00f3s Te Adoramos - Ao Vivo",
       "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
-    },
-    {
-      "added_at": "2023-05-12 18:21:18",
-      "album": {
-        "name": "\u00danico (Live)",
-        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 379514,
-      "name": "Jeov\u00e1 - Live",
-      "url": "https://open.spotify.com/track/65vz0dGp7fzWp9nXN1COS5"
-    },
-    {
-      "added_at": "2023-05-12 18:21:18",
-      "album": {
-        "name": "S\u00f3 Tenho a Ti",
-        "url": "https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 153717,
-      "name": "S\u00f3 Tenho a Ti",
-      "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"
     },
     {
       "added_at": "2023-05-12 18:21:18",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-05-12 18:21:18",
       "album": {
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
+    },
+    {
+      "added_at": "2023-05-12 18:21:18",
+      "album": {
         "name": "Cordeiro que Venceu (Ao Vivo)",
         "url": "https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 437424,
       "name": "Jesus Vive - Ao Vivo",
       "url": "https://open.spotify.com/track/0KlZvag6ts0IiBKB3eADYC"
-    },
-    {
-      "added_at": "2023-05-12 18:21:18",
-      "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
       "added_at": "2023-05-12 18:21:18",

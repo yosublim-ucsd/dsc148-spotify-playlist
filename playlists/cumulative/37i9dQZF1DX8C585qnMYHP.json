@@ -5657,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "Dog Dreams \u200b",
+        "url": "https://open.spotify.com/album/6VLdFxIaHha2PUbDMEvk81"
+      },
+      "artists": [
+        {
+          "name": "Lucy Liyou",
+          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 868067,
+      "name": "Dog Dreams",
+      "url": "https://open.spotify.com/track/0lzHifBZRj6sJsNPb48TeX"
+    },
+    {
+      "album": {
         "name": "Dog Dreams",
         "url": "https://open.spotify.com/album/2MSTNHj5xm06bHVfg2lZ9u"
       },
@@ -5686,7 +5704,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 868067,
       "name": "Dog Dreams",
       "url": "https://open.spotify.com/track/6czAPpUz0Q5OZ5w4HtF1Sm"

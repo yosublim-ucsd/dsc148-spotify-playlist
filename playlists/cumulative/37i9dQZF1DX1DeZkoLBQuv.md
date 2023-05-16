@@ -4,7 +4,7 @@
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-58 songs - 4 hr 21 min
+59 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Aclame Ao Senhor](https://open.spotify.com/track/2htH5qQj7CihxAUifwvvWi) | [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Aclame Ao Sehnor](https://open.spotify.com/album/3bQ1jEclLAW8GtBFBa9Php) | 4:36 | 2021-11-12 |  |
 | [Acredito \(We Believe\)](https://open.spotify.com/track/6sDmwH4Iy2NZ90crcH7Bk2) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Acredito \(We Believe\)](https://open.spotify.com/album/2yyY2cxS40YloTI3z567NC) | 3:49 | 2021-11-12 |  |
 | [Alvo Mais Que a Neve](https://open.spotify.com/track/3X2oSv1BdYiIu7ri3z0eRM) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Alvo Mais Que a Neve](https://open.spotify.com/album/1lNIMwGKQvjDEiLZmrVU3b) | 5:30 | 2021-11-12 |  |
-| [Ao Único](https://open.spotify.com/track/0XwBn8aFHYmhHKeiwGBS4i) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Melhores Aline Barros](https://open.spotify.com/album/5vIVtdrGrNf7SxocqDuPui) | 4:10 | 2021-11-12 |  |
+| [Ao Único](https://open.spotify.com/track/0XwBn8aFHYmhHKeiwGBS4i) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Melhores Aline Barros](https://open.spotify.com/album/5vIVtdrGrNf7SxocqDuPui) | 4:10 | 2021-11-12 | 2023-05-16 |
+| [Ao Único](https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [O Poder do Teu Amor](https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL) | 4:10 | 2022-12-09 |  |
 | [Apaixonado](https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa) | [Apaixonado](https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp) | 5:37 | 2021-11-12 |  |
 | [Brilha, Jesus \(Shine, Jesus, Shine\)](https://open.spotify.com/track/2fwlsdMG2VbFa9K7Vg8MAP) | [Vencedores por Cristo](https://open.spotify.com/artist/0IDEJU0SdlmJOMtybtEoiT) | [Louvor VII](https://open.spotify.com/album/78tY0SGJ9jUGHVjsCfLjpX) | 3:54 | 2021-11-12 |  |
 | [Busquem a Jesus](https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Busquem a Jesus](https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i) | 5:22 | 2021-11-12 |  |

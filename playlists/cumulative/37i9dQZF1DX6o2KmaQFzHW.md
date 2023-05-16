@@ -4,7 +4,7 @@
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-217 songs - 12 hr 51 min
+218 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Fortuna, Fama y Poder](https://open.spotify.com/track/7EMyNkEiancyDIl5OBRbce) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Secretos de Familia](https://open.spotify.com/album/52Y9ibi8pyfcZRMyFNwJ2c) | 2:52 | 2021-07-23 | 2022-07-27 |
 | [Gato de mate](https://open.spotify.com/track/5hVBYheKoBQfGIzMIhQk61) | [Néstor Garnica](https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w) | [Coplas del Violinero](https://open.spotify.com/album/2cv2sQMYxzLAFVxOGKuUCN) | 2:44 | 2022-02-21 | 2022-06-07 |
 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 | 2021-07-23 |  |
-| [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 | 2021-07-23 | 2023-05-09 |
+| [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 | 2021-07-23 |  |
 | [Jazmín de Luna](https://open.spotify.com/track/4fbY00uU5nctQjO3xhoobi) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:04 | 2021-07-23 | 2022-11-13 |
 | [Juan de la Calle](https://open.spotify.com/track/0FEY980G19GmeiVBK2AYzA) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/6HRTNRUeBVVntGVR5e6Amf) | 3:12 | 2021-07-23 | 2022-07-29 |
 | [Juan de la Calle](https://open.spotify.com/track/5IX9B2J3JzHw3xyzCk266i) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/5iyWMUhjSEU7av1IYKLJ1a) | 3:12 | 2022-02-21 |  |
@@ -136,13 +136,14 @@
 | [La Olvidada](https://open.spotify.com/track/6yllGuh3Tsh4LiKMO17tgU) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Veinte Exitos del Zorzal Chacosalteño](https://open.spotify.com/album/5eU8Ip7TXFT1SJ3CpPyiaQ) | 3:02 | 2021-07-23 | 2022-07-25 |
 | [La olvidada](https://open.spotify.com/track/6nu6eQFJtv6Ihy60HvxI4l) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Jorge Cafrune 18 temas](https://open.spotify.com/album/4kxlEuKNnVnUkuLM2EpY9k) | 2:13 | 2021-07-23 | 2022-07-11 |
 | [La Oma](https://open.spotify.com/track/2e6rIzOlqItCOyrryCXKpl) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:14 | 2021-07-23 |  |
+| [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 |  |
 | [La Pastorcita Perdida](https://open.spotify.com/track/36wpfInAPheD9NuswqTR3f) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [El Canto De La Tierra](https://open.spotify.com/album/5K60VXc8jWyqiMK7QM1GBb) | 3:31 | 2022-02-21 | 2022-11-13 |
 | [La Pomeña](https://open.spotify.com/track/3iSkp3Yk2Eiw34ev6v38JY) | [Dúo Salteño](https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna) | [La Historia](https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI) | 3:53 | 2021-07-23 | 2023-04-18 |
 | [La Refranera](https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP) | [Orozco\-Barrientos](https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F) | [Tinto](https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq) | 3:23 | 2021-07-23 | 2022-12-08 |
 | [La Sanlorenceña](https://open.spotify.com/track/2kD7pDdnnzZZRtNVq4oRE1) | [Polo Román y Salta Trio](https://open.spotify.com/artist/4SCayb8SLDyq3OcSz2GVkm) | [Antológico](https://open.spotify.com/album/4SQb1bIPv3pkmgzIjIxHz3) | 2:41 | 2021-07-23 | 2022-07-19 |
 | [La Telesita](https://open.spotify.com/track/12trwJSceWl2bec01AHu4T) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Los Manseros Santiagueños](https://open.spotify.com/album/0jRAtg4Zha6wv1lgSznf3v) | 2:25 | 2021-07-23 | 2022-07-29 |
 | [La Tempranera](https://open.spotify.com/track/0znYHtilgBJqNwtiB5oOqc) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/1Wh6RCE1LgMHO6jP1xLNXG) | 4:53 | 2021-07-23 | 2022-07-26 |
-| [La Tempranera](https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 4:53 | 2022-02-21 |  |
+| [La Tempranera](https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 4:53 | 2022-02-21 | 2023-05-16 |
 | [La Vida Del Chaqueño](https://open.spotify.com/track/3na11WHjTAUWeJ8uT2ropz) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD), [Chaqueño Palavecino](https://open.spotify.com/artist/7rKVT8rl7NaToVnE9w7U76) | [La Vida Del Chaqueño](https://open.spotify.com/album/3CDZfiu9MzdrWqWWPIHqfv) | 2:30 | 2021-07-23 | 2022-06-25 |
 | [La Villerita](https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Idolo De Multitudes](https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN) | 4:10 | 2021-07-23 |  |
 | [La Yapa](https://open.spotify.com/track/0gcZzig5VyR2MHSjCM5FbV) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP) | 2:50 | 2022-02-21 | 2022-11-12 |
@@ -212,7 +213,7 @@
 | [Y Así y Así \(with Luciano Pereyra\)](https://open.spotify.com/track/75rd1MHawa6hNqLI5TMs6B) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Cantora 2](https://open.spotify.com/album/7JzCtnRrZ7R8i5BEpHgaPv) | 3:26 | 2021-07-23 | 2022-07-29 |
 | [Y Va Pasando la Vida](https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [El Estilo Romántico](https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2) | 3:40 | 2021-07-23 |  |
 | [Yo Vendo Unos Ojos Negros](https://open.spotify.com/track/4dQUKpts49oFxLV1rxS2NZ) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Serie Platino](https://open.spotify.com/album/6dOjBEMjKsBu498Zxs2a5f) | 3:45 | 2021-07-23 |  |
-| [Yo Vendo Unos Ojos Negros](https://open.spotify.com/track/1yJfVmvBQ74NwpiEfvoIit) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Diez años de Soledad](https://open.spotify.com/album/3PAYI7EzSG51CpX9S80qxV) | 2:31 | 2021-07-23 |  |
+| [Yo Vendo Unos Ojos Negros](https://open.spotify.com/track/1yJfVmvBQ74NwpiEfvoIit) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Diez años de Soledad](https://open.spotify.com/album/3PAYI7EzSG51CpX9S80qxV) | 2:31 | 2021-07-23 | 2023-05-16 |
 | [Zamba de Abril](https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Chango](https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV) | 3:51 | 2021-07-23 |  |
 | [Zamba de Amor en Vuelo](https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5) | [Tamara Castro](https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW) | [Lo Mejor de Mi...](https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB) | 3:30 | 2021-07-23 | 2022-07-29 |
 | [Zamba de Amor en Vuelo](https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy) | [Tamara Castro](https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW) | [Lo Mejor de Mi...](https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn) | 3:30 | 2022-02-21 |  |

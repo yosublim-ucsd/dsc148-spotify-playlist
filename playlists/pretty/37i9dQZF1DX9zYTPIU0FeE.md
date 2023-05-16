@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy?si=Nrn9IgdmQ4yUGQDgcQTPyQ">Bokani Dyer</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,400 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,409 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 32 | [Bhaca Blue](https://open.spotify.com/track/4AncHenxnWxZS5ftGRZLc2) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Genesis of a Different World](https://open.spotify.com/album/1jpy0s4HMRWrT2RIJDWkp9) | 7:56 |
 | 33 | [Tuang Guru](https://open.spotify.com/track/3fD3q7GFWb25lCB19AMnub) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Ekaya](https://open.spotify.com/artist/0DatFccWNlM002HiZD9vOR) | [The Balance](https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg) | 5:10 |
 | 34 | [House of the Rising Sun](https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [House of the Rising Sun](https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof) | 3:45 |
-| 35 | [Resonance of Truth](https://open.spotify.com/track/3khqXPns3K35UUWdikdcGq) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Resonance of Truth](https://open.spotify.com/album/2BT9yT0t764TDt5Gqxi7XC) | 5:19 |
+| 35 | [Resonance of Truth](https://open.spotify.com/track/4RK33FWaI08tH9HHNNaIbH) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Radio Sechaba](https://open.spotify.com/album/0gJH7Mg6iDdjxFssLUHTGj) | 5:19 |
 | 36 | [Intlungu Nentlupheko](https://open.spotify.com/track/46IEMoR4xnawTn2mIGBPxz) | [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [Intwasa: The Becoming](https://open.spotify.com/album/3BfYSNT6iqBE5UyiZFSRwj) | 8:00 |
 | 37 | [How Why When](https://open.spotify.com/track/4zPiJutnH4BoPlt4nYpsFi) | [Spha Mdlalose](https://open.spotify.com/artist/5zgK9I4L2Nwjm4mk3lphMO) | [Indlel'eyekhaya](https://open.spotify.com/album/6BprMXrD72oW5QF3hlS1m7) | 5:21 |
 | 38 | [Cosmic Light](https://open.spotify.com/track/3As7BwjBWJBOxy7JAJuQYv) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Exiled](https://open.spotify.com/album/4fqKeqCJYOY7v3yKmuiau0) | 6:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 49 | [UMDALI](https://open.spotify.com/track/6Ez01NIwZoUm85QtgPK6J0) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [INGANEKWANE](https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ) | 6:40 |
 | 50 | [Konakele](https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Umthombo](https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV) | 6:29 |
 
-Snapshot ID: `MCw1YTgyNmFjOTEyODlmNTY2NmRhYWI4NjcxMjJmMjA4YTY2Yjk4Y2Zi`
+Snapshot ID: `MCw1MWY1Y2QwN2FiNTlmZjI1MTI2NmJiNTM2YzBiYzI0ZThmOTAyMDZi`

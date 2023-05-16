@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 380166,
+  "num_followers": 380378,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjljZmUxOGEzNmMxMzk3OTkyYzliODRkNjk1MDgzMWQ3NWM0ZWEx",
+  "snapshot_id": "MCw1MzBlNGU4NzE3OTZjZWE0MjNiZWZlMzI4NmI1ODc3OTliZjAwNzQ1",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -791,6 +791,26 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Otherside (Fideles Remix Edit)",
+        "url": "https://open.spotify.com/album/4Da2OQ1W0I4e8Mbz5DQ6mf"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "duration_ms": 270243,
+      "name": "Otherside - Fideles Remix Edit",
+      "url": "https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Colorblind (WhoMadeWho Remix)",
         "url": "https://open.spotify.com/album/0mO8k3D70mgcLtMViioNon"
       },
@@ -815,42 +835,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Little Darling",
-        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 220524,
-      "name": "Little Darling",
-      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Otherside (Fideles Remix Edit)",
-        "url": "https://open.spotify.com/album/4Da2OQ1W0I4e8Mbz5DQ6mf"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        },
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        }
-      ],
-      "duration_ms": 270243,
-      "name": "Otherside - Fideles Remix Edit",
-      "url": "https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 392240,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Little Darling",
+        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 220524,
+      "name": "Little Darling",
+      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Endup",
+        "url": "https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        }
+      ],
+      "duration_ms": 483824,
+      "name": "Palomita",
+      "url": "https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Cure My Desire (feat. Clementine Douglas) [Themba Remix]",
         "url": "https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Endup",
-        "url": "https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        }
-      ],
-      "duration_ms": 483824,
-      "name": "Palomita",
-      "url": "https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Human Aura",
         "url": "https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 348815,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1299,6 +1315,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Nobody Is Not Loved, Remixes, Pt. 3",
         "url": "https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV"
       },
@@ -1351,22 +1383,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "A380",
         "url": "https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f"
       },
@@ -1403,18 +1419,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/6neciC9YnnlAN6irdMO1yA"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "Samantha Loveridge",
+          "url": "https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt"
+        },
+        {
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
         }
       ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+      "duration_ms": 268032,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/1Uh8i82ux3YOdxf44lAl7K"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1431,6 +1451,26 @@
       "duration_ms": 225482,
       "name": "Olele",
       "url": "https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Another Brick In The Wall",
+        "url": "https://open.spotify.com/album/670imi4qiQ6eE2TEarhY7y"
+      },
+      "artists": [
+        {
+          "name": "Darksidevinyl",
+          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
+        },
+        {
+          "name": "Ucha",
+          "url": "https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3"
+        }
+      ],
+      "duration_ms": 241716,
+      "name": "Another Brick In The Wall",
+      "url": "https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1459,46 +1499,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/6neciC9YnnlAN6irdMO1yA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Loveridge",
-          "url": "https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt"
-        },
-        {
-          "name": "Treetalk",
-          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
-        }
-      ],
-      "duration_ms": 268032,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/1Uh8i82ux3YOdxf44lAl7K"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Another Brick In The Wall",
-        "url": "https://open.spotify.com/album/670imi4qiQ6eE2TEarhY7y"
-      },
-      "artists": [
-        {
-          "name": "Darksidevinyl",
-          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
-        },
-        {
-          "name": "Ucha",
-          "url": "https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3"
-        }
-      ],
-      "duration_ms": 241716,
-      "name": "Another Brick In The Wall",
-      "url": "https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Upahl",
         "url": "https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 277500,
       "name": "Canto Al Sol",
       "url": "https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Balafonerra",
-        "url": "https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 251465,
-      "name": "Balafonerra",
-      "url": "https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1551,6 +1535,22 @@
       "duration_ms": 211122,
       "name": "Visions",
       "url": "https://open.spotify.com/track/34Q9Ai7qwAYdFnFegPxeqD"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Balafonerra",
+        "url": "https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 251465,
+      "name": "Balafonerra",
+      "url": "https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Milkshake",
-        "url": "https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw"
-      },
-      "artists": [
-        {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
-        }
-      ],
-      "duration_ms": 414226,
-      "name": "Milkshake",
-      "url": "https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Solaris",
         "url": "https://open.spotify.com/album/4bFPeFcSmUhL5CRDEge20O"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 315483,
       "name": "Solaris",
       "url": "https://open.spotify.com/track/3kBQXkTGrMgwk1sxGd5rAH"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Milkshake",
+        "url": "https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "duration_ms": 414226,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Visage 6 (Never Loved)",
-        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        }
-      ],
-      "duration_ms": 253780,
-      "name": "Never Loved",
-      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Cutting Ribbons (feat. Paul Brenning)",
         "url": "https://open.spotify.com/album/0dyvhEKGtheznpjjPZ0Ub3"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 233000,
       "name": "Cutting Ribbons (feat. Paul Brenning)",
       "url": "https://open.spotify.com/track/72qQf918A43mrhddO8Hp9G"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Visage 6 (Never Loved)",
+        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        }
+      ],
+      "duration_ms": 253780,
+      "name": "Never Loved",
+      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1859,34 +1859,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Waves of the Soul",
-        "url": "https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5"
+        "name": "Samum",
+        "url": "https://open.spotify.com/album/0GLLdUvIwBuauWU6i1MWUp"
       },
       "artists": [
         {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+          "name": "Woo York",
+          "url": "https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p"
         }
       ],
-      "duration_ms": 212459,
-      "name": "Waves of the Soul",
-      "url": "https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2KZCa3njlP1MI1OdS026Eg"
-      },
-      "artists": [
-        {
-          "name": "Agatha Pher",
-          "url": "https://open.spotify.com/artist/0VRg3UWCu6DUIB7r5jqZZJ"
-        }
-      ],
-      "duration_ms": 535081,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv"
+      "duration_ms": 194754,
+      "name": "Samum",
+      "url": "https://open.spotify.com/track/4Jmid2ZZKHAyLhibaC3UvR"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1927,34 +1911,34 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Samum",
-        "url": "https://open.spotify.com/album/0GLLdUvIwBuauWU6i1MWUp"
+        "name": "Waves of the Soul",
+        "url": "https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5"
       },
       "artists": [
         {
-          "name": "Woo York",
-          "url": "https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p"
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
         }
       ],
-      "duration_ms": 194754,
-      "name": "Samum",
-      "url": "https://open.spotify.com/track/4Jmid2ZZKHAyLhibaC3UvR"
+      "duration_ms": 212459,
+      "name": "Waves of the Soul",
+      "url": "https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve"
     },
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Regina Blue EP",
-        "url": "https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f"
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2KZCa3njlP1MI1OdS026Eg"
       },
       "artists": [
         {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+          "name": "Agatha Pher",
+          "url": "https://open.spotify.com/artist/0VRg3UWCu6DUIB7r5jqZZJ"
         }
       ],
-      "duration_ms": 525619,
-      "name": "Regina Blue",
-      "url": "https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts"
+      "duration_ms": 535081,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1979,18 +1963,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Sleeping Beauty",
-        "url": "https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf"
+        "name": "Regina Blue EP",
+        "url": "https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f"
       },
       "artists": [
         {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Sleeping Beauty",
-      "url": "https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC"
+      "duration_ms": 525619,
+      "name": "Regina Blue",
+      "url": "https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -2007,6 +1991,22 @@
       "duration_ms": 454008,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/6DkDlro1m7qqktqpePSWwM"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Sleeping Beauty",
+        "url": "https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Sleeping Beauty",
+      "url": "https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC"
     }
   ],
   "unique_name": "Tantra",

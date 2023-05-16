@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Zoë Tauran, Bilal Wahib
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,002 likes - 101 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,022 likes - 101 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 100 | [Blame It On Me](https://open.spotify.com/track/3wzb6Yh4KpuGsj2TLEpGEC) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blame It On Me](https://open.spotify.com/album/7CiVi0qi3v6TlfGDemsFZX) | 2:34 |
 | 101 | [crown](https://open.spotify.com/track/4YmvERdqtzwCauPpZnPJNm) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE) | [crown](https://open.spotify.com/album/2O2q9CCrqfkFm923KXGxsd) | 5:44 |
 
-Snapshot ID: `MCwwYjhlZmE5N2NhOTQwYmJiZjFlOThkMmVjY2JjYTE2MzdhNjgyMjI0`
+Snapshot ID: `MCwyMzJlNjA3MmM5NTBmMzY3MWZhYTQ5MWM4MWE5YWJlNmNmM2YzMTBl`

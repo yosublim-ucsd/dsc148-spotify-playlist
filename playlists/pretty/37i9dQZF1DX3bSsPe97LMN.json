@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Franco Rey en portada.",
-  "num_followers": 53901,
+  "num_followers": 53923,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWY1NGMyODU4MDcxM2VlMDcxNzFkODZhNmY2MGFkZDcwNjdiN2Zh",
+  "snapshot_id": "MCw4YmRiZTIzYjZmNTY3M2NjNDBiNzY4ZTVjODVkNjA0MzM3MDM1NzMx",
   "tracks": [
     {
       "added_at": "2023-05-05 18:32:45",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Marcando La Diferencia",
-        "url": "https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa"
-      },
-      "artists": [
-        {
-          "name": "Victor Eme",
-          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
-        }
-      ],
-      "duration_ms": 179948,
-      "name": "Marcando La Diferencia",
-      "url": "https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Paso A Pasito",
         "url": "https://open.spotify.com/album/65SCAsrB3oSDhqU6HY7r2j"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 163875,
       "name": "Paso A Pasito",
       "url": "https://open.spotify.com/track/0oXXhfxgC0dV4UFvVKLL6J"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Marcando La Diferencia",
+        "url": "https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa"
+      },
+      "artists": [
+        {
+          "name": "Victor Eme",
+          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
+        }
+      ],
+      "duration_ms": 179948,
+      "name": "Marcando La Diferencia",
+      "url": "https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Siempre manda a su manera",
+        "url": "https://open.spotify.com/album/6c9E5JgP8N9cagJoAXvCkv"
+      },
+      "artists": [
+        {
+          "name": "Ivan Orozco",
+          "url": "https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 178449,
+      "name": "Siempre manda a su manera",
+      "url": "https://open.spotify.com/track/570RQeGmSJvsfVIAo1gsLp"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "El Sello Adixion",
         "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 176720,
       "name": "El Sello Adixion",
       "url": "https://open.spotify.com/track/2v6sGn3VKqssfoKQmhvwf7"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Siempre manda a su manera",
-        "url": "https://open.spotify.com/album/6c9E5JgP8N9cagJoAXvCkv"
-      },
-      "artists": [
-        {
-          "name": "Ivan Orozco",
-          "url": "https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 178449,
-      "name": "Siempre manda a su manera",
-      "url": "https://open.spotify.com/track/570RQeGmSJvsfVIAo1gsLp"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Es Tan Bonita",
-        "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
-      },
-      "artists": [
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 159333,
-      "name": "Es Tan Bonita",
-      "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Al Mill\u00f3n",
         "url": "https://open.spotify.com/album/4P9XxgcqLfqBrNLHn1RTL0"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 138028,
       "name": "Al Mill\u00f3n",
       "url": "https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Es Tan Bonita",
+        "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 159333,
+      "name": "Es Tan Bonita",
+      "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "El Flaco",
-        "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 147957,
-      "name": "El Flaco",
-      "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 264802,
       "name": "La Ultima Sombra (En Vivo)",
       "url": "https://open.spotify.com/track/3KgfP8YkvF2znrBPelYTJ7"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "El Flaco",
+        "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 147957,
+      "name": "El Flaco",
+      "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -919,6 +919,22 @@
       "duration_ms": 149549,
       "name": "Los Medios Suenan",
       "url": "https://open.spotify.com/track/2T6uWv12GY7luN3TDtqHyd"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Barba De Herencia",
+        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 204675,
+      "name": "Barba De Herencia",
+      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -975,54 +991,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Barba De Herencia",
-        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 204675,
-      "name": "Barba De Herencia",
-      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Bandera De Mi Ap\u00e1",
-        "url": "https://open.spotify.com/album/5gvYcER7tV1RQJyINJa6vU"
-      },
-      "artists": [
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Bandera De Mi Ap\u00e1",
-      "url": "https://open.spotify.com/track/7mCttx5YbOEopPSEkdrpj8"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Sigo Avanzando",
         "url": "https://open.spotify.com/album/20Tn8yKqrTZGL7TMH3H44Q"
       },
@@ -1043,6 +1011,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 213711,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Bandera De Mi Ap\u00e1",
+        "url": "https://open.spotify.com/album/5gvYcER7tV1RQJyINJa6vU"
+      },
+      "artists": [
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Bandera De Mi Ap\u00e1",
+      "url": "https://open.spotify.com/track/7mCttx5YbOEopPSEkdrpj8"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Con Tololoche y Charchetas (En Vivo)",
+        "url": "https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI"
+      },
+      "artists": [
+        {
+          "name": "Arturo Coronel y el Buen Estilo",
+          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
+        }
+      ],
+      "duration_ms": 186274,
+      "name": "Sin Lado Izquierdo - En Vivo",
+      "url": "https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "Agusto Andamos",
         "url": "https://open.spotify.com/album/05Twh5sMxfR3YlpRhhAJBF"
       },
@@ -1247,34 +1263,18 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Con Tololoche y Charchetas (En Vivo)",
-        "url": "https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI"
+        "name": "Hija de mi Madre",
+        "url": "https://open.spotify.com/album/0ZEdugqFtQeYFrN95229VO"
       },
       "artists": [
         {
-          "name": "Arturo Coronel y el Buen Estilo",
-          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
+          "name": "Gladys Ruiz",
+          "url": "https://open.spotify.com/artist/02p1rp0F8VAwiGbd941PdO"
         }
       ],
-      "duration_ms": 186274,
-      "name": "Sin Lado Izquierdo - En Vivo",
-      "url": "https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "En Cada Trago",
-        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
-      },
-      "artists": [
-        {
-          "name": "Bajo Perfil",
-          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
-        }
-      ],
-      "duration_ms": 172645,
-      "name": "En Cada Trago",
-      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
+      "duration_ms": 147408,
+      "name": "Hija de mi Madre",
+      "url": "https://open.spotify.com/track/4uUVhe9PSPqL6gWPnJzBjB"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Hija de mi Madre",
-        "url": "https://open.spotify.com/album/0ZEdugqFtQeYFrN95229VO"
+        "name": "En Cada Trago",
+        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
       },
       "artists": [
         {
-          "name": "Gladys Ruiz",
-          "url": "https://open.spotify.com/artist/02p1rp0F8VAwiGbd941PdO"
+          "name": "Bajo Perfil",
+          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
         }
       ],
-      "duration_ms": 147408,
-      "name": "Hija de mi Madre",
-      "url": "https://open.spotify.com/track/4uUVhe9PSPqL6gWPnJzBjB"
+      "duration_ms": 172645,
+      "name": "En Cada Trago",
+      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

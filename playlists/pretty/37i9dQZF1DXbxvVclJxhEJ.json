@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 34256,
+  "num_followers": 34293,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjhjNjc2ZjZjMjkwNjc5N2VjZDdjODE5NzIzYWZmNWQ4ZTFkZTY5",
+  "snapshot_id": "MCwzMTNhMDIyZTg1YzQ1MmEzMDM0MTAwYmM5NWUxZDM5NGJmNGViYzVi",
   "tracks": [
     {
       "added_at": "2023-03-03 18:11:20",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Ma Rainey",
-        "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 146226,
-      "name": "Runaway Blues",
-      "url": "https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Blues, Candy & Big Maybelle",
         "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
       },
@@ -215,18 +199,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "What It Takes: The Chess Years",
-        "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
+      "duration_ms": 146226,
+      "name": "Runaway Blues",
+      "url": "https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -243,6 +227,22 @@
       "duration_ms": 171266,
       "name": "I'm A Little Mixed Up",
       "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "What It Takes: The Chess Years",
+        "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -343,38 +343,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Big Band Bounce & Boogie",
-        "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
-      },
-      "artists": [
-        {
-          "name": "Lucky Millinder",
-          "url": "https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "Shout Sister Shout",
-      "url": "https://open.spotify.com/track/7hpI4eFBXUYk3ZtsztFmWc"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
-        "name": "In The Basement: The Chess Recordings",
-        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
-      },
-      "artists": [
-        {
-          "name": "Sugar Pie DeSanto",
-          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
-        }
-      ],
-      "duration_ms": 180946,
-      "name": "I Want To Know",
-      "url": "https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
       },
@@ -391,6 +359,22 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
+        "name": "Big Band Bounce & Boogie",
+        "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Millinder",
+          "url": "https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "Shout Sister Shout",
+      "url": "https://open.spotify.com/track/7hpI4eFBXUYk3ZtsztFmWc"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
         "name": "Sings Bessie Smith",
         "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 187520,
       "name": "Gimme a Pigfoot - Mono",
       "url": "https://open.spotify.com/track/0xhxIYLDAAKjaLN6X012bc"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "In The Basement: The Chess Recordings",
+        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pie DeSanto",
+          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
+        }
+      ],
+      "duration_ms": 180946,
+      "name": "I Want To Know",
+      "url": "https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Queen Of The Blues",
-        "url": "https://open.spotify.com/album/6DgLR9u6il9EhtkKEx4AiY"
-      },
-      "artists": [
-        {
-          "name": "Memphis Minnie & Kansas Joe",
-          "url": "https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "When The Levee Breaks",
-      "url": "https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
         "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 195973,
       "name": "Sloppy Drunk Blues",
       "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Queen Of The Blues",
+        "url": "https://open.spotify.com/album/6DgLR9u6il9EhtkKEx4AiY"
+      },
+      "artists": [
+        {
+          "name": "Memphis Minnie & Kansas Joe",
+          "url": "https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "When The Levee Breaks",
+      "url": "https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -567,6 +567,38 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Billie's Blues",
+      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
+        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
+      },
+      "artists": [
+        {
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "B.D. Woman's Blues",
+      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
         "name": "The Complete Recordings, Vol. 3",
         "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
       },
@@ -583,18 +615,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
+        "name": "First Time I Met the Blues (When the Sun Goes Down series)",
+        "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Sippie Wallace",
+          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
         }
       ],
-      "duration_ms": 187146,
-      "name": "Billie's Blues",
-      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
+      "duration_ms": 170173,
+      "name": "I'm a Mighty Tight Woman",
+      "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -615,22 +647,6 @@
       "duration_ms": 240760,
       "name": "Bad Spell Blues",
       "url": "https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
-        "name": "First Time I Met the Blues (When the Sun Goes Down series)",
-        "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
-      },
-      "artists": [
-        {
-          "name": "Sippie Wallace",
-          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "I'm a Mighty Tight Woman",
-      "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -667,18 +683,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
-        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
+        "name": "Sweet Emma Barrett And Her New Orleans Music",
+        "url": "https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg"
       },
       "artists": [
         {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
         }
       ],
-      "duration_ms": 177333,
-      "name": "B.D. Woman's Blues",
-      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
+      "duration_ms": 220299,
+      "name": "Jelly Roll Blues",
+      "url": "https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -711,22 +727,6 @@
       "duration_ms": 157960,
       "name": "Billie's Blues - Take 1",
       "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
-        "name": "Sweet Emma Barrett And Her New Orleans Music",
-        "url": "https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 220299,
-      "name": "Jelly Roll Blues",
-      "url": "https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Ma Rainey Vol. 3 (1925-1926)",
-        "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 175726,
-      "name": "Stack O'Lee Blues",
-      "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "The First Torch Singers, Vol. I: The Twenties",
         "url": "https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 175253,
       "name": "Trouble in Mind",
       "url": "https://open.spotify.com/track/6qURWmWdKXkoGGvEl2iiEi"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Ma Rainey Vol. 3 (1925-1926)",
+        "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 175726,
+      "name": "Stack O'Lee Blues",
+      "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Sings... Me And The Blues",
-        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
-      },
-      "artists": [
-        {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Don't Worry 'Bout Strangers",
-      "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Presenting Mamie Smith",
         "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 204826,
       "name": "Crazy Blues (Alternate Take)",
       "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Sings... Me And The Blues",
+        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Don't Worry 'Bout Strangers",
+      "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
     },
     {
       "added_at": "2023-03-03 18:11:20",

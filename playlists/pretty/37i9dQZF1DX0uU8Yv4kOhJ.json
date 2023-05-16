@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 122607,
+  "num_followers": 122634,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmZhMTEzODliMzdmNzI2OTA0YjMzYWJkNzlkMzA1YWE4ODcxZWE1",
+  "snapshot_id": "MCw4ODEyNmYxMTgzY2IyOGFmNDRiMTEzOGQ2MWViZTgxMzQ1MjNlYjhk",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
+        "name": "Prender el Alma",
+        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 315493,
+      "name": "La Cosecha",
+      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
         "name": "Miss Colombia",
         "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
@@ -111,6 +127,26 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "duration_ms": 254815,
+      "name": "Coraz\u00f3n de Rub\u00ed",
+      "url": "https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -151,42 +187,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 254815,
-      "name": "Coraz\u00f3n de Rub\u00ed",
-      "url": "https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "Prender el Alma",
-        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 315493,
-      "name": "La Cosecha",
-      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "La Danza",
         "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
       },
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+        "name": "Tristes Tr\u00f3picos",
+        "url": "https://open.spotify.com/album/5Db5UP6d1ccr8UvILSxv0L"
       },
       "artists": [
         {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+          "name": "Lolab\u00fam",
+          "url": "https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki"
         }
       ],
-      "duration_ms": 273067,
-      "name": "Eso Que Tu Haces",
-      "url": "https://open.spotify.com/track/2HiionQ4vRsBnBP8bV18Cm"
+      "duration_ms": 237199,
+      "name": "El Ecuador",
+      "url": "https://open.spotify.com/track/55HYMSdX8cNWH42DKhPQYH"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Tristes Tr\u00f3picos",
-        "url": "https://open.spotify.com/album/5Db5UP6d1ccr8UvILSxv0L"
-      },
-      "artists": [
-        {
-          "name": "Lolab\u00fam",
-          "url": "https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki"
-        }
-      ],
-      "duration_ms": 237199,
-      "name": "El Ecuador",
-      "url": "https://open.spotify.com/track/55HYMSdX8cNWH42DKhPQYH"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
         "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 260504,
       "name": "Tarpuricusum Sarata - Captain Planet Remix",
       "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 273067,
+      "name": "Eso Que Tu Haces",
+      "url": "https://open.spotify.com/track/2HiionQ4vRsBnBP8bV18Cm"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Viento en los Andes",
-        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
-      },
-      "artists": [
-        {
-          "name": "Inkaquenas",
-          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "V\u00edrgenes del Sol",
-      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Ch'usay",
         "url": "https://open.spotify.com/album/5KNsxBQPRUBeAG0WVdHXNG"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 226780,
       "name": "Herejia",
       "url": "https://open.spotify.com/track/5nQTVn417aepqNo6BF9fMN"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Viento en los Andes",
+        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
+      },
+      "artists": [
+        {
+          "name": "Inkaquenas",
+          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "V\u00edrgenes del Sol",
+      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Pu\u00f1ales",
-        "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
+        "name": "Lo Mejor de los Kjarkas",
+        "url": "https://open.spotify.com/album/4AioSjCy9kSATUkERbkzo9"
       },
       "artists": [
         {
-          "name": "LaTorre",
-          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
+          "name": "Los Kjarkas",
+          "url": "https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN"
         }
       ],
-      "duration_ms": 170037,
-      "name": "Pu\u00f1ales",
-      "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
+      "duration_ms": 216372,
+      "name": "Sunch'u T'ikitay - Remastered",
+      "url": "https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu"
     }
   ],
   "unique_name": "Entre los Andes",

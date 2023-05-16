@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and alluring siren songs. ",
-  "num_followers": 613017,
+  "num_followers": 613083,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWNjN2I0NDE0ZTVkNTY5MDc0M2YzYzJlNThkOGI4ZWJmNGU3MTcz",
+  "snapshot_id": "MCwwMWVmMzhkNjc4Njg1YzYyMTU0MmYzYjAwMzE0NjVhNTQ4YTU0MjZl",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Harmony (Deluxe)",
+        "url": "https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Stompa",
+      "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 213350,
       "name": "Distrust",
       "url": "https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Harmony (Deluxe)",
-        "url": "https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7"
-      },
-      "artists": [
-        {
-          "name": "Serena Ryder",
-          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Stompa",
-      "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "The Dark",
-      "url": "https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Dark River",
         "url": "https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 194560,
       "name": "Occasionally",
       "url": "https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "The Dark",
+      "url": "https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 232242,
-      "name": "How Much Does Your Love Cost?",
-      "url": "https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Cannonball (Acoustic)",
         "url": "https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 278196,
       "name": "Cannonball - Acoustic",
       "url": "https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 232242,
+      "name": "How Much Does Your Love Cost?",
+      "url": "https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "awakening",
-        "url": "https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "awakening",
-      "url": "https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "By The Horns",
         "url": "https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 234013,
       "name": "It's All Okay",
       "url": "https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "awakening",
+        "url": "https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "awakening",
+      "url": "https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Sting",
-        "url": "https://open.spotify.com/album/4BIAvFCoghxvGNnxDtBYZM"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Cilmi",
-          "url": "https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE"
-        }
-      ],
-      "duration_ms": 195990,
-      "name": "Left With Someone Else",
-      "url": "https://open.spotify.com/track/0qin3yx9CCpBxiZRAwSeGJ"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Hopeless Romantic",
         "url": "https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 210693,
       "name": "Hopeless Romantic",
       "url": "https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Sting",
+        "url": "https://open.spotify.com/album/4BIAvFCoghxvGNnxDtBYZM"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Cilmi",
+          "url": "https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE"
+        }
+      ],
+      "duration_ms": 195990,
+      "name": "Left With Someone Else",
+      "url": "https://open.spotify.com/track/0qin3yx9CCpBxiZRAwSeGJ"
     }
   ],
   "unique_name": "Femme Fatale",

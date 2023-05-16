@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 25883,
+  "num_followers": 25888,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODI3OGQ3NDZhYTNkZDE2NmQ1YjQxOGQ2ZjM0MDUwNjE5ZTAxNTJj",
+  "snapshot_id": "MCwxMDIwMTNhYTk1MzY4ZmE1MzQxOGUwMGU2Mzc2MDZjMjY5ZThkZDVi",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "En helt vanlig Svensson",
         "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 194933,
       "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
       "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Bail\u00e1 Bail\u00e1",
-        "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Estrella",
-          "url": "https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El"
-        }
-      ],
-      "duration_ms": 173124,
-      "name": "Bail\u00e1 Bail\u00e1",
-      "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+        "name": "Bail\u00e1 Bail\u00e1",
+        "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
       },
       "artists": [
         {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+          "name": "Alvaro Estrella",
+          "url": "https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El"
         }
       ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+      "duration_ms": 173124,
+      "name": "Bail\u00e1 Bail\u00e1",
+      "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
+        "name": "I Can't Go On",
+        "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
       },
       "artists": [
         {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
         }
       ],
-      "duration_ms": 182443,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
+      "duration_ms": 183990,
+      "name": "I Can\u00b4t Go On",
+      "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -427,6 +427,38 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Diggiloo Diggiley",
+        "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
+      },
+      "artists": [
+        {
+          "name": "Herreys",
+          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Diggiloo Diggiley",
+      "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "As I Lay Me Down",
         "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
       },
@@ -439,22 +471,6 @@
       "duration_ms": 189120,
       "name": "As I Lay Me Down",
       "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Alltid p\u00e5 v\u00e4g",
-        "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
-      },
-      "artists": [
-        {
-          "name": "Nanne",
-          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
-        }
-      ],
-      "duration_ms": 182773,
-      "name": "H\u00e5ll om mig",
-      "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -475,6 +491,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "Alltid p\u00e5 v\u00e4g",
+        "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
+      },
+      "artists": [
+        {
+          "name": "Nanne",
+          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
+        }
+      ],
+      "duration_ms": 182773,
+      "name": "H\u00e5ll om mig",
+      "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "En Samling 1981 - 2001",
         "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
       },
@@ -487,38 +519,6 @@
       "duration_ms": 198706,
       "name": "En dag",
       "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "I Can't Go On",
-        "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 183990,
-      "name": "I Can\u00b4t Go On",
-      "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Diggiloo Diggiley",
-        "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
-      },
-      "artists": [
-        {
-          "name": "Herreys",
-          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Diggiloo Diggiley",
-      "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 185239,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Gamla Stan (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6xVkPsCxMAxXNC6MrBF7Qk"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
-        }
-      ],
-      "duration_ms": 183051,
-      "name": "M\u00f6t mig i Gamla Stan",
-      "url": "https://open.spotify.com/track/63UzvCGt0yMhxHCeoT89Te"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "Gamla Stan (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6xVkPsCxMAxXNC6MrBF7Qk"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 183051,
+      "name": "M\u00f6t mig i Gamla Stan",
+      "url": "https://open.spotify.com/track/63UzvCGt0yMhxHCeoT89Te"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "Den l\u00e5ngsamma blomman",
         "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 181586,
       "name": "Min k\u00e4rlek",
       "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
-      },
-      "artists": [
-        {
-          "name": "Anton Ewald",
-          "url": "https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
     }
   ],
   "unique_name": "Schlagerfest",

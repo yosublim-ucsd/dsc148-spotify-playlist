@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Workout songs to get your mental right and blood pumping.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 88,542 likes - 50 songs - 2 hr 28 min
+[Digster](https://open.spotify.com/user/digster.fm) - 88,535 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 41 | [Enzo \(with Sheck Wes, feat\. Offset, 21 Savage & Gucci Mane\)](https://open.spotify.com/track/16qyARqmuyJ6Dvb9LWa7AO) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Carte Blanche \(Deluxe\)](https://open.spotify.com/album/29bm24DTwhCunUSVYbtXFT) | 4:08 |
 | 42 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
 | 43 | [Mi Gente \- Alesso Remix](https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Mi Gente \(Alesso Remix\)](https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g) | 3:33 |
-| 44 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
-| 45 | [RESPECT \(feat\. Lil Thad, Dubba G & Glockianna\)](https://open.spotify.com/track/21Ba7pnsiV6GqsGJtCRBYN) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Lil Thad](https://open.spotify.com/artist/2YpTaAHmS8mK36GhjIF0pW), [Dubba G](https://open.spotify.com/artist/3q6LWVdiXXVKUWUgfIfXta), [Glockianna](https://open.spotify.com/artist/56JcMPQpx5pfbKnDfaqqfd) | [MEMPHIS MASSACRE III](https://open.spotify.com/album/6zpMySpRlvtUlFhl3TkZ7k) | 3:08 |
-| 46 | [How TF \(with SleazyWorld Go\)](https://open.spotify.com/track/3iBv2gYJk2SJJbuEGnvlLm) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [How TF](https://open.spotify.com/album/7uFrgDWyKZZb4KHYORcqQt) | 3:02 |
-| 47 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
-| 48 | [Humble Beast](https://open.spotify.com/track/1yGAmfQpKdSWjOUBfSuZRf) | [Reuben Vincent](https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ) | [Humble Beast](https://open.spotify.com/album/2L2xc13qkyWmjtrnmsYbsJ) | 1:51 |
+| 44 | [RESPECT \(feat\. Lil Thad, Dubba G & Glockianna\)](https://open.spotify.com/track/21Ba7pnsiV6GqsGJtCRBYN) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Lil Thad](https://open.spotify.com/artist/2YpTaAHmS8mK36GhjIF0pW), [Dubba G](https://open.spotify.com/artist/3q6LWVdiXXVKUWUgfIfXta), [Glockianna](https://open.spotify.com/artist/56JcMPQpx5pfbKnDfaqqfd) | [MEMPHIS MASSACRE III](https://open.spotify.com/album/6zpMySpRlvtUlFhl3TkZ7k) | 3:08 |
+| 45 | [How TF \(with SleazyWorld Go\)](https://open.spotify.com/track/3iBv2gYJk2SJJbuEGnvlLm) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [How TF](https://open.spotify.com/album/7uFrgDWyKZZb4KHYORcqQt) | 3:02 |
+| 46 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
+| 47 | [Humble Beast](https://open.spotify.com/track/1yGAmfQpKdSWjOUBfSuZRf) | [Reuben Vincent](https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ) | [Humble Beast](https://open.spotify.com/album/2L2xc13qkyWmjtrnmsYbsJ) | 1:51 |
+| 48 | [Killer](https://open.spotify.com/track/3yjelmM5m30ItLvmtBjMml) | [Vin Jay](https://open.spotify.com/artist/2DQkr7ZMTqNrlz5HcXZeI7), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [Karma](https://open.spotify.com/album/3SUWqFRKpKP5lsCy8hdlGd) | 3:22 |
 | 49 | [Ring The Alarm](https://open.spotify.com/track/6HeKrqik6GxcbdKsk7FRnt) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Ring The Alarm](https://open.spotify.com/album/0hEbycKgvdwFSUZFWocFcm) | 3:35 |
 | 50 | [Narco](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Narco](https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK) | 3:28 |
 
-Snapshot ID: `MTY4MCwwNGFjMWNjNjJmYjRhNzI3MTJkZjFiOTIxMGRmMTZkZmNiYmMwOWVk`
+Snapshot ID: `MTY4MiwzNjgyYzcwMzhlM2I2OWVmNzgzYTk1ZGY5NTg3ZmVmNTllY2FhZDkw`

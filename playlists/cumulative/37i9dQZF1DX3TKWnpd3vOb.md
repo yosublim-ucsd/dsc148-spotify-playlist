@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Bunkers
 
-233 songs - 14 hr 55 min
+234 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [El Último Hombre](https://open.spotify.com/track/3ktAEb2vExKXKIYEasqNZB) | [Jürgensen](https://open.spotify.com/artist/3aa7GJeuK2umr3aA4SGPeG) | [El Último Hombre](https://open.spotify.com/album/1eAxuEL8CwlTyoQCHN56oG) | 2:59 | 2022-04-08 | 2023-03-03 |
 | [Elijo Soledad](https://open.spotify.com/track/0De9FIACgaulJDIzIN7jqq) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Elijo Soledad](https://open.spotify.com/album/03UF0yRngtiNd5gZaJ9Msk) | 4:27 | 2022-09-23 | 2023-03-03 |
 | [Entre Mis Brazos](https://open.spotify.com/track/1hM3r9AKtL3XZwPqRHcCMG) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers](https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV) | 5:02 | 2022-04-08 | 2022-12-17 |
-| [Eso que ves ahí](https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Eso que ves ahí](https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf) | 3:28 | 2022-04-08 |  |
+| [Eso que ves ahí](https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Eso que ves ahí](https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf) | 3:28 | 2022-04-08 | 2023-05-16 |
 | [Esta Tarde Vi Llover](https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F) | [Los Ex](https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP) | [Esta Tarde Vi Llover](https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp) | 2:33 | 2022-04-08 |  |
 | [Estereotipo](https://open.spotify.com/track/7400p5DQgZByjkhYw9dprs) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Estereotipo](https://open.spotify.com/album/7MthIfL1jkDZAJxfsR23IQ) | 2:56 | 2022-04-08 | 2022-07-29 |
 | [Estrechez de Corazón \(En Vivo\)](https://open.spotify.com/track/0UC5d0kcl6qxRjnjBdJdBN) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Estrechez de Corazón \(En Vivo\)](https://open.spotify.com/album/45d0IXNNcFkpK7nzcnJ6mO) | 7:20 | 2022-04-08 | 2022-12-17 |
@@ -213,6 +213,7 @@
 | [Traicionera / El Reo Ausente \- Desorden Público rinde Homenaje al Indio Pastor López](https://open.spotify.com/track/4DPRgzo3TmEOM6DZM11cZU) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB), [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Digital Charanga](https://open.spotify.com/artist/5QJLZDRwx6z7xCKkk9QmBu) | [Traicionera / El Reo Ausente \(Desorden Público rinde Homenaje al Indio Pastor López\)](https://open.spotify.com/album/0hFL6zBllV0W3f9HdvMgMz) | 2:51 | 2022-04-08 | 2023-03-03 |
 | [Tren a la Luna](https://open.spotify.com/track/6JCO6XWIAWAQcG2UG7pZAG) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 3:46 | 2022-04-08 | 2022-12-17 |
 | [Tren Al Sur](https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 5:36 | 2022-04-08 | 2022-12-17 |
+| [Tu mundo al revés](https://open.spotify.com/track/2BmAsbXWfUCLmuTSoRKvFy) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Tu mundo al revés](https://open.spotify.com/album/4ARJfbBo30TOBB7n1M9IUE) | 3:44 | 2023-04-28 |  |
 | [Tu mundo al revés](https://open.spotify.com/track/2xIa96oIh8soVkhCHGWvug) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Tu mundo al revés](https://open.spotify.com/album/6RbRANaLEgi48pHVCECIuI) | 3:44 | 2022-04-08 | 2023-04-30 |
 | [Tus Llamas \- En Vivo](https://open.spotify.com/track/6TDhK99NNoN9lUpx1Oibor) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Mar Adentro \(Sesiones\)](https://open.spotify.com/album/1wSPLIHDUR85GJVMPM5JdI) | 3:08 | 2022-04-08 | 2022-07-29 |
 | [Tú No Propones Na](https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 1:26 | 2022-04-08 | 2023-03-03 |

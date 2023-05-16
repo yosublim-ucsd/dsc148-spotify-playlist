@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Best of Bollywood dance from last 10 years\. Cover \- Roohi
+> Party\-ready, biggest Bollywood dance tracks of last 10 years\. Cover \- Mimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,046 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,909 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Gandi Baat](https://open.spotify.com/track/5kR5RZceCCPX3ks0rQP6kh) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [R...Rajkumar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63LbVjB7pLA3acQZuA7Gu7) | 4:09 |
 | 75 | [The Breakup Song \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/7BjQd0sfYsMGVrTpRdBNTT) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XfOSDomcrv4lDvlrxknlt) | 4:12 |
 
-Snapshot ID: `MCwwOTc5MDY3MDM1NjMyYjVmMWRmYzM1OGE4NjBmZWM1Nzc3YjAwZDgy`
+Snapshot ID: `MCw2ODFjNzJhMDExNDQ0ZmFkOTNlMGEwZmY1YmI5ZDhmN2EwNmM1M2Rh`

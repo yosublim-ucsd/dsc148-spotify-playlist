@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix
 
-467 songs - 1 day 1 hr 53 min
+468 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [Resist](https://open.spotify.com/track/3y3XOxFORmCpcnuEGSyJau) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Resist](https://open.spotify.com/album/3DKGDP3kgAPPIQYXo5ZdI3) | 3:23 | 2022-09-23 | 2023-01-21 |
 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 | 2022-10-28 |  |
 | [Reunite](https://open.spotify.com/track/2LzBgINM6AAjUHTflU4OiU) | [Minicied](https://open.spotify.com/artist/49UZ0RBgUl86yJ99YgQPhi) | [Reunite](https://open.spotify.com/album/6moBpoGzGg6wkyhks1tyZa) | 3:35 | 2022-12-16 | 2023-02-26 |
-| [Revolution](https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Revolution](https://open.spotify.com/album/6A1uNJqYuAhldH89hy70od) | 4:07 | 2023-01-06 |  |
+| [Revolution](https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Revolution](https://open.spotify.com/album/6A1uNJqYuAhldH89hy70od) | 4:07 | 2023-01-06 | 2023-05-16 |
 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 | 2023-02-24 |  |
 | [Ride With Me](https://open.spotify.com/track/23R3csDLEeDUkxuas66ECG) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Ride With Me](https://open.spotify.com/album/5hSPTMOJn2XATqYl7l14vc) | 2:52 | 2022-04-01 | 2022-08-20 |
 | [RIP](https://open.spotify.com/track/17dPQMxsqyWBlNI9mSyAmu) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [RIP](https://open.spotify.com/album/6vpLOIEk5TgMGHIk3OEfC5) | 3:42 | 2022-04-29 | 2022-08-20 |
@@ -390,6 +390,7 @@
 | [So Good](https://open.spotify.com/track/4LajgncdHI6ZdhkoS16gjX) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [So Good](https://open.spotify.com/album/3YIhzVAZTUKLIFDr2WwnOz) | 3:40 | 2022-01-14 | 2022-04-16 |
 | [Somebody To Love](https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Somebody To Love](https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim) | 2:39 | 2022-01-14 | 2022-01-22 |
 | [Somebody To Love \- Gorgon City Remix](https://open.spotify.com/track/4gJMsAYnnwNBsrhqjLWbWi) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Somebody To Love \(Gorgon City Remix\)](https://open.spotify.com/album/2Nt3fFGjvlgERESi1QtPjW) | 4:42 | 2022-01-21 | 2022-06-25 |
+| [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 |  |
 | [Something Going On 2022 \(feat\. Martha Wash & Jocelyn Brown\)](https://open.spotify.com/track/5bExqqlQbWM7LWeOK1ZzCR) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq), [Martha Wash](https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx) | [Something Going On 2022 \(feat\. Martha Wash & Jocelyn Brown\)](https://open.spotify.com/album/7Lqi1L3oTGhnHlwDhVgZmh) | 2:48 | 2022-04-01 | 2022-07-16 |
 | [Soul System](https://open.spotify.com/track/5LBALrbr55bXfJNb8dsWb1) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [ISOLAT003](https://open.spotify.com/album/1dQUrrp5pAkTvCcfzY2Mvh) | 3:43 | 2022-01-14 | 2022-01-22 |
 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-14 | 2022-11-19 |

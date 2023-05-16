@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127125,
+  "num_followers": 127128,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDE5MCw4MTg2MTIyOGU1ODM0MjZmMDZkN2UzZGIxYmU1ZDhiZWRiOWQ4M2Iw",
+  "snapshot_id": "NDE5NCxkZjEyYzUxNGJjYWNkNjQzMjE4OTI2NDAzZDkwMzQyNzBmZWMzYzFi",
   "tracks": [
+    {
+      "added_at": "2023-05-15 11:39:27",
+      "album": {
+        "name": "On The Inside",
+        "url": "https://open.spotify.com/album/6YaqphTghJSjHH0zcUYXq9"
+      },
+      "artists": [
+        {
+          "name": "Alex H",
+          "url": "https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB"
+        },
+        {
+          "name": "Matt Sky",
+          "url": "https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "On The Inside",
+      "url": "https://open.spotify.com/track/7ADnLRvlp5yDkC5VKvigOO"
+    },
+    {
+      "added_at": "2023-05-15 11:38:33",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/7DaTzlcbwZ1ulJT6bYJare"
+      },
+      "artists": [
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "About U",
+      "url": "https://open.spotify.com/track/6j0aEMAR0VppYk39s1hnw8"
+    },
     {
       "added_at": "2023-05-12 14:42:41",
       "album": {

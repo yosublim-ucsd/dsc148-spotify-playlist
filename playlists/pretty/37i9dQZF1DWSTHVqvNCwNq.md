@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 
 > Born in the Mississippi Delta \- at the turn of the 20th century \- the Delta Blues is one of the earliest and most influential styles of blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,968 likes - 46 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,995 likes - 46 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 | 45 | [Come On In My Kitchen](https://open.spotify.com/track/10W125nMbncRGcXRBoACOx) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:52 |
 | 46 | [Mississippi Bottom Blues](https://open.spotify.com/track/0trDFIYb4jdj9HOICf9dJc) | [Kid Bailey](https://open.spotify.com/artist/4yPQvmHuBCWokkEvXIvPUD) | [Son House & Great Delta Blues Singers 1928 \- 1930](https://open.spotify.com/album/2fLEYffzYZrGXm0NIfKBfO) | 2:49 |
 
-Snapshot ID: `MCwzZjIyOGVlNDg4MWU1NmI0MmQ4NThkZmVkMTBiZTFmZjUyYjA1ODlk`
+Snapshot ID: `MCwwODI2YzY1NzdiNjViYjhjZmQ3ZjI3ZmMxYWE5MWJjNzc5ZTY2NmMz`

@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff.
 
-414 songs - 1 day 0 hr 39 min
+415 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [GEEK OUT!](https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES), [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [GEEK OUT!](https://open.spotify.com/album/0pcNZasBNHBCU8MilSUv1X) | 3:04 | 2023-04-07 | 2023-05-05 |
 | [Ghost Town](https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 4:31 | 2020-12-31 | 2022-06-04 |
 | [Gimme Love \- Channel Tres Remix](https://open.spotify.com/track/45rFdiqdK7xjGb287C06bY) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Gimme Love \(Channel Tres Remix\)](https://open.spotify.com/album/7l2ZAKZIPZOhMQaNcPXbl3) | 3:16 | 2020-12-31 | 2022-07-24 |
+| [Gloria !](https://open.spotify.com/track/4u8O5o5Fnmo0wJLFZW1bxH) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Gloria !](https://open.spotify.com/album/1UNeoUG4ozukEzItkg3MVO) | 2:04 | 2023-05-15 |  |
 | [Go To Town](https://open.spotify.com/track/6iOvnACn4ChlAw4lWUU4dd) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:37 | 2020-12-31 | 2022-08-12 |
 | [go with u](https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP II](https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ) | 3:51 | 2022-05-31 |  |
 | [God's Plan](https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [God's Plan](https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5) | 2:46 | 2022-08-11 | 2022-11-12 |
@@ -354,7 +355,7 @@
 | [Tarantino](https://open.spotify.com/track/3FBiYeUHxCbgsQmRz10abu) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Atlas](https://open.spotify.com/album/26LTl351R5RC8NwHJkGV6P) | 3:23 | 2021-11-12 | 2022-07-29 |
 | [Tell Me Your Fears](https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tell Me Your Fears](https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS) | 2:14 | 2022-10-28 | 2023-01-04 |
 | [The Beginning](https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:01 | 2022-12-07 |  |
-| [The Coast](https://open.spotify.com/track/2INATzqXrQvaCQWL0RpC0k) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [The Coast](https://open.spotify.com/album/1gOk1PppEtDgAeEGbmS03a) | 3:08 | 2023-05-04 |  |
+| [The Coast](https://open.spotify.com/track/2INATzqXrQvaCQWL0RpC0k) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [The Coast](https://open.spotify.com/album/1gOk1PppEtDgAeEGbmS03a) | 3:08 | 2023-05-04 | 2023-05-16 |
 | [The Difference](https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV) | 2:19 | 2020-12-31 | 2022-08-12 |
 | [The Difference \- Extended](https://open.spotify.com/track/1ZtYQ0Xa0FceWOEYOjshui) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference \(Extended\)](https://open.spotify.com/album/0pG9gnZqvyWxbzw3NSYkmr) | 3:57 | 2020-12-31 | 2022-07-27 |
 | [The Leash](https://open.spotify.com/track/19xJaRGgOTrrQ7f75MaSkL) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [The Leash](https://open.spotify.com/album/5D6d0Wvf10kBGqhf4kHzsz) | 4:12 | 2023-05-04 |  |

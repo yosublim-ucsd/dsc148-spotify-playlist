@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 260581,
+  "num_followers": 260694,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODc4ZDJlOTA3OWZjOGRjMDhiODQ4MjFiNzBhNGJlMmMwMWI2Njcw",
+  "snapshot_id": "MCwwMjFlZWI1YzM0MDQyYjcwYjM4NzI5OGQ3OTQ3ZWQ2NTUwMmZiYTJj",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -327,6 +327,22 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
+        "name": "Techno Disco Tool (Radio Edit)",
+        "url": "https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq"
+      },
+      "artists": [
+        {
+          "name": "Mella Dee",
+          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+        }
+      ],
+      "duration_ms": 194307,
+      "name": "Techno Disco Tool - Radio Edit",
+      "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
         "name": "Torus",
         "url": "https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 228826,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "Techno Disco Tool (Radio Edit)",
-        "url": "https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq"
-      },
-      "artists": [
-        {
-          "name": "Mella Dee",
-          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
-        }
-      ],
-      "duration_ms": 194307,
-      "name": "Techno Disco Tool - Radio Edit",
-      "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -627,6 +627,22 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
+        "name": "The Renegade EP",
+        "url": "https://open.spotify.com/album/2nFqzhDJO6HBSQHGpsYhw7"
+      },
+      "artists": [
+        {
+          "name": "Friend Within",
+          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
+        }
+      ],
+      "duration_ms": 150703,
+      "name": "The Renegade",
+      "url": "https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
         "name": "No More Idols",
         "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 260426,
       "name": "Time",
       "url": "https://open.spotify.com/track/2HOMVMnOukowkziBJZyf7o"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "The Renegade EP",
-        "url": "https://open.spotify.com/album/2nFqzhDJO6HBSQHGpsYhw7"
-      },
-      "artists": [
-        {
-          "name": "Friend Within",
-          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
-        }
-      ],
-      "duration_ms": 150703,
-      "name": "The Renegade",
-      "url": "https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK"
     },
     {
       "added_at": "2020-11-06 16:59:04",

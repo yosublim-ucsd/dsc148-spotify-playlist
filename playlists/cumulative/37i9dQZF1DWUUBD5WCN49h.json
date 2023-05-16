@@ -7466,7 +7466,7 @@
     {
       "album": {
         "name": "Who Jah Bless",
-        "url": "https://open.spotify.com/album/62uQuYGHtnx0RP3zGF32Ei"
+        "url": "https://open.spotify.com/album/65REpLgTBfaSqHUt7rAOux"
       },
       "artists": [
         {
@@ -7477,6 +7477,24 @@
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Who Jah Bless",
+      "url": "https://open.spotify.com/track/16IVLOlgUsrF7u8TKSagxs"
+    },
+    {
+      "album": {
+        "name": "Who Jah Bless",
+        "url": "https://open.spotify.com/album/62uQuYGHtnx0RP3zGF32Ei"
+      },
+      "artists": [
+        {
+          "name": "CUBA",
+          "url": "https://open.spotify.com/artist/2THhXchAWxdQ9ZFtFgeg9A"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
       "duration_ms": 178775,
       "name": "Who Jah Bless",
       "url": "https://open.spotify.com/track/37DMRdeaoKAu2N5Db8SNfB"

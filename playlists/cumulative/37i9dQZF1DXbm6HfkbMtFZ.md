@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-501 songs - 1 day 6 hr 17 min
+502 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [Spirit](https://open.spotify.com/track/3u2WViddj3Zs5596XYsu7m) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/4J6wqBSyQiJDTedJbDs7YR) | 4:50 | 2022-03-30 | 2022-04-13 |
 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 | 2023-02-10 |  |
 | [Spread Lurve \- Original Mix](https://open.spotify.com/track/4clEDm1xBMwAl4uKo3wCFt) | [Pools](https://open.spotify.com/artist/4CVKH0jR8E2EjMGYN2Wi21) | [Innertubes](https://open.spotify.com/album/3ESWPoVJbo3tj9feBOhLD2) | 5:06 | 2021-12-16 | 2022-07-20 |
-| [Springtime Of The Year](https://open.spotify.com/track/6k6kXOLKlxjKCkCPi4yvp9) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [Strange Country](https://open.spotify.com/album/5SCvT76Uwe2hN7aWqAovMH) | 2:58 | 2023-04-25 |  |
+| [Springtime Of The Year](https://open.spotify.com/track/6k6kXOLKlxjKCkCPi4yvp9) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [Strange Country](https://open.spotify.com/album/5SCvT76Uwe2hN7aWqAovMH) | 2:58 | 2023-04-25 | 2023-05-16 |
 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 | 2023-03-24 |  |
 | [Still Feel Like Your Man](https://open.spotify.com/track/3pdWCmUno1bWzYIdYwoiMM) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything \- Wave Two](https://open.spotify.com/album/0i6oIJ53snlnCd7f2J5dJy) | 3:56 | 2022-03-30 | 2022-04-20 |
 | [Strangers \- Midnight Version](https://open.spotify.com/track/64zvm8cPbzOaybJmncO3AV) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans \(Midnight Versions\)](https://open.spotify.com/album/6kajeSMu59m5nlALjQrnZU) | 6:04 | 2022-02-23 | 2022-07-29 |
@@ -427,6 +427,7 @@
 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 | 2021-12-16 |  |
 | [The 1](https://open.spotify.com/track/7noKYyf85hoLDrUIE57lN5) | [Otis Junior](https://open.spotify.com/artist/3JWTfcIZq4OUdC6oBunofK), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Nova le grand mix 2016](https://open.spotify.com/album/1TlzWlyjSPJqgGi3nAnU8i) | 3:07 | 2022-03-30 | 2022-04-21 |
 | [The Dandelion](https://open.spotify.com/track/23JJ79DtsITIxMfcgYvxjY) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/5vat3mrJgQ9KbusWrt5kOM) | 3:39 | 2023-03-24 | 2023-04-30 |
+| [The Dandelion](https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG) | 3:39 | 2023-04-25 |  |
 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 | 2022-06-21 |  |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-12-16 | 2022-06-16 |
 | [The Keys](https://open.spotify.com/track/1s8NdAvVPL7MveFNADDkNj) | [Matt Duncan](https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl) | [Soft Times](https://open.spotify.com/album/0OLMUtL6pwJ4X4G1VTFq4C) | 3:37 | 2022-09-26 | 2023-03-25 |

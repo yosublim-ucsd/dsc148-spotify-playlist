@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 126212,
+  "num_followers": 126210,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjE1YmU1ZGE5NjQ1MzE0MjNhNDViOWY2ZjE4NTExZjE3ZWNjM2M2",
+  "snapshot_id": "MCxmNmZiMzc5ZjQxYjFlOWVlNmQ0YzFhY2ZlZmY4NWRlYTE1YTczMjk0",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -649,20 +649,24 @@
       "url": "https://open.spotify.com/track/4tHGsplffm1rxS33yrL59b"
     },
     {
-      "added_at": "2022-12-09 00:00:00",
+      "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "River (Live in Studio)",
-        "url": "https://open.spotify.com/album/46jfQXH6qpzGrE6Wo67jXk"
+        "name": "The Kacey Musgraves Christmas Show",
+        "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
       },
       "artists": [
         {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 243733,
-      "name": "River - Live in Studio",
-      "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
+      "duration_ms": 132108,
+      "name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
+      "url": "https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -685,24 +689,20 @@
       "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
     },
     {
-      "added_at": "2022-11-18 01:05:05",
+      "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "The Kacey Musgraves Christmas Show",
-        "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
+        "name": "River (Live in Studio)",
+        "url": "https://open.spotify.com/album/46jfQXH6qpzGrE6Wo67jXk"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
         }
       ],
-      "duration_ms": 132108,
-      "name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
-      "url": "https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC"
+      "duration_ms": 243733,
+      "name": "River - Live in Studio",
+      "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "A Holly Dolly Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV"
+        "name": "In the Bleak Midwinter",
+        "url": "https://open.spotify.com/album/5BH6HaosOth2jNBs7tANBK"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 201754,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/59zlM1isufljV8wUPby0rq"
+      "duration_ms": 203747,
+      "name": "In the Bleak Midwinter",
+      "url": "https://open.spotify.com/track/6bT0cqmIS5vjNSdidUyVaa"
     }
   ],
   "unique_name": "Easy Christmas",

@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/5s4eJ8bI2QJTrsd1tVHJet"
+      },
+      "artists": [
+        {
+          "name": "Leslie Powell",
+          "url": "https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194578,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/3lhEsT2z3kVegKaI05Osy5"
+    },
+    {
+      "album": {
         "name": "Could've Been Us",
         "url": "https://open.spotify.com/album/1VymWBVVHSJWZXILkquSiA"
       },

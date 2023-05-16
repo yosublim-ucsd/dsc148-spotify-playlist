@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-474 songs - 1 day 3 hr 39 min
+476 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Cookie From Space](https://open.spotify.com/track/7q2h3i7mn0mpO847Yo4rUC) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [A Cookie From Space](https://open.spotify.com/album/1QbTncSh1e7wfVvJXLEX4G) | 10:19 | 2022-07-07 | 2022-09-17 |
 | [A Moment Apart](https://open.spotify.com/track/4GWnEGVm89z7WSQ3BEuAN0) | [Matrx](https://open.spotify.com/artist/3UWM8Rb3JjZegw71LpCT6M) | [A Moment Apart](https://open.spotify.com/album/6tRgBvbPBZXCOaTPtv1Juz) | 3:34 | 2021-11-19 | 2022-02-19 |
 | [A Través del Tiempo Naranja](https://open.spotify.com/track/1VsQs5sy7vkeixrRmEIN91) | [Airdraw](https://open.spotify.com/artist/5aBN1E7wd2mJU0Ug8fG60K), [Jo.E](https://open.spotify.com/artist/1huIFRAUYkJ5VQ9GcXcUax) | [Océano Naranja](https://open.spotify.com/album/3QVXhWXUHXsVretMx71lb4) | 3:11 | 2021-11-19 | 2022-02-10 |
+| [About U](https://open.spotify.com/track/6j0aEMAR0VppYk39s1hnw8) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About U](https://open.spotify.com/album/7DaTzlcbwZ1ulJT6bYJare) | 3:18 | 2023-05-15 |  |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-10 | 2023-02-08 |
 | [Addiction](https://open.spotify.com/track/0XM2m2WD4G0mpQqf3LpBGK) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Addiction](https://open.spotify.com/album/4Jf40Z8SdqGDIjDarkfMDL) | 3:03 | 2022-03-25 | 2022-06-08 |
 | [Afraid of the Dark \- hayve Remix](https://open.spotify.com/track/6TGxVTSPgXV65MCYcaFf3P) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Sophiya](https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Afraid of the Dark \(hayve Remix\)](https://open.spotify.com/album/5FSRhgzGRiuilD0okKKDct) | 4:04 | 2022-12-12 | 2023-03-15 |
@@ -313,6 +314,7 @@
 | [October](https://open.spotify.com/track/3dI7bW8OnWBUCCeBNwQ08J) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [October](https://open.spotify.com/album/1qPdose5MyZE37xgnGKz1e) | 2:38 | 2022-10-11 | 2022-12-10 |
 | [ok](https://open.spotify.com/track/3yDg9UhdWmFlHsaJaN0GRI) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [ok](https://open.spotify.com/album/3beDdopYTPW97ZlnjWhBzm) | 2:45 | 2023-01-25 | 2023-04-12 |
 | [On The Beach](https://open.spotify.com/track/4I9lRMeXjpHClXcwXRi1nF) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [On The Beach](https://open.spotify.com/album/7CPGdJK8NmryBMVN78m7QY) | 3:12 | 2022-07-27 | 2022-10-08 |
+| [On The Inside](https://open.spotify.com/track/7ADnLRvlp5yDkC5VKvigOO) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB), [Matt Sky](https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC) | [On The Inside](https://open.spotify.com/album/6YaqphTghJSjHH0zcUYXq9) | 3:28 | 2023-05-15 |  |
 | [On The Run](https://open.spotify.com/track/0UABxGfYqdlM8ZorINo9Ia) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 4:02 | 2022-11-04 | 2023-01-28 |
 | [Once Upon A World](https://open.spotify.com/track/0OsxgJTV7hlPz6AkSW2Luz) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Once Upon A World](https://open.spotify.com/album/4mw0Q07pxSpQEmS7QuOBRy) | 3:27 | 2022-08-31 | 2022-11-04 |
 | [Only Wide Open Space And Me](https://open.spotify.com/track/3g2vHR1LE5Buctsm2pLQdb) | [Andromedha](https://open.spotify.com/artist/1naIVJt93vo4NJ3UHT6O8q) | [Only Wide Open Space And Me](https://open.spotify.com/album/1wGPEIf0MeTsULFOwbT9zx) | 4:19 | 2022-07-20 | 2022-10-01 |

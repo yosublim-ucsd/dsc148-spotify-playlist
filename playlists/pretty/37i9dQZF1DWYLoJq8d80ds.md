@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Soledad
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,028 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,072 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 33 | [La Valeria](https://open.spotify.com/track/7Besg1YcPga8EJ02iLgdPu) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Valeria](https://open.spotify.com/album/6De88pg9PiStK2WQlaISGx) | 3:57 |
 | 34 | [La Solis Pizarro](https://open.spotify.com/track/5zoqKvQ83lGJHqR8fgTaMp) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl), [Juan Carlos Saravia](https://open.spotify.com/artist/13LOz2VKVlze8p2qI6wxBB), [Polo Roman](https://open.spotify.com/artist/6673jOuAu0GvEV14y2C1Bh), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 3:04 |
 | 35 | [La Luna](https://open.spotify.com/track/4kB424UGrgh2zLd2N9QNhs) | [Orellana Lucca](https://open.spotify.com/artist/1Sbn533a3TmseHmdYtGElm) | [Hermanos](https://open.spotify.com/album/6ekkixuu37TIHvhbhBgE2W) | 2:32 |
-| 36 | [Hay Amores que Matan](https://open.spotify.com/track/2FPOXYQnJRORQdRxy2nQzz) | [Ricardo Palavecino](https://open.spotify.com/artist/0Fb3MQOrO8SlKdeVtMB75H) | [Coplas Viajeras](https://open.spotify.com/album/4qJQXvSgPdJz3crYm4t0uO) | 3:06 |
+| 36 | [Hay Amores que Matan](https://open.spotify.com/track/1GFf0SJRyglqz9NmkWmI9c) | [Ricardo Palavecino](https://open.spotify.com/artist/0Fb3MQOrO8SlKdeVtMB75H) | [Coplas Viajeras](https://open.spotify.com/album/031ofAXQHoOE98pHJhAwNy) | 3:06 |
 | 37 | [La Llama Que Baila](https://open.spotify.com/track/2bE2o6uuAZd8CucKx76EPi) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [La Llama Que Baila](https://open.spotify.com/album/3Zj3OUifY3N2Tg26aQpMcK) | 2:54 |
 | 38 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 |
 | 39 | [Viaje](https://open.spotify.com/track/1sx0wAmnvniAus4EJzIN5g) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Viaje](https://open.spotify.com/album/3GVVx7A9HewidYwsqs518a) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 99 | [Nuestras Flores](https://open.spotify.com/track/6wk1i2Wi2eYX4YjPoGnljA) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Nuestras Flores](https://open.spotify.com/album/6DE4XqVKpCNKf59JvyIcRE) | 4:29 |
 | 100 | [Lo Jujeño](https://open.spotify.com/track/74WFDFXIP58qhGYkklkH20) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Lo Jujeño](https://open.spotify.com/album/5ruxuaQ8tKTXlNMqSZu3hX) | 2:14 |
 
-Snapshot ID: `MCwzY2NiNTNmODEwNzlhZjA2NzFjN2E5MzFmZDQ3ZGJiNTY3Y2I1MDA2`
+Snapshot ID: `MCxlY2EyZmQzZDJjZDU1ZmYyYjU4Y2FkNTQ1ZWM5ZDhmMDQ5ZDFmMzIw`

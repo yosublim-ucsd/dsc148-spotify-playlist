@@ -4,7 +4,7 @@
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-59 songs - 5 hr 52 min
+60 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,9 +59,10 @@
 | [Tend](https://open.spotify.com/track/21OxPURFtFrTwWGq9aJCju) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Simple](https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q) | 4:53 | 2023-03-17 |  |
 | [The Blessing](https://open.spotify.com/track/5cebPQVq4mdFykugzU2LfU) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 6:54 | 2023-03-17 |  |
 | [The Great Beyond](https://open.spotify.com/track/0Oo7srQNAnA6RsPPBMTu7m) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 6:14 | 2023-03-27 |  |
+| [The Light in You](https://open.spotify.com/track/4dx1Mf0Cl6luHghe58xKAV) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 4:23 | 2023-05-15 |  |
 | [Too Good To Not Believe \- Live](https://open.spotify.com/track/2ZUEopklc3lUm4OXUPB6WS) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Too Good To Not Believe \(Live\)](https://open.spotify.com/album/2KgvpDpy6tpCQoqy3ZzwIZ) | 10:33 | 2023-03-17 |  |
 | [Tremble](https://open.spotify.com/track/4cMLthbMtEEghWm4C6jkfO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2) | 3:21 | 2023-03-17 |  |
-| [Victory Is Yours \- Live](https://open.spotify.com/track/42bdU7oDyRvyRXaKbUrtfu) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 5:33 | 2023-04-11 |  |
+| [Victory Is Yours \- Live](https://open.spotify.com/track/42bdU7oDyRvyRXaKbUrtfu) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 5:33 | 2023-04-11 | 2023-05-16 |
 | [We Dance \- Live](https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 4:41 | 2023-03-17 |  |
 | [We Praise You \- Live](https://open.spotify.com/track/4ECDvXMDVz3nUXfZOqF9j2) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 6:56 | 2023-03-17 |  |
 | [What a Beautiful Name](https://open.spotify.com/track/4VB43SPyiTaV9FfXH6522J) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2) | 4:56 | 2023-03-17 |  |

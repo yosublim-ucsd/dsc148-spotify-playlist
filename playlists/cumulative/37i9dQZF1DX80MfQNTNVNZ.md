@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-373 songs - 22 hr 17 min
+374 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Can't Believe It](https://open.spotify.com/track/2HSqwCmrdzGYPLi26mMtNG) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Can't Believe It](https://open.spotify.com/album/2iwGkNuvY89nmsTlAGZ22r) | 4:39 | 2021-12-23 | 2022-07-29 |
 | [Capsule](https://open.spotify.com/track/7n5quXV8nb108gmlx5hJQR) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [Daigo Sakuragi](https://open.spotify.com/artist/6BF6Gk8IqAmYS9QqefDi6j) | [Capsule](https://open.spotify.com/album/6V8jaLhSIrT0vT2SJhV2q4) | 3:31 | 2022-03-24 | 2022-05-26 |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2023-02-27 |  |
-| [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-16 |  |
+| [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-16 | 2023-05-16 |
 | [Casamigos](https://open.spotify.com/track/2cInRmurD2x3762s4v5sS3) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Casamigos](https://open.spotify.com/album/3RgT3jyo3OmDgtCMMMNCdW) | 2:26 | 2021-12-23 | 2022-07-20 |
 | [Catharsis](https://open.spotify.com/track/2cWAfOTxFrCPJ6rZU5WqDG) | [Master Soul Boy](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Catharsis](https://open.spotify.com/album/2ClfWMCvHw0GhAKAS5EVMa) | 2:24 | 2021-12-23 | 2022-07-28 |
 | [Come Together](https://open.spotify.com/track/1l32mo5oW5oIRRjNnVJBNR) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 3:40 | 2022-03-24 | 2022-04-19 |
@@ -170,6 +170,7 @@
 | [Life Vest](https://open.spotify.com/track/3xykBxrjAoAgl7A4akYnXZ) | [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Life Vest](https://open.spotify.com/album/31aRS632oWnSjqYFvA4eve) | 2:39 | 2021-12-23 | 2022-07-12 |
 | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/track/0M4GK1taHqdIOuvXnEJFiw) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/album/6j5rt47tD2qb4PzsvZKL1K) | 3:11 | 2021-12-23 | 2022-04-20 |
 | [Lights Up \(feat\. Channel Tres\) \- Myd Remix](https://open.spotify.com/track/5B1JcoxYjVjRNt2ZJyraJT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lights Up \(feat\. Channel Tres\) \[Myd Remix\]](https://open.spotify.com/album/6uf2MqhxoUOvQ8tyUWOLk8) | 3:35 | 2022-03-31 | 2022-04-17 |
+| [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-11 |  |
 | [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 | 2021-12-23 |  |
 | [LMKWYGH](https://open.spotify.com/track/2wiIWQzSZ06GbgkABk4pT6) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 6:15 | 2022-08-18 | 2023-01-20 |
 | [Lonely](https://open.spotify.com/track/6upMBb2trQvnIGe8Ho1ZgE) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Secret Night Gang](https://open.spotify.com/album/7uepmRsBVVSXRvIxSPTtlX) | 3:52 | 2022-03-31 | 2022-04-13 |

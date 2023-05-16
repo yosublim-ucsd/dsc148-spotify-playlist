@@ -4,7 +4,7 @@
 
 > LOVE and SAD SONGS...🥺all time best hits ❤️‍🩹\(Hindi\), POV, Love songs, 2023\. 2022, Hits, Bollywood hits, Arijit Singh Hits
 
-138 songs - 10 hr 40 min
+139 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Hasi \- Female Version](https://open.spotify.com/track/1cmZbGkCEVVAck2MsWpPYQ) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Hamari Adhuri Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM) | 3:12 | 2022-01-18 |  |
 | [Hasi \- Male Version](https://open.spotify.com/track/32765xcLM1fd6wQIpkN9A0) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z) | [Hamari Adhuri Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM) | 4:32 | 2021-07-05 |  |
 | [Hawayein \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/track/6871FKHumiy1Wfr6vF7Xxt) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Hawayein \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/album/4oKe6f61RFvmSLaDQ3vnnF) | 4:49 | 2021-08-03 |  |
+| [Hawayein \- Tabla Mix](https://open.spotify.com/track/6SCT13Z8oCcZQ8gDMnXYKt) | [Vaibhav Verma](https://open.spotify.com/artist/5L9Yo4UhR3CRfnhQZujsoV), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Hawayein \(Tabla Mix\)](https://open.spotify.com/album/1KXnLF6WrBqnkFyOvTETd5) | 2:42 | 2023-05-15 |  |
 | [Hosanna](https://open.spotify.com/track/5NChQ2tXB9q9D8kdkLTWOL) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Leon D'souza](https://open.spotify.com/artist/71Rv7hyuI5904jgrtT4IN9), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf) | [Ekk Deewana Tha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7u8VFwwX4grIUnuHriflDf) | 5:31 | 2021-12-14 |  |
 | [Humnava](https://open.spotify.com/track/5lLRB1nnTy1p8nFaH1Vdyf) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Hamari Adhuri Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM) | 5:28 | 2021-10-19 |  |
 | [Iktara](https://open.spotify.com/track/3jtKSUiVDowKNBqVQbWaig) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:13 | 2022-02-04 |  |

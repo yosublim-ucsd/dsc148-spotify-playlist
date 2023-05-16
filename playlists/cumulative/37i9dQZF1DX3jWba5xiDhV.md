@@ -4,18 +4,19 @@
 
 > When the dance floor calls your name, that's amore.
 
-157 songs - 13 hr 47 min
+158 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Che Ora l'Amore \- Hifi Sean Remix](https://open.spotify.com/track/41wb5f7IitZ4rf5uBbeVm7) | [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [Airys](https://open.spotify.com/artist/2yB8B2iuGUq3Uj1itIAaDc), [Hifi Sean](https://open.spotify.com/artist/4r3RNyF5sHrEh1ds9mTr3o) | [A Che Ora l'Amore \(Remixes\)](https://open.spotify.com/album/1gHCZYGQQaLN5ilOeaAuaH) | 6:36 | 2022-02-11 | 2022-03-22 |
 | [African Love Song](https://open.spotify.com/track/2YqvhES7UxrkgvuP0tRz8m) | [Gepy](https://open.spotify.com/artist/1BDX9PXYrNeqP1gJPhZmZB) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 6:44 | 2022-02-11 | 2022-09-09 |
+| [African Love Song](https://open.spotify.com/track/6fAKxZoefMTrnWEiBasNhJ) | [Gepy](https://open.spotify.com/artist/1BDX9PXYrNeqP1gJPhZmZB) | [Disco Italia EP](https://open.spotify.com/album/2BXanfr9DTGseIlsNTBXMj) | 6:44 | 2023-04-19 |  |
 | [Amore Selvaggio \- Original Mix](https://open.spotify.com/track/6Wjswxv89qGRzOqUir9rti) | [Marli Blu](https://open.spotify.com/artist/0POkYcabPyOQvMtWuz2oMi), [Marco Moschino](https://open.spotify.com/artist/7bp9letY7qujRiyQOrTJbs) | [Amore Selvaggio](https://open.spotify.com/album/1wBIOfN5TdZ28GjPfkEsSk) | 5:00 | 2022-02-11 | 2022-07-29 |
 | [Another Life \- Original](https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb) | [Another Life \(LP\)](https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw) | 7:12 | 2022-02-11 |  |
 | [Around My Dream](https://open.spotify.com/track/5B3TMEr7VXZ2zQaEaTB9M6) | [Silver Pozzoli](https://open.spotify.com/artist/6CY5pbdf5XDjkJf8lAaljU) | [Disco and Dance Hits Made in Italy](https://open.spotify.com/album/2i1MKYNpi0tXfSzpU4nLRu) | 3:35 | 2022-02-11 | 2022-07-29 |
 | [Automatic Dub](https://open.spotify.com/track/1vu5RVntahCOW5bdwdJRTV) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24) | [Automatic Dub 2](https://open.spotify.com/album/2gALEQAxbisVObFd0dfwwG) | 6:36 | 2022-10-07 |  |
 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 | 2022-02-11 |  |
-| [Baila Bolero \- Marc Hartman Remix](https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ), [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [Baila Bolero \(Marc Hartman Remix\)](https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4) | 5:00 | 2022-07-01 |  |
+| [Baila Bolero \- Marc Hartman Remix](https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ), [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [Baila Bolero \(Marc Hartman Remix\)](https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4) | 5:00 | 2022-07-01 | 2023-05-16 |
 | [Balla Ba](https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tac..!](https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT) | 3:56 | 2022-02-11 |  |
 | [Bambina \(Original 12\-Inch Version\)](https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD) | [David Lyme](https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1) | [Bambina c/o Bye Bye Mi Amor](https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb) | 5:31 | 2022-07-01 | 2022-12-29 |
 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 | 2022-02-11 |  |

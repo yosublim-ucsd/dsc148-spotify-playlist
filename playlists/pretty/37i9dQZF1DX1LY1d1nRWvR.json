@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 26515,
+  "num_followers": 26532,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTllYTUzOGNhMDM2OWNjOThiZTc0NTViNGUxMGY0MGE0NzRlN2Mz",
+  "snapshot_id": "MCxmMThiYzFjZDIzYTIxN2UyMjA5ODgwNWJiMjY0MzUzZjc1NWNiZGY1",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Model Man",
-        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Alfa",
         "url": "https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY"
       },
@@ -171,26 +155,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Soweto Blues",
-        "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
+        "name": "Model Man",
+        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Busiswa",
-          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
         }
       ],
-      "duration_ms": 298997,
-      "name": "Soweto Blues",
-      "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
+      "duration_ms": 245653,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -251,6 +227,30 @@
       "duration_ms": 458605,
       "name": "Lost Kingdoms",
       "url": "https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Soweto Blues",
+        "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 298997,
+      "name": "Soweto Blues",
+      "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "When You Focus On The Good The Good Gets Better",
-        "url": "https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm"
-      },
-      "artists": [
-        {
-          "name": "Devante Embers",
-          "url": "https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT"
-        }
-      ],
-      "duration_ms": 428023,
-      "name": "When You Focus On The Good The Good Gets Better",
-      "url": "https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Trips #2: Vietnam",
         "url": "https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "When You Focus On The Good The Good Gets Better",
+        "url": "https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm"
+      },
+      "artists": [
+        {
+          "name": "Devante Embers",
+          "url": "https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT"
+        }
+      ],
+      "duration_ms": 428023,
+      "name": "When You Focus On The Good The Good Gets Better",
+      "url": "https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Houses",
-        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
-      },
-      "artists": [
-        {
-          "name": "Steve Spacek",
-          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
-        }
-      ],
-      "duration_ms": 450950,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "The Return",
         "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 224500,
       "name": "A Place With A View - Edit",
       "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Houses",
+        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
+      },
+      "artists": [
+        {
+          "name": "Steve Spacek",
+          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
+        }
+      ],
+      "duration_ms": 450950,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
     },
     {
       "added_at": "2021-10-08 17:36:35",

@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 4698,
+  "num_followers": 4720,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2Y2ODQ0ZDE5YTdjNzlhNWUzODAwZWIwZTdlNzE1Mzc3MDc3NTll",
+  "snapshot_id": "MCwxNjFjMmQ0NGRjYzhjZDNhOTViMGY2ZGQzMDg2YWYxYTAxNjBhYTRk",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 167360,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -267,6 +267,26 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Stacked Deck (Remastered)",
         "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 178853,
       "name": "They're Red Hot - SA.2627-1",
       "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -519,6 +519,38 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Back Water Blues",
+      "url": "https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Too Bad Jim",
+        "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Freddy King Sings",
         "url": "https://open.spotify.com/album/6Y8ECXmI1sZ10MKFZ3Grgs"
       },
@@ -551,34 +583,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Too Bad Jim",
-        "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
+        "name": "Crawfish Fiesta (Remastered with Bonus Track)",
+        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
       },
       "artists": [
         {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
-        "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Back Water Blues",
-      "url": "https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh"
+      "duration_ms": 193880,
+      "name": "Crawfish Fiesta - Remastered",
+      "url": "https://open.spotify.com/track/7plpvSLmnPIfd7GLY47pIn"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -631,22 +647,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Crawfish Fiesta (Remastered with Bonus Track)",
-        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Crawfish Fiesta - Remastered",
-      "url": "https://open.spotify.com/track/7plpvSLmnPIfd7GLY47pIn"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "I See a Man Downstairs",
         "url": "https://open.spotify.com/album/55pXKlTlKOo5sm03vJwOOR"
       },
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34"
     },
     {
-      "added_at": "2023-05-15 00:40:02",
-      "album": {
-        "name": "Ridin'",
-        "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 323280,
-      "name": "Ridin'",
-      "url": "https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U"
-    },
-    {
       "added_at": "2022-12-02 14:28:08",
       "album": {
         "name": "Lead Belly: The Smithsonian Folkways Collection",
@@ -711,6 +695,22 @@
       "duration_ms": 152700,
       "name": "Pigmeat",
       "url": "https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S"
+    },
+    {
+      "added_at": "2023-05-16 01:19:30",
+      "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 323280,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Best Of Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5sPN3eUflNZkCAecJYENg4"
+        "name": "Horrifying Deatheating Bloodspider",
+        "url": "https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs"
       },
       "artists": [
         {
-          "name": "Jesse Stone",
-          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
         }
       ],
-      "duration_ms": 191093,
-      "name": "Cole Slaw (Sorghum Switch)",
-      "url": "https://open.spotify.com/track/65IsjanqyiA4RD8n564Po6"
+      "duration_ms": 135853,
+      "name": "Get the Moon Up",
+      "url": "https://open.spotify.com/track/3OU19imtvnEfnNbMwiyRDO"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -839,6 +839,22 @@
       "duration_ms": 162800,
       "name": "Blue Monday - Remastered",
       "url": "https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
+        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Gimme a Pigfoot and a Bottle of Beer",
+      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -863,34 +879,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
-        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
+        "name": "Best Of Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5sPN3eUflNZkCAecJYENg4"
       },
       "artists": [
         {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+          "name": "Jesse Stone",
+          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Gimme a Pigfoot and a Bottle of Beer",
-      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Horrifying Deatheating Bloodspider",
-        "url": "https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 135853,
-      "name": "Get the Moon Up",
-      "url": "https://open.spotify.com/track/3OU19imtvnEfnNbMwiyRDO"
+      "duration_ms": 191093,
+      "name": "Cole Slaw (Sorghum Switch)",
+      "url": "https://open.spotify.com/track/65IsjanqyiA4RD8n564Po6"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "I Was a Mod Before You Were a Mod Vol. 2",
-        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
-      },
-      "artists": [
-        {
-          "name": "Jesse Stone",
-          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
-        }
-      ],
-      "duration_ms": 137534,
-      "name": "Crawfish",
-      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
         "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Atomic Cocktail - Legendary Slim Gaillard",
-        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
+        "name": "I Was a Mod Before You Were a Mod Vol. 2",
+        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
       },
       "artists": [
         {
-          "name": "Slim Gaillard",
-          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+          "name": "Jesse Stone",
+          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
         }
       ],
-      "duration_ms": 163760,
-      "name": "Atomic Cocktail",
-      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
+      "duration_ms": 137534,
+      "name": "Crawfish",
+      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1151,6 +1135,22 @@
       "duration_ms": 149746,
       "name": "Fat Meat 'n Greens",
       "url": "https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Atomic Cocktail - Legendary Slim Gaillard",
+        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
+      },
+      "artists": [
+        {
+          "name": "Slim Gaillard",
+          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "Atomic Cocktail",
+      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
     },
     {
       "added_at": "2022-12-02 14:28:08",

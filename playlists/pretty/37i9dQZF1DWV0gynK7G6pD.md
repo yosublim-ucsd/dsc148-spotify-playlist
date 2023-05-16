@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Esther Abrami
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,268 likes - 68 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,385 likes - 68 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 67 | [Concerto for Violin and Orchestra: III\. Allegretto](https://open.spotify.com/track/0dDHVdXM3mLaA7VMGWvD14) | [Malek Jandali](https://open.spotify.com/artist/0u0cliMTvQE65IAOP249sx), [Marin Alsop](https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr), [ORF Vienna Radio Symphony Orchestra](https://open.spotify.com/artist/1OvvoI3xjRgd6L8ddzsBqR), [Rachel Barton Pine](https://open.spotify.com/artist/4st8QHJeSvWO1D4OPUgFaf) | [Malek Jandali: Concertos \(1\)](https://open.spotify.com/album/352k1BDQhcORfR3o1BsUZe) | 8:35 |
 | 68 | [Venus In Furs \- David Le Page Version](https://open.spotify.com/track/7hqjCzyMMENlhSEa2ZUB8S) | [David le Page](https://open.spotify.com/artist/2ibsbvp3eHcQOgxZxVsk8x), [Orchestra of the Swan](https://open.spotify.com/artist/4Q6c37zCXu7UvWmUcROoVq), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1) | [Echoes](https://open.spotify.com/album/0ZG8EeBJqz9E8hhNUVFcjW) | 5:14 |
 
-Snapshot ID: `MCxjZjM5YTk1MWRhZGQ4ZmJkN2U1MWExOGFhN2ZjOTg4YjI4MzcwZDY2`
+Snapshot ID: `MCxjZDRjYzhhMTZhNmJjYjAxMDM3YmZiZWQ1MjAyYjU5NDBiYzJkYjJm`

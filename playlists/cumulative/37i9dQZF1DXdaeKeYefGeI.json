@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 250666,
       "name": "Altijd Dorst",
       "url": "https://open.spotify.com/track/3HyWVDESd05MxK1S23eMm3"
@@ -506,6 +506,24 @@
       "duration_ms": 263400,
       "name": "De steen",
       "url": "https://open.spotify.com/track/0C6fXVxj0nPqjkp59RpDjm"
+    },
+    {
+      "album": {
+        "name": "Voltooid Verleden Tijd",
+        "url": "https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO"
+      },
+      "artists": [
+        {
+          "name": "Bram Vermeulen",
+          "url": "https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301506,
+      "name": "De wedstrijd",
+      "url": "https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e"
     },
     {
       "album": {

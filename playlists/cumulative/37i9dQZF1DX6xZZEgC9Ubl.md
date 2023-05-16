@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-797 songs - 1 day 12 hr 8 min
+798 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [Promises](https://open.spotify.com/track/2h4xaIcu1FHTEsvXFaXRz1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Promises](https://open.spotify.com/album/6bHxfCiCr8yl4ekvmiqKd8) | 2:37 | 2020-12-13\* | 2021-06-19 |
 | [Proud of Myself](https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Proud of Myself](https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq) | 1:49 | 2022-10-07 |  |
 | [Psycho!](https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 3:17 | 2020-12-13\* |  |
+| [Push Me Away \(feat\. Remington Leith of Palaye Royale\)](https://open.spotify.com/track/12JSxSPqJWXttqi2dJvYRh) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Do You Like Me Now \(feat\. Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv) | 2:49 | 2023-05-15 |  |
 | [Rather Do](https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Childhood Dreams](https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4) | 2:15 | 2022-05-23 |  |
 | [Read Your Mind](https://open.spotify.com/track/3riUOEnx6x0k9M9uvFHsff) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Read Your Mind](https://open.spotify.com/album/2nrep2RHAvqhNvIIaMfM0B) | 3:08 | 2023-01-27 | 2023-04-11 |
 | [Real Shit \(with benny blanco\)](https://open.spotify.com/track/3uVPLtkmDu8pDkYEAVqbgS) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Real Shit \(with benny blanco\)](https://open.spotify.com/album/16EqCl0UoPe3xSIFg4xO6T) | 3:03 | 2020-12-13\* | 2022-02-15 |
@@ -585,7 +586,7 @@
 | [SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:46 | 2022-07-22 | 2022-09-24 |
 | [saddest soundtrack](https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [saddest soundtrack](https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7) | 2:49 | 2022-09-23 | 2022-12-10 |
 | [Safe Zone](https://open.spotify.com/track/6JzZwGyrjWIAZrVoAjSMw2) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Safe Zone](https://open.spotify.com/album/0oYq4KPQO3VBWQpNF8eI4a) | 2:35 | 2021-01-15 | 2021-04-24 |
-| [Salt](https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:43 | 2022-10-07 |  |
+| [Salt](https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:43 | 2022-10-07 | 2023-05-16 |
 | [Salt](https://open.spotify.com/track/6zYuVQdkZNbeqx5UMmoAOH) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Salt](https://open.spotify.com/album/6ups5M7odd5WAoRPBa6QVk) | 2:45 | 2022-05-27 | 2022-09-17 |
 | [Same Room](https://open.spotify.com/track/6cUwBCnf5yiBkUwExpcni2) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Same Room](https://open.spotify.com/album/5YkVPpSWxikAxEn48uU6Mp) | 3:22 | 2022-05-13 | 2022-05-17 |
 | [Sarcoma](https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [The Two of Us Are Dying](https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu) | 2:14 | 2022-07-22 |  |

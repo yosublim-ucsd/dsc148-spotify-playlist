@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 32421,
+  "num_followers": 32512,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGU2YzhlODc1MzA3ZmZhNWU4NThhMTVkODBhMmI3ZGJhZWJiZjg3",
+  "snapshot_id": "MCxhNGM0MzZiM2E4ZWMxNjYzY2Y5NWI0ZWU3NjQ5NTJiMWRhZWRmYzFi",
   "tracks": [
     {
       "added_at": "2023-05-11 23:00:00",
@@ -279,18 +279,26 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
+        "name": "3,14",
+        "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
         }
       ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
+      "duration_ms": 324763,
+      "name": "3,14",
+      "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -403,26 +411,18 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "3,14",
-        "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
       },
       "artists": [
         {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        },
-        {
-          "name": "Sam The Kid",
-          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 324763,
-      "name": "3,14",
-      "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
+      "duration_ms": 243180,
+      "name": "Do You No Wrong",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -475,6 +475,22 @@
       "duration_ms": 194526,
       "name": "Nha Love",
       "url": "https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Farda",
+        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
+      },
+      "artists": [
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 189011,
+      "name": "Farda",
+      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -559,22 +575,6 @@
       "duration_ms": 313825,
       "name": "Dama & Vagabundo",
       "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Farda",
-        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
-      },
-      "artists": [
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 189011,
-      "name": "Farda",
-      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Salto Alto",
-        "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
-      },
-      "artists": [
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        }
-      ],
-      "duration_ms": 219968,
-      "name": "Salto Alto",
-      "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Eurotape",
         "url": "https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 176000,
       "name": "Fada",
       "url": "https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Salto Alto",
+        "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "duration_ms": 219968,
+      "name": "Salto Alto",
+      "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "GUUD",
         "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 168631,
       "name": "GUUD",
       "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Compensa",
+        "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Compensa",
+      "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "LUZ",
         "url": "https://open.spotify.com/album/2EihWuZWFX3O8L6kSPGmm6"
       },
@@ -1203,6 +1219,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Golo",
+        "url": "https://open.spotify.com/album/4xIBKZiRrMQVeL45RJmb3x"
+      },
+      "artists": [
+        {
+          "name": "Ricky Boy",
+          "url": "https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ"
+        }
+      ],
+      "duration_ms": 145549,
+      "name": "Golo",
+      "url": "https://open.spotify.com/track/1u8ZgP6zZOdT9pUUrq3lfq"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Filtros",
         "url": "https://open.spotify.com/album/1lDlsWp44yKP7kCe04msjo"
       },
@@ -1223,18 +1255,18 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Compensa",
-        "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
       "artists": [
         {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Compensa",
-      "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
+      "duration_ms": 256144,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1263,22 +1295,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Golo",
-        "url": "https://open.spotify.com/album/4xIBKZiRrMQVeL45RJmb3x"
-      },
-      "artists": [
-        {
-          "name": "Ricky Boy",
-          "url": "https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ"
-        }
-      ],
-      "duration_ms": 145549,
-      "name": "Golo",
-      "url": "https://open.spotify.com/track/1u8ZgP6zZOdT9pUUrq3lfq"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "HEADS or TAILS",
         "url": "https://open.spotify.com/album/1AMSJVpNiXRLssl0IZd8WS"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 221597,
       "name": "HEADS or TAILS",
       "url": "https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 256144,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
     },
     {
       "added_at": "2023-05-11 23:00:00",

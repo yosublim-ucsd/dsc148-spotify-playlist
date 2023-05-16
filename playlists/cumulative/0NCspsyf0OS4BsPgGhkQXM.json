@@ -10343,6 +10343,32 @@
     },
     {
       "album": {
+        "name": "Outta my head",
+        "url": "https://open.spotify.com/album/0xsbdCQqV9Rl4K0d82aOe0"
+      },
+      "artists": [
+        {
+          "name": "Omido",
+          "url": "https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh"
+        },
+        {
+          "name": "Rick Jansen",
+          "url": "https://open.spotify.com/artist/53lSnB02n045g5jMu0ItCz"
+        },
+        {
+          "name": "Ordell",
+          "url": "https://open.spotify.com/artist/1sQcw2YF60pAu0HYJzUhKN"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161772,
+      "name": "Outta my head",
+      "url": "https://open.spotify.com/track/1joXqptvn9OgoDbXA1S3p7"
+    },
+    {
+      "album": {
         "name": "Overflow",
         "url": "https://open.spotify.com/album/20U8HQGNGCy5vBVq0xfxRp"
       },
@@ -15095,7 +15121,7 @@
     },
     {
       "album": {
-        "name": "WANT 2",
+        "name": "WANT 2 (feat. Snoop Dogg)",
         "url": "https://open.spotify.com/album/4HGwuo32aQEziAi12CdUXc"
       },
       "artists": [
@@ -15120,7 +15146,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158313,
-      "name": "WANT 2",
+      "name": "WANT 2 (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/1sPaKzY12RpRuY0IeFcaPM"
     },
     {

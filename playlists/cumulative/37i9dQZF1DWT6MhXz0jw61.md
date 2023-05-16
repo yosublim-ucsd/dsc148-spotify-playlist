@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-505 songs - 1 day 3 hr 29 min
+506 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Rather Be Myself](https://open.spotify.com/track/3vf57juoC9JZgogZlTQehW) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Rather Be Myself](https://open.spotify.com/album/0ffkK86WkytCNghaaRJ2wP) | 2:28 | 2021-06-18 | 2022-05-14 |
 | [Real Ones](https://open.spotify.com/track/364iH9PRTLwG7Lvr3MqPpa) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Real Ones](https://open.spotify.com/album/68H6LwUmQnUtRxVitstmt4) | 3:48 | 2023-02-24 |  |
 | [Real Real \(feat\. Kent Jamz\)](https://open.spotify.com/track/2UagseAW7ztpQdFtrvLlzW) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [Real Real \(feat\. Kent Jamz\)](https://open.spotify.com/album/21BHBTRvTbeWcDxzVkJ2pr) | 4:45 | 2021-11-19 | 2022-06-30 |
+| [Rebuke](https://open.spotify.com/track/4XE1StBll9KcNa8nHa3nXG) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Rebuke](https://open.spotify.com/album/4dWpQRkca47a9fA7W78rY3) | 2:03 | 2023-05-15 |  |
 | [Recovery](https://open.spotify.com/track/4yWdRcCoSr0PBCXWbbFVKm) | [ArmstrongWW](https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn) | [Recovery](https://open.spotify.com/album/6dgpURkZ5slU5jlqVjNR7I) | 2:44 | 2023-02-10 | 2023-03-04 |
 | [Red Book Chronicles](https://open.spotify.com/track/6XoC29gKDOQkmIkI0k2VCx) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx) | [Into The Late Night](https://open.spotify.com/album/5k3e7zBpog1RBBZKJiWSb6) | 3:07 | 2021-09-24 | 2022-05-28 |
 | [Ride Wit Me](https://open.spotify.com/track/0M4qPmc8oKfxOb7CGApadS) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy), [Fly Anakin](https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF) | [BAG TALK DELUXE](https://open.spotify.com/album/4AvSfougaFVvHJDVB3w0Or) | 3:04 | 2022-11-11 | 2022-12-17 |

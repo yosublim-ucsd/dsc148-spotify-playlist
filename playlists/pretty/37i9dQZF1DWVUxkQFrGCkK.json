@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 167979,
+  "num_followers": 168168,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2E0MzM5Y2U1NmU0ZjUzYjU5MjM3NmQ3ZjRkOGJiODIwNjZlNzli",
+  "snapshot_id": "MCw1YjQ2MDk4MWRiMTViMDY2NDdmYTBjN2ViMmZlZGZmMWU1MGNhZDdj",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Like The Old Days",
-        "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 240041,
-      "name": "Like The Old Days",
-      "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "pass on over",
         "url": "https://open.spotify.com/album/3ZbbMzhyLBIqrpjtBA75X7"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 157176,
       "name": "pass on over",
       "url": "https://open.spotify.com/track/0j28heQh9SneJxHpLY4pdt"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Like The Old Days",
+        "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 240041,
+      "name": "Like The Old Days",
+      "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Fort Bellefleur",
+        "url": "https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 487752,
+      "name": "When U Came into My Life",
+      "url": "https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Fort Bellefleur",
-        "url": "https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH"
+        "name": "porco rosso",
+        "url": "https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 487752,
-      "name": "When U Came into My Life",
-      "url": "https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT"
+      "duration_ms": 219840,
+      "name": "porco rosso",
+      "url": "https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -963,22 +979,6 @@
       "duration_ms": 312000,
       "name": "Nothing - Original Mix",
       "url": "https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "porco rosso",
-        "url": "https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "porco rosso",
-      "url": "https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1023,6 +1023,42 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "hei",
+        "url": "https://open.spotify.com/album/12ogBUIRgbSu6v4O6S7zDR"
+      },
+      "artists": [
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "duration_ms": 240674,
+      "name": "hei",
+      "url": "https://open.spotify.com/track/30wTNGjHpvAI9fspMsUpIo"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/7dqphiw2nuFnU7iZFKipZA"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        }
+      ],
+      "duration_ms": 285714,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/7ochILP42boyfaJITMUMGF"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Function",
         "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
       },
@@ -1039,22 +1075,6 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "hei",
-        "url": "https://open.spotify.com/album/12ogBUIRgbSu6v4O6S7zDR"
-      },
-      "artists": [
-        {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
-        }
-      ],
-      "duration_ms": 240674,
-      "name": "hei",
-      "url": "https://open.spotify.com/track/30wTNGjHpvAI9fspMsUpIo"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1095,26 +1115,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/7dqphiw2nuFnU7iZFKipZA"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
-        }
-      ],
-      "duration_ms": 285714,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/7ochILP42boyfaJITMUMGF"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Everything Is Going To Be Alright",
         "url": "https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 226620,
       "name": "Everything Is Going To Be Alright",
       "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Deny It",
-        "url": "https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 242250,
-      "name": "Deny It",
-      "url": "https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1179,6 +1163,22 @@
       "duration_ms": 319917,
       "name": "Better By Your Side",
       "url": "https://open.spotify.com/track/33lTQD1Pyh4AFlj7avgfWm"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Deny It",
+        "url": "https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 242250,
+      "name": "Deny It",
+      "url": "https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Fashion Week (with Channel Tres)",
         "url": "https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 214575,
       "name": "Fashion Week (with Channel Tres)",
       "url": "https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "The Reset",
+        "url": "https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 340612,
+      "name": "Your Mind",
+      "url": "https://open.spotify.com/track/4MdbPf2h9dvCASJzPvwKQR"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Welcome To Dinna",
         "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
       },
@@ -1379,22 +1399,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "The Reset",
-        "url": "https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo"
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         }
       ],
-      "duration_ms": 340612,
-      "name": "Your Mind",
-      "url": "https://open.spotify.com/track/4MdbPf2h9dvCASJzPvwKQR"
+      "duration_ms": 295230,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1419,18 +1435,34 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
+        "name": "Tramuntana",
+        "url": "https://open.spotify.com/album/3Cwmn46NId4XNE7YO6vqXg"
       },
       "artists": [
         {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+          "name": "KAASI",
+          "url": "https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6"
         }
       ],
-      "duration_ms": 295230,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
+      "duration_ms": 320000,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/0QdgJdMgEQTrjCAFxxcZZm"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "AFRAID",
+        "url": "https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "AFRAID",
+      "url": "https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1455,22 +1487,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Tramuntana",
-        "url": "https://open.spotify.com/album/3Cwmn46NId4XNE7YO6vqXg"
-      },
-      "artists": [
-        {
-          "name": "KAASI",
-          "url": "https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/0QdgJdMgEQTrjCAFxxcZZm"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Chucks (feat. Channel Tres)",
         "url": "https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 175837,
       "name": "Chucks (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "AFRAID",
-        "url": "https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "AFRAID",
-      "url": "https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1651,6 +1651,30 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Crave You (Hush Hush Bootleg)",
+        "url": "https://open.spotify.com/album/5nG8aFW3BVsXFg8w9oPHE4"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
+        },
+        {
+          "name": "Hush Hush",
+          "url": "https://open.spotify.com/artist/72lGnGZvP8ZUeOAnc8GoDU"
+        }
+      ],
+      "duration_ms": 341370,
+      "name": "Crave You - Hush Hush Bootleg",
+      "url": "https://open.spotify.com/track/07gf6qIWA6yt58pR7uBDSw"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "MY DEAR",
         "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
       },
@@ -1679,30 +1703,6 @@
       "duration_ms": 220971,
       "name": "Songs About It",
       "url": "https://open.spotify.com/track/43WIanLaoa2ek6Lh5crviQ"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Crave You (Hush Hush Bootleg)",
-        "url": "https://open.spotify.com/album/5nG8aFW3BVsXFg8w9oPHE4"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "Giselle",
-          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
-        },
-        {
-          "name": "Hush Hush",
-          "url": "https://open.spotify.com/artist/72lGnGZvP8ZUeOAnc8GoDU"
-        }
-      ],
-      "duration_ms": 341370,
-      "name": "Crave You - Hush Hush Bootleg",
-      "url": "https://open.spotify.com/track/07gf6qIWA6yt58pR7uBDSw"
     },
     {
       "added_at": "2023-05-11 22:00:00",

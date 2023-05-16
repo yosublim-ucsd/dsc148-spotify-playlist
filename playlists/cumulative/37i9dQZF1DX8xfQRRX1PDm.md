@@ -2,7 +2,7 @@
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Best of Bollywood dance from last 10 years\. Cover \- Roohi
+> Party\-ready, biggest Bollywood dance tracks of last 10 years\. Cover \- Mimi
 
 193 songs - 11 hr 17 min
 

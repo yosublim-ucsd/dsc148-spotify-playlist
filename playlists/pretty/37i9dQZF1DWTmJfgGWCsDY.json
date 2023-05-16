@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 1417,
+  "num_followers": 1420,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGVkMTU5YTI4MTVkNjM1MjllNzY2YzEyMWVjN2M0Yjc4NzkzZDUy",
+  "snapshot_id": "MCw2ODFhMmRkYjM3ZTRjMDA2Mjg5YWIyNGMzMzVlNjJhOTliNTJkMmYw",
   "tracks": [
     {
       "added_at": "2023-04-07 11:29:11",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Miss Buza (feat. Dulla Makabila)",
-        "url": "https://open.spotify.com/album/5HudXaLc6wYZ1MS1crbmJW"
-      },
-      "artists": [
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        },
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 320653,
-      "name": "Miss Buza (feat. Dulla Makabila)",
-      "url": "https://open.spotify.com/track/5Ls1bXyqTFdV8QJvrXfudi"
-    },
-    {
-      "added_at": "2023-04-07 11:29:11",
-      "album": {
         "name": "Madanga Ya Mke Wangu",
         "url": "https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 337346,
       "name": "Madanga Ya Mke Wangu",
       "url": "https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt"
+    },
+    {
+      "added_at": "2023-04-07 11:29:11",
+      "album": {
+        "name": "Miss Buza (feat. Dulla Makabila)",
+        "url": "https://open.spotify.com/album/5HudXaLc6wYZ1MS1crbmJW"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 320653,
+      "name": "Miss Buza (feat. Dulla Makabila)",
+      "url": "https://open.spotify.com/track/5Ls1bXyqTFdV8QJvrXfudi"
     },
     {
       "added_at": "2023-04-07 11:29:11",
@@ -291,26 +291,6 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Nalimwaga",
-        "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
-      },
-      "artists": [
-        {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
-        },
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Nalimwaga",
-      "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
-    },
-    {
-      "added_at": "2023-04-07 11:29:11",
-      "album": {
         "name": "High School",
         "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
       },
@@ -347,18 +327,46 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Ujaulamba",
-        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
+        "name": "Demu Wangu (Remix)",
+        "url": "https://open.spotify.com/album/7zSRhcHQG4jIHEHBSq5euQ"
       },
       "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+        }
+      ],
+      "duration_ms": 247167,
+      "name": "Demu Wangu",
+      "url": "https://open.spotify.com/track/2zl5QAmjBZVDmpBNX7mnx2"
+    },
+    {
+      "added_at": "2023-04-07 11:29:11",
+      "album": {
+        "name": "Nalimwaga",
+        "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
+      },
+      "artists": [
+        {
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+        },
         {
           "name": "Dulla Makabila",
           "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 333975,
-      "name": "Ujaulamba",
-      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
+      "duration_ms": 224906,
+      "name": "Nalimwaga",
+      "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
     },
     {
       "added_at": "2023-04-07 11:29:11",
@@ -399,42 +407,18 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Demu Wangu (Remix)",
-        "url": "https://open.spotify.com/album/7zSRhcHQG4jIHEHBSq5euQ"
+        "name": "Ujaulamba",
+        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
       },
       "artists": [
         {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "MABANTU",
-          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 247167,
-      "name": "Demu Wangu",
-      "url": "https://open.spotify.com/track/2zl5QAmjBZVDmpBNX7mnx2"
-    },
-    {
-      "added_at": "2023-04-07 11:29:11",
-      "album": {
-        "name": "Hujanikomoa",
-        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 359026,
-      "name": "Hujanikomoa",
-      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
+      "duration_ms": 333975,
+      "name": "Ujaulamba",
+      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
     },
     {
       "added_at": "2023-04-07 11:29:11",
@@ -479,26 +463,6 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Umekopwa",
-        "url": "https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X"
-      },
-      "artists": [
-        {
-          "name": "MABANTU",
-          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 283884,
-      "name": "Umekopwa",
-      "url": "https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG"
-    },
-    {
-      "added_at": "2023-04-07 11:29:11",
-      "album": {
         "name": "Niite Mbwa",
         "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
       },
@@ -515,6 +479,62 @@
       "duration_ms": 228146,
       "name": "Niite Mbwa",
       "url": "https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H"
+    },
+    {
+      "added_at": "2023-04-07 11:29:11",
+      "album": {
+        "name": "Shemeji",
+        "url": "https://open.spotify.com/album/7dJUtISG7x3p4L7fdisu87"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        },
+        {
+          "name": "Kontawa",
+          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
+        }
+      ],
+      "duration_ms": 289640,
+      "name": "Shemeji",
+      "url": "https://open.spotify.com/track/7iipqXuExfDhxf9DCxASFx"
+    },
+    {
+      "added_at": "2023-04-07 11:29:11",
+      "album": {
+        "name": "Hujanikomoa",
+        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 359026,
+      "name": "Hujanikomoa",
+      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
+    },
+    {
+      "added_at": "2023-04-07 11:29:11",
+      "album": {
+        "name": "Umekopwa",
+        "url": "https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X"
+      },
+      "artists": [
+        {
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 283884,
+      "name": "Umekopwa",
+      "url": "https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG"
     },
     {
       "added_at": "2023-04-07 11:29:11",
@@ -571,42 +591,6 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Shemeji",
-        "url": "https://open.spotify.com/album/7dJUtISG7x3p4L7fdisu87"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        },
-        {
-          "name": "Kontawa",
-          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
-        }
-      ],
-      "duration_ms": 289640,
-      "name": "Shemeji",
-      "url": "https://open.spotify.com/track/7iipqXuExfDhxf9DCxASFx"
-    },
-    {
-      "added_at": "2023-04-07 11:29:11",
-      "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
-        }
-      ],
-      "duration_ms": 252043,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
-    },
-    {
-      "added_at": "2023-04-07 11:29:11",
-      "album": {
         "name": "Status",
         "url": "https://open.spotify.com/album/1mt4GI9A1Msw42jevPqCqk"
       },
@@ -623,6 +607,42 @@
       "duration_ms": 248853,
       "name": "Status",
       "url": "https://open.spotify.com/track/7qk0HfhXHEYQQzoZ6caYQM"
+    },
+    {
+      "added_at": "2023-04-07 11:29:11",
+      "album": {
+        "name": "Mamu Remix",
+        "url": "https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        },
+        {
+          "name": "Mr Blue",
+          "url": "https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9"
+        }
+      ],
+      "duration_ms": 371880,
+      "name": "Mamu Remix - Remix",
+      "url": "https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O"
+    },
+    {
+      "added_at": "2023-04-07 11:29:11",
+      "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+        }
+      ],
+      "duration_ms": 252043,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
     },
     {
       "added_at": "2023-04-07 11:29:11",
@@ -683,26 +703,6 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Mamu Remix",
-        "url": "https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        },
-        {
-          "name": "Mr Blue",
-          "url": "https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9"
-        }
-      ],
-      "duration_ms": 371880,
-      "name": "Mamu Remix - Remix",
-      "url": "https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O"
-    },
-    {
-      "added_at": "2023-04-07 11:29:11",
-      "album": {
         "name": "Chura",
         "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
       },
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
     },
     {
-      "added_at": "2023-04-07 11:29:11",
-      "album": {
-        "name": "Honey Wangu",
-        "url": "https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        }
-      ],
-      "duration_ms": 239972,
-      "name": "Honey Wangu",
-      "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
-    },
-    {
       "added_at": "2023-04-14 08:23:19",
       "album": {
         "name": "Uongo",
@@ -767,6 +751,22 @@
       "duration_ms": 206455,
       "name": "Uongo",
       "url": "https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G"
+    },
+    {
+      "added_at": "2023-04-07 11:29:11",
+      "album": {
+        "name": "Honey Wangu",
+        "url": "https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        }
+      ],
+      "duration_ms": 239972,
+      "name": "Honey Wangu",
+      "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
     },
     {
       "added_at": "2023-04-07 11:29:11",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Kupendwa Raha",
-        "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
-      },
-      "artists": [
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        },
-        {
-          "name": "Dogo Jully",
-          "url": "https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ"
-        }
-      ],
-      "duration_ms": 304986,
-      "name": "Kupendwa Raha",
-      "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
-    },
-    {
-      "added_at": "2023-04-07 11:29:11",
-      "album": {
         "name": "Kwetu",
         "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
       },
@@ -847,18 +827,22 @@
     {
       "added_at": "2023-04-07 11:29:11",
       "album": {
-        "name": "Mchepuko",
-        "url": "https://open.spotify.com/album/3ZJ0RRiA56WsQb3G2M4N6F"
+        "name": "Kupendwa Raha",
+        "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
       },
       "artists": [
         {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        },
+        {
+          "name": "Dogo Jully",
+          "url": "https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ"
         }
       ],
-      "duration_ms": 273866,
-      "name": "Mchepuko",
-      "url": "https://open.spotify.com/track/12zGv1X0dXwtz7gU2yL0j3"
+      "duration_ms": 304986,
+      "name": "Kupendwa Raha",
+      "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
     },
     {
       "added_at": "2023-04-07 11:29:11",
@@ -919,6 +903,26 @@
       "duration_ms": 211371,
       "name": "Niwataje",
       "url": "https://open.spotify.com/track/7qPJAWnwWTDp5jIe7OXbBP"
+    },
+    {
+      "added_at": "2023-04-07 11:29:11",
+      "album": {
+        "name": "Jiangalie",
+        "url": "https://open.spotify.com/album/2ZVwvn2K544UFhLsWyd9CF"
+      },
+      "artists": [
+        {
+          "name": "Nay Wa Mitego",
+          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 246245,
+      "name": "Jiangalie",
+      "url": "https://open.spotify.com/track/6kMV14ic2Rpz4h1k807zyR"
     },
     {
       "added_at": "2023-04-07 11:29:11",

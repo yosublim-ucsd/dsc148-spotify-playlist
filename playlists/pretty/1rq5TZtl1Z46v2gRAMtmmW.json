@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 27851,
+  "num_followers": 27858,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzMzOCwyYTFjNmJkN2E0YjUxMjE5NGY2NGJlOTU1ODIxYTQ2NmNjZTBhMzk1",
+  "snapshot_id": "MzM0NCw5OGVhMWEwNDkwMmI5NzBiYWZjNTdkMGY0NTY1ZjE0Y2Q3Y2ExNWVi",
   "tracks": [
     {
       "added_at": "2023-04-25 16:05:06",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K"
     },
     {
+      "added_at": "2023-05-15 16:59:51",
+      "album": {
+        "name": "Flowers At Your Feet",
+        "url": "https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd"
+      },
+      "artists": [
+        {
+          "name": "Rahill",
+          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
+        }
+      ],
+      "duration_ms": 161360,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
+    },
+    {
       "added_at": "2023-04-28 19:26:29",
       "album": {
         "name": "DREAMER",
@@ -77,20 +93,24 @@
       "url": "https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4"
     },
     {
-      "added_at": "2023-05-03 18:24:35",
+      "added_at": "2023-05-15 17:05:34",
       "album": {
-        "name": "Futbol",
-        "url": "https://open.spotify.com/album/22mAPVYMiTzEB2oe3llVGe"
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
       },
       "artists": [
         {
-          "name": "Rahill",
-          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
         }
       ],
-      "duration_ms": 212533,
-      "name": "Futbol",
-      "url": "https://open.spotify.com/track/1tBR4EX2S4YonuXB0mwRvT"
+      "duration_ms": 241804,
+      "name": "Feels Just Like it",
+      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
     },
     {
       "added_at": "2023-05-04 18:48:32",
@@ -191,22 +211,6 @@
       "duration_ms": 221323,
       "name": "Blue Lights",
       "url": "https://open.spotify.com/track/1HaFNaN0DEaKCOrQ7AIpxx"
-    },
-    {
-      "added_at": "2023-04-19 01:18:26",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/54DstnlyeCz0Zb2HDtBJaq"
     },
     {
       "added_at": "2023-03-29 18:28:28",

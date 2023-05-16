@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > MEAU op de cover van de vernieuwde Je Moerstaal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,392 likes - 90 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,423 likes - 90 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [22](https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 2:53 |
 | 2 | [Hetzelfde](https://open.spotify.com/track/1mLP442VEMPztX02Gdsdfj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Hetzelfde](https://open.spotify.com/album/2yjUK5W3QzyPXsTRwuhadJ) | 2:56 |
-| 3 | [Glas Omhoog](https://open.spotify.com/track/4WwIDS7A1zgEQm9IW3VNHv) | [VanVelzen](https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi), [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Glas Omhoog](https://open.spotify.com/album/2ziIuYohcXd16XfSBeNWYO) | 3:23 |
+| 3 | [Naar Het Licht](https://open.spotify.com/track/0o2NJQQmW2c1R6ZNpPdoan) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Naar Het Licht](https://open.spotify.com/album/6SaInoRCoT3R0szXyjiRxn) | 3:16 |
 | 4 | [Zolang Dit Liedje Duurt](https://open.spotify.com/track/4yzvrn5hlJBTbLvOrjGSvv) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Zolang Dit Liedje Duurt](https://open.spotify.com/album/06dgQlNUalqNxkOC2t73bl) | 2:43 |
-| 5 | [Naar Het Licht](https://open.spotify.com/track/0o2NJQQmW2c1R6ZNpPdoan) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Naar Het Licht](https://open.spotify.com/album/6SaInoRCoT3R0szXyjiRxn) | 3:16 |
+| 5 | [Glas Omhoog](https://open.spotify.com/track/4WwIDS7A1zgEQm9IW3VNHv) | [VanVelzen](https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi), [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Glas Omhoog](https://open.spotify.com/album/2ziIuYohcXd16XfSBeNWYO) | 3:23 |
 | 6 | [Outside](https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Outside](https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr) | 2:47 |
 | 7 | [Terug In M'n Armen](https://open.spotify.com/track/6pwln6CjzTKZJuYdoA0jSc) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 3:27 |
 | 8 | [Zonder](https://open.spotify.com/track/3sibTlz0NOn4dq7oPnXx9w) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Zonder](https://open.spotify.com/album/4F1nbImQVRxby0QYoHvcLN) | 2:47 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Ik Ben Vrij](https://open.spotify.com/track/1666b4ps2A30GgSoB0Kd4b) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Ik Ben Vrij](https://open.spotify.com/album/6mK9STMoJ4CuVZLEbCZS8J) | 3:27 |
 | 90 | [SLAAPTEKORT](https://open.spotify.com/track/7GVzocMyWJndhsbUbyKvwa) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [SLAAPTEKORT](https://open.spotify.com/album/1RAZp1zZua1mGZREIWvKL6) | 2:21 |
 
-Snapshot ID: `MCxmYjY3MjY5YTM4ZjQ5ZGIzMDlmMDBlMzM1ODRiMmMxZjhmNWM4MmRl`
+Snapshot ID: `MCw2YWYzMjM4Y2NhNTRlNDQ2NmM4NTc1OTA4MmUzYzM4NzBjMDkzNjhk`

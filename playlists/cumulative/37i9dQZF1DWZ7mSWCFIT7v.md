@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-321 songs - 1 day 2 hr 4 min
+322 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [a glow on a floe](https://open.spotify.com/track/0apC5AXN8EVJ5myftbOttg) | [Bass Clef](https://open.spotify.com/artist/3nj3DBK6cC8x61KsPAwUSW) | [Magnetic Chapters](https://open.spotify.com/album/1jScVqGMWGKASFKLQOubUh) | 4:15 | 2021-10-06 | 2022-07-28 |
 | [A Hundred Times](https://open.spotify.com/track/0B3epCGYUvT4ytMgZslPcb) | [Shore](https://open.spotify.com/artist/4F7AimqAwebM3gQzyp1LnY) | [A Hundred Times](https://open.spotify.com/album/30ma5WMOit0O0KqL9svkfw) | 5:56 | 2021-10-06 | 2022-07-22 |
 | [A YEAR OF PEOPLE BEYOND YOUR BACK](https://open.spotify.com/track/7FcpasXxRkVpddfGXCx81E) | [Aye\-aye](https://open.spotify.com/artist/6LkJOynfxc55br2dUZeoKX) | [Everything Popular is Wrong](https://open.spotify.com/album/726ej6023HAKhPAnVrUIal) | 5:07 | 2021-10-06 | 2022-07-28 |
-| [A2](https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 11:27 | 2022-08-31 |  |
+| [A2](https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 11:27 | 2022-08-31 | 2023-05-16 |
 | [Akkad](https://open.spotify.com/track/3WH9FiMK28tlRxVF7nwMN9) | [Ketev](https://open.spotify.com/artist/4pDtYWnWPosUl5oKjnD8ou) | [Ketev](https://open.spotify.com/album/6WaORCasfzA74r5q8Qa1XA) | 5:14 | 2021-10-06 | 2022-07-25 |
 | [ALDDE](https://open.spotify.com/track/2NojgMIs2Rsa3YVx8R71W8) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [ALDDE](https://open.spotify.com/album/04vUUu7TRAGPlLg5SNVYsL) | 10:00 | 2022-02-25 | 2022-07-26 |
 | [All In](https://open.spotify.com/track/3u5huRtnox7Os36mlprQDG) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [Strictly J](https://open.spotify.com/album/1i7MZibzXPRT5qrxiZuhVy) | 7:04 | 2021-10-06 | 2022-07-06 |
@@ -298,6 +298,7 @@
 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 | 2023-01-07 |  |
 | [Undercurrent](https://open.spotify.com/track/2uf07yYV1yXPqtRqYNMMGR) | [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6) | [Driftwood](https://open.spotify.com/album/1CSz1kwa9uSIFOqPBYnCC5) | 4:42 | 2021-10-06 | 2022-07-28 |
 | [Underwater Lament](https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:20 | 2021-10-06 | 2023-04-30 |
+| [Underwater Lament](https://open.spotify.com/track/6CQJSBa7uo6Hr5991sVrGX) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z) | 5:20 | 2021-10-06 |  |
 | [Underwater Lament](https://open.spotify.com/track/6XGampcg3mqZPlDAUdJzlg) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Underwater Lament](https://open.spotify.com/album/7MSvDATNHNyd65XaCwfk1Z) | 5:20 | 2021-10-06 | 2022-07-29 |
 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 | 2022-03-30 |  |
 | [Vanda](https://open.spotify.com/track/5GYuOUZ8XIFYgQRfiyNSz7) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 10:17 | 2021-10-06 | 2022-07-27 |

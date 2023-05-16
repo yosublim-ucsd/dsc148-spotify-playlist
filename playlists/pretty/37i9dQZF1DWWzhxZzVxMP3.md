@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well known songs in a soft Bossa landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,650 likes - 118 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,673 likes - 118 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 16 | [Castaways](https://open.spotify.com/track/7eqmcFd2Rjztz9LSUwr4Eg) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS), [Jasmine Siregar](https://open.spotify.com/artist/7JkPqLbhxxrKHZQSEibjPp) | [Dream a Little Dream](https://open.spotify.com/album/5rI1Za4mw6vDz0jbS23MwF) | 1:50 |
 | 17 | [All Night Long](https://open.spotify.com/track/1rCiE8OQy3KbBBYjwVk5xN) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [All Night Long](https://open.spotify.com/album/1DFeMODZUwUquZmxICwWWJ) | 4:53 |
 | 18 | [Woman in Love](https://open.spotify.com/track/6qvhEP8BT4w1PKP0zBJMEf) | [Joana Duah](https://open.spotify.com/artist/262VF7jBOHsX7dszFiBb99) | [Ballads in Bossa \(The Colors of Love Ballads\)](https://open.spotify.com/album/4HJCf5TTdtNii4EH8zE408) | 3:12 |
-| 19 | [Wave](https://open.spotify.com/track/0e0yu5W79DVahOtpju6PBk) | [Luiz Mura](https://open.spotify.com/artist/5RlK0YqgWYpYSkLLNR9O6g), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Wave](https://open.spotify.com/album/1BACEpzKmOR7zTgBHnt4dS) | 2:20 |
+| 19 | [Wave](https://open.spotify.com/track/0e0yu5W79DVahOtpju6PBk) | [Luiz Murá](https://open.spotify.com/artist/5RlK0YqgWYpYSkLLNR9O6g), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Wave](https://open.spotify.com/album/1BACEpzKmOR7zTgBHnt4dS) | 2:20 |
 | 20 | [Get Lucky](https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Get Lucky](https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ) | 3:51 |
 | 21 | [Harder](https://open.spotify.com/track/6QOrNa2LhVU4xHnTZRk95C) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Harder](https://open.spotify.com/album/5OvyYvjzIAxu7thqQziUT4) | 2:52 |
 | 22 | [As it was](https://open.spotify.com/track/3HiqMnSh2uB2QtmDxzkuD7) | [The Bacalhau Quintet](https://open.spotify.com/artist/6tK6HFxCJ3PUpeYkgse2Ya) | [Bossa Vibes Vol\. 01](https://open.spotify.com/album/65KDUBMIG3sk3sa6lv4QnT) | 4:00 |
 | 23 | [Sá Marina](https://open.spotify.com/track/4as7MF2MShkdnjOqukNB2y) | [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [Sá Marina](https://open.spotify.com/album/6NmDSsaTQLYSxv4E0Ewt77) | 3:30 |
 | 24 | [Save Your Tears](https://open.spotify.com/track/17g9sjydTmFOni0nIJlPZ8) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Save Your Tears](https://open.spotify.com/album/2Afpovj7wzwnAErebVqmoq) | 3:44 |
-| 25 | [Chega de Saudade](https://open.spotify.com/track/1cVydAIXdvoppZ4DmplKBN) | [Luiz Murá](https://open.spotify.com/artist/5os4puXkeFYMsBpyN55oHQ), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Chega de Saudade](https://open.spotify.com/album/26I6RGEYmOUGrIgBfFtv8b) | 4:06 |
+| 25 | [Chega de Saudade](https://open.spotify.com/track/1cVydAIXdvoppZ4DmplKBN) | [Luiz Murá](https://open.spotify.com/artist/5RlK0YqgWYpYSkLLNR9O6g), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Chega de Saudade](https://open.spotify.com/album/26I6RGEYmOUGrIgBfFtv8b) | 4:06 |
 | 26 | [Cold Heart](https://open.spotify.com/track/2hcgHA5iPCBHlWZusjsr1w) | [The Bacalhau Quintet](https://open.spotify.com/artist/6tK6HFxCJ3PUpeYkgse2Ya) | [Bossa Vibes Vol\. 01](https://open.spotify.com/album/65KDUBMIG3sk3sa6lv4QnT) | 3:30 |
 | 27 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 |
 | 28 | [Whole Again](https://open.spotify.com/track/5vQPUsti44KFsm1xOrhKHj) | [Juis de Fora](https://open.spotify.com/artist/46BKARTr4WbL2apQKFZ4kt), [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Whole Again](https://open.spotify.com/album/3Lifjzuc8bU1yBhnAJPVCC) | 2:41 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 117 | [Weak](https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef) | [La Cabana Reyo](https://open.spotify.com/artist/2OULNPMNW4thsI4HFAm0y3) | [Weak](https://open.spotify.com/album/0KrngwmfWFAvlwbaWI25Nb) | 3:23 |
 | 118 | [Forever Young](https://open.spotify.com/track/1YoOexv2qAxVZo5xnLlt5h) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Forever Young](https://open.spotify.com/album/5ETornmpL2uUmYDdtF0Oy4) | 3:39 |
 
-Snapshot ID: `MCw2YzY3ZDRhMzc5N2Y5ZjlmNThlMmNlYzZjODAwZDc5ZWUyNDE0MmZm`
+Snapshot ID: `MCw0Zjg3ZDdiNGM5ZGFlMTE0NWM2YmFjYzM5YzI3OTU1OWM3Zjg4ZWMz`

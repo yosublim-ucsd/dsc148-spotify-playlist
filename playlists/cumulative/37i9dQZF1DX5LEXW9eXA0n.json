@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bKim Na Young(\uae40\ub098\uc601)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694) Meet 20 breakup ballads selected by Kim Na-young at the top of the playlist! (\uae40\ub098\uc601\uc774 \uc120\uace1\ud55c \uc774\ubcc4 \ubc1c\ub77c\ub4dc 20\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8 \ucd5c\uc0c1\ub2e8\uc5d0\uc11c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bHYNN(\ubc15\ud61c\uc6d0)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 273733,
       "name": "After Sending You - Live",
       "url": "https://open.spotify.com/track/47SC5wI2ZEd2DwQuJNzCHL"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 249279,
       "name": "all of my life",
       "url": "https://open.spotify.com/track/3XEjswcSomkIsgbuNunFmQ"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 226080,
       "name": "Be there",
       "url": "https://open.spotify.com/track/0uSO0DaUix5IbVAYKG31Bz"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 221733,
       "name": "Breath",
       "url": "https://open.spotify.com/track/6XHM5qjDlcJVT1afJZXUId"
@@ -3998,7 +3998,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 205893,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3kXjd03dmE6r2s5MCmtTFx"
@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 220986,
       "name": "Fix make-up",
       "url": "https://open.spotify.com/track/6QjOs1V84HqJmJGCQBnG8g"
@@ -4420,7 +4420,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 216000,
       "name": "Glad You Are Here",
       "url": "https://open.spotify.com/track/1ORdIan1D6FPfw5PpUC1fV"
@@ -4600,7 +4600,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 288253,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/3QQyaBhRNcDmqpWRssT7dh"
@@ -4829,6 +4829,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5PD7BUIpjw9LeGqdNItRug"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq"
+    },
+    {
+      "album": {
         "name": "HeeJae (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4wqchZ5AFWr6akPCH6h74O"
       },
@@ -4840,7 +4858,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 281313,
       "name": "HeeJae",
       "url": "https://open.spotify.com/track/10PzmnIzAwd4vRRDUamEwr"
@@ -4858,7 +4876,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 230106,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY"
@@ -5374,7 +5392,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 274881,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/1dAN9YSEram61KezA9X8lx"
@@ -5612,7 +5630,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 256906,
       "name": "I got lucky",
       "url": "https://open.spotify.com/track/2xqZgDhbEzNIQGEz8HdrkJ"
@@ -6444,7 +6462,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 215419,
       "name": "I've never loved you",
       "url": "https://open.spotify.com/track/6AaBhKdYEma1iTvjIeWxCX"
@@ -6696,7 +6714,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 205880,
       "name": "If You See Me",
       "url": "https://open.spotify.com/track/6klI77nVgqRzC70S3xQy1i"
@@ -6808,7 +6826,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 231000,
       "name": "In My Heart",
       "url": "https://open.spotify.com/track/2URys8E6imQmRIfAlES1p4"
@@ -8286,7 +8304,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 177829,
       "name": "Love in Color",
       "url": "https://open.spotify.com/track/5kde3lf0Dm5Epkb1R8hEhI"
@@ -8556,7 +8574,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 258880,
       "name": "Love(2023)",
       "url": "https://open.spotify.com/track/0lIJtNAYZctC1ikLeKRf4M"
@@ -8736,7 +8754,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 208592,
       "name": "Maybe love",
       "url": "https://open.spotify.com/track/1ow6qHeSg7382hX3n8OXdE"
@@ -8920,7 +8938,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 258333,
       "name": "Mi Camino",
       "url": "https://open.spotify.com/track/7GL7HvIR0PdbvSFC6WjkbC"
@@ -9350,7 +9368,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 158213,
       "name": "My Feelings for You will Never Change",
       "url": "https://open.spotify.com/track/737PNNtwoyQyTK1BKYFnOK"
@@ -9422,7 +9440,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 261252,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3fLGciDBnydNdpgAfAr8Fj"
@@ -10018,7 +10036,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 212653,
       "name": "Now running to you",
       "url": "https://open.spotify.com/track/1BQFJgczKK7foTcPuMF95N"
@@ -10264,7 +10282,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 248586,
       "name": "One Day More",
       "url": "https://open.spotify.com/track/4qWFcJD1YKqNXDSP2BdeLp"
@@ -10492,7 +10510,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 232960,
       "name": "Our Spring (feat. Im Ga Young)",
       "url": "https://open.spotify.com/track/59d2K1gzt3M9PKdyCsI6sY"
@@ -10622,7 +10640,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 197040,
       "name": "Please don`t happy without me",
       "url": "https://open.spotify.com/track/4CDUbmbzqgBnVQqSbDzKNF"
@@ -11098,7 +11116,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 270123,
       "name": "Run With Me",
       "url": "https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9"
@@ -11680,7 +11698,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 295026,
       "name": "So to speak,Love",
       "url": "https://open.spotify.com/track/0kjUOLyLACpGsZP8V26nNS"
@@ -13008,7 +13026,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 238956,
       "name": "The fool",
       "url": "https://open.spotify.com/track/0zj7btS9fZMqZFZWO6fYI9"
@@ -13550,7 +13568,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 220840,
       "name": "There For You",
       "url": "https://open.spotify.com/track/4D3Wo2n0MuTT0DL0zKFGFI"
@@ -15000,7 +15018,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 244013,
       "name": "Wind Flower",
       "url": "https://open.spotify.com/track/3o7S5W2QW94CSZ0WLio1dM"
@@ -15256,7 +15274,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 296933,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/54wxCzZOH2Jo1qSdqHUkRH"
@@ -15404,7 +15422,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 314866,
       "name": "Y Si Fuera Ella",
       "url": "https://open.spotify.com/track/17vGPoIBXnSEd31N4B3gSR"
@@ -15494,7 +15512,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 215653,
       "name": "You Are The Sea",
       "url": "https://open.spotify.com/track/6lTD3lLyCXNojKvse242Fb"
@@ -15700,7 +15718,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 168853,
       "name": "Your Name",
       "url": "https://open.spotify.com/track/71DES833owRpiPW6LXEKyD"
@@ -15834,7 +15852,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 202946,
       "name": "\u1106\u1175\u110b\u116f\u110b\u116d I Hate You",
       "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
@@ -15888,7 +15906,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 241506,
       "name": "\uac00\uc2dc",
       "url": "https://open.spotify.com/track/7csMuPqdOPaFKby0AoRYL5"
@@ -15978,7 +15996,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 265717,
       "name": "\uae30\uc5b5\ud574\uc918",
       "url": "https://open.spotify.com/track/4UtXaNwhWIwVjRcHzGwQX5"
@@ -16151,6 +16169,24 @@
     },
     {
       "album": {
+        "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 - \uae40\ub098\uc601",
+        "url": "https://open.spotify.com/album/2HjmcbWeIZGzyTk0yWBI6X"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3702,
+      "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 - \uae40\ub098\uc601",
+      "url": "https://open.spotify.com/track/1UWp8Mit5wHqql6YSVakav"
+    },
+    {
+      "album": {
         "name": "\ubcf4\uace0 \uc2f6\uc740 \uc21c\uac04",
         "url": "https://open.spotify.com/album/29Ko3a0Sqbbx6jZWvKEyCr"
       },
@@ -16238,7 +16274,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 253622,
       "name": "\uc0ac\ub791\uc774 \ub2a6\uc5b4\uc11c \ubbf8\uc548\ud574",
       "url": "https://open.spotify.com/track/6YaIQLN1KDocHTQuxPjBhN"
@@ -16278,7 +16314,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 228946,
       "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
       "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"

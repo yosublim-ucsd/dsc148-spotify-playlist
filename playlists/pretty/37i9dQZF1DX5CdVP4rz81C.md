@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Brenn!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,110 likes - 88 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,059 likes - 88 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 87 | [just for the night](https://open.spotify.com/track/2kZSry1RFeI8IzFk0RTr0y) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9) | [just for the night](https://open.spotify.com/album/1cbKJJrsN37uwfmFw4q9xI) | 2:15 |
 | 88 | [Don't Stop the Car](https://open.spotify.com/track/72OrO3uJtMEGRlPyKLogvk) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [You'll Get It When You're Older](https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu) | 2:39 |
 
-Snapshot ID: `MCw5MWYxZWFjYzM3NmRlZjJlOWZlNDcwMTg3YzAyOGJjM2UxOTk2NDhi`
+Snapshot ID: `MCxhOTFiYzkzZTJmNzY2NDY2NjA4NWFmMzRmZjIxMmRlMGYxM2MyNDJk`

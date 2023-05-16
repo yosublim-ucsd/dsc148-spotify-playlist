@@ -118,7 +118,7 @@
     {
       "album": {
         "name": "Joyas De Dos Siglos",
-        "url": "https://open.spotify.com/album/1J52yTpzmmKd5bACzZnErX"
+        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
       },
       "artists": [
         {
@@ -129,6 +129,24 @@
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Boda Negra (El Enterrador)",
+      "url": "https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ"
+    },
+    {
+      "album": {
+        "name": "Joyas De Dos Siglos",
+        "url": "https://open.spotify.com/album/1J52yTpzmmKd5bACzZnErX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
       "duration_ms": 226973,
       "name": "Boda Negra (El Enterrador)",
       "url": "https://open.spotify.com/track/3piawlFhk12c09HYG5ElbY"
@@ -984,10 +1002,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 173600,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/2FoJbd60z3l1XINZ855qo5"
+    },
+    {
+      "album": {
+        "name": "Joyas De Dos Siglos",
+        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
     },
     {
       "album": {
@@ -1254,7 +1290,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 190106,
       "name": "La Reyna Del Inframundo",
       "url": "https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1"
@@ -1326,7 +1362,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 184351,
       "name": "Los Esqueletos",
       "url": "https://open.spotify.com/track/2evbt2sweKafw1Xx6tUVq6"

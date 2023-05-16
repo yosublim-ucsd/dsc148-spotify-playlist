@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Abbey Cone, Artwork: Fanélie Muselier
 
-1,500 songs - 3 day 9 hr 48 min
+1,501 songs - 3 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,7 +515,8 @@
 | [Good Ol' Days](https://open.spotify.com/track/4aQSe8cS8mn7W6TiXpYNlW) | [Midnight South](https://open.spotify.com/artist/4LYyR5Zyz2sT4UokGFWJq0) | [Good Ol' Days](https://open.spotify.com/album/3qM4t6Ia8BPpKBMqyNikS3) | 3:08 | 2022-01-12 | 2022-02-24 |
 | [Good Ole Days](https://open.spotify.com/track/5kEamLewNC45O3Di5hGplB) | [Eleven Mile](https://open.spotify.com/artist/7yvVDlu0DJyPlUXc6hvKw6) | [Good Ole Days](https://open.spotify.com/album/7HL1q0N7TrlLtenfVsFrpn) | 3:38 | 2022-10-12 | 2022-12-01 |
 | [Good On Me](https://open.spotify.com/track/2lTgxAXwpmwrsjcDT5QF2d) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [Good On Me](https://open.spotify.com/album/1D7ZXlzPYOdY6f0aRB4N2A) | 3:02 | 2022-08-03 | 2023-01-12 |
-| [Good on You](https://open.spotify.com/track/4fb1LzcwIRU7cUr1V5jAdz) | [Steven Cali](https://open.spotify.com/artist/5r6D8shj3aoncfvLAhMyUD) | [Good on You](https://open.spotify.com/album/519zeXyJ71nSpegWl0iEUP) | 2:36 | 2023-04-05 |  |
+| [Good on You](https://open.spotify.com/track/4fb1LzcwIRU7cUr1V5jAdz) | [Steven Cali](https://open.spotify.com/artist/5r6D8shj3aoncfvLAhMyUD) | [Good on You](https://open.spotify.com/album/519zeXyJ71nSpegWl0iEUP) | 2:36 | 2023-04-05 | 2023-05-16 |
+| [Good On You](https://open.spotify.com/track/5EY8kdEyyGf9Lx0bBGUGZa) | [Steven Cali](https://open.spotify.com/artist/5r6D8shj3aoncfvLAhMyUD) | [Good On You](https://open.spotify.com/album/5Zcxg4zmO2UoWPYnceUknq) | 2:36 | 2023-05-10 |  |
 | [GOOD SPIRITS](https://open.spotify.com/track/4UeizLeTnFFP08qwL6dHts) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [GOOD SPIRITS](https://open.spotify.com/album/5paIKqtoRNCKPbW9gbVXAp) | 2:25 | 2023-03-29 | 2023-05-04 |
 | [Good Thing](https://open.spotify.com/track/1pjwRbcx1M0MrUTvSRGCgu) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [I Made a Record](https://open.spotify.com/album/288iPS5cLnvwOYbtLc22uq) | 3:11 | 2023-02-22 | 2023-03-30 |
 | [Good Thing Goin'](https://open.spotify.com/track/3nQ5ngDqjT1JfT2ToOle5F) | [Martin McDaniel](https://open.spotify.com/artist/2t4ZNy3HK2oHrvHZxq9wHU) | [Good Thing Goin'](https://open.spotify.com/album/1hkCHueRxrfpVOgUrG4BWu) | 4:02 | 2022-05-11 | 2022-06-30 |

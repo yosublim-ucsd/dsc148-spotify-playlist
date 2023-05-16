@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-202 songs - 9 hr 2 min
+203 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Limbo](https://open.spotify.com/track/3fnAQeFKgQKsgNylfxBdc7) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Hip\-Hop Symposium, Vol\. 3 \(Childhood\)](https://open.spotify.com/album/50PVjxN9VnL451ll774Xfd) | 3:35 | 2022-04-28 | 2022-08-31 |
 | [Limbo](https://open.spotify.com/track/3mgRwzfkoOQROm3ksVpypG) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Hip Hop Symposium \(Full Compilation\)](https://open.spotify.com/album/1EOH2XDgfavkFltfZkX2TW) | 3:35 | 2020-10-20\* | 2022-07-29 |
 | [Litchi](https://open.spotify.com/track/7slyKMCEFXCEiPqMYmAO0X) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Litchi](https://open.spotify.com/album/2OLMlRqfKGDzC9DUqKT1Wi) | 2:33 | 2021-06-02 | 2022-08-31 |
+| [Little Love](https://open.spotify.com/track/5aHAFqPCvV4dn7Pcaehs0V) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Roland Faunte](https://open.spotify.com/artist/1IMFkgZ2ZpHknO1v2n97CH) | [Don't Look at Me](https://open.spotify.com/album/6mNimsORUE9O92lI3H2DiT) | 2:51 | 2023-05-15 |  |
 | [loading](https://open.spotify.com/track/03AAJOztWCV58AMEvtOc3i) | [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [loading](https://open.spotify.com/album/2OFtlJQHnYPvMzJJxbi59F) | 2:15 | 2022-08-30 |  |
 | [Long](https://open.spotify.com/track/6WcQ9jSyQjQHF7FoPmkBAC) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Long/Ephemeral](https://open.spotify.com/album/0Dz2OL6cowrGoHkSOR0SnG) | 2:55 | 2020-10-20\* | 2022-07-29 |
 | [Long](https://open.spotify.com/track/21mee0yCdwwsGw1iUY4sF3) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Long/Ephemeral](https://open.spotify.com/album/4uqFP2FBZZELTuDRriC4nG) | 2:56 | 2022-04-28 | 2022-08-31 |

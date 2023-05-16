@@ -4,7 +4,7 @@
 
 > Workout songs to get your mental right and blood pumping.
 
-81 songs - 4 hr 11 min
+82 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 | 2022-06-09 | 2023-04-25 |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2022-06-09 | 2023-02-23 |
 | [JUMP JUMP!](https://open.spotify.com/track/6VloifAH9GhFnDKg7Bnrlo) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/1vy7C8Ih5xGZM55A8mQME8) | 1:13 | 2023-05-08 |  |
+| [Killer](https://open.spotify.com/track/3yjelmM5m30ItLvmtBjMml) | [Vin Jay](https://open.spotify.com/artist/2DQkr7ZMTqNrlz5HcXZeI7), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [Karma](https://open.spotify.com/album/3SUWqFRKpKP5lsCy8hdlGd) | 3:22 | 2023-05-15 |  |
 | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH) | 3:49 | 2022-06-09 | 2022-08-02 |
 | [Legendary](https://open.spotify.com/track/79QyrteZHwCJwijmJpgziR) | [X\-Raided](https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No), [King Iso](https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle) | [Legendary](https://open.spotify.com/album/5HxslbVnIoZ0NXa4nYICKj) | 2:57 | 2023-04-24 | 2023-05-02 |
 | [Lonely Heart](https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Lonely Heart](https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q) | 2:47 | 2022-06-09 |  |
@@ -68,7 +69,7 @@
 | [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2 \(Deluxe\)](https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk) | 6:03 | 2022-06-09 | 2023-02-23 |
 | [RESPECT \(feat\. Lil Thad, Dubba G & Glockianna\)](https://open.spotify.com/track/21Ba7pnsiV6GqsGJtCRBYN) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Lil Thad](https://open.spotify.com/artist/2YpTaAHmS8mK36GhjIF0pW), [Dubba G](https://open.spotify.com/artist/3q6LWVdiXXVKUWUgfIfXta), [Glockianna](https://open.spotify.com/artist/56JcMPQpx5pfbKnDfaqqfd) | [MEMPHIS MASSACRE III](https://open.spotify.com/album/6zpMySpRlvtUlFhl3TkZ7k) | 3:08 | 2022-10-31 |  |
 | [Rich and Raw](https://open.spotify.com/track/7ezc0ttQI1RdEdJXYk2OVg) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Rich and Raw](https://open.spotify.com/album/4IKZietJgrE6tBFwMGjPFf) | 2:12 | 2022-06-26 |  |
-| [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-06-09 |  |
+| [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-06-09 | 2023-05-16 |
 | [Ring The Alarm](https://open.spotify.com/track/6HeKrqik6GxcbdKsk7FRnt) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Ring The Alarm](https://open.spotify.com/album/0hEbycKgvdwFSUZFWocFcm) | 3:35 | 2022-06-09 |  |
 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 | 2022-06-09 | 2022-09-13 |
 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 | 2022-06-09 |  |

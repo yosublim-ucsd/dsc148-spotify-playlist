@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 160484,
+  "num_followers": 160762,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTRlY2FjY2Q5YWI5N2EzNDFlNmM0NzhlZmRkOGMzYmMwYWY4ZDFj",
+  "snapshot_id": "MCw4NzQ0M2NhYjE2MDQyZWI2NWU5ZTdhOWFkMWFiM2NiYmE1N2QzZGI4",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -303,26 +303,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fingerbreaker: Classics Of Ragtime And Early Jazz Piano",
-        "url": "https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ"
-      },
-      "artists": [
-        {
-          "name": "Scott Joplin",
-          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
-        },
-        {
-          "name": "Morten Gunnar Larsen",
-          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "The Entertainer",
-      "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "A Swingin' Safari (Remastered)",
         "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
       },
@@ -339,18 +319,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Volume Secondo",
-        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
+        "name": "Fingerbreaker: Classics Of Ragtime And Early Jazz Piano",
+        "url": "https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ"
       },
       "artists": [
         {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "Morten Gunnar Larsen",
+          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
         }
       ],
-      "duration_ms": 151092,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
+      "duration_ms": 233600,
+      "name": "The Entertainer",
+      "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -435,6 +419,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Volume Secondo",
+        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 151092,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Los Recuerdos Est\u00e1n Hechos de Esto Vol. 2",
         "url": "https://open.spotify.com/album/2xgU1k2nI3EXak38BIPHA6"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Le Cin\u00e9ma De Francis Lai",
-        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
-      },
-      "artists": [
-        {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Vivre Pour Vivre",
-      "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Music To Watch Girls By",
         "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 111026,
       "name": "Music to Watch Girls By",
       "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Le Cin\u00e9ma De Francis Lai",
+        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Vivre Pour Vivre",
+      "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -675,6 +675,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Sail Along Silv'ry Moon",
         "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 144373,
       "name": "Ballade pour Adeline",
       "url": "https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Look For A Star",
-        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 132600,
-      "name": "Look For A Star",
-      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Sting",
         "url": "https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 183360,
       "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
       "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Look For A Star",
+        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 132600,
+      "name": "Look For A Star",
+      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -955,6 +955,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "101% Cine",
+        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
+      },
+      "artists": [
+        {
+          "name": "Sounds Unlimited",
+          "url": "https://open.spotify.com/artist/7rPQaO8pCTGS9N9vPlieel"
+        }
+      ],
+      "duration_ms": 131255,
+      "name": "P\u00eddele Al Tiempo Que Vuelva",
+      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 260200,
       "name": "Lily Was Here (feat. Candy Dulfer)",
       "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "101% Cine",
-        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
-      },
-      "artists": [
-        {
-          "name": "Sounds Unlimited",
-          "url": "https://open.spotify.com/artist/7rPQaO8pCTGS9N9vPlieel"
-        }
-      ],
-      "duration_ms": 131255,
-      "name": "P\u00eddele Al Tiempo Que Vuelva",
-      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 #1's: One Hit Wonders",
-        "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 202805,
-      "name": "Chariots Of Fire",
-      "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Svezia, Inferno E Paradiso",
         "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 116559,
       "name": "Mah N\u00e0 Mah N\u00e0",
       "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Sue\u00f1o azul",
+        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
+      },
+      "artists": [
+        {
+          "name": "Robson Miguel y grupo",
+          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Concierto para una sola voz",
+      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sue\u00f1o azul",
-        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
+        "name": "20 #1's: One Hit Wonders",
+        "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
       },
       "artists": [
         {
-          "name": "Robson Miguel y grupo",
-          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 142040,
-      "name": "Concierto para una sola voz",
-      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
+      "duration_ms": 202805,
+      "name": "Chariots Of Fire",
+      "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Rhythms Of The World",
-        "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
-      },
-      "artists": [
-        {
-          "name": "Van McCoy",
-          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
-        }
-      ],
-      "duration_ms": 257633,
-      "name": "The Shuffle",
-      "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Danke Schoen - Helmut Zacharias",
         "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
       },
@@ -1295,22 +1279,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Tony Mottola y Su Orquesta",
-        "url": "https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl"
-      },
-      "artists": [
-        {
-          "name": "Tony Mottola y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy"
-        }
-      ],
-      "duration_ms": 113880,
-      "name": "Woodpecker Song",
-      "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Blue Navajo",
         "url": "https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ"
       },
@@ -1327,6 +1295,38 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Rhythms Of The World",
+        "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
+      },
+      "artists": [
+        {
+          "name": "Van McCoy",
+          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
+        }
+      ],
+      "duration_ms": 257633,
+      "name": "The Shuffle",
+      "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Tony Mottola y Su Orquesta",
+        "url": "https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl"
+      },
+      "artists": [
+        {
+          "name": "Tony Mottola y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy"
+        }
+      ],
+      "duration_ms": 113880,
+      "name": "Woodpecker Song",
+      "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Born Losers",
         "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 121333,
       "name": "Billy Jack's Theme",
       "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
+        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Never On Sunday",
+      "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1405,22 +1421,6 @@
       "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
     },
     {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Rain Forest",
-        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
-      },
-      "artists": [
-        {
-          "name": "Walter Wanderley",
-          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
-    },
-    {
       "added_at": "2021-12-23 15:47:25",
       "album": {
         "name": "The Ultimate John Barry",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
-        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
+        "name": "Rain Forest",
+        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
       },
       "artists": [
         {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+          "name": "Walter Wanderley",
+          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
         }
       ],
-      "duration_ms": 162586,
-      "name": "Never On Sunday",
-      "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
+      "duration_ms": 145573,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+        "name": "Die Zauberwelt der Panfl\u00f6te",
+        "url": "https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU"
       },
       "artists": [
         {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+          "name": "Edward Simoni",
+          "url": "https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT"
         }
       ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+      "duration_ms": 174666,
+      "name": "Gefangenenchor aus \"Nabucco\"",
+      "url": "https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6"
     }
   ],
   "unique_name": "Golden Instrumentals",

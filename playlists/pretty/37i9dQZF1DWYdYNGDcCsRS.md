@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdYNGDcCsRS.md) - [plain]
 
 > Legendary Swedish house producer <a href="spotify:artist:15xvsJMf8phaNa1LYvL9Qv">John Dahlbäck</a> takes the decks for a dark and melodic mix perfect for the long summer nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,646 likes - 17 songs - 58 min 36 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,645 likes - 17 songs - 58 min 36 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdYNGDcCsRS.md) - [plain]
 | 16 | [Chakalaka \- Mixed](https://open.spotify.com/track/0OZUnJQg6zBObyNeTuBOZP) | [Wippenberg](https://open.spotify.com/artist/0Orz1QOZQrwampy0S742oK) | [Chakalaka \(Mixed\)](https://open.spotify.com/album/4Cl6YchrnomNpEf2o0tkx0) | 4:58 |
 | 17 | [Carbon \- Mixed](https://open.spotify.com/track/27e9nNYr6wSBxSnrjhEP8k) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Carbon \(Mixed\)](https://open.spotify.com/album/71O0W6iwJPi3dmVsdMgHox) | 3:14 |
 
-Snapshot ID: `MCw2ZTZkOWZhY2NkYTlmZDNiZTVkYjhiNWE0MWZhZTBjODA1Y2YwZjBl`
+Snapshot ID: `MCw2ZWQ1MmI3MmIyNDU4ODE1ZDY5ZWVjZWNlY2E2YmU3NjlhZTg5YzZh`

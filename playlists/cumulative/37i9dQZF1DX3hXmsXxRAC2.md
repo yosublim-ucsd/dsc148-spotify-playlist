@@ -4,7 +4,7 @@
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-145 songs - 9 hr 42 min
+146 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,8 @@
 | [Amor Eterno](https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3) | 5:28 | 2021-12-29 |  |
 | [Amor Eterno](https://open.spotify.com/track/50QkyL59HxlwHnz6wI8KeE) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/6HielLzg5Y4bvzGl14I6Rx) | 5:28 | 2021-12-29 | 2022-07-29 |
 | [Asi Fue](https://open.spotify.com/track/6XNWJmN8Wtes2N769iI1EP) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Lo Mejor De Lo Mejor \(Baladas\)](https://open.spotify.com/album/5PB97GzeL6Z45n1rssA6O1) | 5:24 | 2021-12-29 | 2022-11-13 |
-| [Asi Fue](https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Lo Esencial](https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb) | 5:24 | 2021-12-29 | 2022-07-29 |
-| [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 | 2021-12-29 |  |
+| [Asi Fue](https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Lo Esencial](https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb) | 5:24 | 2021-12-29 |  |
+| [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 | 2021-12-29 | 2023-05-16 |
 | [Así fue](https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [Eres tan distinta a todas](https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb) | 5:03 | 2021-12-29 |  |
 | [Así fue](https://open.spotify.com/track/376s6U4fm7DG9Huz4KZo8Y) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [Pura Cumbia](https://open.spotify.com/album/4SV7jK7vaNTS7WlgeJo3Il) | 5:03 | 2021-12-29 | 2022-11-13 |
 | [Así fue](https://open.spotify.com/track/4dFc72DtGBs7h3R6y9FcUR) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [Eres tan distinta a todas](https://open.spotify.com/album/58KC7yXJGiZqnR2ktlroGG) | 5:03 | 2021-12-29 | 2022-07-29 |
@@ -65,8 +65,8 @@
 | [Hasta Que Te Conocí](https://open.spotify.com/track/4hVpVysNagHdtH4IipkRqM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 7:03 | 2021-12-29 |  |
 | [He Venido a Pedirte Perdón](https://open.spotify.com/track/7IjVM9hrpMF7Qrn15ZJYxN) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:14 | 2021-12-29 |  |
 | [He Venido a Pedirte Perdón](https://open.spotify.com/track/7ebni0Sdf9dV2xzsQMSg7I) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 3:50 | 2021-12-29 |  |
-| [He Venido a Pedirte Perdón](https://open.spotify.com/track/6a8S3GwLGN71SynG79zBfX) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Homenaje A Las Grandes Canciones, Vol\. II](https://open.spotify.com/album/2A03ukPh044CVuW70bSKeW) | 4:13 | 2021-12-29 | 2022-07-29 |
-| [He Venido a Pedirte Perdón](https://open.spotify.com/track/6zU1FdmZvPbPIDx5w2WyhK) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Homenaje a las Grandes Canciones, Vol\. II](https://open.spotify.com/album/6dCpUeGUNor2EUbOGe6F7Z) | 4:13 | 2021-12-29 |  |
+| [He Venido a Pedirte Perdón](https://open.spotify.com/track/6a8S3GwLGN71SynG79zBfX) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Homenaje A Las Grandes Canciones, Vol\. II](https://open.spotify.com/album/2A03ukPh044CVuW70bSKeW) | 4:13 | 2021-12-29 |  |
+| [He Venido a Pedirte Perdón](https://open.spotify.com/track/6zU1FdmZvPbPIDx5w2WyhK) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Homenaje a las Grandes Canciones, Vol\. II](https://open.spotify.com/album/6dCpUeGUNor2EUbOGe6F7Z) | 4:13 | 2021-12-29 | 2023-05-16 |
 | [He Venido a Pedirte Perdón \(with HA\-ASH\)](https://open.spotify.com/track/0yNBnX5iuu108NLpxcI2Yw) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:50 | 2021-12-29 |  |
 | [Inocente Pobre Amiga](https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 3:57 | 2021-12-29 |  |
 | [Inocente Pobre Amiga](https://open.spotify.com/track/0Xl7Q8ROMKdPOlvWd2nC88) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [30 Años de Exitos](https://open.spotify.com/album/3WGjI64qVOhmSUOteU3mwe) | 3:57 | 2021-12-29 | 2022-07-29 |
@@ -84,9 +84,10 @@
 | [Lo Pasado, Pasado](https://open.spotify.com/track/0kEn0wuq5tBhgYrB7gRLxM) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Serie Platino 20 Exitos \- Vol\. 2](https://open.spotify.com/album/2OcLwGpWMIS4MwvYZIGCWY) | 4:06 | 2021-12-29 | 2022-11-13 |
 | [Lo Pasado, Pasado](https://open.spotify.com/track/0N0MCLSnB3318RzJLVLtXt) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 4:08 | 2021-12-29 | 2022-07-29 |
 | [Lo Pasado, Pasado](https://open.spotify.com/track/1HYPtBNR4kXNqBo3wfpW27) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:11 | 2021-12-29 |  |
+| [Luna](https://open.spotify.com/track/64qCBHI5L54SUOZQfGFYcg) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0) | 4:29 | 2023-05-05 |  |
 | [Luna](https://open.spotify.com/track/66Rt6A4aUc45kwtzNt4XZb) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Juan Gabriel \- El Divo y Sus Divas](https://open.spotify.com/album/1FLHikulUj9ZAlMFH6D89n) | 4:30 | 2021-12-29 | 2022-11-14 |
 | [Luna](https://open.spotify.com/track/739NTjHPzGdGG3mf4lgcGT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel Todos Sus Exitos](https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo) | 4:30 | 2021-12-29 | 2022-07-29 |
-| [Luna](https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt) | 4:31 | 2021-12-29 |  |
+| [Luna](https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt) | 4:31 | 2021-12-29 | 2023-05-16 |
 | [Mañana, Mañana \- Primera Fila \- Live Version](https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:59 | 2021-12-29 |  |
 | [Me Gusta Estar Contigo](https://open.spotify.com/track/4MWma3oh4U6javb4kGF1jx) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 2:48 | 2021-12-29 |  |
 | [Me Gusta Estar Contigo \- En Vivo](https://open.spotify.com/track/17ne2PsydVYhLHmcNxPWfL) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos \(En Vivo\)](https://open.spotify.com/album/5NIk6uBVUYggydObu1q9ul) | 2:48 | 2021-12-29 | 2022-07-29 |

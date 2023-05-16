@@ -1,12 +1,12 @@
 {
   "description": "Usar la imaginaci\u00f3n es la soluci\u00f3n de un mundo ideal, \u00a1Vivan lxs ni\u00f1xs!",
-  "num_followers": 136580,
+  "num_followers": 136620,
   "original_name": "\u00a1Feliz d\u00eda de lxs ni\u00f1xs!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjUzNDE4ZWRhNDgzMTNjMjQ2YmJkMmFjOWNkNmMyNjg4ZjkzOGNl",
+  "snapshot_id": "MCw2MDBkZmMwNWE2YmMyMGY1OGQwMjQxYjdmYzM5NjI5Mjc1ZmI3YTFk",
   "tracks": [
     {
       "added_at": "2023-04-27 06:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-04-27 06:00:00",
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Farolito (with Gilberto Gil)",
-      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
-    },
-    {
-      "added_at": "2023-04-27 06:00:00",
-      "album": {
         "name": "En Vivo - Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs"
       },
@@ -903,6 +883,22 @@
       "duration_ms": 178780,
       "name": "Chuchuw\u00e1 - Remasterizado 2016",
       "url": "https://open.spotify.com/track/2IpvzISpbaoqTErnNGS4ec"
+    },
+    {
+      "added_at": "2023-04-27 06:00:00",
+      "album": {
+        "name": "Andrea Echeverri",
+        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
+      },
+      "artists": [
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "A Eme O",
+      "url": "https://open.spotify.com/track/3tM2iXXrWYNrv1yvvgiBhn"
     }
   ],
   "unique_name": "\u00a1Feliz d\u00eda de lxs ni\u00f1xs!",

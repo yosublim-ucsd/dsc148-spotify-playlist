@@ -1219,6 +1219,28 @@
     },
     {
       "album": {
+        "name": "Dripping",
+        "url": "https://open.spotify.com/album/62lsuElEt64tDV7ZGxlFvo"
+      },
+      "artists": [
+        {
+          "name": "Adem & Murat",
+          "url": "https://open.spotify.com/artist/2a5z1qtW664Omyysg7Fgq3"
+        },
+        {
+          "name": "Megan Kashat",
+          "url": "https://open.spotify.com/artist/6jj0DJ4tCgCoKYKgRkAoIT"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194234,
+      "name": "Dripping",
+      "url": "https://open.spotify.com/track/4SKKmtA5ZgbcLzcjTzl8iP"
+    },
+    {
+      "album": {
         "name": "Early Morning Dreams - Remixes",
         "url": "https://open.spotify.com/album/5hziDJWRYSIrfiL0Hpze67"
       },
@@ -2016,7 +2038,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 181000,
       "name": "Isla Bonita - Radio Edit",
       "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
@@ -4425,6 +4447,24 @@
     },
     {
       "album": {
+        "name": "Tangerines",
+        "url": "https://open.spotify.com/album/1gOAS1nyS6NEYJdjvOKQXt"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Tangerines",
+      "url": "https://open.spotify.com/track/5OqAt7yFGoyAV9PEOAmfa1"
+    },
+    {
+      "album": {
         "name": "Indoor Voyager EP",
         "url": "https://open.spotify.com/album/3909IHgEbjaOHcmPDZwAPM"
       },
@@ -4686,7 +4726,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 244800,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/3XSQpsj22eFhBehwDvR2kF"

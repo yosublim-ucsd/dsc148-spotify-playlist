@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 
 > ¡Brillando baldosa! Foto: Grupo Niche
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,596 likes - 65 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,648 likes - 65 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 51 | [Castigala](https://open.spotify.com/track/033vO3yfYViqWIKo8BdrTK) | [Los Nemus Del Pacifico](https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 4:36 |
 | 52 | [La Salsa la Traigo Yo](https://open.spotify.com/track/5ljVAksVW3T7BUN3VvAxzB) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Harold Pelaez](https://open.spotify.com/artist/7dSzgAh9oy23FLoZQtjaH7) | [Al Son de los Cueros](https://open.spotify.com/album/54c38xGI5RK6XolTmY2RFD) | 4:19 |
 | 53 | [Sentimiento Caleño](https://open.spotify.com/track/0Sv9GZus14o4AwvXb8CeYs) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Salsa Pa Rato](https://open.spotify.com/album/6PiAJKP3eTFzCa0Bni784i) | 5:32 |
-| 54 | [Ron Pa' Todo el Mundo \(feat\. Diomedes Díaz\)](https://open.spotify.com/track/4kgAZUvmdUE6f16j4HEVK7) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [32 Grandes Exitos](https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA) | 4:20 |
+| 54 | [Ron Pa' Todo el Mundo \(feat\. Diomedes Díaz\)](https://open.spotify.com/track/6jQeAqkvJfT27Mk87kPlVk) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [El Rey Del Congo De Oro](https://open.spotify.com/album/6UOBUAMiWXbZm0rky3Ivdf) | 4:20 |
 | 55 | [Del Montón](https://open.spotify.com/track/6OHgGc8ukpD0jvdAKgToFO) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b) | [Ay Doctor \- Son Tus Perjúmenes Mujer](https://open.spotify.com/album/3YtuLLbUXHCwkqBuSaiggu) | 3:20 |
 | 56 | [Sabre Olvidar](https://open.spotify.com/track/7ycF9ruw3EKOxY2lgKN5Ks) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [32 Grandes Exitos](https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA) | 4:15 |
 | 57 | [Quiéreme](https://open.spotify.com/track/5BaG1JwoIaxHSagtpEIwxf) | [Orquesta Original Identidad](https://open.spotify.com/artist/53EHeabzyxK2zGoVN6q4vd) | [Un Toque De Misterio](https://open.spotify.com/album/0exYnsHUVHWHRYiiob4ccz) | 4:00 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 64 | [Maria Canela](https://open.spotify.com/track/2AzJDIs4hDFvARTcTRGj0a) | [Cesar Mora](https://open.spotify.com/artist/0xR68AyQA5b3scD6PB8RPS) | [Hacerlo Bien](https://open.spotify.com/album/2hBVT5RuHoYHdfBAhxhPdd) | 5:02 |
 | 65 | [Barranquillero Arrebatao](https://open.spotify.com/track/1sRY0Zez8RbxqsxzEWjNLg) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Grandes Exitos de Salsa, Vol\. 2](https://open.spotify.com/album/2htqg9e6AGwnIoVc0kceDU) | 4:20 |
 
-Snapshot ID: `MCwxNzE4NDU0Y2ViNmJlNWE3NmQ3ODM2MWNmOTM0NzdkY2JiOWY0YmU1`
+Snapshot ID: `MCw4YjMxNjExZDc5ODU1YzMyMzY1OWQzOTFmZjdmMjg3NjUxNjMyMTgw`

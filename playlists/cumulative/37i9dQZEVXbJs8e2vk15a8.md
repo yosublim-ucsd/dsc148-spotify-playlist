@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-994 songs - 2 day 6 hr 8 min
+995 songs - 2 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [El Breve Espacio en Que No Estas](https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Querido Pablo](https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh) | 4:02 | 2022-11-24 | 2022-12-01 |
 | [El Colesterol](https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Las Agüitas](https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD) | 2:56 | 2023-04-20 |  |
 | [El Costillar](https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y) | [Conjunto Alerce](https://open.spotify.com/artist/2pqwxwD3MCX4dM9OSdVoWb) | [Folklore en Mi Escuela\. Danzas y Cantos de América, Vol\. 1](https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww) | 1:53 | 2022-09-16 | 2022-09-24 |
-| [El Gordo Trae El Mando](https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [El Gordo Trae El Mando](https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6) | 1:52 | 2023-02-24 |  |
+| [El Gordo Trae El Mando](https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [El Gordo Trae El Mando](https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6) | 1:52 | 2023-02-24 | 2023-05-16 |
 | [El Guantón Loyola / La Rosa Con el Clavel / La Consentida](https://open.spotify.com/track/3A1LoTe5GVBSsBSXBrZXJ4) | [Los Hermanos Campos](https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6) | [Mas De 100 Cuecas \- Para No Parar Be Bailar](https://open.spotify.com/album/6EIvPjP1nbWEdWUUn7hxcU) | 6:03 | 2022-09-18 | 2022-09-25 |
 | [El Guatón Loyola](https://open.spotify.com/track/3aFCdWQnmCskffgpP9UN8L) | [Los Hermanos del Campos](https://open.spotify.com/artist/4eZsJrNBEqoOwRG1ZMASOR) | [30 Cuecas de Oro](https://open.spotify.com/album/2b7Ig3ikoHTNHLhNAmZLrY) | 2:20 | 2022-09-19 | 2022-09-22 |
 | [El Ladrón De Mi Sueño](https://open.spotify.com/track/4RYNXMKfaUCJNMGauELNjV) | [Beatriz Sanchez](https://open.spotify.com/artist/7IoJwev1Iea2sTIB7nBcDg) | [El Ladrón De Mi Sueño](https://open.spotify.com/album/7FoDJzO3aZ8tCG6T6h9Wdf) | 3:28 | 2022-11-08 | 2022-11-18 |
@@ -835,6 +835,7 @@
 | [Tarima](https://open.spotify.com/track/5yNlgsdQ7LsysOVhxYn5yk) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Pa K Te Enamore](https://open.spotify.com/album/1b1MIUkBs4F7Mhhx59Sbql) | 2:53 | 2022-07-29 | 2022-10-01 |
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-31 | 2022-06-30 |
 | [TASTE \(Lee Know, Hyunjin, Felix\)](https://open.spotify.com/track/2pH3EXnScj9T0Q2ZPpidNt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB) | 3:36 | 2022-11-01 | 2022-11-09 |
+| [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-05-15 |  |
 | [TAY PAPO](https://open.spotify.com/track/2wobyrg2plnNYY9Qy8ZPBK) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TAY PAPO](https://open.spotify.com/album/7a9RHd4sO9X1nFoSBaZzvR) | 2:53 | 2022-07-19 | 2022-09-09 |
 | [Te Amo en Silencio](https://open.spotify.com/track/7udlCswy96a5tyCtnVINUN) | [Entremares](https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU) | [La Vida en Versos..](https://open.spotify.com/album/7BuhI0plokfjW5QaDepizy) | 1:58 | 2022-09-02 | 2022-09-27 |
 | [Te Amo y Punto](https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Te Amo y Punto](https://open.spotify.com/album/2docoJFd5tY0o9iqbsYhsK) | 2:45 | 2022-07-23 | 2022-07-27 |

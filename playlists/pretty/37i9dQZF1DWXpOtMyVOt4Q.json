@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 232050,
+  "num_followers": 232098,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTc0YTc1YTg2MjM2OWRlZjVmNjllYTZjNzg0YmZjMzNhMWEyYzY2",
+  "snapshot_id": "MCw3NzgyMDg4YzdhOTJkZTY4YmI1YjY3OGE3OWRmNjViZjlhOGYwNzcx",
   "tracks": [
     {
       "added_at": "2022-11-22 19:37:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Memoir",
-        "url": "https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI"
-      },
-      "artists": [
-        {
-          "name": "Linearwave",
-          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
-        }
-      ],
-      "duration_ms": 110518,
-      "name": "Jiy\u016b",
-      "url": "https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
         "name": "you're not lost",
         "url": "https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 68571,
       "name": "waking up in the park",
       "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
+        "name": "Memoir",
+        "url": "https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI"
+      },
+      "artists": [
+        {
+          "name": "Linearwave",
+          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
+        }
+      ],
+      "duration_ms": 110518,
+      "name": "Jiy\u016b",
+      "url": "https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv"
     },
     {
       "added_at": "2022-11-22 19:37:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Redwood Colonnade",
-        "url": "https://open.spotify.com/album/4Lbcu9kjXEMs3jPpovk9mL"
-      },
-      "artists": [
-        {
-          "name": "Lifeformed",
-          "url": "https://open.spotify.com/artist/1fHiTME799pW2QlBG6yNjV"
-        }
-      ],
-      "duration_ms": 357642,
-      "name": "Redwood Colonnade",
-      "url": "https://open.spotify.com/track/05vvHWyv10tbLT7IPOxBEC"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
         "name": "Far from Reality",
         "url": "https://open.spotify.com/album/395JmKtHQEzMCI05Mkwb6i"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 127507,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/2yra4e1hv7mRcjPY4GRS9h"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
+        "name": "Redwood Colonnade",
+        "url": "https://open.spotify.com/album/4Lbcu9kjXEMs3jPpovk9mL"
+      },
+      "artists": [
+        {
+          "name": "Lifeformed",
+          "url": "https://open.spotify.com/artist/1fHiTME799pW2QlBG6yNjV"
+        }
+      ],
+      "duration_ms": 357642,
+      "name": "Redwood Colonnade",
+      "url": "https://open.spotify.com/track/05vvHWyv10tbLT7IPOxBEC"
     },
     {
       "added_at": "2022-11-22 19:37:00",

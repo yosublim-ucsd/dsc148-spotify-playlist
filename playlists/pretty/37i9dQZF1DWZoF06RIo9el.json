@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de mayo 2023",
-  "num_followers": 1523375,
+  "num_followers": 1523421,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzZkYmI4NTUwMzE4MjViM2RmOGQyM2M0MzdkNjgzMjgxZTYwMGU4",
+  "snapshot_id": "MCwyN2ViNWZlMThmOWVjZGZlYzk3OTBhODQ5M2E2MjUwYmZkNmEzNDYw",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -223,22 +223,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "La Bolsa Gucci",
-        "url": "https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C"
+        "name": "Acr\u00f3stico",
+        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
       },
       "artists": [
         {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 136120,
-      "name": "La Bolsa Gucci",
-      "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
+      "duration_ms": 170785,
+      "name": "Acr\u00f3stico",
+      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -259,6 +255,26 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "La Bolsa Gucci",
+        "url": "https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "La Bolsa Gucci",
+      "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Portales (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 184511,
       "name": "Que Se Parezca A Ti",
       "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Acr\u00f3stico",
-        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 170785,
-      "name": "Acr\u00f3stico",
-      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 180003,
-      "name": "No Te Sientes Igual",
-      "url": "https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "mi man\u00e1",
         "url": "https://open.spotify.com/album/1fevpnl0PSdkl08iVkxh4m"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 172077,
       "name": "mi man\u00e1",
       "url": "https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 180003,
+      "name": "No Te Sientes Igual",
+      "url": "https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "TRES SHOT",
+        "url": "https://open.spotify.com/album/65am4H2fAGBw03YrDdqCTT"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "duration_ms": 152640,
+      "name": "TRES SHOT",
+      "url": "https://open.spotify.com/track/4hNCIzbwo0ljZWjHy2nk4k"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Velero",
         "url": "https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 211986,
       "name": "en la ciudad",
       "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "TRES SHOT",
-        "url": "https://open.spotify.com/album/65am4H2fAGBw03YrDdqCTT"
-      },
-      "artists": [
-        {
-          "name": "Aqua VS",
-          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
-        }
-      ],
-      "duration_ms": 152640,
-      "name": "TRES SHOT",
-      "url": "https://open.spotify.com/track/4hNCIzbwo0ljZWjHy2nk4k"
     },
     {
       "added_at": "2023-05-12 04:00:00",

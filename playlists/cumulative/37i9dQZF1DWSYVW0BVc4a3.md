@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: ARTBAT
 
-513 songs - 1 day 16 hr 50 min
+514 songs - 1 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Kami](https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Kami EP](https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ) | 5:15 | 2022-08-18 | 2022-09-24 |
 | [Kammy \(like i do\)](https://open.spotify.com/track/32DqQqnNiZI5VxozdaUUDu) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/28ajXoSpiEOh1W4neVxxgS) | 3:58 | 2022-10-06 | 2023-02-03 |
 | [Kammy \(like i do\)](https://open.spotify.com/track/3j4OQit2L6QaepCMBnAt4c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/3hYksFQ1oq8EGadqmU0sOi) | 3:58 | 2022-10-20 | 2022-10-28 |
-| [KEEP ME IN YOUR MIND \- Einmusik Remix](https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [KEEP ME IN YOUR MIND \(Einmusik Remix\)](https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb) | 6:29 | 2023-03-09 |  |
+| [KEEP ME IN YOUR MIND \- Einmusik Remix](https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [KEEP ME IN YOUR MIND \(Einmusik Remix\)](https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb) | 6:29 | 2023-03-09 | 2023-05-16 |
 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 | 2022-09-22 |  |
 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 | 2022-11-10 | 2023-03-10 |
 | [Kontinuum](https://open.spotify.com/track/7igvHZiaSaHHTrU3DLS5uM) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Tania Zygar](https://open.spotify.com/artist/65taSIk8y1qNzK8ddRewQe) | [Kontinuum](https://open.spotify.com/album/4zol09vhrkh0iIbpq8vKBT) | 3:39 | 2023-04-06 | 2023-04-14 |
@@ -344,6 +344,7 @@
 | [Passport](https://open.spotify.com/track/7A8Vo9at28xDZXbv75Qcih) | [Browncoat](https://open.spotify.com/artist/20KOrIBD7S9u4Itph4BX0s) | [Passport](https://open.spotify.com/album/0Viwjq046XLXUlxF0o1Bxj) | 6:56 | 2022-12-27 | 2023-01-02 |
 | [Patchouli](https://open.spotify.com/track/37WdQxvQVFVsWwQvk4uCQd) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2TSyEyxSs1gtLBN7Uprdfg) | 4:47 | 2022-12-01 | 2023-03-18 |
 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 | 2022-09-29 | 2022-12-02 |
+| [Pation](https://open.spotify.com/track/6pTUZ5Pc60FIfPCMlZgvnt) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Pation](https://open.spotify.com/album/6BBV9NxZpCETlsqyKVJzeF) | 3:19 | 2023-05-11 |  |
 | [Pax](https://open.spotify.com/track/00DrCz52C36qaTPItWpCNK) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Pax](https://open.spotify.com/album/3Qk1ydD4XDPOdLOOqCF4Lh) | 5:05 | 2022-09-16 | 2022-09-23 |
 | [Pax \- Four Tet Remix](https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Steamin EP](https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R) | 5:20 | 2022-09-22 | 2023-05-07 |
 | [Pegasus](https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Pegasus](https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV) | 6:52 | 2023-03-23 |  |

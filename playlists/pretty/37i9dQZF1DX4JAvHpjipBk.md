@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lil Durk & J\. Cole, Shakira, Jonas Brothers, Thirty Seconds To Mars, BTS and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,116,813 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,114,733 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [carole king](https://open.spotify.com/track/4VdYhyqZCi3BbeFiGdzTo1) | [PISSKISS](https://open.spotify.com/artist/0SeXCXXWOD0Fld3oHvdyyL) | [carole king](https://open.spotify.com/album/4QcMtvtV3lNSXEpirqXjHa) | 3:51 |
 | 100 | [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 |
 
-Snapshot ID: `MCw3YmVhZjgzYzQ2NmI0YjVlYTEzNDY5NTZjMzhjOGVlY2UwZjVlNjcz`
+Snapshot ID: `MCw5ZGY4YjU3OWFlNTMwMjBiOTNlZjFmMjUxNmFkYmUxN2M4MzI4MTk1`

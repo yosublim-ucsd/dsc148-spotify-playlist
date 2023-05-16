@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/7DaTzlcbwZ1ulJT6bYJare"
+      },
+      "artists": [
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "About U",
+      "url": "https://open.spotify.com/track/6j0aEMAR0VppYk39s1hnw8"
+    },
+    {
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir"
       },
@@ -6216,6 +6234,28 @@
       "duration_ms": 192000,
       "name": "On The Beach",
       "url": "https://open.spotify.com/track/4I9lRMeXjpHClXcwXRi1nF"
+    },
+    {
+      "album": {
+        "name": "On The Inside",
+        "url": "https://open.spotify.com/album/6YaqphTghJSjHH0zcUYXq9"
+      },
+      "artists": [
+        {
+          "name": "Alex H",
+          "url": "https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB"
+        },
+        {
+          "name": "Matt Sky",
+          "url": "https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "On The Inside",
+      "url": "https://open.spotify.com/track/7ADnLRvlp5yDkC5VKvigOO"
     },
     {
       "album": {

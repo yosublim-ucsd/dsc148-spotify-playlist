@@ -344,7 +344,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 182106,
       "name": "Begging",
       "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
@@ -730,6 +730,24 @@
       "duration_ms": 181786,
       "name": "Euphoria - Single Version",
       "url": "https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk"
     },
     {
       "album": {

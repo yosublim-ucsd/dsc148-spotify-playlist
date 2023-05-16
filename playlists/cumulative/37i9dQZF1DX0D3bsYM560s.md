@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-87 songs - 4 hr 56 min
+89 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Dark Skies](https://open.spotify.com/track/6WZhUdMsbYpRuO7VzguKI1) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [I've Got That Old Feeling](https://open.spotify.com/album/1ETt1sfe0PREZLQqsIOAU7) | 2:23 | 2023-04-14 |  |
 | [Darlin Corey](https://open.spotify.com/track/01US6qSOiVt2w94P3MbV2G) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:16 | 2023-04-14 |  |
 | [Don't You Know I'm from Here](https://open.spotify.com/track/6TzKeFnvMOgfdzhoVPtanm) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Don't You Know I'm from Here](https://open.spotify.com/album/3PlfYSxMlOhkLmoSP9mL1P) | 4:22 | 2023-04-14 |  |
+| [El Dorado](https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [El Dorado](https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV) | 4:23 | 2023-05-15 |  |
 | [Fare Thee Well](https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L) | [Lindley Creek](https://open.spotify.com/artist/6vIP2iHsvSVIJmdICjQxeB) | [Fare Thee Well](https://open.spotify.com/album/1czCHSqWNLh8BVLjJHJzya) | 3:06 | 2023-04-14 |  |
 | [Fine Times at Our House](https://open.spotify.com/track/1v0N9HBqKKCJfhCLV9GuIb) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 2:17 | 2023-04-14 |  |
 | [Gentle On My Mind](https://open.spotify.com/track/74WL1tJtovyeOS6Zo4qIX9) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Windy City \(Deluxe\)](https://open.spotify.com/album/0ZV0ADSGaNPIt9Avv3H0GG) | 3:34 | 2023-04-14 |  |
@@ -54,6 +55,7 @@
 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 | 2023-04-14 |  |
 | [Mountain Banjo](https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:41 | 2023-04-14 |  |
 | [Night Singing](https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 2:11 | 2023-04-14 |  |
+| [Odds of Getting Even](https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Odds of Getting Even](https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE) | 3:15 | 2023-05-15 |  |
 | [Old Songs Never Die](https://open.spotify.com/track/1IQWXHm4JHL3xpHYrlawtR) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo) | 2:34 | 2023-04-14 |  |
 | [Old Songs Never Die](https://open.spotify.com/track/3FKtWyA5l5mNGEGv0uRDSm) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43) | 2:34 | 2023-04-14 | 2023-04-30 |
 | [One Voice](https://open.spotify.com/track/1p5scXmqROMpCC2Xv6neHe) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [40 Days](https://open.spotify.com/album/5x3Nva9X9Mjr15GI3YKaBr) | 3:23 | 2023-04-14 |  |

@@ -885,6 +885,32 @@
     },
     {
       "album": {
+        "name": "Hawayein (Tabla Mix)",
+        "url": "https://open.spotify.com/album/1KXnLF6WrBqnkFyOvTETd5"
+      },
+      "artists": [
+        {
+          "name": "Vaibhav Verma",
+          "url": "https://open.spotify.com/artist/5L9Yo4UhR3CRfnhQZujsoV"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Hawayein - Tabla Mix",
+      "url": "https://open.spotify.com/track/6SCT13Z8oCcZQ8gDMnXYKt"
+    },
+    {
+      "album": {
         "name": "Ekk Deewana Tha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7u8VFwwX4grIUnuHriflDf"
       },

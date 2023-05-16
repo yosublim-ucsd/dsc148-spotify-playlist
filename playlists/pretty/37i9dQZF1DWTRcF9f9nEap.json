@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 71104,
+  "num_followers": 71158,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjlhMjlhOTJjNzQxYTFlYWQ4ZjU2NDFhMDA1ODM1YTA0YzUzZDMx",
+  "snapshot_id": "MCxlM2VlYTJlNzkyNDg5ZDEyYzZiN2FmYWMwYTdmOWRiOTM5ODI1NzVl",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "The 1971 Fillmore East Recordings",
+        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
         "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
       },
@@ -243,22 +259,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "The 1971 Fillmore East Recordings",
-        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Genuine Houserocking Music",
         "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
       },
@@ -271,38 +271,6 @@
       "duration_ms": 210493,
       "name": "Ain't Got Nobody",
       "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 198560,
-      "name": "Dark Was the Night, Cold Was the Ground",
-      "url": "https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Ry Cooder",
-        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Available Space",
-      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -323,18 +291,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Already Free",
-        "url": "https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS"
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
       },
       "artists": [
         {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
         }
       ],
-      "duration_ms": 302306,
-      "name": "Down In the Flood",
-      "url": "https://open.spotify.com/track/5U51nS2N1TDL1HEHEio7mC"
+      "duration_ms": 198560,
+      "name": "Dark Was the Night, Cold Was the Ground",
+      "url": "https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -355,22 +323,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Fight For Your Mind",
-        "url": "https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Ground On Down",
-      "url": "https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Hittin' the Note",
         "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
       },
@@ -383,6 +335,54 @@
       "duration_ms": 372560,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Ry Cooder",
+        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 134066,
+      "name": "Available Space",
+      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Already Free",
+        "url": "https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "duration_ms": 302306,
+      "name": "Down In the Flood",
+      "url": "https://open.spotify.com/track/5U51nS2N1TDL1HEHEio7mC"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Fight For Your Mind",
+        "url": "https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Ground On Down",
+      "url": "https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 219637,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/0JsQSLUInJGc5RmWAOBs9p"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 135106,
+      "name": "Talk To Me Baby",
+      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -587,18 +603,34 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+        "name": "White Hot Blues",
+        "url": "https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 135106,
-      "name": "Talk To Me Baby",
-      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
+      "duration_ms": 303520,
+      "name": "Highway 61 Revisited - Live in California - September 1975",
+      "url": "https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Gone to Texas",
+        "url": "https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 247906,
+      "name": "Death Row",
+      "url": "https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -623,22 +655,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "White Hot Blues",
-        "url": "https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 303520,
-      "name": "Highway 61 Revisited - Live in California - September 1975",
-      "url": "https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Deuce (Remastered 2017)",
         "url": "https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 344492,
       "name": "In Your Town",
       "url": "https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Gone to Texas",
-        "url": "https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 247906,
-      "name": "Death Row",
-      "url": "https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Dig In Deep",
-        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 249093,
-      "name": "Gypsy In Me",
-      "url": "https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Don't Let The Bossman Get You Down!",
         "url": "https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Fresh Evidence (Remastered 2017)",
-        "url": "https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst"
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
       },
       "artists": [
         {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 480149,
-      "name": "Ghost Blues",
-      "url": "https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E"
+      "duration_ms": 249093,
+      "name": "Gypsy In Me",
+      "url": "https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Fresh Evidence (Remastered 2017)",
+        "url": "https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 480149,
+      "name": "Ghost Blues",
+      "url": "https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "The Best of Peter Green's Fleetwood Mac",
-        "url": "https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "My Heart Beat Like a Hammer",
-      "url": "https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "3rd Degree (Remastered)",
         "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 274506,
       "name": "Bad Girl Blues - Remastered",
       "url": "https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "The Best of Peter Green's Fleetwood Mac",
+        "url": "https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "My Heart Beat Like a Hammer",
+      "url": "https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW"
     }
   ],
   "unique_name": "Slide Guitar Heroes",

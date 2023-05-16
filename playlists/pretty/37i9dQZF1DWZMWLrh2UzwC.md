@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,126 likes - 87 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,130 likes - 87 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 86 | [The Forgotten Honeymoon](https://open.spotify.com/track/0tFc5y2jQXoPdkQ3AyxvXM) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [The Forgotten Honeymoon](https://open.spotify.com/album/6gM2GBC8CCzZa6TDcgo3xe) | 3:34 |
 | 87 | [All Over Your Body](https://open.spotify.com/track/0fzLeKFa0E77C32S5fZ5ET) | [NICKIIE](https://open.spotify.com/artist/4t9KjIvjkNdv2KFosqr5xT) | [All Over Your Body](https://open.spotify.com/album/2gQ2u1yjazsI7oKuMzvMZ1) | 3:24 |
 
-Snapshot ID: `MCwyZWQwNDNiZDg1NmQwOTE1MWRkNDFjNDlhZjE3YWM0NjQ2ZmRlZDQ2`
+Snapshot ID: `MCw0OThiMTc2MTg0ZTQxYzk2Zjc1NDI0YTBlZGFmYjcwNzhiNDNlZTg1`

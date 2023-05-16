@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Manuel Turizo, Sebastián Yatra & Beéle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,473 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,515 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 69 | [Que Vuelvas](https://open.spotify.com/track/5bDhPNr7GEnWgkIhJJlufs) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Que Vuelvas](https://open.spotify.com/album/1SsytdtyKIfoOH7ziFfmjY) | 2:23 |
 | 70 | [Me Rehúso](https://open.spotify.com/track/7IMicgO40bIVPhn2JQn582) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Me Rehúso](https://open.spotify.com/album/3mjtWv2cQN6zczYEVCNnwW) | 2:51 |
 
-Snapshot ID: `MCw1NDI1ZmY3MjVjM2ZhZDk5ZTljM2Q3MjY1N2RiNjlkODdlOTM1NWUw`
+Snapshot ID: `MCwyYjY5NGY5YjljNDQzNGM1MzZmYWJjNzkxZWU5ZGZiYzlkODllYjZi`

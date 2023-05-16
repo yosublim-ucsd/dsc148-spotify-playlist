@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,906 likes - 188 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,925 likes - 188 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 7 | [Better Break My Heart \- Acoustic version](https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Better Break My Heart](https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32) | 2:55 |
 | 8 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 |
 | 9 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 |
-| 10 | [Pumped Up Kicks](https://open.spotify.com/track/2TfGvs7TY0NB1lblUVVFXy) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Pumped Up Kicks](https://open.spotify.com/album/4nKXb6pbqWLC72Ri695FTf) | 2:09 |
+| 10 | [Pumped Up Kicks](https://open.spotify.com/track/2TfGvs7TY0NB1lblUVVFXy) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Pumped Up Kicks](https://open.spotify.com/album/4nKXb6pbqWLC72Ri695FTf) | 2:09 |
 | 11 | [Boy's A Liar](https://open.spotify.com/track/1EOdKbgizAfNRV6j2Rm3E3) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [Boy's A Liar](https://open.spotify.com/album/0ZmhHFfrXJ7ItNaIgHtQXQ) | 3:40 |
 | 12 | [Those Eyes](https://open.spotify.com/track/4HyBPhQQodPLaf5solOIDN) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Those Eyes](https://open.spotify.com/album/4puw9Hf1Unj7Kasb1ZAxso) | 2:44 |
 | 13 | [Attention](https://open.spotify.com/track/3gfj8KspdXnjhE60lCtau6) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Attention](https://open.spotify.com/album/0LFGuTTSzJriA5NueC6uNI) | 2:58 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 187 | [Stack It Up \- Acoustic](https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Stack It Up \(Acoustic\)](https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE) | 2:42 |
 | 188 | [Boyfriend](https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Boyfriend](https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo) | 2:59 |
 
-Snapshot ID: `MCwwYjI5Yjc3YjYwNDRiZGM1ZjVjYTNkMjgwMTM3NTk4YzFjMjViNWVk`
+Snapshot ID: `MCxmZTVjZjM0MWU3NmU4YjFkZDQ2MzkzMTM2NTczOTI0NTc0OGU0YzMy`

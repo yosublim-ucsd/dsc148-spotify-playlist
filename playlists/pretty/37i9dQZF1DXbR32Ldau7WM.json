@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: Ling toshite sigure(\u51db\u3068\u3057\u3066\u6642\u96e8)",
-  "num_followers": 256478,
+  "num_followers": 256610,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzdmM2M2MTFmMmI2ODM0NGM0YTFkMmUyYmYxODcxYjMwZWRjYjI2",
+  "snapshot_id": "MCwwZmJmZDhhNzg1ZTZiMDIwZjdmM2QzNWVkY2E3NjYxMjYyODczZWI0",
   "tracks": [
     {
       "added_at": "2023-05-11 15:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "Dive in Your Faith",
-        "url": "https://open.spotify.com/album/38QdEHccuklJS8B35kl2qE"
-      },
-      "artists": [
-        {
-          "name": "Fear, and Loathing in Las Vegas",
-          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
-        }
-      ],
-      "duration_ms": 207425,
-      "name": "Dive in Your Faith",
-      "url": "https://open.spotify.com/track/0pzu9pwttcFnbx822XA9xx"
-    },
-    {
-      "added_at": "2023-05-11 15:00:00",
-      "album": {
         "name": "\u9cf4\u308a\u97ff\u304f\u9650\u308a",
         "url": "https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-05-11 15:00:00",
       "album": {
-        "name": "HC 2023 episode 1 -THE GHOST/\u9650\u754c\u7a81\u7834-",
-        "url": "https://open.spotify.com/album/5e077p1aChzsL6caaqIvwI"
+        "name": "Dive in Your Faith",
+        "url": "https://open.spotify.com/album/38QdEHccuklJS8B35kl2qE"
       },
       "artists": [
         {
-          "name": "GLAY",
-          "url": "https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1"
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
         }
       ],
-      "duration_ms": 210626,
-      "name": "\u9650\u754c\u7a81\u7834",
-      "url": "https://open.spotify.com/track/0PvlpMPznviBbMHOlMe0Lj"
+      "duration_ms": 207425,
+      "name": "Dive in Your Faith",
+      "url": "https://open.spotify.com/track/0pzu9pwttcFnbx822XA9xx"
     },
     {
       "added_at": "2023-05-11 15:00:00",
@@ -795,6 +779,22 @@
       "duration_ms": 218866,
       "name": "SLEEPLESS",
       "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
+    },
+    {
+      "added_at": "2023-05-11 15:00:00",
+      "album": {
+        "name": "HC 2023 episode 1 -THE GHOST/\u9650\u754c\u7a81\u7834-",
+        "url": "https://open.spotify.com/album/5e077p1aChzsL6caaqIvwI"
+      },
+      "artists": [
+        {
+          "name": "GLAY",
+          "url": "https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "\u9650\u754c\u7a81\u7834",
+      "url": "https://open.spotify.com/track/0PvlpMPznviBbMHOlMe0Lj"
     },
     {
       "added_at": "2023-05-11 15:00:00",

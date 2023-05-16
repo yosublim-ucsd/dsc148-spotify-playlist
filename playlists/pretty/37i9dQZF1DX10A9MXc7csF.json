@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: ERRE",
-  "num_followers": 98908,
+  "num_followers": 98923,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmIwNDMxOTM0NmQ0NDQ0OWI1MmU1MjQyZjZkNDc3OTk0ZTZlZjBh",
+  "snapshot_id": "MCxlYmIwNWM3MzkzZGE1MTgxNmYxZGY2ZTNlMDM2MjViMTNjMTRkMWQw",
   "tracks": [
     {
       "added_at": "2023-04-21 06:22:36",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
+        "name": "Ni Modo Que Sea Mentira",
+        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 183934,
+      "name": "El Gallo Negro",
+      "url": "https://open.spotify.com/track/76usisYYCiUistKv5mpWO0"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
         "name": "Negro Como La Pantera",
         "url": "https://open.spotify.com/album/1V2a8dVFLfV4lju73nnIXr"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 129953,
       "name": "Negro Como La Pantera",
       "url": "https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
-        "name": "Ni Modo Que Sea Mentira",
-        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 183934,
-      "name": "El Gallo Negro",
-      "url": "https://open.spotify.com/track/76usisYYCiUistKv5mpWO0"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
+        "name": "Mi Propuesta",
+        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 205075,
+      "name": "Mi Propuesta",
+      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
         "name": "Golpe de Suerte (En Vivo)",
         "url": "https://open.spotify.com/album/62bReN6yDjgYG3Aw3oKt4S"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 228560,
       "name": "El Mago",
       "url": "https://open.spotify.com/track/64BT7EQGUDDPbDImkOprxS"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
-        "name": "Mi Propuesta",
-        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 205075,
-      "name": "Mi Propuesta",
-      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
+        "name": "AJUA",
+        "url": "https://open.spotify.com/album/3wbsfxUYx5niEAz1qtzv27"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 149887,
+      "name": "AJUA",
+      "url": "https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
         "name": "San Mike",
         "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 175285,
       "name": "Te Voy a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/04vBxuAspmsQYLa1KprV8m"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
-        "name": "AJUA",
-        "url": "https://open.spotify.com/album/3wbsfxUYx5niEAz1qtzv27"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 149887,
-      "name": "AJUA",
-      "url": "https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "Tiempo Perdido",
-        "url": "https://open.spotify.com/album/0G19We9KJd6Njy3xtlC2Ot"
-      },
-      "artists": [
-        {
-          "name": "Distinto",
-          "url": "https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz"
-        }
-      ],
-      "duration_ms": 232153,
-      "name": "DIFF",
-      "url": "https://open.spotify.com/track/6XOn65GQp7L7Xg80RO3ZDb"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
         "name": "Vivo el Peligro",
         "url": "https://open.spotify.com/album/0TncPHLg7DTj923SQ4keIr"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 165413,
       "name": "Envidiada",
       "url": "https://open.spotify.com/track/70YwTegvGKryJg2NZPFCf1"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
+        "name": "Tiempo Perdido",
+        "url": "https://open.spotify.com/album/0G19We9KJd6Njy3xtlC2Ot"
+      },
+      "artists": [
+        {
+          "name": "Distinto",
+          "url": "https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz"
+        }
+      ],
+      "duration_ms": 232153,
+      "name": "DIFF",
+      "url": "https://open.spotify.com/track/6XOn65GQp7L7Xg80RO3ZDb"
     },
     {
       "added_at": "2023-04-21 06:22:36",

@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 133894,
       "name": "cuatro veinte",
       "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
@@ -12660,6 +12660,24 @@
     {
       "album": {
         "name": "Pa La Europa",
+        "url": "https://open.spotify.com/album/1wuxxtmnD0DAsMEHmqMcgu"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219753,
+      "name": "Pa La Europa",
+      "url": "https://open.spotify.com/track/0MoTNY46hAvSVq2CdN1xHk"
+    },
+    {
+      "album": {
+        "name": "Pa La Europa",
         "url": "https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn"
       },
       "artists": [
@@ -13981,6 +13999,32 @@
     },
     {
       "album": {
+        "name": "Mercurio",
+        "url": "https://open.spotify.com/album/7JEZGnUVRgBNM46EBOzVC2"
+      },
+      "artists": [
+        {
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+        },
+        {
+          "name": "B Sanz",
+          "url": "https://open.spotify.com/artist/1xj7SYyEFaa23BgBMTs9nk"
+        },
+        {
+          "name": "Cidtronyck",
+          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "QUE BIEN",
+      "url": "https://open.spotify.com/track/7d7jaZlPPLlorjfbdL4XEB"
+    },
+    {
+      "album": {
         "name": "Que linda te ves",
         "url": "https://open.spotify.com/album/6eHZSp9pykdrnUNlFmEirH"
       },
@@ -14750,7 +14794,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 243500,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"

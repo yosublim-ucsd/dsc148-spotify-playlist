@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,665 likes - 112 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,693 likes - 112 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [All Over Your Body](https://open.spotify.com/track/0fzLeKFa0E77C32S5fZ5ET) | [NICKIIE](https://open.spotify.com/artist/4t9KjIvjkNdv2KFosqr5xT) | [All Over Your Body](https://open.spotify.com/album/2gQ2u1yjazsI7oKuMzvMZ1) | 3:24 |
 | 112 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 |
 
-Snapshot ID: `MCxmM2M5NzRlNWQ2ZDAyN2YxM2VlNTM4NzlkYzkwYzI5YWRlOWI3NmQw`
+Snapshot ID: `MCwxOTUyMjRmYzY0MWJkOTE4ZDhmMTJhNjdhZmRmZTYyOGY3ZGE1NTc2`

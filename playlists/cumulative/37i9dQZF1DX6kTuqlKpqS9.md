@@ -4,7 +4,7 @@
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-81 songs - 5 hr 32 min
+83 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Estuve \- En Vivo](https://open.spotify.com/track/3FYqBFgxf9xTSqOv07BVSy) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(En Vivo\)](https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc) | 3:19 | 2021-12-29 |  |
 | [Gracias Por Tanto Amor \- En Vivo](https://open.spotify.com/track/0OiTHFIm12ConCiZlsPjGH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [En Vivo Desde La Plaza El Progreso De Guadalajara](https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j) | 3:44 | 2021-12-29 |  |
 | [Guadalajara \- En Vivo](https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:23 | 2021-12-29 |  |
-| [Hasta Que Te Conocí \- En Vivo](https://open.spotify.com/track/3lknjujNXrpUqab4Drj7Nm) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 3:44 | 2021-12-29 |  |
+| [Hasta Que Te Conocí \- En Vivo](https://open.spotify.com/track/3lknjujNXrpUqab4Drj7Nm) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 3:44 | 2021-12-29 | 2023-05-16 |
+| [Hasta Que Te Conocí \- En Vivo \- Remasterizado](https://open.spotify.com/track/09ecAy3dQdxRUlNm5ogVHp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:40 | 2021-12-29 |  |
 | [Hasta Que Te Conocí \- En Vivo \- Remasterizado](https://open.spotify.com/track/1G8GC7MXucd5l7dU6ifgAT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:40 | 2021-12-29 | 2022-11-13 |
 | [Hermoso Cariño](https://open.spotify.com/track/1HBDEruKxQkb9nZnp2QE5B) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:12 | 2021-12-29 |  |
 | [Homenaje a Lola \(Popurrí\) \- En Vivo \[Desde el Instituto Nacional de Bellas Artes\]](https://open.spotify.com/track/1jAuWENO3fqVV95sZRyKGQ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Celebrando 25 Años De Juan Gabriel En El Palacio De Bellas Artes](https://open.spotify.com/album/3EdXKrmsoiThC0FWi9ctNH) | 8:44 | 2021-12-29 |  |
@@ -71,7 +72,8 @@
 | [Por Mujeres Como Tú \- En Vivo](https://open.spotify.com/track/0LnyfUMO40rj29KE1Sg5jr) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [La Familia Aguilar En Vivo \(Live At The Plaza De Toro / Mexico City, MX / July 1998\)](https://open.spotify.com/album/3nCp3IP8zWaB6fndlAORwh) | 4:08 | 2021-12-29 |  |
 | [Porqué No Le Calas \- En Vivo Desde Culiacán, México/2012](https://open.spotify.com/track/0z6ZH9ZHbvk8SfK6JfLu0N) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [1 Vida \- 3 Historias \- Despedida De Culiacán \(En Vivo Desde Culiacán, México/2012\)](https://open.spotify.com/album/3WlN6A2y1EKdI74XPoqMHt) | 3:01 | 2021-12-29 | 2022-10-23 |
 | [Porqué No Le Calas \- Live](https://open.spotify.com/track/0Dft414yW63Hh7t5xlb8El) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [1 Vida – 3 Historias Despedida De Culiacan \(En Vivo Desde Culiacan, Mexico 2012\)](https://open.spotify.com/album/504V91nbehQse2zsrqNzHs) | 3:01 | 2021-12-29 |  |
-| [Propuesta \- En Vivo](https://open.spotify.com/track/4Zl5AKUay474fVyY9Rop7y) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 3:29 | 2021-12-29 |  |
+| [Propuesta \- En Vivo](https://open.spotify.com/track/4Zl5AKUay474fVyY9Rop7y) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 3:29 | 2021-12-29 | 2023-05-16 |
+| [Propuesta \- En Vivo \- Remasterizado](https://open.spotify.com/track/5SDff61AfRGrIpxLIZkiBW) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:24 | 2021-12-29 |  |
 | [Que Te Ruegue Quien Te Quiera \- En Vivo Auditorio Nacional](https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 3:07 | 2021-12-29 |  |
 | [Romances \(Voy a apagar la luz / Contigo aprendí / Por debajo de la mesa / El reloj / Sabor a mí / La gloria eres tú / Bésame mucho\) \- En vivo](https://open.spotify.com/track/7exfNBa2ZlzKKDikpyGyKu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 14:46 | 2021-12-29 |  |
 | [Secreto De Amor \- En Vivo](https://open.spotify.com/track/4dmRntbw2COWNacQzUWt6q) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(En Vivo\)](https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc) | 3:43 | 2021-12-29 |  |

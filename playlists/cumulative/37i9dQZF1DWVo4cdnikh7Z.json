@@ -1307,6 +1307,32 @@
     },
     {
       "album": {
+        "name": "Ava Kanna Paatha (From \"Kazhuvethi Moorkkan\")",
+        "url": "https://open.spotify.com/album/6HSozkeAPOmVokM15RZQXk"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        },
+        {
+          "name": "Jithin Raj",
+          "url": "https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243634,
+      "name": "Ava Kanna Paatha - From \"Kazhuvethi Moorkkan\"",
+      "url": "https://open.spotify.com/track/5aKJABq5gHZL8QzT1NrhWw"
+    },
+    {
+      "album": {
         "name": "Avan Avan (From \"Prithviraj\") - Tamil Version",
         "url": "https://open.spotify.com/album/33V7jXc4BuwQga5HMs8tyB"
       },
@@ -14432,6 +14458,32 @@
       "duration_ms": 258437,
       "name": "Vaadi Vaasal - From \"The Legend\"",
       "url": "https://open.spotify.com/track/1603c8fUKw65aJubrsTnAt"
+    },
+    {
+      "album": {
+        "name": "Vaalu Party (From \"Theera Kaadhal\")",
+        "url": "https://open.spotify.com/album/5ebMZFyM1dMwzpe3ZxUvXv"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Prarthana Sriram",
+          "url": "https://open.spotify.com/artist/7EdorwRDTYPcN7vkcWaEjm"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Vaalu Party - From \"Theera Kaadhal\"",
+      "url": "https://open.spotify.com/track/3tfcW6P6TYbiLRi0Cw1EYC"
     },
     {
       "album": {

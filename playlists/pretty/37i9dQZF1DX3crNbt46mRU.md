@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Loi
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,819 likes - 115 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,815 likes - 115 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 114 | [Lauf](https://open.spotify.com/track/7d8mo4A255IToerZNguieR) | [CARY](https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv) | [Lauf](https://open.spotify.com/album/6xYlmcdkzu7vopLPtjdxxE) | 2:23 |
 | 115 | [The Curtain Falls](https://open.spotify.com/track/3cesghNhbiVhxpYdiWbn3h) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Blood & Glitter \(Deluxe Version\)](https://open.spotify.com/album/2VvSKrtQLQ0mNUXCodbKfE) | 3:01 |
 
-Snapshot ID: `MCw1ZDhiNzI5YzhlOTFiZWYyNzczMzM2ZDM5MmVhZjk5YTc1NzBmNDhh`
+Snapshot ID: `MCwxYmYwZjM2NjQyYzFkYmJlZjM3ZmI1YWY4YzE5MDZjNjQ4NmUxZDA0`

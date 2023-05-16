@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 110333,
+  "num_followers": 110378,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzgwMTJlZTk1NjM0ZjVjNTllYmFiOTc2OWIxZmNhNDQxNmQ4ZGY1",
+  "snapshot_id": "MCwxNzM0ZWE5YzY2NDkwMWM4NTdiM2VkZDQ3OTc1NjJiOWFmMDFhYjUx",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Contra Nosotros?",
-        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/57ogj5vevbzdRtC8Ng2Rtx"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "No Fallar\u00e1 (Remix)",
         "url": "https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf"
       },
@@ -163,6 +147,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "\u00bfQui\u00e9n Contra Nosotros?",
+        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/57ogj5vevbzdRtC8Ng2Rtx"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Vive en M\u00ed",
         "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
       },
@@ -211,22 +211,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Historia",
-        "url": "https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Rios",
-          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
-        }
-      ],
-      "duration_ms": 265453,
-      "name": "El Cristiano No Se Enoja",
-      "url": "https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Soldados",
         "url": "https://open.spotify.com/album/408HP6kZX2afGve443MAyu"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 224817,
       "name": "Yo Tierra, T\u00fa Semilla",
       "url": "https://open.spotify.com/track/0S79RX2oFmRsD1gjbwdXVC"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Historia",
+        "url": "https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Rios",
+          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
+        }
+      ],
+      "duration_ms": 265453,
+      "name": "El Cristiano No Se Enoja",
+      "url": "https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -259,38 +259,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Jhoni",
-        "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Haremos",
-      "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Acceso Total Tour Edition",
         "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
       },
@@ -303,6 +271,22 @@
       "duration_ms": 249920,
       "name": "Mi Maestro",
       "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Jhoni",
+        "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Haremos",
+      "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -327,6 +311,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "S\u00f3lo \u00c9xitos Tropicales",
         "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
       },
@@ -339,26 +339,6 @@
       "duration_ms": 209476,
       "name": "Largo Viaje",
       "url": "https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Alegr\u00eda y Gozo 2020",
-        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
-      },
-      "artists": [
-        {
-          "name": "Banda Alternativa",
-          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
-        },
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 229272,
-      "name": "Una Se\u00f1al",
-      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -383,6 +363,26 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Alegr\u00eda y Gozo 2020",
+        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
+      },
+      "artists": [
+        {
+          "name": "Banda Alternativa",
+          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 229272,
+      "name": "Una Se\u00f1al",
+      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Contigo Todo Es Posible",
         "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 245173,
       "name": "Vivo por Cristo",
       "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Cambio de Plan",
-        "url": "https://open.spotify.com/album/7K3gotaXY44bihQHnD2PGm"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 222127,
-      "name": "Cambio de Plan",
-      "url": "https://open.spotify.com/track/0MXbtfy4B2DaUL6ol0ZkXO"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -447,6 +431,22 @@
       "duration_ms": 250493,
       "name": "Dame Tus Ojos (feat. Laurie Col\u00f3n)",
       "url": "https://open.spotify.com/track/3jPaLIbWPyfS5GZluhxh4D"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Cambio de Plan",
+        "url": "https://open.spotify.com/album/7K3gotaXY44bihQHnD2PGm"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 222127,
+      "name": "Cambio de Plan",
+      "url": "https://open.spotify.com/track/0MXbtfy4B2DaUL6ol0ZkXO"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Soy Sonero",
+        "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 255242,
+      "name": "Salsa del Cielo",
+      "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Fragmentos Do C\u00e9u",
         "url": "https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 242432,
       "name": "Eternamente Amor",
       "url": "https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Soy Sonero",
-        "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 255242,
-      "name": "Salsa del Cielo",
-      "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -587,38 +587,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Hoy Ver\u00e9 Su Gloria",
-        "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 274130,
-      "name": "Hoy Ver\u00e9 Su Gloria",
-      "url": "https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Robert Felix",
-          "url": "https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Por Un Minuto Tu Presencia",
-      "url": "https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Traigo Alabanza",
         "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 251453,
       "name": "Estoy Contento",
       "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Hoy Ver\u00e9 Su Gloria",
+        "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 274130,
+      "name": "Hoy Ver\u00e9 Su Gloria",
+      "url": "https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -655,18 +639,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Fragments Of Heaven",
-        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
       "artists": [
         {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+          "name": "Robert Felix",
+          "url": "https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG"
         }
       ],
-      "duration_ms": 242244,
-      "name": "Forever Endless Love",
-      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
+      "duration_ms": 227520,
+      "name": "Por Un Minuto Tu Presencia",
+      "url": "https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -687,22 +671,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 222458,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Solo Bachata",
         "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
       },
@@ -719,34 +687,34 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+        "name": "Fragments Of Heaven",
+        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
       },
       "artists": [
         {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
         }
       ],
-      "duration_ms": 263506,
-      "name": "Soy Bendecido",
-      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
+      "duration_ms": 242244,
+      "name": "Forever Endless Love",
+      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
     },
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "No Hay Nada Imposible",
-        "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0"
       },
       "artists": [
         {
-          "name": "Javier Maldonado",
-          "url": "https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76"
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
         }
       ],
-      "duration_ms": 295360,
-      "name": "Espiritu De Dios",
-      "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
+      "duration_ms": 222458,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -771,6 +739,38 @@
       "duration_ms": 196800,
       "name": "Party Love",
       "url": "https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "No Hay Nada Imposible",
+        "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
+      },
+      "artists": [
+        {
+          "name": "Javier Maldonado",
+          "url": "https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Espiritu De Dios",
+      "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Soy Bendecido",
+      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
     },
     {
       "added_at": "2020-09-18 05:02:00",

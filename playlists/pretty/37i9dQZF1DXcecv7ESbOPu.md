@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,152 likes - 118 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,153 likes - 117 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,13 +118,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 108 | [Never Forget](https://open.spotify.com/track/6EeHvxiwcqp4R59UiUjVJ6) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx), [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Never Forget](https://open.spotify.com/album/4CmIWzRA0LI5KWw7ZcqzzI) | 6:12 |
 | 109 | [can't forget you](https://open.spotify.com/track/63R5yfl2ktrgGTJO57XkV6) | [Fjord](https://open.spotify.com/artist/6s7CU5CO1x8w15Mk4OyZNQ) | [can't forget you](https://open.spotify.com/album/1vdoI7hvr0BNJGLKmoODdC) | 3:39 |
 | 110 | [Be Honest](https://open.spotify.com/track/6JCCEa4P4sU0yHm6eTakOe) | [Kevin Faye](https://open.spotify.com/artist/7H0dyws9JvjtecZazKLNpM) | [Be Honest](https://open.spotify.com/album/59AIvMjOpXRXWW5CRb3LzD) | 2:56 |
-| 111 | [Wait for Me](https://open.spotify.com/track/2guS6cPmecbcxRpnLWmRvN) | [Cecilia Kallin](https://open.spotify.com/artist/36we9Nvk05alC8v82ZP0Uf), [Joel Nuñez](https://open.spotify.com/artist/0PmqmTnBDSaW4Ld41ojvK2) | [Wait for Me](https://open.spotify.com/album/7wYxwON4NBionLJOGZfKxC) | 3:27 |
-| 112 | [Du kan va en fors](https://open.spotify.com/track/3ohUG3HDv4mPdi1fdMRY1c) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Truth & Mystery](https://open.spotify.com/album/3wyscjgSbDtfrQu6wCNTWQ) | 3:12 |
-| 113 | [Dörren på glänt](https://open.spotify.com/track/1FAZ26RT9nHUPIJfIFenqM) | [Oskar & Vargarna](https://open.spotify.com/artist/2AsPYY1zCwbJHTmLDSuQKQ) | [Dörren på glänt](https://open.spotify.com/album/0APnwIIkgb2LA61HkMPo4E) | 3:20 |
-| 114 | [Min bror och jag](https://open.spotify.com/track/0DDuF331yIqQSxKI1YmM3N) | [Karl\-Petters Orkester](https://open.spotify.com/artist/5GKJ2adclaTFc1fxV8bZVj) | [Min bror och jag](https://open.spotify.com/album/6N3elypPmi271Ct3k3DCpG) | 3:43 |
-| 115 | [Långa nätter](https://open.spotify.com/track/0hgCUaW22fXIaNRWIbp6ti) | [Harriet Nauer](https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q) | [Långa nätter](https://open.spotify.com/album/0agkwzBDn9nYsRYYNGqzx0) | 3:11 |
-| 116 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 |
-| 117 | [HAPPY DOOMSDAY](https://open.spotify.com/track/1S4YtFEbKHda2byazJ2Jr8) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [HAPPY DOOMSDAY](https://open.spotify.com/album/2NorUBquYHC1J7MHuWUPtj) | 2:50 |
-| 118 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
+| 111 | [Du kan va en fors](https://open.spotify.com/track/3ohUG3HDv4mPdi1fdMRY1c) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Truth & Mystery](https://open.spotify.com/album/3wyscjgSbDtfrQu6wCNTWQ) | 3:12 |
+| 112 | [Dörren på glänt](https://open.spotify.com/track/1FAZ26RT9nHUPIJfIFenqM) | [Oskar & Vargarna](https://open.spotify.com/artist/2AsPYY1zCwbJHTmLDSuQKQ) | [Dörren på glänt](https://open.spotify.com/album/0APnwIIkgb2LA61HkMPo4E) | 3:20 |
+| 113 | [Min bror och jag](https://open.spotify.com/track/0DDuF331yIqQSxKI1YmM3N) | [Karl\-Petters Orkester](https://open.spotify.com/artist/5GKJ2adclaTFc1fxV8bZVj) | [Min bror och jag](https://open.spotify.com/album/6N3elypPmi271Ct3k3DCpG) | 3:43 |
+| 114 | [Långa nätter](https://open.spotify.com/track/0hgCUaW22fXIaNRWIbp6ti) | [Harriet Nauer](https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q) | [Långa nätter](https://open.spotify.com/album/0agkwzBDn9nYsRYYNGqzx0) | 3:11 |
+| 115 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 |
+| 116 | [HAPPY DOOMSDAY](https://open.spotify.com/track/1S4YtFEbKHda2byazJ2Jr8) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [HAPPY DOOMSDAY](https://open.spotify.com/album/2NorUBquYHC1J7MHuWUPtj) | 2:50 |
+| 117 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
 
-Snapshot ID: `MCw5YzI1MmI4ODc2NjgzMzA5M2Q1OWJhZjZiZjBiZWE3ODQ4NjUyNDYx`
+Snapshot ID: `MCwyYjlkYzQwZjgwY2YwMWFmODNhN2I5OTBjYWFmYmQ5NDJiNjQ2OWY4`

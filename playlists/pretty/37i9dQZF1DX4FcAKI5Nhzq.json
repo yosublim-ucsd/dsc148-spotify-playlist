@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: ATEEZ",
-  "num_followers": 758138,
+  "num_followers": 758245,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjJjNGU5ODBkOTU3ZWFjY2M2OGExNTMxYTk4MjZiNmMzNjAyMjNl",
+  "snapshot_id": "MCxhZmJmOWI0MmIzNzY2NDkxNDI5MjQxOTY2M2ZjZTJlYTAzYjM5NjIw",
   "tracks": [
+    {
+      "added_at": "2023-05-15 08:40:29",
+      "album": {
+        "name": "PYGMALION",
+        "url": "https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "ERASE ME",
+      "url": "https://open.spotify.com/track/1K2cYJekjVTqjSPJdLhGQB"
+    },
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
     },
     {
+      "added_at": "2023-05-15 08:40:29",
+      "album": {
+        "name": "TAKE OFF",
+        "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "U",
+      "url": "https://open.spotify.com/track/4LKcNaDtBhpTN4rUVuRj0B"
+    },
+    {
       "added_at": "2023-05-04 15:00:00",
       "album": {
         "name": "WIND AND WISH",
@@ -39,6 +71,22 @@
       "duration_ms": 221466,
       "name": "Wind And Wish",
       "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
+    },
+    {
+      "added_at": "2023-05-15 08:40:29",
+      "album": {
+        "name": "+(KR)ystal Eyes <AESTHETIC>",
+        "url": "https://open.spotify.com/album/5GNSmUrJmZvgBvouXS8ZGp"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "Cherry Talk",
+      "url": "https://open.spotify.com/track/7CmjviM3EY4Xi7w8VzeULP"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -727,38 +775,6 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "Young, Dumb, Stupid",
-        "url": "https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "Young, Dumb, Stupid",
-      "url": "https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
-        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
-        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Rose Blossom",
-      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
         "name": "ASSEMBLE",
         "url": "https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5"
       },
@@ -771,42 +787,6 @@
       "duration_ms": 159933,
       "name": "Rising",
       "url": "https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
-        "name": "WHERE DOES SASQUATCH LIVE? Pt. 1",
-        "url": "https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE"
-      },
-      "artists": [
-        {
-          "name": "Zior Park",
-          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "CHRISTIAN",
-      "url": "https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
-        "name": "Floral Sense - The 1st Album (Special Version)",
-        "url": "https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        },
-        {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
-        }
-      ],
-      "duration_ms": 228426,
-      "name": "Floral Sense",
-      "url": "https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -855,22 +835,6 @@
       "duration_ms": 178293,
       "name": "Poppy (Korean Ver.)",
       "url": "https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
-        "name": "Love Never Dies",
-        "url": "https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL"
-      },
-      "artists": [
-        {
-          "name": "TNX",
-          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
-        }
-      ],
-      "duration_ms": 185311,
-      "name": "Love or Die",
-      "url": "https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v"
     },
     {
       "added_at": "2023-05-04 15:00:00",

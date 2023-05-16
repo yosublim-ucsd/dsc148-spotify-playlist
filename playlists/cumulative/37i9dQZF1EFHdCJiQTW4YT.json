@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Turn Up the Love",
+        "url": "https://open.spotify.com/album/4SrRqoPeBlp8DuLk5iHKSl"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218954,
+      "name": "Turn Up the Love",
+      "url": "https://open.spotify.com/track/6y8zl9Cb5YXAKlgdIKAEWF"
+    },
+    {
+      "album": {
         "name": "Ten Years",
         "url": "https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD"
       },

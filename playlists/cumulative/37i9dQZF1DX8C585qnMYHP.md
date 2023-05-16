@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Isabel Do Diego on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-1,353 songs - 4 day 12 hr 54 min
+1,354 songs - 4 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,8 +306,9 @@
 | [Disuelta](https://open.spotify.com/track/4SPUd69r54Ovg4pzYi7Id8) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Disuelta](https://open.spotify.com/album/4JjvVBkMjoo66rhVQAbCol) | 2:57 | 2020-10-30\* | 2021-01-15 |
 | [Do You Know Who Loves You](https://open.spotify.com/track/4DkP6MMH9rgMzX2mNn14lg) | [Manslaughter 777](https://open.spotify.com/artist/1qtBRxCZQPtmRREsOTmUyj) | [Do You Know Who Loves You](https://open.spotify.com/album/3SYLK24ZGzuv9kR4y8PmOF) | 4:18 | 2021-02-10 | 2021-02-11 |
 | [DOG](https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 1:44 | 2022-09-21 | 2022-12-01 |
+| [Dog Dreams](https://open.spotify.com/track/0lzHifBZRj6sJsNPb48TeX) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Dog Dreams ​](https://open.spotify.com/album/6VLdFxIaHha2PUbDMEvk81) | 14:28 | 2023-04-12 |  |
 | [Dog Dreams](https://open.spotify.com/track/2bThSr8x4vga3wX4GPhsMA) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Dog Dreams](https://open.spotify.com/album/2MSTNHj5xm06bHVfg2lZ9u) | 14:28 | 2023-04-12 | 2023-04-30 |
-| [Dog Dreams](https://open.spotify.com/track/6czAPpUz0Q5OZ5w4HtF1Sm) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Dog Dreams](https://open.spotify.com/album/0XKauAjKNc9I6WUEyGS5FY) | 14:28 | 2023-04-12 |  |
+| [Dog Dreams](https://open.spotify.com/track/6czAPpUz0Q5OZ5w4HtF1Sm) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Dog Dreams](https://open.spotify.com/album/0XKauAjKNc9I6WUEyGS5FY) | 14:28 | 2023-04-12 | 2023-05-16 |
 | [DOLO 19](https://open.spotify.com/track/04wMS7aHTcuxey4PpHQRkK) | [Dolo Percussion](https://open.spotify.com/artist/5FqcBM8zqtOBgofGNm2Ij9) | [DOLO 5](https://open.spotify.com/album/3Fxr8l876K9G5PKslxDEy5) | 3:08 | 2020-10-30\* | 2021-01-15 |
 | [Dome](https://open.spotify.com/track/67nylLS4kRYpaz3Q6VTDWF) | [Nick Storring](https://open.spotify.com/artist/3eLda5nrhivbKY1bNJgICp) | [Newfoundout](https://open.spotify.com/album/02AMsZQ8hwlJUV6YWoICMd) | 12:40 | 2021-08-26 | 2021-12-02 |
 | [Don't Despair](https://open.spotify.com/track/5k2YlVkGU0gfbHfc9jRw59) | [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP) | [Don't Despair](https://open.spotify.com/album/7d0pCrFRaiHkN5Gh20M9Bo) | 5:32 | 2020-10-30\* | 2020-11-15 |

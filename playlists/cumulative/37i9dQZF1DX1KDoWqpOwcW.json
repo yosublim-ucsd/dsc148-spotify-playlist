@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "De Pata Negra",
+        "url": "https://open.spotify.com/album/204uMUSfS4PNgdzGrpl7Gs"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "El Baile del Gorila",
+      "url": "https://open.spotify.com/track/4HjzdN3HFW2p52Eey2MumB"
+    },
+    {
+      "album": {
         "name": "Gorila Dance Remixes",
         "url": "https://open.spotify.com/album/5UECfNyDzfu4PpIR71YZ7O"
       },
@@ -522,7 +540,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 191000,
       "name": "El Baile del Gorila",
       "url": "https://open.spotify.com/track/23oUr08MMdYcn9jRz39wYV"
@@ -724,7 +742,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-16",
       "duration_ms": 172546,
       "name": "El Toro Viejo - Huapango",
       "url": "https://open.spotify.com/track/62zRGMj7CUz3aN1g3gSev8"
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 158786,
       "name": "Las Mulas De Moreno",
       "url": "https://open.spotify.com/track/6E8hIsnaOcyzWScHmA27v2"

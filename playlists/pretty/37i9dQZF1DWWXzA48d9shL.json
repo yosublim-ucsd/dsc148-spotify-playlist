@@ -1,28 +1,32 @@
 {
   "description": "Rap from hell. Cover: $uicideboy$",
-  "num_followers": 470640,
+  "num_followers": 471213,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWRlYTJkMmFlYTg3OWFjYjEwYTQ5ZGY1MTQ5MjRhNWRlYTc4NmU1",
+  "snapshot_id": "MCxmNzY1NzEyM2E3NzdkYTdhMGEwM2YzNWExNjM2MGY5ZjhmM2QwMmM3",
   "tracks": [
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-05-15 13:20:26",
       "album": {
-        "name": "YIN YANG TAPES: Spring Season (1989-1990)",
-        "url": "https://open.spotify.com/album/16PcU977zDCfmFY5crNgBB"
+        "name": "YIN YANG TAPES: Summer Season (1989-1990)",
+        "url": "https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f"
       },
       "artists": [
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
         }
       ],
-      "duration_ms": 158843,
-      "name": "Realism VS Idealism",
-      "url": "https://open.spotify.com/track/7qMjBggnUBWYnyCAcECkHh"
+      "duration_ms": 277338,
+      "name": "Bloody 98 (feat. Ghostemane)",
+      "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -103,6 +107,22 @@
       "duration_ms": 137195,
       "name": "DEAD SPACE",
       "url": "https://open.spotify.com/track/5PTrghejwHIxIQOjEZpjQg"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "YIN YANG TAPES: Spring Season (1989-1990)",
+        "url": "https://open.spotify.com/album/16PcU977zDCfmFY5crNgBB"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 158843,
+      "name": "Realism VS Idealism",
+      "url": "https://open.spotify.com/track/7qMjBggnUBWYnyCAcECkHh"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1879,26 +1899,6 @@
       "duration_ms": 112988,
       "name": "Candy Flip",
       "url": "https://open.spotify.com/track/38ChjlYHZ0lNeCtjHspZhX"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "TYRANT",
-        "url": "https://open.spotify.com/album/0R16n2AAbIfpifjHnL3Zun"
-      },
-      "artists": [
-        {
-          "name": "TVSTELESS",
-          "url": "https://open.spotify.com/artist/0fW2IGCuzMtYSToamwOAHS"
-        },
-        {
-          "name": "Mvko",
-          "url": "https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P"
-        }
-      ],
-      "duration_ms": 116781,
-      "name": "TYRANT",
-      "url": "https://open.spotify.com/track/1TdvR1RJGlEIGXLA1IXYi0"
     }
   ],
   "unique_name": "TIRADE",

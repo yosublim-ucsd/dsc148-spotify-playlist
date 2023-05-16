@@ -2,7 +2,7 @@
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> Think you’ve got what it takes to take over Fuego? <a href="https://fuegomixtapes.byspotify.com/en">Submit your mixtape now!</a> Cover: Jhayco & Quevedo
+> Think you’ve got what it takes to take over Fuego? <a href="https://spotify.com/fuegomixtapes">Submit your mixtape now!</a> Cover: Jhayco & Quevedo
 
 986 songs - 2 day 7 hr 47 min
 

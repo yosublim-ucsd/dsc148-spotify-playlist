@@ -1,12 +1,12 @@
 {
   "description": "MEAU op de cover van de vernieuwde Je Moerstaal! ",
-  "num_followers": 153392,
+  "num_followers": 153423,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjY3MjY5YTM4ZjQ5ZGIzMDlmMDBlMzM1ODRiMmMxZjhmNWM4MmRl",
+  "snapshot_id": "MCw2YWYzMjM4Y2NhNTRlNDQ2NmM4NTc1OTA4MmUzYzM4NzBjMDkzNjhk",
   "tracks": [
     {
       "added_at": "2023-05-12 08:40:20",
@@ -47,22 +47,18 @@
     {
       "added_at": "2023-05-12 08:40:20",
       "album": {
-        "name": "Glas Omhoog",
-        "url": "https://open.spotify.com/album/2ziIuYohcXd16XfSBeNWYO"
+        "name": "Naar Het Licht",
+        "url": "https://open.spotify.com/album/6SaInoRCoT3R0szXyjiRxn"
       },
       "artists": [
         {
-          "name": "VanVelzen",
-          "url": "https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi"
-        },
-        {
-          "name": "Diggy Dex",
-          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
         }
       ],
-      "duration_ms": 203381,
-      "name": "Glas Omhoog",
-      "url": "https://open.spotify.com/track/4WwIDS7A1zgEQm9IW3VNHv"
+      "duration_ms": 196795,
+      "name": "Naar Het Licht",
+      "url": "https://open.spotify.com/track/0o2NJQQmW2c1R6ZNpPdoan"
     },
     {
       "added_at": "2023-05-12 08:40:20",
@@ -83,18 +79,22 @@
     {
       "added_at": "2023-05-12 08:40:20",
       "album": {
-        "name": "Naar Het Licht",
-        "url": "https://open.spotify.com/album/6SaInoRCoT3R0szXyjiRxn"
+        "name": "Glas Omhoog",
+        "url": "https://open.spotify.com/album/2ziIuYohcXd16XfSBeNWYO"
       },
       "artists": [
         {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+          "name": "VanVelzen",
+          "url": "https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi"
+        },
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
         }
       ],
-      "duration_ms": 196795,
-      "name": "Naar Het Licht",
-      "url": "https://open.spotify.com/track/0o2NJQQmW2c1R6ZNpPdoan"
+      "duration_ms": 203381,
+      "name": "Glas Omhoog",
+      "url": "https://open.spotify.com/track/4WwIDS7A1zgEQm9IW3VNHv"
     },
     {
       "added_at": "2023-05-12 08:40:20",

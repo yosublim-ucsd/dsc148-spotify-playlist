@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Rukhsar Bandhukia , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,674 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,694 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [I Can't Find Myself](https://open.spotify.com/track/1R3LOBi9EUDaKEguImGzKw) | [Aishu Rittika](https://open.spotify.com/artist/6SCNcYxmoMtoZwlwl2rmWq) | [I Can't Find Myself](https://open.spotify.com/album/50LzagZpAgf7G1DT6ye2OX) | 2:25 |
 | 100 | [Peace Lily](https://open.spotify.com/track/3J6IUkgWkqlORllGp9duP2) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Peace Lily](https://open.spotify.com/album/1jqOENuop4JBbq5SeaOm2X) | 3:45 |
 
-Snapshot ID: `MCxkZGZmNDg0MTA0NGRmNmY4ZmY1Y2ExYTIzM2NkOWY2OWY0ZmJmNWQz`
+Snapshot ID: `MCw3YzVjZTBmNWQ1MDRkZTIzNjhmYTNmZmI0MWMxZTNmNTM2NTBkY2M0`

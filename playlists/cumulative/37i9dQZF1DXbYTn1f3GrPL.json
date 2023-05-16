@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Consolation",
+        "url": "https://open.spotify.com/album/0PlKcFXf5aU7M4RXiPqCHC"
+      },
+      "artists": [
+        {
+          "name": "Luiza Delma",
+          "url": "https://open.spotify.com/artist/6peVpFZZljbb4UEsYhlS7q"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109284,
+      "name": "Consolation",
+      "url": "https://open.spotify.com/track/5DfnvePy8Gw9vPoD2Q6LBC"
+    },
+    {
+      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd"
       },

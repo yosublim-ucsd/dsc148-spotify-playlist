@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-251 songs - 16 hr 5 min
+252 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [I Ain't Lookin' For No Trouble](https://open.spotify.com/track/1GTEEvwTjh7xah3BgulsBA) | [Ray Benson](https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M) | [A Little Piece](https://open.spotify.com/album/5CntyXoAEn6ubp3LXaL95I) | 4:02 | 2021-11-11 | 2022-07-29 |
 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 | 2021-11-11 | 2023-05-03 |
 | [I Contain Multitudes](https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Contain Multitudes](https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV) | 4:36 | 2021-11-11 |  |
-| [I Could Have Told You](https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Could Have Told You](https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh) | 3:36 | 2021-11-11 |  |
+| [I Could Have Told You](https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Could Have Told You](https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh) | 3:36 | 2021-11-11 | 2023-05-16 |
 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 | 2022-04-22 |  |
 | [I Feel the Earth Move](https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 2:58 | 2021-11-11 | 2022-07-29 |
 | [I Have Met My Love Today \- Recorded at RCA Studio a, Nashville](https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Spotify Singles](https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr) | 2:29 | 2021-11-11 |  |
@@ -199,6 +199,7 @@
 | [Tecumseh Valley \- Live](https://open.spotify.com/track/1vYY7pi267AR3t2rmAxMgv) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter, Houston, Texas](https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC) | 4:30 | 2022-04-22 |  |
 | [Tell Heaven](https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The River & The Thread \(Deluxe\)](https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF) | 2:40 | 2021-11-11 |  |
 | [Tell Me Anything \(Turn to Gold\)](https://open.spotify.com/track/3CdBO4uFWqz7orhaM8bn9Z) | [Chuck Prophet](https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT) | [Night Surfer](https://open.spotify.com/album/1QsicTW28qZkphxnImFYtv) | 3:22 | 2022-04-22 | 2023-04-29 |
+| [Tell Me Anything \(Turn to Gold\)](https://open.spotify.com/track/5p44y6jXREhxuh3rpxaNjg) | [Chuck Prophet](https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT) | [Night Surfer](https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb) | 3:22 | 2023-02-24 |  |
 | [Tell Me Anything \(Turn To Gold\)](https://open.spotify.com/track/6QBbiKbwPbTkg13qSUHicJ) | [Chuck Prophet](https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT) | [Night Surfer](https://open.spotify.com/album/6sHcPAdczA2XTY3w1MMN6J) | 3:22 | 2021-11-11 | 2022-07-29 |
 | [Tell the Devil I'm Gettin' there as Fast as I Can](https://open.spotify.com/track/0CzXjHD4dpnjzkMceBT1Kh) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Tell the Devil I'm Gettin' there as Fast as I Can](https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU) | 5:47 | 2022-04-22 |  |
 | [Tell the Devil I'm Gettin' There as Fast as I Can \(with Lucinda Williams and Eric Church\)](https://open.spotify.com/track/4kFU8iC2NpunvTdDMycgmT) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Tell the Devil I'm Gettin' There as Fast as I Can \(with Lucinda Williams and Eric Church\)](https://open.spotify.com/album/3QxK0p3lEYTW3MH1v5S8vG) | 5:47 | 2021-11-11 | 2022-07-29 |

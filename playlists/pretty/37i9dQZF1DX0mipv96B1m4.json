@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 576,
+  "num_followers": 578,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzE5NjRjNmIwNDJhNTk2OWJhZWY1ZmU2Y2M0MTlmOTBlOGQ5YmUz",
+  "snapshot_id": "MCwzOTIyMjM5OWFkMDhjNGM2MWE1MDgzYjI0ODYxMjFkZTc1OTNlZGIz",
   "tracks": [
     {
       "added_at": "2023-01-13 14:02:52",
@@ -269,26 +269,6 @@
       "url": "https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f"
     },
     {
-      "added_at": "2022-07-01 04:18:21",
-      "album": {
-        "name": "Basheshe",
-        "url": "https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to"
-      },
-      "artists": [
-        {
-          "name": "Zagazillions",
-          "url": "https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 139188,
-      "name": "Basheshe",
-      "url": "https://open.spotify.com/track/494DKelh71AKorLmulm5C7"
-    },
-    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Bwogana",
@@ -307,6 +287,26 @@
       "duration_ms": 181028,
       "name": "Bwogana",
       "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
+    },
+    {
+      "added_at": "2022-07-01 04:18:21",
+      "album": {
+        "name": "Basheshe",
+        "url": "https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to"
+      },
+      "artists": [
+        {
+          "name": "Zagazillions",
+          "url": "https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 139188,
+      "name": "Basheshe",
+      "url": "https://open.spotify.com/track/494DKelh71AKorLmulm5C7"
     },
     {
       "added_at": "2022-05-19 20:59:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Pull Up On Mi Bumpa",
-        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        },
-        {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
-        }
-      ],
-      "duration_ms": 227896,
-      "name": "Pull Up On Mi Bumpa",
-      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Sikyegomba",
         "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Pull Up On Mi Bumpa",
+        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        },
+        {
+          "name": "Mungo's Hi Fi",
+          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
+        }
+      ],
+      "duration_ms": 227896,
+      "name": "Pull Up On Mi Bumpa",
+      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
     },
     {
       "added_at": "2022-04-07 20:59:00",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
-      "added_at": "2022-06-28 08:35:51",
-      "album": {
-        "name": "LIFIST",
-        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
-      },
-      "artists": [
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 214729,
-      "name": "LIFIST",
-      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
-    },
-    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Tick Talk",
@@ -555,26 +539,6 @@
       "duration_ms": 220206,
       "name": "Tick Talk",
       "url": "https://open.spotify.com/track/5lSYksFuC3lKlCAYROEQd0"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Karole Kasita",
-          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
-        }
-      ],
-      "duration_ms": 196963,
-      "name": "Gyal A Bubble",
-      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -621,22 +585,6 @@
       "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
     },
     {
-      "added_at": "2022-05-27 05:48:37",
-      "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        }
-      ],
-      "duration_ms": 169430,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
-    },
-    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "We Can",
@@ -663,6 +611,58 @@
       "duration_ms": 220408,
       "name": "Born To Love You - 2020 Remix",
       "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
+    },
+    {
+      "added_at": "2022-06-28 08:35:51",
+      "album": {
+        "name": "LIFIST",
+        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 214729,
+      "name": "LIFIST",
+      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Karole Kasita",
+          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
+        }
+      ],
+      "duration_ms": 196963,
+      "name": "Gyal A Bubble",
+      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
+    },
+    {
+      "added_at": "2022-05-27 05:48:37",
+      "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        }
+      ],
+      "duration_ms": 169430,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
     },
     {
       "added_at": "2022-07-29 06:06:22",
@@ -779,6 +779,30 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
+        "name": "Nkwatewa",
+        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
+      },
+      "artists": [
+        {
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+        },
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 181890,
+      "name": "Nkwatewa",
+      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
         "name": "Semyekozo",
         "url": "https://open.spotify.com/album/2rfyTnxyRZlPN0fxLj8jhs"
       },
@@ -823,26 +847,22 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Nkwatewa",
-        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
+        "name": "Bakuwe",
+        "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
       },
       "artists": [
         {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+          "name": "Guvnor Ace",
+          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
         },
         {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
         }
       ],
-      "duration_ms": 181890,
-      "name": "Nkwatewa",
-      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
+      "duration_ms": 186000,
+      "name": "Bakuwe",
+      "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
     },
     {
       "added_at": "2023-01-20 05:09:22",
@@ -867,26 +887,6 @@
       "duration_ms": 219718,
       "name": "Marijuana",
       "url": "https://open.spotify.com/track/3KknqI9ODWVO7IeUGf2nuR"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Bakuwe",
-        "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
-      },
-      "artists": [
-        {
-          "name": "Guvnor Ace",
-          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Bakuwe",
-      "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
     },
     {
       "added_at": "2022-03-31 17:42:20",

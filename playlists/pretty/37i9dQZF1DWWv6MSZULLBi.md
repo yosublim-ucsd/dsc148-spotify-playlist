@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,162 likes - 108 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,156 likes - 108 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 107 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 |
 | 108 | [The Dead](https://open.spotify.com/track/4kGRfWQu6c9MhXACKOVDUZ) | [Ryan O'Reilly](https://open.spotify.com/artist/2b0d58PurIqBoqRP0BiTL1) | [The Dead](https://open.spotify.com/album/43LgxnDHhwFbMjFZsWu3Wx) | 4:26 |
 
-Snapshot ID: `MCxkZTIzZTZmYTE3MmZhOWY0MzA5ZmIzNzkzNWY1MWJmNjU2MDYzNWVj`
+Snapshot ID: `MCwzNTI3NzM3ZmU4Nzk4YTk3OTYxYTQ3NjhlNjdlYmI0NWIxNWUxZWEz`

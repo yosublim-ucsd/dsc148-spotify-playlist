@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Thirty Seconds To Mars
 
-625 songs - 1 day 11 hr 22 min
+626 songs - 1 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [CANDU](https://open.spotify.com/track/0pM2bHyWvJ3e3RRIXX4yVF) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [CANDU ::: AB Bride](https://open.spotify.com/album/5l4px2F0FtCMKhax1t9bF8) | 3:39 | 2022-07-22 | 2022-09-17 |
 | [Care Less](https://open.spotify.com/track/1eNg2eNeiyOapT3mWMNbrW) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Care Less](https://open.spotify.com/album/1kTKAAMN3zhg0NvCtzVJX2) | 3:04 | 2022-06-17 | 2022-10-15 |
 | [Care Less](https://open.spotify.com/track/7JETFxfHepiOV07rU9OCW9) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Care Less](https://open.spotify.com/album/6mhstVGAyRUooDNWihIDiP) | 3:04 | 2022-10-14 | 2022-11-05 |
-| [Caroline](https://open.spotify.com/track/4cTxlJ8GbvlEKJSHBjSmX3) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Caroline](https://open.spotify.com/album/0hiyVukTWwoABzyyzq03fN) | 3:20 | 2022-11-04 |  |
+| [Caroline](https://open.spotify.com/track/4cTxlJ8GbvlEKJSHBjSmX3) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Caroline](https://open.spotify.com/album/0hiyVukTWwoABzyyzq03fN) | 3:20 | 2022-11-04 | 2023-05-16 |
 | [Caroline](https://open.spotify.com/track/6XsHCb84EyPvLvWFpVqZay) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Caroline](https://open.spotify.com/album/2xOUnwncSmfhcZIdrOMe3p) | 3:20 | 2022-08-05 | 2022-11-06 |
 | [Change\#\#\#](https://open.spotify.com/track/1K5NKnljyNdL4E0M9BlrZB) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [Tunnel Vision](https://open.spotify.com/album/1kibsLL8e5KDlwT4qnzYw6) | 2:49 | 2022-09-09 | 2023-05-06 |
 | [Changes](https://open.spotify.com/track/59cS8qsSylHFJAdIo2QSnt) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Changes](https://open.spotify.com/album/51Oc9zA07RUPajQqvFUQib) | 3:10 | 2022-04-15 | 2022-09-10 |
@@ -127,6 +127,7 @@
 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 | 2021-12-31 | 2022-01-15 |
 | [Dancing With The Moonlight](https://open.spotify.com/track/1KR1KO0WzuRsNYQXcQYjiq) | [Hotel Mira](https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw) | [Dancing With The Moonlight](https://open.spotify.com/album/0CBVF3VGMooid9U17Ryzdt) | 3:01 | 2023-04-07 |  |
 | [Dangerous](https://open.spotify.com/track/4CDLJLXueLWgcPsCSSF9fS) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Dangerous](https://open.spotify.com/album/3OsnKTR0MxFIdLAnhmtMOJ) | 3:07 | 2022-06-10 | 2022-07-16 |
+| [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-05-15 |  |
 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 | 2022-08-26 |  |
 | [Dead Weight](https://open.spotify.com/track/0PDjruEbiCY7sy2VVd0mPG) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Dead Weight](https://open.spotify.com/album/4uZVQ0ocJQRaP52f2hqP8i) | 3:38 | 2021-12-31 | 2022-04-02 |
 | [debbie downer](https://open.spotify.com/track/738ea6GnnVj6w8RiiX3B47) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/6incXes5C4tio1Y08EhFJW) | 2:39 | 2022-02-11 | 2022-04-09 |
@@ -441,7 +442,7 @@
 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 | 2022-11-25 |  |
 | [Right Here](https://open.spotify.com/track/0G6I0dl2cIditsaqLt608y) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [The Pilot](https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl) | 2:55 | 2022-02-18 | 2022-03-26 |
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-05-13 | 2022-10-01 |
-| [Robbery](https://open.spotify.com/track/2QwrcxUvwVxvNjk83Xsrf6) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Robbery](https://open.spotify.com/album/2Grp2EjKlLzlZYZBHk9Q6h) | 2:28 | 2022-08-26 |  |
+| [Robbery](https://open.spotify.com/track/2QwrcxUvwVxvNjk83Xsrf6) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Robbery](https://open.spotify.com/album/2Grp2EjKlLzlZYZBHk9Q6h) | 2:28 | 2022-08-26 | 2023-05-16 |
 | [Robot Writes A Love Song](https://open.spotify.com/track/0uLCToYxTtdsOiDUhCUZ4Z) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Robot Writes A Love Song](https://open.spotify.com/album/37Xeof4HWLhxxvbKtWd4Re) | 3:36 | 2022-01-21 | 2022-02-12 |
 | [Rock and Roll \(Ain't No Simple Thing\)](https://open.spotify.com/track/76kfV1gUWJ4wskDtiMfK36) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [No Simple Thing](https://open.spotify.com/album/7m23UIStg6wDZJpjGRzQQV) | 3:23 | 2021-12-31 | 2022-04-09 |
 | [Rock n Roll](https://open.spotify.com/track/0a3HBsPWPOHOFwRx75dUtJ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [In Good Time](https://open.spotify.com/album/46JOax9Ae2TFpLQQbofUVz) | 3:40 | 2022-04-08 | 2022-05-07 |
@@ -628,7 +629,7 @@
 | [You](https://open.spotify.com/track/64oJZbt8DzFfoLK6YOUHA9) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Changes](https://open.spotify.com/album/51Oc9zA07RUPajQqvFUQib) | 2:59 | 2021-12-31 | 2022-04-16 |
 | [You Can Let Go](https://open.spotify.com/track/4hB9ZXHn35AS2oZaS7oeKl) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [You Can Let Go](https://open.spotify.com/album/5kC54Lqi95lrT1DRFCLtd2) | 3:06 | 2023-03-10 |  |
 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 | 2022-08-26 | 2023-02-18 |
-| [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-08-05 |  |
+| [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-08-05 | 2023-05-16 |
 | [Your Heart's My Home](https://open.spotify.com/track/62BZ84o01M2xtvjk7uMVsw) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Vindicator \(Deluxe\)](https://open.spotify.com/album/75XmKnaF8c2ZwlmAN2ZYYp) | 3:00 | 2021-12-31 | 2022-01-08 |
 | [Your Love Was My Drug Too](https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Your Love Was My Drug Too](https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5) | 3:06 | 2022-10-14 |  |
 | [Zick Zack](https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:04 | 2022-04-29 | 2022-06-11 |

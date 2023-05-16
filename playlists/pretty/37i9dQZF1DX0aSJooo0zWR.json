@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 180475,
+  "num_followers": 180570,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2Y0ODE4NWE4YzBmMjk1ZWE2NmU3MWNkMzVhNmM2MWEzYjM4ZDdl",
+  "snapshot_id": "MCxiMDI0OWEzYjgxOTEzZmRkYWZjYzI0MjE4ODVkYmU4MmU3YzZkYjE5",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 474309,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Riding Giants (feat. Mike Stern, Dave Weckl)",
@@ -679,6 +663,22 @@
       "duration_ms": 371617,
       "name": "Riding Giants",
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 474309,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Bent",
-        "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
-      },
-      "artists": [
-        {
-          "name": "Gary Willis",
-          "url": "https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ"
-        }
-      ],
-      "duration_ms": 371920,
-      "name": "Armageddon Blues",
-      "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/2q2x4y9M2p1TuWPNfKMBHb"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 451440,
       "name": "Trains",
       "url": "https://open.spotify.com/track/3cTBzCdxKbuczWo9cfPic1"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
+      },
+      "artists": [
+        {
+          "name": "Gary Willis",
+          "url": "https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ"
+        }
+      ],
+      "duration_ms": 371920,
+      "name": "Armageddon Blues",
+      "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
     },
     {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Free Colors",
-        "url": "https://open.spotify.com/album/5To6BwgtYKNgZnODcbexMa"
-      },
-      "artists": [
-        {
-          "name": "Tomohiro Maeda",
-          "url": "https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "Savannah",
-      "url": "https://open.spotify.com/track/771NJupMr1OXtQ76umdJCZ"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Hullo Bolinas",
@@ -1483,6 +1467,22 @@
       "duration_ms": 251007,
       "name": "Hullo Bolinas",
       "url": "https://open.spotify.com/track/6YxmY8tjb6nY0FPPYRjVFT"
+    },
+    {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "Hunting Heads",
+        "url": "https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        }
+      ],
+      "duration_ms": 422882,
+      "name": "Hunting Heads",
+      "url": "https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH"
     }
   ],
   "unique_name": "Fusion Fest",

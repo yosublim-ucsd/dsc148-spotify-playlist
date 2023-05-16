@@ -4,7 +4,7 @@
 
 > 100 % ska latinoamericano\. Los Caligaris en portada.
 
-276 songs - 17 hr 2 min
+277 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [Sarrera VIII](https://open.spotify.com/track/0KrN8YMLtzx9PSiLWkQfbr) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rudi Records](https://open.spotify.com/album/0RyS5RwxQ6R0dTnJCuc3Dx) | 2:23 | 2021-12-21 | 2022-01-10 |
 | [Se Acabo El Amor 2005](https://open.spotify.com/track/3coJHOVnYPPrDq0sDU7nUV) | [Jamaica 69](https://open.spotify.com/artist/5WR89QzeMWyvWN9l4thUHM) | [The Rough and Tough Anthology](https://open.spotify.com/album/0btV40JfMq3w7X1YY7Oqhu) | 3:01 | 2021-12-21 | 2022-07-25 |
 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/6OfrAyy51UhReRVKm4O4gO) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Se Me Ha Perdido un Corazón](https://open.spotify.com/album/3sHqU9KQzlVj6Mm00Irtah) | 3:21 | 2022-12-16 | 2023-04-22 |
-| [Seamos más que amigos \- Remastered](https://open.spotify.com/track/217Vkz8qvDOtpjqFrIENok) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una cosa es el ska y otra cosa es el rocksteady](https://open.spotify.com/album/6O50zOjFZO8TeOxE9IfUBs) | 3:55 | 2021-12-21 |  |
+| [Seamos más que amigos \- Remastered](https://open.spotify.com/track/1gev95yWXDR4cv8WlkVxfm) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una cosa es el ska y otra cosa es el rocksteady](https://open.spotify.com/album/2dhZbX2nJzVIFAKQgOz76C) | 3:55 | 2021-12-21 |  |
+| [Seamos más que amigos \- Remastered](https://open.spotify.com/track/217Vkz8qvDOtpjqFrIENok) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una cosa es el ska y otra cosa es el rocksteady](https://open.spotify.com/album/6O50zOjFZO8TeOxE9IfUBs) | 3:55 | 2021-12-21 | 2023-05-16 |
 | [Selva](https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 4:08 | 2021-12-21 | 2023-04-22 |
 | [Ser Fuertes](https://open.spotify.com/track/6W62ieUxxt94f4XAlA3GFI) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Ser Fuertes en el Alicia](https://open.spotify.com/album/0jsJGklcmoBVS5I0WVZY8t) | 2:56 | 2021-12-21 | 2022-07-21 |
 | [Señorita a Mi Me Gusta Su Style](https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:25 | 2021-12-21 |  |

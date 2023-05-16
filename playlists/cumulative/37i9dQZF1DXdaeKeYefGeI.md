@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-110 songs - 6 hr 57 min
+111 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Alles Stil](https://open.spotify.com/track/4g1c9gwebd9Pvg3zuDA14v) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Alles Stil](https://open.spotify.com/album/79VGEKw3ugGM7qHo5BaYRf) | 4:05 | 2023-02-10 |  |
 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 | 2023-02-10 |  |
 | [Alsof](https://open.spotify.com/track/5BM1VtsHL1HxUsF2xQVz2G) | [Thijs Borsten](https://open.spotify.com/artist/2rXcix5yePOodUVqDUiRKh), [Fay Lovsky](https://open.spotify.com/artist/2NEeqYen2FsMivq7JBIJiv) | [Alsof](https://open.spotify.com/album/38XTEhm8maA44fEQdvjcnF) | 3:23 | 2023-02-10 | 2023-03-18 |
-| [Altijd Dorst](https://open.spotify.com/track/3HyWVDESd05MxK1S23eMm3) | [Youp van 't Hek](https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP), [Ton Scherpenzeel](https://open.spotify.com/artist/17a49nqhcCd0kvqHwxbVhP), [Matangi Quartet](https://open.spotify.com/artist/24NmIo95ZKPV5DKMKCXgaL) | [Huisje aan C](https://open.spotify.com/album/3xOBDqh78LgGXFMZDJDl0l) | 4:10 | 2023-02-10 |  |
+| [Altijd Dorst](https://open.spotify.com/track/3HyWVDESd05MxK1S23eMm3) | [Youp van 't Hek](https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP), [Ton Scherpenzeel](https://open.spotify.com/artist/17a49nqhcCd0kvqHwxbVhP), [Matangi Quartet](https://open.spotify.com/artist/24NmIo95ZKPV5DKMKCXgaL) | [Huisje aan C](https://open.spotify.com/album/3xOBDqh78LgGXFMZDJDl0l) | 4:10 | 2023-02-10 | 2023-05-16 |
 | [Annabel](https://open.spotify.com/track/6trgkuKd380kEbIrpEARGo) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Het Beste Van](https://open.spotify.com/album/0J3DulwNVPpjHZSm6R6TAm) | 3:32 | 2023-02-10 |  |
 | [Anne](https://open.spotify.com/track/33fJyGfQksR6hDzJCJUkrg) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:45 | 2023-02-10 |  |
 | [As De Liefde Mar Blef Winnen](https://open.spotify.com/track/28KSDPZ1tieVjSkoudLyO7) | [Daniël Lohues](https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6) | [Allennig II](https://open.spotify.com/album/5xuU03xNkEgx3gQBWDq87f) | 2:56 | 2023-02-10 |  |
@@ -34,6 +34,7 @@
 | [De halve wereld](https://open.spotify.com/track/1FcoAGOdvv956IkeU61508) | [Pieter Derks](https://open.spotify.com/artist/4JwlHUgIACGdCcQ3lPZTJr) | [De halve wereld](https://open.spotify.com/album/3xBYi7bVVeZvFonx2DThMx) | 3:39 | 2023-02-10 | 2023-04-21 |
 | [De Rode Lantaarn](https://open.spotify.com/track/3U0oADxG7q6tz6wL50z8id) | [Leo Alkemade](https://open.spotify.com/artist/0dhYbvBvHUyhMTeoqwvus1) | [De Rode Lantaarn](https://open.spotify.com/album/3338PvHA8HekixIqIGbcRD) | 2:55 | 2023-02-10 | 2023-04-21 |
 | [De steen](https://open.spotify.com/track/0C6fXVxj0nPqjkp59RpDjm) | [Bram Vermeulen](https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV) | [Voltooid Verleden Tijd](https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO) | 4:23 | 2023-02-10 |  |
+| [De wedstrijd](https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e) | [Bram Vermeulen](https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV) | [Voltooid Verleden Tijd](https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO) | 5:01 | 2023-05-15 |  |
 | [De Weg](https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [De Weg](https://open.spotify.com/album/7n9NfMSnYi59u7vGSelWAn) | 3:19 | 2023-02-10 |  |
 | [Door De Wind](https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2020 \(Miss Montreal\)](https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB) | 2:50 | 2023-02-10 |  |
 | [Elke Seconde](https://open.spotify.com/track/41Y8FqhbSRNEqsK47Ks7xW) | [Belinda Kinnaer](https://open.spotify.com/artist/3MHjbcGUxFSEHexlD4csSF) | [Elke Seconde](https://open.spotify.com/album/4i6m3BW07pUoAuWd4IFP4c) | 3:43 | 2023-02-10 | 2023-03-18 |

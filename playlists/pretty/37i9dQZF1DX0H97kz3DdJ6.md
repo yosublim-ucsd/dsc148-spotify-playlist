@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,330 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,355 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 65 | [Monstro](https://open.spotify.com/track/4EH1497hGrC9rDdok3qQ4N) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Monstro](https://open.spotify.com/album/2aKAOqDAK1jZegtyIiVO16) | 3:36 |
 | 66 | [Esteja Comigo](https://open.spotify.com/track/4gL5DV0MAktV5QfnRClX5u) | [Lucas Muto](https://open.spotify.com/artist/56T4EzWjDqignFu9eBdKT4) | [Esteja Comigo](https://open.spotify.com/album/46kbsL56JTTbaOWB9bTcXy) | 2:30 |
 | 67 | [O Amor Não Foi o Bastante](https://open.spotify.com/track/0cvCb8ihnIPwh05ssQdjCH) | [Beli Remour](https://open.spotify.com/artist/6vtzYhjkFNNnKca9BzC3Tc), [1LUM3](https://open.spotify.com/artist/01JSyuJJh1WCHIuM3Zx7hn), [Bruno RV](https://open.spotify.com/artist/0GWIligQb9rKE7lem3fZNo) | [Galos e Cerâmicas: Uma Peça Sobre o Tempo](https://open.spotify.com/album/5QmkJORtLTOAvKHWlsaFhQ) | 3:24 |
-| 68 | [Amores Nascem e Morrem](https://open.spotify.com/track/6sYoOLkoTCerRMgfHh8J65) | [NOVENOVE](https://open.spotify.com/artist/4t2AqdHzMvBMeaFrPrCEmj) | [Amores Nascem e Morrem](https://open.spotify.com/album/7KH7FYJCl0AUq5yHM3vSgy) | 3:16 |
+| 68 | [Amores Nascem e Morrem](https://open.spotify.com/track/4Aw8bX9m5kuj5bs7lbgYbB) | [NOVENOVE](https://open.spotify.com/artist/4t2AqdHzMvBMeaFrPrCEmj) | [Amores Nascem e Morrem](https://open.spotify.com/album/22P4UGFKYSRcwfaiCvD5qw) | 3:16 |
 | 69 | [Adeus Tokio](https://open.spotify.com/track/55CuhrJrgyPhPx9bBpt0EU) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk) | [Bem\-vindo, Setembro!](https://open.spotify.com/album/3YuTVbf1OYCGqXrlRnBqLb) | 2:32 |
 | 70 | [Preciso Falar](https://open.spotify.com/track/74l2FPYQCsldGvvtO5UsL5) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Athos Oficial](https://open.spotify.com/artist/5TEdGAYYQaxWiF1x5vHlz0) | [Preciso Falar](https://open.spotify.com/album/3KaRX0aeT57YHJCPH9UxsU) | 2:25 |
 | 71 | [Sônia](https://open.spotify.com/track/7pkLnsHPaM5PA0PPeIQZTA) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Sônia](https://open.spotify.com/album/0EpXl3Ne4z8ZNOO6vrPUVh) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 79 | [Que não te falte amor](https://open.spotify.com/track/4e8mbXLx3DRgLbTafPpNat) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/70YMa2rpfCE4LQ1Q7clQws) | 2:43 |
 | 80 | [Por Nós Dois](https://open.spotify.com/track/0vAa3jsBGC9u2orV5rJjxG) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por Nós Dois](https://open.spotify.com/album/7FGoFdKxKxFjk4cYwY1bpL) | 2:58 |
 
-Snapshot ID: `MCwxZmRkZWYyYzExNGE3MDlmZjBkYmM1M2QwNTlhYjUxNmYwYmMxYzk5`
+Snapshot ID: `MCw0ZGEzYTY5OWZkODY2YzcyNGQ0MjNmZjJjNDRkMjcyOWI0YzE3OTJh`

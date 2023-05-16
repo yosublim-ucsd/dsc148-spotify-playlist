@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 233516,
+  "num_followers": 233503,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGQ5ODBiYjU5MGI1OGVhYTFhZDgwMjU2NDQzMDQxMWY5MTJkZGVk",
+  "snapshot_id": "MCxlNzM5YzA4NmRlMjVmM2JkMThmM2FkMWY3N2FmYjE2N2Y2YWUxZGVk",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -447,22 +447,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 185440,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "OutRun",
-        "url": "https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh"
-      },
-      "artists": [
-        {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Rampage",
-      "url": "https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Best Of Edgar Winter",
         "url": "https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 285600,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "OutRun",
+        "url": "https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Rampage",
+      "url": "https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9"
     },
     {
       "added_at": "2019-10-09 15:02:50",
