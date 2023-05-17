@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 243846,
       "name": "Apartment",
       "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 234213,
       "name": "\u307e\u305f\u305f\u304d",
       "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
@@ -3065,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "\u591c\u660e\u3051",
+        "url": "https://open.spotify.com/album/2UdwONOsqIYdxhhHBsFX2w"
+      },
+      "artists": [
+        {
+          "name": "Haruna",
+          "url": "https://open.spotify.com/artist/1ovNHIntzPk4hzzKQtrOof"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264006,
+      "name": "\u591c\u660e\u3051",
+      "url": "https://open.spotify.com/track/4jbPItzP0AV4r6Hd81CW8H"
+    },
+    {
+      "album": {
         "name": "\u96eb\u306b\u604b\u3057\u3066/\u5fd8\u308c\u3066\u82b1\u675f",
         "url": "https://open.spotify.com/album/1NFvr2Trzy1UuaVeXL0M2z"
       },
@@ -3300,7 +3318,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 278517,
       "name": "\u65b0\u3057\u3044\u4eba",
       "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
@@ -3376,6 +3394,28 @@
       "duration_ms": 268173,
       "name": "\u6642\u8a08\u306f\u7720\u3044",
       "url": "https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv"
+    },
+    {
+      "album": {
+        "name": "\u66c7\u308a\u7a7a\u3067\u3082 (feat.YeYe)",
+        "url": "https://open.spotify.com/album/6obthFh30xTNrUocZM4tNO"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6728\u5927\u4e08\u592b",
+          "url": "https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60"
+        },
+        {
+          "name": "YeYe",
+          "url": "https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263877,
+      "name": "\u66c7\u308a\u7a7a\u3067\u3082 - feat.YeYe",
+      "url": "https://open.spotify.com/track/1rh048LB1i4bytO960UOel"
     },
     {
       "album": {

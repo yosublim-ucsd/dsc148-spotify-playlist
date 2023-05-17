@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,510 likes - 74 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,783 likes - 74 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hold Our Own](https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Target Practice](https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L) | 2:32 |
-| 2 | [Way of Life](https://open.spotify.com/track/772E0ETHUfEwT5gJJOXW0C) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Denim](https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo) | 3:45 |
+| 2 | [Way of Life](https://open.spotify.com/track/3ZSQnPonsWW70HwNkeADRg) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Denim](https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT) | 3:45 |
 | 3 | [Southern Land](https://open.spotify.com/track/2bX3Cb6QE8OetYBwJKnd0o) | [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI), [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Southern Land](https://open.spotify.com/album/06O3dxp8QBUjimf94haj4q) | 3:42 |
 | 4 | [Diesel Gang](https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Diesel Gang](https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb) | 2:18 |
 | 5 | [Workin' on](https://open.spotify.com/track/5kSPD3rOo2hGYVwheIxpv8) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Thanks for Listening](https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY) | 3:44 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 29 | [Escape](https://open.spotify.com/track/3dqB7rcjQOck6MbWfV4Nhd) | [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT) | [Since Birth](https://open.spotify.com/album/00TQLFYMVs0VjBsHLiASzh) | 2:30 |
 | 30 | [Confetti](https://open.spotify.com/track/3YP3VB9FEdbAzoC9RZ5frW) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD) | [Confetti](https://open.spotify.com/album/57UcRsgqFNbrjUa1iDmAbv) | 2:03 |
 | 31 | [Country Hustlas](https://open.spotify.com/track/6zTa0edMoxQoTvyCxVU9Rs) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Country Hustlas](https://open.spotify.com/album/62NS1EdORVN8R347I5nJIW) | 3:06 |
-| 32 | [Country Boy Swag](https://open.spotify.com/track/6c0IDzUOmZnDJOiHFu7q4F) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [Denim](https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo) | 3:30 |
+| 32 | [Country Boy Swag](https://open.spotify.com/track/3rbRSCT3RPBl5J1o1ihANo) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [Denim](https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT) | 3:30 |
 | 33 | [Square Body](https://open.spotify.com/track/4O5q0TmgkMxvf7ksLINGCW) | [Shotgun Shane](https://open.spotify.com/artist/0t4OC45mZTJBIjcIJmu4xw) | [The Reload 2.0](https://open.spotify.com/album/1vqjfnMlzdUQ3TaVLD7Rsk) | 3:47 |
 | 34 | [Illinois Cowboy](https://open.spotify.com/track/0lh8NRCuusAHwujpALAD00) | [Kid Ziggy](https://open.spotify.com/artist/6jTPmZmVoj8iOxD7Lv2XC4), [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [Illinois Cowboy](https://open.spotify.com/album/7D5MSopZVBnrUDmLCQ4j79) | 2:30 |
 | 35 | [Cheatham County](https://open.spotify.com/track/29ad3oJC56R3hFO9XKSDgb) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Cheatham County](https://open.spotify.com/album/0gN8RBGUyEGmhUNDT98vG4) | 2:47 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 43 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/5vBFnLvfjXLdcY8Df6PHj4) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Unlive \(with Yelawolf\)](https://open.spotify.com/album/3fwKc0nqwk0yomvchwxGMn) | 3:57 |
 | 44 | [Blood Red](https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blood Red](https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk) | 2:37 |
 | 45 | [Pick Up](https://open.spotify.com/track/2lNRmLIgGeLvXbG2Pb1uss) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Kori Spires](https://open.spotify.com/artist/6avl0QvhBIoRg4lbJJtw39) | [Pick Up](https://open.spotify.com/album/1mmL1c08dZxlB7SJRX0f8D) | 3:33 |
-| 46 | [Times We Had](https://open.spotify.com/track/07BnMSbUANs8DDRZ1HDoy8) | [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Times We Had](https://open.spotify.com/album/2MOK1PsjU663gPeJi0IK1N) | 3:20 |
+| 46 | [Times We Had](https://open.spotify.com/track/6JITlNQO7IwT45L9YafIUy) | [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Times We Had](https://open.spotify.com/album/2isLQ6NrJbpowKoobF9XMc) | 3:20 |
 | 47 | [Hey Boy, Hey Girl](https://open.spotify.com/track/47f6eZgviwSZciXGv2iWYg) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn), [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Hey Boy, Hey Girl](https://open.spotify.com/album/4YemyQre4YNNvLLM3huRrN) | 3:20 |
 | 48 | [Dirt Road](https://open.spotify.com/track/24LyKCgvEia1eAPUbuISlk) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Dirt Road](https://open.spotify.com/album/2rVX2YE6zvgkTVsWmk7OP5) | 2:30 |
 | 49 | [Toxic Love](https://open.spotify.com/track/3jrVt9JiLZOylwndgKTqJV) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Toxic Love](https://open.spotify.com/album/4sncnWAHqc5gDwPfYa1G5o) | 2:41 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 73 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 |
 | 74 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 |
 
-Snapshot ID: `MCw3MDIzZjM1NjNhNGQ3OGQyYTBjZmM0Nzg4MjlhMzk1YmE5MDhlZDUx`
+Snapshot ID: `MCxlMjFlZDNiNDc4ZDNmNWMwMTlkYmEyMjIzMGFiNDM2NmZkN2E5Mjc3`

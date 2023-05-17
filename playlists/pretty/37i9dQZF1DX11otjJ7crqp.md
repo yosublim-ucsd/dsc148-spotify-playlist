@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,691 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,768 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [I'll Follow](https://open.spotify.com/track/05oHYdKxu7cnqrZgw6CiLK) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [I'll Follow](https://open.spotify.com/album/2eVMMMyptV72ZWM75hER4w) | 2:52 |
 | 99 | [Storage](https://open.spotify.com/track/2raxtboskowNEHgAp82hEN) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Storage](https://open.spotify.com/album/6JgQR3htcro7E5jsgG1J1y) | 2:58 |
 
-Snapshot ID: `MCxlMzE2ZjRiMWZkZmU2M2ViMDhmZTFlODhhODBlZDI3NDA3ZTZjM2E5`
+Snapshot ID: `MCwyNTQ5ZDhiY2M2YmJjNjdiNDJkOThkMmM3MDIyNTU2Mzg3ZTYwNzJh`

@@ -2,7 +2,7 @@
 
 ### [tropic.alt](https://open.spotify.com/playlist/37i9dQZF1DX8HSZzYIDgBB)
 
-> Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Caramelo Haze en portada.
+> Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Macha Kiddo en portada.
 
 261 songs - 15 hr 45 min
 

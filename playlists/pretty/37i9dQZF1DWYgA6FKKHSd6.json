@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 212175,
+  "num_followers": 212199,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTQ4MTZkZmM4NjkxYzhmZDU4MmQyZTlhZjBhYzA4MGZhZWI0ZWVi",
+  "snapshot_id": "MCxjNDdhNTAzYjMwMmY3NTdmYjI4MmU2ODM1MDkwMzA5Y2EwYzJhNGIy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 298773,
-      "name": "Chill Factor",
-      "url": "https://open.spotify.com/track/5RBz7DhODMg5hVM5vJ9NrM"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Just Once (Radio Edit)",
         "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 244450,
       "name": "Just Once (Radio Edit)",
       "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 298773,
+      "name": "Chill Factor",
+      "url": "https://open.spotify.com/track/5RBz7DhODMg5hVM5vJ9NrM"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -595,26 +595,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Hello Tomorrow",
-        "url": "https://open.spotify.com/album/755FhIw58on45zjf2hSpz7"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        },
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 291386,
-      "name": "When Will I Know For Sure",
-      "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 253946,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Hello Tomorrow",
+        "url": "https://open.spotify.com/album/755FhIw58on45zjf2hSpz7"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 291386,
+      "name": "When Will I Know For Sure",
+      "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "M.P.3",
-        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Gonna' Miss You",
-      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Poetry In Motion",
         "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 280613,
       "name": "Stratosphere",
       "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "M.P.3",
+        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Gonna' Miss You",
+      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 261401,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Summer Horns II From A To Z",
@@ -945,20 +961,36 @@
       "url": "https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+        "name": "Main Street Beat",
+        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
       },
       "artists": [
         {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
         }
       ],
-      "duration_ms": 261401,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
+      "duration_ms": 253426,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lamb",
+          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Limitless - Radio Edit",
+      "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -983,18 +1015,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Main Street Beat",
-        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
+        "name": "L.I.T.",
+        "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
       },
       "artists": [
         {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+          "name": "Riley Richard",
+          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
         }
       ],
-      "duration_ms": 253426,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
+      "duration_ms": 258138,
+      "name": "L.I.T.",
+      "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1015,38 +1047,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "L.I.T.",
-        "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
-      },
-      "artists": [
-        {
-          "name": "Riley Richard",
-          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
-        }
-      ],
-      "duration_ms": 258138,
-      "name": "L.I.T.",
-      "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lamb",
-          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
-        }
-      ],
-      "duration_ms": 233920,
-      "name": "Limitless - Radio Edit",
-      "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "James Vargas",
         "url": "https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 312800,
       "name": "Lasting Impression",
       "url": "https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Smooth Jazz SAX Showcase",
-        "url": "https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn"
-      },
-      "artists": [
-        {
-          "name": "Uko",
-          "url": "https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp"
-        }
-      ],
-      "duration_ms": 296475,
-      "name": "Got To Be Real",
-      "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1107,6 +1091,22 @@
       "duration_ms": 258275,
       "name": "Issa Party",
       "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Smooth Jazz SAX Showcase",
+        "url": "https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn"
+      },
+      "artists": [
+        {
+          "name": "Uko",
+          "url": "https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp"
+        }
+      ],
+      "duration_ms": 296475,
+      "name": "Got To Be Real",
+      "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Soho",
-      "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Quintastic",
         "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 243685,
       "name": "Quintastic",
       "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "Soho",
+      "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 248071,
-      "name": "Kiss and Tell",
-      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "City Beat",
         "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 242933,
       "name": "City Beat",
       "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 248071,
+      "name": "Kiss and Tell",
+      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Church Boy",
-        "url": "https://open.spotify.com/album/2PIgTemiHmAhSigq3FxWKM"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "I Smile",
-      "url": "https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Play",
@@ -1383,6 +1367,22 @@
       "duration_ms": 236273,
       "name": "Play",
       "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Church Boy",
+        "url": "https://open.spotify.com/album/2PIgTemiHmAhSigq3FxWKM"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 324453,
+      "name": "I Smile",
+      "url": "https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "City Life",
-        "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        },
-        {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
-        }
-      ],
-      "duration_ms": 294346,
-      "name": "City Life",
-      "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Prime Time",
         "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
       },
@@ -1527,6 +1507,42 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "City Life",
+        "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        }
+      ],
+      "duration_ms": 294346,
+      "name": "City Life",
+      "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Slam Dunk",
+        "url": "https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Slam Dunk",
+      "url": "https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 217022,
       "name": "You're My Joy",
       "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Slam Dunk",
-        "url": "https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Slam Dunk",
-      "url": "https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF"
     },
     {
       "added_at": "2021-07-12 18:23:33",

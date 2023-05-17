@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring SNENiE\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,907 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,915 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 28 | [MALANDRA](https://open.spotify.com/track/1GNfZ80XXzxy6t8PZhgBNy) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [MALANDRA](https://open.spotify.com/album/4q8dxXTDgSictwPmpvfcv3) | 2:36 |
 | 29 | [Un Pulmón](https://open.spotify.com/track/6AYnkty42TUyN6RW7lkgRe) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [Un Pulmón](https://open.spotify.com/album/7yaFTYiVVPjEhgJi4YW78v) | 3:13 |
 | 30 | [Q Si Q No](https://open.spotify.com/track/7vjl6zhzyrSxVA1d7R7Ii5) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [Q Si Q No](https://open.spotify.com/album/1Q5tRQjjM9OGctqVocQ9z1) | 2:33 |
-| 31 | [Ahi Estaré](https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ahi Estaré](https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS) | 3:00 |
-| 32 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/3mkaL7kfoWFrsnSnvSRMH3) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Chemistry](https://open.spotify.com/album/6wVUHdsG7M9g8vFq7yGmUa) | 3:54 |
+| 31 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/3mkaL7kfoWFrsnSnvSRMH3) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Chemistry](https://open.spotify.com/album/6wVUHdsG7M9g8vFq7yGmUa) | 3:54 |
+| 32 | [Ahi Estaré](https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ahi Estaré](https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS) | 3:00 |
 | 33 | [Euterpe](https://open.spotify.com/track/4ZGpzcXZe73n0mx4BHdAFi) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Euterpe](https://open.spotify.com/album/0sjKiWPHWeMIhHRVYBOPf4) | 4:09 |
 | 34 | [No Hay Veneno](https://open.spotify.com/track/7lhzEm9GClkeO6f853sMVa) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Sola \[Parte I\]](https://open.spotify.com/album/1jlqnNX45GMIeexHFJsWOy) | 3:19 |
 | 35 | [Paraíso](https://open.spotify.com/track/0FnWZZTkUeenPGOxIF247f) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Paraíso](https://open.spotify.com/album/4iLRZohe57Q4qq2EgMITFD) | 2:40 |
 | 36 | [Un Veneno \- Tigre Den Session](https://open.spotify.com/track/6EiQaPHDsK8LNFBgHabIZl) | [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [Miluhska \(Tigre Den Session\)](https://open.spotify.com/album/0NEH1iZEps2ak8mSculbL3) | 4:24 |
 | 37 | [suave acento](https://open.spotify.com/track/0B1XBUQQp9JDkT74z3TQo2) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [suave acento](https://open.spotify.com/album/4YPqbmI28tGEYzs2fV96LS) | 3:54 |
 | 38 | [Paño De Lágrimas](https://open.spotify.com/track/4OyJijqmk5Hs38c51UrFbM) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [Paño De Lágrimas](https://open.spotify.com/album/6VnMzKj6rU8EVFC76h9KzA) | 2:49 |
-| 39 | [Candela](https://open.spotify.com/track/683OupaDPQs73s58zY2Aup) | [Lalezka](https://open.spotify.com/artist/1QORf7tbxagwS8t06BuHaY) | [Candela](https://open.spotify.com/album/0oAKvpLkEE5SDJZSC2I5uN) | 2:24 |
-| 40 | [Aves Negras](https://open.spotify.com/track/5YZkhQmnSunYYRCd3dtgUH) | [Paulina B](https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z) | [Aves Negras](https://open.spotify.com/album/2Po2dPDn6lMdNSjkfcM1OU) | 2:45 |
-| 41 | [Quiero Bailar Contigo](https://open.spotify.com/track/3iIvuDuC4ZdP2RqWHCSP3p) | [Truzman](https://open.spotify.com/artist/7qFuA1DT1Ubb1iMPnWKMIr) | [Quiero Bailar Contigo](https://open.spotify.com/album/42W88xG8y9WfcqdarnA1uO) | 2:35 |
-| 42 | [Noir Mambo](https://open.spotify.com/track/6nv9bERk9Wobhs1je4El9a) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Noir Mambo](https://open.spotify.com/album/6emy3Dpmax22ePiukYrFgJ) | 4:59 |
+| 39 | [Aves Negras](https://open.spotify.com/track/5YZkhQmnSunYYRCd3dtgUH) | [Paulina B](https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z) | [Aves Negras](https://open.spotify.com/album/2Po2dPDn6lMdNSjkfcM1OU) | 2:45 |
+| 40 | [Candela](https://open.spotify.com/track/683OupaDPQs73s58zY2Aup) | [Lalezka](https://open.spotify.com/artist/1QORf7tbxagwS8t06BuHaY) | [Candela](https://open.spotify.com/album/0oAKvpLkEE5SDJZSC2I5uN) | 2:24 |
+| 41 | [Noir Mambo](https://open.spotify.com/track/6nv9bERk9Wobhs1je4El9a) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Noir Mambo](https://open.spotify.com/album/6emy3Dpmax22ePiukYrFgJ) | 4:59 |
+| 42 | [Quiero Bailar Contigo](https://open.spotify.com/track/3iIvuDuC4ZdP2RqWHCSP3p) | [Truzman](https://open.spotify.com/artist/7qFuA1DT1Ubb1iMPnWKMIr) | [Quiero Bailar Contigo](https://open.spotify.com/album/42W88xG8y9WfcqdarnA1uO) | 2:35 |
 | 43 | [Cuando Te Veo](https://open.spotify.com/track/3hrIiU2vGDTczLvKeJiX3S) | [Biowaverave](https://open.spotify.com/artist/2kyjD063inXc4sfWHk9UoK) | [Cuando Te Veo](https://open.spotify.com/album/7tG2kTpjBjfR1EO2ESCI56) | 2:21 |
 | 44 | [Casualidad](https://open.spotify.com/track/65xafocysy0HnCoKNo4n1q) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Casualidad](https://open.spotify.com/album/0aO9I8Mp9HVz4S4bphs0q9) | 3:48 |
 | 45 | [BIEN RARO](https://open.spotify.com/track/652t4pJoG6noGbN3VaQ0WA) | [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O) | [BIEN RARO](https://open.spotify.com/album/09UV1eLtOnKeZaaaHnL5w2) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [La Misma Parte](https://open.spotify.com/track/7tvzDe9TUITscXi6CM1mz7) | [Mya Duran](https://open.spotify.com/artist/04mTmlOLtgP50vhcoAkB2o) | [La Misma Parte](https://open.spotify.com/album/2RQRROmxEwP8fo8uowhldV) | 2:39 |
 | 50 | [Hace Días](https://open.spotify.com/track/0LwYew0vKp72ZFTc1dN3xj) | [Santiago Vélez](https://open.spotify.com/artist/5nCnuQHyws6IKOKvQaCyIq), [Los Melancohólicos](https://open.spotify.com/artist/74eLPblHbplIGaeXwgEmUj) | [Hace Días](https://open.spotify.com/album/1ouqzJCYVO8CYUQtf11n3z) | 4:40 |
 
-Snapshot ID: `MCwwZTlkNGJlODU0MjJhMzE1MDU2YjYyMjMxMzY5YTcwNTQ3YzdjZTU1`
+Snapshot ID: `MCxlNmY0Zjg4ZDcxNzkwZjQwMGEyN2JlMWJkNWRjNGFhY2U3OTcyZTAx`

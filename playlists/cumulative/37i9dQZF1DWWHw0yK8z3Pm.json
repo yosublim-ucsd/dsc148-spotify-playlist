@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 201642,
       "name": "Happy Person",
       "url": "https://open.spotify.com/track/37a2o186agDwlqxtlb1pWA"
@@ -2722,6 +2722,24 @@
       "duration_ms": 218293,
       "name": "Ink & the Ash",
       "url": "https://open.spotify.com/track/7ojVABChTg9ogpIRq2z9OR"
+    },
+    {
+      "album": {
+        "name": "Homemaker",
+        "url": "https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187491,
+      "name": "Instant Cash for Gold",
+      "url": "https://open.spotify.com/track/3Jd8ZnKlKNBsRnO6XJTbYZ"
     },
     {
       "album": {

@@ -4,12 +4,13 @@
 
 > \*vibing in desi\*
 
-144 songs - 8 hr 11 min
+145 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aao Na \(Lofi Mix\)](https://open.spotify.com/track/07H0BQV9ZiW7z7xwTchbh2) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Aao Na \(Lofi Mix\)](https://open.spotify.com/album/2qlGu6VJKOCprVR1ajjUcV) | 4:58 | 2022-05-27 |  |
-| [Aao Phir Se](https://open.spotify.com/track/7Bu6dexQvuVz5LRuzjLYOX) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Aao Phir Se](https://open.spotify.com/album/2HRLg9LdgbjvWCnw6OOJRh) | 2:50 | 2022-05-27 |  |
+| [Aao Phir Se](https://open.spotify.com/track/1wgC0hW1abXgmgoASyieVw) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Aao Phir Se](https://open.spotify.com/album/05zQVq7VECKbmpyyBBXhPj) | 2:50 | 2023-01-23 |  |
+| [Aao Phir Se](https://open.spotify.com/track/7Bu6dexQvuVz5LRuzjLYOX) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Aao Phir Se](https://open.spotify.com/album/2HRLg9LdgbjvWCnw6OOJRh) | 2:50 | 2022-05-27 | 2023-05-17 |
 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 | 2022-08-29 | 2022-12-01 |
 | [Andhere Mein](https://open.spotify.com/track/134oyq7shwFhszVjvhN8XY) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Andhere Mein](https://open.spotify.com/album/2HtdxEULBFqcHLKGTnMjZJ) | 3:54 | 2022-05-27 | 2023-01-24 |
 | [Attachments](https://open.spotify.com/track/4EN7HF6MEsbwZzI75pz8HY) | [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Attachments](https://open.spotify.com/album/6gP4iEUARTRoBBZDNFxy34) | 2:33 | 2022-05-27 | 2022-08-30 |

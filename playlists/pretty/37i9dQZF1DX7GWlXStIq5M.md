@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Thiago Pantaleão
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,454 likes - 89 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,486 likes - 89 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 7 | [Sem Hora Para Voltar](https://open.spotify.com/track/1UuXxtsxfwj5RpTccEDQIQ) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM) | [MAUD](https://open.spotify.com/album/5Koq2MvYpESKDkSObQvLTC) | 2:49 |
 | 8 | [INTERESSANTE](https://open.spotify.com/track/7LfB0vUbSF4O592hVxKVKl) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [INTERESSANTE](https://open.spotify.com/album/6ui7pzTTnJ4zhnf7faJxMB) | 2:16 |
 | 9 | [Combinadinho](https://open.spotify.com/track/3o1wkALMRxFgotr82yUnSY) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Combinadinho](https://open.spotify.com/album/2TqritjMLjbcYejnZvZElm) | 2:43 |
-| 10 | [PRETA RARA](https://open.spotify.com/track/0BSfQdCd5lZPgTQL70DsYV) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [DJ Davi](https://open.spotify.com/artist/6SoUpVqz6ZMFHEDwyZrvQR), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 3:21 |
+| 10 | [PRETA RARA](https://open.spotify.com/track/0BSfQdCd5lZPgTQL70DsYV) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [DJDAVIDOB13](https://open.spotify.com/artist/4XKaUDBk0BdRMqp2m06fXL), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 3:21 |
 | 11 | [Olho no Gato](https://open.spotify.com/track/6ZwMZUgN277HqoWaSZoFtX) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:39 |
 | 12 | [LÍNGUA AFIADA](https://open.spotify.com/track/30RaRbZzy0sywELF7wYuAF) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [LÍNGUA AFIADA](https://open.spotify.com/album/7Asu4qiJrMQ9pwUF3X4L3b) | 2:27 |
 | 13 | [CHOVE \(calor em sp\)](https://open.spotify.com/track/5WqMwoLQyTVQY7OhkMKukX) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [CHOVE \(calor em sp\)](https://open.spotify.com/album/69BgJJZqwM497GrqP4LqtS) | 3:19 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 88 | [Atrás Do Meu Amor](https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Mais Uma Vez](https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs) | 2:11 |
 | 89 | [Tentação](https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:54 |
 
-Snapshot ID: `MCwyYjUzZGE3ZmNjNDFhOGY0MGNmZDFlZTY0MzVkZmQyMDMyYzhiNTIz`
+Snapshot ID: `MCw1Y2ExNjlhNzAxMDNhNWRkZmU0NGY1ODg4OTBkNjNjNWM3NDA0NzU0`

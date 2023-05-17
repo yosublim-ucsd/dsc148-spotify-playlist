@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Loi
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,815 likes - 115 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,814 likes - 115 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 74 | [Are You Ready](https://open.spotify.com/track/1opGw1WXHKlZUHbIS4VB3O) | [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [Are You Ready](https://open.spotify.com/album/3r6gQP287hwd74bNJsj5Wb) | 2:35 |
 | 75 | [Niemals Hatten](https://open.spotify.com/track/7waaOnxlxV89bfwToXa5z3) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [LEVIN LIAM LEAKS 2023](https://open.spotify.com/album/4BssOFPrpM2urmZK7JOQ43) | 1:32 |
 | 76 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 |
-| 77 | [Blessings \(feat\. Wizkid & Gimba\)](https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Gimba](https://open.spotify.com/artist/1aov1VXIBA7iACR51xloHt) | [Blessings \(feat\. Wizkid & Gimba\)](https://open.spotify.com/album/7Jczi3QQN1oiJPa2k2mrpx) | 3:16 |
+| 77 | [Blessings \(feat\. Wizkid & Gimba\)](https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [Blessings \(feat\. Wizkid & Gimba\)](https://open.spotify.com/album/7Jczi3QQN1oiJPa2k2mrpx) | 3:16 |
 | 78 | [Tiger Style](https://open.spotify.com/track/2vDpTwmngMfXaLIbDFtNfi) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Tiger Style](https://open.spotify.com/album/2XV8XjeCKE2aMXKBeTRhHJ) | 2:13 |
 | 79 | [Don't Play Nice](https://open.spotify.com/track/5UgC6zKYeyRDxQyNPn2fNr) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Don't Play Nice](https://open.spotify.com/album/4UMmSt9ZkyI4mM1BJGSaxY) | 2:36 |
 | 80 | [Not Worthy](https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Not Worthy](https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g) | 3:12 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 114 | [Lauf](https://open.spotify.com/track/7d8mo4A255IToerZNguieR) | [CARY](https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv) | [Lauf](https://open.spotify.com/album/6xYlmcdkzu7vopLPtjdxxE) | 2:23 |
 | 115 | [The Curtain Falls](https://open.spotify.com/track/3cesghNhbiVhxpYdiWbn3h) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Blood & Glitter \(Deluxe Version\)](https://open.spotify.com/album/2VvSKrtQLQ0mNUXCodbKfE) | 3:01 |
 
-Snapshot ID: `MCwxYmYwZjM2NjQyYzFkYmJlZjM3ZmI1YWY4YzE5MDZjNjQ4NmUxZDA0`
+Snapshot ID: `MCw1ZDhiNzI5YzhlOTFiZWYyNzczMzM2ZDM5MmVhZjk5YTc1NzBmNDhh`

@@ -2377,6 +2377,28 @@
     },
     {
       "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191615,
+      "name": "Ojos Sin Ver",
+      "url": "https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f"
+    },
+    {
+      "album": {
         "name": "Omri",
         "url": "https://open.spotify.com/album/6uPeVzOEUmO69h6gsNt2rn"
       },
@@ -3242,7 +3264,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 194733,
       "name": "Ya lbahri",
       "url": "https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV"

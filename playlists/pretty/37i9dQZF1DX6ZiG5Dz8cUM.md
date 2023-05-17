@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,453 likes - 170 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,535 likes - 170 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 169 | [Skylark](https://open.spotify.com/track/59BoB64SnmEA40zVsKVmND) | [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP) | [Ballad Session](https://open.spotify.com/album/6ymLizMskVol73exzqzOBQ) | 5:55 |
 | 170 | [A Certain Sadness](https://open.spotify.com/track/7ghC8JSmKgrUzjTcceZ5fN) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [The Getaway](https://open.spotify.com/album/140DzepgudObqMe1uv4W1f) | 5:15 |
 
-Snapshot ID: `MCw0NmYzMDFmZjk5Yzk5MDU3YmZmNzg2YTE1ZWE0ZGQ1NTM4ZmI1ZmUy`
+Snapshot ID: `MCw4M2FjNDdjNThhZDJjMzFlNmQxNDExZjkyYjhkMWQwNTVlNGFmNzJl`

@@ -1320,6 +1320,24 @@
     {
       "album": {
         "name": "Cranekiss",
+        "url": "https://open.spotify.com/album/3NTQKLFtwDck8Qlc19Zlre"
+      },
+      "artists": [
+        {
+          "name": "Tamaryn",
+          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230408,
+      "name": "Cranekiss",
+      "url": "https://open.spotify.com/track/2S9iC3ShDiSXObSRBUpXw2"
+    },
+    {
+      "album": {
+        "name": "Cranekiss",
         "url": "https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa"
       },
       "artists": [
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 266250,
       "name": "Daylighter",
       "url": "https://open.spotify.com/track/2Nfv9rms6Q7uloTk2KYU8k"
@@ -1622,6 +1640,24 @@
       "duration_ms": 318959,
       "name": "Dodem",
       "url": "https://open.spotify.com/track/6WVvlRjBgIkpK29xDRm9VG"
+    },
+    {
+      "album": {
+        "name": "GIZMO",
+        "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112400,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP"
     },
     {
       "album": {
@@ -3326,7 +3362,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 186253,
       "name": "Long Holiday",
       "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"

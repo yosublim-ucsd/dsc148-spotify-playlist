@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 44865,
+  "num_followers": 44937,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGQ0OTcyZmI0NTQxNWEyYmMyMTVlYzQwZmQwODlmNWU1YTEyNWRk",
+  "snapshot_id": "MCwxMDVhN2RlODhlNTNmOTI2NjFlZjMyYTNkN2EwNTdhY2ViY2UzOTc5",
   "tracks": [
     {
       "added_at": "2023-05-03 15:44:47",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-05-03 15:44:47",
       "album": {
+        "name": "Essa Saia",
+        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 209069,
+      "name": "Essa Saia",
+      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+    },
+    {
+      "added_at": "2023-05-03 15:44:47",
+      "album": {
         "name": "JOGADOR CARO",
         "url": "https://open.spotify.com/album/5CZiBICShN5FDPhQtUsCbC"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 186100,
       "name": "JOGADOR CARO",
       "url": "https://open.spotify.com/track/3AmAlwNKaJyExmvN6EOSb2"
-    },
-    {
-      "added_at": "2023-05-03 15:44:47",
-      "album": {
-        "name": "Essa Saia",
-        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 209069,
-      "name": "Essa Saia",
-      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
     },
     {
       "added_at": "2023-05-03 15:44:47",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-05-03 15:44:47",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW"
+        "name": "Mechelas",
+        "url": "https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
         }
       ],
-      "duration_ms": 186529,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb"
+      "duration_ms": 314133,
+      "name": "Sendo Assim",
+      "url": "https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6"
     },
     {
       "added_at": "2023-05-03 15:44:47",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-05-03 15:44:47",
       "album": {
-        "name": "Mechelas",
-        "url": "https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1"
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW"
       },
       "artists": [
         {
-          "name": "Sam The Kid",
-          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 314133,
-      "name": "Sendo Assim",
-      "url": "https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6"
+      "duration_ms": 186529,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb"
     },
     {
       "added_at": "2023-05-03 15:44:47",
@@ -1359,22 +1359,18 @@
     {
       "added_at": "2023-05-03 15:44:47",
       "album": {
-        "name": "Rubi",
-        "url": "https://open.spotify.com/album/5GZRN9j6B5N7Gk5jtvaRtM"
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
       "artists": [
         {
-          "name": "Myles 6ix",
-          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
-        },
-        {
-          "name": "Midas",
-          "url": "https://open.spotify.com/artist/6bLqHfd3myOdJyC4z6Blhj"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 223634,
-      "name": "Rubi",
-      "url": "https://open.spotify.com/track/4aStXzYiJWQvdspHEn6GJN"
+      "duration_ms": 214654,
+      "name": "Perseus",
+      "url": "https://open.spotify.com/track/2QXQFSyhpnisPQnNd76Fh7"
     }
   ],
   "unique_name": "Rap Tuga Hits",

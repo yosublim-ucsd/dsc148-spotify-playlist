@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 173065,
       "name": "Maliach",
       "url": "https://open.spotify.com/track/1pUhEW4SsZjUZ6qs669zPs"
@@ -4590,6 +4590,24 @@
       "duration_ms": 209309,
       "name": "Ya Hmed",
       "url": "https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf"
+    },
+    {
+      "album": {
+        "name": "Ya Lalali (Remixes)",
+        "url": "https://open.spotify.com/album/7aiqh5Cf2Kl0bGxrQFGqXO"
+      },
+      "artists": [
+        {
+          "name": "Kawtar",
+          "url": "https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168044,
+      "name": "Ya Lalali",
+      "url": "https://open.spotify.com/track/2BdKGLQhcmIS522o5SV0my"
     },
     {
       "album": {

@@ -783,6 +783,28 @@
     },
     {
       "album": {
+        "name": "Beni tek d\u00fc\u015flerim anlar (Akustik)",
+        "url": "https://open.spotify.com/album/5YRThxVrlwQguwujznvRJe"
+      },
+      "artists": [
+        {
+          "name": "Turuncu G\u00f6ky\u00fcz\u00fc",
+          "url": "https://open.spotify.com/artist/16d4nPQ35sMW1Y8s9NjjlG"
+        },
+        {
+          "name": "Ramazan Yal\u00e7\u0131n",
+          "url": "https://open.spotify.com/artist/6YmLkJu3STux7ClwVLcJa5"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142864,
+      "name": "Beni tek d\u00fc\u015flerim anlar - Akustik",
+      "url": "https://open.spotify.com/track/3XMb86DZBzXO71wKDgzWxA"
+    },
+    {
+      "album": {
         "name": "Beni Yak",
         "url": "https://open.spotify.com/album/4HwJvgkvYO8O59RFoE5HSf"
       },
@@ -1853,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Elektrik",
+        "url": "https://open.spotify.com/album/2pCJIt9AwdZEQpybwBasfw"
+      },
+      "artists": [
+        {
+          "name": "Yang\u0131n",
+          "url": "https://open.spotify.com/artist/69f7h8xhiJTOmZyCN6wtrD"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151096,
+      "name": "Elektrik",
+      "url": "https://open.spotify.com/track/7gzsVgd6N4gmODaA6cHRud"
+    },
+    {
+      "album": {
         "name": "Elveda",
         "url": "https://open.spotify.com/album/10eb2x0z0w8igsSIfyblwg"
       },
@@ -2650,7 +2690,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 215625,
       "name": "Halimizi Kim Anlar?",
       "url": "https://open.spotify.com/track/0BaDaSnybOWeILGR7nYvbS"
@@ -4464,7 +4504,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 272620,
       "name": "Onun Hikayesi",
       "url": "https://open.spotify.com/track/00HzVKC3wKkV4D6jOutode"
@@ -4680,7 +4720,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 210715,
       "name": "Ruhun Benle Mi?",
       "url": "https://open.spotify.com/track/21FJ71mrVv9rbeoGIOVaiY"
@@ -4936,6 +4976,24 @@
       "duration_ms": 184974,
       "name": "Sakla",
       "url": "https://open.spotify.com/track/2vaww66IDso9IjNIorOZyv"
+    },
+    {
+      "album": {
+        "name": "Sal",
+        "url": "https://open.spotify.com/album/6X9cC8mWJCXW6zk0ZJde5d"
+      },
+      "artists": [
+        {
+          "name": "Mertkan Erkan",
+          "url": "https://open.spotify.com/artist/13lsQbnSpalOoAq3AbDwec"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Sal",
+      "url": "https://open.spotify.com/track/5mrXaiRcf5vsI397tKOxGU"
     },
     {
       "album": {

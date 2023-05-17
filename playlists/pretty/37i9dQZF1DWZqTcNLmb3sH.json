@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 49112,
+  "num_followers": 49127,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmUxOGRlZTgyNjJkMzk1NmExZmUwZGZkMzExZDI4ZjUxMmI3N2Fh",
+  "snapshot_id": "MCw1NTk4MTNhNjRkODNjOGE5MDk2ZjZkODZkYTcwMmU0ODY0N2I1ODAz",
   "tracks": [
     {
       "added_at": "2023-02-28 11:36:56",
@@ -51,6 +51,30 @@
       "duration_ms": 243789,
       "name": "Nanna Roja Neene (From \"Kushi\")",
       "url": "https://open.spotify.com/track/6CcjkrkV1WiUhfuNChsIyT"
+    },
+    {
+      "added_at": "2023-05-16 05:45:58",
+      "album": {
+        "name": "Gold Factory (From \"Elra Kaaleliyatte Kaala\")",
+        "url": "https://open.spotify.com/album/2596CCqQO1uM04HU8QMo18"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Praveen-Pradeep",
+          "url": "https://open.spotify.com/artist/2Nh3McF50LBstOocdkW6m9"
+        },
+        {
+          "name": "Vishwajith Rao",
+          "url": "https://open.spotify.com/artist/4yoso4oy6CJUzfVOS6zkjS"
+        }
+      ],
+      "duration_ms": 189422,
+      "name": "Gold Factory (From \"Elra Kaaleliyatte Kaala\")",
+      "url": "https://open.spotify.com/track/1xTjqUuyS4aR88GjVUbw1P"
     },
     {
       "added_at": "2023-05-08 08:30:40",
@@ -1152,7 +1176,7 @@
       "added_at": "2023-03-28 05:05:16",
       "album": {
         "name": "Aagodide Aarambhavu #TheHugSong (From \"Daredevil Musthafa\")",
-        "url": "https://open.spotify.com/album/7KAYZjolotDVFqLo8e7HI9"
+        "url": "https://open.spotify.com/album/0sW0YURH7AlhX6dNLwmlNu"
       },
       "artists": [
         {
@@ -1166,7 +1190,7 @@
       ],
       "duration_ms": 278248,
       "name": "Aagodide Aarambhavu #TheHugSong (From \"Daredevil Musthafa\")",
-      "url": "https://open.spotify.com/track/7q5bA3tnZPzQPwPP2JznT4"
+      "url": "https://open.spotify.com/track/4IlgYljMpmrWfhwtgnELkH"
     },
     {
       "added_at": "2023-03-15 11:10:37",
@@ -1272,8 +1296,8 @@
       },
       "artists": [
         {
-          "name": "Vyasaraj Sosale",
-          "url": "https://open.spotify.com/artist/0O8FIZczDo2bCQ3tbSm0q5"
+          "name": "Vyasraj Sosale",
+          "url": "https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE"
         },
         {
           "name": "Kadri Manikanth",

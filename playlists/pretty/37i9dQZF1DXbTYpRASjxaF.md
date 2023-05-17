@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Ryu, the Runner, Mateca
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,767 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,954 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Evoque Miami Blue](https://open.spotify.com/track/5wm1P0cfNLvQ3uauPoUjui) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [Evoque Miami Blue](https://open.spotify.com/album/1CIU7JnfWM7DdXFdtx1Bap) | 2:09 |
 | 50 | [A Cara do Crime 2 \(Cansou de Playboy\)](https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [A Cara do Crime 2 \(Cansou de Playboy\)](https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0) | 4:25 |
 
-Snapshot ID: `MCwxMmM2MzFiYzIzOTFkZmZjODA4NjAxZjJjNmMwY2ZjZWZiNjFmYWY5`
+Snapshot ID: `MCwyOTk1YjFhOTIyNDc2NmU1ODZjNWNkNzRmNDU3YTYzZmMwZDZiYTAz`

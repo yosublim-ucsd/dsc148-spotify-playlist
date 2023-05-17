@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
-  "num_followers": 148658,
+  "num_followers": 148810,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGQ1NzEzYWRkYjkxZjEwYTU5ZTU1MjEwMWQyMjk4ZTQwYjMwMDIy",
+  "snapshot_id": "MCxkZmIxNjkxNzExNGM5YTQ0ZDllYWJhZDcxNjdjNWM1NTY3Y2YzOWUx",
   "tracks": [
     {
       "added_at": "2023-01-19 21:29:10",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "After Here Through Midland (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5pXGk4hepNTME887MLGXmG"
-      },
-      "artists": [
-        {
-          "name": "Cock Robin",
-          "url": "https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "Just Around the Corner",
-      "url": "https://open.spotify.com/track/0WujVnyLeCEOoPpdV2wOj6"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "In the Flat Field",
         "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 284893,
       "name": "Only Time Will Tell",
       "url": "https://open.spotify.com/track/49NDegc7RQyvq6mhAs06p6"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "After Here Through Midland (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5pXGk4hepNTME887MLGXmG"
+      },
+      "artists": [
+        {
+          "name": "Cock Robin",
+          "url": "https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg"
+        }
+      ],
+      "duration_ms": 256266,
+      "name": "Just Around the Corner",
+      "url": "https://open.spotify.com/track/0WujVnyLeCEOoPpdV2wOj6"
     },
     {
       "added_at": "2021-09-28 03:14:02",

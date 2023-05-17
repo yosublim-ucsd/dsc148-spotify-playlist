@@ -1333,6 +1333,36 @@
     },
     {
       "album": {
+        "name": "Ekhaya",
+        "url": "https://open.spotify.com/album/7jGhLkP6bQlmD9zfQxx6cd"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ha\u00efs",
+          "url": "https://open.spotify.com/artist/6cnRri5dkUwbn0jsjXJrdA"
+        },
+        {
+          "name": "Prince Baba",
+          "url": "https://open.spotify.com/artist/48dShi6KlPq7edbbTylSum"
+        },
+        {
+          "name": "Bongi",
+          "url": "https://open.spotify.com/artist/0KZJ1OcJnEluTQQlphBlBY"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205423,
+      "name": "Ekhaya - Radio Edit",
+      "url": "https://open.spotify.com/track/6f4Sh3fz15uSiLkvKTllBQ"
+    },
+    {
+      "album": {
         "name": "For My Dear Friend V (DJ Mix)",
         "url": "https://open.spotify.com/album/71YPrvk0AIeyWKXqf7ZzVz"
       },
@@ -1986,10 +2016,36 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 259672,
       "name": "Horizon Red",
       "url": "https://open.spotify.com/track/0PgOKL49AVmYzcdPCwpwng"
+    },
+    {
+      "album": {
+        "name": "Horizon Red (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/31LCf0hztvBsdB0HB5T2TC"
+      },
+      "artists": [
+        {
+          "name": "Made By Pete",
+          "url": "https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa"
+        },
+        {
+          "name": "Zoe Kypri",
+          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565063,
+      "name": "Horizon Red - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/5iBtd2rolPOVUHB2E43Z66"
     },
     {
       "album": {
@@ -3837,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "What You Expected",
+        "url": "https://open.spotify.com/album/3zLUdoiXYjKzQXVnhr71fA"
+      },
+      "artists": [
+        {
+          "name": "The Siege DJ",
+          "url": "https://open.spotify.com/artist/39KVav2Jh3upmt7K4U5Dk1"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452048,
+      "name": "Newman",
+      "url": "https://open.spotify.com/track/27Zpjq9sA03MmWbj0vG1en"
+    },
+    {
+      "album": {
         "name": "Ngoma",
         "url": "https://open.spotify.com/album/1A6bQ5HmqfJDnVAXMocXqA"
       },
@@ -4957,6 +5031,24 @@
     },
     {
       "album": {
+        "name": "Samaritan",
+        "url": "https://open.spotify.com/album/5wPFohzrd2a5YPtjqcKeQE"
+      },
+      "artists": [
+        {
+          "name": "Anorre",
+          "url": "https://open.spotify.com/artist/26TRIoeGpch6h8plv1siMh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198113,
+      "name": "Samaritan",
+      "url": "https://open.spotify.com/track/37KGiv7fXcXu1c0Bp3rhcN"
+    },
+    {
+      "album": {
         "name": "Sand Traveller (Boddhi Satva Ancestral Soul Mix)",
         "url": "https://open.spotify.com/album/73nGEbwyuM2zLSEEtrMout"
       },
@@ -5806,6 +5898,32 @@
       "duration_ms": 400000,
       "name": "The Touch - Nandu Remix",
       "url": "https://open.spotify.com/track/0XXLXVjFtnseLTDMCB17KC"
+    },
+    {
+      "album": {
+        "name": "The World Goes Round",
+        "url": "https://open.spotify.com/album/2ZLOpIWW5UvK6N3HzxnJyc"
+      },
+      "artists": [
+        {
+          "name": "West & Hill",
+          "url": "https://open.spotify.com/artist/4rReYiWIwC0po3ogLLUVn6"
+        },
+        {
+          "name": "Soulroots",
+          "url": "https://open.spotify.com/artist/2SLXgpwOTRFI0lVQQ5rTwe"
+        },
+        {
+          "name": "Soul Star",
+          "url": "https://open.spotify.com/artist/3hOsGdLoINDweQrMm2tjZy"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376134,
+      "name": "The World Goes Round",
+      "url": "https://open.spotify.com/track/6ZBZxzeRZLTSI7IBbp1CJN"
     },
     {
       "album": {

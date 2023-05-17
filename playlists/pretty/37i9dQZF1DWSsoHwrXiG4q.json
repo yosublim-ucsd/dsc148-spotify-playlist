@@ -1,12 +1,12 @@
 {
   "description": "Deep sounds of liquid drum & bass to keep you in the flow.",
-  "num_followers": 10500,
+  "num_followers": 10585,
   "original_name": "Rapid Rhythm Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWIyZTRmNTFlYjgwNzMwMWEwYjU5ZDQzNDlhZDRmMzk2ODM5MzYy",
+  "snapshot_id": "MCw5OTc0ODhhNDg5ZmVmZTUyNmUzMGFjMjQ2YmViZDdmOTcxNGIzYmMy",
   "tracks": [
     {
       "added_at": "2023-02-14 02:54:48",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-02-14 02:54:48",
       "album": {
-        "name": "Full Fat 01",
-        "url": "https://open.spotify.com/album/52fo23dS6QgbmVdqsriY5T"
-      },
-      "artists": [
-        {
-          "name": "Artsea",
-          "url": "https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9"
-        }
-      ],
-      "duration_ms": 242758,
-      "name": "Discovery",
-      "url": "https://open.spotify.com/track/0x5JU2PT8jVHXdwHoQz6QH"
-    },
-    {
-      "added_at": "2023-02-14 02:54:48",
-      "album": {
         "name": "makeshift",
         "url": "https://open.spotify.com/album/7yqS6BS18Eo05B5N2bsfeA"
       },
@@ -327,38 +311,6 @@
     {
       "added_at": "2023-02-14 02:54:48",
       "album": {
-        "name": "Spyglass/Damage",
-        "url": "https://open.spotify.com/album/7hCBU8vLJ5Q7jy1cJv80Uy"
-      },
-      "artists": [
-        {
-          "name": "Memro",
-          "url": "https://open.spotify.com/artist/0OIeNihgk0zBQzqN4O3Xb0"
-        }
-      ],
-      "duration_ms": 308976,
-      "name": "Spyglass",
-      "url": "https://open.spotify.com/track/4EaghxJQ9BR1uWufJYgame"
-    },
-    {
-      "added_at": "2023-02-14 02:54:48",
-      "album": {
-        "name": "Days Like These EP",
-        "url": "https://open.spotify.com/album/4v5HIb6e4LJpB1R7u7brRK"
-      },
-      "artists": [
-        {
-          "name": "BCee",
-          "url": "https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ"
-        }
-      ],
-      "duration_ms": 339410,
-      "name": "Dogs Behaving Badly",
-      "url": "https://open.spotify.com/track/3zjYqFF5jsz7n2nUHTRaWl"
-    },
-    {
-      "added_at": "2023-02-14 02:54:48",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/2cVSNtvF9aAWblNYQeCl5e"
       },
@@ -371,30 +323,6 @@
       "duration_ms": 339886,
       "name": "Falling Lights",
       "url": "https://open.spotify.com/track/5ZXXout3LaxYFT2dVRvT8j"
-    },
-    {
-      "added_at": "2023-02-14 02:54:48",
-      "album": {
-        "name": "Power Of Nature EP",
-        "url": "https://open.spotify.com/album/7lhivxLusKW1BAT2hk6IDo"
-      },
-      "artists": [
-        {
-          "name": "Aetherial",
-          "url": "https://open.spotify.com/artist/10XMkjUSWNCD3WwlSOR6VY"
-        },
-        {
-          "name": "Cosmic Sequence",
-          "url": "https://open.spotify.com/artist/3hk6kBwVVRVOOJlaxTe0y1"
-        },
-        {
-          "name": "Smote",
-          "url": "https://open.spotify.com/artist/5FIcJ2ghmkpHZM8cXm17XP"
-        }
-      ],
-      "duration_ms": 320200,
-      "name": "Forsaken - Smote Remix",
-      "url": "https://open.spotify.com/track/26KntMzmEzIfBTMc7wMPaO"
     },
     {
       "added_at": "2023-02-14 02:54:48",
@@ -423,6 +351,30 @@
     {
       "added_at": "2023-02-14 02:54:48",
       "album": {
+        "name": "Power Of Nature EP",
+        "url": "https://open.spotify.com/album/7lhivxLusKW1BAT2hk6IDo"
+      },
+      "artists": [
+        {
+          "name": "Aetherial",
+          "url": "https://open.spotify.com/artist/10XMkjUSWNCD3WwlSOR6VY"
+        },
+        {
+          "name": "Cosmic Sequence",
+          "url": "https://open.spotify.com/artist/3hk6kBwVVRVOOJlaxTe0y1"
+        },
+        {
+          "name": "Smote",
+          "url": "https://open.spotify.com/artist/5FIcJ2ghmkpHZM8cXm17XP"
+        }
+      ],
+      "duration_ms": 320200,
+      "name": "Forsaken - Smote Remix",
+      "url": "https://open.spotify.com/track/26KntMzmEzIfBTMc7wMPaO"
+    },
+    {
+      "added_at": "2023-02-14 02:54:48",
+      "album": {
         "name": "Sceptical / Stolen Love",
         "url": "https://open.spotify.com/album/2nlwA5ZHJ85AlX5hYqmzE5"
       },
@@ -439,18 +391,90 @@
     {
       "added_at": "2023-02-14 02:54:48",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/3bti1dr6JCjaYudAsjH09S"
+        "name": "Liquidism (Volume 12)",
+        "url": "https://open.spotify.com/album/0FlI19Se2vM93u4g9xbM5H"
       },
       "artists": [
         {
-          "name": "FD",
-          "url": "https://open.spotify.com/artist/76KMDlhW2f4qiTlepW5yfy"
+          "name": "Linquei",
+          "url": "https://open.spotify.com/artist/1f1aYXcRPviy2KuNn8K3Pd"
         }
       ],
-      "duration_ms": 344033,
-      "name": "Bottles",
-      "url": "https://open.spotify.com/track/4bqWWzjSKOZoFR5IptMO5v"
+      "duration_ms": 326411,
+      "name": "Feel Me",
+      "url": "https://open.spotify.com/track/1HcH5kwmpDJ8qyPL5GHx0z"
+    },
+    {
+      "added_at": "2023-02-14 02:54:48",
+      "album": {
+        "name": "Waves EP",
+        "url": "https://open.spotify.com/album/57QThZPKvMs02T0bKykgfR"
+      },
+      "artists": [
+        {
+          "name": "Scatterbrain",
+          "url": "https://open.spotify.com/artist/7KlCZGiDEqfifiQUaUOjnY"
+        },
+        {
+          "name": "Humanature",
+          "url": "https://open.spotify.com/artist/4xOtbphOgZnohWojmZtxVq"
+        }
+      ],
+      "duration_ms": 314588,
+      "name": "Second Thoughts",
+      "url": "https://open.spotify.com/track/1vGOnBdcfYUJGz2gqyVqnh"
+    },
+    {
+      "added_at": "2023-03-09 22:27:21",
+      "album": {
+        "name": "Her Room",
+        "url": "https://open.spotify.com/album/7MvGTXzbm57VVFMPdOsoQs"
+      },
+      "artists": [
+        {
+          "name": "Leniz",
+          "url": "https://open.spotify.com/artist/1qHvK5Yi7L8CUDuK9HahoX"
+        },
+        {
+          "name": "Qumulus",
+          "url": "https://open.spotify.com/artist/2SPHhbUppZ3hQULJI1gE8T"
+        }
+      ],
+      "duration_ms": 291799,
+      "name": "Her Room",
+      "url": "https://open.spotify.com/track/6GxItxR3jbx4WjYi7tFAb4"
+    },
+    {
+      "added_at": "2023-04-13 16:11:07",
+      "album": {
+        "name": "Start / Descendence",
+        "url": "https://open.spotify.com/album/7lfRo8NTCCXj7fu83wEmvv"
+      },
+      "artists": [
+        {
+          "name": "Rambutan",
+          "url": "https://open.spotify.com/artist/3SNy9C8agzPn0LW9zTlj1u"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Descendence",
+      "url": "https://open.spotify.com/track/77Jee13pdAn2AVngCzgAVU"
+    },
+    {
+      "added_at": "2023-02-14 02:54:48",
+      "album": {
+        "name": "DJ Patife Presents Viva Brazil: Sunandbass Sessions",
+        "url": "https://open.spotify.com/album/1cbUibBHqT8u2s8ODPc5Ui"
+      },
+      "artists": [
+        {
+          "name": "L-Side",
+          "url": "https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR"
+        }
+      ],
+      "duration_ms": 391724,
+      "name": "What You Say",
+      "url": "https://open.spotify.com/track/2GufTqv5cwxqf80TJH69Ql"
     },
     {
       "added_at": "2023-02-14 02:54:48",
@@ -483,22 +507,6 @@
       "duration_ms": 291149,
       "name": "The Drift",
       "url": "https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3"
-    },
-    {
-      "added_at": "2023-02-14 02:54:48",
-      "album": {
-        "name": "Inner Echo/ Thrive Pattern VIP",
-        "url": "https://open.spotify.com/album/0X5CFT37lTT3nWkVlJBY37"
-      },
-      "artists": [
-        {
-          "name": "Mojoman",
-          "url": "https://open.spotify.com/artist/2t7SxDJO8xs6RskGSLYwad"
-        }
-      ],
-      "duration_ms": 449923,
-      "name": "Inner Echo",
-      "url": "https://open.spotify.com/track/1tGwB0G7VOshhAyOQYaNbe"
     },
     {
       "added_at": "2023-02-14 02:54:48",
@@ -571,22 +579,6 @@
     {
       "added_at": "2023-02-14 02:54:48",
       "album": {
-        "name": "Sliced Feat. Sevin / Frost Heaves",
-        "url": "https://open.spotify.com/album/2l51hI7XqDqXJMirkMy6K0"
-      },
-      "artists": [
-        {
-          "name": "Silence Groove",
-          "url": "https://open.spotify.com/artist/4hpq4qAP5XaJawNi8XriL8"
-        }
-      ],
-      "duration_ms": 299221,
-      "name": "Frost Heaves - Original",
-      "url": "https://open.spotify.com/track/7hAN6sfZlXv0szXbedzCHC"
-    },
-    {
-      "added_at": "2023-02-14 02:54:48",
-      "album": {
         "name": "Lost (Pola & Bryson Remix)",
         "url": "https://open.spotify.com/album/5VgTlXbwBgqQgfQX7Pwdpn"
       },
@@ -623,22 +615,6 @@
     {
       "added_at": "2023-02-14 02:54:48",
       "album": {
-        "name": "Liquidism (Volume 12)",
-        "url": "https://open.spotify.com/album/0FlI19Se2vM93u4g9xbM5H"
-      },
-      "artists": [
-        {
-          "name": "Linquei",
-          "url": "https://open.spotify.com/artist/1f1aYXcRPviy2KuNn8K3Pd"
-        }
-      ],
-      "duration_ms": 326411,
-      "name": "Feel Me",
-      "url": "https://open.spotify.com/track/1HcH5kwmpDJ8qyPL5GHx0z"
-    },
-    {
-      "added_at": "2023-02-14 02:54:48",
-      "album": {
         "name": "Last Day / Bernstein",
         "url": "https://open.spotify.com/album/4K7Hq7cqnjN7gGcnAiT1i0"
       },
@@ -651,6 +627,118 @@
       "duration_ms": 287526,
       "name": "Last Day",
       "url": "https://open.spotify.com/track/6d8emU3TIOaB4HxyETxHG6"
+    },
+    {
+      "added_at": "2023-02-14 02:54:48",
+      "album": {
+        "name": "Days Like These",
+        "url": "https://open.spotify.com/album/0yLw15IJ24NwZ4PLrHUUgH"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        }
+      ],
+      "duration_ms": 409133,
+      "name": "Days Like These - Original Mix",
+      "url": "https://open.spotify.com/track/0wlcIk9TmFMPWsSvw0aO31"
+    },
+    {
+      "added_at": "2023-02-14 02:54:48",
+      "album": {
+        "name": "Full Fat 01",
+        "url": "https://open.spotify.com/album/52fo23dS6QgbmVdqsriY5T"
+      },
+      "artists": [
+        {
+          "name": "Artsea",
+          "url": "https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9"
+        }
+      ],
+      "duration_ms": 242758,
+      "name": "Discovery",
+      "url": "https://open.spotify.com/track/0x5JU2PT8jVHXdwHoQz6QH"
+    },
+    {
+      "added_at": "2023-02-14 02:54:48",
+      "album": {
+        "name": "Spyglass/Damage",
+        "url": "https://open.spotify.com/album/7hCBU8vLJ5Q7jy1cJv80Uy"
+      },
+      "artists": [
+        {
+          "name": "Memro",
+          "url": "https://open.spotify.com/artist/0OIeNihgk0zBQzqN4O3Xb0"
+        }
+      ],
+      "duration_ms": 308976,
+      "name": "Spyglass",
+      "url": "https://open.spotify.com/track/4EaghxJQ9BR1uWufJYgame"
+    },
+    {
+      "added_at": "2023-02-14 02:54:48",
+      "album": {
+        "name": "Days Like These EP",
+        "url": "https://open.spotify.com/album/4v5HIb6e4LJpB1R7u7brRK"
+      },
+      "artists": [
+        {
+          "name": "BCee",
+          "url": "https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ"
+        }
+      ],
+      "duration_ms": 339410,
+      "name": "Dogs Behaving Badly",
+      "url": "https://open.spotify.com/track/3zjYqFF5jsz7n2nUHTRaWl"
+    },
+    {
+      "added_at": "2023-02-14 02:54:48",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3bti1dr6JCjaYudAsjH09S"
+      },
+      "artists": [
+        {
+          "name": "FD",
+          "url": "https://open.spotify.com/artist/76KMDlhW2f4qiTlepW5yfy"
+        }
+      ],
+      "duration_ms": 344033,
+      "name": "Bottles",
+      "url": "https://open.spotify.com/track/4bqWWzjSKOZoFR5IptMO5v"
+    },
+    {
+      "added_at": "2023-02-14 02:54:48",
+      "album": {
+        "name": "Inner Echo/ Thrive Pattern VIP",
+        "url": "https://open.spotify.com/album/0X5CFT37lTT3nWkVlJBY37"
+      },
+      "artists": [
+        {
+          "name": "Mojoman",
+          "url": "https://open.spotify.com/artist/2t7SxDJO8xs6RskGSLYwad"
+        }
+      ],
+      "duration_ms": 449923,
+      "name": "Inner Echo",
+      "url": "https://open.spotify.com/track/1tGwB0G7VOshhAyOQYaNbe"
+    },
+    {
+      "added_at": "2023-02-14 02:54:48",
+      "album": {
+        "name": "Sliced Feat. Sevin / Frost Heaves",
+        "url": "https://open.spotify.com/album/2l51hI7XqDqXJMirkMy6K0"
+      },
+      "artists": [
+        {
+          "name": "Silence Groove",
+          "url": "https://open.spotify.com/artist/4hpq4qAP5XaJawNi8XriL8"
+        }
+      ],
+      "duration_ms": 299221,
+      "name": "Frost Heaves - Original",
+      "url": "https://open.spotify.com/track/7hAN6sfZlXv0szXbedzCHC"
     },
     {
       "added_at": "2023-02-14 02:54:48",
@@ -707,22 +795,6 @@
     {
       "added_at": "2023-02-14 02:54:48",
       "album": {
-        "name": "Days Like These",
-        "url": "https://open.spotify.com/album/0yLw15IJ24NwZ4PLrHUUgH"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        }
-      ],
-      "duration_ms": 409133,
-      "name": "Days Like These - Original Mix",
-      "url": "https://open.spotify.com/track/0wlcIk9TmFMPWsSvw0aO31"
-    },
-    {
-      "added_at": "2023-02-14 02:54:48",
-      "album": {
         "name": "Glass / Into the Motion (Extended Play)",
         "url": "https://open.spotify.com/album/5mN40loDSsFN5uOFldIEDi"
       },
@@ -755,26 +827,6 @@
     {
       "added_at": "2023-02-14 02:54:48",
       "album": {
-        "name": "Waves EP",
-        "url": "https://open.spotify.com/album/57QThZPKvMs02T0bKykgfR"
-      },
-      "artists": [
-        {
-          "name": "Scatterbrain",
-          "url": "https://open.spotify.com/artist/7KlCZGiDEqfifiQUaUOjnY"
-        },
-        {
-          "name": "Humanature",
-          "url": "https://open.spotify.com/artist/4xOtbphOgZnohWojmZtxVq"
-        }
-      ],
-      "duration_ms": 314588,
-      "name": "Second Thoughts",
-      "url": "https://open.spotify.com/track/1vGOnBdcfYUJGz2gqyVqnh"
-    },
-    {
-      "added_at": "2023-02-14 02:54:48",
-      "album": {
         "name": "Typical Things",
         "url": "https://open.spotify.com/album/6jVJj2XiudrfH14YvqTLBm"
       },
@@ -787,26 +839,6 @@
       "duration_ms": 223351,
       "name": "Simple Sa",
       "url": "https://open.spotify.com/track/0u2buO07v9E81DEMftkGmD"
-    },
-    {
-      "added_at": "2023-03-09 22:27:21",
-      "album": {
-        "name": "Her Room",
-        "url": "https://open.spotify.com/album/7MvGTXzbm57VVFMPdOsoQs"
-      },
-      "artists": [
-        {
-          "name": "Leniz",
-          "url": "https://open.spotify.com/artist/1qHvK5Yi7L8CUDuK9HahoX"
-        },
-        {
-          "name": "Qumulus",
-          "url": "https://open.spotify.com/artist/2SPHhbUppZ3hQULJI1gE8T"
-        }
-      ],
-      "duration_ms": 291799,
-      "name": "Her Room",
-      "url": "https://open.spotify.com/track/6GxItxR3jbx4WjYi7tFAb4"
     },
     {
       "added_at": "2023-02-14 02:54:48",
@@ -987,38 +1019,6 @@
       "duration_ms": 278160,
       "name": "High",
       "url": "https://open.spotify.com/track/3e7ELUxL2d1RFWrSEMsme9"
-    },
-    {
-      "added_at": "2023-04-13 16:11:07",
-      "album": {
-        "name": "Start / Descendence",
-        "url": "https://open.spotify.com/album/7lfRo8NTCCXj7fu83wEmvv"
-      },
-      "artists": [
-        {
-          "name": "Rambutan",
-          "url": "https://open.spotify.com/artist/3SNy9C8agzPn0LW9zTlj1u"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Descendence",
-      "url": "https://open.spotify.com/track/77Jee13pdAn2AVngCzgAVU"
-    },
-    {
-      "added_at": "2023-02-14 02:54:48",
-      "album": {
-        "name": "DJ Patife Presents Viva Brazil: Sunandbass Sessions",
-        "url": "https://open.spotify.com/album/1cbUibBHqT8u2s8ODPc5Ui"
-      },
-      "artists": [
-        {
-          "name": "L-Side",
-          "url": "https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR"
-        }
-      ],
-      "duration_ms": 391724,
-      "name": "What You Say",
-      "url": "https://open.spotify.com/track/2GufTqv5cwxqf80TJH69Ql"
     },
     {
       "added_at": "2023-02-14 02:54:48",

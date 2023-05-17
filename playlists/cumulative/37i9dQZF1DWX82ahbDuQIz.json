@@ -32,7 +32,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 360120,
       "name": "1973",
       "url": "https://open.spotify.com/track/0XSvlNGzzFfD5n1w3yYoFz"
@@ -70,6 +70,40 @@
       "duration_ms": 360120,
       "name": "1973",
       "url": "https://open.spotify.com/track/2gOmt646rC7CXUUdDUIvEL"
+    },
+    {
+      "album": {
+        "name": "Almost Famous - The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1QLDI5AmoFaLkluQZSFJ4e"
+      },
+      "artists": [
+        {
+          "name": "Casey Likes",
+          "url": "https://open.spotify.com/artist/2y3sCYh34QgmPXj1HdUlsu"
+        },
+        {
+          "name": "Anika Larsen",
+          "url": "https://open.spotify.com/artist/19YjQcUwdG4DwtQkX7FdyL"
+        },
+        {
+          "name": "Emily Schultheis",
+          "url": "https://open.spotify.com/artist/0OcExg1pTQLJwlcR5mQXLi"
+        },
+        {
+          "name": "Daniel Sovich",
+          "url": "https://open.spotify.com/artist/1EsCfsJrZyD7zFqDqucMHG"
+        },
+        {
+          "name": "Original Broadway Cast of Almost Famous - The Musical",
+          "url": "https://open.spotify.com/artist/7ybNybQQDnJoGOP2Y9JyHG"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360120,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/3dsccH4jAR9gx6g7U8whb5"
     },
     {
       "album": {
@@ -2204,10 +2238,32 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 285333,
       "name": "No Friends",
       "url": "https://open.spotify.com/track/04P2ZQp0KiipXP9GJ4tCZp"
+    },
+    {
+      "album": {
+        "name": "Almost Famous - The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1QLDI5AmoFaLkluQZSFJ4e"
+      },
+      "artists": [
+        {
+          "name": "Casey Likes",
+          "url": "https://open.spotify.com/artist/2y3sCYh34QgmPXj1HdUlsu"
+        },
+        {
+          "name": "Original Broadway Cast of Almost Famous - The Musical",
+          "url": "https://open.spotify.com/artist/7ybNybQQDnJoGOP2Y9JyHG"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285333,
+      "name": "No Friends",
+      "url": "https://open.spotify.com/track/0WV1rcv9z9E7MpwGXkldIx"
     },
     {
       "album": {

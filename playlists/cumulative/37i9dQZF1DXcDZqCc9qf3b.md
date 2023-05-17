@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites! Cover: The Magician's Elephant
 
-117 songs - 4 hr 51 min
+118 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [It's All Me \(From The Netlix Series: "Ridley Jones" Vol\. 2\)](https://open.spotify.com/track/1eDzHZuMKAHFh1eeWWI06u) | [Ridley Jones Cast](https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR) | [Ridley Jones \(Soundtrack From The Netflix Series Vol\. 2\)](https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU) | 1:03 | 2022-04-08 |  |
 | [Keep Holding On \- Hybrid Version](https://open.spotify.com/track/0f1rObddzYzuikkqBKF8o3) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [Thai Cave Rescue \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7kDe7QIbUXeF4FrzIHmX8D) | 4:10 | 2022-10-12 |  |
 | [Keep Holding On \- Hybrid Version](https://open.spotify.com/track/2u66zu5KxLUmINS2sCMpGH) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [Thai Cave Rescue \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3VcxoYyUcIPoZU1yIVQvhi) | 4:10 | 2022-09-23 | 2022-11-17 |
+| [Kitti Katz Theme \(from the Netflix Series\)](https://open.spotify.com/track/0xiZP7XvD12u2jPcCPYPgR) | [Kitti Katz](https://open.spotify.com/artist/3pL0HFJmARZMJYyDFdyNXL) | [Kitti Katz Theme \(from the Netflix Series\)](https://open.spotify.com/album/6U7BKPNbMqq3bmN829fUsu) | 2:39 | 2023-05-16 |  |
 | [Let's Go Make A Memory](https://open.spotify.com/track/2QE54qAFv2rEEKZf6eqY9P) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [Bailee Madison](https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE), [Jahbril Cook](https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT), [Kat Conner Sterling](https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD), [Iain Tucker](https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 2:33 | 2022-04-08 |  |
 | [Let’s Move! Dance Party](https://open.spotify.com/track/2qPEiuO3w4iho9YY8B0KMW) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/4vDKqx4kvhz1d1t7JiEIov) | 3:23 | 2022-04-08 | 2022-07-29 |
 | [Let’s Move! Dance Party](https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9) | 3:23 | 2022-10-12 |  |

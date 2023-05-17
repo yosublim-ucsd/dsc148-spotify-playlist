@@ -2807,6 +2807,24 @@
     },
     {
       "album": {
+        "name": "Knocknarea",
+        "url": "https://open.spotify.com/album/1hb0fuPRhbd1uStttAaalz"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402666,
+      "name": "Kakistocracy",
+      "url": "https://open.spotify.com/track/58GZTiV4Ek3ZV8DygP5u6R"
+    },
+    {
+      "album": {
         "name": "Eton Alive",
         "url": "https://open.spotify.com/album/3QiU8JCc97mcqfJ3caEMzs"
       },
@@ -2926,7 +2944,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 260506,
       "name": "Leather",
       "url": "https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl"

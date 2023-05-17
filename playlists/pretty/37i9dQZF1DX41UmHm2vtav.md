@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,836 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,010 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 65 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
 | 66 | [Imprevisível \- Overdriver Duo e Guz Zanotto Remix](https://open.spotify.com/track/3z51kAmAca2StfedNebGNe) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18), [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI) | [Imprevisível \(Overdriver Duo e Guz Zanotto Remix\)](https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW) | 3:35 |
 | 67 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
-| 68 | [O Xote Das Meninas \- Pontifexx Remix](https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [O Xote Das Meninas \(Pontifexx Remix\)](https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT) | 3:09 |
-| 69 | [Falling Like The Stars \- Madism Remix](https://open.spotify.com/track/0iHO8dmXhSYCgfow7ckt9W) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Falling Like The Stars \(Madism Remix\)](https://open.spotify.com/album/5NWay7oRQhrtMiLNgEOBTz) | 3:01 |
+| 68 | [Falling Like The Stars \- Madism Remix](https://open.spotify.com/track/0iHO8dmXhSYCgfow7ckt9W) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Falling Like The Stars \(Madism Remix\)](https://open.spotify.com/album/5NWay7oRQhrtMiLNgEOBTz) | 3:01 |
+| 69 | [O Xote Das Meninas \- Pontifexx Remix](https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [O Xote Das Meninas \(Pontifexx Remix\)](https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT) | 3:09 |
 | 70 | [Nunca Fui Desse Lugar \(DUX Remix\) \[Daparte feat\. Lagum\]](https://open.spotify.com/track/4e5RkL0LPzqmzlD5tIoWAO) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Nunca Fui Desse Lugar \(DUX Remix\) \[Daparte feat\. Lagum\]](https://open.spotify.com/album/7ld1TzHKmvV2kjomArv5vu) | 2:57 |
 
-Snapshot ID: `MCwyN2VkOWVhNGY5MDcyYjg4NzliODBlNDAzNzY3ZTYwNjQ0OTM5MTJk`
+Snapshot ID: `MCw0MGU0NmE1YjlhNjkwODMxZGM2ZmQ3OGYzZjk5MTQ1NzFkNGJmODc3`

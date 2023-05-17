@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Molotov en portada. ",
-  "num_followers": 990412,
+  "num_followers": 990568,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjNhZjc0ZThlM2M5NDc2NDRkOGZlZTBiMjU5YjRmOTdhMGNmNDU4",
+  "snapshot_id": "MCwxYmM0YjhiZmU2ZGVkODc5MjdlYzAxMGE4ODE0NTQzYmQzNDc5ZWVm",
   "tracks": [
     {
       "added_at": "2023-05-12 06:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Amor Chiquito",
-        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
       },
       "artists": [
         {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 297533,
-      "name": "Veneno Vil",
-      "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
+      "duration_ms": 258573,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
+        "name": "Amor Chiquito",
+        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 258573,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
+      "duration_ms": 297533,
+      "name": "Veneno Vil",
+      "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Aeropuerto",
-        "url": "https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn"
-      },
-      "artists": [
-        {
-          "name": "2 minutos",
-          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
-        },
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 194769,
-      "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Voy a Volver",
         "url": "https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb"
       },
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Aeropuerto",
+        "url": "https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn"
+      },
+      "artists": [
+        {
+          "name": "2 minutos",
+          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+        },
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 194769,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Mun\u0303equita Sinte\u0301tica",
         "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
       },
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Amores Lejanos",
+        "url": "https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 317320,
+      "name": "Frances Limon",
+      "url": "https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Volovan",
         "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 162322,
       "name": "Con Vos",
       "url": "https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Amores Lejanos",
-        "url": "https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 317320,
-      "name": "Frances Limon",
-      "url": "https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Tropiplop",
+        "url": "https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 264030,
+      "name": "En la Ciudad de la Furia",
+      "url": "https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Antes que el sol nos queme",
         "url": "https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Brillo de Sol",
-        "url": "https://open.spotify.com/album/79Meec6gttJaCauGA6nvKm"
-      },
-      "artists": [
-        {
-          "name": "Los Dug Dug's",
-          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
-        }
-      ],
-      "duration_ms": 202713,
-      "name": "Brillo de Sol",
-      "url": "https://open.spotify.com/track/1DMwAQVf5iQYvczjFH6hsb"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Un Segundo MTV Unplugged",
         "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
       },
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Tropiplop",
-        "url": "https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG"
+        "name": "Brillo de Sol",
+        "url": "https://open.spotify.com/album/79Meec6gttJaCauGA6nvKm"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+          "name": "Los Dug Dug's",
+          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
         }
       ],
-      "duration_ms": 264030,
-      "name": "En la Ciudad de la Furia",
-      "url": "https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg"
+      "duration_ms": 202713,
+      "name": "Brillo de Sol",
+      "url": "https://open.spotify.com/track/1DMwAQVf5iQYvczjFH6hsb"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4P3K3YGnFdgj51xBMtavdS"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "S\u00f3lo Tu\u0301",
+      "url": "https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Qu\u00e9 Te Robas?",
         "url": "https://open.spotify.com/album/7ldtONmp2xnN3HB83EIhY3"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 240494,
       "name": "Qu\u00e9 Te Robas?",
       "url": "https://open.spotify.com/track/2REZbo1NmHJVcJJm2sTpLu"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4P3K3YGnFdgj51xBMtavdS"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "S\u00f3lo Tu\u0301",
-      "url": "https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj"
     }
   ],
   "unique_name": "La + Chingona",

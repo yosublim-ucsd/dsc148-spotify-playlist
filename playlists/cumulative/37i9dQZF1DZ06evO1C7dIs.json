@@ -1240,10 +1240,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 243213,
       "name": "Wish I Had An Angel",
       "url": "https://open.spotify.com/track/2VvmryAbIRod1FwZHtwqC5"
+    },
+    {
+      "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245973,
+      "name": "Wish I Had an Angel",
+      "url": "https://open.spotify.com/track/6IKk2Z7LO59UDnVEw8JCBj"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 438498,
+  "num_followers": 438893,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTI4ZDY4MDhjYmM0N2FhM2FlMmE1YzEyMThlNTIxNjM4NzYwZWZj",
+  "snapshot_id": "MCwzMzBmZWYwNzYxZmNjZTZjZjZmMzczNjdiMWU2OWNmNGEwNWY3ZDM5",
   "tracks": [
     {
       "added_at": "2023-04-28 21:00:51",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-04-28 21:00:51",
       "album": {
-        "name": "Troco Likes",
-        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 178718,
-      "name": "Coisa Linda",
-      "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
-    },
-    {
-      "added_at": "2023-04-28 21:00:51",
-      "album": {
         "name": "Pearl",
         "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 394706,
       "name": "Quando Bate Aquela Saudade",
       "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
+    },
+    {
+      "added_at": "2023-04-28 21:00:51",
+      "album": {
+        "name": "Troco Likes",
+        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 178718,
+      "name": "Coisa Linda",
+      "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
     },
     {
       "added_at": "2023-04-28 21:00:51",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-04-28 21:00:51",
       "album": {
-        "name": "Mariana Nolasco Sessions 2",
-        "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 138647,
-      "name": "Ai que Saudade D'Oc\u00ea - Sessions",
-      "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
+      "duration_ms": 205945,
+      "name": "Bixinho",
+      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
     },
     {
       "added_at": "2023-04-28 21:00:51",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-04-28 21:00:51",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+        "name": "Mariana Nolasco Sessions 2",
+        "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
       },
       "artists": [
         {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 205945,
-      "name": "Bixinho",
-      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
+      "duration_ms": 138647,
+      "name": "Ai que Saudade D'Oc\u00ea - Sessions",
+      "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
     },
     {
       "added_at": "2023-04-28 21:00:51",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-04-28 21:00:51",
       "album": {
-        "name": "Lado de C\u00e1",
-        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
-      },
-      "artists": [
-        {
-          "name": "Lado de C\u00e1",
-          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
-        }
-      ],
-      "duration_ms": 171594,
-      "name": "Quando Amanhecer",
-      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
-    },
-    {
-      "added_at": "2023-04-28 21:00:51",
-      "album": {
         "name": "deixa fluir",
         "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 171907,
       "name": "deixa fluir",
       "url": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw"
+    },
+    {
+      "added_at": "2023-04-28 21:00:51",
+      "album": {
+        "name": "Lado de C\u00e1",
+        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
+      },
+      "artists": [
+        {
+          "name": "Lado de C\u00e1",
+          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
+        }
+      ],
+      "duration_ms": 171594,
+      "name": "Quando Amanhecer",
+      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
     },
     {
       "added_at": "2023-04-28 21:00:51",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-04-28 21:00:51",
       "album": {
+        "name": "Transforma(dor)",
+        "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 143461,
+      "name": "Transforma(dor)",
+      "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"
+    },
+    {
+      "added_at": "2023-04-28 21:00:51",
+      "album": {
         "name": "Caravanas",
         "url": "https://open.spotify.com/album/1s1A5EqQwJkGSXGO5ZwJpu"
       },
@@ -799,38 +815,6 @@
     {
       "added_at": "2023-04-28 21:00:51",
       "album": {
-        "name": "Transforma(dor)",
-        "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 143461,
-      "name": "Transforma(dor)",
-      "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"
-    },
-    {
-      "added_at": "2023-04-28 21:00:51",
-      "album": {
-        "name": "Um Corpo no Mundo",
-        "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Acalanto",
-      "url": "https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62"
-    },
-    {
-      "added_at": "2023-04-28 21:00:51",
-      "album": {
         "name": "Quintal",
         "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 177014,
       "name": "Mais Que Ontem",
       "url": "https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D"
+    },
+    {
+      "added_at": "2023-04-28 21:00:51",
+      "album": {
+        "name": "Um Corpo no Mundo",
+        "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Acalanto",
+      "url": "https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62"
     },
     {
       "added_at": "2023-04-28 21:00:51",

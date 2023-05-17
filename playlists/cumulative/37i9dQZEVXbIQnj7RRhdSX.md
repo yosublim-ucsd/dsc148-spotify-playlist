@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,242 songs - 2 day 15 hr 59 min
+1,243 songs - 2 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Centro Di Gravità Permanente \- Mix 2015](https://open.spotify.com/track/0mMqFWid8PWiOAt9AfBZlA) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [La Voce Del Padrone](https://open.spotify.com/album/5LJfFPeNKEVoTYkGtNUvcp) | 3:52 | 2021-05-20 | 2021-05-21 |
 | [Centro Di Gravità Permanente \- Remastered](https://open.spotify.com/track/0TjBZWBfUQ1eeWuYMgchZG) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [Movida Pop Hits Anni 80's](https://open.spotify.com/album/2btyiUr6grC9Qlhyv6ZUUJ) | 3:59 | 2021-05-20 | 2021-05-21 |
 | [ch1 5ei te](https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 3:03 | 2022-05-31 | 2022-06-09 |
-| [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-15 |  |
+| [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-15 | 2023-05-17 |
 | [Champagne 4 The Pain \(feat\. Gemitaiz & Noyz Narcos\)](https://open.spotify.com/track/3X2hj2FtEjHTYr6CMRO2my) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 3:46 | 2021-04-11 | 2021-05-03 |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-06 |
 | [Changes \(con Vettosi, anice, J Lord & 2Rari\)](https://open.spotify.com/track/0YXcPuqjMWEuGv4M6WQQUK) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Vettosi](https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg), [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:15 | 2022-09-17 | 2022-09-19 |
@@ -210,6 +210,7 @@
 | [Chiudi Gli Occhi](https://open.spotify.com/track/7Iq93UBQAA4zSYVkbKDJBO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:02 | 2023-01-15 | 2023-01-22 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 | 2021-12-26 | 2021-12-27 |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-12-26 | 2022-12-28 |
+| [Ci pensiamo domani](https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf) | 3:00 | 2023-05-16 |  |
 | [Ci Riuscirò Davvero \(feat\. Ernia\)](https://open.spotify.com/track/11EARgZsN3VaGmHKQ3tEeH) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 4:19 | 2022-04-02 | 2022-04-08 |
 | [Ciao Baby](https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:06 | 2022-05-14 | 2022-06-04 |
 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 | 2022-02-03 | 2022-02-13 |

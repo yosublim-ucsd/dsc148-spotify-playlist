@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 59687,
+  "num_followers": 59813,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmM5ZDY3MmY0MzY4OGM3YmQwYWFjOTVlMTM2MmZlNTYwOWZkMzQy",
+  "snapshot_id": "MCwxNzY1YzAzODI3ZTIzZDE0M2EzYjM1ZTMwYzExZjVhYWEyOWM3MGZh",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 316506,
-      "name": "Star Witness",
-      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Wilco (The Album)",
         "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 205240,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 316506,
+      "name": "Star Witness",
+      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Advisory Committee",
+        "url": "https://open.spotify.com/album/0gQWuaPBjGRe4S4lV7gtlC"
+      },
+      "artists": [
+        {
+          "name": "Mirah",
+          "url": "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "Special Death",
+      "url": "https://open.spotify.com/track/5kRgOJD7wN77OHjiGhkpjL"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Middle Cyclone",
         "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 199226,
       "name": "This Tornado Loves You",
       "url": "https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Ghosts of the Great Highway",
-        "url": "https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ"
-      },
-      "artists": [
-        {
-          "name": "Sun Kil Moon",
-          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Carry Me Ohio",
-      "url": "https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Advisory Committee",
-        "url": "https://open.spotify.com/album/0gQWuaPBjGRe4S4lV7gtlC"
+        "name": "Ghosts of the Great Highway",
+        "url": "https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ"
       },
       "artists": [
         {
-          "name": "Mirah",
-          "url": "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
+          "name": "Sun Kil Moon",
+          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
         }
       ],
-      "duration_ms": 152346,
-      "name": "Special Death",
-      "url": "https://open.spotify.com/track/5kRgOJD7wN77OHjiGhkpjL"
+      "duration_ms": 381040,
+      "name": "Carry Me Ohio",
+      "url": "https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Destroyer's Rubies",
-        "url": "https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii"
+        "name": "Woman King",
+        "url": "https://open.spotify.com/album/5bD1I8I6SMNoysShNdTJa3"
       },
       "artists": [
         {
-          "name": "Destroyer",
-          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 250013,
-      "name": "Painter in Your Pocket",
-      "url": "https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes"
+      "duration_ms": 307013,
+      "name": "Jezebel",
+      "url": "https://open.spotify.com/track/66uRb1ytl0l3PHAAAjqySU"
     }
   ],
   "unique_name": "00s Indie Folk",

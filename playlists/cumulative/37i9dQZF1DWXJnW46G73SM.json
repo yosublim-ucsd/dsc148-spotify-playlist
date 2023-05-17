@@ -2156,8 +2156,8 @@
           "url": "https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ"
         },
         {
-          "name": "Mallakh",
-          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
+          "name": "Maher El Mallakh",
+          "url": "https://open.spotify.com/artist/48RWA9yeD1Pt3C7M9SECpI"
         }
       ],
       "date_added": "2023-05-04",
@@ -4632,8 +4632,8 @@
           "url": "https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ"
         },
         {
-          "name": "Mallakh",
-          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
+          "name": "Maher El Mallakh",
+          "url": "https://open.spotify.com/artist/48RWA9yeD1Pt3C7M9SECpI"
         }
       ],
       "date_added": "2023-05-11",
@@ -5364,7 +5364,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 226762,
       "name": "Tab Aoulak - Karkouba",
       "url": "https://open.spotify.com/track/10kAWGJi58siX7qOKFt2uY"
@@ -5476,6 +5476,24 @@
       "duration_ms": 119802,
       "name": "Tanteet",
       "url": "https://open.spotify.com/track/0DlEg3wy4iUcTU7lNUFFlg"
+    },
+    {
+      "album": {
+        "name": "Taqa Egabiya",
+        "url": "https://open.spotify.com/album/5YC6fQoCORJTPD0Ul0RTvu"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183556,
+      "name": "Taqa Egabiya",
+      "url": "https://open.spotify.com/track/36W3RtxBprZcvw1bcbcQFW"
     },
     {
       "album": {
@@ -6543,6 +6561,28 @@
     },
     {
       "album": {
+        "name": "\u0627\u0645\u0628\u0627\u0628\u0647 \u0627\u062c\u0645\u062f \u0645\u0646 \u0628\u0627\u0631\u064a\u0633",
+        "url": "https://open.spotify.com/album/3CBAp8DL6WEclLUW6lGo8V"
+      },
+      "artists": [
+        {
+          "name": "Muslim",
+          "url": "https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv"
+        },
+        {
+          "name": "Fishawy",
+          "url": "https://open.spotify.com/artist/1vR6L1Tw4k5aneCWTi3li0"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232285,
+      "name": "\u0627\u0645\u0628\u0627\u0628\u0647 \u0627\u062c\u0645\u062f \u0645\u0646 \u0628\u0627\u0631\u064a\u0633",
+      "url": "https://open.spotify.com/track/1GhcQBhjlqj9aOx1A4ncJr"
+    },
+    {
+      "album": {
         "name": "\u0627\u0646\u0627 \u0627\u0644\u0647\u064a\u0631\u0648",
         "url": "https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs"
       },
@@ -7324,7 +7364,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 217903,
       "name": "\u0639\u0645\u0644\u0629 \u0646\u0627\u062f\u0631\u0629 - \u062a\u062a\u0631 \u0628\u062f\u0627\u064a\u0629 \u0627\u0644\u0645\u0633\u0644\u0633\u0644",
       "url": "https://open.spotify.com/track/2Eneo9yawKGoBxHTimTozd"

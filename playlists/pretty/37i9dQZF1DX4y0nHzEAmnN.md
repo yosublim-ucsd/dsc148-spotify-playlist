@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 16 | [Mi Merienda](https://open.spotify.com/track/4G5XxbE4p0D6sg5i0F2bBR) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 2](https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF) | 1:59 |
 | 17 | [Canción para la hora del baño \(Agua, jabón\)](https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq) | [Nene León](https://open.spotify.com/artist/77KB559uFak8dFDQNrfz6q) | [Canciones Infantiles, Vol\. 2](https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE) | 1:32 |
 | 18 | [Family Time](https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 4:20 |
-| 19 | [Al agua patos](https://open.spotify.com/track/2FLv7uVCeSonmiYPUDFt2S) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Transportes en mis vacaciones](https://open.spotify.com/album/0fRPfcwOayugABKgIPtJIE) | 1:10 |
-| 20 | [Me cepillo los dientes](https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Juguemos a cantar con Barney](https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL) | 1:53 |
+| 19 | [Me cepillo los dientes](https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Juguemos a cantar con Barney](https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL) | 1:53 |
+| 20 | [Al agua patos](https://open.spotify.com/track/2FLv7uVCeSonmiYPUDFt2S) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Transportes en mis vacaciones](https://open.spotify.com/album/0fRPfcwOayugABKgIPtJIE) | 1:10 |
 | 21 | [Do The Chores](https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT) | [Daddy A Go Go](https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H) | [Mojo A Go Go \- Real Rock For Kids](https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu) | 3:13 |
 | 22 | [El Juego de las Verduras](https://open.spotify.com/track/7htnCgZlRosLtszzgGQXeB) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:37 |
 | 23 | [El Baño del Elefantito](https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC) | [Leoncito Alado](https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5) | [Leoncito Alado](https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S) | 1:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 49 | [Wash The Dishes](https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ) | [Nat Hussey](https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA) | [Papa Goose](https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j) | 1:29 |
 | 50 | [Please and Thank You Song](https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Children's Songs for Family, Friends & Siblings from LittleBabyBum](https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV) | 1:31 |
 
-Snapshot ID: `MCxhM2RlNDM0OTA3MzAyMmUzMzBiNzk4ZjY1NDdlNGI3NmVlOWE4YWM5`
+Snapshot ID: `MCw1NmI5OTZiMDg5M2E1MzgyOTI0YTlmYWU4NDAyMjg4MzE0ZDAzZDA2`

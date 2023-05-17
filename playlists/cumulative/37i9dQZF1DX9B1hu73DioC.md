@@ -4,7 +4,7 @@
 
 > The best indie tracks for just hanging out.
 
-632 songs - 1 day 14 hr 13 min
+633 songs - 1 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Intentions](https://open.spotify.com/track/6S4NRqNCYpsxlxMtSFKxh2) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Intentions](https://open.spotify.com/album/5GykugUTWmwtCcbiYp1sda) | 3:28 | 2022-06-01 | 2022-06-20 |
 | [Intro / Set3](https://open.spotify.com/track/2fdj5KFMvuHox86ccpMnnR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 3:07 | 2020-10-16 | 2020-11-17 |
 | [Is It Light Where You Are](https://open.spotify.com/track/4ovFkkzBZV8XSh7YwTlQe2) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Is It Light Where You Are](https://open.spotify.com/album/0SBNec5DGoqI8O5szAqXHp) | 4:57 | 2021-08-27 | 2022-06-27 |
+| [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 | 2023-04-21 |  |
 | [Isle Of Strawberries](https://open.spotify.com/track/5WKAClOGDSDkCgEtGp6wx1) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Isle Of Strawberries](https://open.spotify.com/album/7kDeJKf9JBo2ou6sMxYCdj) | 3:36 | 2020-10-05\* | 2022-04-21 |
 | [Isle of Strawberries](https://open.spotify.com/track/7zfTF24acTKL42XSfzGETi) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Will You Think of Me Later?](https://open.spotify.com/album/0Bb2UJXgxTgqUNC0z5QCyM) | 3:36 | 2022-10-07 | 2022-12-13 |
 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 | 2023-04-06 |  |
@@ -460,7 +461,7 @@
 | [Pretty Boy](https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:54 | 2022-07-25 | 2022-10-15 |
 | [Price of Blue](https://open.spotify.com/track/6Yg3cwwToQgMnPbTP0v1rc) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Price of Blue](https://open.spotify.com/album/11L7TR545oBYAzm7jAvbkQ) | 6:22 | 2021-05-06 | 2022-04-18 |
 | [Pristine](https://open.spotify.com/track/1JK7oWiemlE6d4zAMnHWvS) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Pristine](https://open.spotify.com/album/5XYvtCyxdwbsk2XIdLPFgU) | 4:55 | 2020-10-16 | 2022-04-12 |
-| [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 | 2022-10-07 |  |
+| [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 | 2022-10-07 | 2023-05-17 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-10 |  |
 | [Questioning My Mind](https://open.spotify.com/track/0H2EwgDNxFwBY6gPnVmuV2) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Questioning My Mind](https://open.spotify.com/album/6X7WVkGVz7znUSldpVjBLh) | 4:14 | 2020-10-05\* | 2022-04-17 |
 | [Rainy Day Loop](https://open.spotify.com/track/3kaxuMPzoUdM22m6oOCr1v) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Forever & Ever](https://open.spotify.com/album/7MEH4LcjNvaLRMh27yxABB) | 3:42 | 2020-10-05\* | 2022-04-20 |

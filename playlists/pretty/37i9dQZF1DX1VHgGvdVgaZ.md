@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,852 likes - 75 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,882 likes - 75 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 34 | [Senthamizh](https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Bharatiyaar Songs \- Veena](https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO) | 2:47 |
 | 35 | [Saadhinchane \- Aarabhi](https://open.spotify.com/track/3agk4o0xCN0MH2yRmpKHsq) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [Pancharatna Kritis \- A Flute Duet](https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ) | 8:47 |
 | 36 | [Ramabhirama Darbar Misrachappu](https://open.spotify.com/track/0dhXKFpfhZMFeEPgdbIGGn) | [Kunnakudi Vaidyanathan](https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr) | [South Indian Classical Music](https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1) | 7:39 |
-| 37 | [Maha Ganapathim Nata Chatusraekam \- original](https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr) | [Dikshithar](https://open.spotify.com/artist/0eDZju05yhZaoIYegmAO1j), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Blissful Veena \(original\)](https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG) | 5:44 |
-| 38 | [Jagadodharana \(Kadri Gopalnath\-Sax\)](https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp) | [Vadya Sangamam](https://open.spotify.com/artist/0aDuKft9jKKmEgVc0T49or) | [Vadya Sangamam](https://open.spotify.com/album/6e6OHCI1fsXNjEL0rYvoHo) | 7:26 |
+| 37 | [Jagadodharana \(Kadri Gopalnath\-Sax\)](https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp) | [Vadya Sangamam](https://open.spotify.com/artist/0aDuKft9jKKmEgVc0T49or) | [Vadya Sangamam](https://open.spotify.com/album/6e6OHCI1fsXNjEL0rYvoHo) | 7:26 |
+| 38 | [Maha Ganapathim Nata Chatusraekam \- original](https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr) | [Dikshithar](https://open.spotify.com/artist/0eDZju05yhZaoIYegmAO1j), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Blissful Veena \(original\)](https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG) | 5:44 |
 | 39 | [Charukesi \(Violin Solo\)](https://open.spotify.com/track/7sbj3epB23VijBZxq8FgNs) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Apoorva Thillanas](https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b) | 6:24 |
 | 40 | [Bho Shambho \- Instrumental](https://open.spotify.com/track/1sRAThKJTFHB5YOKdvzUtC) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 6:02 |
-| 41 | [Vatapiganapatim](https://open.spotify.com/track/05c2F9UMy7TbfZc6Ws47ee) | [Raghunath Manet](https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq) | [Yal Isai](https://open.spotify.com/album/5oJkt1OCl9ko0nEpY7jjW1) | 11:19 |
-| 42 | [Ghana Ragamalika Tanam](https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC) | [Doraiswamy Iyengar](https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj) | [The Best of Carnatic Instrumental](https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK) | 5:09 |
+| 41 | [Ghana Ragamalika Tanam](https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC) | [Doraiswamy Iyengar](https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj) | [The Best of Carnatic Instrumental](https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK) | 5:09 |
+| 42 | [Vatapiganapatim](https://open.spotify.com/track/05c2F9UMy7TbfZc6Ws47ee) | [Raghunath Manet](https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq) | [Yal Isai](https://open.spotify.com/album/5oJkt1OCl9ko0nEpY7jjW1) | 11:19 |
 | 43 | [Ayarpadi](https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e) | [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Veena Gana Murali](https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5) | 4:38 |
 | 44 | [Thatwamaria \- Reeti Gowla \- Adi](https://open.spotify.com/track/1PJmg2Y59CRBhT6wzrAdzl) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Compositions Of Papanasam Sivam](https://open.spotify.com/album/47yh0cq6rw9pFurWQPjIG5) | 7:37 |
 | 45 | [Sri Kantimateem: Kriti](https://open.spotify.com/track/4hg9XXjCehm0dJTXQkAfWj) | [N\. Ravikiran](https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5), [Mysore Manjunath](https://open.spotify.com/artist/4CXYQGrrXt84gdDVwIws5r), [Guruvayoor Dorai](https://open.spotify.com/artist/74SVzoYD2IZJqVTIifcNYS) | [Music from Madras](https://open.spotify.com/album/09RfLY6H8ZjWl9woRQYY7f) | 14:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 74 | [Vathapi Ganapathim Bhajeham](https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Mood Music \- Cool Carnatic Instrumentals](https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD) | 6:49 |
 | 75 | [Pibare Rama Rasam](https://open.spotify.com/track/2qQY4aob8d9hyS7AZSUEEb) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Amazing Veena](https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d) | 5:14 |
 
-Snapshot ID: `MCxiZmRiZmE3NWFmMzYwZGZiN2M4NTZjZmYyZTdjYWQxNGNhMDUyZWMz`
+Snapshot ID: `MCwxMmQ4MjgwN2ZmNmE4YWM0ZDNkMzUwZTA0Yjg1MzFiNzYwNGQ5MzBi`

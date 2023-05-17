@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Becky G & Omega",
-  "num_followers": 592371,
+  "num_followers": 592423,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZThhMjcyNzhjODMwNzFlOGRmOTIxYjhiNDJkMWJkZjk2MDRkN2Yz",
+  "snapshot_id": "MCw2OTQzMmFlNDY4ZDcwNDQ0YWMzZDIwMDRjNGEwYWY3NGQxZTk3Mzk3",
   "tracks": [
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1787,26 +1787,18 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "De Camino A Palomino, Vol. 1",
-        "url": "https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M"
+        "name": "Si Fuera M\u00eda",
+        "url": "https://open.spotify.com/album/0koGvL6hKTCzvgR8IevXLf"
       },
       "artists": [
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        },
-        {
-          "name": "Alejandro Armes",
-          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
         }
       ],
-      "duration_ms": 210446,
-      "name": "Se Le Nota",
-      "url": "https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt"
+      "duration_ms": 203135,
+      "name": "Si Fuera M\u00eda",
+      "url": "https://open.spotify.com/track/7HB7UXn3aQxrQhkb1YS50E"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1827,18 +1819,26 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Si Fuera M\u00eda",
-        "url": "https://open.spotify.com/album/0koGvL6hKTCzvgR8IevXLf"
+        "name": "De Camino A Palomino, Vol. 1",
+        "url": "https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M"
       },
       "artists": [
         {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        },
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
         }
       ],
-      "duration_ms": 203135,
-      "name": "Si Fuera M\u00eda",
-      "url": "https://open.spotify.com/track/7HB7UXn3aQxrQhkb1YS50E"
+      "duration_ms": 210446,
+      "name": "Se Le Nota",
+      "url": "https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt"
     },
     {
       "added_at": "2023-04-13 22:50:37",

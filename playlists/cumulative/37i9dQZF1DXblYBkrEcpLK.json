@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 227653,
       "name": "Akuma no Ko - From CrosSing",
       "url": "https://open.spotify.com/track/33tpXVBlNuxtqNoWkm8s5W"
@@ -272,6 +272,24 @@
       "duration_ms": 226520,
       "name": "Alright!\u30cf\u30fc\u30c8\u30ad\u30e3\u30c3\u30c1\u30d7\u30ea\u30ad\u30e5\u30a2!",
       "url": "https://open.spotify.com/track/2NkWq6s0GZhi1lnOzNwGyy"
+    },
+    {
+      "album": {
+        "name": "Alter Echo",
+        "url": "https://open.spotify.com/album/1u2So6XMuU1DAKnNZvevQF"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211890,
+      "name": "Alter Echo",
+      "url": "https://open.spotify.com/track/7iibMoDEQN4S3xaGz5vm4S"
     },
     {
       "album": {
@@ -660,6 +678,24 @@
       "duration_ms": 234653,
       "name": "Blue Velvet - From CrosSing",
       "url": "https://open.spotify.com/track/1stcaK4Jiau9TzqkxujW8C"
+    },
+    {
+      "album": {
+        "name": "BONE ASH",
+        "url": "https://open.spotify.com/album/5aVg9yjHnJ6nRPgd54b0wu"
+      },
+      "artists": [
+        {
+          "name": "\u6960\u6728 \u3068\u3082\u308a",
+          "url": "https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160746,
+      "name": "BONE ASH",
+      "url": "https://open.spotify.com/track/6ITk0EQ1eiQBQCte3TKzaB"
     },
     {
       "album": {
@@ -2008,7 +2044,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 227683,
       "name": "MAGICAL DESTROYER",
       "url": "https://open.spotify.com/track/09hJ0h06g0xbqQddx21ssG"
@@ -3028,7 +3064,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 181594,
       "name": "Shogeki",
       "url": "https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO"
@@ -3262,7 +3298,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 209744,
       "name": "STONE OCEAN",
       "url": "https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE"
@@ -5254,7 +5290,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 227013,
       "name": "\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb",
       "url": "https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP"
@@ -6517,6 +6553,28 @@
     },
     {
       "album": {
+        "name": "\u5922\u3092\u4fe1\u3058\u3066 / with \u5869\u8c37\u54f2",
+        "url": "https://open.spotify.com/album/3VpNvVmCSeMiR0CBNsO349"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Moriguchi",
+          "url": "https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV"
+        },
+        {
+          "name": "\u5869\u8c37\u54f2",
+          "url": "https://open.spotify.com/artist/1Q2teQhFRl3cL5a590DvKB"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257803,
+      "name": "\u5922\u3092\u4fe1\u3058\u3066 / with \u5869\u8c37\u54f2",
+      "url": "https://open.spotify.com/track/4OH6Ykq4Lp2Bvpa4BVW1V7"
+    },
+    {
+      "album": {
         "name": "\u5947\u7e01\u30ed\u30de\u30f3\u30b9",
         "url": "https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT"
       },
@@ -6976,6 +7034,24 @@
       "duration_ms": 238411,
       "name": "\u6b4c\u3088",
       "url": "https://open.spotify.com/track/5dy1QO156l2ct1MVPzc8px"
+    },
+    {
+      "album": {
+        "name": "\u6b8b\u6ed3",
+        "url": "https://open.spotify.com/album/7wdfXXSgquP0VH4olkDYiq"
+      },
+      "artists": [
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138386,
+      "name": "\u6b8b\u6ed3",
+      "url": "https://open.spotify.com/track/11DCW3yqdWBZYWoWR452iU"
     },
     {
       "album": {
@@ -7668,6 +7744,24 @@
       "duration_ms": 227533,
       "name": "\u9280\u6cb3\u9244\u9053999",
       "url": "https://open.spotify.com/track/3qmvc2hqftGyTUL7dt67Ia"
+    },
+    {
+      "album": {
+        "name": "\u9583\u5149 - from CrosSing",
+        "url": "https://open.spotify.com/album/5m4kVfU62qsNN3tiGyGIAT"
+      },
+      "artists": [
+        {
+          "name": "\u76f8\u7fbd\u3042\u3044\u306a",
+          "url": "https://open.spotify.com/artist/1O4MFhLFDziEtfA6S6MhWu"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263613,
+      "name": "\u9583\u5149 - from CrosSing",
+      "url": "https://open.spotify.com/track/728QeC4NdjDKTThzVxxEHu"
     },
     {
       "album": {

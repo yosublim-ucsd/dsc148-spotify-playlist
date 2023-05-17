@@ -472,7 +472,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 171382,
       "name": "Al Aram\u0131zdan",
       "url": "https://open.spotify.com/track/6Uaw8GEKP6AxIMNUyi6q6w"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 204320,
       "name": "Bir Derdim Var",
       "url": "https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f"
@@ -3174,10 +3174,32 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 208037,
       "name": "Diken Mi G\u00fcl M\u00fc?",
       "url": "https://open.spotify.com/track/0QQ1BLUudNdqOHg3FpFnYH"
+    },
+    {
+      "album": {
+        "name": "Yeni A\u015fk\u0131m",
+        "url": "https://open.spotify.com/album/7soBdXkrnCgcTBQV7tCoJT"
+      },
+      "artists": [
+        {
+          "name": "Sibel Can",
+          "url": "https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG"
+        },
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208037,
+      "name": "Diken Mi G\u00fcl M\u00fc?",
+      "url": "https://open.spotify.com/track/4IjSOaCoGkP9Lqd5U8YeP0"
     },
     {
       "album": {
@@ -3272,7 +3294,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 142853,
       "name": "Di\u011fer Yar\u0131m",
       "url": "https://open.spotify.com/track/38QSynLcDBfbETORhSsssH"
@@ -4660,7 +4682,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 194907,
       "name": "Ge\u00e7\u00e7ek",
       "url": "https://open.spotify.com/track/7qT1uoiwvXEHSjaiHbw0n1"
@@ -5284,7 +5306,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 250826,
       "name": "G\u00fczel G\u00fcnler G\u00f6rece\u011fiz",
       "url": "https://open.spotify.com/track/3hquu1aE9pUSva5ktRzvGh"
@@ -7314,7 +7336,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 235773,
       "name": "K\u0131l\u0131\u00e7daro\u011flu",
       "url": "https://open.spotify.com/track/7Fcd576Wwi9R70D1xtHtm9"
@@ -10298,7 +10320,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 209606,
       "name": "sana s\u00f6z yine baharlar gelecek",
       "url": "https://open.spotify.com/track/0gEo5eyqUlq7XkgPMTtUy1"
@@ -10428,7 +10450,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 188500,
       "name": "Seni Dert Etmeler",
       "url": "https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew"
@@ -11506,7 +11528,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 319895,
       "name": "Tuana",
       "url": "https://open.spotify.com/track/3Kut1u60mgcH59QWty8uUz"
@@ -11818,7 +11840,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 147760,
       "name": "Veda Saati",
       "url": "https://open.spotify.com/track/0NJJ31ggDI7aODrLYZQkgV"

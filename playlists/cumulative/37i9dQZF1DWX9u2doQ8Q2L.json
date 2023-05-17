@@ -697,6 +697,28 @@
     },
     {
       "album": {
+        "name": "April is a lie",
+        "url": "https://open.spotify.com/album/7qzfjQmPpba2duIBdYu9u0"
+      },
+      "artists": [
+        {
+          "name": "sunny after rain",
+          "url": "https://open.spotify.com/artist/0h1BKDiSM47e0dNBoExa5N"
+        },
+        {
+          "name": "\u3055\u3089\u3055",
+          "url": "https://open.spotify.com/artist/70Zjrk75IWb125KyOdgMYk"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219786,
+      "name": "April is a lie (feat. salasa)",
+      "url": "https://open.spotify.com/track/0jxdad1Loq437CrfU4jX59"
+    },
+    {
+      "album": {
         "name": "As you are",
         "url": "https://open.spotify.com/album/3PhgUhmbejD4Oo4BKQhlQS"
       },
@@ -1544,7 +1566,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 282367,
       "name": "Chandler Bing",
       "url": "https://open.spotify.com/track/7an3pCqQnVo09Qa59I3Ek0"
@@ -1750,7 +1772,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 206986,
       "name": "Clockwise",
       "url": "https://open.spotify.com/track/4d5utY9ixyUP7FIkwtJHzp"
@@ -3782,7 +3804,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 206017,
       "name": "Hearth",
       "url": "https://open.spotify.com/track/4g1AhmH1DOkwH4VXzGqBWz"
@@ -6382,7 +6404,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 198240,
       "name": "MORNINGRISE",
       "url": "https://open.spotify.com/track/3ZmuvMWz1of98dbuKkjSR0"
@@ -6548,7 +6570,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 170865,
       "name": "N",
       "url": "https://open.spotify.com/track/3YoXxt7W9LTefFCUx8wSbS"
@@ -7784,6 +7806,24 @@
       "duration_ms": 219033,
       "name": "Ravel",
       "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
+    },
+    {
+      "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/3tw07g9VNO31bUpJYSnDEs"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225675,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5Ta9ADLn4djFHmRHu3dC5J"
     },
     {
       "album": {
@@ -9220,7 +9260,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 213000,
       "name": "Stuck Wit U",
       "url": "https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA"
@@ -9404,7 +9444,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 254666,
       "name": "Summer Ghost feat. KIRINJI",
       "url": "https://open.spotify.com/track/0BlR8rZiO5pk4VjMT0Vkqo"
@@ -10085,6 +10125,24 @@
     },
     {
       "album": {
+        "name": "Time is Over",
+        "url": "https://open.spotify.com/album/71M79kQeKxgOCS7zNLOsR7"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204480,
+      "name": "Time is Over",
+      "url": "https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa"
+    },
+    {
+      "album": {
         "name": "Time Machine/Kazokuno Fukei",
         "url": "https://open.spotify.com/album/5fB1LmRdJBtp4qZ6990791"
       },
@@ -10216,6 +10274,32 @@
       "duration_ms": 201295,
       "name": "TOKYO 4AM",
       "url": "https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N"
+    },
+    {
+      "album": {
+        "name": "Tokyo Blues",
+        "url": "https://open.spotify.com/album/5RbKBh1Bd0po31NejPAHOt"
+      },
+      "artists": [
+        {
+          "name": "Mari Ishida",
+          "url": "https://open.spotify.com/artist/0vmUuEoojuTW5dGBi8zCJf"
+        },
+        {
+          "name": "Masaya Wada",
+          "url": "https://open.spotify.com/artist/3fHO9CmcvdkDk6KwIaBMlV"
+        },
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186370,
+      "name": "Tokyo Blues",
+      "url": "https://open.spotify.com/track/71jJYGlqd7el8nRIX4M786"
     },
     {
       "album": {
@@ -11385,6 +11469,24 @@
     },
     {
       "album": {
+        "name": "yonaki",
+        "url": "https://open.spotify.com/album/4FNlB69LR1b8kvfRiC1EwR"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230144,
+      "name": "yonaki",
+      "url": "https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ"
+    },
+    {
+      "album": {
         "name": "You Are Nobody (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw"
       },
@@ -11661,6 +11763,32 @@
     },
     {
       "album": {
+        "name": "\u3042\u306e\u3046\u305f\u304c\u304d\u3053\u3048\u308b [feat.Ema & \u5409\u7530\u6c99\u826f(\u30e2\u30ce\u30f3\u30af\u30eb)]",
+        "url": "https://open.spotify.com/album/4QgTPyeJtiMl74cmQdu4LM"
+      },
+      "artists": [
+        {
+          "name": "\u8c61\u7720\u820e",
+          "url": "https://open.spotify.com/artist/7KSV9OZfpTakHP1o9uPFG6"
+        },
+        {
+          "name": "Ema",
+          "url": "https://open.spotify.com/artist/75cOYlSMrc2yl7Qo6ijHN1"
+        },
+        {
+          "name": "\u5409\u7530\u6c99\u826f(\u30e2\u30ce\u30f3\u30af\u30eb)",
+          "url": "https://open.spotify.com/artist/5zPTykeJKoiGZhhWJgLfKj"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408965,
+      "name": "\u3042\u306e\u3046\u305f\u304c\u304d\u3053\u3048\u308b - feat.Ema & \u5409\u7530\u6c99\u826f(\u30e2\u30ce\u30f3\u30af\u30eb)",
+      "url": "https://open.spotify.com/track/4XAKBxbKGViYZUrH7g59B6"
+    },
+    {
+      "album": {
         "name": "\u3044\u3051\u3057\u3083\u3042\u3057\u3083\u3042",
         "url": "https://open.spotify.com/album/54PsZSN7E8UYIWMqOLo4Wp"
       },
@@ -11876,6 +12004,24 @@
       "duration_ms": 211746,
       "name": "\u305f\u3076\u3093Maybe\u660e\u6cbb feat. \u3042\u3001\u305f\u304e\u308c\u3093\u305f\u308d\u3046",
       "url": "https://open.spotify.com/track/4XdSe3t6dLv4wm38EzztCc"
+    },
+    {
+      "album": {
+        "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fb",
+        "url": "https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2"
+      },
+      "artists": [
+        {
+          "name": "Udagawa Bekkan Band",
+          "url": "https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310264,
+      "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fb",
+      "url": "https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey"
     },
     {
       "album": {
@@ -12640,7 +12786,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 158500,
       "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
       "url": "https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0"
@@ -13998,6 +14144,24 @@
       "duration_ms": 299803,
       "name": "\u706b\u3092\u3064\u3051\u3066 feat. \u677e\u5c3e\u30ec\u30df (GLIM SPANKY)",
       "url": "https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j"
+    },
+    {
+      "album": {
+        "name": "\u706b\u82b1",
+        "url": "https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263331,
+      "name": "\u706b\u82b1",
+      "url": "https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3"
     },
     {
       "album": {

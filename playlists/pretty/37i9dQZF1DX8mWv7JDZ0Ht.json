@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Nando Reis, Anavit\u00f3ria",
-  "num_followers": 423370,
+  "num_followers": 423532,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmQxNTI4YTM0NGM3OTlmMWNkNzY1ZGE4YjNkZGI1MDY0MmUzMDhm",
+  "snapshot_id": "MCxlZDA2ODgwNmM1NjYzODY0MjEyMzZlOTkzYjU1OWZiMDY0ZTIzYTU3",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -655,38 +655,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Amor Compartilhado",
-        "url": "https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 146231,
-      "name": "Amor Compartilhado",
-      "url": "https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "te decorei em mim",
-        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 177078,
-      "name": "te decorei em mim",
-      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Del\u00edrio",
         "url": "https://open.spotify.com/album/30YV6XbXKHwc4eloifG3FN"
       },
@@ -719,6 +687,38 @@
       "duration_ms": 161144,
       "name": "Resolvi Seguir",
       "url": "https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Amor Compartilhado",
+        "url": "https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 146231,
+      "name": "Amor Compartilhado",
+      "url": "https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "te decorei em mim",
+        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 177078,
+      "name": "te decorei em mim",
+      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
+        "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "duration_ms": 133806,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Amor Fati",
         "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 151022,
       "name": "A Melhor Coisa do Mundo",
       "url": "https://open.spotify.com/track/7dg73Cj0F0MAioMwmoOmCN"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
-        "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        }
-      ],
-      "duration_ms": 133806,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -895,6 +895,26 @@
       "duration_ms": 182933,
       "name": "CULPADO",
       "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Terminei",
+        "url": "https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 167687,
+      "name": "Terminei",
+      "url": "https://open.spotify.com/track/6ddpGpxAawAtX4mV2X85ys"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -963,22 +983,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Passa",
-        "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
-      },
-      "artists": [
-        {
-          "name": "Martins",
-          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
-        }
-      ],
-      "duration_ms": 176804,
-      "name": "Passa",
-      "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Coisas De Voc\u00ea",
         "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
       },
@@ -995,22 +999,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Terminei",
-        "url": "https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g"
+        "name": "Passa",
+        "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+          "name": "Martins",
+          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
         }
       ],
-      "duration_ms": 167687,
-      "name": "Terminei",
-      "url": "https://open.spotify.com/track/6ddpGpxAawAtX4mV2X85ys"
+      "duration_ms": 176804,
+      "name": "Passa",
+      "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "\u00d3leo de Coco",
-        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
-      },
-      "artists": [
-        {
-          "name": "Guil\u00e9",
-          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "\u00d3leo de Coco",
-      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "isso \u00e9 t\u00e3o a gente :)",
         "url": "https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 190507,
       "name": "isso \u00e9 t\u00e3o a gente :)",
       "url": "https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "\u00d3leo de Coco",
+        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
+      },
+      "artists": [
+        {
+          "name": "Guil\u00e9",
+          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "\u00d3leo de Coco",
+      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Pois \u00c9",
-        "url": "https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948"
-      },
-      "artists": [
-        {
-          "name": "Iuri K",
-          "url": "https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W"
-        }
-      ],
-      "duration_ms": 162188,
-      "name": "Pois \u00c9",
-      "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
         "url": "https://open.spotify.com/album/3VabbpDgkyhiRMsSt4AiHq"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 273092,
       "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
       "url": "https://open.spotify.com/track/5yEbJk7T0xTF0b87WyA3DM"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Pois \u00c9",
+        "url": "https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948"
+      },
+      "artists": [
+        {
+          "name": "Iuri K",
+          "url": "https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W"
+        }
+      ],
+      "duration_ms": 162188,
+      "name": "Pois \u00c9",
+      "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Mais de Mim",
-        "url": "https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG"
+        "name": "NEM GOSTO TANTO ASSIM DE VOC\u00ca",
+        "url": "https://open.spotify.com/album/0CftRPVAJRuz5SQhliCvBd"
       },
       "artists": [
         {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+          "name": "Gabriel Froede",
+          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
         }
       ],
-      "duration_ms": 154611,
-      "name": "Mais de Mim",
-      "url": "https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y"
+      "duration_ms": 187838,
+      "name": "NEM GOSTO TANTO ASSIM DE VOC\u00ca",
+      "url": "https://open.spotify.com/track/7yYgj6JpLLCRhGzwSTpC00"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1307,18 +1303,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "NEM GOSTO TANTO ASSIM DE VOC\u00ca",
-        "url": "https://open.spotify.com/album/0CftRPVAJRuz5SQhliCvBd"
+        "name": "Mais de Mim",
+        "url": "https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG"
       },
       "artists": [
         {
-          "name": "Gabriel Froede",
-          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         }
       ],
-      "duration_ms": 187838,
-      "name": "NEM GOSTO TANTO ASSIM DE VOC\u00ca",
-      "url": "https://open.spotify.com/track/7yYgj6JpLLCRhGzwSTpC00"
+      "duration_ms": 154611,
+      "name": "Mais de Mim",
+      "url": "https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y"
     },
     {
       "added_at": "2023-05-12 03:00:00",

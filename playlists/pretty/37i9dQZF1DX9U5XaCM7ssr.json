@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1007318,
+  "num_followers": 1008177,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGE2OGYzNmRkNTMzODg2NjdiYzE3NmY4NDdmZDI1YjA4NjdiNmRi",
+  "snapshot_id": "MCxlY2ExZGIzYmQ2MDc1N2NkMTFmZjZmNmRiZjI0OWMyNTk2OTFlZTYx",
   "tracks": [
     {
       "added_at": "2023-05-05 03:20:35",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-05-05 03:20:35",
       "album": {
-        "name": "ASHER",
-        "url": "https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE"
-      },
-      "artists": [
-        {
-          "name": "Fabio Asher",
-          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
-        }
-      ],
-      "duration_ms": 240759,
-      "name": "Bertahan Terluka",
-      "url": "https://open.spotify.com/track/62sancAaHEMwPxBuatzaay"
-    },
-    {
-      "added_at": "2023-05-05 03:20:35",
-      "album": {
         "name": "Menari Dengan Bayangan",
         "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 277457,
       "name": "Rumah Ke Rumah",
       "url": "https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF"
+    },
+    {
+      "added_at": "2023-05-05 03:20:35",
+      "album": {
+        "name": "ASHER",
+        "url": "https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "duration_ms": 240759,
+      "name": "Bertahan Terluka",
+      "url": "https://open.spotify.com/track/62sancAaHEMwPxBuatzaay"
     },
     {
       "added_at": "2023-05-05 03:20:35",

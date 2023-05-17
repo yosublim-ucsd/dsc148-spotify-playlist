@@ -2323,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "PYGMALION",
+        "url": "https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "ERASE ME",
+      "url": "https://open.spotify.com/track/1K2cYJekjVTqjSPJdLhGQB"
+    },
+    {
+      "album": {
         "name": "History Of Kingdom : Part\u2160. Arthur",
         "url": "https://open.spotify.com/album/1Vf3hY3aLfTVhPLiXU8HR7"
       },
@@ -3848,7 +3866,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 198440,
       "name": "Journey",
       "url": "https://open.spotify.com/track/6dxgKYAH0TvoSb16xD30rD"
@@ -4082,7 +4100,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 207481,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
@@ -7012,6 +7030,24 @@
       "duration_ms": 211933,
       "name": "The One",
       "url": "https://open.spotify.com/track/1Kb2RNTXZ3PaL2xMDuJgQ6"
+    },
+    {
+      "album": {
+        "name": "The Planet",
+        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "The Planet",
+      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
     },
     {
       "album": {

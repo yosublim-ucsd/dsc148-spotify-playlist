@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 182013,
       "name": "Nobose",
       "url": "https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d"
@@ -2035,6 +2035,32 @@
     },
     {
       "album": {
+        "name": "\u3042\u306e\u3046\u305f\u304c\u304d\u3053\u3048\u308b [feat.Ema & \u5409\u7530\u6c99\u826f(\u30e2\u30ce\u30f3\u30af\u30eb)]",
+        "url": "https://open.spotify.com/album/4QgTPyeJtiMl74cmQdu4LM"
+      },
+      "artists": [
+        {
+          "name": "\u8c61\u7720\u820e",
+          "url": "https://open.spotify.com/artist/7KSV9OZfpTakHP1o9uPFG6"
+        },
+        {
+          "name": "Ema",
+          "url": "https://open.spotify.com/artist/75cOYlSMrc2yl7Qo6ijHN1"
+        },
+        {
+          "name": "\u5409\u7530\u6c99\u826f(\u30e2\u30ce\u30f3\u30af\u30eb)",
+          "url": "https://open.spotify.com/artist/5zPTykeJKoiGZhhWJgLfKj"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408965,
+      "name": "\u3042\u306e\u3046\u305f\u304c\u304d\u3053\u3048\u308b - feat.Ema & \u5409\u7530\u6c99\u826f(\u30e2\u30ce\u30f3\u30af\u30eb)",
+      "url": "https://open.spotify.com/track/4XAKBxbKGViYZUrH7g59B6"
+    },
+    {
+      "album": {
         "name": "\u3044\u306e\u308a",
         "url": "https://open.spotify.com/album/1o5xWVczspUHRS1F8bE6dm"
       },
@@ -2776,7 +2802,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 229333,
       "name": "\u5fc3\u76ee\u5f53\u3066\u306e\u30aa\u30ec\u30f3\u30b8",
       "url": "https://open.spotify.com/track/6OIR1s8d49Wmx1ErT28nUj"
@@ -3116,6 +3142,24 @@
       "duration_ms": 412813,
       "name": "\u88c5\u7f6e",
       "url": "https://open.spotify.com/track/3qcFmvkjpqZnB4feONa3Wy"
+    },
+    {
+      "album": {
+        "name": "AIRPORT",
+        "url": "https://open.spotify.com/album/025EE81TmzGA11OpBbKuoI"
+      },
+      "artists": [
+        {
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281800,
+      "name": "\u8a71\u305d\u3046\u3088",
+      "url": "https://open.spotify.com/track/5krzanEBYGoaU8uB7BhRmU"
     },
     {
       "album": {

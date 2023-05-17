@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 183398,
       "name": "Small Town Friday Nights",
       "url": "https://open.spotify.com/track/4NkGmYoyhZ8qsJILRd5QSV"
@@ -1916,6 +1916,24 @@
       "duration_ms": 240760,
       "name": "When It Rains It Pours",
       "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
+    },
+    {
+      "album": {
+        "name": "When Summer Rolls Around",
+        "url": "https://open.spotify.com/album/5NMwJDRtnNbT8xmnBuEHry"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174581,
+      "name": "When Summer Rolls Around",
+      "url": "https://open.spotify.com/track/1GMB1aiS4IT58g9LaUehcN"
     },
     {
       "album": {

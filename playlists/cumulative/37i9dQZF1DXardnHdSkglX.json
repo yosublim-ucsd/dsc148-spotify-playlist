@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/6rvpybNWiLEhQOadkUPDZj"
+      },
+      "artists": [
+        {
+          "name": "Regina Costa",
+          "url": "https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/7aQl0tl7Dcf6doXtTgixwh"
+    },
+    {
+      "album": {
         "name": "Garota de Ipanema",
         "url": "https://open.spotify.com/album/6RHgOku5pTAN57FGc7prY5"
       },
@@ -1306,6 +1324,24 @@
       "duration_ms": 197887,
       "name": "Gods Plan - Bossa Nova remix",
       "url": "https://open.spotify.com/track/0ZFBzRwxmeqnh3IdaZS6rn"
+    },
+    {
+      "album": {
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/6clGJ2qeydc7HuUlVPU6b7"
+      },
+      "artists": [
+        {
+          "name": "Lo Cabana",
+          "url": "https://open.spotify.com/artist/3zyCvzirdRdVPVUeawuuwC"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130551,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/7M1wP7mlIZwtKTEwBunSjw"
     },
     {
       "album": {
@@ -1538,7 +1574,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 211528,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/7qX5vagnYtG4xLQ5bRDD5C"
@@ -2470,7 +2506,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 139951,
       "name": "One",
       "url": "https://open.spotify.com/track/79At9iH7O9YSjhQk1wF9L8"
@@ -3600,6 +3636,24 @@
       "duration_ms": 141374,
       "name": "The Look of Love",
       "url": "https://open.spotify.com/track/4QFWdoVXNASnP4bVOA3K5j"
+    },
+    {
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/4uG552NeMwBnvwyDqqR7ix"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Silva",
+          "url": "https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228981,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/5Rzymd9Rm6MnQOxqlnaOcK"
     },
     {
       "album": {

@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6030\)
+## Playlists \(6031\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -826,6 +826,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Boogie Rock](/playlists/pretty/37i9dQZF1DX7KwBiutIRku.md)
 - [Boogie\-woogie Blues](/playlists/pretty/37i9dQZF1DWULaRXVqGMUt.md)
 - [Book Club](/playlists/pretty/37i9dQZF1DWYWyJFR69WAN.md)
+- [Boom Bap Focus](/playlists/pretty/37i9dQZF1DX45qfzFXwcta.md)
 - [Boom Rap](/playlists/pretty/37i9dQZF1DX3zN05ePDN6Q.md)
 - [Boots Off](/playlists/pretty/37i9dQZF1DX9kThPpg1lIF.md)
 - [Boris Brejcha's track IDs](/playlists/pretty/37i9dQZF1DWXjs5HmaJqaY.md)
@@ -1949,7 +1950,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Gold Instrumental Beats](/playlists/pretty/37i9dQZF1DX0dU0Z2LOkZN.md)
 - [Gold School](/playlists/pretty/37i9dQZF1DWVA1Gq4XHa6U.md)
 - [Gold Skool K\-Hip Hop](/playlists/pretty/37i9dQZF1DX17faKmFJMpl.md)
-- [Golden Era Focus](/playlists/pretty/37i9dQZF1DX45qfzFXwcta.md)
 - [Golden Ghazals](/playlists/pretty/37i9dQZF1DXdsiL9gD4vAA.md)
 - [Golden Globes](/playlists/pretty/37i9dQZF1DX6AKLu0DKWt5.md)
 - [Golden Instrumentals](/playlists/pretty/37i9dQZF1DXdlhitnpe6FT.md)
@@ -6014,6 +6014,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [まどろみの中で](/playlists/pretty/37i9dQZF1DX9rVeQ0kNLOd.md)
 - [アイドリッシュセブン \-IDOLiSH7\-](/playlists/pretty/37i9dQZF1DXd7fmFWnsK8n.md)
 - [キラキラポップ：ジャパン](/playlists/pretty/37i9dQZF1DWVlypmfyCIGr.md)
+- [グリッドマン ユニバース GRIDMAN UNIVERSE](/playlists/pretty/37i9dQZF1DX3MSnVLI9GuJ.md)
 - [ジョジョの奇妙な冒険 \-JOJO's Bizarre Adventure\-シリーズ](/playlists/pretty/37i9dQZF1DX7gGgYckDfuN.md)
 - [ディズニー・ヒッツ・ジャパン](/playlists/pretty/37i9dQZF1DX1lolQkPIs5s.md)
 - [ディズニー・リラクシング・オルゴール](/playlists/pretty/37i9dQZF1DWUcClkEWm327.md)

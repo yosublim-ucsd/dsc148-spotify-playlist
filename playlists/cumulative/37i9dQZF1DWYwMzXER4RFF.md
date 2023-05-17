@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-327 songs - 20 hr 32 min
+328 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,13 +163,14 @@
 | [John L](https://open.spotify.com/track/2qm9mgnZbLX1l7mbxmgzLt) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [John L / Despair](https://open.spotify.com/album/1ag2RQZa8qNklAMCqS1ugx) | 5:13 | 2021-12-06 | 2022-07-29 |
 | [Jumbo’s](https://open.spotify.com/track/6geZTtlllUBUei0ypRehDt) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Jumbo’s](https://open.spotify.com/album/4tZCImPr1sgG7aHsrFTlCF) | 4:28 | 2021-12-06 | 2022-07-25 |
 | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8) | 3:26 | 2022-02-11 | 2022-07-29 |
+| [Kakistocracy](https://open.spotify.com/track/58GZTiV4Ek3ZV8DygP5u6R) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Knocknarea](https://open.spotify.com/album/1hb0fuPRhbd1uStttAaalz) | 6:42 | 2023-05-17 |  |
 | [Kebab Spider](https://open.spotify.com/track/14jchGOlTJQ91SNYVCSTLr) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Eton Alive](https://open.spotify.com/album/3QiU8JCc97mcqfJ3caEMzs) | 3:40 | 2021-12-06 | 2022-11-13 |
 | [Kid Stuff \- Edit](https://open.spotify.com/track/7wOwbJ3x7nMzj7JthrVGuN) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Kid Stuff](https://open.spotify.com/album/3BLXawJu9gNVyMZrUskHt7) | 3:12 | 2021-12-06 | 2022-06-27 |
 | [Knife on the Platter](https://open.spotify.com/track/3ue21ZrK1pzDJXi0cicq7T) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Knife on the Platter](https://open.spotify.com/album/6ZS8LemGUtzs98174V98Ui) | 2:24 | 2021-12-06 | 2022-07-21 |
 | [Konichiwa Internet](https://open.spotify.com/track/1ECfCMGO2AO8kfWvm9OfrY) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Collector](https://open.spotify.com/album/1sIOFZNoxnybef3xu0n00M) | 3:11 | 2021-12-06 | 2022-07-25 |
 | [Kwenchy Kups](https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 2:45 | 2023-02-03 |  |
 | [Last Breath](https://open.spotify.com/track/1ZMsAnynOVdPV4JXIDhfYu) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Last Breath](https://open.spotify.com/album/2O5SlD3mS0wiUtMkHdWd5B) | 2:59 | 2021-12-06 | 2022-07-29 |
-| [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-08-25 |  |
+| [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-08-25 | 2023-05-17 |
 | [Lentil Soup](https://open.spotify.com/track/5GEfgaRwaecTBa8UF8UTgz) | [Qlowski](https://open.spotify.com/artist/1IhMuqG9tnQDPmiOkdOaQ4) | [Quale Futuro?](https://open.spotify.com/album/0mXRNzNk4uopEWssIXOEAZ) | 3:37 | 2021-12-06 | 2022-07-27 |
 | [Letter](https://open.spotify.com/track/0FOtDyR1nTN9vMQs0jVGeU) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Letter](https://open.spotify.com/album/35fiLveqLZEkUeKbbtqdge) | 3:17 | 2021-12-06 | 2022-07-23 |
 | [Life Goes On](https://open.spotify.com/track/19PvZLD2TpIzc7JqcTRxa0) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [Life Goes On](https://open.spotify.com/album/0FIpV1nfMhHcdnYcxcgXlx) | 3:34 | 2021-12-06 | 2022-07-28 |

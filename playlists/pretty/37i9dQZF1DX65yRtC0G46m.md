@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65yRtC0G46m.md) - [plain]
 
 > Most streamed songs of EQUAL 2021\. Women at full volume\. <br/>Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,674 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,687 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65yRtC0G46m.md) - [plain]
 | 33 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 |
 | 34 | [nhìn em mà xem \(look at me now\)](https://open.spotify.com/track/7MnOJ97nPEVj0Kh7erbBq2) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [yesteryear \(deluxe\)](https://open.spotify.com/album/778zP3NrrvopOVG4X9IbRB) | 3:07 |
 | 35 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
-| 36 | [No Sé](https://open.spotify.com/track/0airpS5wunq0fn8ZXuEEqK) | [Amy Gutiérrez](https://open.spotify.com/artist/3Q3t6O1C5kbxdWLykppaJ2) | [No Sé](https://open.spotify.com/album/7FIB9L7nOwjaZI6iAvKrs5) | 4:06 |
+| 36 | [No Sé](https://open.spotify.com/track/0airpS5wunq0fn8ZXuEEqK) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [No Sé](https://open.spotify.com/album/7FIB9L7nOwjaZI6iAvKrs5) | 4:06 |
 | 37 | [I Don't Do Drugs \(feat\. Ariana Grande\)](https://open.spotify.com/track/0FFsgUoFibYISzMxuGS61W) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:08 |
 | 38 | [出走](https://open.spotify.com/track/2TA4q4ZaXzypeVvOKz1pfq) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:16 |
 | 39 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65yRtC0G46m.md) - [plain]
 | 49 | [Superpoderes](https://open.spotify.com/track/59cxZZ58HhZBVmquTs7hKG) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r) | [3:33](https://open.spotify.com/album/2uQbBt3Ot0Qpj6grNS11bK) | 3:13 |
 | 50 | [Blue](https://open.spotify.com/track/575RXlX820MnZrtjtiVaLp) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Moment in Time](https://open.spotify.com/album/6hMQzdzojlJyPYUeLI8Wyj) | 3:06 |
 
-Snapshot ID: `MCxkMmZlYTA1MWJjODFlYTYwZGU4OGIyNTg5ZTY1M2I3ZjdjNzNhNzYy`
+Snapshot ID: `MCxkOTBlYWE1NmI0YjFkOGFiMzM4ZWRiMGViYmJhNzQ1ZjNkMTdiYjE3`

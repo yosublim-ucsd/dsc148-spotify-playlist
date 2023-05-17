@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,640 likes - 104 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,649 likes - 104 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 39 | [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/33Ush8XeSGoH1qivkTF8ED) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship](https://open.spotify.com/album/6DbXxaqDbuh6WXTWnPQh47) | 2:58 |
 | 40 | [New Generation](https://open.spotify.com/track/2yFze3Tul0hCB0eBOkz324) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Jeng Belen](https://open.spotify.com/artist/0l1E52m5uF5Ah2wQr8HAlw) | [New Generation](https://open.spotify.com/album/7ehgv9ZB0HgxtcxBmCeQsG) | 3:29 |
 | 41 | [Ako Ay Iyo](https://open.spotify.com/track/6zWix26MsK7btzIAJtOsMW) | [Yeuseff](https://open.spotify.com/artist/3aQu9d2OvoHU04uehdimRn), [Deovincci Dasig](https://open.spotify.com/artist/19aD9C8Y8OYJO7NsRXictD) | [Ako Ay Iyo](https://open.spotify.com/album/0A7pZA6TRRvxO6tu2cwVPT) | 4:00 |
-| 42 | [Hallelujah Instead](https://open.spotify.com/track/2MjEaqylTvxnJpD4FpjiD6) | [Mary Ozaraga](https://open.spotify.com/artist/4GS8yp4W5CAsrm9nuGmOVB), [Ike Ozaraga](https://open.spotify.com/artist/6h4Pma9HCStherLHOMlNFO) | [Hallelujah Instead](https://open.spotify.com/album/7wPnD9GquCu0L6e8nMGqrt) | 4:39 |
+| 42 | [Hallelujah Instead](https://open.spotify.com/track/2MjEaqylTvxnJpD4FpjiD6) | [Mary Oz](https://open.spotify.com/artist/05w0yASPYbEZ05m1CWfF0p), [Ike Ozaraga](https://open.spotify.com/artist/6h4Pma9HCStherLHOMlNFO) | [Hallelujah Instead](https://open.spotify.com/album/7wPnD9GquCu0L6e8nMGqrt) | 4:39 |
 | 43 | [MAPAYAPA \- Feat\. Hazel Faith](https://open.spotify.com/track/1vTSTbQT9iJbggG47gEwwU) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk), [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [MAPAYAPA \(Feat\. Hazel Faith\)](https://open.spotify.com/album/2SOcTm4yqQLNPUQeTTa8sW) | 4:22 |
 | 44 | [Praise You In This Storm](https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:57 |
 | 45 | [Walang Makapaghihiwalay](https://open.spotify.com/track/0yIRxGBZHdjU6E11sZ6f05) | [Brokenchains](https://open.spotify.com/artist/5Vky9Lsd7Lp7hOm9fjc80c) | [Walang Makapaghihiwalay](https://open.spotify.com/album/7MzmxktNuM4dkx8H1TjmTP) | 4:36 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 103 | [Where Would I Be](https://open.spotify.com/track/6oAlchGEsM9sqbpEeVrIxA) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/3TsuS8ao3G2Q3HdNF16Iq5) | 4:04 |
 | 104 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 |
 
-Snapshot ID: `MCxhODc4Mjk2NGJiY2IyZmY1MzdkN2U1YTM5OGNkNzMyOWEzZjQ1NzYw`
+Snapshot ID: `MCxmYzBkNDBkMGMzMjVkNTI5MThlM2U4M2QyY2ZkZWRjODM1NTI1ZWRl`

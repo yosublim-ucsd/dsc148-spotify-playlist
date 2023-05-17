@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 26532,
+  "num_followers": 26556,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMThiYzFjZDIzYTIxN2UyMjA5ODgwNWJiMjY0MzUzZjc1NWNiZGY1",
+  "snapshot_id": "MCwxYTllYTUzOGNhMDM2OWNjOThiZTc0NTViNGUxMGY0MGE0NzRlN2Mz",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -191,6 +191,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Nubya's 5ive",
+        "url": "https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 458605,
+      "name": "Lost Kingdoms",
+      "url": "https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Nubya's 5ive",
-        "url": "https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 458605,
-      "name": "Lost Kingdoms",
-      "url": "https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Fate",
-        "url": "https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G"
-      },
-      "artists": [
-        {
-          "name": "Mark Hawkins",
-          "url": "https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq"
-        }
-      ],
-      "duration_ms": 331409,
-      "name": "Fate",
-      "url": "https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
+        "name": "Fate",
+        "url": "https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G"
       },
       "artists": [
         {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+          "name": "Mark Hawkins",
+          "url": "https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq"
         }
       ],
-      "duration_ms": 513226,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
+      "duration_ms": 331409,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -847,6 +831,38 @@
       "duration_ms": 224500,
       "name": "A Place With A View - Edit",
       "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Midnight Voyage",
+        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
+      },
+      "artists": [
+        {
+          "name": "Tunnelvisions",
+          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "Nyiri",
+      "url": "https://open.spotify.com/track/6Yyyghn9wTZNL8RZ3Es0HF"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        }
+      ],
+      "duration_ms": 513226,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -919,26 +935,6 @@
       "duration_ms": 239373,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Follow You EP (feat. Floating Points)",
-        "url": "https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw"
-      },
-      "artists": [
-        {
-          "name": "Fatima",
-          "url": "https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 267520,
-      "name": "Mind",
-      "url": "https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk"
     }
   ],
   "unique_name": "lush",

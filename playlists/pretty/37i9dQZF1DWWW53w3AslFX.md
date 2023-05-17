@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,666 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,669 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 15 | [Leaning On Myself](https://open.spotify.com/track/2ioyiPzQfwsjfl2EOnvIbB) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 3:17 |
 | 16 | [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 |
 | 17 | [Till slutet av augusti](https://open.spotify.com/track/6SjgPcWa6UF2BzlVb26aRE) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Stark & Sårbar](https://open.spotify.com/album/3PovIEpFChoXvoR3AYFmkL) | 3:51 |
-| 18 | [Mustn't Hurry](https://open.spotify.com/track/26sRCxeINy71HF6Jxvwk9o) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge](https://open.spotify.com/album/3UHMhYzYnfTBEuDxb1JmxC) | 4:17 |
+| 18 | [Mustn't Hurry](https://open.spotify.com/track/3WqR3BQbLDWF8LFUQgJhBu) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge](https://open.spotify.com/album/1TDbVi49DAQfYl0QEmeKpQ) | 4:17 |
 | 19 | [Cry](https://open.spotify.com/track/5VqIdl5ibhCUmv2wRfNKhS) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [Cry](https://open.spotify.com/album/5wZFpbg0FfDVEU1t5uAgjD) | 4:31 |
 | 20 | [bodyache](https://open.spotify.com/track/4gWvy90PdAXgY39Z7S8zSe) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn) | 2:53 |
 | 21 | [SuMmEr BrEaK](https://open.spotify.com/track/0L7XJxP7SIb8h33bBd4lQh) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [\[DETENTION\]](https://open.spotify.com/album/7HZ3NzPqlKaY0BUgh2Frch) | 2:40 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 89 | [Du kan nu dö](https://open.spotify.com/track/4eP1Q5ushSiXAoUsffB2aj) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing From the Grave](https://open.spotify.com/album/4rn3FV2buJHdwnUSJlGefa) | 6:22 |
 | 90 | [play](https://open.spotify.com/track/3RHN3asE9XLDwRNGbFFqYM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 5:14 |
 
-Snapshot ID: `MCw5YTkxNjMzNjc3ZGRmNWFjNThiZjgxYTNjNjE2NWE1NGE5NTI4OTFk`
+Snapshot ID: `MCw5OTAzNWI2MTQ2YTM0NzRmYWFlYmVhMTZjMGMyZmQ3ZGY1ODRiMTFl`

@@ -9220,10 +9220,32 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 139756,
       "name": "Nawa Nawa Pyaar",
       "url": "https://open.spotify.com/track/50DyjmQxDUAygFT31rD1kT"
+    },
+    {
+      "album": {
+        "name": "Nawa Nawa Pyaar (From \"Yaar Mera Titliaan Warga\") - Single",
+        "url": "https://open.spotify.com/album/7vZ8AFILMwRsTFHB8SoxuS"
+      },
+      "artists": [
+        {
+          "name": "Gippy Grewal",
+          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
+        },
+        {
+          "name": "Tanu Grewal",
+          "url": "https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139756,
+      "name": "Nawa Nawa Pyaar",
+      "url": "https://open.spotify.com/track/6BJEyDIOQf7pi3jKIbC34p"
     },
     {
       "album": {

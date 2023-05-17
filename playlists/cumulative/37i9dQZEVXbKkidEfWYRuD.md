@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,082 songs - 2 day 2 hr 7 min
+1,083 songs - 2 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [ARISTOCRAT](https://open.spotify.com/track/0si4hbWQ2OwdxKLF6x5xEX) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:06 | 2021-05-29 | 2021-09-19 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-08-14 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-17 |
-| [ASPHALT 8](https://open.spotify.com/track/0ndWY0kASiq9s2Fx76W4Jq) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [ASPHALT 8](https://open.spotify.com/album/2zqtLUw2PYbyUOVnsXcyDk) | 2:15 | 2023-04-05 | 2023-04-22 |
+| [ASPHALT 8](https://open.spotify.com/track/0ndWY0kASiq9s2Fx76W4Jq) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [ASPHALT 8](https://open.spotify.com/album/2zqtLUw2PYbyUOVnsXcyDk) | 2:15 | 2023-04-05 |  |
 | [astral step](https://open.spotify.com/track/47iHvzU9Po0e6raFlgLBOF) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o) | [astral step](https://open.spotify.com/album/2Ctdcl5QkFWiHH1XdnQiA5) | 2:01 | 2021-10-31 | 2022-08-21 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-08-22 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
@@ -289,7 +289,7 @@
 | [Lu4she](https://open.spotify.com/track/5kN5giPfTSmMnajJ7Ytv4K) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:14 | 2022-11-19 | 2022-11-24 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-08 |
 | [Mama Makusa](https://open.spotify.com/track/6h2f5GrfpXo6eZCxUdzvF2) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:52 | 2021-10-23 | 2022-01-24 |
-| [Mama ŠČ!](https://open.spotify.com/track/7hcPebUUvJDRH6BhjZ5xEZ) | [Let 3](https://open.spotify.com/artist/4gs82a9ZgG2faut653OMRD) | [Mama ŠČ!](https://open.spotify.com/album/2Z7f4V8Z7CcPPtPKXW6wbc) | 2:34 | 2023-05-15 |  |
+| [Mama ŠČ!](https://open.spotify.com/track/7hcPebUUvJDRH6BhjZ5xEZ) | [Let 3](https://open.spotify.com/artist/4gs82a9ZgG2faut653OMRD) | [Mama ŠČ!](https://open.spotify.com/album/2Z7f4V8Z7CcPPtPKXW6wbc) | 2:34 | 2023-05-15 | 2023-05-17 |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-24 |
 | [mana break](https://open.spotify.com/track/3XOcTnIA8aGpil8h76eH7N) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [mana break](https://open.spotify.com/album/10Cgx3ZjrNZxeiMTE8LX1o) | 1:33 | 2022-10-15 | 2023-04-05 |
 | [Manhunt](https://open.spotify.com/track/7DQojpv1OKySvRHa4OpaVi) | [Boulevard Depo](https://open.spotify.com/artist/7dH8w9flSy9w81ilr0xXWe), [JEEMBO](https://open.spotify.com/artist/3IwaLzOzILWyMzjXFWiDbW) | [Manhunt](https://open.spotify.com/album/0MrqrwAs8ESY6E7Sz48ezs) | 2:10 | 2021-05-09 | 2021-05-17 |
@@ -335,7 +335,7 @@
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-04-26 |  |
 | [Murder Rate](https://open.spotify.com/track/5m8AUjnKQ3F6beIY23HOj5) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:56 | 2022-11-18 | 2022-12-03 |
 | [MUTANT](https://open.spotify.com/track/7oRfFPcG7xoBFjjo6tqyiW) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [MUTANT](https://open.spotify.com/album/3nFvG3Oi4OdDOTrUwKQbkV) | 2:52 | 2022-05-28 | 2022-05-30 |
-| [My Sister's Crown](https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6) | [My Sister's Crown](https://open.spotify.com/album/6nF3kWl5zcDPLqEgxLTRJp) | 2:56 | 2023-05-15 |  |
+| [My Sister's Crown](https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6) | [My Sister's Crown](https://open.spotify.com/album/6nF3kWl5zcDPLqEgxLTRJp) | 2:56 | 2023-05-15 | 2023-05-17 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-16 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-05-16 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-17 |
@@ -399,6 +399,7 @@
 | [PUSSY BOY](https://open.spotify.com/track/2CyGcy1HPxcFfmeUxKnAoe) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [PUSSY BOY](https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH) | 2:14 | 2021-07-18 | 2021-09-12 |
 | [Putin](https://open.spotify.com/track/3lCZxajTCSYR5OnHPEfa2v) | [Cypis](https://open.spotify.com/artist/20akE7sZUTpZSC78lPhqvt) | [Putin](https://open.spotify.com/album/7ir16GDY9uc0QwcJP3XttS) | 2:25 | 2022-03-02 | 2022-06-01 |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-05-15 |  |
+| [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-16 |  |
 | [quinque](https://open.spotify.com/track/6QRn5fvEBJ1SIcW0ee3fBI) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [quinque](https://open.spotify.com/album/53CyHLyv7xmdkbrJfPiBoR) | 2:30 | 2022-07-16 | 2022-07-21 |
 | [R2F](https://open.spotify.com/track/13LhzupnoFTNb9A5nMGr7u) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [Gra Gra / R2F](https://open.spotify.com/album/1yxIPuGgpyoLCb6CSkj5X2) | 1:57 | 2023-04-01 | 2023-04-03 |
 | [Rampampam](https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Rampampam](https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj) | 3:20 | 2021-06-20 | 2022-02-06 |

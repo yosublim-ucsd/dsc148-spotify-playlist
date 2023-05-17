@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,914 likes - 150 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,110 likes - 150 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 147 | [Third Eye Witness](https://open.spotify.com/track/4NaMg1sWs9aWGjAYbWLs0q) | [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S), [Gavin Conder](https://open.spotify.com/artist/6GWDbdcSJn1PByFJyxuSDb) | [New Morning](https://open.spotify.com/album/6yWulgsSMzXxVVN1FrRswA) | 5:10 |
 | 148 | [One Thing I Feared](https://open.spotify.com/track/1KK0CRO47v2pYmKfct9GbD) | [Clockwork Wolf & Co.](https://open.spotify.com/artist/3N1cCECrhToZ1M6fMpKGBo) | [One Thing I Feared](https://open.spotify.com/album/1yxopMV9t0m7g1W5fdpA7s) | 4:02 |
 | 149 | [Meet Me in the Bottom](https://open.spotify.com/track/7iiHpRaetFtBweEMVnG1TH) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Meet Me in the Bottom / Friends](https://open.spotify.com/album/2SWixsPxllhYc2iLEx6Yd5) | 3:08 |
-| 150 | [Louder](https://open.spotify.com/track/2DzqISlf588gxZuIWQN9LM) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Fortress](https://open.spotify.com/album/32A8uyNy25uuVwIBpbBGN9) | 2:45 |
+| 150 | [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:39 |
 
-Snapshot ID: `MCxkMWMwMTBlZmI4YTg3ZTBkNDFmZDMwZDExYmFlZDNkOGUwNWI1MDgw`
+Snapshot ID: `MCw3NDcyZTgyMDFmODlhMDdlZDg2NWRkYWFiM2M0YTUyNTE1ZTZlYjcx`

@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 44277,
+  "num_followers": 44313,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjQ1YjEwZWFkNzRiMjZjZTM1NzllZWZhMDFhNjdhNjQ2OWY2Y2Q2",
+  "snapshot_id": "MCxhNjA5NzBhYjRlYmNjNDk1ZGU1ODhkMjAzZjU1ODI4ZTAxMGU4ZmNi",
   "tracks": [
     {
       "added_at": "2022-12-17 09:00:30",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
+        "name": "Maskhara",
+        "url": "https://open.spotify.com/album/7bXGhJWxIhnFvwDKr9vqHx"
+      },
+      "artists": [
+        {
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+        }
+      ],
+      "duration_ms": 186411,
+      "name": "Maskhara",
+      "url": "https://open.spotify.com/track/7602Aziy9m0JAcnzKX8mcC"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
         "name": "Gaza - Tradition musicale palestinienne",
         "url": "https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Maskhara",
-        "url": "https://open.spotify.com/album/7bXGhJWxIhnFvwDKr9vqHx"
+        "name": "Palestine",
+        "url": "https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl"
       },
       "artists": [
         {
-          "name": "Bashar Murad",
-          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+          "name": "Ministry Of Dubkey",
+          "url": "https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU"
         }
       ],
-      "duration_ms": 186411,
-      "name": "Maskhara",
-      "url": "https://open.spotify.com/track/7602Aziy9m0JAcnzKX8mcC"
+      "duration_ms": 81005,
+      "name": "Palestine",
+      "url": "https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -903,22 +919,6 @@
       "duration_ms": 151058,
       "name": "Today is the day",
       "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
-        "name": "Palestine",
-        "url": "https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl"
-      },
-      "artists": [
-        {
-          "name": "Ministry Of Dubkey",
-          "url": "https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU"
-        }
-      ],
-      "duration_ms": 81005,
-      "name": "Palestine",
-      "url": "https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Na'na' Ya Na'na'",
-        "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Al Rozana",
-      "url": "https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Laween",
         "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 169970,
       "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
       "url": "https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Na'na' Ya Na'na'",
+        "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Al Rozana",
+      "url": "https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "NAS",
-        "url": "https://open.spotify.com/album/2sF5JJiuI034l5IlblUrVz"
+        "name": "Badi Ellak",
+        "url": "https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK"
       },
       "artists": [
         {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
         }
       ],
-      "duration_ms": 326387,
-      "name": "NAS",
-      "url": "https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ"
+      "duration_ms": 209999,
+      "name": "Badi Ellak",
+      "url": "https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1115,6 +1115,22 @@
       "duration_ms": 383333,
       "name": "\u0641\u0644\u0633\u0637\u064a\u0646",
       "url": "https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "NAS",
+        "url": "https://open.spotify.com/album/2sF5JJiuI034l5IlblUrVz"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 326387,
+      "name": "NAS",
+      "url": "https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Badi Ellak",
-        "url": "https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 209999,
-      "name": "Badi Ellak",
-      "url": "https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
         "url": "https://open.spotify.com/album/0iqbK8EUWqZueNYEJmtVgC"
       },
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Shauq",
-        "url": "https://open.spotify.com/album/79nDDYkzoWwdwWOZ8uIJLw"
+        "name": "Bel7afli",
+        "url": "https://open.spotify.com/album/24VotFk1UUZZJmarGVLRMT"
       },
       "artists": [
         {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+          "name": "EL X \u0627\u0644\u0625\u0643\u0633",
+          "url": "https://open.spotify.com/artist/3NQkbYL1pocXcIMyQkRTNP"
+        },
+        {
+          "name": "\u0141OAY",
+          "url": "https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz"
         }
       ],
-      "duration_ms": 333640,
-      "name": "Sitti (Grandma)",
-      "url": "https://open.spotify.com/track/0kQIy3NQMPHn3o6AiVC9fm"
+      "duration_ms": 166421,
+      "name": "Bel7afli",
+      "url": "https://open.spotify.com/track/33sM7X3w7bnrjJqdEh8zn9"
     }
   ],
   "unique_name": "Palestine Sounds",

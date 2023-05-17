@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 214850,
       "name": "Altar",
       "url": "https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 156330,
       "name": "Americana Na Vaquejada",
       "url": "https://open.spotify.com/track/1M6rclDhYmqRBMFGNJOFKB"
@@ -1508,6 +1508,24 @@
       "duration_ms": 153234,
       "name": "Anarrana",
       "url": "https://open.spotify.com/track/3QJSeb51jHsaLxIwSVcs8N"
+    },
+    {
+      "album": {
+        "name": "\"A Divina Com\u00e9dia Ou Ando Meio Desligado\"",
+        "url": "https://open.spotify.com/album/7Brj8kqhEO9Zg4daamMieT"
+      },
+      "artists": [
+        {
+          "name": "Os Mutantes",
+          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285920,
+      "name": "Ando Meio Desligado",
+      "url": "https://open.spotify.com/track/1MhkTY7vEuWR0VfDefE6Lf"
     },
     {
       "album": {
@@ -2622,6 +2640,28 @@
       "duration_ms": 163426,
       "name": "Bagulho \u00c9 Loco Mano - Ao Vivo",
       "url": "https://open.spotify.com/track/5D6xHKz2ma8odghPs5zMgG"
+    },
+    {
+      "album": {
+        "name": "Rita Lee",
+        "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330866,
+      "name": "Baila Comigo",
+      "url": "https://open.spotify.com/track/0dED0PRBM0fixceBz5s4XR"
     },
     {
       "album": {
@@ -5084,6 +5124,28 @@
       "duration_ms": 199401,
       "name": "Caso Perdido",
       "url": "https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo"
+    },
+    {
+      "album": {
+        "name": "Rita Lee",
+        "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325160,
+      "name": "Caso S\u00e9rio",
+      "url": "https://open.spotify.com/track/2HvuyQEnKR82zwfIuCBaWH"
     },
     {
       "album": {
@@ -7852,10 +7914,40 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 199384,
       "name": "Ela Voltou de Perna Bamba",
       "url": "https://open.spotify.com/track/0SIqUxweTuwVQnTYOpHaEI"
+    },
+    {
+      "album": {
+        "name": "Ela Voltou de Perna Bamba",
+        "url": "https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs"
+      },
+      "artists": [
+        {
+          "name": "MC Guh SR",
+          "url": "https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR"
+        },
+        {
+          "name": "Dj Pikeno Mpc",
+          "url": "https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS"
+        },
+        {
+          "name": "Markim WF",
+          "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
+        },
+        {
+          "name": "MC P\u00ea Original",
+          "url": "https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Ela Voltou de Perna Bamba",
+      "url": "https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv"
     },
     {
       "album": {
@@ -8340,7 +8432,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 232524,
       "name": "Esse Tal De Roque Enrow",
       "url": "https://open.spotify.com/track/2vHmF6Sh84IChZ8GvNnvW3"
@@ -10502,7 +10594,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 110760,
       "name": "Glockada na Cintura",
       "url": "https://open.spotify.com/track/7fQo8VCwV8kMmmW5gZ5Oqc"
@@ -12122,6 +12214,28 @@
       "duration_ms": 152293,
       "name": "It's Called: Freefall",
       "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
+    },
+    {
+      "album": {
+        "name": "Babil\u00f4nia",
+        "url": "https://open.spotify.com/album/190wpSoMkzQjX1nMob0hk6"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190960,
+      "name": "Jardins Da Babil\u00f4nia",
+      "url": "https://open.spotify.com/track/1voq70uyXy4i3S1oJP48Hs"
     },
     {
       "album": {
@@ -15025,6 +15139,28 @@
     },
     {
       "album": {
+        "name": "Menozin \u00c9 Abusado",
+        "url": "https://open.spotify.com/album/4x81PWFB5XqYGgj2KSB80w"
+      },
+      "artists": [
+        {
+          "name": "021 Richard",
+          "url": "https://open.spotify.com/artist/01U1Lf7mHrOLPjtfDAfvY1"
+        },
+        {
+          "name": "DJ Wkilla",
+          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Menozin \u00c9 Abusado",
+      "url": "https://open.spotify.com/track/7ED51LMfG28pKMGIW3CEy0"
+    },
+    {
+      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6iCqOANxuNAVs9ytVaskrJ"
       },
@@ -15490,7 +15626,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 241426,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/32Ky5QCRtwYJJXuLwoGufj"
@@ -16340,7 +16476,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 182831,
       "name": "NA TRETA DO PL",
       "url": "https://open.spotify.com/track/6Exdye26AbGf0XiXta7k4A"
@@ -18944,7 +19080,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 95440,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
@@ -19996,7 +20132,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 130375,
       "name": "Preferida",
       "url": "https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30"
@@ -23966,6 +24102,24 @@
       "duration_ms": 146774,
       "name": "Tantos Planos",
       "url": "https://open.spotify.com/track/1uyFfj0TJLQTFxqtrt7ArV"
+    },
+    {
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "album": {

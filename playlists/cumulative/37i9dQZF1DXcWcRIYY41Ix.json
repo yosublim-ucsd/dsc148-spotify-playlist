@@ -1631,6 +1631,32 @@
     },
     {
       "album": {
+        "name": "Danza Olvidada",
+        "url": "https://open.spotify.com/album/2aFioZ5TRqGee2CvNn5SgD"
+      },
+      "artists": [
+        {
+          "name": "Hirahi Afonso",
+          "url": "https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh"
+        },
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211714,
+      "name": "Danza Olvidada",
+      "url": "https://open.spotify.com/track/5xX0qlWXOQqOGH6VEcSBSA"
+    },
+    {
+      "album": {
         "name": "De balde",
         "url": "https://open.spotify.com/album/0LaoeEQSv79cXnhG5RgdSN"
       },
@@ -6898,7 +6924,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 238946,
       "name": "Una Fecha En El Calendario",
       "url": "https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO"

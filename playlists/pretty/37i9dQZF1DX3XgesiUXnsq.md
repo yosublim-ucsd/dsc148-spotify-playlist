@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Armani White
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,200 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,315 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 |
 | 100 | [Sriracha](https://open.spotify.com/track/1ytLhTM7p87C4eWPRWqAC9) | [Naturally Born Strangers](https://open.spotify.com/artist/5gZQxOh12bhrAS9ioHB2qc) | [Sriracha](https://open.spotify.com/album/380OfomX0FAj25skGNBOiK) | 3:28 |
 
-Snapshot ID: `MCxhNWMyYzY4YTVkYjU4N2Y2OThlZTY1N2IzNzQyYTMyNDA0MDZlODA3`
+Snapshot ID: `MCxmYTgwY2EyOWE2YTA4YjAxNGFmYjVhZTZkN2RhMDgzYzlkZDFjMzhj`

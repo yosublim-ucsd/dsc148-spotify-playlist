@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 341901,
+  "num_followers": 341948,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2M1MjNlNjNlZmVkYTVkNTMzNjMyOWI1MTVkMWFlYjc4N2U3MWJj",
+  "snapshot_id": "MCxlZGFiYjk2MzQzNTEyNTE2NDlkN2VmM2QzMmM1YmFkZThhMTNkZjdj",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "50//50",
         "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
       },
@@ -263,26 +247,18 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
-        "url": "https://open.spotify.com/album/67B57RL961NRFHyce5dYEK"
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
       "artists": [
         {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Josh Barry",
-          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 149760,
-      "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
-      "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
+      "duration_ms": 259173,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -319,6 +295,30 @@
       "duration_ms": 163308,
       "name": "Body",
       "url": "https://open.spotify.com/track/5nbq4CyzheTl7BLPR3caJY"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
+        "url": "https://open.spotify.com/album/67B57RL961NRFHyce5dYEK"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Josh Barry",
+          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
+      "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "R\u00f3is\u00edn Machine",
-        "url": "https://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        }
-      ],
-      "duration_ms": 225494,
-      "name": "Incapable",
-      "url": "https://open.spotify.com/track/02CkWazM7YqypIxYKy3iSy"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Seventies",
         "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 196035,
       "name": "Seventies",
       "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "R\u00f3is\u00edn Machine",
+        "url": "https://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        }
+      ],
+      "duration_ms": 225494,
+      "name": "Incapable",
+      "url": "https://open.spotify.com/track/02CkWazM7YqypIxYKy3iSy"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/1fzuUk3cUSc8OZTp3C7GZa"
-      },
-      "artists": [
-        {
-          "name": "Tom Everett",
-          "url": "https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK"
-        }
-      ],
-      "duration_ms": 206447,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Someday (Harris & Hurr Remix)",
         "url": "https://open.spotify.com/album/0WIYfupY0GUkK0fdoDw89S"
       },
@@ -967,6 +951,38 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1fzuUk3cUSc8OZTp3C7GZa"
+      },
+      "artists": [
+        {
+          "name": "Tom Everett",
+          "url": "https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK"
+        }
+      ],
+      "duration_ms": 206447,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ"
+      },
+      "artists": [
+        {
+          "name": "Aevion",
+          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
+        }
+      ],
+      "duration_ms": 250862,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "It\u2019s Alright",
         "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 210181,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ"
-      },
-      "artists": [
-        {
-          "name": "Aevion",
-          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
-        }
-      ],
-      "duration_ms": 250862,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk"
     },
     {
       "added_at": "2022-03-11 16:22:05",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 2901,
+  "num_followers": 2999,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWFlZTNiY2JjMDc1ZjU0YjM5MDk1NjJhZGIzNDlmNTlkZGIxOTI4",
+  "snapshot_id": "MCw2YzM4OTk5OGM0NzNlYWM4YzM5OTkwYjg1YTU0NTNhZTdlMWRjOTBl",
   "tracks": [
     {
       "added_at": "2023-02-10 16:12:28",
@@ -27,18 +27,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "The Highway Kind",
-        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 177083,
-      "name": "Settle Me Down",
-      "url": "https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9"
+      "duration_ms": 204352,
+      "name": "Something to Talk About",
+      "url": "https://open.spotify.com/track/7ptJYMKI7Y1iWdqEZtBMGE"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -67,18 +67,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         }
       ],
-      "duration_ms": 204352,
-      "name": "Something to Talk About",
-      "url": "https://open.spotify.com/track/7ptJYMKI7Y1iWdqEZtBMGE"
+      "duration_ms": 177083,
+      "name": "Settle Me Down",
+      "url": "https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 238211,
-      "name": "Drunk Driving",
-      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Humble Folks",
         "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
       },
@@ -215,6 +199,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 238211,
+      "name": "Drunk Driving",
+      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
         "name": "Texas Rain",
         "url": "https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa"
       },
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 187633,
-      "name": "Unrung",
-      "url": "https://open.spotify.com/track/7zrfNVEwO2ig1pGVKh9z66"
+      "duration_ms": 241838,
+      "name": "Pay No Rent",
+      "url": "https://open.spotify.com/track/4FIIaVhMlCDlIRPUWtd7Ax"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Ain't Nothin' to It",
         "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
@@ -343,18 +327,34 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "To Be Loved By You",
-        "url": "https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu"
+        "name": "Bury My Bones",
+        "url": "https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 198324,
-      "name": "To Be Loved By You",
-      "url": "https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7"
+      "duration_ms": 259851,
+      "name": "Bury My Bones",
+      "url": "https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG"
+        "name": "To Be Loved By You",
+        "url": "https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 274716,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b"
+      "duration_ms": 198324,
+      "name": "To Be Loved By You",
+      "url": "https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -400,25 +400,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 241838,
-      "name": "Pay No Rent",
-      "url": "https://open.spotify.com/track/4FIIaVhMlCDlIRPUWtd7Ax"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
-        "name": "Bury My Bones",
-        "url": "https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 259851,
-      "name": "Bury My Bones",
-      "url": "https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj"
+      "duration_ms": 187633,
+      "name": "Unrung",
+      "url": "https://open.spotify.com/track/7zrfNVEwO2ig1pGVKh9z66"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
         "name": "Muchos Sonidos",
         "url": "https://open.spotify.com/album/4AyYKQ8iCNv5ZiAhEFRPhE"
       },
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        },
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 226538,
-      "name": "Life Without You",
-      "url": "https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Red Eye EP",
         "url": "https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy"
       },
@@ -567,6 +547,22 @@
       "duration_ms": 319591,
       "name": "Kill a Man",
       "url": "https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Don't Even Say Bye",
+        "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
+      },
+      "artists": [
+        {
+          "name": "Cole Barnhill",
+          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
+        }
+      ],
+      "duration_ms": 237060,
+      "name": "Don't Even Say Bye",
+      "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -591,18 +587,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Don't Even Say Bye",
-        "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
       },
       "artists": [
         {
-          "name": "Cole Barnhill",
-          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 237060,
-      "name": "Don't Even Say Bye",
-      "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
+      "duration_ms": 226538,
+      "name": "Life Without You",
+      "url": "https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Hellbent",
-        "url": "https://open.spotify.com/album/2OySP5MCjKzroGIQmljuib"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 193645,
-      "name": "You, Me and a Bottle",
-      "url": "https://open.spotify.com/track/5l2vsw5MtFyUcFmsuguNcW"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Black Sheep",
         "url": "https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 224027,
       "name": "Happier Alone",
       "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Hellbent",
+        "url": "https://open.spotify.com/album/2OySP5MCjKzroGIQmljuib"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 193645,
+      "name": "You, Me and a Bottle",
+      "url": "https://open.spotify.com/track/5l2vsw5MtFyUcFmsuguNcW"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Jacket On",
-        "url": "https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 156199,
-      "name": "Jacket On",
-      "url": "https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 208805,
       "name": "I Will",
       "url": "https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Jacket On",
+        "url": "https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt"
+      },
+      "artists": [
+        {
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+        }
+      ],
+      "duration_ms": 156199,
+      "name": "Jacket On",
+      "url": "https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Hundred Dollar Bill",
-        "url": "https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn"
+        "name": "Abstract Art of an Unstable Mind",
+        "url": "https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW"
       },
       "artists": [
         {
-          "name": "Hill Country Revival",
-          "url": "https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE"
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
         }
       ],
-      "duration_ms": 223806,
-      "name": "Hundred Dollar Bill",
-      "url": "https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C"
+      "duration_ms": 192800,
+      "name": "Loser Mentality",
+      "url": "https://open.spotify.com/track/0kh5IPMmmY2LUPDij2H3T6"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Abstract Art of an Unstable Mind",
-        "url": "https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW"
+        "name": "Hundred Dollar Bill",
+        "url": "https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+          "name": "Hill Country Revival",
+          "url": "https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Loser Mentality",
-      "url": "https://open.spotify.com/track/0kh5IPMmmY2LUPDij2H3T6"
+      "duration_ms": 223806,
+      "name": "Hundred Dollar Bill",
+      "url": "https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1531,6 +1531,22 @@
       "duration_ms": 216084,
       "name": "What It Doesn\u2019t Do",
       "url": "https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/4IsdUibNLOGR1LymaBwf2I"
+      },
+      "artists": [
+        {
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        }
+      ],
+      "duration_ms": 212235,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/3cvaQWdVaipVYqat8mF6GB"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1627,22 +1643,6 @@
       "duration_ms": 190853,
       "name": "Lightning Fast",
       "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
-        "name": "I Didn't Think About Rain",
-        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "I Didn't Think About Rain",
-      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
     }
   ],
   "unique_name": "Texas Country Rewind",

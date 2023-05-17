@@ -1,12 +1,12 @@
 {
   "description": "Keeping it 140 - Welcome to Grime Shutdown. Cover: Sir Spyro\ud83d\udc51 ",
-  "num_followers": 747223,
+  "num_followers": 747220,
   "original_name": "Grime Shutdown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWIwYjYwYmE4NzdhMjk1MmJhZGI3MjE1ODhjNjhhMzAzNTkyOWZh",
+  "snapshot_id": "MCwyNWRlOWJkYjcwYWU2YWFhZThhNDcxYjlkODhjOWI5ZDVmNzgyMDQw",
   "tracks": [
     {
       "added_at": "2023-05-15 02:11:15",
@@ -395,18 +395,22 @@
     {
       "added_at": "2023-05-15 02:11:15",
       "album": {
-        "name": "TYRON",
-        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
+        "name": "Hurdy Gurdy",
+        "url": "https://open.spotify.com/album/1ItO2nu3ZQ5OwyLQ1bO7p2"
       },
       "artists": [
         {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+          "name": "Big Narstie",
+          "url": "https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW"
+        },
+        {
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
         }
       ],
-      "duration_ms": 138613,
-      "name": "VEX",
-      "url": "https://open.spotify.com/track/0l6D20UUxbOemPoaGneKK6"
+      "duration_ms": 158303,
+      "name": "Hurdy Gurdy",
+      "url": "https://open.spotify.com/track/7GH67OAu6ng75GGCUaSgGh"
     },
     {
       "added_at": "2023-05-15 02:11:15",
@@ -435,22 +439,18 @@
     {
       "added_at": "2023-05-15 02:11:15",
       "album": {
-        "name": "Hurdy Gurdy",
-        "url": "https://open.spotify.com/album/1ItO2nu3ZQ5OwyLQ1bO7p2"
+        "name": "TYRON",
+        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
       },
       "artists": [
         {
-          "name": "Big Narstie",
-          "url": "https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW"
-        },
-        {
-          "name": "Sir Spyro",
-          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
         }
       ],
-      "duration_ms": 158303,
-      "name": "Hurdy Gurdy",
-      "url": "https://open.spotify.com/track/7GH67OAu6ng75GGCUaSgGh"
+      "duration_ms": 138613,
+      "name": "VEX",
+      "url": "https://open.spotify.com/track/0l6D20UUxbOemPoaGneKK6"
     },
     {
       "added_at": "2023-05-15 02:11:15",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-05-15 02:11:15",
       "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/6Sr7SYIUIKEIILHtyAnG4s"
+      },
+      "artists": [
+        {
+          "name": "Big Zuu",
+          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
+        }
+      ],
+      "duration_ms": 155124,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/52aUPdSO9GbTmcLxGiSTnE"
+    },
+    {
+      "added_at": "2023-05-15 02:11:15",
+      "album": {
         "name": "Streets of Rage",
         "url": "https://open.spotify.com/album/4FBAK6ZKG1HTBAD9kt4dXl"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 180676,
       "name": "Chop (Henry the 8th)",
       "url": "https://open.spotify.com/track/4sHecHRP0Ir1uB3740figh"
-    },
-    {
-      "added_at": "2023-05-15 02:11:15",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/6Sr7SYIUIKEIILHtyAnG4s"
-      },
-      "artists": [
-        {
-          "name": "Big Zuu",
-          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
-        }
-      ],
-      "duration_ms": 155124,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/52aUPdSO9GbTmcLxGiSTnE"
     },
     {
       "added_at": "2023-05-15 02:11:15",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2023-05-15 02:11:15",
       "album": {
+        "name": "Variation",
+        "url": "https://open.spotify.com/album/2BFnUGjtaVmEXDuWGotfkM"
+      },
+      "artists": [
+        {
+          "name": "Big Zuu",
+          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Variation",
+      "url": "https://open.spotify.com/track/7mO3Z8L3iWzXD4CcWla4nS"
+    },
+    {
+      "added_at": "2023-05-15 02:11:15",
+      "album": {
         "name": "Norf Face",
         "url": "https://open.spotify.com/album/7o6bhqYxz0nWyjwCYsmARy"
       },
@@ -1095,30 +1115,6 @@
       "duration_ms": 55774,
       "name": "Jme's Pattern",
       "url": "https://open.spotify.com/track/0MScFULzqw1TMzYqwDF9SM"
-    },
-    {
-      "added_at": "2023-05-15 02:11:15",
-      "album": {
-        "name": "Man Know",
-        "url": "https://open.spotify.com/album/3asq4P6GCqeStZqb4bck7H"
-      },
-      "artists": [
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 224571,
-      "name": "Man Know",
-      "url": "https://open.spotify.com/track/08ethh0KUcRzvm3OS9nePQ"
     },
     {
       "added_at": "2023-05-15 02:11:15",
@@ -1147,22 +1143,26 @@
     {
       "added_at": "2023-05-15 02:11:15",
       "album": {
-        "name": "Variation",
-        "url": "https://open.spotify.com/album/2BFnUGjtaVmEXDuWGotfkM"
+        "name": "Man Know",
+        "url": "https://open.spotify.com/album/3asq4P6GCqeStZqb4bck7H"
       },
       "artists": [
         {
-          "name": "Big Zuu",
-          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
         },
         {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Variation",
-      "url": "https://open.spotify.com/track/7mO3Z8L3iWzXD4CcWla4nS"
+      "duration_ms": 224571,
+      "name": "Man Know",
+      "url": "https://open.spotify.com/track/08ethh0KUcRzvm3OS9nePQ"
     },
     {
       "added_at": "2023-05-15 02:11:15",
@@ -1223,34 +1223,26 @@
     {
       "added_at": "2023-05-15 02:11:15",
       "album": {
-        "name": "Man in Meridian",
-        "url": "https://open.spotify.com/album/5FnZx8CDt31zZy5vVhzK4m"
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/6dptrfT4Gvhc4hBenL0D0J"
       },
       "artists": [
+        {
+          "name": "Big Zuu",
+          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
+        },
         {
           "name": "Jme",
           "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
         },
         {
-          "name": "Bossman Birdie",
-          "url": "https://open.spotify.com/artist/13sqxAHntdRq2aWVbuYmSg"
-        },
-        {
-          "name": "Paper Pabs",
-          "url": "https://open.spotify.com/artist/3ibOrGQsnZMfmQUSFDrdLl"
-        },
-        {
-          "name": "President T",
-          "url": "https://open.spotify.com/artist/1jVgvfKynkRWY4SymwtOBS"
-        },
-        {
-          "name": "Big H",
-          "url": "https://open.spotify.com/artist/5bPMrj2JeYuaAqA807hw7I"
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
         }
       ],
-      "duration_ms": 285255,
-      "name": "Man in Meridian",
-      "url": "https://open.spotify.com/track/2kr904XjBkf3RivRwXZxc0"
+      "duration_ms": 207826,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/1Jg9pMvUl9ltxJboGol7jI"
     },
     {
       "added_at": "2023-05-15 02:11:15",
@@ -1291,18 +1283,34 @@
     {
       "added_at": "2023-05-15 02:11:15",
       "album": {
-        "name": "SIRIUS",
-        "url": "https://open.spotify.com/album/1cKrRwh0GuRnlEpxAJMzU0"
+        "name": "Man in Meridian",
+        "url": "https://open.spotify.com/album/5FnZx8CDt31zZy5vVhzK4m"
       },
       "artists": [
         {
-          "name": "Snowy",
-          "url": "https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP"
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Bossman Birdie",
+          "url": "https://open.spotify.com/artist/13sqxAHntdRq2aWVbuYmSg"
+        },
+        {
+          "name": "Paper Pabs",
+          "url": "https://open.spotify.com/artist/3ibOrGQsnZMfmQUSFDrdLl"
+        },
+        {
+          "name": "President T",
+          "url": "https://open.spotify.com/artist/1jVgvfKynkRWY4SymwtOBS"
+        },
+        {
+          "name": "Big H",
+          "url": "https://open.spotify.com/artist/5bPMrj2JeYuaAqA807hw7I"
         }
       ],
-      "duration_ms": 169000,
-      "name": "PROPER",
-      "url": "https://open.spotify.com/track/2j6jgbIAMXMDAFVdTXC5rp"
+      "duration_ms": 285255,
+      "name": "Man in Meridian",
+      "url": "https://open.spotify.com/track/2kr904XjBkf3RivRwXZxc0"
     },
     {
       "added_at": "2023-05-15 02:11:15",
@@ -1327,42 +1335,42 @@
     {
       "added_at": "2023-05-15 02:11:15",
       "album": {
-        "name": "Offline",
-        "url": "https://open.spotify.com/album/6dptrfT4Gvhc4hBenL0D0J"
+        "name": "SIRIUS",
+        "url": "https://open.spotify.com/album/1cKrRwh0GuRnlEpxAJMzU0"
       },
       "artists": [
         {
-          "name": "Big Zuu",
-          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
-        },
-        {
-          "name": "Jme",
-          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
-        },
-        {
-          "name": "Novelist",
-          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+          "name": "Snowy",
+          "url": "https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP"
         }
       ],
-      "duration_ms": 207826,
-      "name": "Offline",
-      "url": "https://open.spotify.com/track/1Jg9pMvUl9ltxJboGol7jI"
+      "duration_ms": 169000,
+      "name": "PROPER",
+      "url": "https://open.spotify.com/track/2j6jgbIAMXMDAFVdTXC5rp"
     },
     {
       "added_at": "2023-05-15 02:11:15",
       "album": {
-        "name": "Memories Over Money",
-        "url": "https://open.spotify.com/album/4vFmGMlqvicwm7LoKaemMq"
+        "name": "Bout Dis",
+        "url": "https://open.spotify.com/album/6qc3p8JJZmvxciKnXVvQPi"
       },
       "artists": [
         {
-          "name": "Kamakaze",
-          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+          "name": "Treble Clef",
+          "url": "https://open.spotify.com/artist/0RL82EKGr8B2khgVrkBPKY"
+        },
+        {
+          "name": "DeeJillz",
+          "url": "https://open.spotify.com/artist/6zM24ISVAHeHamAYUnELfM"
+        },
+        {
+          "name": "Elf Kid",
+          "url": "https://open.spotify.com/artist/3zCJAYU5pdyvi4nwb5ANnQ"
         }
       ],
-      "duration_ms": 163750,
-      "name": "Safe N Sound",
-      "url": "https://open.spotify.com/track/4U69PPfjElDD721ptDKP1m"
+      "duration_ms": 240000,
+      "name": "Bout Dis",
+      "url": "https://open.spotify.com/track/0W2DfGz6T8nq7j9QLxksDx"
     },
     {
       "added_at": "2023-05-15 02:11:15",
@@ -1391,26 +1399,18 @@
     {
       "added_at": "2023-05-15 02:11:15",
       "album": {
-        "name": "Bout Dis",
-        "url": "https://open.spotify.com/album/6qc3p8JJZmvxciKnXVvQPi"
+        "name": "Memories Over Money",
+        "url": "https://open.spotify.com/album/4vFmGMlqvicwm7LoKaemMq"
       },
       "artists": [
         {
-          "name": "Treble Clef",
-          "url": "https://open.spotify.com/artist/0RL82EKGr8B2khgVrkBPKY"
-        },
-        {
-          "name": "DeeJillz",
-          "url": "https://open.spotify.com/artist/6zM24ISVAHeHamAYUnELfM"
-        },
-        {
-          "name": "Elf Kid",
-          "url": "https://open.spotify.com/artist/3zCJAYU5pdyvi4nwb5ANnQ"
+          "name": "Kamakaze",
+          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Bout Dis",
-      "url": "https://open.spotify.com/track/0W2DfGz6T8nq7j9QLxksDx"
+      "duration_ms": 163750,
+      "name": "Safe N Sound",
+      "url": "https://open.spotify.com/track/4U69PPfjElDD721ptDKP1m"
     },
     {
       "added_at": "2023-05-15 02:11:15",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-05-15 02:11:15",
       "album": {
-        "name": "Country Bars",
-        "url": "https://open.spotify.com/album/1QT1zZyE4f2IUV9gkPr7ll"
-      },
-      "artists": [
-        {
-          "name": "Eyez",
-          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Country Bars",
-      "url": "https://open.spotify.com/track/6Ili2nj6S2wqkVka77EiLU"
-    },
-    {
-      "added_at": "2023-05-15 02:11:15",
-      "album": {
         "name": "The Avengers LP",
         "url": "https://open.spotify.com/album/0jk8Vl9bRBCvExE9trP4Rw"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 214144,
       "name": "Megazord",
       "url": "https://open.spotify.com/track/2V529vFkZRVIWBnklvs8Er"
+    },
+    {
+      "added_at": "2023-05-15 02:11:15",
+      "album": {
+        "name": "Country Bars",
+        "url": "https://open.spotify.com/album/1QT1zZyE4f2IUV9gkPr7ll"
+      },
+      "artists": [
+        {
+          "name": "Eyez",
+          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Country Bars",
+      "url": "https://open.spotify.com/track/6Ili2nj6S2wqkVka77EiLU"
     },
     {
       "added_at": "2023-05-15 02:11:15",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-05-15 02:11:15",
       "album": {
+        "name": "Bars - EP",
+        "url": "https://open.spotify.com/album/2PGUpCZFixpr34VpXJIWM0"
+      },
+      "artists": [
+        {
+          "name": "Eyez",
+          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
+        }
+      ],
+      "duration_ms": 178741,
+      "name": "Car Bars",
+      "url": "https://open.spotify.com/track/6QGQjFvpFeGrHLslKKgcAP"
+    },
+    {
+      "added_at": "2023-05-15 02:11:15",
+      "album": {
         "name": "Bruce Wayne",
         "url": "https://open.spotify.com/album/4RWlNFRhJ1TJCpipr7WYt7"
       },
@@ -1703,26 +1719,6 @@
       "duration_ms": 279429,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/316fCLEpkEZKqaeaXIKwNf"
-    },
-    {
-      "added_at": "2023-05-15 02:11:15",
-      "album": {
-        "name": "Beast Mode",
-        "url": "https://open.spotify.com/album/5PTF3KKbHx3522w8ZgIL8D"
-      },
-      "artists": [
-        {
-          "name": "D.Tail",
-          "url": "https://open.spotify.com/artist/0EDDfddmyL0lSMIhMdWD5Y"
-        },
-        {
-          "name": "Turkish Dcypha",
-          "url": "https://open.spotify.com/artist/5o6zDmcCIfP6RAdWUFBoEK"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Beast Mode",
-      "url": "https://open.spotify.com/track/18SzRv5V3kIVMDtsHiLQnQ"
     }
   ],
   "unique_name": "Grime Shutdown",

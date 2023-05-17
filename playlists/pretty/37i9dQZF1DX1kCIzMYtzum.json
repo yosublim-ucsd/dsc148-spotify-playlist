@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 153425,
+  "num_followers": 153669,
   "original_name": "EDM 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDk1NjEyNzZiZjZhMTExMjQzNjIxZGI2NmQ0M2M3NmZmZDNiMjZh",
+  "snapshot_id": "MCxmMmQ3YjM0N2FiOGQyMjc5M2E5NzBlOTVmMTYzOTBhY2MyYjViYmVk",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -491,30 +491,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "After Midnight (feat. Xoro)",
-        "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Xoro",
-          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
-        }
-      ],
-      "duration_ms": 143526,
-      "name": "After Midnight (feat. Xoro)",
-      "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -543,6 +519,30 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "After Midnight (feat. Xoro)",
+        "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Xoro",
+          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
+        }
+      ],
+      "duration_ms": 143526,
+      "name": "After Midnight (feat. Xoro)",
+      "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Walkerverse Pt. I & II",
         "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
       },
@@ -559,30 +559,6 @@
       "duration_ms": 132954,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        },
-        {
-          "name": "Alex Aris",
-          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -607,6 +583,30 @@
       "duration_ms": 146076,
       "name": "Fool 4 U (feat. Enisa)",
       "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Alex Aris",
+          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Tell Me Why (Maddix Remix)",
+        "url": "https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe"
+      },
+      "artists": [
+        {
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Tell Me Why - Maddix Remix",
+      "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 196440,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/79SrdoXn93tgSzksq73X2y"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Tell Me Why (Maddix Remix)",
-        "url": "https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe"
-      },
-      "artists": [
-        {
-          "name": "Supermode",
-          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Tell Me Why - Maddix Remix",
-      "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1119,6 +1119,30 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/1I5VgwayPR20EfIw8Hxemg"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Dimitri Vangelis & Wyman",
+          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
+        },
+        {
+          "name": "Barefoot",
+          "url": "https://open.spotify.com/artist/3WV4dHxZVMz7HtZN3N36mr"
+        }
+      ],
+      "duration_ms": 170714,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/3KDAuFwxWf79cVOJrndpBh"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/1KNHmfZjkA5Fq52nfOK0sW"
       },
@@ -1167,30 +1191,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/1I5VgwayPR20EfIw8Hxemg"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Dimitri Vangelis & Wyman",
-          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
-        },
-        {
-          "name": "Barefoot",
-          "url": "https://open.spotify.com/artist/3WV4dHxZVMz7HtZN3N36mr"
-        }
-      ],
-      "duration_ms": 170714,
-      "name": "Dreamers",
-      "url": "https://open.spotify.com/track/3KDAuFwxWf79cVOJrndpBh"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
@@ -1231,22 +1231,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1uLIr0QsdPXJ3pUzHV1MoC"
+        "name": "I Can't Love",
+        "url": "https://open.spotify.com/album/1dIapU9QQwxxeFGnb2rdV3"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
         },
         {
-          "name": "VINNE",
-          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+          "name": "Barefoot",
+          "url": "https://open.spotify.com/artist/3WV4dHxZVMz7HtZN3N36mr"
         }
       ],
-      "duration_ms": 160014,
-      "name": "Once Again",
-      "url": "https://open.spotify.com/track/0FzqS9TaYAKwhjdIXfphtd"
+      "duration_ms": 147750,
+      "name": "I Can't Love",
+      "url": "https://open.spotify.com/track/2IZa3hPjcc8fFzWNsHvzoM"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1275,6 +1275,46 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1uLIr0QsdPXJ3pUzHV1MoC"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        }
+      ],
+      "duration_ms": 160014,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/0FzqS9TaYAKwhjdIXfphtd"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
         "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
@@ -1299,22 +1339,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "I Can't Love",
-        "url": "https://open.spotify.com/album/1dIapU9QQwxxeFGnb2rdV3"
+        "name": "Drop That Low (When I Dip)",
+        "url": "https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj"
       },
       "artists": [
         {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         },
         {
-          "name": "Barefoot",
-          "url": "https://open.spotify.com/artist/3WV4dHxZVMz7HtZN3N36mr"
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
         }
       ],
-      "duration_ms": 147750,
-      "name": "I Can't Love",
-      "url": "https://open.spotify.com/track/2IZa3hPjcc8fFzWNsHvzoM"
+      "duration_ms": 153809,
+      "name": "Drop That Low (When I Dip)",
+      "url": "https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1343,42 +1383,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "1x1",
-        "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 139435,
-      "name": "1x1",
-      "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "REBELS NEVER DIE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
-      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Anti-Hero (ILLENIUM Remix)",
         "url": "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6"
       },
@@ -1395,46 +1399,6 @@
       "duration_ms": 267960,
       "name": "Anti-Hero - ILLENIUM Remix",
       "url": "https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Drop That Low (When I Dip)",
-        "url": "https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
-        }
-      ],
-      "duration_ms": 153809,
-      "name": "Drop That Low (When I Dip)",
-      "url": "https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Turn Back Time",
-        "url": "https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        }
-      ],
-      "duration_ms": 147260,
-      "name": "Turn Back Time",
-      "url": "https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1459,6 +1423,42 @@
       "duration_ms": 170322,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 139435,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        }
+      ],
+      "duration_ms": 147260,
+      "name": "Turn Back Time",
+      "url": "https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/3u3JkMZvuXinPVaaU3PbV4"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 168148,
-      "name": "Unity",
-      "url": "https://open.spotify.com/track/5ocEjEEmrT02QNIvSc5iub"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Party PPL",
         "url": "https://open.spotify.com/album/0oglJBSSaMlKM95QLXQGx5"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 148412,
       "name": "Party PPL",
       "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/3u3JkMZvuXinPVaaU3PbV4"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 168148,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/5ocEjEEmrT02QNIvSc5iub"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1887,6 +1887,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/5DgYnW9yRnHEtY7LabHPys"
+      },
+      "artists": [
+        {
+          "name": "Julian Cross",
+          "url": "https://open.spotify.com/artist/1TRFjpBEneFJJloCqSC4sG"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/02hEGjpkW2JyvtB8eel4gP"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
       },
@@ -1943,22 +1963,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/5DgYnW9yRnHEtY7LabHPys"
+        "name": "Perfect Stranger",
+        "url": "https://open.spotify.com/album/5RK342eDaM4bGIiUdRN9NQ"
       },
       "artists": [
         {
-          "name": "Julian Cross",
-          "url": "https://open.spotify.com/artist/1TRFjpBEneFJJloCqSC4sG"
+          "name": "Hogland",
+          "url": "https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Mark Klaver",
+          "url": "https://open.spotify.com/artist/68l3xR1huVp4U3ThWY0XvT"
         }
       ],
-      "duration_ms": 171562,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/02hEGjpkW2JyvtB8eel4gP"
+      "duration_ms": 150000,
+      "name": "Perfect Stranger",
+      "url": "https://open.spotify.com/track/6zXyPzGp9AjpbrOYMQ1sc9"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1983,22 +2003,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Perfect Stranger",
-        "url": "https://open.spotify.com/album/5RK342eDaM4bGIiUdRN9NQ"
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
       },
       "artists": [
         {
-          "name": "Hogland",
-          "url": "https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB"
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
         },
         {
-          "name": "Mark Klaver",
-          "url": "https://open.spotify.com/artist/68l3xR1huVp4U3ThWY0XvT"
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Perfect Stranger",
-      "url": "https://open.spotify.com/track/6zXyPzGp9AjpbrOYMQ1sc9"
+      "duration_ms": 197142,
+      "name": "Mercy (2022 Edit)",
+      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2019,26 +2039,6 @@
       "duration_ms": 202738,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/10E3RZH3FcO3bC8w7BHDwp"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Mercy (2022 Edit)",
-      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
     },
     {
       "added_at": "2023-05-05 04:00:00",

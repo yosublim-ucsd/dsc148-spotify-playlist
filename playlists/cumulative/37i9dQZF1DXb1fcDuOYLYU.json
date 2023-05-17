@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 200703,
       "name": "Bailo Pa Ti",
       "url": "https://open.spotify.com/track/0eRPNA76bLUkPUk2YMUcQk"
@@ -870,6 +870,24 @@
       "duration_ms": 267973,
       "name": "Como Me Duele Perderte",
       "url": "https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq"
+    },
+    {
+      "album": {
+        "name": "como te va?",
+        "url": "https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154401,
+      "name": "como te va?",
+      "url": "https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG"
     },
     {
       "album": {

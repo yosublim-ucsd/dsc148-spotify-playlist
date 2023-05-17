@@ -4204,7 +4204,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 246013,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/0hmQY8NW6hNQWfkvZsa1e9"
@@ -4482,6 +4482,28 @@
       "duration_ms": 257066,
       "name": "Livin' It Up",
       "url": "https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y"
+    },
+    {
+      "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257133,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/4ToZV7r72wSbVrljaLSp13"
     },
     {
       "album": {

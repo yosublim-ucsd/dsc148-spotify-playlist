@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring SNENiE. Updates every Wednesday.",
-  "num_followers": 169907,
+  "num_followers": 169915,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTlkNGJlODU0MjJhMzE1MDU2YjYyMjMxMzY5YTcwNTQ3YzdjZTU1",
+  "snapshot_id": "MCxlNmY0Zjg4ZDcxNzkwZjQwMGEyN2JlMWJkNWRjNGFhY2U3OTcyZTAx",
   "tracks": [
     {
       "added_at": "2023-05-10 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-10 04:00:00",
       "album": {
-        "name": "Ahi Estar\u00e9",
-        "url": "https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 180103,
-      "name": "Ahi Estar\u00e9",
-      "url": "https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0"
-    },
-    {
-      "added_at": "2023-05-10 04:00:00",
-      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/6wVUHdsG7M9g8vFq7yGmUa"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 234382,
       "name": "Me Estoy Poniendo Viejo",
       "url": "https://open.spotify.com/track/3mkaL7kfoWFrsnSnvSRMH3"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
+        "name": "Ahi Estar\u00e9",
+        "url": "https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "duration_ms": 180103,
+      "name": "Ahi Estar\u00e9",
+      "url": "https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0"
     },
     {
       "added_at": "2023-05-10 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-05-10 04:00:00",
       "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/0oAKvpLkEE5SDJZSC2I5uN"
-      },
-      "artists": [
-        {
-          "name": "Lalezka",
-          "url": "https://open.spotify.com/artist/1QORf7tbxagwS8t06BuHaY"
-        }
-      ],
-      "duration_ms": 144947,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/683OupaDPQs73s58zY2Aup"
-    },
-    {
-      "added_at": "2023-05-10 04:00:00",
-      "album": {
         "name": "Aves Negras",
         "url": "https://open.spotify.com/album/2Po2dPDn6lMdNSjkfcM1OU"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2023-05-10 04:00:00",
       "album": {
-        "name": "Quiero Bailar Contigo",
-        "url": "https://open.spotify.com/album/42W88xG8y9WfcqdarnA1uO"
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/0oAKvpLkEE5SDJZSC2I5uN"
       },
       "artists": [
         {
-          "name": "Truzman",
-          "url": "https://open.spotify.com/artist/7qFuA1DT1Ubb1iMPnWKMIr"
+          "name": "Lalezka",
+          "url": "https://open.spotify.com/artist/1QORf7tbxagwS8t06BuHaY"
         }
       ],
-      "duration_ms": 155102,
-      "name": "Quiero Bailar Contigo",
-      "url": "https://open.spotify.com/track/3iIvuDuC4ZdP2RqWHCSP3p"
+      "duration_ms": 144947,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/683OupaDPQs73s58zY2Aup"
     },
     {
       "added_at": "2023-05-10 04:00:00",
@@ -699,6 +683,22 @@
       "duration_ms": 299609,
       "name": "Noir Mambo",
       "url": "https://open.spotify.com/track/6nv9bERk9Wobhs1je4El9a"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
+        "name": "Quiero Bailar Contigo",
+        "url": "https://open.spotify.com/album/42W88xG8y9WfcqdarnA1uO"
+      },
+      "artists": [
+        {
+          "name": "Truzman",
+          "url": "https://open.spotify.com/artist/7qFuA1DT1Ubb1iMPnWKMIr"
+        }
+      ],
+      "duration_ms": 155102,
+      "name": "Quiero Bailar Contigo",
+      "url": "https://open.spotify.com/track/3iIvuDuC4ZdP2RqWHCSP3p"
     },
     {
       "added_at": "2023-05-10 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the unforgettable melodies of the greatest LGBTQ+ composers. Cover: Nico Muhly",
+  "description": "Explore the unforgettable melodies of the greatest LGBTQIA+ composers. Cover: Nico Muhly",
   "name": "Classically Queer",
   "tracks": [
     {
@@ -241,6 +241,66 @@
     },
     {
       "album": {
+        "name": "Hahn: Int\u00e9grale de l'\u0153uvre pour deux pianos, Vol. 1",
+        "url": "https://open.spotify.com/album/0tvURD5PKVtzpd8ieVXI05"
+      },
+      "artists": [
+        {
+          "name": "Reynaldo Hahn",
+          "url": "https://open.spotify.com/artist/6Eu8djOGFxGaykaqJlbzEf"
+        },
+        {
+          "name": "Huseyin Sermet",
+          "url": "https://open.spotify.com/artist/5KvXtACyBFALB9l4pE5gzj"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86533,
+      "name": "Douze valses, Le ruban d\u00e9nou\u00e9: No. 1, D\u00e9crets indolents du hasard",
+      "url": "https://open.spotify.com/track/6bQY1ycex7i79COB4dEqN1"
+    },
+    {
+      "album": {
+        "name": "Dream House Quartet",
+        "url": "https://open.spotify.com/album/1qOpM0KARm5m0QBzTuRIqH"
+      },
+      "artists": [
+        {
+          "name": "Meredith Monk",
+          "url": "https://open.spotify.com/artist/1WN9bXZmI41JB1tCmrSC3M"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        },
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "David Chalmin",
+          "url": "https://open.spotify.com/artist/7JLeeI3o762IePxWjgs6MT"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181939,
+      "name": "Ellis Island",
+      "url": "https://open.spotify.com/track/7CvXDFsGbOkh0wNhZUWTDr"
+    },
+    {
+      "album": {
         "name": "Nuove Invenzioni",
         "url": "https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK"
       },
@@ -342,6 +402,32 @@
       "duration_ms": 301320,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/6QiPZYpALWJKVv7ZUxkoC9"
+    },
+    {
+      "album": {
+        "name": "Glass: In the summer house",
+        "url": "https://open.spotify.com/album/2zTaT0p43G9leRiIz0IhYD"
+      },
+      "artists": [
+        {
+          "name": "Nico Muhly",
+          "url": "https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc"
+        },
+        {
+          "name": "Angela Chun",
+          "url": "https://open.spotify.com/artist/0IaciBSS1GF5SuqWKzM5wA"
+        },
+        {
+          "name": "Jennifer Chun",
+          "url": "https://open.spotify.com/artist/72ZCIaI1TqwaGRbEvbGBih"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231972,
+      "name": "Four Studies: II. Fast Canons",
+      "url": "https://open.spotify.com/track/5apIEY7PAquPhzQHyVujzX"
     },
     {
       "album": {
@@ -578,6 +664,28 @@
       "duration_ms": 128946,
       "name": "Nana",
       "url": "https://open.spotify.com/track/4mWIxlwzsIbfBmbtfGfiGM"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes",
+        "url": "https://open.spotify.com/album/3zHkuOkUqIgRwCcVnbX9qf"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273666,
+      "name": "Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",
+      "url": "https://open.spotify.com/track/1VNvsvEsUpuUCbHpVop1vo"
     },
     {
       "album": {
@@ -1120,7 +1228,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 66320,
       "name": "The Egg",
       "url": "https://open.spotify.com/track/2jETs2wJ2A440YXuZ2JQTf"
@@ -1262,6 +1370,28 @@
       "duration_ms": 561800,
       "name": "The Wreckers: Overture",
       "url": "https://open.spotify.com/track/2ez1A77nceYg4sVaczyCak"
+    },
+    {
+      "album": {
+        "name": "LAGQ",
+        "url": "https://open.spotify.com/album/0I5t5uzRPaDKjYdj2dowcO"
+      },
+      "artists": [
+        {
+          "name": "Peter Maxwell Davies",
+          "url": "https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR"
+        },
+        {
+          "name": "Los Angeles Guitar Quartet",
+          "url": "https://open.spotify.com/artist/6HNEnXVjt13cvaZ9HN4tu5"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "The Yellow Cake Review, Farewell to Stromness (Excerpt)",
+      "url": "https://open.spotify.com/track/4rFxf3jRHH8YoOEh7opTli"
     },
     {
       "album": {

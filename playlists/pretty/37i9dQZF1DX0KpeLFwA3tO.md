@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Sorry Mom
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,133 likes - 113 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,232 likes - 113 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 72 | [Gonna Find You](https://open.spotify.com/track/1AYNGWNqiylVp5odrSodeu) | [The Raging Nathans](https://open.spotify.com/artist/427sLYgtKmUezNHjMZoDHG) | [Gonna Find You](https://open.spotify.com/album/3SUC9kp1xyhrH7UyG9P3lc) | 1:51 |
 | 73 | [I Peed in My Batman Costume](https://open.spotify.com/track/5FQXLTCpLnwWyXRHKekRt7) | [Maladroit](https://open.spotify.com/artist/27GbHG3sA2hfRdkIJMSA5T) | [Real Life Super Weirdos](https://open.spotify.com/album/5fTtma4fsZnrzlGH98KDZ3) | 3:01 |
 | 74 | [Ritalin Kid](https://open.spotify.com/track/343JXnMx3PyqQXE2SjcxGd) | [Hetta](https://open.spotify.com/artist/0RyfKQoHpko3ddSQyW2zFL) | [Ritalin Kid](https://open.spotify.com/album/50TVwaoBx8F5FOFVOxOBjV) | 1:41 |
-| 75 | [Good Good Things](https://open.spotify.com/track/1igqqJxCF40NUJsSPqKnBo) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Good Good Things](https://open.spotify.com/album/2kaF0AbiP6zYunMH3Gf7e2) | 2:10 |
+| 75 | [Good Good Things](https://open.spotify.com/track/5UTCChsNnTNbhBABFTffGT) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:10 |
 | 76 | [Fear Is All](https://open.spotify.com/track/2oR5iNhdFyWJyBtlRj2YOF) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [The Bad Kind Decides](https://open.spotify.com/album/0bZWtVd2LrhiwjTg8T8OAI) | 2:13 |
 | 77 | [Unravelling](https://open.spotify.com/track/4pNAOeJ2XSd0BSISL3O4NP) | [Shit Present](https://open.spotify.com/artist/29HZSUDm7U6n2QNMKQY73k) | [Unravelling](https://open.spotify.com/album/6Oowpky4mI1W9AFcJpEe4N) | 2:07 |
 | 78 | [My Name](https://open.spotify.com/track/6sEv0FEj5hSbWdpjnc5lq9) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [My Name](https://open.spotify.com/album/0ornXGMjQZUL0wV8aNq7ZO) | 3:05 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 112 | [Armageddon](https://open.spotify.com/track/0cphnlzamiAzqoX52U0UtB) | [Lil Misery](https://open.spotify.com/artist/5eZhEAEkHKmrPhambLphk9) | [Armageddon](https://open.spotify.com/album/5m839NgZKuERdFCsDB5Exi) | 2:41 |
 | 113 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 |
 
-Snapshot ID: `MCw3MzJmZjE5YTc5Njg1MzQyZThkNGQxNGViNDVjZWMyYjA5YzU3ODdi`
+Snapshot ID: `MCxjMzUyMmE2OTE3NDYzMzJlODYwNDkwODIwMDM1YTAzZTJiNzVhOTdj`

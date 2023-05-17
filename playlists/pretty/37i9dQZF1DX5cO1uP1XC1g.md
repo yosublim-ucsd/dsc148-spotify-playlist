@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > Listen to the biggest Arabic hits all in one place\. Cover: Muslim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,038 likes - 76 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,305 likes - 76 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 75 | [Kelna Mnenjar](https://open.spotify.com/track/0KGZNoR5kZ1aUw83pfunng) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kelna Mnenjar](https://open.spotify.com/album/3cPQv8RJQYIShkRDMhaO2R) | 3:10 |
 | 76 | [Zayaha Meen](https://open.spotify.com/track/26YGvlmMNFT41QtXWGR0Xi) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:24 |
 
-Snapshot ID: `MCwyODIzZTBiMTdhOWJiMmYyMmE4NGFmNGVjNzI1ODQ2ZGFhNDg1YzY4`
+Snapshot ID: `MCxlNTIwODZiOWNlNTNkMjk1ZmE2MDcwMjk1ZTg0MjAwODU0YzgzMmJi`

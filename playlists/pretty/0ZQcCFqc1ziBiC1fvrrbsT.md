@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,725 likes - 27 songs - 1 hr 53 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,728 likes - 27 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,6 +34,6 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 24 | [Ass Kickin'](https://open.spotify.com/track/5hq7feH89FieadyB13oo5p) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Ass Kickin'](https://open.spotify.com/album/7xDQYORtibCfUwIFLwtCJh) | 1:57 |
 | 25 | [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/3jgMjYCfIIYWpRVOlLGcgv) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Wasted](https://open.spotify.com/album/65pwAPMorzkvM3JkMe1hUV) | 4:54 |
 | 26 | [Run](https://open.spotify.com/track/7Jtf2RpwDW654tbp6bbIA3) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 3:59 |
-| 27 | [bog walker \(feat\. Sam Sawyer\)](https://open.spotify.com/track/2SDwaV88Fk0lFUbQ0hIzry) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Sam Sawyer](https://open.spotify.com/artist/2jmSEKANk6YNKMI3dctfFZ) | [Failure Will Follow](https://open.spotify.com/album/0X7mTrELw3LxqZ5h9mtPHa) | 17:00 |
+| 27 | [bog walker](https://open.spotify.com/track/2SDwaV88Fk0lFUbQ0hIzry) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [Failure Will Follow](https://open.spotify.com/album/0X7mTrELw3LxqZ5h9mtPHa) | 17:00 |
 
 Snapshot ID: `NTQwOSwzMzU1ZmIwOTgzOTQ4NzBmYzRmZDkzZTIzNDFjMmU1MzEwMTVhNGQy`

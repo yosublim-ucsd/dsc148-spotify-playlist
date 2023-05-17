@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Rebecca e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,496 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,535 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 18 | [Morango](https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Morango](https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG) | 2:12 |
 | 19 | [Não Mente pra Ela](https://open.spotify.com/track/0HQV32PeVc2tSDb5tEa5Pe) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:55 |
 | 20 | [Na Onda do Boldo](https://open.spotify.com/track/42BwDKygmTWy01npggoFhl) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Thammy](https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Na Onda do Boldo](https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4) | 3:06 |
-| 21 | [bem e longe de mim](https://open.spotify.com/track/2ZShJQxim4BUyKBdgUfqtF) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bem e longe de mim](https://open.spotify.com/album/4DYs2AReu32M8R6fGS0xh1) | 2:28 |
-| 22 | [Escolhe](https://open.spotify.com/track/23XhqZ7lPY9eaBkVA2MMYA) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Sinto Muito](https://open.spotify.com/album/2KL9wBrkZmBeElWCKBuAiV) | 2:16 |
+| 21 | [Escolhe](https://open.spotify.com/track/23XhqZ7lPY9eaBkVA2MMYA) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Sinto Muito](https://open.spotify.com/album/2KL9wBrkZmBeElWCKBuAiV) | 2:16 |
+| 22 | [bem e longe de mim](https://open.spotify.com/track/2ZShJQxim4BUyKBdgUfqtF) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bem e longe de mim](https://open.spotify.com/album/4DYs2AReu32M8R6fGS0xh1) | 2:28 |
 | 23 | [Surra Bem Dada](https://open.spotify.com/track/0fUi6dhvWsyI6WnicUV5ZG) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Surra Bem Dada](https://open.spotify.com/album/0Ne744Xpq5Hb5q4E3cNzFM) | 2:44 |
 | 24 | [Prova Que Me Ama](https://open.spotify.com/track/3l3JrpFRbktNO3KDFt52ZU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Prova Que Me Ama](https://open.spotify.com/album/4u4wR3AbXmdOH9Un7qbQfn) | 2:02 |
 | 25 | [Na Sua](https://open.spotify.com/track/5Wwap1q83am8aMJMo4mjDs) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Na Sua](https://open.spotify.com/album/4rUcoz67PBYnscDJFS0hi8) | 3:05 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 28 | [Tropa das Malvadinhas](https://open.spotify.com/track/6WRoWBweP92LSMGoa6NfUs) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Tropa das Malvadinhas](https://open.spotify.com/album/2KZ6lFznkf87HOnY8tdm7Q) | 2:25 |
 | 29 | [Tira Uma Foto](https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Tira Uma Foto](https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1) | 2:09 |
 | 30 | [Número 1](https://open.spotify.com/track/21ryDPWXMGssYvm83xNxqU) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Número 1](https://open.spotify.com/album/3o3srTRwjyfqT3gHGQbil3) | 2:03 |
-| 31 | [Dose Dupla](https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Dose Dupla](https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N) | 3:14 |
+| 31 | [Dose Dupla](https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Dose Dupla](https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N) | 3:14 |
 | 32 | [Mapa de Estrelas](https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Mapa de Estrelas](https://open.spotify.com/album/3mzMJkaC9OoaEeuE5YAxxS) | 3:11 |
 | 33 | [Chama Minha Gang](https://open.spotify.com/track/10mRFMbGEgwPujMEPO34Qy) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Chama Minha Gang](https://open.spotify.com/album/3Qj558INpkcP5uTSwdCE59) | 2:39 |
 | 34 | [Amnésia](https://open.spotify.com/track/39H1UJgLOngNVymsZF2pYz) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Amnésia](https://open.spotify.com/album/5TOVvjC1jH0CHNMrfPYIny) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Me Invade](https://open.spotify.com/track/3dIYWCCCKzG4Y0cYlGf4Uu) | [CASTELLUCCI](https://open.spotify.com/artist/6jsaXaKTHeccFuk0NCHPfg) | [Lembranças](https://open.spotify.com/album/6K6wkdN2UTgo8NmxBzquM9) | 2:46 |
 | 50 | [Pega Fogo](https://open.spotify.com/track/1XNQ090zOQ6viFKKZwzE2t) | [CASTELLUCCI](https://open.spotify.com/artist/6jsaXaKTHeccFuk0NCHPfg) | [Lembranças](https://open.spotify.com/album/6K6wkdN2UTgo8NmxBzquM9) | 3:24 |
 
-Snapshot ID: `MCxkZmE5YWJkZmVmZDZiM2UxNGZjODQ1YWY3NGRmYzA5NTU0MDYxYjEx`
+Snapshot ID: `MCxjYzdmMDU3YjdkMjNmZjc3Njg1ZTdkN2ZhYmQ2MWE4M2RkZjIxODJl`

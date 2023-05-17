@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Banda MS & Ice Cube",
-  "num_followers": 21870,
+  "num_followers": 21895,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDJiN2NmODcxZDk4ZWM0YjkzZGVlODZmMWIyY2QyMzZmNTU1YjFj",
+  "snapshot_id": "MCwwZmY4NzUwNjA0ZDYwNmJjOTkyOTdkNmE3N2Y3Y2I0NmUyODA2ODU4",
   "tracks": [
     {
       "added_at": "2023-05-05 08:33:29",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-05-05 08:33:29",
       "album": {
-        "name": "Kilos de Amor",
-        "url": "https://open.spotify.com/album/3fQBllTfCCkwBN1WupQfRp"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 236267,
-      "name": "Kilos de Amor",
-      "url": "https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD"
-    },
-    {
-      "added_at": "2023-05-05 08:33:29",
-      "album": {
         "name": "Est\u00e1 Da\u00f1ada (Remix)",
         "url": "https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 239840,
       "name": "Est\u00e1 Da\u00f1ada - Remix",
       "url": "https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb"
+    },
+    {
+      "added_at": "2023-05-05 08:33:29",
+      "album": {
+        "name": "Kilos de Amor",
+        "url": "https://open.spotify.com/album/3fQBllTfCCkwBN1WupQfRp"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 236267,
+      "name": "Kilos de Amor",
+      "url": "https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD"
     },
     {
       "added_at": "2023-05-05 08:33:29",

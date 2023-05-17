@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with Nigerian gospel music.  Cover: Mercy Chinwo",
-  "num_followers": 2918,
+  "num_followers": 2999,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTMxMGU5MTljNDBlYmMzZDBmM2M1MTMzNjBhMWQzZWNiODQ2OWQw",
+  "snapshot_id": "MCxjNTUwZTMwMWNkNDI1ZThiYjViYjhjMzY2YWRiNDc5ZDg2M2QwMjQz",
   "tracks": [
     {
       "added_at": "2023-04-20 23:59:00",
@@ -547,22 +547,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Daddy Wey Dey Pamper (Special Version)",
-        "url": "https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2"
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Doris Joseph",
-          "url": "https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho"
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
         }
       ],
-      "duration_ms": 287739,
-      "name": "Daddy Wey Dey Pamper - Special Version",
-      "url": "https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL"
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -587,18 +583,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+        "name": "Daddy Wey Dey Pamper (Special Version)",
+        "url": "https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2"
       },
       "artists": [
         {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Doris Joseph",
+          "url": "https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho"
         }
       ],
-      "duration_ms": 369529,
-      "name": "Jesus at the Centre",
-      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
+      "duration_ms": 287739,
+      "name": "Daddy Wey Dey Pamper - Special Version",
+      "url": "https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Return Rev. 2:4",
+        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 531375,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "No One Like You",
         "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 317675,
       "name": "No One Like You",
       "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Return Rev. 2:4",
-        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 531375,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 230505,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Most High",
         "url": "https://open.spotify.com/album/4DmICvVxirmdQzjbuXEfzS"
       },
@@ -795,22 +779,6 @@
       "duration_ms": 317276,
       "name": "Unchangeable",
       "url": "https://open.spotify.com/track/2BQ9reSLLtXxcWuturEq6F"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Igwe",
-        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
-      },
-      "artists": [
-        {
-          "name": "Midnight Crew",
-          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
-        }
-      ],
-      "duration_ms": 312556,
-      "name": "Igwe",
-      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -835,18 +803,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "He Did It Again",
-        "url": "https://open.spotify.com/album/4VXAAa1nfnwGBFvMAZLUbZ"
+        "name": "Igwe",
+        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Midnight Crew",
+          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
         }
       ],
-      "duration_ms": 303174,
-      "name": "He Did It Again",
-      "url": "https://open.spotify.com/track/3DnfU6JmmoKV4YK9gzCrk6"
+      "duration_ms": 312556,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -867,6 +835,38 @@
       "duration_ms": 323400,
       "name": "Baba Oh",
       "url": "https://open.spotify.com/track/7kOezDLrt87YbPZfgv7qub"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "He Did It Again",
+        "url": "https://open.spotify.com/album/4VXAAa1nfnwGBFvMAZLUbZ"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 303174,
+      "name": "He Did It Again",
+      "url": "https://open.spotify.com/track/3DnfU6JmmoKV4YK9gzCrk6"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 230505,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
     },
     {
       "added_at": "2023-04-20 23:59:00",

@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Easy To Praise",
+        "url": "https://open.spotify.com/album/1wk7GREA9OrScHj3wEB2i8"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208143,
+      "name": "Easy To Praise",
+      "url": "https://open.spotify.com/track/6Sc4wQtKhcWdTLNjqlVgur"
+    },
+    {
+      "album": {
         "name": "Eden (Isn't It Just Like You?)",
         "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
       },
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 164040,
       "name": "I Still Pray",
       "url": "https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR"

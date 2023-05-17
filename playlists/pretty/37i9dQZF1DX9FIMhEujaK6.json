@@ -1,12 +1,12 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 337296,
+  "num_followers": 337409,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTMzNGYzZWEwMmQ0N2Y1NDU2NDhhZTM3MjFhZThkOWM1NmEwY2I4",
+  "snapshot_id": "MCxhZjRlM2ZlZTM4NTdhNTc0YmEwM2Y2NWQzNDk4YWVkOTQxMjAzOGE0",
   "tracks": [
     {
       "added_at": "2022-07-20 07:59:35",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-07-20 07:59:35",
       "album": {
-        "name": "Nothing Changes Under The Sun",
-        "url": "https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK"
-      },
-      "artists": [
-        {
-          "name": "Blue States",
-          "url": "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Your Girl",
-      "url": "https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu"
-    },
-    {
-      "added_at": "2022-07-20 07:59:35",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 231039,
       "name": "Obvs",
       "url": "https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o"
+    },
+    {
+      "added_at": "2022-07-20 07:59:35",
+      "album": {
+        "name": "Nothing Changes Under The Sun",
+        "url": "https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK"
+      },
+      "artists": [
+        {
+          "name": "Blue States",
+          "url": "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
+        }
+      ],
+      "duration_ms": 304333,
+      "name": "Your Girl",
+      "url": "https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu"
     }
   ],
   "unique_name": "Ibiza Sunset",

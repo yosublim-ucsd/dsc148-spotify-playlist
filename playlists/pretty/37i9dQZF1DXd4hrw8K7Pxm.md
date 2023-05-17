@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,264 likes - 54 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,273 likes - 54 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 37 | [Scars To Your Beautiful](https://open.spotify.com/track/4JPM6TuFJgccpoKLKmleDD) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Scars To Your Beautiful](https://open.spotify.com/album/7wMuoQxclWrghUMcDyzMhJ) | 4:17 |
 | 38 | [Love Me Like You Do](https://open.spotify.com/track/4oRaemfDggCMYgva45EThN) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm) | [Piano Acoustic Covers Vol 1](https://open.spotify.com/album/6PhMR9fnGEdkBwM2tZ5yF6) | 3:11 |
 | 39 | [Cherry Wine](https://open.spotify.com/track/6oK27xUYzHIfWWh23AXP6J) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Cherry Wine](https://open.spotify.com/album/6imYiXp740TloANkvozGA5) | 3:47 |
-| 40 | [Like I'm Gonna Lose You](https://open.spotify.com/track/4ioYjahy2a3ZJSclomwyz9) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Chris Collins](https://open.spotify.com/artist/1FHygtukKTWaZEEWu0fi2y), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Kurt & Company Vol 5](https://open.spotify.com/album/2QOCDi7gtEoyDNWe1tPKYc) | 2:56 |
+| 40 | [Like I'm Gonna Lose You](https://open.spotify.com/track/4ioYjahy2a3ZJSclomwyz9) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Chris Collins](https://open.spotify.com/artist/3sRps0HNtgZXuD7mSU5PuA), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Kurt & Company Vol 5](https://open.spotify.com/album/2QOCDi7gtEoyDNWe1tPKYc) | 2:56 |
 | 41 | [Use Somebody](https://open.spotify.com/track/4LBhBtcGb6aOn2pbgOdyN5) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [The Living Room Sessions Vol\. 1](https://open.spotify.com/album/1eF6bx49eA7EsTvdZZ4KNj) | 3:24 |
 | 42 | [Counting Stars](https://open.spotify.com/track/6O33j9aabTuZcD1U40LdtM) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/3tCHNcehvK6wsvuvFAkpgH) | 2:56 |
 | 43 | [A Thousand Years](https://open.spotify.com/track/46ESgLX4lWUw2PGnt9nK7j) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 3:41 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 53 | [Let It Go](https://open.spotify.com/track/2bYvSAL6llWo0Sdunh2syC) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I), [Tanner Townsend](https://open.spotify.com/artist/1vgJ0JDHRTjDKpUpm3dQaE) | [Let It Go](https://open.spotify.com/album/5QnjKvKE0Ztxd7rnmcqI18) | 4:04 |
 | 54 | [True Colors](https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Changing Of The Seasons](https://open.spotify.com/album/3lDLnElZehSq7Vbs9T2hSR) | 2:20 |
 
-Snapshot ID: `MCxjYzlhNjY1NmI4OTQ4ZTgwZGQ3ZjE2MWE3NDEyNmM3NmQ2NjAxOTNk`
+Snapshot ID: `MCxjZWQ2OTFlODZhYzk4M2NlNzQwYjA4N2RiN2Y4MzViMzQ0MThlYzIz`

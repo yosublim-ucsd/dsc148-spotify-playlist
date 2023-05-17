@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3063\u3071\u308c!\u99ac\u9e7f\u9a12\u304e",
+        "url": "https://open.spotify.com/album/3pYdaRaH4pvd1JXIKMW21S"
+      },
+      "artists": [
+        {
+          "name": "i\u2606Ris",
+          "url": "https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226885,
+      "name": "\u3042\u3063\u3071\u308c!\u99ac\u9e7f\u9a12\u304e",
+      "url": "https://open.spotify.com/track/3gANQpw7QXUwsOq7YxlqZm"
+    },
+    {
+      "album": {
         "name": "one",
         "url": "https://open.spotify.com/album/4FobAj4g2Pr4RXJJQRexbp"
       },

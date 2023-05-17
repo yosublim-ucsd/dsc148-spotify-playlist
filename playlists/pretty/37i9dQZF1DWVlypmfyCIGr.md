@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: \*Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,052 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,132 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [題名のないストーリー](https://open.spotify.com/track/4cE3mqxniqe4Xk6lDEDtbd) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [題名のないストーリー](https://open.spotify.com/album/5IAy5zygQPuXuXA1OhyAKT) | 4:01 |
 | 80 | [SHIKI](https://open.spotify.com/track/1oL9Y3X7UUEIulnNRw25dv) | [Ryo Yoshinaga](https://open.spotify.com/artist/1q2tledGNGBATHvZ3zecQI) | [SHIKI](https://open.spotify.com/album/0nttHXWcJN7wBJeLkP7OhT) | 2:45 |
 
-Snapshot ID: `MCw3Yjg0ZDgzN2MxMjIzNGExMmEyYTc4ZDE1NTgyOWI4YjU5YjZiMGM1`
+Snapshot ID: `MCw5NzI3YzRmNGU2OTlmODdmYmEwN2MzMWNkMGRmOWVkMTIwYmIzMjI5`

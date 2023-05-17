@@ -78,7 +78,7 @@
 | [White Rock Beer...8 Cents](https://open.spotify.com/track/0qnwn0g8mOSlKXsgkzPaYe) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [White Rock Beer...8 Cents](https://open.spotify.com/album/4AvOMAxfcrJwUYnjvdNjAu) | 5:53 | 2021-05-14 | 2022-07-29 |
 | [White Rock Beer...8 cents](https://open.spotify.com/track/1dA1yyrPmoqKfqXxMX2brl) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Pure](https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB) | 5:53 | 2021-05-14 | 2022-11-11 |
 | [Word](https://open.spotify.com/track/627ZKn3BoKHQ7BleTgt3UY) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Vivid Gristle](https://open.spotify.com/album/39wqaKRbnuVTOqlZRi9On0) | 3:57 | 2021-09-10 | 2022-07-26 |
+| [You're Everything](https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 6:05 | 2020-10-21 |  |
 | [You're Everything](https://open.spotify.com/track/5gnJNseKb5HxcCGCJ8HGZh) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/2VwCtiaK9kUlVrOzfvxNCo) | 6:05 | 2020-10-21 | 2022-07-29 |
-| [You're Everything](https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 6:05 | 2020-10-21 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 5739,
+  "num_followers": 5746,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzZmMzE0OTdhMzRhMDdiYTY5YjE1YTExOWQ3YzIyZGQ2ZjJkODdj",
+  "snapshot_id": "MCxmZjEyN2M0NDE1NjNlMTlhZjJiNDE2NDM1MmIwYjY5ZmE0YzUwZDU3",
   "tracks": [
     {
       "added_at": "2023-04-28 05:08:36",
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-04-28 05:08:36",
       "album": {
-        "name": "S\u00ed",
-        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 158428,
-      "name": "S\u00ed",
-      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
-    },
-    {
-      "added_at": "2023-04-28 05:08:36",
-      "album": {
         "name": "Juguito de Ma\u00f1ana",
         "url": "https://open.spotify.com/album/6yaOzsyu8grB2xp9m6lkeW"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 222857,
       "name": "Juguito de Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1f6Eb2c12zolucM1UuvZal"
+    },
+    {
+      "added_at": "2023-04-28 05:08:36",
+      "album": {
+        "name": "S\u00ed",
+        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 158428,
+      "name": "S\u00ed",
+      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
     },
     {
       "added_at": "2023-04-28 05:08:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-28 05:08:36",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 221346,
-      "name": "Se Acab\u00f3",
-      "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
-    },
-    {
-      "added_at": "2023-04-28 05:08:36",
-      "album": {
         "name": "Camino al Mar",
         "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 215280,
       "name": "Soy la Fuerza",
       "url": "https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf"
+    },
+    {
+      "added_at": "2023-04-28 05:08:36",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 221346,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
     },
     {
       "added_at": "2023-04-28 05:08:36",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-04-28 05:08:36",
       "album": {
+        "name": "Calz\u00f3n",
+        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 231828,
+      "name": "Calz\u00f3n",
+      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
+    },
+    {
+      "added_at": "2023-04-28 05:08:36",
+      "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 195317,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh"
-    },
-    {
-      "added_at": "2023-04-28 05:08:36",
-      "album": {
-        "name": "Calz\u00f3n",
-        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 231828,
-      "name": "Calz\u00f3n",
-      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
     },
     {
       "added_at": "2023-04-28 05:08:36",

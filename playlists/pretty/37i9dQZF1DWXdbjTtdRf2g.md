@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdbjTtdRf2g.md) - [plain]
 
 > Listen to the official playlist for the hit series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,689 likes - 41 songs - 46 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,695 likes - 41 songs - 46 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdbjTtdRf2g.md) - [plain]
 | 40 | [Goodbye \(From The Netflix Series: “Ridley Jones”\) \(feat\. Jane Lynch\)](https://open.spotify.com/track/3uAR3yzIjhfTUPR7BVxYBZ) | [Ridley Jones Cast](https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR), [Jane Lynch](https://open.spotify.com/artist/0bV8w3RENfmk0OrSz3V9JP) | [Ridley Jones \(Music From The Netflix Series\)](https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn) | 1:15 |
 | 41 | [Museum Lullaby \(From The Netflix Series: “Ridley Jones”\) \(feat\. Sutton Foster, Ridley Jones Cast\)](https://open.spotify.com/track/36SXDCFiIXFY8lT7IkWQcU) | [Ridley Jones Cast](https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR), [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G) | [Ridley Jones \(Music From The Netflix Series\)](https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn) | 1:07 |
 
-Snapshot ID: `MCwzNTA4MzM0YjdjN2YyNzRhNWNhMGRkMjY5Nzc1ZGI5NWExNzFiMWE5`
+Snapshot ID: `MCwwMWNhYmQ0ZTBhOWNlNzM0ZGIyNzg5ZjZlMDhmMjdkNWQ4ZWFmY2I3`

@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-177 songs - 11 hr 26 min
+178 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Monster Lead Me Home](https://open.spotify.com/track/0WSv8FOuqHmi659cunJGIn) | [Sara Hartman](https://open.spotify.com/artist/1Vx5fzRUd7A1j40B8E3Yqo) | [Satellite](https://open.spotify.com/album/0owIBHgG8RbVZ7o3px3n2K) | 3:57 | 2021-06-15 |  |
 | [Monster Lead Me Home](https://open.spotify.com/track/5LAnohaWXSFTIFZt8XB4yv) | [Sara Hartman](https://open.spotify.com/artist/1Vx5fzRUd7A1j40B8E3Yqo) | [Monster Lead Me Home](https://open.spotify.com/album/3riygse0VgPUp9tdIWLMyW) | 3:57 | 2021-06-15 | 2022-07-29 |
 | [Mouth to Mouth](https://open.spotify.com/track/5KxKFdP10B76t6R2JGiLuG) | [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Mouth to Mouth](https://open.spotify.com/album/6M6ZXKXa6cbrdLJkgJudTY) | 3:29 | 2021-06-15 |  |
-| [Mustn't Hurry](https://open.spotify.com/track/26sRCxeINy71HF6Jxvwk9o) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge](https://open.spotify.com/album/3UHMhYzYnfTBEuDxb1JmxC) | 4:17 | 2021-06-15 |  |
+| [Mustn't Hurry](https://open.spotify.com/track/3WqR3BQbLDWF8LFUQgJhBu) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge](https://open.spotify.com/album/1TDbVi49DAQfYl0QEmeKpQ) | 4:17 | 2021-06-15 |  |
+| [Mustn't Hurry](https://open.spotify.com/track/26sRCxeINy71HF6Jxvwk9o) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge](https://open.spotify.com/album/3UHMhYzYnfTBEuDxb1JmxC) | 4:17 | 2021-06-15 | 2023-05-17 |
 | [Mustn't Hurry](https://open.spotify.com/track/3uykbW7mjdI2JJnOGZIeap) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge](https://open.spotify.com/album/515apt4YXIptGsf7OVYFeg) | 4:17 | 2021-06-15 | 2022-07-29 |
 | [Nameless, Faceless](https://open.spotify.com/track/2AUzpScdGwIZplM9y8nkbx) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Nameless, Faceless](https://open.spotify.com/album/6Zq2H87KhAd6WGfeSxKHAG) | 3:14 | 2021-06-15 |  |
 | [New Boo](https://open.spotify.com/track/5pGaDqV1iUoCTdPsA3FrSB) | [Kwamie Liv](https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg) | [Lovers That Come and Go](https://open.spotify.com/album/4HSgMY5BdDjo2q3LgMpvYE) | 3:26 | 2021-06-15 | 2022-10-13 |

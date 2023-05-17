@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNjkyNTIsMDAwMDAwMDBlMTk0MGIzNWYzZWZhYWQ3YmFkY2U4ZjQ4MGU2M2QzNw==",
+  "snapshot_id": "MjgwNzA2MjksMDAwMDAwMDA2MDk0NGVjZWI5NmY0YTNlMjY1N2VmNGY4ZjFkMjJlNA==",
   "tracks": [
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Never Say Never",
         "url": "https://open.spotify.com/album/05RILyqqydSjfCP9LK54yX"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1lamYQInWLWWadZ0WJr77I"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Breakout",
         "url": "https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Oh Babe",
         "url": "https://open.spotify.com/album/5JfeF8AIoBKK3zdV8ihUTx"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2PLMPEaM0SaBjIgIb8ntxD"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ"
@@ -109,23 +109,7 @@
       "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
-      "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O"
-    },
-    {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Club 95",
         "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
@@ -141,7 +125,23 @@
       "url": "https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O"
+    },
+    {
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Shutdown",
         "url": "https://open.spotify.com/album/4ZQoniqkWM5cCB1ZuXteb0"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/4eUuY3G6yQwMqZtVQlbEsW"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "I Want",
         "url": "https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/3ZLBV0Pq2nEEN1XvCr6BGB"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/6QZBEp2SpZA8Ws7BoDmK1Y"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1sDfCWZzggw6l015h5agWf"
@@ -209,23 +209,7 @@
       "url": "https://open.spotify.com/track/51Ovzmx3WMnHZqMdNq7xrv"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
-      "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 189697,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
-    },
-    {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "My Mind / Let Me",
         "url": "https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294"
@@ -241,7 +225,7 @@
       "url": "https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Club 95",
         "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
@@ -257,7 +241,39 @@
       "url": "https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 189697,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
+    },
+    {
+      "added_at": "2023-05-16 11:49:22",
+      "album": {
+        "name": "Money Zone",
+        "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 171502,
+      "name": "Money Zone",
+      "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
+    },
+    {
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Furious!",
         "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
@@ -277,23 +293,7 @@
       "url": "https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
-      "album": {
-        "name": "Money Zone",
-        "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 171502,
-      "name": "Money Zone",
-      "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
-    },
-    {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Back Again",
         "url": "https://open.spotify.com/album/1TIw2arqA2nlo3xeBe3cSj"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/5AjHfQmvYqKs3I4Qc0aFXo"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/5now3yDgsj3mt2p27bUfXU"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/3oxviUT5U8KqDcC91Ve5bz"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "In My Bag",
         "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
@@ -369,23 +369,7 @@
       "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
-      "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 216683,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
-    },
-    {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Don't Sweat It",
         "url": "https://open.spotify.com/album/3u7jL6KxRZ2OhGcyjXesFF"
@@ -405,7 +389,23 @@
       "url": "https://open.spotify.com/track/46ejVpRBMemcDh4RMHrQzR"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 216683,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
+    },
+    {
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/52pFLc5i0hPOWmGmsz6NKV"
@@ -421,23 +421,7 @@
       "url": "https://open.spotify.com/track/7pc4HTXf4y2WSVWXhJ0NQw"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
-      "album": {
-        "name": "The Streets",
-        "url": "https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 158427,
-      "name": "The Streets",
-      "url": "https://open.spotify.com/track/77P9MI3yqXZqVXyjlCAEKV"
-    },
-    {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Ride or Die",
         "url": "https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO"
@@ -453,7 +437,7 @@
       "url": "https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Shake the Bass 4",
         "url": "https://open.spotify.com/album/1dc8hYIvtlLN7V8RRfBERd"
@@ -469,7 +453,23 @@
       "url": "https://open.spotify.com/track/0606StM2HkTudakYuVy2rd"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
+      "album": {
+        "name": "The Streets",
+        "url": "https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 158427,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/77P9MI3yqXZqVXyjlCAEKV"
+    },
+    {
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Hustler",
         "url": "https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle"
@@ -485,23 +485,7 @@
       "url": "https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
-      "album": {
-        "name": "The Streets",
-        "url": "https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 181383,
-      "name": "Amped",
-      "url": "https://open.spotify.com/track/5b3FKpYuq2RbHCBf4Fz5H1"
-    },
-    {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv"
@@ -517,7 +501,7 @@
       "url": "https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "DNA (Radio Edit)",
         "url": "https://open.spotify.com/album/2q7zsnZP4sFCA9BMrhCkHU"
@@ -533,7 +517,23 @@
       "url": "https://open.spotify.com/track/5Hl5WE271CXsku5wtSxxh1"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
+      "album": {
+        "name": "The Streets",
+        "url": "https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 181383,
+      "name": "Amped",
+      "url": "https://open.spotify.com/track/5b3FKpYuq2RbHCBf4Fz5H1"
+    },
+    {
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Raise It Up",
         "url": "https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV"
     },
     {
-      "added_at": "2023-05-15 12:52:31",
+      "added_at": "2023-05-16 11:49:22",
       "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv"

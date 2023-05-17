@@ -4442,7 +4442,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 127426,
       "name": "Poulenc: \u611b\u306e\u5c0f\u5f84",
       "url": "https://open.spotify.com/track/72nhak9DZ2egStp68ji0x7"
@@ -6701,6 +6701,28 @@
     },
     {
       "album": {
+        "name": "Full of Love~\u611b\u3068\u5149\u306b\u5305\u307e\u308c\u3066\u301c",
+        "url": "https://open.spotify.com/album/10ZN5ZNea5ThZdOyiqX7t7"
+      },
+      "artists": [
+        {
+          "name": "E.\u30b5\u30c6\u30a3",
+          "url": "https://open.spotify.com/artist/7MO19zTKkzsSwb0SLa8cxj"
+        },
+        {
+          "name": "\u6b66\u672c\u4eac\u5b50",
+          "url": "https://open.spotify.com/artist/2Q3iL2IV5ndSSof6FLdP5l"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206453,
+      "name": "\u30b0\u30ce\u30b7\u30a8\u30f3\u30cc \u7b2c1\u756a",
+      "url": "https://open.spotify.com/track/4T34d1GrClJBKvSFSDiULv"
+    },
+    {
+      "album": {
         "name": "\u30e2\u30fc\u30c4\u30a1\u30eb\u30c8:\u30d2\u309a\u30a2\u30ce\u30fb\u30bd\u30ca\u30bf\u5168\u96c6",
         "url": "https://open.spotify.com/album/4r9qv03kgEh1KT0FEBDhyL"
       },
@@ -7371,6 +7393,24 @@
     },
     {
       "album": {
+        "name": "\u591c\u660e\u3051",
+        "url": "https://open.spotify.com/album/2UdwONOsqIYdxhhHBsFX2w"
+      },
+      "artists": [
+        {
+          "name": "Haruna",
+          "url": "https://open.spotify.com/artist/1ovNHIntzPk4hzzKQtrOof"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264006,
+      "name": "\u591c\u660e\u3051",
+      "url": "https://open.spotify.com/track/4jbPItzP0AV4r6Hd81CW8H"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30e5\u30fc\u30de\u30f3:\u5b50\u4f9b\u306e\u305f\u3081\u306e\u30a2\u30eb\u30d0\u30e0 \u4f5c\u54c168",
         "url": "https://open.spotify.com/album/0yQZwie71PZbGkbFQoVc9W"
       },
@@ -7594,7 +7634,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 143226,
       "name": "\u7f8e\u3057\u304d\u5915\u66ae\u308c(\u30c1\u30a7\u30ed\u3068\u30cf\u30fc\u30d7\u7de8)",
       "url": "https://open.spotify.com/track/6jNeHhrtL9lPcsQSNWU8so"

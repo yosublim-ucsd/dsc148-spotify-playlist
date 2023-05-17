@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 411836,
+  "num_followers": 412010,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2VkOWVhNGY5MDcyYjg4NzliODBlNDAzNzY3ZTYwNjQ0OTM5MTJk",
+  "snapshot_id": "MCw0MGU0NmE1YjlhNjkwODMxZGM2ZmQ3OGYzZjk5MTQ1NzFkNGJmODc3",
   "tracks": [
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "O Xote Das Meninas (Pontifexx Remix)",
-        "url": "https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT"
-      },
-      "artists": [
-        {
-          "name": "Pontifexx",
-          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
-        },
-        {
-          "name": "Luiz Gonzaga",
-          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
-        }
-      ],
-      "duration_ms": 189451,
-      "name": "O Xote Das Meninas - Pontifexx Remix",
-      "url": "https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
         "name": "Falling Like The Stars (Madism Remix)",
         "url": "https://open.spotify.com/album/5NWay7oRQhrtMiLNgEOBTz"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 181826,
       "name": "Falling Like The Stars - Madism Remix",
       "url": "https://open.spotify.com/track/0iHO8dmXhSYCgfow7ckt9W"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "O Xote Das Meninas (Pontifexx Remix)",
+        "url": "https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT"
+      },
+      "artists": [
+        {
+          "name": "Pontifexx",
+          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+        },
+        {
+          "name": "Luiz Gonzaga",
+          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
+        }
+      ],
+      "duration_ms": 189451,
+      "name": "O Xote Das Meninas - Pontifexx Remix",
+      "url": "https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx"
     },
     {
       "added_at": "2023-03-31 03:03:00",

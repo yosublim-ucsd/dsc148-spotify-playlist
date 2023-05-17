@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. New Candys e Bugo in cover!
 
-426 songs - 23 hr 37 min
+427 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Dimmi Dimmi](https://open.spotify.com/track/0wrRtaEGJpaiYUl7ovrHa4) | [Maida](https://open.spotify.com/artist/3JNcn1jYD34BVFrVvrZBHN) | [Dimmi Dimmi](https://open.spotify.com/album/22LJuu2gun0OObYToNHQRm) | 2:59 | 2023-01-12 | 2023-02-03 |
 | [DIO](https://open.spotify.com/track/5rvSgBzvXLuRHNI6fAXArv) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [DIO](https://open.spotify.com/album/6wWyqa9Ry4Jxne32G7KN9p) | 2:02 | 2022-10-13 | 2023-01-20 |
 | [Diverso/Uguale](https://open.spotify.com/track/0QnSjvX4FHMcmXRql6Jef5) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Diverso/Uguale](https://open.spotify.com/album/6zAvSlGmh5ppa8s9lupqjG) | 3:08 | 2022-05-09 | 2022-06-24 |
-| [DNA](https://open.spotify.com/track/5zBPYJyuIMuSpYVdYIkyV5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [DNA](https://open.spotify.com/album/1pH8NNZryuGdbX3Wq6vAsN) | 3:09 | 2023-04-13 |  |
+| [DNA](https://open.spotify.com/track/5zBPYJyuIMuSpYVdYIkyV5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [DNA](https://open.spotify.com/album/1pH8NNZryuGdbX3Wq6vAsN) | 3:09 | 2023-04-13 | 2023-05-17 |
 | [Documentari](https://open.spotify.com/track/19b8lNcPaC9srKUjKc7Cbp) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Giuramenti](https://open.spotify.com/album/6IKfDFFZZNzNf0m5AiFRKe) | 3:16 | 2022-05-09 | 2022-12-02 |
 | [Dolphins Touch](https://open.spotify.com/track/0wHE1ogEilT39UUbtlAmvV) | [Go Hawaii](https://open.spotify.com/artist/4dMyueIDZEOSvuCaXnqYli) | [Trespass](https://open.spotify.com/album/74PcwnV8Ytl63PVfvYVMsE) | 5:36 | 2022-05-12 | 2022-08-19 |
 | [Dove sei?](https://open.spotify.com/track/2xrkFsPXjRicYa0NIBvqhW) | [TENUE](https://open.spotify.com/artist/7y8xVGZZK39g9eaPsjLJhk) | [Eccezione](https://open.spotify.com/album/4kf74n3kxNc4nwlkf3W2t6) | 3:20 | 2022-05-09 | 2022-07-01 |
@@ -247,6 +247,7 @@
 | [Minotauro](https://open.spotify.com/track/0LBVX7wOR1PBThlKHpoyLW) | [Serpenti](https://open.spotify.com/artist/7uGoFZlVfI0evNWPpZS0ea) | [Minotauro](https://open.spotify.com/album/0aTMRpWfh5BswfjfwqLDIz) | 3:18 | 2023-04-06 | 2023-05-05 |
 | [Miyazaki](https://open.spotify.com/track/6dhTRz5aUxVNmHnh3r65qx) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [SHOEFITI 2](https://open.spotify.com/album/4OCF3ssNCqCPaA7MyhZ0qu) | 3:02 | 2023-03-09 | 2023-04-14 |
 | [MolossA](https://open.spotify.com/track/2BsGzAlf0G1t9tx5IFULDL) | [Nudha](https://open.spotify.com/artist/0qW2PRyNIbZBtm6enEWjqE) | [NUDHA](https://open.spotify.com/album/1aYL5JopqGBtFtfBNB2gDr) | 3:06 | 2022-05-09 | 2022-09-02 |
+| [MON AMI](https://open.spotify.com/track/4yxhOocJntcw9cnksH7Zve) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx) | [WadiruM](https://open.spotify.com/album/0qawFDai3sHHcNF8E6woJO) | 2:52 | 2023-05-16 |  |
 | [Mondiali FDC](https://open.spotify.com/track/4hg1my3vuEzQMd2lpYWnca) | [LOREN](https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h) | [Uniti](https://open.spotify.com/album/7Ex3UXYMS1RFcXdcYfd9CO) | 3:01 | 2022-12-08 | 2022-12-16 |
 | [Mondo](https://open.spotify.com/track/73WScEsNUM9ayo0ahYJDPO) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Mondo Rosso](https://open.spotify.com/album/2bXLMo4qdbJpgLt3IZ283I) | 3:04 | 2023-03-31 | 2023-05-04 |
 | [Mondo Cane](https://open.spotify.com/track/7a8r6vINl5QByT6ktCadYK) | [Methos](https://open.spotify.com/artist/6EgN0y0qGF6ifXnc35B33h) | [Mondo Cane](https://open.spotify.com/album/4eTP3mLT8xxizGeaahzXJ8) | 2:14 | 2023-04-06 | 2023-05-12 |

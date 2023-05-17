@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-361 songs - 1 day 2 hr 47 min
+362 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Cure Or Remedy](https://open.spotify.com/track/3iGHGIAwH96Ri9NuBGkdeV) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Cure Or Remedy](https://open.spotify.com/album/6tYzkCNXube21QjX8dwzZT) | 3:31 | 2021-05-07 | 2022-07-19 |
 | [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 | 2022-09-30 | 2023-02-18 |
 | [Dark Matter](https://open.spotify.com/track/4qsfGLGlXsCgzlGgr3NMuT) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Dark Matter](https://open.spotify.com/album/3gy0GBkh2YXrOmD6jdgnNF) | 5:23 | 2022-02-18 | 2022-07-23 |
+| [Deep Space](https://open.spotify.com/track/3XisBBYpK8TmL8ogBPCA8c) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Deep Space](https://open.spotify.com/album/4LBZQ53rwA424Ej7YFQc9F) | 3:01 | 2023-05-05 |  |
 | [Delta](https://open.spotify.com/track/0WbXxAn99TZzB2kdLkh5hu) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Wake Your Mind Sessions 004 Exclusives](https://open.spotify.com/album/5ecWuN5lJXqZeqVU0UUVaW) | 4:05 | 2021-05-07 | 2022-04-16 |
 | [Disco Voyager](https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Disco Voyager](https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7) | 3:10 | 2023-02-17 |  |
 | [Disconnected](https://open.spotify.com/track/4mB7gWAkOB7LLWBM7XoL6Y) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Sealine](https://open.spotify.com/artist/1ymJtuSjInzP2KWww4GKTA) | [Disconnected](https://open.spotify.com/album/40kTQIRTrLffXGmtER1nWd) | 4:58 | 2022-04-08 | 2022-07-06 |
@@ -230,7 +231,7 @@
 | [Only Love \(LP Giobbi Remix\)](https://open.spotify.com/track/2cXbrpn30LnJyjO0BaO6rs) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Only Love \(LP Giobbi Remix\)](https://open.spotify.com/album/45T3b0b3GdAGrg0AKVCUFB) | 5:51 | 2021-11-05 | 2022-07-29 |
 | [Origin](https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Origin](https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1) | 7:40 | 2022-07-22 |  |
 | [Otherside \- Nils Hoffmann Remix](https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Otherside \(Nils Hoffmann Remix\)](https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th) | 3:38 | 2021-05-07 |  |
-| [Our Space \- Edit](https://open.spotify.com/track/41rjAEQbD85oUdFX9uPGqG) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Dino Lenny](https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L) | [Our Space](https://open.spotify.com/album/5LDTX7O86bPNIQrEfiSiON) | 5:09 | 2022-03-04 |  |
+| [Our Space \- Edit](https://open.spotify.com/track/41rjAEQbD85oUdFX9uPGqG) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Dino Lenny](https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L) | [Our Space](https://open.spotify.com/album/5LDTX7O86bPNIQrEfiSiON) | 5:09 | 2022-03-04 | 2023-05-17 |
 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 | 2022-08-26 |  |
 | [Out Of My Mind](https://open.spotify.com/track/3seZ0Y5gGrUzb2blg5L7Sd) | [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8) | [Out Of My Mind](https://open.spotify.com/album/5KCN7V6r76Cux45ozatVYW) | 3:00 | 2021-05-07 | 2022-07-19 |
 | [Out of My Mind](https://open.spotify.com/track/2hMto0hWs4hULLbySN6E9o) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Out of My Mind](https://open.spotify.com/album/0YNPKMJVUSf7zj353BakRn) | 2:57 | 2022-03-11 | 2022-07-25 |

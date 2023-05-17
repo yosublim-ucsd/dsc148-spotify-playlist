@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 196821,
       "name": "Mehtag Sana",
       "url": "https://open.spotify.com/track/53ZoGrHQevj1hq58PUS0tF"
@@ -1664,8 +1664,8 @@
           "url": "https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ"
         },
         {
-          "name": "Mallakh",
-          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
+          "name": "Maher El Mallakh",
+          "url": "https://open.spotify.com/artist/48RWA9yeD1Pt3C7M9SECpI"
         }
       ],
       "date_added": "2023-05-11",
@@ -1890,6 +1890,28 @@
       "duration_ms": 146823,
       "name": "Sunnet El Hayah (orange Ramadan 2020)",
       "url": "https://open.spotify.com/track/4Yhx7H7UOXbwsyXwm8ASm7"
+    },
+    {
+      "album": {
+        "name": "Taaraf",
+        "url": "https://open.spotify.com/album/4w44lokjXCl7yTb1ClRxl3"
+      },
+      "artists": [
+        {
+          "name": "Lama Shreif",
+          "url": "https://open.spotify.com/artist/3g6wVPkHomiONRHWn6v5YZ"
+        },
+        {
+          "name": "Yehia Alaa",
+          "url": "https://open.spotify.com/artist/3A7o3y5EcWChblXEPCBQmK"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178327,
+      "name": "Taaraf",
+      "url": "https://open.spotify.com/track/7BpjCnc8AWUZtU3daxbPhS"
     },
     {
       "album": {

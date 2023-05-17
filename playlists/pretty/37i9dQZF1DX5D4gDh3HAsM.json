@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 511733,
+  "num_followers": 511710,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTNmOTQ5ODIxZmRkMTUzNjJmYzhjYWRkMjViYWE3M2JlOWQyOTEz",
+  "snapshot_id": "MCw2NTFmYjA2YTIwZmM0M2Y5NjcxNjI5Zjc1ODNiNGFkM2E5NzEwY2M2",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/7lFGTWPpGaBMxX8vjHLmLT"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "A Very Swingin\u2019 Basie Christmas!",
         "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 158933,
       "name": "Here Comes Santa Claus",
       "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "An Oscar Peterson Christmas",
-        "url": "https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/7lFGTWPpGaBMxX8vjHLmLT"
     },
     {
       "added_at": "2021-11-12 15:48:58",

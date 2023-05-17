@@ -5289,6 +5289,32 @@
     },
     {
       "album": {
+        "name": "Go (Xtayalive 2) [Sped Up]",
+        "url": "https://open.spotify.com/album/0tVStgXnYDzp2LQUfXV2YT"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Sped Up Songs + Nightcore",
+          "url": "https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87932,
+      "name": "Go (Xtayalive 2) - Sped Up",
+      "url": "https://open.spotify.com/track/1HzI7iNZL9usXdUifbb6qx"
+    },
+    {
+      "album": {
         "name": "Go (Lower & Slower)",
         "url": "https://open.spotify.com/album/2pwYVy4ssFFHiRLxM0cOMM"
       },

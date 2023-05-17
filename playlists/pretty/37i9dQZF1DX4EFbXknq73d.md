@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,481 likes - 75 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,594 likes - 75 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 15 | [Eyes of the World \- 2013 Remaster](https://open.spotify.com/track/5pHVAQ5LD3RgDG5m11r2Jt) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood \(2013 Remaster\)](https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0) | 5:20 |
 | 16 | [Alone](https://open.spotify.com/track/05JpFEZhkJxHhuZOoD7uOx) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Blues Traveler](https://open.spotify.com/album/61HjwbPeZTesnKzkB2HPoN) | 7:33 |
 | 17 | [This Must Be the Place \(Naive Melody\)](https://open.spotify.com/track/6xleIePy9XfIOV8ksoKlKx) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Rhythm of the Road: Volume One, Incident in Atlanta \-11.17.00](https://open.spotify.com/album/33eRh00tERv1BscbFnuUtF) | 8:36 |
-| 18 | [Midnight In Harlem \(Swamp Raga intro with Little Martha\) \- Live](https://open.spotify.com/track/72UfjeC5R2SWpe9TTzwhKT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Everybody's Talkin'](https://open.spotify.com/album/2U7PtD3lqcSSVSZ4g875ki) | 10:23 |
+| 18 | [The Garden \(Pt\. III\)](https://open.spotify.com/track/2ihAtyKtG6dPNKeDdt2RlQ) | [Tea Leaf Green](https://open.spotify.com/artist/4n3xlLBs7G1x9tJDXFD4G4) | [Taught to Be Proud](https://open.spotify.com/album/4IMSzS9zvPw7jSHlKFlA1f) | 4:01 |
 | 19 | [Up All Night](https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Free Somehow](https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw) | 3:46 |
-| 20 | [The Garden \(Pt\. III\)](https://open.spotify.com/track/2ihAtyKtG6dPNKeDdt2RlQ) | [Tea Leaf Green](https://open.spotify.com/artist/4n3xlLBs7G1x9tJDXFD4G4) | [Taught to Be Proud](https://open.spotify.com/album/4IMSzS9zvPw7jSHlKFlA1f) | 4:01 |
+| 20 | [Midnight In Harlem \(Swamp Raga intro with Little Martha\) \- Live](https://open.spotify.com/track/72UfjeC5R2SWpe9TTzwhKT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Everybody's Talkin'](https://open.spotify.com/album/2U7PtD3lqcSSVSZ4g875ki) | 10:23 |
 | 21 | [Loner](https://open.spotify.com/track/7v3DiMXmwZvViit6quKMEN) | [Ekoostik Hookah](https://open.spotify.com/artist/7cFHCaii8AgdXSOXVf0lAo) | [Dubbabuddah](https://open.spotify.com/album/5R8kqCETupYVuIcyW6wnuq) | 6:39 |
 | 22 | [Nebraska](https://open.spotify.com/track/3g6Iv6AJddkj641ufya8h4) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [tin cans & car tires](https://open.spotify.com/album/2GGOZsFF9dwK5LJ2kIdkl7) | 3:49 |
 | 23 | [Brown Eyed Women \- Live in Denmark, 1972; 2001 Remaster](https://open.spotify.com/track/4RUQVUxaRMwDnsUwW80xz4) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 4:37 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 27 | [Cats Under The Stars](https://open.spotify.com/track/5s6gA3IQTbVqv8utc5jVcn) | [Jerry Garcia Band](https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM), [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN) | [Cats Under the Stars \(Expanded\)](https://open.spotify.com/album/4yMdFHGZTkXQsU4M55VjeZ) | 5:31 |
 | 28 | [Stash](https://open.spotify.com/track/0M7qIbIfd9IQy68DibTqQ9) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [A Picture of Nectar](https://open.spotify.com/album/7A1l4RxB2pUxv6kU6ynUSF) | 7:11 |
 | 29 | [Bubblehouse](https://open.spotify.com/track/2YtX5xh7y5FoQywRmsGCeK) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Shack\-man](https://open.spotify.com/album/7zGVnFiNNe6rvoPutZPCBe) | 4:31 |
-| 30 | [West L.A\. Fade Away](https://open.spotify.com/track/3er5f95wRt5vE2JSHqaAcb) | [Keller Williams](https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0) | [Funk](https://open.spotify.com/album/2qKwJ4uMaAjz7AUSe5cX3X) | 6:19 |
-| 31 | [Thorazine Shuffle](https://open.spotify.com/track/1nkMih9NE9Ha0hH9aTGYCI) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dose](https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6) | 6:47 |
+| 30 | [Thorazine Shuffle](https://open.spotify.com/track/1nkMih9NE9Ha0hH9aTGYCI) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dose](https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6) | 6:47 |
+| 31 | [West L.A\. Fade Away](https://open.spotify.com/track/3er5f95wRt5vE2JSHqaAcb) | [Keller Williams](https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0) | [Funk](https://open.spotify.com/album/2qKwJ4uMaAjz7AUSe5cX3X) | 6:19 |
 | 32 | [Greatest Story Ever Told](https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S) | [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC) | [Ace](https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT) | 3:43 |
 | 33 | [Tennessee Jed \- 2001 Remaster](https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 7:10 |
 | 34 | [Bouncing Around the Room \- Live Version \- Clifford Ball, 1994](https://open.spotify.com/track/639B1pi6YZJvLMA1DAzYTo) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [A Live One](https://open.spotify.com/album/4UTjy2dLYT8i8ItyboijlW) | 4:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 74 | [Tomorrow Might As Well Be Today \- Live](https://open.spotify.com/track/6QL1b46J3pHl4MfUUjludg) | [Chris Forsyth](https://open.spotify.com/artist/2WEGGlb0R1izEtTE5YTaTc), [Garcia Peoples](https://open.spotify.com/artist/4UDV6e9Xh5m3yQeGsrnWLP) | [Peoples Motel Band](https://open.spotify.com/album/3nMKWIIpLZs2Hzkz9yhF3d) | 4:00 |
 | 75 | [Ruby Waves \- Live, 4/20/19](https://open.spotify.com/track/3bNNZWjyWtN1MURGYMHOFd) | [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ), [Ghosts of the Forest](https://open.spotify.com/artist/6hyqfMtRP8jWaXrGrDLVFv) | [Ghosts of the Forest: Beneath a Sea of Stars \(Live\)](https://open.spotify.com/album/37n19PLHn5b0sVBEeUJZNJ) | 10:17 |
 
-Snapshot ID: `MCxmZmY2N2QxYmUzYTMzMmI0YjgxNTAwYTgzZmM0OGFiNWMyNWNiZTI0`
+Snapshot ID: `MCwxYWJlYmM1MmM2ZjkyY2NiZDM5NWFjZmFhNjVhODNhYTVlYjY2MDM5`

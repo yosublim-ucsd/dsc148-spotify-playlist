@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: SKALA\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,653 likes - 102 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,752 likes - 102 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 101 | [Perspective](https://open.spotify.com/track/0gYvfzV5JxUjxgx5ScBMLa) | [OverSky](https://open.spotify.com/artist/1nK3X77KxTOfWAW38pvBIL) | [Perspective](https://open.spotify.com/album/3WIkhRD1yNBBo4Hsk9mAc2) | 3:58 |
 | 102 | [Jealous](https://open.spotify.com/track/6LzvH9CzTOQ4zp8ZzL9Bk8) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [HARD07](https://open.spotify.com/album/5zmq5MhJah3GFpt4BpnuQ1) | 5:49 |
 
-Snapshot ID: `MCxmZTgwZTRmOTU3Y2NlNTEzNzJkMzdkZWRiYzI5ZTE5YTM3ZTI3OGJh`
+Snapshot ID: `MCxhMzFjZGEzMGMxZTcxM2VhZDk2ZjM5OTU5OTVhOTllZTNhMzRlOWYy`

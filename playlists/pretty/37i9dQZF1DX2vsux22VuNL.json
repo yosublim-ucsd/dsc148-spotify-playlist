@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: MC Cabelinho",
-  "num_followers": 271117,
+  "num_followers": 271471,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzMwMjc0Yjg4ZDJjMGJmMWY1YjEwNDRlODhiMTdmMTlmZDVlNmZh",
+  "snapshot_id": "MCw3MDViZWViYmYxZDA1ZjIzMGZkY2JkNTI1OWU1NWU5MmRlNTMyMWIz",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Qatar Freestyle (Papatracks #9)",
-        "url": "https://open.spotify.com/album/0lxY3vzM1UydsvM3uKj5hF"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Qatar Freestyle (Papatracks #9)",
-      "url": "https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Sussurros",
         "url": "https://open.spotify.com/album/0QKrzgGefbKTTGNiyXMsy2"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 191933,
       "name": "Sussurros",
       "url": "https://open.spotify.com/track/3h5WrbxaFRRRtLKvmlfvau"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Qatar Freestyle (Papatracks #9)",
+        "url": "https://open.spotify.com/album/0lxY3vzM1UydsvM3uKj5hF"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Qatar Freestyle (Papatracks #9)",
+      "url": "https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Maloqueiro Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/7Bxps6gouwgh9yoUuDx78K"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "ESTEVEZ",
-          "url": "https://open.spotify.com/artist/5yH9W1LzE41x3JLYZg3Bkb"
-        }
-      ],
-      "duration_ms": 152842,
-      "name": "Fui Eu",
-      "url": "https://open.spotify.com/track/0WNvVEICbJHAqNzGFCDbGy"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Luz da Lua",
         "url": "https://open.spotify.com/album/3P2Zg9ZZ2njZgWziGm614U"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 203520,
       "name": "Luz da Lua",
       "url": "https://open.spotify.com/track/71i1attKK5wZKNPUYOHRB0"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Maloqueiro Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/7Bxps6gouwgh9yoUuDx78K"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "ESTEVEZ",
+          "url": "https://open.spotify.com/artist/5yH9W1LzE41x3JLYZg3Bkb"
+        }
+      ],
+      "duration_ms": 152842,
+      "name": "Fui Eu",
+      "url": "https://open.spotify.com/track/0WNvVEICbJHAqNzGFCDbGy"
     },
     {
       "added_at": "2023-05-12 03:00:00",

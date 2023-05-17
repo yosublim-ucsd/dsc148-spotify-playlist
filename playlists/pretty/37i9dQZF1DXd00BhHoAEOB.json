@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 49453,
+  "num_followers": 49519,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmYwYmUzNWM3ZjE3OGQ0NTAyMGU1NTUyMDY0YjIxYThjY2M1N2Q0",
+  "snapshot_id": "MCwzNzNjY2M2MDllMDI4OTNkMTc4ZDc4YzcyMTIxZTE5M2Q1Y2IwYWEw",
   "tracks": [
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "El Primer Rayo de Sol - EP",
-        "url": "https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ"
-      },
-      "artists": [
-        {
-          "name": "Monocordio",
-          "url": "https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU"
-        }
-      ],
-      "duration_ms": 265720,
-      "name": "Siempre Te Busqu\u00e9",
-      "url": "https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Norma",
         "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 233346,
       "name": "Si Alguna Vez",
       "url": "https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "El Primer Rayo de Sol - EP",
+        "url": "https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ"
+      },
+      "artists": [
+        {
+          "name": "Monocordio",
+          "url": "https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU"
+        }
+      ],
+      "duration_ms": 265720,
+      "name": "Siempre Te Busqu\u00e9",
+      "url": "https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1113,7 +1113,7 @@
       "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
     },
     {
-      "added_at": "2023-05-16 00:57:56",
+      "added_at": "2023-05-17 00:57:02",
       "album": {
         "name": "La Casita De La Selva",
         "url": "https://open.spotify.com/album/4Xhraf36zfM780liskyM6d"
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
-        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Debut Y Despedida",
-      "url": "https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Aguerrida",
         "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 151953,
       "name": "Ni una Gota de Amor",
       "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
+        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Debut Y Despedida",
+      "url": "https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
-        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 197186,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/5fST6UaXX0HZb6vw2Wkuk5"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Vuelas Tan Lindo",
         "url": "https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
+        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
+        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 197186,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/5fST6UaXX0HZb6vw2Wkuk5"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
         "name": "Bolero Triste",
         "url": "https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Sauce",
-        "url": "https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 168549,
-      "name": "Sauce",
-      "url": "https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Habr\u00e1",
         "url": "https://open.spotify.com/album/0PYQK8hFeRgTgb0P4GAPZf"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 187945,
       "name": "Habr\u00e1",
       "url": "https://open.spotify.com/track/5Ne4Y841FWmpmPDGL60FXH"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "Sauce",
+        "url": "https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 168549,
+      "name": "Sauce",
+      "url": "https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8"
     },
     {
       "added_at": "2023-02-22 16:32:42",

@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-104 songs - 9 hr 55 min
+105 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Merchants \- Sofia Kourtesis Remix](https://open.spotify.com/track/520mMFaIht3gpQTDKFWV9q) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Merchants \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/33RTfD7VivJU7thDW1w9qj) | 4:40 | 2023-04-11 |  |
 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 | 2022-12-20 |  |
 | [Never Going Home \- Domenico Torti Remix](https://open.spotify.com/track/1tyYyBx8vCmejG0mOARIKL) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Domenico Torti](https://open.spotify.com/artist/1FeMiF3aRrgJz69y01jiwt) | [Never Going Home \(Domenico Torti Remix\)](https://open.spotify.com/album/2ukNeGLr9CC4WNFNPaUGuQ) | 4:13 | 2022-12-20 |  |
+| [Oasis](https://open.spotify.com/track/1q8Mv29O7xbvR7Spdn5gM2) | [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz) | [Oasis](https://open.spotify.com/album/6PC0oDvNSGnPzrpFL2viNI) | 10:22 | 2023-05-16 |  |
 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [El\-Jay](https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE) | 3:59 | 2022-12-20 |  |
 | [Oh Chuva](https://open.spotify.com/track/5P0NU0tX9NJ182ZRm8kxRz) | [Leo Leonski](https://open.spotify.com/artist/2Q4xYVGbSIQoC7rqSA6Huo) | [Oh Chuva](https://open.spotify.com/album/47pRLcTctT7DKGRpyef1lw) | 4:54 | 2023-02-10 |  |
 | [On the Rock \- Synapson Remix](https://open.spotify.com/track/57CAYbMGp1yJEvGcKcsTqh) | [Mozambo](https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi), [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR) | [On the Rock \(Synapson Remix\)](https://open.spotify.com/album/2JN96d7IymS6xiEVCckWj7) | 5:12 | 2022-12-20 |  |

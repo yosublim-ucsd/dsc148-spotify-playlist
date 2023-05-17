@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-297 songs - 18 hr 22 min
+298 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Desert Road](https://open.spotify.com/track/5fomExVZhfTmfwPQCBG5GQ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 3:38 | 2022-02-25 | 2022-08-27 |
 | [Digital Death](https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Onward & Upward](https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi) | 4:50 | 2022-02-25 | 2022-03-06 |
 | [Don't Lose Heart](https://open.spotify.com/track/5ixUmWYbX1AVgt3SAjAc9T) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Don't Lose Heart](https://open.spotify.com/album/1ZrDYpIj4mqKiL1ZYx8zP2) | 3:31 | 2022-07-08 |  |
+| [Easy To Praise](https://open.spotify.com/track/6Sc4wQtKhcWdTLNjqlVgur) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Easy To Praise](https://open.spotify.com/album/1wk7GREA9OrScHj3wEB2i8) | 3:28 | 2023-03-10 |  |
 | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN) | 4:35 | 2022-10-01 | 2023-03-11 |
 | [Empty](https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Empty](https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E) | 4:01 | 2022-04-22 | 2022-06-11 |
 | [Empty Room](https://open.spotify.com/track/2iHHq5ElX24TU3BezraGU2) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/4kYXvyGX55u96HFpkpCMI1) | 3:11 | 2023-03-10 | 2023-05-02 |
@@ -138,7 +139,7 @@
 | [I See Heaven On Earth](https://open.spotify.com/track/6Np39XMxggFHRDG8OUMEab) | [Jim Sonefeld](https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k) | [I See Heaven On Earth](https://open.spotify.com/album/3irmMXTzkzVkctuv2mMJZz) | 3:59 | 2022-05-28 | 2022-08-27 |
 | [I Speak Jesus](https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Speak Jesus](https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo) | 3:53 | 2022-10-01 |  |
 | [I Still Believe You're Good](https://open.spotify.com/track/0pTBMOKMRZKa3gLbco27n6) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Still Believe You're Good](https://open.spotify.com/album/0I2GHDEafTdtxAcqiGKrXX) | 3:38 | 2022-02-25 | 2022-03-21 |
-| [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 | 2023-03-10 |  |
+| [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 | 2023-03-10 | 2023-05-17 |
 | [I Will Carry You \- Radio Version](https://open.spotify.com/track/7d09yra9jPl1CaxUXHWh1b) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [I Will Carry You \(Radio Version\)](https://open.spotify.com/album/086Mrlmlf2kFVvGD2U7clN) | 3:18 | 2022-02-25 |  |
 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 | 2022-02-25 |  |
 | [I'll Find You](https://open.spotify.com/track/1H5DGRjO2KE3yueGhBfQjl) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [I'll Find You](https://open.spotify.com/album/4JVwDlKampudG0oZuJc4RK) | 3:39 | 2022-02-25 | 2022-04-23 |

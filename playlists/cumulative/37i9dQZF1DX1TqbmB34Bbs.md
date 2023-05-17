@@ -2,7 +2,7 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: QM\(쿠기\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: QM, Odee\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
 1,042 songs - 2 day 10 hr 12 min
 

@@ -4,7 +4,7 @@
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-166 songs - 10 hr 5 min
+167 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Horses in Heaven](https://open.spotify.com/track/5ymisOfkphZPfkPGd2l5Df) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Horses in Heaven](https://open.spotify.com/album/2oBVd4wvuvjmWmNVkG4l3Q) | 4:07 | 2022-03-18 | 2022-10-15 |
 | [How Lucky Am I](https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [How Lucky Am I](https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER) | 3:57 | 2021-09-03 |  |
 | [Hundred Dollar Bill](https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [Hundred Dollar Bill](https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn) | 3:43 | 2021-07-16 |  |
-| [I Didn't Think About Rain](https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [I Didn't Think About Rain](https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO) | 4:12 | 2021-10-08 |  |
+| [I Didn't Think About Rain](https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [I Didn't Think About Rain](https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO) | 4:12 | 2021-10-08 | 2023-05-17 |
 | [I Do Thing](https://open.spotify.com/track/148QIp7vouABjbYzZsbWRZ) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [I Do Thing](https://open.spotify.com/album/2pVn8P4uhpQb2RjmUBHUY3) | 2:56 | 2021-07-16 | 2022-03-19 |
 | [I Find a Reason](https://open.spotify.com/track/4IAupLMiDKB5zRplJfHA3R) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [I Find a Reason](https://open.spotify.com/album/5yWWYAO6oUH2oFJRVIslnN) | 3:24 | 2022-03-18 | 2023-02-11 |
 | [I Will](https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [I Will](https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn) | 3:28 | 2021-04-16 |  |
@@ -148,6 +148,7 @@
 | [Sunlight](https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG) | [Shotgun Rider](https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk) | [Sunlight](https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7) | 3:55 | 2021-04-16 |  |
 | [Texas Rain](https://open.spotify.com/track/1FeiPr6d63dl8kLxaw8Of5) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Texas Rain](https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa) | 3:38 | 2021-09-03 |  |
 | [The Letter That Johnny Walker Read \(feat\. Lee Ann Womack\)](https://open.spotify.com/track/05dkkp51ZkuPj98URZSG8l) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Half a Hundred Years](https://open.spotify.com/album/6SpBTmlOgevRZFjXT1kNWG) | 3:37 | 2022-03-18 | 2023-02-11 |
+| [The Truth](https://open.spotify.com/track/3cvaQWdVaipVYqat8mF6GB) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [The Truth](https://open.spotify.com/album/4IsdUibNLOGR1LymaBwf2I) | 3:32 | 2023-02-10 |  |
 | [The Truth](https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [The Truth](https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L) | 3:32 | 2021-07-16 | 2023-05-09 |
 | [The Way She Moved](https://open.spotify.com/track/4lHVEKYLFStOIqxlAHbUDU) | [Braydon Zink](https://open.spotify.com/artist/71HnAsSWgf87Mi2pT0EvOO) | [The Way She Moved](https://open.spotify.com/album/6Bo8CdyNYImWquDAFjZXCG) | 3:44 | 2022-03-18 | 2023-02-11 |
 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 | 2022-05-27 |  |

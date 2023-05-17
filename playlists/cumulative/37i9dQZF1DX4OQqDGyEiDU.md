@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。
 
-487 songs - 1 day 3 hr 59 min
+488 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [エリート](https://open.spotify.com/track/0QxUDD87uCY6G9hcWGVMMu) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [エリート](https://open.spotify.com/album/4EOxLSVoMcDeqiwUcoszwN) | 2:49 | 2022-06-09 | 2022-07-26 |
 | [エンヴィーベイビー](https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [エンヴィーベイビー](https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA) | 2:15 | 2022-06-09 | 2022-07-24 |
 | [オトモシマス \(feat\. 鏡音リン&鏡音レン\)](https://open.spotify.com/track/5xLlGLrsymJiK1tSiMfZ9Y) | [Wonderful★opportunity!](https://open.spotify.com/artist/114kd9ePvOgHBUp18vMF4B) | [ワン☆オポ!VOL.17](https://open.spotify.com/album/3EOBJ5Qf4Qgg4hBmJcipKC) | 3:46 | 2022-07-14 | 2022-07-20 |
-| [オルターエゴ](https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [オルターエゴ](https://open.spotify.com/album/0gZwTh7C2gc4kTCLDe7JvC) | 3:42 | 2022-06-09 |  |
+| [オルターエゴ](https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [オルターエゴ](https://open.spotify.com/album/0gZwTh7C2gc4kTCLDe7JvC) | 3:42 | 2022-06-09 | 2023-05-17 |
 | [オーダー、仰せのままに](https://open.spotify.com/track/1GTQREQXX8mpaJEVOTjbLy) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r) | [オーダー、仰せのままに](https://open.spotify.com/album/0RqLOe3uPr25RAnR7IVTnk) | 2:42 | 2022-06-09 | 2022-07-07 |
 | [オートファジー](https://open.spotify.com/track/2rrPk1XvA5fUCug1jVrJdc) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2) | [ヘイトフル](https://open.spotify.com/album/6AK0ZWjL1tdCfYM2p8mRJM) | 3:38 | 2022-06-09 | 2022-07-26 |
 | [オーバーサイズビート](https://open.spotify.com/track/2hyUhXLjz7oiEAQFz03yWs) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [オーバーサイズビート](https://open.spotify.com/album/5mKVMti9w07rx2ePlkPNyx) | 3:17 | 2022-06-09 | 2022-07-27 |
@@ -457,6 +457,7 @@
 | [猛独が襲う](https://open.spotify.com/track/1GscTZDRIVR7st9ntNH668) | [一二三](https://open.spotify.com/artist/5vItHKjQjXHkIpgt4MEchO) | [猛独が襲う](https://open.spotify.com/album/6CFOcvUYRnXqjogbRX9A1a) | 4:12 | 2022-06-28 | 2022-07-29 |
 | [猫猫的宇宙論](https://open.spotify.com/track/2hsATi9mUl4j6G5iVVAdrN) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [猫猫的宇宙論](https://open.spotify.com/album/1uufPNiunn3LXxeLigViIP) | 3:36 | 2022-06-09 | 2022-06-11 |
 | [珈琲メモリア](https://open.spotify.com/track/42HHocSogPnphZvWptRKRz) | [大江カルシー](https://open.spotify.com/artist/658uG2eg1MYI6RCG7UsGKo) | [珈琲メモリア](https://open.spotify.com/album/0LlIkhL2JWxakcF1ctmuGo) | 2:52 | 2022-06-14 | 2022-06-19 |
+| [甘噛みでおねがい](https://open.spotify.com/track/6kR2jpVbk0e7uBVjWkGuTC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/574wcOE5FGFbHlkEzgio8j) | 3:22 | 2023-05-16 |  |
 | [異世界クエスチョン \- 市瀬るぽ Remix](https://open.spotify.com/track/4BFBM9rjayfcwot7lDCt95) | [市瀬るぽ](https://open.spotify.com/artist/4JPnxsMo1F3QOkh9KGDWz1), [victream](https://open.spotify.com/artist/0RVrUXnfBslojFb2n8RQ53) | [異世界クエスチョン \(市瀬るぽ Remix\)](https://open.spotify.com/album/6uD56k2JjXreQgPGqcHgPh) | 3:53 | 2022-06-09 | 2022-06-11 |
 | [白い雪のプリンセスは](https://open.spotify.com/track/0WqE9VjtUmgohp92X7xiq9) | [Noboru](https://open.spotify.com/artist/2GKOMrDQ4GrdZjoQncM7w1) | [EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice](https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q) | 4:22 | 2022-06-14 | 2022-07-25 |
 | [百倍返し](https://open.spotify.com/track/2Y27T6eJuQgu32Hvr8Y4k9) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [百倍返し](https://open.spotify.com/album/0ivS9ZqIvLqJfJiUjj36m8) | 2:54 | 2022-07-24 | 2022-07-27 |

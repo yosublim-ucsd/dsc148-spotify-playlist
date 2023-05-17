@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Catana. \nDales play, dales power.",
-  "num_followers": 11934,
+  "num_followers": 11936,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODk0ODk5OTlkZTI4N2Y2ZjRhODk4NjcwYWZkOGQ3NDkyNzk5MTZk",
+  "snapshot_id": "MCwyMDExMjdkZWFmYWRjOGJhNjA3MDVmNzM0ZmVhNzlkNjBhM2QxOWM5",
   "tracks": [
     {
       "added_at": "2023-05-03 03:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
+        "name": "Back to Basics",
+        "url": "https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "duration_ms": 191857,
+      "name": "Siempre Nice",
+      "url": "https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
         "name": "No Le Bajes",
         "url": "https://open.spotify.com/album/2IJhnQ4zhnRG11pEbz3wFT"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 177272,
       "name": "No Le Bajes",
       "url": "https://open.spotify.com/track/4lfJ1o9QFUhqULepgZdlD8"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY"
-      },
-      "artists": [
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        }
-      ],
-      "duration_ms": 191857,
-      "name": "Siempre Nice",
-      "url": "https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO"
     },
     {
       "added_at": "2023-05-03 03:00:00",

@@ -4,7 +4,7 @@
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-508 songs - 1 day 10 hr 39 min
+509 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Cry to Me](https://open.spotify.com/track/1tYk5zABu6h8CMP1cSea56) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Solomon Burke's Greatest Hits](https://open.spotify.com/album/5wbo06FU4VwIgA0CdfJXI4) | 2:34 | 2019-03-11 |  |
 | [Dance Hall Days \(Re\-Recorded\)](https://open.spotify.com/track/41OIyMJsSFMjdjZjL4tHEx) | [Wang Chung](https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm) | [Best Of](https://open.spotify.com/album/1DzIw8WIJpOlUI5HhuezwO) | 3:58 | 2019-03-11 |  |
 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 | 2022-03-03 |  |
-| [Dance With Somebody \- Radio Version](https://open.spotify.com/track/1a7T0Ethftlcle1yIZU27G) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Dance With Somebody \(Radio Version\)](https://open.spotify.com/album/0j7lhv3Tjo6iF1oQmhYFo9) | 4:01 | 2019-03-11 |  |
+| [Dance with Somebody \- Radio Version](https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Dance with Somebody](https://open.spotify.com/album/0hBqYpJwRfDl1maghOp2zM) | 4:01 | 2019-03-11 |  |
+| [Dance With Somebody \- Radio Version](https://open.spotify.com/track/1a7T0Ethftlcle1yIZU27G) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Dance With Somebody \(Radio Version\)](https://open.spotify.com/album/0j7lhv3Tjo6iF1oQmhYFo9) | 4:01 | 2019-03-11 | 2023-05-17 |
 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 | 2019-03-11 |  |
 | [Danny Boy](https://open.spotify.com/track/3HIlr9onUzpHNAeHzxkKQk) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Rare Oul' Stuff](https://open.spotify.com/album/7G02QLnnugl8FbQIQ8oJJd) | 2:31 | 2019-03-11 |  |
 | [Dansplaat](https://open.spotify.com/track/4y0yr2ZfZARAYfG5uhQXYY) | [Brainpower](https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w) | [Verschil Moet Er Zijn](https://open.spotify.com/album/1o70trbJ8T5SiMT85Zorrx) | 3:48 | 2019-03-11 |  |

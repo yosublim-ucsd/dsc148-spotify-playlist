@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Overmono
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,985 likes - 133 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,018 likes - 133 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 132 | [Night Safari](https://open.spotify.com/track/1ess3AYGD2HtKbmSHLD8pJ) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [FR009](https://open.spotify.com/album/6PyFSxGcYl4YeTns5gy8Dy) | 5:17 |
 | 133 | [Bubble Up](https://open.spotify.com/track/6OfDPAofhAqf4hxLoOGDLM) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Bubble Up](https://open.spotify.com/album/1TVK04bZsCf3xZfBhw4CJa) | 6:08 |
 
-Snapshot ID: `MCxmYjlkZGIzNTRiNTU5NzUwYWU3YjA1ODk5MGZjMjk0ZTk3OTYwNDFj`
+Snapshot ID: `MCxmNjc2N2M5MTJjZmUwMTEwZjRjY2MxMjQxZDU2YWFmNjZjMzc2ZDgw`

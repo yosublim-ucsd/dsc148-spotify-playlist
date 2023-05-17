@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-292 songs - 16 hr 12 min
+294 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-05 |  |
 | [I'm Good \(Feat\. Kwadz\)](https://open.spotify.com/track/2BF3Tzk3zpEfbsGmqK4skD) | [Kohway](https://open.spotify.com/artist/2v9PvAakxqkcjtXU7SzlQP), [Kwadz](https://open.spotify.com/artist/4Yw5xwiCQORgzOHwF9dOpF) | [I'm Good](https://open.spotify.com/album/5e9LjQT2K7J4kylaBwDdv3) | 2:50 | 2021-11-17 | 2022-04-08 |
 | [I'm so sick](https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm) | 3:19 | 2021-11-17 |  |
-| [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-11 |  |
+| [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-11 | 2023-05-17 |
 | [In THE DaRk](https://open.spotify.com/track/6tIIRfmrgZnAaC1o7TvWxV) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:44 | 2021-11-17 | 2022-07-29 |
 | [Into the I\-LAND](https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [I\-LAND Part.1 Signal Song](https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA) | 3:37 | 2021-11-17 |  |
 | [ISLAND](https://open.spotify.com/track/1LEAO4bKSlclXPAFVGJibm) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [ISLAND](https://open.spotify.com/album/6JMJG0NGIfuv66NNSIZt4I) | 3:15 | 2022-01-09 | 2022-07-18 |
@@ -183,7 +183,7 @@
 | [My My](https://open.spotify.com/track/4rnvC8St4YDHGuQdBEByRz) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:05 | 2022-07-27 |  |
 | [MY WAY](https://open.spotify.com/track/6J0X6cmz8etKQQ6IRdWBvD) | [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [MY WAY](https://open.spotify.com/album/46YfprnVuCrpeEIFXhyiVn) | 3:13 | 2021-11-17 | 2022-06-30 |
 | [NEGA DOLA](https://open.spotify.com/track/5OXGY1pFAAnxGSkqhZ4C6c) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [NEGA DOLA](https://open.spotify.com/album/4NCjScNfYn9jCnYSX86U2G) | 2:56 | 2022-01-09 | 2022-04-21 |
-| [NO GOOD REASON](https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:36 | 2023-01-25 |  |
+| [NO GOOD REASON](https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:36 | 2023-01-25 | 2023-05-17 |
 | [NO GOOD REASON](https://open.spotify.com/track/2dj8zWm8Kexsi59SRFEN7n) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:36 | 2021-11-17 | 2022-07-23 |
 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix of Stray Kids](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-06-30 |  |
 | [Nonstop](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:22 | 2021-11-17 |  |
@@ -272,6 +272,7 @@
 | [TFW \(That Feeling When\)](https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:17 | 2022-07-04 |  |
 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 | 2022-06-09 | 2023-04-05 |
 | [Thank You \(Remix\)](https://open.spotify.com/track/0IOBK1uLnuEehus9ree5tC) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:12 | 2022-06-20 | 2022-07-24 |
+| [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-16 |  |
 | [TikTok](https://open.spotify.com/track/43Wzln0Xsts156Dt7UrlkH) | [Love Viva](https://open.spotify.com/artist/67WSOPvWhCLPFsRbyu13U8), [Sleepy](https://open.spotify.com/artist/5qp3vJC5OdDo1Zsrsl3sIR) | [TikTok](https://open.spotify.com/album/0wUovEWE7oTpA5L0hOueee) | 2:21 | 2021-11-17 | 2022-07-24 |
 | [Too Too \(22\)](https://open.spotify.com/track/2uA3jfkWImtEGF0qIDoMRc) | [Hi\-L](https://open.spotify.com/artist/668EkqpqxR58Ww5mFGZucp) | [Go High](https://open.spotify.com/album/4H18w6Nolm5aPyGQZNSmo7) | 3:18 | 2021-11-17 | 2022-07-29 |
 | [Touch my body](https://open.spotify.com/track/33CmoSmppc5Xf65cf3Bv1X) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 3:34 | 2022-04-18 | 2022-08-23 |
@@ -293,6 +294,7 @@
 | [Why](https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:27 | 2021-11-17 |  |
 | [Why Don’t You Know](https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:18 | 2021-11-17 |  |
 | [Why Don’t You Know](https://open.spotify.com/track/7BiaLnXa10sBpBEcFfm4PP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn) | 3:18 | 2021-11-17 | 2022-07-21 |
+| [Wind And Wish](https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs) | 3:41 | 2023-05-16 |  |
 | [Wish](https://open.spotify.com/track/3yVpizetPa3ufcGFvbUi2L) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:16 | 2022-04-04 | 2022-04-20 |
 | [Woman on the beach \(from Cool Summer Project\)](https://open.spotify.com/track/1UyYXStg3u4KoZSZix3LGF) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [JEON WOONG](https://open.spotify.com/artist/7HkRTmxvjlJxL3lEOSxpqN) | [Woman on the beach \(from Cool Summer Project\)](https://open.spotify.com/album/4enSAj3eIdEse7OxIlxBzp) | 3:32 | 2022-01-09 | 2022-07-27 |
 | [You and I](https://open.spotify.com/track/2YainWN6brhIOvlSAFHlor) | [DARU](https://open.spotify.com/artist/1afLn1oD9z4DoWJ5PlGBUe) | [You and I](https://open.spotify.com/album/2fZgbEuJgGM1rBIPcmcEpa) | 3:29 | 2022-06-20 | 2022-07-29 |

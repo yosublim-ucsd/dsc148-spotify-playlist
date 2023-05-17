@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,002 likes - 146 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,032 likes - 146 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 145 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 |
 | 146 | [The Horn](https://open.spotify.com/track/5mJ54mjLUJ7OSexRIVRmR4) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w) | [Lose Me In The Swamp](https://open.spotify.com/album/4WjMjQ7ojwSEaniI6rwMop) | 2:24 |
 
-Snapshot ID: `MCw3NmQwMWQxOWM0ZjhkNjkzMWU3YjM2NzQ3ZjQ4NDBjYWM0MWZiZTg4`
+Snapshot ID: `MCw4OTRiNTc2ZjFkNDc1MTg4MWFkM2Q3NDM4Mzk2NDE4MTJlNDc2YTJi`

@@ -1,12 +1,12 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix!",
-  "num_followers": 368934,
+  "num_followers": 369999,
   "original_name": "Summer House 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTFiOTk5ZjM2ODI4ODNmNTM2Y2FkNzYyOTIzYTI3ZDJlYWNiOTM1",
+  "snapshot_id": "MCxjOWNjYzQzNjgxMGU4M2E5MWVlOTUzY2VkOGQ4M2Q2ZmQxOWNjZDEy",
   "tracks": [
     {
       "added_at": "2023-05-12 13:30:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-05-12 13:30:00",
       "album": {
-        "name": "Pon De Replay",
-        "url": "https://open.spotify.com/album/6LHoxO71UelhuYt0ylPaw1"
-      },
-      "artists": [
-        {
-          "name": "Ed Marquis",
-          "url": "https://open.spotify.com/artist/6NkWxTDLl0TnlaS0J9JQT5"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 257943,
-      "name": "Pon De Replay",
-      "url": "https://open.spotify.com/track/6G7r3yTCXVl1lXmFSkzEYB"
-    },
-    {
-      "added_at": "2023-05-12 13:30:00",
-      "album": {
         "name": "Body on Fire",
         "url": "https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 159310,
       "name": "Body on Fire",
       "url": "https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ"
+    },
+    {
+      "added_at": "2023-05-12 13:30:00",
+      "album": {
+        "name": "Pon De Replay",
+        "url": "https://open.spotify.com/album/6LHoxO71UelhuYt0ylPaw1"
+      },
+      "artists": [
+        {
+          "name": "Ed Marquis",
+          "url": "https://open.spotify.com/artist/6NkWxTDLl0TnlaS0J9JQT5"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 257943,
+      "name": "Pon De Replay",
+      "url": "https://open.spotify.com/track/6G7r3yTCXVl1lXmFSkzEYB"
     },
     {
       "added_at": "2023-05-12 13:30:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-05-12 13:30:00",
       "album": {
-        "name": "If You Wanna",
-        "url": "https://open.spotify.com/album/6xdH62cWsnkSNb1KrstnEA"
-      },
-      "artists": [
-        {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
-        },
-        {
-          "name": "Coach Harrison",
-          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "If You Wanna",
-      "url": "https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR"
-    },
-    {
-      "added_at": "2023-05-12 13:30:00",
-      "album": {
         "name": "Now or Never",
         "url": "https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 182750,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4"
+    },
+    {
+      "added_at": "2023-05-12 13:30:00",
+      "album": {
+        "name": "If You Wanna",
+        "url": "https://open.spotify.com/album/6xdH62cWsnkSNb1KrstnEA"
+      },
+      "artists": [
+        {
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+        },
+        {
+          "name": "Coach Harrison",
+          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "If You Wanna",
+      "url": "https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR"
     },
     {
       "added_at": "2023-05-12 13:30:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-05-12 13:30:00",
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ"
+      },
+      "artists": [
+        {
+          "name": "Paratone",
+          "url": "https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq"
+    },
+    {
+      "added_at": "2023-05-12 13:30:00",
+      "album": {
         "name": "Wake Up! (feat. Kaleta)",
         "url": "https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 232745,
       "name": "Wake Up! (feat. Kaleta)",
       "url": "https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J"
-    },
-    {
-      "added_at": "2023-05-12 13:30:00",
-      "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ"
-      },
-      "artists": [
-        {
-          "name": "Paratone",
-          "url": "https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq"
     },
     {
       "added_at": "2023-05-12 13:30:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-05-12 13:30:00",
       "album": {
-        "name": "Daydreamer",
-        "url": "https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        }
-      ],
-      "duration_ms": 160403,
-      "name": "Daydreamer",
-      "url": "https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy"
-    },
-    {
-      "added_at": "2023-05-12 13:30:00",
-      "album": {
         "name": "Emorio",
         "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 163840,
       "name": "Emorio",
       "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
+    },
+    {
+      "added_at": "2023-05-12 13:30:00",
+      "album": {
+        "name": "Daydreamer",
+        "url": "https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 160403,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy"
     },
     {
       "added_at": "2023-05-12 13:30:00",

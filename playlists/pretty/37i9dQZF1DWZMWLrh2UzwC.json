@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: James Arthur",
-  "num_followers": 61130,
+  "num_followers": 61134,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OThiMTc2MTg0ZTQxYzk2Zjc1NDI0YTBlZGFmYjcwNzhiNDNlZTg1",
+  "snapshot_id": "MCwyZWQwNDNiZDg1NmQwOTE1MWRkNDFjNDlhZjE3YWM0NjQ2ZmRlZDQ2",
   "tracks": [
     {
       "added_at": "2023-05-11 16:00:00",
@@ -270,6 +270,10 @@
         {
           "name": "Ziva Magnolya",
           "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
       "duration_ms": 203300,

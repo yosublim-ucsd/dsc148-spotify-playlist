@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: HERMES
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,606 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,615 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 69 | [supernova](https://open.spotify.com/track/1HgQFrZi1J4RuhJ9Z4MAcD) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [supernova](https://open.spotify.com/album/2LuWFJRsciGayhfir9BNhz) | 2:37 |
 | 70 | [SCINNE](https://open.spotify.com/track/6YXMopaQMquMzIp0QYTiLA) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [SOLIDAGO](https://open.spotify.com/album/4krgtckMU7NY6UxCOqATyr) | 2:48 |
 
-Snapshot ID: `MCw4Y2I0NzAyNmVmMWExNDg0M2VlMjEzNTYzMjhlM2I1YzUxNTVmOThm`
+Snapshot ID: `MCw2MjQwMWE0ODM0Y2QwODc3NzkwOWI4MWZjMWFmOGJjYmQyZWFkMmZi`

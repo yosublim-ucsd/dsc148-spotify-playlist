@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 40754,
+  "num_followers": 40772,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzU1OWVkMmM2OWJhZGI5MTNjNGUzMDA3ZTRjMzIzMjA5YmZkZDA4",
+  "snapshot_id": "MCxkZjEwODc5ZTAxMDZlYTI3NTM4MDk4NWM3OTUxMjgxNWZmNDI5NzEz",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Aladdin '52-'59:Let The Good Times Roll",
-        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
-      },
-      "artists": [
-        {
-          "name": "Shirley & Lee",
-          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
-        }
-      ],
-      "duration_ms": 119720,
-      "name": "The Flirt",
-      "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Presenting Big Jay McNeely",
         "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
       },
@@ -431,22 +415,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 135853,
-      "name": "Shake That Thing",
-      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
         "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
       },
@@ -459,6 +427,22 @@
       "duration_ms": 191306,
       "name": "Say Hey (The Willie Mays Song)",
       "url": "https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 135853,
+      "name": "Shake That Thing",
+      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Joe Williams' Finest Hour",
+        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 371893,
+      "name": "Is You Is Or Is You Ain't My Baby",
+      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Lovin' Machine",
         "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 124266,
       "name": "Teenage Baby",
       "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Joe Williams' Finest Hour",
-        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 371893,
-      "name": "Is You Is Or Is You Ain't My Baby",
-      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -775,6 +759,22 @@
       "duration_ms": 160186,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Presenting Shirley & Lee",
+        "url": "https://open.spotify.com/album/4T6NwKh1p05O73CfdEcA5R"
+      },
+      "artists": [
+        {
+          "name": "Shirley & Lee",
+          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
+        }
+      ],
+      "duration_ms": 119720,
+      "name": "The Flirt",
+      "url": "https://open.spotify.com/track/00HLlbvcSU4Cu5Zm9EG2Kv"
     },
     {
       "added_at": "2022-03-28 19:44:25",

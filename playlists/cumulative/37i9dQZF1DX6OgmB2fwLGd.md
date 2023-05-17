@@ -4,14 +4,14 @@
 
 > The soundtrack to the internet\. Cover: Kanii
 
-657 songs - 1 day 2 hr 59 min
+658 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/3Be6tP8oTqFVOMhEJg4wlO) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Ct3Nikd1tNSufQrnKqwev) | 2:53 | 2021-11-05 | 2022-02-18 |
 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 | 2022-07-05 | 2022-12-17 |
 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 | 2021-10-01 | 2022-07-09 |
-| [1\-800\-Bad\-Bxtch](https://open.spotify.com/track/3AzmPUPk59zgO3XURjGJ8R) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [1\-800\-Bad\-Bxtch](https://open.spotify.com/album/5O7UiT5zB3iC2gqbQGpUUP) | 2:34 | 2023-03-24 |  |
+| [1\-800\-Bad\-Bxtch](https://open.spotify.com/track/3AzmPUPk59zgO3XURjGJ8R) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [1\-800\-Bad\-Bxtch](https://open.spotify.com/album/5O7UiT5zB3iC2gqbQGpUUP) | 2:34 | 2023-03-24 | 2023-05-17 |
 | [1011 next up \(homeless refix\)](https://open.spotify.com/track/7w1b2DKMrLxL98NtPqygbb) | [Babyface](https://open.spotify.com/artist/09Wpm9bnONbWvAcei0sSBG) | [1011 next up \(homeless refix\)](https://open.spotify.com/album/464Eyxc4WTHtt6Qpakyskc) | 2:05 | 2021-10-19 | 2022-04-03 |
 | [10x3](https://open.spotify.com/track/4SaMeh5e8KfdH5wmn35E6S) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [10x3](https://open.spotify.com/album/2J0oSb8a0vO39yG3WjKHDz) | 1:58 | 2023-04-14 |  |
 | [11:35 In Miami](https://open.spotify.com/track/2qTh0uDCWUZ9G9xZO7RqGd) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Coochie Land \(Deluxe\)](https://open.spotify.com/album/17pvDiyitMvBilTM9UvLeK) | 1:36 | 2023-02-10 | 2023-04-18 |
@@ -257,6 +257,7 @@
 | [Go \(Xtayalive 2\)](https://open.spotify.com/track/1slDsIJxew9AOOA3v0xFzn) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [Go \(Xtayalive 2\)](https://open.spotify.com/album/3RX4kmM0BYSknfrs69XkMi) | 1:46 | 2023-04-28 |  |
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-01-13 |  |
 | [Gone \(sped up\)](https://open.spotify.com/track/6dj6mwfnLiCp20cslQEcOE) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ardeycat](https://open.spotify.com/artist/34Nu2mFDOVCEab7z18ceOo) | [Gone \(sped up\)](https://open.spotify.com/album/1p6EfDB7huUNYmQE9EDCwl) | 1:51 | 2023-03-17 |  |
+| [GOOD LOYAL THOTS](https://open.spotify.com/track/6PadQidABni2peo3kYKW0M) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5) | 1:42 | 2023-05-16 |  |
 | [Gotsta Get Paid](https://open.spotify.com/track/6s3x9zSwfzgi1IY9iDXjYh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 3:17 | 2022-09-20 | 2022-11-23 |
 | [GTTM](https://open.spotify.com/track/4aQzgQwLrFSY1ARcF2999k) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [GTTM](https://open.spotify.com/album/0135TgD7aR1sB0l1Ctx8Ic) | 2:22 | 2022-08-06 | 2023-01-26 |
 | [GTTM](https://open.spotify.com/track/5tsmt6wAwjgj5iNID2nATh) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [GTTM](https://open.spotify.com/album/3Q1Q8OxjZCsusRxJrOXCN7) | 2:22 | 2022-08-06 | 2022-08-31 |

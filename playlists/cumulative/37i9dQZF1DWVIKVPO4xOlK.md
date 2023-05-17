@@ -4,7 +4,7 @@
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Peso Pluma
 
-347 songs - 18 hr 24 min
+348 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,8 @@
 | [Todo Veo](https://open.spotify.com/track/05Kd8YrbaJFDihr5FH7hTI) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Todo Veo](https://open.spotify.com/album/6rjnWaxniOaYASgYMXHDFU) | 2:20 | 2022-07-08 | 2022-09-24 |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-03-03 |  |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-03-03 |  |
-| [Triste Verano](https://open.spotify.com/track/74r1EbTcH1kk9SSrp0T2Qb) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/3lpp6KK2bL6X9uc5kNLf1J) | 3:03 | 2023-04-07 |  |
+| [Triste Verano](https://open.spotify.com/track/6e4GpMv8CEooTz5uTtoakN) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/7h48mENfxwtXlVMDm8y1qU) | 3:03 | 2023-04-07 |  |
+| [Triste Verano](https://open.spotify.com/track/74r1EbTcH1kk9SSrp0T2Qb) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/3lpp6KK2bL6X9uc5kNLf1J) | 3:03 | 2023-04-07 | 2023-05-17 |
 | [Triste Verano](https://open.spotify.com/track/7yfwydyPR9CJQSoPsnOZhO) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/49XVd20nI8tT6rU6b8hvuK) | 3:03 | 2023-04-07 | 2023-04-13 |
 | [Tus Poses](https://open.spotify.com/track/5g7gOcJf2CInnuZWnmEfRK) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Tus Poses](https://open.spotify.com/album/5BKKUlMDOGTW0rF02Owg33) | 3:21 | 2022-01-05 | 2022-02-26 |
 | [TuTuRu](https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [TuTuRu](https://open.spotify.com/album/21nYU75PGArPV2CBoXw5jt) | 2:51 | 2022-03-16 | 2022-08-13 |

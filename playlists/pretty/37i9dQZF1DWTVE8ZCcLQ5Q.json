@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Luanna e novos talentos brasileiros no horizonte.",
-  "num_followers": 421834,
+  "num_followers": 421822,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODk1OWY4MDkwNjhhYjRlMTYxODM3NTJlZTI3OThmNjAyN2EyMDgw",
+  "snapshot_id": "MCxmMDA3MDY4Y2FkN2UwN2M0MWExMWVhZWI3NjAzYTY5Njc5MTk3OTYw",
   "tracks": [
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
+        "name": "VideoChamada (Facetime)",
+        "url": "https://open.spotify.com/album/0PYK1zmn56XIeDi99TJmBN"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "VideoChamada (Facetime)",
+      "url": "https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
         "name": "JORGE",
         "url": "https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 160909,
       "name": "JORGE",
       "url": "https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
-        "name": "VideoChamada (Facetime)",
-        "url": "https://open.spotify.com/album/0PYK1zmn56XIeDi99TJmBN"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "VideoChamada (Facetime)",
-      "url": "https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0"
     },
     {
       "added_at": "2023-04-24 21:27:43",

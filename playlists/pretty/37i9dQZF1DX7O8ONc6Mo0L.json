@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Eli Soares",
-  "num_followers": 245854,
+  "num_followers": 246001,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjA3ZmQ0NzUzYjU0MDVmYTQzZDNmNGM1MmM4YTAyNmM1YTBiMzc1",
+  "snapshot_id": "MCxhZTZlYjVmZTdhZDczMTg0NzIzNWEzYTU2ZmJjZjZiZWMyYWFmNjAx",
   "tracks": [
     {
       "added_at": "2023-05-12 18:22:59",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
+        "name": "O Dia Que Ser\u00e1 Pra Sempre",
+        "url": "https://open.spotify.com/album/2KTRJyzvBRhjQpmMJ6m85C"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Abrantes",
+          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
+        }
+      ],
+      "duration_ms": 283813,
+      "name": "O Dia Que Ser\u00e1 Pra Sempre",
+      "url": "https://open.spotify.com/track/4stbVaoXgrjq9bCj2SStmG"
+    },
+    {
+      "added_at": "2023-05-12 18:22:59",
+      "album": {
         "name": "Al\u00e9m do Rio Azul (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/179cAV1v2sG8INY8xv2OZK"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 281480,
       "name": "Al\u00e9m do Rio Azul - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5c1TKyPx3H9KqzAZWSaqC6"
-    },
-    {
-      "added_at": "2023-05-12 18:22:59",
-      "album": {
-        "name": "O Dia Que Ser\u00e1 Pra Sempre",
-        "url": "https://open.spotify.com/album/2KTRJyzvBRhjQpmMJ6m85C"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Abrantes",
-          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
-        }
-      ],
-      "duration_ms": 283813,
-      "name": "O Dia Que Ser\u00e1 Pra Sempre",
-      "url": "https://open.spotify.com/track/4stbVaoXgrjq9bCj2SStmG"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Primeira Ess\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        },
-        {
-          "name": "Paola Carla",
-          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Primeira Ess\u00eancia (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
-    },
-    {
-      "added_at": "2023-05-12 18:22:59",
-      "album": {
         "name": "Ningu\u00e9m Explica Deus",
         "url": "https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 301623,
       "name": "Ningu\u00e9m Explica Deus",
       "url": "https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth"
+    },
+    {
+      "added_at": "2023-05-12 18:22:59",
+      "album": {
+        "name": "Primeira Ess\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        },
+        {
+          "name": "Paola Carla",
+          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Primeira Ess\u00eancia (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -951,22 +951,18 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Nunca Te Deixarei (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55"
+        "name": "Cicatrizes",
+        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
       },
       "artists": [
         {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Nunca Te Deixarei - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4GnEfHMHLZaoQU2UiWI3Ku"
+      "duration_ms": 215343,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -987,18 +983,22 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Cicatrizes",
-        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
+        "name": "Nunca Te Deixarei (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55"
       },
       "artists": [
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 215343,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
+      "duration_ms": 201000,
+      "name": "Nunca Te Deixarei - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4GnEfHMHLZaoQU2UiWI3Ku"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Ao Orar 2",
-        "url": "https://open.spotify.com/album/2HIM1K64rbESXM2BmrJQIl"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Guarda Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7qB7nGQGewMFdMhSFLzbCY"
-    },
-    {
-      "added_at": "2023-05-12 18:22:59",
-      "album": {
         "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 237510,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
+    },
+    {
+      "added_at": "2023-05-12 18:22:59",
+      "album": {
+        "name": "Ao Orar 2",
+        "url": "https://open.spotify.com/album/2HIM1K64rbESXM2BmrJQIl"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Guarda Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7qB7nGQGewMFdMhSFLzbCY"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Ele Mudar\u00e1",
-        "url": "https://open.spotify.com/album/3su6MTa1S1Zrli6mCyfGKZ"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Tavela",
-          "url": "https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Ele Mudar\u00e1",
-      "url": "https://open.spotify.com/track/2X4wT4QUUQl7tL9dI0ELH8"
-    },
-    {
-      "added_at": "2023-05-12 18:22:59",
-      "album": {
         "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
         "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 347727,
       "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
       "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
+    },
+    {
+      "added_at": "2023-05-12 18:22:59",
+      "album": {
+        "name": "Ele Mudar\u00e1",
+        "url": "https://open.spotify.com/album/3su6MTa1S1Zrli6mCyfGKZ"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Tavela",
+          "url": "https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Ele Mudar\u00e1",
+      "url": "https://open.spotify.com/track/2X4wT4QUUQl7tL9dI0ELH8"
     },
     {
       "added_at": "2023-05-12 18:22:59",

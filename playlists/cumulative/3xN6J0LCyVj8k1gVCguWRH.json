@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "A Feminist March",
+        "url": "https://open.spotify.com/album/50YyQdGIF32364RZ4EFWNE"
+      },
+      "artists": [
+        {
+          "name": "R\u00dc",
+          "url": "https://open.spotify.com/artist/725jZTtXKFvIYhyWaeFaQI"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "A Feminist March",
+      "url": "https://open.spotify.com/track/3pCxrpxD6CAvnNBhPdUVoZ"
+    },
+    {
+      "album": {
         "name": "Satchmo Serenades",
         "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
@@ -27286,7 +27304,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 152000,
       "name": "On My Own (Bonus)",
       "url": "https://open.spotify.com/track/7M6LqIJhaQa9JOp5S5K60Y"
@@ -34416,6 +34434,24 @@
       "duration_ms": 200000,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/74K6Vgm24ejN4aWVAb8puS"
+    },
+    {
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/2q3cWrPl7r6ClccTNJwTeE"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/1HeMmzT6i53MTYFiMODEBD"
     },
     {
       "album": {

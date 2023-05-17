@@ -158,7 +158,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 235284,
       "name": "3amlt 5er",
       "url": "https://open.spotify.com/track/7zEyLmurfWk1i1MGrnOtH8"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 190200,
       "name": "Bumble",
       "url": "https://open.spotify.com/track/6SY8dp9yl9YWdh8rErTsEW"
@@ -2362,8 +2362,8 @@
           "url": "https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ"
         },
         {
-          "name": "Mallakh",
-          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
+          "name": "Maher El Mallakh",
+          "url": "https://open.spotify.com/artist/48RWA9yeD1Pt3C7M9SECpI"
         }
       ],
       "date_added": "2023-05-04",
@@ -3540,7 +3540,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 312000,
       "name": "Kelma Akhera",
       "url": "https://open.spotify.com/track/2A2NV6TRVGHV9Ggxb3Glmb"
@@ -4996,8 +4996,8 @@
           "url": "https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ"
         },
         {
-          "name": "Mallakh",
-          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
+          "name": "Maher El Mallakh",
+          "url": "https://open.spotify.com/artist/48RWA9yeD1Pt3C7M9SECpI"
         }
       ],
       "date_added": "2023-05-11",
@@ -5567,6 +5567,24 @@
     },
     {
       "album": {
+        "name": "Shabeah Rouhi",
+        "url": "https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375833,
+      "name": "Shabeah Rouhi",
+      "url": "https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE"
+    },
+    {
+      "album": {
         "name": "Shagar El Asham",
         "url": "https://open.spotify.com/album/3a3xSHjfxecV8gzyzMxRVA"
       },
@@ -5971,6 +5989,24 @@
     },
     {
       "album": {
+        "name": "Taqa Egabiya",
+        "url": "https://open.spotify.com/album/5YC6fQoCORJTPD0Ul0RTvu"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183556,
+      "name": "Taqa Egabiya",
+      "url": "https://open.spotify.com/track/36W3RtxBprZcvw1bcbcQFW"
+    },
+    {
+      "album": {
         "name": "Tea Song",
         "url": "https://open.spotify.com/album/6IBiga0zNTzTEfnRyAduzt"
       },
@@ -6116,6 +6152,24 @@
       "duration_ms": 159386,
       "name": "Unfollow Me Yalla",
       "url": "https://open.spotify.com/track/29Tzkn37Bf5w2yV8kpR3bz"
+    },
+    {
+      "album": {
+        "name": "Wa7ed (\u0648\u0627\u062d\u062f)",
+        "url": "https://open.spotify.com/album/2Au9YjBHjWjYtS9Bnx9M1M"
+      },
+      "artists": [
+        {
+          "name": "Karima Gouit",
+          "url": "https://open.spotify.com/artist/3MLCyLMIqrwpmZ60O63BS3"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154878,
+      "name": "Wa7ed - \u0648\u0627\u062d\u062f",
+      "url": "https://open.spotify.com/track/3tHc7PVa0wi1dOpNoiEIgn"
     },
     {
       "album": {
@@ -6894,6 +6948,24 @@
       "duration_ms": 184246,
       "name": "\u0627\u0635\u0639\u062f \u0644\u0644\u0643\u0645\u0631",
       "url": "https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0627 \u0642\u0644\u0628\u064a",
+        "url": "https://open.spotify.com/album/4BuPfZI61xaTcTFgvKv9Ox"
+      },
+      "artists": [
+        {
+          "name": "\u0647\u062f\u0649 \u0627\u0644\u0641\u0647\u062f",
+          "url": "https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "\u0627\u0644\u0627 \u0642\u0644\u0628\u064a",
+      "url": "https://open.spotify.com/track/5D8y7if4bfLuBDoJgnDhH8"
     },
     {
       "album": {
@@ -7698,7 +7770,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 223049,
       "name": "\u0639\u0634\u0631 \u062f\u0642\u0627\u064a\u0642",
       "url": "https://open.spotify.com/track/5F8xazyO2TD7bURXpjo7bM"

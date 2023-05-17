@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Lord, DK 47
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,742 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,766 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 22 | [O Boombap Não Morre](https://open.spotify.com/track/7AC44OGeO16I8PkqdmDNOv) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [Jogzz](https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux) | 3:43 |
 | 23 | [DoisTrês](https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [DoisTrês](https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4) | 1:15 |
 | 24 | [De Coração \- Extended Version](https://open.spotify.com/track/0qASMrCdhWRjnjqsav11aF) | [Arthur Freestyle](https://open.spotify.com/artist/7tRuMFXUl7QIgTbou4dJkc), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [De Coração \(Extended Version\)](https://open.spotify.com/album/4uiORO4JWPPuRNNWECjlPi) | 4:10 |
-| 25 | [Nômade VII](https://open.spotify.com/track/4XTu1iHT5Q8dDfiIXgUXLD) | [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA) | [Nômade VII](https://open.spotify.com/album/3jhFJYo9qphO2WxHzIWudt) | 3:26 |
+| 25 | [Nômade VII](https://open.spotify.com/track/6FJ1h7SXGDhKU6iEGBBF97) | [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Patricio Sid](https://open.spotify.com/artist/3Xgbq3eQsS0IwYnoRE9tjU), [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA) | [Nômade VII](https://open.spotify.com/album/0f3ElFFEjZbodKzQbzjmXC) | 3:26 |
 | 26 | [Veja Bem](https://open.spotify.com/track/5IcaGHP7FjV7NQtqVfOLoZ) | [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU) | [Veja Bem](https://open.spotify.com/album/10CtIdXeXO7XTXAZqQjhpO) | 2:59 |
 | 27 | [Já É Tarde](https://open.spotify.com/track/2Et0DMAf1syfTEazKYcA7d) | [Supperbiro](https://open.spotify.com/artist/2LY4vuWOg5mNDMGjN2Byjt), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [ALLANA](https://open.spotify.com/artist/6HDbz8r8C8Rr5XQO1uHslV) | [Fitas Perdidas](https://open.spotify.com/album/0Q7DsXc72gYQHUgxGuU7JF) | 4:03 |
 | 28 | [Sigo Ligeiro](https://open.spotify.com/track/1jwQLspfvLF5YdMFwfJj6F) | [ZET](https://open.spotify.com/artist/7HfY5nt8LrS4Wo4s7LFPA3), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H), [DJ Abu](https://open.spotify.com/artist/19fNZK8ixDsGsn0z3ThEQb) | [Sigo Ligeiro](https://open.spotify.com/album/25j5RfWjKk0LmeIHKZMimu) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Buenos Aires](https://open.spotify.com/track/0f8qfZHk9FKT3R7B3joJow) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Joe Sujera](https://open.spotify.com/artist/1l1aoY37uXAYtAZ7WESb5E), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Buenos Aires](https://open.spotify.com/album/10UeldDAt6YQ5E1KZgLN6k) | 3:03 |
 | 75 | [Vida De Cinema](https://open.spotify.com/track/6pV19HgJpUnkI4cV5uqgw5) | [Gabriel Terra](https://open.spotify.com/artist/1ziLod0n75PZojB7DAJIt0), [Coliseu](https://open.spotify.com/artist/5Ydr3k96ckQsVzAWEdHf6F), [Vítor Rêgo](https://open.spotify.com/artist/3GfexUs7NHwpx7eP0VAXlS), [Paulo Arthur](https://open.spotify.com/artist/1mM60Kn9oT7soffYbS1blg) | [Vida De Cinema](https://open.spotify.com/album/5Njc5TCgFIJYOGJfjjZwul) | 3:14 |
 
-Snapshot ID: `MCw4MjYwODQzOGM4MDIyOGJiMTI4MGZmMThjYjc2OTJhOGEzNjMxNzc3`
+Snapshot ID: `MCw2YzU5MzMxOWE2YTZmMzYxZmQ4OWY1ODQ1NWE1MDIzNjA0YTUwNmMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,466 likes - 174 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,516 likes - 174 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 173 | [Peeter Skeeter](https://open.spotify.com/track/1diQndJIjHScnOZtBj3404) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [Peeter Skeeter](https://open.spotify.com/album/5lVaT8a2QE8nayhdrz79Jm) | 1:45 |
 | 174 | [slumberjack](https://open.spotify.com/track/5rUlJ7zeKR5DsvMbttWJRa) | [skipweath](https://open.spotify.com/artist/74eByJRUsX1z9H2SvNgkfa), [Slacker Boy](https://open.spotify.com/artist/4jII3hmI346hnrWtf7jx3A) | [slumberjack](https://open.spotify.com/album/1sZZVLQlHpJ2gG0fdrZE20) | 1:42 |
 
-Snapshot ID: `MCwzYjFiODNiMTcxNWZkYWFiNWFlMWYwYzdhNTA2YjFhODI3Yjg3ZjIw`
+Snapshot ID: `MCxmMDNlNmIwN2EwODQ5NDc2NTgwODc4OTkyNDIzZDA4NjI3N2FkNWM4`

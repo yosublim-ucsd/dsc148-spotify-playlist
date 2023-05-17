@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,130 likes - 87 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,134 likes - 87 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 12 | [Maybe Next Time](https://open.spotify.com/track/3NZDpFKjCApF6WkI5g6iFg) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Maybe Next Time](https://open.spotify.com/album/6oGzvyilFapjThmlJPJKiW) | 3:08 |
 | 13 | [my stupid feelings](https://open.spotify.com/track/670mNsOhOQopWQMP8eAq1y) | [ÊMIA](https://open.spotify.com/artist/2Q1WubieQ4mTNNf4YOlFGh), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [my stupid feelings](https://open.spotify.com/album/05Rk7Ugl7rnGOceyDrtCsF) | 2:36 |
 | 14 | [stuck in san antonio](https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [stuck in san antonio](https://open.spotify.com/album/5i6JV5RaAEXYbwQx3si9Mo) | 2:33 |
-| 15 | [Glorious \- The Official Song of FIFA U\-20 World Cup Argentina 2023™](https://open.spotify.com/track/4X7IYCqR576rQi9D1pVUxQ) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Glorious \(The Official Song of FIFA U\-20 World Cup Argentina 2023™\)](https://open.spotify.com/album/2m15vzjiJstBHRoB8GqFZT) | 3:23 |
+| 15 | [Glorious \- The Official Song of FIFA U\-20 World Cup Argentina 2023™](https://open.spotify.com/track/4X7IYCqR576rQi9D1pVUxQ) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Glorious \(The Official Song of FIFA U\-20 World Cup Argentina 2023™\)](https://open.spotify.com/album/2m15vzjiJstBHRoB8GqFZT) | 3:23 |
 | 16 | [Better On My Own](https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 2:59 |
 | 17 | [still here](https://open.spotify.com/track/0REjEl3XivOfIus0LhYjNY) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [still here](https://open.spotify.com/album/49xXkAoN2QcR1XnXaG4g3V) | 3:17 |
 | 18 | [忘了睡不著的夜晚](https://open.spotify.com/track/2LCUkKcf0h8zCZ76c1u21k) | [JARVIS](https://open.spotify.com/artist/7BdZKbJ833ocB7fZOHG8Ex), [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [忘了睡不著的夜晚](https://open.spotify.com/album/3Su8vpgyfFXatgFKQDf0ut) | 4:19 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 86 | [The Forgotten Honeymoon](https://open.spotify.com/track/0tFc5y2jQXoPdkQ3AyxvXM) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [The Forgotten Honeymoon](https://open.spotify.com/album/6gM2GBC8CCzZa6TDcgo3xe) | 3:34 |
 | 87 | [All Over Your Body](https://open.spotify.com/track/0fzLeKFa0E77C32S5fZ5ET) | [NICKIIE](https://open.spotify.com/artist/4t9KjIvjkNdv2KFosqr5xT) | [All Over Your Body](https://open.spotify.com/album/2gQ2u1yjazsI7oKuMzvMZ1) | 3:24 |
 
-Snapshot ID: `MCw0OThiMTc2MTg0ZTQxYzk2Zjc1NDI0YTBlZGFmYjcwNzhiNDNlZTg1`
+Snapshot ID: `MCwyZWQwNDNiZDg1NmQwOTE1MWRkNDFjNDlhZjE3YWM0NjQ2ZmRlZDQ2`

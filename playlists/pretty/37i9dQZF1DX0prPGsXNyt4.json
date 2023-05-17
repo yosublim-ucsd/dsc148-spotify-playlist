@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 56484,
+  "num_followers": 56577,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWY2MmNjZmY2Y2NkNDRjZGMzYTczOWQ3ZTQ4MjRiYTUzNWNmZjZh",
+  "snapshot_id": "MCxiMzYzNmQ3YjM5N2MzNzUzOWI1ZDlmODE2NzUwOGMwYzIzY2MzMDdj",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Hat-Trick do Tubar\u00e3o",
+        "url": "https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Trinta Minutos",
+      "url": "https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Dubl\u00ea de Marido",
         "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 154285,
       "name": "Dubl\u00ea de Marido",
       "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Hat-Trick do Tubar\u00e3o",
-        "url": "https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Trinta Minutos",
-      "url": "https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -871,30 +871,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Zod\u00edaco",
-        "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Sagit\u00e1rio",
-      "url": "https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Plano Perfeito",
         "url": "https://open.spotify.com/album/3r50qLuSjGVwtSBCAmcRx2"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 118976,
       "name": "Baby C\u00ea \u00e9 Gata",
       "url": "https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Zod\u00edaco",
+        "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Sagit\u00e1rio",
+      "url": "https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV"
     },
     {
       "added_at": "2023-02-10 03:01:00",

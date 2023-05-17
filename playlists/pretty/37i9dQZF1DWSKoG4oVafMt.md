@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,494 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,697 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 35 | [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 |
 | 36 | [Mallo Malli](https://open.spotify.com/track/0z22zBWD8vblkpsm3vf8oa) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Mallo Malli](https://open.spotify.com/album/2RnZyLDqMz6Clx2MVGnl2D) | 3:25 |
 | 37 | [Mohabat](https://open.spotify.com/track/0aVpOPirZUdeJon1ikS9M5) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ) | [Mohabat](https://open.spotify.com/album/3iaLLjl5QBpuYMljsK9fOr) | 3:36 |
-| 38 | [Nawa Nawa Pyaar](https://open.spotify.com/track/50DyjmQxDUAygFT31rD1kT) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Tanu Grewal](https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47) | [Nawa Nawa Pyaar \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/2UbFUgSQy4u09v1jzah7qy) | 2:19 |
+| 38 | [Nawa Nawa Pyaar](https://open.spotify.com/track/6BJEyDIOQf7pi3jKIbC34p) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Tanu Grewal](https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47) | [Nawa Nawa Pyaar \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/7vZ8AFILMwRsTFHB8SoxuS) | 2:19 |
 | 39 | [PYAAR DIYA GALLAN](https://open.spotify.com/track/7LWWWB3Ht5L3bW9JpqMwCI) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 2:28 |
 | 40 | [Nikki Nikki Gall](https://open.spotify.com/track/5agAgnkQhRu7Kk5DJUBSwk) | [Gill Armaan](https://open.spotify.com/artist/185mLK0dEN6C4lbMADRODF) | [Nikki Nikki Gall](https://open.spotify.com/album/4hGAjzQsnLCBnXDddOjOdD) | 2:52 |
 | 41 | [Suit](https://open.spotify.com/track/5hP26tC5gV42IwhYMQ4nLA) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Another Side](https://open.spotify.com/album/3wd8Hr4S8649tc3kTuy3ch) | 3:27 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 64 | [Bewafai Kar Gaya \- From "Lekh"](https://open.spotify.com/track/1M0mOOnYovZSKfVDCgLUmF) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Bewafai Kar Gaya \(From "Lekh"\)](https://open.spotify.com/album/2jy2AMtG3Cw0iYssTHStBI) | 3:48 |
 | 65 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 |
 
-Snapshot ID: `MCw0Y2I3ZWNjMzg3ZjcyMWFhZjZmNWJkNmFkOTY3MTliMjQwNzBkYmE3`
+Snapshot ID: `MCw1MGU1ZGZlYzNlMDRlMDMwMmNhNGVmOGQ0MDQ4Y2YyODdjNmI0Zjk1`

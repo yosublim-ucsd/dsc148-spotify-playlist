@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 133333,
       "name": "1949",
       "url": "https://open.spotify.com/track/0aWDp3psKAdohWqo0H2psk"
@@ -122,6 +122,28 @@
       "duration_ms": 192975,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/1RsPpQPKq3REgPS2reByKR"
+    },
+    {
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6TlbQ4aXAwS1Iw55zm42jO"
+      },
+      "artists": [
+        {
+          "name": "Bellecour",
+          "url": "https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY"
+        },
+        {
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0mrdtRdrp9W05nKuE2qFO6"
     },
     {
       "album": {
@@ -447,6 +469,54 @@
     },
     {
       "album": {
+        "name": "break it down",
+        "url": "https://open.spotify.com/album/41iHZNe0lLHMpIzs2ImsFV"
+      },
+      "artists": [
+        {
+          "name": "TQD",
+          "url": "https://open.spotify.com/artist/4VUDd8QHsZm8qSVUsAhCFG"
+        },
+        {
+          "name": "Royal-T",
+          "url": "https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194750,
+      "name": "break it down",
+      "url": "https://open.spotify.com/track/6HXZrgQoXVURYPvg6tY6CD"
+    },
+    {
+      "album": {
+        "name": "Breakout",
+        "url": "https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215284,
+      "name": "Breakout",
+      "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
+    },
+    {
+      "album": {
         "name": "Bright Lights (feat. Lil Debbie)",
         "url": "https://open.spotify.com/album/6jKv7AYAuLxqV2oEX6KtBc"
       },
@@ -616,7 +686,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 154615,
       "name": "Could I Be",
       "url": "https://open.spotify.com/track/06W9k3xS6TFI58kynSWQ5r"
@@ -726,7 +796,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 156968,
       "name": "Cyclone",
       "url": "https://open.spotify.com/track/6e2ijg9E7AwR4JWuHI3AhY"
@@ -880,6 +950,24 @@
       "duration_ms": 185515,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI"
+    },
+    {
+      "album": {
+        "name": "DESIRE96",
+        "url": "https://open.spotify.com/album/32qjzjfmDJX4lA6yAPR2fb"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253478,
+      "name": "DESIRE96",
+      "url": "https://open.spotify.com/track/1Isw0eYkTeBUP4uuqLNHZt"
     },
     {
       "album": {
@@ -1148,7 +1236,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 156218,
       "name": "Everything You Have Done - Meduza Edit",
       "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
@@ -1231,6 +1319,28 @@
     },
     {
       "album": {
+        "name": "Follow Me (MPH Remix)",
+        "url": "https://open.spotify.com/album/2d774BCGmg8ANT4I4e98kc"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237272,
+      "name": "Follow Me - MPH Remix",
+      "url": "https://open.spotify.com/track/6GNOQvVneRCDtTGphpLvuO"
+    },
+    {
+      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/7srxSNnTWeirw0haBqUQey"
       },
@@ -1264,7 +1374,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 198100,
       "name": "Furious!",
       "url": "https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv"
@@ -1374,6 +1484,28 @@
       "duration_ms": 192514,
       "name": "go - goddard. Remix",
       "url": "https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy"
+    },
+    {
+      "album": {
+        "name": "God Complex / Control The Most Of You",
+        "url": "https://open.spotify.com/album/0JoHyD9azWs0iBiUU8vmKt"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "PAV4N",
+          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152813,
+      "name": "God Complex",
+      "url": "https://open.spotify.com/track/1LUqGYDDpRlqw3X28Pr2KN"
     },
     {
       "album": {
@@ -1584,7 +1716,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 184560,
       "name": "High Status",
       "url": "https://open.spotify.com/track/0bxftpLWSoYLPmx6ydcyWK"
@@ -1686,7 +1818,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 291102,
       "name": "How it is - Subshift Remix",
       "url": "https://open.spotify.com/track/1xLg40pYGTyjoSAAzBJ6MG"
@@ -1901,6 +2033,28 @@
     },
     {
       "album": {
+        "name": "L.R.L.D.",
+        "url": "https://open.spotify.com/album/4mC5qrdPttU8rmsHIc1kWW"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246240,
+      "name": "L.R.L.D.",
+      "url": "https://open.spotify.com/track/2vlAFPryTEcJhdGAlh5xQo"
+    },
+    {
+      "album": {
         "name": "La Pasion",
         "url": "https://open.spotify.com/album/7t00C3OJQH7o8H4LOzseCb"
       },
@@ -2112,7 +2266,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 168960,
       "name": "Little Something",
       "url": "https://open.spotify.com/track/7vTRug2tCAloRL6g2SVG2q"
@@ -2138,7 +2292,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 195697,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/2mgYFBHNtU8ur5MB7wJs5C"
@@ -2623,6 +2777,24 @@
     },
     {
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+    },
+    {
+      "album": {
         "name": "BRAVE",
         "url": "https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB"
       },
@@ -2660,6 +2832,28 @@
       "duration_ms": 217500,
       "name": "On The Block",
       "url": "https://open.spotify.com/track/6QOJCMdkHdpaNiVmzv0sPT"
+    },
+    {
+      "album": {
+        "name": "Nu Wave",
+        "url": "https://open.spotify.com/album/22NoETscgH87Z0M9m1Y5xz"
+      },
+      "artists": [
+        {
+          "name": "Arc Nade",
+          "url": "https://open.spotify.com/artist/57dmsH0BOHyhumBwhL2zqL"
+        },
+        {
+          "name": "Dynascope",
+          "url": "https://open.spotify.com/artist/65a4hTtln4GW1NNkJe72eb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193858,
+      "name": "One For The",
+      "url": "https://open.spotify.com/track/3Aj7r2ixHeht6kqquDhryG"
     },
     {
       "album": {
@@ -2776,7 +2970,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 251613,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3tek0cqcIJ0wKMpFuNrwBe"
@@ -3124,7 +3318,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 232727,
       "name": "Rush",
       "url": "https://open.spotify.com/track/6lSyxP2M8nZStfwpTBkjqi"
@@ -3290,7 +3484,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 191445,
       "name": "Sometimes I Get",
       "url": "https://open.spotify.com/track/5Igv1jW8dj9i9LGNhD6ZCm"
@@ -3432,7 +3626,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 194884,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/2qzb9Q5MnxmvWXhGyIxePo"
@@ -3682,7 +3876,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 155625,
       "name": "This Won\u2019t Stop",
       "url": "https://open.spotify.com/track/0tQhQ7TKqS8bIV4S4qpTgB"
@@ -3700,7 +3894,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 191428,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3dC1y5iOmWKdOpyPN9DBvF"
@@ -3762,7 +3956,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 180461,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/34UqmMwF7IEGAm9qLo0Loc"
@@ -3882,7 +4076,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 219344,
       "name": "U Know It",
       "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
@@ -4090,7 +4284,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 274672,
       "name": "Want (ur body)",
       "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
@@ -4210,7 +4404,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 197416,
       "name": "WTF",
       "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"

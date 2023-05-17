@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Cheirosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181930,
+      "name": "Cheirosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
+    },
+    {
+      "album": {
         "name": "Retorno EP 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4NLocQIClXINQlmfUnqu3z"
       },
@@ -758,7 +776,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 174081,
       "name": "Namorando Com Saudade",
       "url": "https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6"

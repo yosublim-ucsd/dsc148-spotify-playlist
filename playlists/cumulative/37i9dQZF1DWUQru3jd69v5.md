@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Emanuelino in cover.
 
-557 songs - 1 day 0 hr 17 min
+558 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,8 @@
 | [Sono tristi anche le star](https://open.spotify.com/track/5AhoYuhVuAl3fqpIhe46qE) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/41Tkn4XnbcB7bwFf5lSBR3) | 2:50 | 2022-10-17 | 2023-01-27 |
 | [Sparami](https://open.spotify.com/track/7ozAgGRGbnupBGOmm7gzrR) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Sparami](https://open.spotify.com/album/2ixzbvOnqYcM9w8ycaucAc) | 2:18 | 2023-01-26 | 2023-02-24 |
 | [Speranza e Fame](https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Speranza e Fame](https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ) | 2:48 | 2022-07-14 | 2022-10-07 |
-| [Spoiler](https://open.spotify.com/track/34YLExaZOqmhFphwmYRg1t) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Spoiler](https://open.spotify.com/album/2YcSX52kZUgPPOcTuFx8OZ) | 2:36 | 2022-12-15 |  |
+| [Spoiler](https://open.spotify.com/track/2Qz0nR63jOUTXUI9CN18zV) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Spoiler](https://open.spotify.com/album/6mufSdKht2eiUgYGnMrpRi) | 2:36 | 2023-05-15 |  |
+| [Spoiler](https://open.spotify.com/track/34YLExaZOqmhFphwmYRg1t) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Spoiler](https://open.spotify.com/album/2YcSX52kZUgPPOcTuFx8OZ) | 2:36 | 2022-12-15 | 2023-05-17 |
 | [STELLE](https://open.spotify.com/track/3pAng4b9P3quRYanWSyJ8P) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn) | [STELLE](https://open.spotify.com/album/4MkLCuf0mZWR1w5mgaLad9) | 2:48 | 2022-12-15 | 2023-01-04 |
 | [Sticky](https://open.spotify.com/track/7C8aQRQbqxSkNUBaCkh167) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx) | [Cristallo](https://open.spotify.com/album/6lXeYd6EcEay3YVsYGHC3s) | 2:47 | 2023-05-11 |  |
 | [Still Runnin](https://open.spotify.com/track/5Zl6mXtuM8xbcDtiEh5GN8) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [Still Runnin...](https://open.spotify.com/album/7G9gUgVYytx10YQ47oo8Wr) | 2:23 | 2023-02-23 | 2023-03-25 |

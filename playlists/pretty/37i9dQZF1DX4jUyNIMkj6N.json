@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 180106,
+  "num_followers": 180146,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yjg1NjRjZDZiNTgwY2FjMjZkZjUyNTlmOTZmZDNmNGQ0MzZkYzNm",
+  "snapshot_id": "MCwzODVjNzZhNjU3YmQxNDA1MjY4Mzg3NjQwMDhjODM1MTJiMzQ4ZWNj",
   "tracks": [
     {
       "added_at": "2023-05-04 22:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
         "name": "Jonas Alaska",
         "url": "https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 224560,
       "name": "When the Mourning Comes",
       "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
+        "name": "Buffy",
+        "url": "https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Buffy",
+      "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -887,22 +903,6 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "Buffy",
-        "url": "https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Buffy",
-      "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
         "name": "Joni Was Right Pt. II",
         "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
       },
@@ -915,38 +915,6 @@
       "duration_ms": 200262,
       "name": "Bluebelle Mountain",
       "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
-        "name": "Tran\u00f8y fyr",
-        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Tran\u00f8y fyr",
-      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
-      },
-      "artists": [
-        {
-          "name": "Silver Lining",
-          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -967,6 +935,22 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
+      },
+      "artists": [
+        {
+          "name": "Silver Lining",
+          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
         "name": "Poetry & Airplanes",
         "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "Vinyl and a Heartache",
-        "url": "https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte"
+        "name": "Tran\u00f8y fyr",
+        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
       },
       "artists": [
         {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 219413,
-      "name": "The Sweetest Tune",
-      "url": "https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x"
+      "duration_ms": 236480,
+      "name": "Tran\u00f8y fyr",
+      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 214986,
       "name": "Glimpse of a Time",
       "url": "https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
+        "name": "Vinyl and a Heartache",
+        "url": "https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "The Sweetest Tune",
+      "url": "https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x"
     }
   ],
   "unique_name": "Nordic Folk",

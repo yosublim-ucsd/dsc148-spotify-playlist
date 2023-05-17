@@ -316,6 +316,24 @@
     {
       "album": {
         "name": "Denim",
+        "url": "https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT"
+      },
+      "artists": [
+        {
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210661,
+      "name": "Country Boy Swag",
+      "url": "https://open.spotify.com/track/3rbRSCT3RPBl5J1o1ihANo"
+    },
+    {
+      "album": {
+        "name": "Denim",
         "url": "https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo"
       },
       "artists": [
@@ -326,7 +344,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 210661,
       "name": "Country Boy Swag",
       "url": "https://open.spotify.com/track/6c0IDzUOmZnDJOiHFu7q4F"
@@ -1410,10 +1428,36 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 200682,
       "name": "Times We Had",
       "url": "https://open.spotify.com/track/07BnMSbUANs8DDRZ1HDoy8"
+    },
+    {
+      "album": {
+        "name": "Times We Had",
+        "url": "https://open.spotify.com/album/2isLQ6NrJbpowKoobF9XMc"
+      },
+      "artists": [
+        {
+          "name": "Taylor Ray Holbrook",
+          "url": "https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI"
+        },
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Charlie Farley",
+          "url": "https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200682,
+      "name": "Times We Had",
+      "url": "https://open.spotify.com/track/6JITlNQO7IwT45L9YafIUy"
     },
     {
       "album": {
@@ -1462,6 +1506,32 @@
     {
       "album": {
         "name": "Denim",
+        "url": "https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT"
+      },
+      "artists": [
+        {
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+        },
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        },
+        {
+          "name": "Danny Boone",
+          "url": "https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225578,
+      "name": "Way of Life",
+      "url": "https://open.spotify.com/track/3ZSQnPonsWW70HwNkeADRg"
+    },
+    {
+      "album": {
+        "name": "Denim",
         "url": "https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo"
       },
       "artists": [
@@ -1480,7 +1550,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 225578,
       "name": "Way of Life",
       "url": "https://open.spotify.com/track/772E0ETHUfEwT5gJJOXW0C"

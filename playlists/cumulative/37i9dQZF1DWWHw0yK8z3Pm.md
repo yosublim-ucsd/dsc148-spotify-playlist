@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Colter Wall
 
-316 songs - 19 hr 20 min
+317 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Grandfather](https://open.spotify.com/track/6Mf7qSGGEDuxV95aQpf9Ty) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Grandfather](https://open.spotify.com/album/4FcEruvFCCjxQ4GyikOUFX) | 4:24 | 2022-05-20 | 2022-09-17 |
 | [Great Goodbye](https://open.spotify.com/track/2lhm5FumxSB6DGKQCvlLCo) | [Cynthia Hamar](https://open.spotify.com/artist/22GLcgW0TkIpnDgVp9Igo6) | [Joint & Marrow](https://open.spotify.com/album/6ciXz796jqwH4nU2odt48Z) | 4:13 | 2022-09-23 | 2023-04-22 |
 | [Greyhound](https://open.spotify.com/track/2c7BU7qdz3xGSndyj5OQKN) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Greyhound](https://open.spotify.com/album/65CRcFpY94KnI8NGo6Ezq5) | 4:15 | 2022-08-26 | 2022-11-12 |
-| [Happy Person](https://open.spotify.com/track/37a2o186agDwlqxtlb1pWA) | [Babitha](https://open.spotify.com/artist/2I2YUGgtWpuhyI1mUzom4y) | [Brighter Side of Blue](https://open.spotify.com/album/5ksGObxjs1JrBhHXzWl4WB) | 3:21 | 2023-01-20 |  |
+| [Happy Person](https://open.spotify.com/track/37a2o186agDwlqxtlb1pWA) | [Babitha](https://open.spotify.com/artist/2I2YUGgtWpuhyI1mUzom4y) | [Brighter Side of Blue](https://open.spotify.com/album/5ksGObxjs1JrBhHXzWl4WB) | 3:21 | 2023-01-20 | 2023-05-17 |
 | [Hard to Build\. Easy to Break.](https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [Hard To Build\. Easy To Break.](https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6) | 4:18 | 2023-04-28 |  |
 | [Hard To Make A Living](https://open.spotify.com/track/3MLKmm3jUPCyjcRhPdmkNT) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Hard To Make A Living](https://open.spotify.com/album/6dubX6Lgnbp4iZZLmL5YN7) | 3:20 | 2022-10-07 | 2022-10-29 |
 | [Headlines](https://open.spotify.com/track/0RIVsm9eMXUAhUgrQ7NeFj) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Highs in the Minuses](https://open.spotify.com/album/2zR97oZdXueACHFn00iuR7) | 3:41 | 2022-05-13 | 2022-07-29 |
@@ -156,6 +156,7 @@
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2023-04-21 |  |
 | [In the Morning](https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 2:26 | 2022-07-22 |  |
 | [Ink & the Ash](https://open.spotify.com/track/7ojVABChTg9ogpIRq2z9OR) | [JJ and The Pillars](https://open.spotify.com/artist/79g9vsMMooAco9g2SGq4ja) | [Ink & the Ash](https://open.spotify.com/album/61FTErQNMScnIupkWWDwo7) | 3:38 | 2022-05-13 | 2023-01-21 |
+| [Instant Cash for Gold](https://open.spotify.com/track/3Jd8ZnKlKNBsRnO6XJTbYZ) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz) | 3:07 | 2023-05-12 |  |
 | [Instant Cash for Gold](https://open.spotify.com/track/5KAiIOtmYxJlW6fIkgWWsH) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Instant Cash for Gold](https://open.spotify.com/album/6USRdm9O0GBJFyQLKav3JR) | 3:07 | 2022-09-30 | 2023-04-30 |
 | [Isn't It A Pity](https://open.spotify.com/track/28yHkfI9MSddss1VIpGrSm) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [All Blue](https://open.spotify.com/album/6by4TrvFhxkZiee23fhhi3) | 3:40 | 2022-10-14 | 2023-04-26 |
 | [It's So Hard to Hold On](https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [It's so Hard to Hold On](https://open.spotify.com/album/64z3mnnIQf44D7dumfUWJY) | 3:37 | 2022-06-17 | 2022-11-12 |

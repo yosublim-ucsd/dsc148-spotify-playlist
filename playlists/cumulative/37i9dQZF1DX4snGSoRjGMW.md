@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Won't Be\) Coming Home](https://open.spotify.com/track/12xd9vbV1Z2ZHkezUQnusF) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Nothin But Love](https://open.spotify.com/album/3lYuG4Yn0zfvoZjSm1BfNL) | 4:52 | 2020-12-01 |  |
+| [\(Won't Be\) Coming Home](https://open.spotify.com/track/12xd9vbV1Z2ZHkezUQnusF) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Nothin But Love](https://open.spotify.com/album/3lYuG4Yn0zfvoZjSm1BfNL) | 4:52 | 2020-12-01 |  |
 | [\[Won't Be\] Coming Home](https://open.spotify.com/track/1Ng2K6WjE2FxzbFzpu2gVc) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Nothin But Love](https://open.spotify.com/album/2asharE8GAbw3uW4J02WmK) | 4:52 | 2020-12-01 | 2022-07-29 |
 | [Ace Of Spades](https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Ace Of Spades](https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK) | 2:36 | 2022-09-30 |  |
 | [All The Way Down](https://open.spotify.com/track/353BumIgA33r4FzY84JCaF) | [Lonnie Shields](https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV) | [Blues Is On Fire](https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ) | 4:02 | 2020-12-01 |  |

@@ -4604,6 +4604,28 @@
     {
       "album": {
         "name": "Must Be The Country",
+        "url": "https://open.spotify.com/album/6nWB3W1nkPidWdhIHsdP4I"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Dillon Carmichael",
+          "url": "https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212303,
+      "name": "Must Be The Country",
+      "url": "https://open.spotify.com/track/1RoBWTciaQWgQj6n9icEvI"
+    },
+    {
+      "album": {
+        "name": "Must Be The Country",
         "url": "https://open.spotify.com/album/0PQm2a5s7fpKvDbhVIoXLR"
       },
       "artists": [
@@ -4618,7 +4640,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 212303,
       "name": "Must Be The Country",
       "url": "https://open.spotify.com/track/3KLTDeMtxU0faV1a9ezasK"

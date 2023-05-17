@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 101151,
+  "num_followers": 101204,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTM2NjE3MWI4ZDBmYjhkZTExYjdlNDY5ZGI0NDhhZWE5MTQ5ZmRm",
+  "snapshot_id": "MCxjZWRiZmQ1MGExMTYxNmEwOWRmYTRiOGQyNjUyNmE5MDI0MWQ1ODIy",
   "tracks": [
     {
       "added_at": "2023-05-12 18:33:20",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-05-12 18:33:20",
       "album": {
+        "name": "Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 151330,
+      "name": "Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
+    },
+    {
+      "added_at": "2023-05-12 18:33:20",
+      "album": {
         "name": "Tropa de Jesus Eletro",
         "url": "https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 165418,
       "name": "Tropa de Jesus Eletro",
       "url": "https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw"
-    },
-    {
-      "added_at": "2023-05-12 18:33:20",
-      "album": {
-        "name": "Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 151330,
-      "name": "Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
     },
     {
       "added_at": "2023-05-12 18:33:20",
@@ -1219,18 +1219,26 @@
     {
       "added_at": "2023-05-12 18:33:20",
       "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+        "name": "Me Resgatou (Remix)",
+        "url": "https://open.spotify.com/album/6TU6bUWANhJ9zpJ3tTApVM"
       },
       "artists": [
         {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+          "name": "Projeto Vida Nova de Iraj\u00e1",
+          "url": "https://open.spotify.com/artist/0ZmABAt0Sl0CzkOqnmoMMP"
+        },
+        {
+          "name": "Eduardo Silva",
+          "url": "https://open.spotify.com/artist/4wLaYXR6MZi4poYDrMrptV"
+        },
+        {
+          "name": "Carlos Eduardo da Silva de Assis",
+          "url": "https://open.spotify.com/artist/6gONuTEizkTtY3YgYdt7mp"
         }
       ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+      "duration_ms": 231948,
+      "name": "Me Resgatou - Remix",
+      "url": "https://open.spotify.com/track/7Lp0ewXTeZBzflHnhX9mp7"
     },
     {
       "added_at": "2023-05-12 18:33:20",
@@ -1259,26 +1267,18 @@
     {
       "added_at": "2023-05-12 18:33:20",
       "album": {
-        "name": "Me Resgatou (Remix)",
-        "url": "https://open.spotify.com/album/6TU6bUWANhJ9zpJ3tTApVM"
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
       "artists": [
         {
-          "name": "Projeto Vida Nova de Iraj\u00e1",
-          "url": "https://open.spotify.com/artist/0ZmABAt0Sl0CzkOqnmoMMP"
-        },
-        {
-          "name": "Eduardo Silva",
-          "url": "https://open.spotify.com/artist/4wLaYXR6MZi4poYDrMrptV"
-        },
-        {
-          "name": "Carlos Eduardo da Silva de Assis",
-          "url": "https://open.spotify.com/artist/6gONuTEizkTtY3YgYdt7mp"
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
         }
       ],
-      "duration_ms": 231948,
-      "name": "Me Resgatou - Remix",
-      "url": "https://open.spotify.com/track/7Lp0ewXTeZBzflHnhX9mp7"
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
     },
     {
       "added_at": "2023-05-12 18:33:20",

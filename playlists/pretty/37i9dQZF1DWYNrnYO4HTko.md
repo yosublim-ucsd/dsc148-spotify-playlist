@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580 likes - 92 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 92 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 84 | [Hard To Handle \- Live In New Orleans / 1991](https://open.spotify.com/track/5xoWWp0HdXcSiybbU8pfSE) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Live! \(Live In New Orleans / 1991\)](https://open.spotify.com/album/6qQ9kfQ2IVuDwTJAEGtXc7) | 3:38 |
 | 85 | [Dock Of The Bay \- Remastered 2003](https://open.spotify.com/track/12PlOIMP73jVDCL21uQ5iM) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [A Natural Woman](https://open.spotify.com/album/7flJiihAzrz0UWCjswUc4A) | 2:40 |
 | 86 | [Fa Fa Fa Fa Fa \(Sad Song\)](https://open.spotify.com/track/2iHyljFOELGJpzZtGmbHBl) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Emotion \(Real World Gold\)](https://open.spotify.com/album/7CHL3hxXPT9sTnQv3hZe39) | 3:13 |
-| 87 | [Nobody's Fault But Mine](https://open.spotify.com/track/5Ksa4HCbpVeqjk9xQOhjAI) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 2:39 |
+| 87 | [Nobody's Fault But Mine](https://open.spotify.com/track/5Ksa4HCbpVeqjk9xQOhjAI) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 2:39 |
 | 88 | [Respect \(feat\. Wayne Henderson\)](https://open.spotify.com/track/5WefFRKDoyJJ8zVCfvtIhU) | [The Freedom Sounds](https://open.spotify.com/artist/79TsszbcaDn957VtVKQGaA), [Wayne Henderson](https://open.spotify.com/artist/55PU5eP7Ndxn5T3TvBdXZ2) | [People Get Ready \(feat\. Wayne Henderson\)](https://open.spotify.com/album/4sZJQZA40YWfofsHINS1Gs) | 2:56 |
 | 89 | [Respect](https://open.spotify.com/track/5lOUxU6giZYMVkLZDGyih0) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va) | [Songs](https://open.spotify.com/album/1CVOf9xngqh7U7FvOs0OSr) | 3:05 |
 | 90 | [Respect](https://open.spotify.com/track/60pb3dBec5kUtpNKmTn7wX) | [Melanie Amaro](https://open.spotify.com/artist/5jWTiWBU6BfIEtcYwYA3nv) | [Respect](https://open.spotify.com/album/0IPlesdaTA40TLJN5pzKFX) | 2:43 |
 | 91 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
 | 92 | [Where You Lead Me](https://open.spotify.com/track/7CQfHbaz8di8UFbayDCRCl) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/6K1TG5C0rzi1tfNEmUI4CY) | 2:29 |
 
-Snapshot ID: `MCxhM2QyMmVmMWZlZTI5MjZmY2JiNmU1MmNkOTE1MzRjYWJjZTg2NGEy`
+Snapshot ID: `MCxmOGUxYzllMWE2N2ViMmE0NzY3ZTFmYjdjZGM1OGExYzE2MDY0OWQw`

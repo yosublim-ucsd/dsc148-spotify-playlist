@@ -2,9 +2,9 @@
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: Deep Sea Diving Club
+> The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: どんぐりず + Neibiss
 
-454 songs - 1 day 4 hr 37 min
+456 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Daydream Believer feat\. BIM](https://open.spotify.com/track/4fA0MAm36U4x4B3gb9qE36) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Sweet Home](https://open.spotify.com/album/6U8mea9zHq3z2yJmx8wKA7) | 2:56 | 2023-03-30 | 2023-04-14 |
 | [Depression \- No Joy Remix](https://open.spotify.com/track/4Mv4PAsS2Q2bv8CJsTM9se) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Depression \(No Joy Remix\)](https://open.spotify.com/album/5akrcqcTzwHEJoB3OFGY9R) | 2:57 | 2023-02-28 | 2023-03-18 |
 | [DIScommunication](https://open.spotify.com/track/69Xc4wPl8QDY5Mt9StUmQc) | [Rasen.](https://open.spotify.com/artist/6YP3gT2SzsGxYinr85SUSs) | [Togaru to Rasen.](https://open.spotify.com/album/3cfCCF47aaXjD3l8YB5GtF) | 2:57 | 2023-03-23 | 2023-03-29 |
+| [DOMBIESS](https://open.spotify.com/track/2U5932H4qdMDFegfvZ6RhS) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [DOMBIESS](https://open.spotify.com/album/6y0bTTNpuVCc9kPW7dy48r) | 2:21 | 2023-05-16 |  |
 | [don't call me queen](https://open.spotify.com/track/6LEN840bmAq5qa1z9ZXVZr) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:14 | 2023-05-10 |  |
 | [Don't Obsess](https://open.spotify.com/track/1VPdPQ7xmxOyCQodIw24R0) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:52 | 2023-04-04 | 2023-04-12 |
 | [door](https://open.spotify.com/track/2I4ispQ4UjY6cot5eSJHTg) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [door](https://open.spotify.com/album/4lycjMMaKA1imPO6Wm4OUc) | 3:47 | 2023-05-09 | 2023-05-11 |
@@ -175,7 +176,7 @@
 | [life on the run](https://open.spotify.com/track/5DyTRTEBWGANlW8tHHclp5) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [Mixed up](https://open.spotify.com/album/7vTpvDx5hHj2Bu77bHFhK0) | 4:28 | 2023-04-04 | 2023-04-12 |
 | [Lifetime](https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Lifetime](https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg) | 3:23 | 2023-01-12 |  |
 | [Life’s A Game](https://open.spotify.com/track/5PHqslBNMYjZGjAa2VEAP6) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [This Too Shall Pass](https://open.spotify.com/album/22VtQWVPaMtZXlwKc82rxz) | 2:34 | 2023-03-14 |  |
-| [Lost](https://open.spotify.com/track/4gcA5iPJh6mPAJ0rHkBgpV) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Morning Sun](https://open.spotify.com/album/0YbataSydU54bA7P2wnwYx) | 2:35 | 2023-03-30 |  |
+| [Lost](https://open.spotify.com/track/4gcA5iPJh6mPAJ0rHkBgpV) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Morning Sun](https://open.spotify.com/album/0YbataSydU54bA7P2wnwYx) | 2:35 | 2023-03-30 | 2023-05-17 |
 | [Love in vein](https://open.spotify.com/track/2tG5vFDMQKphCWaqffQ0uF) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [Love in vein](https://open.spotify.com/album/6KBu9JKbwD2e4XiTvHJhQe) | 3:00 | 2023-02-07 | 2023-02-15 |
 | [Love Is Money?](https://open.spotify.com/track/7ayKVdG43NcU47ux8db0Md) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Love Is Money?](https://open.spotify.com/album/372fVRnoUdCMcyGqt26so4) | 3:19 | 2023-05-09 |  |
 | [Lucky Boy](https://open.spotify.com/track/1rGTt1WmULpnVd1OJYy3C8) | [Ewoks](https://open.spotify.com/artist/6445mZFWCQZeCmwi6hB4wl) | [ep2](https://open.spotify.com/album/4JFAmcIyNGWvwL9IPJmd0Q) | 3:45 | 2023-03-07 | 2023-03-29 |
@@ -407,6 +408,7 @@
 | [急げ!!!](https://open.spotify.com/track/0CRf9ovluQV67yFMoVivTY) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [BORN IN ASIA](https://open.spotify.com/album/1hxqiqdMhB96Aq0uzgazNM) | 2:06 | 2023-03-14 | 2023-03-16 |
 | [恋するシーサイド](https://open.spotify.com/track/0al7KwZp5wowqSxcF1G7V5) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ), [お茶の間天国](https://open.spotify.com/artist/4CiBaomluFQBPUA9L0Sg9B) | [恋するシーサイド](https://open.spotify.com/album/0dVZvTD3E8jqySSUJfdh3X) | 4:36 | 2023-02-07 | 2023-02-22 |
 | [悪魔くん](https://open.spotify.com/track/1dfN1UyFFMMnUf1nb0glwG) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [悪魔くん](https://open.spotify.com/album/5kSNrVSQsOCifIzOQkNzuB) | 2:42 | 2023-03-30 | 2023-04-28 |
+| [悪魔くん](https://open.spotify.com/track/5J3XK7QsuVn5bnyQz9kWsC) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ロンリーメイビー](https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E) | 2:42 | 2023-05-16 |  |
 | [惑星数珠つなぎ](https://open.spotify.com/track/4pGBhMzvWVCb4QU4EfjNJ5) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix) | [惑星数珠つなぎ](https://open.spotify.com/album/2ylCmkp17XjprjJSMoQvcE) | 4:27 | 2023-02-14 | 2023-03-15 |
 | [愛の二段階右折](https://open.spotify.com/track/5SJZu4LpEywFR6ijjGeCg5) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [愛の二段階右折](https://open.spotify.com/album/3AYlpm999fttRquPhhg18W) | 4:03 | 2023-03-23 |  |
 | [愛の宇宙語](https://open.spotify.com/track/6dOweKZMfhzPCCRvNUouZD) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [愛の宇宙語](https://open.spotify.com/album/2n8BTJEsUOpxQe893tvosF) | 3:22 | 2023-03-07 | 2023-03-29 |
@@ -414,7 +416,7 @@
 | [我愛你](https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活のニュース](https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz) | 4:56 | 2023-03-28 |  |
 | [春の匂いに誘われて](https://open.spotify.com/track/6eBoTEaIcF7lZQE3GBE3Kl) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [春の匂いに誘われて](https://open.spotify.com/album/7KJG0imdCMwHBnyloMglft) | 1:37 | 2023-04-20 | 2023-05-14 |
 | [春よ、恋](https://open.spotify.com/track/5apcXZd7pDhlHYM3fpLIK7) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [春よ、恋](https://open.spotify.com/album/158n63trUTwgLxptMqxA7h) | 5:01 | 2023-01-24 | 2023-02-08 |
-| [春告](https://open.spotify.com/track/5fXCX7eOJSTM6JnwkVeaXJ) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [春告](https://open.spotify.com/album/6lXoXCIkKfwKjAxPhDCRYZ) | 3:15 | 2023-03-07 |  |
+| [春告](https://open.spotify.com/track/5fXCX7eOJSTM6JnwkVeaXJ) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [春告](https://open.spotify.com/album/6lXoXCIkKfwKjAxPhDCRYZ) | 3:15 | 2023-03-07 | 2023-05-17 |
 | [時間と距離と僕らの旅 \- Rearrange](https://open.spotify.com/track/1HACQgKVGMD8ujdUSiBtl5) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [時間と距離と僕らの旅 \(Rearrange\)](https://open.spotify.com/album/3fpf3mwrSsq3pTQw5LKskP) | 4:17 | 2023-03-21 |  |
 | [書きたい](https://open.spotify.com/track/7xXGFsnwMAaJWysKQrweo3) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Sweet.ep](https://open.spotify.com/album/2fgcE8yz8GWI7pCUWD0puM) | 3:44 | 2023-04-11 | 2023-04-13 |
 | [最低なともだち](https://open.spotify.com/track/0DbObC32hy6ISAqkWrmV13) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [最低なともだち](https://open.spotify.com/album/1dBBgW5NchBijnKn9h2K0X) | 4:33 | 2023-05-11 |  |

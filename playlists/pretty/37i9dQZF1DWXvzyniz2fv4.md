@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,537 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,539 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 40 | [Todas as Cidades](https://open.spotify.com/track/2XQQNpvvGwIVWei7Deg9o9) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Todas as Cidades](https://open.spotify.com/album/12zQoI9qCsnBo6t9Qe176A) | 2:15 |
 | 41 | [Nada comum](https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Joab Beats](https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh) | [Nada Comum](https://open.spotify.com/album/5mlcHnrFuiWZ4EQDtudkvO) | 3:19 |
 | 42 | [Fica](https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3) | [Nitto](https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Fica](https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty) | 2:49 |
-| 43 | [Certo pra Você](https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9) | [Certo pra Você](https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv) | 3:31 |
-| 44 | [Rosé](https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj) | 3:32 |
+| 43 | [Rosé](https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj) | 3:32 |
+| 44 | [Certo pra Você](https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9) | [Certo pra Você](https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv) | 3:31 |
 | 45 | [Stories](https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Stories](https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R) | 2:08 |
 | 46 | [Mistério](https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Mistério](https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG) | 2:22 |
 | 47 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 67 | [Meia Hora](https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ) | [Gabriel Henriques](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [NOX](https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO) | [Meia Hora](https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV) | 3:17 |
 | 68 | [Agradeço](https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Felipe Brasil](https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9) | [Agradeço](https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn) | 3:33 |
 | 69 | [Voe](https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Voe](https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs) | 2:32 |
-| 70 | [Spoiler](https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK) | [Roig](https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk) | [Spoiler](https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs) | 3:16 |
-| 71 | [27 Dias](https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6) | [Douriel](https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF), [Dracko](https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [27 Dias](https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX) | 2:19 |
+| 70 | [27 Dias](https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6) | [Douriel](https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF), [Dracko](https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [27 Dias](https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX) | 2:19 |
+| 71 | [Spoiler](https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK) | [Roig](https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk) | [Spoiler](https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs) | 3:16 |
 | 72 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 |
 | 73 | [Ela Não Cansa](https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94) | [Ela Não Cansa](https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H) | 2:54 |
 | 74 | [Lance Casual](https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh) | [Duace](https://open.spotify.com/artist/2SsXx3dW4xOoDQ1TxOCE4S), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Blue Mary](https://open.spotify.com/artist/2GPEaK0AzTsnUJHSFVTPjh), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Lance Casual](https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi) | 3:01 |
 | 75 | [Vários Planos](https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Vários Planos](https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI) | 3:00 |
 
-Snapshot ID: `MCw1ZTQ1MWRiMTc0MTZlMjY5MDZmNDIzYmVjZWFlNjExYmJjMjMwMmFi`
+Snapshot ID: `MCxmZjFkMDA4MTRiNTA4MmZkZDk0ZjQxODY3ZGRkYjBjODdlZDQ2YWFj`

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yubeili y Karen M\u00e9ndez ",
-  "num_followers": 57107,
+  "num_followers": 57124,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmJmZDY5ZWZiOGIzMjlhOGU4MmQ5ZTg1YTNmMmM3YWI3OWY0ZGZj",
+  "snapshot_id": "MCwyZjIxMzRjOWM2Yzg3NGY0MjBjMzM2MjI0MjU5MTdjMGY5OWFiNWM5",
   "tracks": [
     {
       "added_at": "2023-04-28 06:00:00",
@@ -831,30 +831,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Discotequera",
-        "url": "https://open.spotify.com/album/4cpDqJY2bMij4QTCylkjTI"
-      },
-      "artists": [
-        {
-          "name": "Fran Lorenz",
-          "url": "https://open.spotify.com/artist/1ZwW6tG1kVnq1XBGfu3tOB"
-        },
-        {
-          "name": "Ale Mix",
-          "url": "https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F"
-        },
-        {
-          "name": "Riko Mix",
-          "url": "https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP"
-        }
-      ],
-      "duration_ms": 173738,
-      "name": "Discotequera",
-      "url": "https://open.spotify.com/track/5nUbVeL78iikt7qEnNSij5"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "LA PUERTA",
         "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 178741,
       "name": "necesito un break de tanta pendejad*",
       "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Discotequera",
+        "url": "https://open.spotify.com/album/4cpDqJY2bMij4QTCylkjTI"
+      },
+      "artists": [
+        {
+          "name": "Fran Lorenz",
+          "url": "https://open.spotify.com/artist/1ZwW6tG1kVnq1XBGfu3tOB"
+        },
+        {
+          "name": "Ale Mix",
+          "url": "https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F"
+        },
+        {
+          "name": "Riko Mix",
+          "url": "https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP"
+        }
+      ],
+      "duration_ms": 173738,
+      "name": "Discotequera",
+      "url": "https://open.spotify.com/track/5nUbVeL78iikt7qEnNSij5"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Gato",
+        "url": "https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd"
+      },
+      "artists": [
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Gato",
+      "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Pal Bellakeo",
         "url": "https://open.spotify.com/album/3mdzmfzXoCh1Ns2DqYQ4kM"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 212630,
       "name": "Pal Bellakeo",
       "url": "https://open.spotify.com/track/3HNJzcAtMDkmyjcIP4AekL"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Gato",
-        "url": "https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd"
-      },
-      "artists": [
-        {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Gato",
-      "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Como Ni\u00f1os",
-        "url": "https://open.spotify.com/album/5Sdp54VP8kKWdijOyAsGRV"
+        "name": "Hipernova",
+        "url": "https://open.spotify.com/album/0cKvKbeXn0KjgXQGBmUdvR"
       },
       "artists": [
         {
-          "name": "Farileo",
-          "url": "https://open.spotify.com/artist/6tAbzKOioDdEowdunxreU3"
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        },
+        {
+          "name": "SamueVi",
+          "url": "https://open.spotify.com/artist/1QoAZ3MwxzMXXxkU6NVGST"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Como Ni\u00f1os",
-      "url": "https://open.spotify.com/track/33t8RT6FkLmDqR0XhdtSfE"
+      "duration_ms": 208250,
+      "name": "Hipernova",
+      "url": "https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1263,6 +1267,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Como Ni\u00f1os",
+        "url": "https://open.spotify.com/album/5Sdp54VP8kKWdijOyAsGRV"
+      },
+      "artists": [
+        {
+          "name": "Farileo",
+          "url": "https://open.spotify.com/artist/6tAbzKOioDdEowdunxreU3"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Como Ni\u00f1os",
+      "url": "https://open.spotify.com/track/33t8RT6FkLmDqR0XhdtSfE"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Te vas",
         "url": "https://open.spotify.com/album/6sAbLFsioGx77UDFe3acfp"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 202560,
       "name": "Te vas",
       "url": "https://open.spotify.com/track/2X4YMUlzehFWJWV4AGLCdl"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Hipernova",
-        "url": "https://open.spotify.com/album/0cKvKbeXn0KjgXQGBmUdvR"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        },
-        {
-          "name": "SamueVi",
-          "url": "https://open.spotify.com/artist/1QoAZ3MwxzMXXxkU6NVGST"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Hipernova",
-      "url": "https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "LO SIENTO",
-        "url": "https://open.spotify.com/album/7J8LeqFNvs7DthngS8x7Qj"
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/7AqEjgf07HPFdnsC9mxNIz"
       },
       "artists": [
         {
-          "name": "Fano",
-          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
-        },
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+          "name": "Santa Musa",
+          "url": "https://open.spotify.com/artist/2YQAd2AhnUBACG81W5DxNg"
         }
       ],
-      "duration_ms": 153913,
-      "name": "LO SIENTO",
-      "url": "https://open.spotify.com/track/3gn4amt8rKlgHI8pNrxFyN"
+      "duration_ms": 166666,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/6MEQ0MaLs5Na66Tsc8Fq7l"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1355,6 +1351,26 @@
       "duration_ms": 135792,
       "name": "Verde",
       "url": "https://open.spotify.com/track/5tze5L2cxNRp4qBTJQD94k"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "LO SIENTO",
+        "url": "https://open.spotify.com/album/7J8LeqFNvs7DthngS8x7Qj"
+      },
+      "artists": [
+        {
+          "name": "Fano",
+          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
+        },
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "duration_ms": 153913,
+      "name": "LO SIENTO",
+      "url": "https://open.spotify.com/track/3gn4amt8rKlgHI8pNrxFyN"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1391,22 +1407,6 @@
       "duration_ms": 152760,
       "name": "Tranqui",
       "url": "https://open.spotify.com/track/4A8ygVU8Ot3KTW2alLZ8Eq"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/7AqEjgf07HPFdnsC9mxNIz"
-      },
-      "artists": [
-        {
-          "name": "Santa Musa",
-          "url": "https://open.spotify.com/artist/2YQAd2AhnUBACG81W5DxNg"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/6MEQ0MaLs5Na66Tsc8Fq7l"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Hawaii",
+        "url": "https://open.spotify.com/album/2s83o7pdVw16oMQD0kelzc"
+      },
+      "artists": [
+        {
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Hawaii",
+      "url": "https://open.spotify.com/track/6dJTU6YbvAM5uIGsbhbAuk"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Mi Plan B",
         "url": "https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "C\u00f3mo Har\u00e9",
-        "url": "https://open.spotify.com/album/3122VI6TccbqMLfCWJF69y"
-      },
-      "artists": [
-        {
-          "name": "Panea",
-          "url": "https://open.spotify.com/artist/5knDqp1Rt5PCmJF46vWLC4"
-        }
-      ],
-      "duration_ms": 182526,
-      "name": "C\u00f3mo Har\u00e9?",
-      "url": "https://open.spotify.com/track/2zh2oQk6qMKYx7NYwWTGHx"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "REGGAETON SAD",
         "url": "https://open.spotify.com/album/6hDzYcv7Uyy0SOxTVrkdeW"
       },
@@ -1579,18 +1579,38 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Hawaii",
-        "url": "https://open.spotify.com/album/2s83o7pdVw16oMQD0kelzc"
+        "name": "C\u00f3mo Har\u00e9",
+        "url": "https://open.spotify.com/album/3122VI6TccbqMLfCWJF69y"
       },
       "artists": [
         {
-          "name": "Malamala",
-          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
+          "name": "Panea",
+          "url": "https://open.spotify.com/artist/5knDqp1Rt5PCmJF46vWLC4"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Hawaii",
-      "url": "https://open.spotify.com/track/6dJTU6YbvAM5uIGsbhbAuk"
+      "duration_ms": 182526,
+      "name": "C\u00f3mo Har\u00e9?",
+      "url": "https://open.spotify.com/track/2zh2oQk6qMKYx7NYwWTGHx"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Par de Gente",
+        "url": "https://open.spotify.com/album/1FzuiWEtaWtMuvj61qatPq"
+      },
+      "artists": [
+        {
+          "name": "Christopher Rafael",
+          "url": "https://open.spotify.com/artist/0UzqLxUiIgatEfQfxEN26K"
+        },
+        {
+          "name": "Erick Joel",
+          "url": "https://open.spotify.com/artist/6NZX7uR97qxDVDU1EOD8x9"
+        }
+      ],
+      "duration_ms": 218096,
+      "name": "Par de Gente",
+      "url": "https://open.spotify.com/track/327Pw4I4Q9kkTSEhIkJwva"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1619,26 +1639,6 @@
       "duration_ms": 248347,
       "name": "Pal Piso",
       "url": "https://open.spotify.com/track/1yufEGuITHy338J5iFe7oE"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Par de Gente",
-        "url": "https://open.spotify.com/album/1FzuiWEtaWtMuvj61qatPq"
-      },
-      "artists": [
-        {
-          "name": "Christopher Rafael",
-          "url": "https://open.spotify.com/artist/0UzqLxUiIgatEfQfxEN26K"
-        },
-        {
-          "name": "Erick Joel",
-          "url": "https://open.spotify.com/artist/6NZX7uR97qxDVDU1EOD8x9"
-        }
-      ],
-      "duration_ms": 218096,
-      "name": "Par de Gente",
-      "url": "https://open.spotify.com/track/327Pw4I4Q9kkTSEhIkJwva"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "La Duda",
+        "url": "https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm"
+      },
+      "artists": [
+        {
+          "name": "Matt Paris",
+          "url": "https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "La Duda",
+      "url": "https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "SUERTE",
         "url": "https://open.spotify.com/album/5QKexiENC5HezkBqafnEAb"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 243272,
       "name": "SUERTE",
       "url": "https://open.spotify.com/track/4SgIhxy6ViuwWZEB3tePLo"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "La Duda",
-        "url": "https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm"
-      },
-      "artists": [
-        {
-          "name": "Matt Paris",
-          "url": "https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "La Duda",
-      "url": "https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG"
     },
     {
       "added_at": "2023-04-28 06:00:00",

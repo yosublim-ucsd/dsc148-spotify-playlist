@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Stefy Evita in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,393 likes - 77 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,407 likes - 77 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ACD](https://open.spotify.com/track/0IFRfiTJCtPSjkNT7XD1na) | [Stefy Evita](https://open.spotify.com/artist/4Z04kBsbXXAHT9HnboyBiz) | [ACD](https://open.spotify.com/album/04NaKH8KEgg6bEXVuGU255) | 3:02 |
-| 2 | [a Nessuno](https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:13 |
+| 2 | [Cattiva](https://open.spotify.com/track/0Pb8FIL8fecpxJCVgSxdWL) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Cattiva](https://open.spotify.com/album/4PWXnJIUU11RbIHnDIv9LL) | 3:18 |
 | 3 | [Puoi fare meglio](https://open.spotify.com/track/6m1y1HHAlYjB2pmi9I8gRV) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Puoi fare meglio](https://open.spotify.com/album/1j2XwuZzOBU5fXZjsnxcW3) | 2:57 |
 | 4 | [Lunedì \(feat\. Drast\)](https://open.spotify.com/track/0T64e7lVwIVavM829e0PPZ) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [The American Boyfriends](https://open.spotify.com/artist/3jmCi2B1XY7vTC1fRtbEzS), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [CRESCENDO](https://open.spotify.com/album/3C0SlEBi0H4vRB9Ed5nbr8) | 3:04 |
 | 5 | [N.D.X.S.](https://open.spotify.com/track/7i4AeLPeTTP6GxgVmwV5XL) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [N.D.X.S.](https://open.spotify.com/album/19W9Uy9g4Tt1IVYehMjBkF) | 2:43 |
 | 6 | [TOXIC](https://open.spotify.com/track/4TF2IPm9ZNs4xowapURvKv) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [STO NELLA SAD DELUXE](https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S) | 3:05 |
 | 7 | [FABIO E LUANA](https://open.spotify.com/track/4n3XhfSgAv19xo3nq18yEr) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq) | [FABIO E LUANA](https://open.spotify.com/album/3RScocxIxCDgJdjVJBeLP4) | 3:29 |
-| 8 | [Mare Di Lacrime](https://open.spotify.com/track/35Jwhu5uWV0ekuzxDKCdpU) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Mare Di Lacrime](https://open.spotify.com/album/2hvhmg29psyxonU4ZogcnD) | 3:05 |
-| 9 | [FBI](https://open.spotify.com/track/6VJjQSnDSeJZ9h9Aajveuk) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [FBI](https://open.spotify.com/album/37PmLgUh4GAogBMMvoISaM) | 2:50 |
-| 10 | [Cattiva](https://open.spotify.com/track/0Pb8FIL8fecpxJCVgSxdWL) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Cattiva](https://open.spotify.com/album/4PWXnJIUU11RbIHnDIv9LL) | 3:18 |
-| 11 | [Sparare alla luna](https://open.spotify.com/track/05936MlT9MfzYIJrBgHNFM) | [Zaite](https://open.spotify.com/artist/6KLLVe6z95qVupJjRHmxMO) | [Sparare alla luna](https://open.spotify.com/album/4SynwzYbuyFkuoBAKcQ518) | 2:34 |
+| 8 | [a Nessuno](https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:13 |
+| 9 | [Sparare alla luna](https://open.spotify.com/track/05936MlT9MfzYIJrBgHNFM) | [Zaite](https://open.spotify.com/artist/6KLLVe6z95qVupJjRHmxMO) | [Sparare alla luna](https://open.spotify.com/album/4SynwzYbuyFkuoBAKcQ518) | 2:34 |
+| 10 | [Mare Di Lacrime](https://open.spotify.com/track/35Jwhu5uWV0ekuzxDKCdpU) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Mare Di Lacrime](https://open.spotify.com/album/2hvhmg29psyxonU4ZogcnD) | 3:05 |
+| 11 | [FBI](https://open.spotify.com/track/6VJjQSnDSeJZ9h9Aajveuk) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [FBI](https://open.spotify.com/album/37PmLgUh4GAogBMMvoISaM) | 2:50 |
 | 12 | [Lividi](https://open.spotify.com/track/06jnGF7Oc1Dd2XEuLyzBA2) | [AILO](https://open.spotify.com/artist/6SkFdYX4I8S4lmKMj9yHwO) | [Lividi](https://open.spotify.com/album/2Cstv632dgOCZ2GUAXoQK7) | 2:34 |
 | 13 | [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 |
 | 14 | [COSA VA IN ME?](https://open.spotify.com/track/7CzSSJurj4jcsO8W53iz9L) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [COSA VA IN ME?](https://open.spotify.com/album/15qyqPXK3K5Z1KJvVoGVV1) | 3:01 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 76 | [Ragazzi Fuori](https://open.spotify.com/track/1URSGryUXiYhr3StdCCKZw) | [7 Giorni](https://open.spotify.com/artist/2gKp9MmLyGNtwTI5qCj3qz) | [Ragazzi Fuori](https://open.spotify.com/album/0MDH9w5buwGrFj11nKwfgt) | 2:47 |
 | 77 | [Russian roulette](https://open.spotify.com/track/78HTk9Utv4Kh5C0QIUv2q8) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Russian roulette](https://open.spotify.com/album/1GRYhGhcPDLHnzmwY43uQq) | 4:10 |
 
-Snapshot ID: `MCw5ZGU5Y2I3NjMzY2UwNTEzN2MxNWMxNThmYTdhYzUzZmM5YmZhNjA4`
+Snapshot ID: `MCxhZDBkY2M0NWViZmQzMzA4ZjI4NTVmZjU2ZjczMzc2ZTZiYjRmZmM2`

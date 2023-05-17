@@ -277,6 +277,28 @@
     },
     {
       "album": {
+        "name": "El Kebir",
+        "url": "https://open.spotify.com/album/3OI8G2Gclk9WFXo4JPnzNf"
+      },
+      "artists": [
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        },
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Ansak Wansahom",
+      "url": "https://open.spotify.com/track/1IiDvZtAgkNHsjgowc42eT"
+    },
+    {
+      "album": {
         "name": "Madina",
         "url": "https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp"
       },
@@ -318,7 +340,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 162253,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/46wGwb238XBRZru8F7tDWu"
@@ -1344,7 +1366,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 193992,
       "name": "Justin Bieber",
       "url": "https://open.spotify.com/track/6gf1hPyK9vn60kJQoTZw4c"
@@ -2266,8 +2288,8 @@
           "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
         },
         {
-          "name": "ARSENIK",
-          "url": "https://open.spotify.com/artist/6jvTPvQCIBetlX17qnM0Bc"
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
         }
       ],
       "date_added": "2023-05-11",
@@ -2758,6 +2780,28 @@
       "duration_ms": 237284,
       "name": "Tuta Ankh Amoon",
       "url": "https://open.spotify.com/track/4e1btGGrZAkjOobdKywSgJ"
+    },
+    {
+      "album": {
+        "name": "Belad",
+        "url": "https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "Ultra Attack",
+      "url": "https://open.spotify.com/track/1sMQ7tHNtu0TbE8L15EC2h"
     },
     {
       "album": {

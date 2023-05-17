@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: THAMA\(따마\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,414 likes - 56 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,455 likes - 56 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 55 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 |
 | 56 | [faraway](https://open.spotify.com/track/6MysgWeikCdIVrDhPVSCZU) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [faraway](https://open.spotify.com/album/13csUC6m7mKJpmyfWG8bz8) | 3:49 |
 
-Snapshot ID: `MCxiMWI3NWE1MjY4Njc0YTBlNTI3Y2M0NDgwNWYwYTI1NzZlYzg0NGY0`
+Snapshot ID: `MCxmZmJmMmIwODllNGRhMDI4NjM2ODhjYjAzMGQ1MGUyZGM0YWExMTc3`

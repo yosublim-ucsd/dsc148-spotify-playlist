@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Emanuelino in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,900 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,926 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 26 | [4088 \(feat\. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz\)](https://open.spotify.com/track/4L0XMwD32Mq76N3agNpoKG) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Blocka Beatz](https://open.spotify.com/artist/1AnTVUsrFRQ3HBhpUZHi5p) | [4088 \(feat\. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz\)](https://open.spotify.com/album/47I5eWAahrkjPWPXXcLcG8) | 3:24 |
 | 27 | [Notte in Caserma](https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Notte in Caserma](https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3) | 2:42 |
 | 28 | [Everyday](https://open.spotify.com/track/5x2BamFBPDVIt9qWODRqm5) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi) | [Everyday](https://open.spotify.com/album/6ZdNbKAAb2DXa60x3bpVEE) | 3:02 |
-| 29 | [Spoiler](https://open.spotify.com/track/34YLExaZOqmhFphwmYRg1t) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Spoiler](https://open.spotify.com/album/2YcSX52kZUgPPOcTuFx8OZ) | 2:36 |
+| 29 | [Spoiler](https://open.spotify.com/track/2Qz0nR63jOUTXUI9CN18zV) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Spoiler](https://open.spotify.com/album/6mufSdKht2eiUgYGnMrpRi) | 2:36 |
 | 30 | [MISTRESS](https://open.spotify.com/track/1vT1yACp1rSZCvq6QEjUwd) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [MISTRESS](https://open.spotify.com/album/3zUKwXcMpAuxPCTRwSZQao) | 2:36 |
 | 31 | [FIGLIO DI PAPI](https://open.spotify.com/track/72YluxGFurbKqbplTgWFBp) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [FIGLIO DI PAPI](https://open.spotify.com/album/33oNXsuhEYkNVDrl2qBFhr) | 1:41 |
 | 32 | [YELAH \(feat\. Caesar, MarZa, BRESCO, Flus Brain & TOLKA\)](https://open.spotify.com/track/4vqKHaQEonXO0XVJXCJwwr) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W) | [YELAH \(feat\. Caesar, MarZa, BRESCO, Flus Brain & TOLKA\)](https://open.spotify.com/album/31cBdGeBsmh8lLDgq9I2ao) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [TOXIC](https://open.spotify.com/track/1iqptdxYyCRi0Gwik6sH9L) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [EMOTIONAL DAMAGE](https://open.spotify.com/album/0KogfLFbZ5o4DackervXzB) | 2:49 |
 | 50 | [CHIAMA](https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX), [VXXO](https://open.spotify.com/artist/3YtQrwxvFkTMpH0F6e4r9H) | [CHIAMA](https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP) | 2:53 |
 
-Snapshot ID: `MCw5MzZmZjJmOTVkZjcxYjE5OWYyNTU5MjYwMWM4ZDIxMWRmYjljOGJh`
+Snapshot ID: `MCwzODQ0NmQ1MmFiZDBjODhmZDk5NzFlNzg4NTFjMzljMmU5ZjhlMGZm`

@@ -692,7 +692,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 221493,
       "name": "Ay-Yo",
       "url": "https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 301000,
       "name": "Because I",
       "url": "https://open.spotify.com/track/0mh54tHuGhlfC0ypt92CPq"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 198306,
       "name": "BETTING",
       "url": "https://open.spotify.com/track/2D4FPjRVAWPGZUnO3Qzz8d"
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 201280,
       "name": "Blue Flame - Japanese ver.",
       "url": "https://open.spotify.com/track/6FnZShD1O17bZa9emuXLXh"
@@ -2142,6 +2142,24 @@
       "duration_ms": 252293,
       "name": "Crazy About You",
       "url": "https://open.spotify.com/track/5fWA7ingUBU5U6eCbsf4TH"
+    },
+    {
+      "album": {
+        "name": "Liminality - EP.DREAM",
+        "url": "https://open.spotify.com/album/0G24S1Jv4NSKhPuDXVtiU6"
+      },
+      "artists": [
+        {
+          "name": "VERIVERY",
+          "url": "https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191986,
+      "name": "Crazy Like That",
+      "url": "https://open.spotify.com/track/3YKVnTgamsTa6zzimeaJXc"
     },
     {
       "album": {
@@ -3550,6 +3568,24 @@
       "duration_ms": 215800,
       "name": "GingaMingaYo (the strange world)",
       "url": "https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv"
+    },
+    {
+      "album": {
+        "name": "GingaMingaYo (the strange world) - Japanese ver. -",
+        "url": "https://open.spotify.com/album/7ruQLUmqu2TsWpWKx7nHbz"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217266,
+      "name": "GingaMingaYo (the strange world) - Japanese ver. -",
+      "url": "https://open.spotify.com/track/6urMiooxd46SXzRcO4TJ2Q"
     },
     {
       "album": {
@@ -5108,7 +5144,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 204426,
       "name": "Limitless",
       "url": "https://open.spotify.com/track/3nOhOCmYzbMtLENk6nlCfk"
@@ -5848,7 +5884,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 161826,
       "name": "MOONLIGHT",
       "url": "https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p"
@@ -6314,7 +6350,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 214701,
       "name": "on the street (with J. Cole)",
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"

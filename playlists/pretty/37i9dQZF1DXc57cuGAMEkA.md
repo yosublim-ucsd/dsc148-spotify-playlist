@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。BTS, Jonas Brothers, Daft Punk, 緑黄色社会, Becky Hill and more! cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,054 likes - 82 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,069 likes - 82 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 81 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 82 | [Automaton](https://open.spotify.com/track/0Kc1jnf1LPo04Jc8hLADFt) | [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F), [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Automaton](https://open.spotify.com/album/6JLTZDZtdxDuSyIoFmgB6Y) | 4:15 |
 
-Snapshot ID: `MCxjOTg2NDZmZDk2NzY4NjFiZmQ5YTkyYjYxMjlhNDViNzFjNjdmNWIz`
+Snapshot ID: `MCw3NDliMzg5YWMzNTYxYTdiZjJkMDdmZDI3ZGU1ODY3ZDE0YTliNGVk`

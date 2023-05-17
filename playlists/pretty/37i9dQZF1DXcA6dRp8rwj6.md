@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Lil Durk & J.Cole\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,564 likes - 114 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,702 likes - 114 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 19 | [Livy](https://open.spotify.com/track/2DLuiBLHfbDPHrOKT4l4S4) | [KENNYJACTA](https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc) | [Livy](https://open.spotify.com/album/3FZtuJqGR2lY8iZuMK6N0Y) | 3:06 |
 | 20 | [Comfort](https://open.spotify.com/track/7Bm5JgF3o1CKnLVBZRLyP4) | [Tat Mannerz](https://open.spotify.com/artist/27WfKfwGt4tCnSTIdBEDdA) | [Comfort](https://open.spotify.com/album/2Rer1iDwEm9yo0M66BqYwc) | 2:53 |
 | 21 | [Sweet Dreams](https://open.spotify.com/track/6PuxCrw3vrb84baTpIrDHr) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw) | [Sweet Dreams](https://open.spotify.com/album/0uGKd9BuGvcCN0Vg7TKxMY) | 3:12 |
-| 22 | [Dog food](https://open.spotify.com/track/6pHxg0eyXdMhizrVv2kyPM) | [MAMMOTH.](https://open.spotify.com/artist/7tdBqb3aekf8FbdIUKEMM1), [chub.e](https://open.spotify.com/artist/2I0enPORehTwnQLXx33rjl) | [Dog food](https://open.spotify.com/album/2sDStg3QB5NkyX7bWepuWH) | 2:09 |
+| 22 | [Dog Food](https://open.spotify.com/track/6pHxg0eyXdMhizrVv2kyPM) | [MAMMOTH.](https://open.spotify.com/artist/7tdBqb3aekf8FbdIUKEMM1), [chub.e](https://open.spotify.com/artist/2I0enPORehTwnQLXx33rjl) | [Dog Food](https://open.spotify.com/album/2sDStg3QB5NkyX7bWepuWH) | 2:09 |
 | 23 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
 | 24 | [Day One](https://open.spotify.com/track/3OLSNsjLlDxMIBCrGQSnJv) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Day One](https://open.spotify.com/album/6Yj1mLYVWdQWTIgix1YYfi) | 2:28 |
 | 25 | [Won’t Back Down \(feat\. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman\)](https://open.spotify.com/track/7JODkWwpYsZt5racs1IiOJ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Won’t Back Down \(feat\. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman\) \[FAST X / Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4CU2iotem1HERk9Rm3V8w6) | 2:43 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 113 | [Ma Boy \(with JID & Lute\)](https://open.spotify.com/track/3JbFiK22Q0bfFzzIG1pYVy) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:46 |
 | 114 | [Same Problems?](https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Same Problems?](https://open.spotify.com/album/3MwuzX0j37H9SYVH78Oavt) | 4:22 |
 
-Snapshot ID: `MCxkMzZiYjA5MThlZDI5ZTJhMDIxMmU1YTFlNDdiZDYzODQ5NjJlMjZj`
+Snapshot ID: `MCw2ZWJlOWRjYjEwNDFjNmQ4MTAzZDQzNzhkNzA2NWIyMjVmZmRlMDY0`

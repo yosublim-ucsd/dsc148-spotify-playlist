@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-502 songs - 1 day 6 hr 21 min
+503 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Hypnosis](https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 3:51 | 2022-07-26 |  |
 | [I Don't Care](https://open.spotify.com/track/2e1j5sMegdfPy1PkE48GmI) | [Final Solution](https://open.spotify.com/artist/1D6tXJA1oytyecOREfZuSj) | [Brotherman: OST by The Final Solution](https://open.spotify.com/album/61yGaQjQVWNtk7NRYndFXf) | 4:17 | 2022-03-30 | 2022-04-18 |
 | [I Don't Wanna Lose](https://open.spotify.com/track/1o3QC3SiP40iupA6hzx4EH) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/1TDcYaDlJPVDJWfNjS8LM9) | 3:20 | 2022-02-23 | 2022-04-28 |
-| [I Just Want To Talk To You](https://open.spotify.com/track/0amEuqSuEc6YSUSQjhs5Wr) | [Charles Brown](https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg), [Sleepy Creek](https://open.spotify.com/artist/28YkKGShPsq7y6Pf7NKE97) | [Circles](https://open.spotify.com/album/7iRIgmwpX7Qv1QUiCQj7pV) | 3:11 | 2023-04-25 |  |
+| [I Just Want To Talk To You](https://open.spotify.com/track/0amEuqSuEc6YSUSQjhs5Wr) | [Charles Brown](https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg), [Sleepy Creek](https://open.spotify.com/artist/28YkKGShPsq7y6Pf7NKE97) | [Circles](https://open.spotify.com/album/7iRIgmwpX7Qv1QUiCQj7pV) | 3:11 | 2023-04-25 | 2023-05-17 |
 | [I Love Hot Nights](https://open.spotify.com/track/7H3cCK7jEp67pDf7fnJGwq) | [Jonathan Richman](https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5), [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [Modern Lovers '88](https://open.spotify.com/album/68YRhOJHjb0wXAJYvdWEVO) | 2:57 | 2022-03-30 | 2022-04-21 |
 | [I Might Be](https://open.spotify.com/track/5Xn7YNELSHUulgaumQZqyV) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [You and Me and Everything](https://open.spotify.com/album/0lRuRo9qWAokYKUW6PeJiY) | 3:36 | 2023-04-25 |  |
 | [I Might Be](https://open.spotify.com/track/5uKH4nY6ALq8jGNZ0BYlBH) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [You and Me and Everything](https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth) | 3:36 | 2022-08-19 | 2023-04-30 |
@@ -211,6 +211,7 @@
 | [If Not For You \- Remastered 2014](https://open.spotify.com/track/7ykaUgkdQWJLsMuOymTV2A) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:30 | 2022-10-14 | 2023-02-19 |
 | [If We Want To](https://open.spotify.com/track/5duLlJqkjbHt891ElG8TM2) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [A Memory Of A Memory Of A Postcard](https://open.spotify.com/album/5hm348PpGnmB1dRrj2r9Bg) | 4:08 | 2021-12-16 | 2022-04-21 |
 | [If You Don't Want My Love](https://open.spotify.com/track/2364WrvPTUHobDNURudCbM) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N) | 2:26 | 2023-03-24 | 2023-04-30 |
+| [If You Don't Want My Love](https://open.spotify.com/track/5BO76ay1UPZEj72HUqJtxA) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn) | 2:26 | 2023-04-25 |  |
 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 | 2022-03-30 |  |
 | [Inside And Out](https://open.spotify.com/track/6rouj6pwJgrh6whnljzXPd) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 4:17 | 2022-03-30 | 2022-04-19 |
 | [Inspiration Information](https://open.spotify.com/track/6s7crv5t6jivuWgO35Sd02) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul Time!](https://open.spotify.com/album/5pbINmWhEPGZx2sEpsuuIG) | 4:03 | 2022-03-30 | 2022-04-21 |

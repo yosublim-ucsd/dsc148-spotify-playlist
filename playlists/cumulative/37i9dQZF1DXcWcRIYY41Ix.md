@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Valeria Castro.
 
-378 songs - 23 hr 5 min
+379 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 | 2021-12-24 |  |
 | [Dame Más \(Acústico\)](https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Versiones Desnudas](https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5) | 3:39 | 2021-12-24 | 2023-04-26 |
 | [Dame Más \(En Acústico\)](https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Versiones Desnudas](https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo) | 3:39 | 2023-05-05 |  |
+| [Danza Olvidada](https://open.spotify.com/track/5xX0qlWXOQqOGH6VEcSBSA) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Danza Olvidada](https://open.spotify.com/album/2aFioZ5TRqGee2CvNn5SgD) | 3:31 | 2023-05-12 |  |
 | [De balde](https://open.spotify.com/track/0ByOfMa6l6XcnlQAkAsACF) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [De balde](https://open.spotify.com/album/0LaoeEQSv79cXnhG5RgdSN) | 4:43 | 2022-11-11 |  |
 | [De carne y hueso](https://open.spotify.com/track/4hf9GhpfyuLsksKOBkpdD2) | [Volver al Mar](https://open.spotify.com/artist/29VStMD9gyW6PxNqpZAd2M) | [De carne y hueso](https://open.spotify.com/album/2ZKeYMXqNOxgJhnevS4Kqu) | 3:15 | 2022-04-08 | 2022-04-23 |
 | [De No Haberte Conocido](https://open.spotify.com/track/3AQkfvH36YJnp3hdBfhj7C) | [Cheo](https://open.spotify.com/artist/1P6xk2vcFnmOZRKqujdpCj), [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Dónde](https://open.spotify.com/album/5LSssy7XGPGIiWlK6y5UtY) | 3:16 | 2021-12-24 | 2022-04-23 |
@@ -359,7 +360,7 @@
 | [Un Golpe de Suerte](https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Un Golpe de Suerte](https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4) | 4:29 | 2021-12-24 |  |
 | [Un Poquito Así](https://open.spotify.com/track/3O9Ghu3VChNXL5LsrnnaV0) | [Adri Stuven](https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn), [Walki](https://open.spotify.com/artist/0Z62JhOUGFNa5cFs1Fr4O0) | [Métete en Tu Amor](https://open.spotify.com/album/4w8SyxKXxrc86jJs8b8tBm) | 3:20 | 2022-01-14 | 2022-07-25 |
 | [Una Fecha En El Calendario](https://open.spotify.com/track/4SZToPB2zdHUmIASfZFFlI) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Una Fecha En El Calendario](https://open.spotify.com/album/4fn2pYbNE7QD6FoIjWCfOO) | 3:58 | 2021-12-24 | 2022-07-29 |
-| [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 | 2023-03-10 |  |
+| [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 | 2023-03-10 | 2023-05-17 |
 | [Una herida](https://open.spotify.com/track/7CPQMi5mEonIFzo8VtV7cy) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Una herida](https://open.spotify.com/album/0Dydnkcx3W58VZhWnJQJhq) | 3:02 | 2022-09-23 | 2022-10-22 |
 | [Universo](https://open.spotify.com/track/5OyW17JzgrvjAJkycMHAmp) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Universo](https://open.spotify.com/album/6hKxfX97K2i0tmZJETLfFP) | 3:04 | 2021-12-24 | 2022-02-12 |
 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 | 2022-07-22 | 2022-08-26 |

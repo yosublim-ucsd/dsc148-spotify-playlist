@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Zeina & Saint Levant
 
-268 songs - 15 hr 7 min
+269 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Focus](https://open.spotify.com/track/5N5d9Lh1HFFpCaM9Q3H5I7) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Focus](https://open.spotify.com/album/2ErzJU2rw2Ytv6EWskE4Ps) | 2:44 | 2023-03-16 | 2023-04-12 |
 | [Follow Me Into The Dark](https://open.spotify.com/track/2aQXnLW2uQwZeRDUR23VTU) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 4:09 | 2021-12-16 | 2022-12-08 |
 | [Freestyle \#1](https://open.spotify.com/track/3PqCDTA5l72UmTDmTXpely) | [Dhalma](https://open.spotify.com/artist/5nBnuz27wNFubJjmRTRNPC) | [Freestyle \#1](https://open.spotify.com/album/3Sri5bHFhK6jQWQI5pyCzq) | 2:55 | 2022-02-08 | 2022-12-08 |
-| [From Gaza, With Love](https://open.spotify.com/track/49AG4MU3Ij6a8NWEVLMuRu) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [From Gaza, With Love](https://open.spotify.com/album/5bah1OVDvcvn92BMkgOO6o) | 1:59 | 2023-03-07 |  |
+| [From Gaza, With Love](https://open.spotify.com/track/3TzuOUqhDIS7gkKS4oy37V) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [From Gaza, With Love](https://open.spotify.com/album/11w9tokUs0UblHxAGtvND2) | 1:59 | 2023-05-12 |  |
+| [From Gaza, With Love](https://open.spotify.com/track/49AG4MU3Ij6a8NWEVLMuRu) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [From Gaza, With Love](https://open.spotify.com/album/5bah1OVDvcvn92BMkgOO6o) | 1:59 | 2023-03-07 | 2023-05-17 |
 | [Fruitseller](https://open.spotify.com/track/1CV5V40YIAS7d8CxU2bKwQ) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Fruitseller](https://open.spotify.com/album/4mghCfnlgjoqt1WWu1VvLC) | 2:38 | 2022-04-08 | 2023-04-18 |
 | [FUNNY HOW](https://open.spotify.com/track/5ydV3NMWuOV1s4BRg1U9ei) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [FUNNY HOW](https://open.spotify.com/album/6vjuhnkjXZXkxTXBs2pCey) | 2:32 | 2022-02-22 | 2023-04-01 |
 | [Galbi Dalili \(feat\. Narcy\)](https://open.spotify.com/track/0RkRvd3bccxgMYVU5PB8C7) | [Emsallam](https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1), [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg) | [Galbi Dalili \(feat\. Narcy\)](https://open.spotify.com/album/1MqguCDENJ5cTU2Jg2CJaE) | 2:48 | 2021-12-16 | 2022-11-20 |

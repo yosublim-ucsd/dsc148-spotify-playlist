@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,213 likes - 100 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,838 likes - 100 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [KILL EM BODY](https://open.spotify.com/track/1NolQUklOhveTHpi5DqOct) | [NIKKO](https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC), [Daegho](https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS), [MVRTYR](https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ), [Xelishurt](https://open.spotify.com/artist/3BXu6pDheQBfSmlIOkvGqz) | [KILL EM BODY](https://open.spotify.com/album/39JVRr1HIaU8hzos7mCba3) | 3:48 |
 | 100 | [Candy Flip](https://open.spotify.com/track/38ChjlYHZ0lNeCtjHspZhX) | [XZARKHAN](https://open.spotify.com/artist/0ekK352BUEA00cnbGeOLkO), [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4), [L U N A](https://open.spotify.com/artist/2e6JwrcJbzHnFPaSYofN4U) | [Candy Flip](https://open.spotify.com/album/4itcYsTVUHcZA6ii8Hogz5) | 1:52 |
 
-Snapshot ID: `MCxmNzY1NzEyM2E3NzdkYTdhMGEwM2YzNWExNjM2MGY5ZjhmM2QwMmM3`
+Snapshot ID: `MCw0NzFjNzBlZTIyZjFkN2MyMjRjOTQ5ZWJmOWYxZGFlYzFjZjYyOGY5`

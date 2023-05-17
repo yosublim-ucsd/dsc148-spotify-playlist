@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-221 songs - 15 hr 21 min
+222 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Keb's Bucket](https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX) | 3:30 | 2020-11-13 |  |
 | [Kenni and the Jets](https://open.spotify.com/track/0uSbzFgJG9ve03a9Qfx7JE) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds ...](https://open.spotify.com/album/2i6hdvwt1k6jewsrGmkj56) | 4:09 | 2020-11-13 | 2022-07-29 |
 | [Kenni and the Jets](https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 4:09 | 2020-11-13 |  |
-| [Kerria Lacca](https://open.spotify.com/track/6ZNXFAxCA4SjBBTt3tm6PG) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ), [Tucker Antell](https://open.spotify.com/artist/1rBvgsax33Ry0dbohgsFit) | [Kerria Lacca](https://open.spotify.com/album/5OPFNyGr1RVrrlvcD0YWOi) | 4:59 | 2020-11-13 |  |
+| [Kerria Lacca](https://open.spotify.com/track/6ZNXFAxCA4SjBBTt3tm6PG) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ), [Tucker Antell](https://open.spotify.com/artist/1rBvgsax33Ry0dbohgsFit) | [Kerria Lacca](https://open.spotify.com/album/5OPFNyGr1RVrrlvcD0YWOi) | 4:59 | 2020-11-13 | 2023-05-17 |
 | [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 | 2021-06-25 |  |
 | [Lifecycle](https://open.spotify.com/track/6UeV69QaXrzISZ5MdeX6Xs) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:54 | 2020-11-13 | 2022-04-20 |
 | [Lilypad](https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 2:58 | 2020-11-13 |  |
@@ -205,6 +205,7 @@
 | [The Count](https://open.spotify.com/track/2rrJdFHVqirE025Ev5SZZy) | [Fusik](https://open.spotify.com/artist/4EDtxm2WLicV4I1B9E8kl2) | [The Count](https://open.spotify.com/album/32IiPPFUDO6NXIZPfpu7iV) | 4:40 | 2020-11-13 | 2022-06-11 |
 | [THE CRISIS GENERATOR](https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd) | [The Sound Stylistics](https://open.spotify.com/artist/104foQZN65b6NnTR40dwOO) | [Greasin The Wheels](https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO) | 4:53 | 2020-11-13 | 2023-04-09 |
 | [The Duke](https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Duke](https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9) | 2:46 | 2021-01-15 | 2023-04-30 |
+| [The Duke](https://open.spotify.com/track/2EuD6kRlJnqJHRZEdVx7Wh) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Exciting Sounds of Menahan Street Band](https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF) | 2:46 | 2021-01-15 |  |
 | [The Left Hand](https://open.spotify.com/track/54e3cG52bRSDHyoG2PwU7o) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [The Left Hand](https://open.spotify.com/album/4K2YYQqskClqAhBLq4eCDH) | 3:07 | 2021-11-12 | 2022-04-21 |
 | [The Scarab's Quest](https://open.spotify.com/track/1dkfnaV3LVFH4DxADgBXsP) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Scarab's Quest](https://open.spotify.com/album/2lqVp42YBxsM3usUoSWOAA) | 3:30 | 2021-06-04 | 2022-07-26 |
 | [The Thang](https://open.spotify.com/track/7mgKgzs0cEgMzcLxsPRCn3) | [Funk Inc.](https://open.spotify.com/artist/4E2WMVMkVEyXugsOdfLyAV) | [Urban Renewal](https://open.spotify.com/album/1oSmTD2Us4CrWZnkIn0rFF) | 6:57 | 2020-11-13 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy?si=Nrn9IgdmQ4yUGQDgcQTPyQ">Bokani Dyer</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,409 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,417 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 49 | [UMDALI](https://open.spotify.com/track/6Ez01NIwZoUm85QtgPK6J0) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [INGANEKWANE](https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ) | 6:40 |
 | 50 | [Konakele](https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Umthombo](https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV) | 6:29 |
 
-Snapshot ID: `MCw1MWY1Y2QwN2FiNTlmZjI1MTI2NmJiNTM2YzBiYzI0ZThmOTAyMDZi`
+Snapshot ID: `MCw1YTgyNmFjOTEyODlmNTY2NmRhYWI4NjcxMjJmMjA4YTY2Yjk4Y2Zi`

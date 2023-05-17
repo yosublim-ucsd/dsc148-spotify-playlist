@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Better Left Unsaid",
+        "url": "https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206999,
+      "name": "Better Left Unsaid",
+      "url": "https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH"
+    },
+    {
+      "album": {
         "name": "Better Luck",
         "url": "https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA"
       },
@@ -1282,7 +1300,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 197202,
       "name": "Dance a Unza Unza in the USA",
       "url": "https://open.spotify.com/track/4PkIyF1gbbNaqzuhLECMiR"
@@ -2630,7 +2648,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 181426,
       "name": "I LOVE HIS SONG I COULD DIE",
       "url": "https://open.spotify.com/track/7bxyTGWClbH0JXhG1lYx9W"
@@ -3102,6 +3120,24 @@
       "duration_ms": 203000,
       "name": "Lady Madonna",
       "url": "https://open.spotify.com/track/7Ek2h9DnXKHdbSkDOuFZej"
+    },
+    {
+      "album": {
+        "name": "LAST FOREVER",
+        "url": "https://open.spotify.com/album/1rWSXluWjnTFoCdLC2WJiu"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256459,
+      "name": "LAST FOREVER",
+      "url": "https://open.spotify.com/track/1v8PMncTxjuhu0n6Lr15dX"
     },
     {
       "album": {
@@ -4190,7 +4226,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 190006,
       "name": "NOTHING MORE TO ME",
       "url": "https://open.spotify.com/track/7AyE99cqpfGlk9nInXW4Q2"
@@ -8384,6 +8420,24 @@
       "duration_ms": 142853,
       "name": "\u30e9\u30d6\u30bd\u30f3\u30b0\u306f\u3044\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/6PT9GI9KfOytFFcK82ZpC6"
+    },
+    {
+      "album": {
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/4IYmBLtPsWV9hwGIl5gvHM"
+      },
+      "artists": [
+        {
+          "name": "Arakezuri",
+          "url": "https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223773,
+      "name": "\u30ec\u30a4\u30b8\u30fc",
+      "url": "https://open.spotify.com/track/6g4uuGkIaqT1wrrH7uzEuy"
     },
     {
       "album": {

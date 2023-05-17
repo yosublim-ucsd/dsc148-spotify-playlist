@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 171834,
+  "num_followers": 171849,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjAxODg0N2M5ZTk1N2I1NzNjNGE2MWZlMzAzMmFmZTI5MDBkMjJl",
+  "snapshot_id": "MCwxNDE1ZjYyZGFkNjdiNTM3MzVkYWQ1MWM4ODAzOTc5ODk0Njg5ZGNk",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Broken People",
-        "url": "https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr"
-      },
-      "artists": [
-        {
-          "name": "Muddy Magnolias",
-          "url": "https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X"
-        }
-      ],
-      "duration_ms": 251613,
-      "name": "It Ain't Easy",
-      "url": "https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ain't Got No Troubles",
         "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 232600,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Broken People",
+        "url": "https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr"
+      },
+      "artists": [
+        {
+          "name": "Muddy Magnolias",
+          "url": "https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X"
+        }
+      ],
+      "duration_ms": 251613,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Heavy Hearts Hard Fists",
+        "url": "https://open.spotify.com/album/0fo7S7VAXlvSnmApHKJ2if"
+      },
+      "artists": [
+        {
+          "name": "Nikki Hill",
+          "url": "https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Heavy Hearts Hard Fists",
+      "url": "https://open.spotify.com/track/3s4ZPDlawFagjAr5yMRSMx"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "The Beautiful Bones",
         "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Handle Me with Care",
-        "url": "https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x"
+        "name": "Ain't Gonna Hush!",
+        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
       },
       "artists": [
         {
-          "name": "Jade Macrae",
-          "url": "https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd"
+          "name": "Saffire-The Uppity Blues Women",
+          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
         }
       ],
-      "duration_ms": 435426,
-      "name": "Handle Me with Care",
-      "url": "https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s"
+      "duration_ms": 138066,
+      "name": "Ain't Gonna Hush",
+      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -755,34 +771,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ain't Gonna Hush!",
-        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
+        "name": "Handle Me with Care",
+        "url": "https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x"
       },
       "artists": [
         {
-          "name": "Saffire-The Uppity Blues Women",
-          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
+          "name": "Jade Macrae",
+          "url": "https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd"
         }
       ],
-      "duration_ms": 138066,
-      "name": "Ain't Gonna Hush",
-      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Heavy Hearts Hard Fists",
-        "url": "https://open.spotify.com/album/0fo7S7VAXlvSnmApHKJ2if"
-      },
-      "artists": [
-        {
-          "name": "Nikki Hill",
-          "url": "https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Heavy Hearts Hard Fists",
-      "url": "https://open.spotify.com/track/3s4ZPDlawFagjAr5yMRSMx"
+      "duration_ms": 435426,
+      "name": "Handle Me with Care",
+      "url": "https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Texas Hold 'Em",
-        "url": "https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui"
+        "name": "Masters of War",
+        "url": "https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ"
       },
       "artists": [
         {
-          "name": "Anni Piper",
-          "url": "https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo"
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
         }
       ],
-      "duration_ms": 207640,
-      "name": "Love's Truly Blind",
-      "url": "https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC"
+      "duration_ms": 296413,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U"
     }
   ],
   "unique_name": "EQUAL Blues",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Riley Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,087,602 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087,544 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Lately](https://open.spotify.com/track/6rPR4M9uJHrYYJ9a1xLDjv) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Lately](https://open.spotify.com/album/1VegrzMvhwSOTupozMQnkj) | 3:27 |
 | 100 | [Gettin' There](https://open.spotify.com/track/6EgRugCFo1htCTkFsBmQRc) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gettin' There](https://open.spotify.com/album/0D5Nrth5H6dVompoJ0hV2h) | 3:08 |
 
-Snapshot ID: `MCw4ZjQxMjJlOGVjOWUzMDk1Mzc0MjllN2MwNGE2YTExMzZkYmE3NWI4`
+Snapshot ID: `MCxmMmFhYzRlMTcyMzEyOGZlMTZhMTYwZDg3Yzk4ZDI4MGM0ZDRjY2Vl`

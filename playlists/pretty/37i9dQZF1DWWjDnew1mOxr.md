@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: The Lottery Winners
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,663 likes - 89 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,672 likes - 89 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 88 | [Day Glow](https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 4:31 |
 | 89 | [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 |
 
-Snapshot ID: `MCw5YTM4OTVhMDljYWJmZTc0NDJiZTRlZWIyYzNhMzM2N2QxZjIzZTRk`
+Snapshot ID: `MCxiNDY5NGE4MGUyMTcwMzZkZjcyZGYwZTJjNDU2MzMwMjZhMzM0ZDQ1`

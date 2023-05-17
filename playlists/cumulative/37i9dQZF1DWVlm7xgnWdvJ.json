@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/6PC0oDvNSGnPzrpFL2viNI"
+      },
+      "artists": [
+        {
+          "name": "Fred P",
+          "url": "https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 622000,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/1q8Mv29O7xbvR7Spdn5gM2"
+    },
+    {
+      "album": {
         "name": "Ode Ireti (Nitefreak Remix)",
         "url": "https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE"
       },

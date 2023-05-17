@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > All of the nominees in one playlist! More info on this year's event can be found at <a href="http://www.stellarawards.com">stellarawards.com</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,108 likes - 67 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,118 likes - 67 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 66 | [The Greatest](https://open.spotify.com/track/6sYEL144ROUzl6naTmgIPk) | [Lawrence Hancock](https://open.spotify.com/artist/6UD4FlKheqYI40jvwZavH8) | [Nothings Too Hard](https://open.spotify.com/album/4g8S3RrzlnweH4PGwhK5Wi) | 3:34 |
 | 67 | [We Are Soldiers in the Army](https://open.spotify.com/track/4CU4El1YbvC4MWdtjdZmuo) | [Gospel Kids](https://open.spotify.com/artist/5MFX3lSx7yGhxAXa0kP1Pi) | [Gospel Kids Present Christian Soldiers](https://open.spotify.com/album/5jqvgr1T0jqV7QgGxaKUNm) | 3:04 |
 
-Snapshot ID: `MCxkNTY5OGE1N2UyYzNiOWYyNGY0MDA0Y2RmODk5NDk4NWI5YTBjMTY4`
+Snapshot ID: `MCw1YjQwZjZkYWY1ZmNjOTgzOTYyMzhkYjZjMjc3ZTY4MmEzOTVmNTJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Queens of the Stone Age
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,769 likes - 406 songs - 1 day 2 hr 8 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,772 likes - 406 songs - 1 day 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

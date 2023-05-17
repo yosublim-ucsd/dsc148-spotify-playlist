@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-260 songs - 14 hr 49 min
+261 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,8 @@
 | [Ámbar](https://open.spotify.com/track/645NM362d8tzax96BUvwex) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Ámbar](https://open.spotify.com/album/2srswuMxPoL71ZUrlmtBUA) | 2:04 | 2021-07-16 | 2022-07-29 |
 | [bad guy](https://open.spotify.com/track/2tdpkp9zFJiICyTY9gQefh) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [bad guy](https://open.spotify.com/album/4xlIel4QH7bFcZ6SrwF6Ix) | 3:05 | 2021-07-16 | 2022-07-29 |
 | [Bad Liar](https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Bad Liar](https://open.spotify.com/album/6lumYymEx5DCyt7VEL4QlF) | 3:46 | 2021-07-16 |  |
-| [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 | 2021-07-16 | 2022-07-29 |
-| [Be Here Now](https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF) | 3:39 | 2021-07-16 |  |
+| [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 | 2021-07-16 |  |
+| [Be Here Now](https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF) | 3:39 | 2021-07-16 | 2023-05-17 |
 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 | 2021-07-16 |  |
 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 | 2021-07-16 |  |
 | [Bleachers](https://open.spotify.com/track/4SnJ2BuVa31w10qPXKqZrW) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 4:22 | 2021-07-16 |  |
@@ -127,6 +127,7 @@
 | [It Ain't Me Babe](https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8) | [Lucas Francisco da Silva](https://open.spotify.com/artist/0q5JowzvhV2iVatlPv1oL5), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [It Ain't Me Babe](https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU) | 3:44 | 2021-07-16 |  |
 | [I´m a Fool to Want You](https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ), [Marcelo Kimura](https://open.spotify.com/artist/17SALfRouyrGDGbjJBcZF3), [Fi Maróstica](https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP) | [I´m a Fool to Want You](https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5) | 4:06 | 2021-07-16 |  |
 | [Juvenescence](https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ) | 3:50 | 2021-07-16 | 2023-04-30 |
+| [Juvenescence](https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok) | 3:50 | 2021-07-16 |  |
 | [Juvenescence](https://open.spotify.com/track/73LVxUKfVeLqlQ9qqhTQ3h) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/233gqBTj1syIvhppH8NV7w) | 3:50 | 2021-07-16 | 2022-07-27 |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/20VC8UqK5YUBDQZIozqdGV) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Songs of Dylan](https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ) | 2:38 | 2021-07-16 |  |
 | [Know How](https://open.spotify.com/track/4xqowxjJ03RWog4teL6oqG) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:58 | 2021-07-16 | 2023-01-28 |
@@ -158,7 +159,7 @@
 | [Mothers](https://open.spotify.com/track/6Nqtm7NVrrki8XxAhh5soI) | [Steady Holiday](https://open.spotify.com/artist/3jLDJWlhuDcbq1DTlWp0NM) | [Mothers](https://open.spotify.com/album/3yZAj3Ar12YiBbC2r0cHXr) | 3:49 | 2021-07-16 | 2022-07-28 |
 | [My Friend \(Solo Acoustic Version\)](https://open.spotify.com/track/5Bbi1jdMAmJBoDhV0yv4W8) | [Dani Doucette](https://open.spotify.com/artist/2alhJ7s3IXafk9N2mGHYF2) | [Acoustic for Elephants](https://open.spotify.com/album/0xDe8HcKuzwsqh360qI6Aa) | 3:31 | 2021-07-16 | 2022-07-26 |
 | [My Name](https://open.spotify.com/track/0UZrloJ3IvP3d8XmtDFFJA) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [My Name](https://open.spotify.com/album/3xoEJqvx6pNH54BclKBwDx) | 3:22 | 2021-07-16 | 2022-07-28 |
-| [My Name](https://open.spotify.com/track/43MfBn9DA4rQWuIk2GRuc6) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Collide](https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7) | 3:22 | 2021-07-16 |  |
+| [My Name](https://open.spotify.com/track/43MfBn9DA4rQWuIk2GRuc6) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Collide](https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7) | 3:22 | 2021-07-16 | 2023-05-17 |
 | [Never Leave You](https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO) | [Sterre Weldring](https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL) | [Never Leave You](https://open.spotify.com/album/54njbARQAQA2LBGs9pD0LN) | 3:27 | 2021-07-16 | 2022-07-29 |
 | [Never My Love](https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq) | [Voices In The Sky](https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML) | 3:26 | 2021-07-16 | 2023-04-01 |
 | [New Rules](https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [New Rules](https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA) | 3:14 | 2021-07-16 |  |

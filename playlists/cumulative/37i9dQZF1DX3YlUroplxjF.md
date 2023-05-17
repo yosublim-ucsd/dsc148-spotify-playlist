@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Jesus Piece
 
-395 songs - 22 hr 41 min
+397 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Choke](https://open.spotify.com/track/7limjM5x3keqRzoEfZeoYh) | [Demon in Me](https://open.spotify.com/artist/3tcbtzaC4TyC6JbBzsQjnX) | [Choke](https://open.spotify.com/album/7uXIo2UMYhIMtB2GesdaL7) | 4:13 | 2021-11-30 | 2022-07-29 |
 | [Chrysanthemum](https://open.spotify.com/track/4J5ZNmOT4G5Veit9hz0MZl) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Chrysanthemum](https://open.spotify.com/album/2AWHSx7QvvbwQ6LVFpP4j6) | 3:20 | 2021-11-30 | 2022-05-19 |
 | [Circle The Drain](https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:35 | 2022-04-01 |  |
-| [Closer to Comfort](https://open.spotify.com/track/1KLmiSyLPgqc13H4gTBdoU) | [Dreamhouse](https://open.spotify.com/artist/46ByQLvGTasUlZZ0fzvop4), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta), [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Reverberating Silence](https://open.spotify.com/album/4J5uVKPMdxp2bJwyePzQVC) | 3:56 | 2021-11-30 |  |
+| [Closer to Comfort](https://open.spotify.com/track/1KLmiSyLPgqc13H4gTBdoU) | [Dreamhouse](https://open.spotify.com/artist/46ByQLvGTasUlZZ0fzvop4), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta), [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Reverberating Silence](https://open.spotify.com/album/4J5uVKPMdxp2bJwyePzQVC) | 3:56 | 2021-11-30 | 2023-05-17 |
 | [Cold](https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [Cold](https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O) | 3:39 | 2021-11-30 | 2023-05-12 |
 | [COLD BLOOD](https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [COLD BLOOD](https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K) | 5:26 | 2022-02-28 | 2022-07-29 |
 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 | 2022-04-01 |  |
@@ -124,7 +124,8 @@
 | [Ensom](https://open.spotify.com/track/1g3P8HDqj2koVaHBvY5O3q) | [Parting Gift](https://open.spotify.com/artist/6Rm6Kxqg4WmFqDodsAf0Gi) | [Ensom](https://open.spotify.com/album/5gAMff2vRgIoObTMVqX8wZ) | 4:38 | 2021-11-30 | 2022-07-28 |
 | [Everything I'm Not](https://open.spotify.com/track/3JOA9ckn1TFwO2DfqJ0UHs) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Everything I'm Not](https://open.spotify.com/album/3q6oMOe6OZMeXvjGfMPmnw) | 3:22 | 2021-11-30 | 2022-06-06 |
 | [Everything Is Ordinary](https://open.spotify.com/track/1jZQKtmTYJS5P5Im07Yhce) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Everything Is Ordinary](https://open.spotify.com/album/0erUOZsXrMTm8BVOPzgAm3) | 3:30 | 2021-11-30 | 2022-07-27 |
-| [Evil Finds Light](https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Evil Finds Light](https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu) | 2:07 | 2023-02-10 |  |
+| [Evil Finds Light](https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Evil Finds Light](https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu) | 2:07 | 2023-02-10 | 2023-05-17 |
+| [Evil Finds Light](https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:07 | 2023-03-17 |  |
 | [Face the Fire](https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 3:17 | 2022-01-21 | 2022-11-26 |
 | [Fake Interest](https://open.spotify.com/track/55Ry23F254Wn0Qeqq7o5cC) | [Tunic](https://open.spotify.com/artist/51M2l9r2xX31tNp0SA4WZf) | [Fake Interest](https://open.spotify.com/album/3lagrnqYqoTOlImbz70GqU) | 1:58 | 2022-04-01 | 2022-06-09 |
 | [Fall Until We Fly](https://open.spotify.com/track/0n8tIXRZ2IVzsJAUe2dh6q) | [NU\-95](https://open.spotify.com/artist/14m3SMNSx3L5LhkCrgbHBa) | [Fall Until We Fly](https://open.spotify.com/album/05myJzgPpbXsEf0KRex7Ck) | 3:45 | 2021-11-30 | 2022-07-17 |
@@ -144,6 +145,7 @@
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-21 | 2022-07-29 |
 | [Fortune and Glory, Kid](https://open.spotify.com/track/0xU5hglREQipGgY488h3aF) | [CrazyEightyEight](https://open.spotify.com/artist/7cwpp7caWpzvusuo7wUHHQ) | [Burning Alive](https://open.spotify.com/album/4kSm2NqM7Xw397mZxOORds) | 3:05 | 2021-11-30 | 2022-07-28 |
 | [Fractional](https://open.spotify.com/track/2VDIAPnl1EikA70Ac1SzDd) | [Hundred Suns](https://open.spotify.com/artist/6kCXtTwJRgeHMNP8xPVehT) | [The Prestaliis](https://open.spotify.com/album/0JviA3bdJiw5MWZeb00FoV) | 3:39 | 2021-11-30 | 2022-07-28 |
+| [FTS \(KYS\)](https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:19 | 2023-03-17 |  |
 | [FTS \(KYS\)](https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [FTS \(KYS\)](https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy) | 2:19 | 2023-03-17 | 2023-05-14 |
 | [Gates of Horn](https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Gates of Horn](https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m) | 2:17 | 2023-01-27 | 2023-04-24 |
 | [Ghost in My Home](https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu) | 3:20 | 2022-04-01 |  |

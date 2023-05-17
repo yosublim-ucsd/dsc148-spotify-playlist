@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > เปิดให้ดังแล้วฟังเสียงเต็มๆ ของผู้หญิงจากประเทศไทย\. ศิลปิน: PRETZELLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,344 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,356 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 35 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 |
 | 36 | [Cha boo!](https://open.spotify.com/track/7csBxaPD0Smy4H7qEwX7IW) | [Namcha](https://open.spotify.com/artist/3bhQyvQx1bvDWjboMGG8wY) | [Cha boo!](https://open.spotify.com/album/2rlCE5aevLuJBLFvDCiqFa) | 3:08 |
 | 37 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 |
-| 38 | [Yume wa Nigenai \- จะไม่หนีจากความฝัน](https://open.spotify.com/track/6l9GAW0rUVxOpwOgOEjxay) | [CGM48](https://open.spotify.com/artist/22Y0wVJzrL68AKJk61nZd6) | [Yume wa Nigenai \- จะไม่หนีจากความฝัน](https://open.spotify.com/album/0HiKFZM0oG0fysreSRviWa) | 3:25 |
+| 38 | [จะไม่หนีจากความฝัน](https://open.spotify.com/track/6l9GAW0rUVxOpwOgOEjxay) | [CGM48](https://open.spotify.com/artist/22Y0wVJzrL68AKJk61nZd6) | [จะไม่หนีจากความฝัน](https://open.spotify.com/album/0HiKFZM0oG0fysreSRviWa) | 3:25 |
 | 39 | [คีย์ใจ \(Heart Key\)](https://open.spotify.com/track/1tEwJ5B0N3LRDThiwzjiy0) | [PEAKSayaa!](https://open.spotify.com/artist/4fpwdYCe1CPV9MbILA1WeF) | [คีย์ใจ \(Heart Key\)](https://open.spotify.com/album/38mO1WT3GehvATY9KkRjTf) | 3:33 |
 | 40 | [MUSIC FEST \(มิวสิคเฟส\)](https://open.spotify.com/track/31znFvyr5zY1H1Wa3uD8iB) | [BOWPRAT](https://open.spotify.com/artist/40Yyk6kXQ8WtJ3RFp7qDaB) | [MUSIC FEST \(มิวสิคเฟส\)](https://open.spotify.com/album/6KPDzYCME58tOb44vTnfCn) | 3:36 |
 | 41 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [เฟรนด์ลี่หรือมีใจ](https://open.spotify.com/track/3hyT0w2zZR88KfQ1TAtnrI) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [เฟรนด์ลี่หรือมีใจ](https://open.spotify.com/album/0EQjy4jjmRX4TwU1e5WcdD) | 3:16 |
 | 50 | [แค่กอด \- เพลงจากละคร รักสุดท้ายยัยจอมเหวี่ยง](https://open.spotify.com/track/4UOM059VlhseO1XpIu3NRm) | [Gam Wichayanee](https://open.spotify.com/artist/52O8ovyvtivDfePoUUwcOa) | [เพลงจากละคร รักสุดท้ายยัยจอมเหวี่ยง](https://open.spotify.com/album/5j7E53b9l2xEvAWPHPBMke) | 4:21 |
 
-Snapshot ID: `MCw1MjJkNmFiYzgzNzk0MGFjMTYyMzJjOWU3ZGJkMTg0MDhkZDljMDA3`
+Snapshot ID: `MCw0NjFmZTc0NjU3OTVhZmU2OTE2OTVhYjMzYjg2YTNhZjBmNTU1ZmIx`

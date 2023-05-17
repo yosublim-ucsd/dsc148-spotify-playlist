@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Subject to Change",
+        "url": "https://open.spotify.com/album/0tUNlUVBHtya0RTVv4Gd6e"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "Glad I Got You",
+      "url": "https://open.spotify.com/track/2M3hPwrDVmH6xdeITvfxqe"
+    },
+    {
+      "album": {
         "name": "Subject To Change",
         "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
       },
@@ -362,7 +380,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 160720,
       "name": "Glad I Got You",
       "url": "https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw"

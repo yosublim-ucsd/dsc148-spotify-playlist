@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Sebastián Yatra, Manuel Turizo y Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,663 likes - 72 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,702 likes - 72 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [AY, AY, AY](https://open.spotify.com/track/2sK92SdOTmSjGzFZY6xUsx) | [Jv01](https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU), [Uriel Produce](https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [AY, AY, AY](https://open.spotify.com/album/7g0jw6fhK81KaE2Iu0h5GF) | 3:18 |
 | 39 | [Gutavito](https://open.spotify.com/track/2SsWMSVc4nEBCcP0IT8VBT) | [Randy Diamond RD](https://open.spotify.com/artist/6zbGgyfOFM5lisKkJjApEI), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Gutavito](https://open.spotify.com/album/2TF2kkaEAG4mHLvJ2DecYV) | 1:56 |
 | 40 | [Viaje En El Tiempo](https://open.spotify.com/track/319lJ1kNxjgbGZW4kZCXwz) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Viaje En El Tiempo](https://open.spotify.com/album/2CQPjn8kkqEAjHMboyCyJY) | 2:43 |
-| 41 | [Eto Eh Dembow](https://open.spotify.com/track/79k7Rz7oQDjH3OlAzX8Bzc) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Eto Eh Dembow](https://open.spotify.com/album/5ExfMqWEJSe1xEuxbHu1Vm) | 1:36 |
+| 41 | [Eto Eh Dembow](https://open.spotify.com/track/79k7Rz7oQDjH3OlAzX8Bzc) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [Eto Eh Dembow](https://open.spotify.com/album/5ExfMqWEJSe1xEuxbHu1Vm) | 1:36 |
 | 42 | [Ojalá](https://open.spotify.com/track/5B1dn6AfeohMuuHxyoMX72) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Ojalá](https://open.spotify.com/album/3qP7KCJCzm4KB7z2FY6OGV) | 2:25 |
 | 43 | [Un Yile](https://open.spotify.com/track/6i6kLZybJjh2ht2nCwDOJB) | [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Un Yile](https://open.spotify.com/album/6JT9quDG2rsLz0jFFr132J) | 2:24 |
 | 44 | [Siclompatada](https://open.spotify.com/track/71W9k3wJYrBoKSBml96mjZ) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Siclompatada](https://open.spotify.com/album/4ZKJdmrDwXDT85V2GB1rq1) | 3:36 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 71 | [Esquece de Mim \(Rap\) \- Ao Vivo](https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Diferentão \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 3:29 |
 | 72 | [Posição de Ataque](https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Posição de Ataque](https://open.spotify.com/album/3koR16KYlMIRIzWUxNREXs) | 2:29 |
 
-Snapshot ID: `MCw1YjcyZmQzNjFmODViYTcyZTMzYWI1YTQxYjM4MWQzZjNjNGMyYjRh`
+Snapshot ID: `MCwwNjJmYTY4OTljMDlhMmI4NGQyZGEyZTY3MjFmNTc0ZDkwNjExZjE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Heriot
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,811 likes - 55 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,902 likes - 55 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 54 | [Find You Soon](https://open.spotify.com/track/07SZ1RaS0OaCa5qs97zVOI) | [Cowboys & Aliens](https://open.spotify.com/artist/40dMfiJSBmkMQbf5HNA2nE) | [Find You Soon](https://open.spotify.com/album/3Fqxh98P2BAz1S5DzHDi1L) | 4:23 |
 | 55 | [Thinking About The Immortality Of The Crab](https://open.spotify.com/track/0xQPg3JWj1Sb5FFzeVvPDc) | [The Holy Ghost Tabernacle Choir](https://open.spotify.com/artist/2kxwiJIwlucn6VobGQLhul) | [Thinking About The Immortality Of The Crab](https://open.spotify.com/album/7nVjrWv2SnmcQGD6aUYszS) | 1:31 |
 
-Snapshot ID: `MCxiOTdhMmM3MmI2NzQ5N2VhN2RiODliYjU3NmUzMzNjNzFlNWE5MTZi`
+Snapshot ID: `MCwwODc3MTJiZDJiNzRkN2FmYWVhMjkyOTc5NTEwNTgyNTNjOTBjNWMz`

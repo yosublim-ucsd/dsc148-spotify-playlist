@@ -9639,6 +9639,24 @@
     },
     {
       "album": {
+        "name": "Hundred Acre Heartbreaker",
+        "url": "https://open.spotify.com/album/5MTJDFO4CELxsqldDXXWOG"
+      },
+      "artists": [
+        {
+          "name": "Dusty Black",
+          "url": "https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184829,
+      "name": "Hundred Acre Heartbreaker",
+      "url": "https://open.spotify.com/track/4OQpW6rJ3pJqp9mRK9kD4M"
+    },
+    {
+      "album": {
         "name": "Hung Over You",
         "url": "https://open.spotify.com/album/7wLgYkaFVJZ1lVIyvMhHg3"
       },
@@ -13978,6 +13996,28 @@
     {
       "album": {
         "name": "Must Be The Country",
+        "url": "https://open.spotify.com/album/6nWB3W1nkPidWdhIHsdP4I"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Dillon Carmichael",
+          "url": "https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212303,
+      "name": "Must Be The Country",
+      "url": "https://open.spotify.com/track/1RoBWTciaQWgQj6n9icEvI"
+    },
+    {
+      "album": {
+        "name": "Must Be The Country",
         "url": "https://open.spotify.com/album/0PQm2a5s7fpKvDbhVIoXLR"
       },
       "artists": [
@@ -13992,7 +14032,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 212303,
       "name": "Must Be The Country",
       "url": "https://open.spotify.com/track/3KLTDeMtxU0faV1a9ezasK"
@@ -23498,6 +23538,24 @@
     {
       "album": {
         "name": "Wind Up",
+        "url": "https://open.spotify.com/album/7GtwYS4xzK4YYq0TgAGslH"
+      },
+      "artists": [
+        {
+          "name": "Josh Mirenda",
+          "url": "https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189971,
+      "name": "Wind Up",
+      "url": "https://open.spotify.com/track/22v6vz03JeQ890rrT78TF5"
+    },
+    {
+      "album": {
+        "name": "Wind Up",
         "url": "https://open.spotify.com/album/7mHcmtkVQn2888vJcxuaUD"
       },
       "artists": [
@@ -23508,7 +23566,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 189971,
       "name": "Wind Up",
       "url": "https://open.spotify.com/track/7xHa6jDEqLFvRLUwFKoitQ"

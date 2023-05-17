@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: TA Thomas\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,034 likes - 220 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,131 likes - 220 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 219 | [OVER2U](https://open.spotify.com/track/4sc7jAI60N6X76lHEvzLcx) | [GODBLESSRODNEY](https://open.spotify.com/artist/3auMRV71rt0N49G3dXmXaX) | [OVER2U](https://open.spotify.com/album/35M2X07gE66HuGWqySS3tV) | 2:46 |
 | 220 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 |
 
-Snapshot ID: `MCw2MTUwNTNhZTAxODRjOWU1NmRlNjljNDQxYzYwYTY1Y2EwYTYxNjY0`
+Snapshot ID: `MCw1YmE4OWY3ODBhOGM3MDAwOGI5ZDNhMjI4MmY4ZDQyNDJmODY4NTFl`

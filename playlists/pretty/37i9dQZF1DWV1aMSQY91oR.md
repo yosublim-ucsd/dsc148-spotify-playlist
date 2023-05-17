@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,870 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,895 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [SOUL2SOUL](https://open.spotify.com/track/3oPxQpdUb4WsW9C9nK1Yzi) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [The Oracle](https://open.spotify.com/album/0uFLe5OZIuPbh5f22ouEs6) | 3:30 |
 | 50 | [Perfect like this?](https://open.spotify.com/track/3cUStytoluiZ1H2ZCAvWQk) | [Mosez Jones](https://open.spotify.com/artist/3v2UncvXxZIIh1d0xiTyNp) | [Perfect like this?](https://open.spotify.com/album/7yyrbi05SAlX1okS4hxE2W) | 3:15 |
 
-Snapshot ID: `MCxlNDcxNDU0ZDQ0YTU3MTM4ZTQ0YjEzY2NkOTQwNmRkY2M1M2ZhMTgz`
+Snapshot ID: `MCxkN2E4YzIyODE1ZWNjZTRmNjk2MDBhZjM0M2U2ZjYyMDk3MzAxNTAw`

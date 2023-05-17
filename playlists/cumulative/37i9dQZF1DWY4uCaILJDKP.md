@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-127 songs - 8 hr 39 min
+128 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [We Go! \-On Your Mark\-](https://open.spotify.com/track/1LgsZldOk4HvHkFOTkK0zm) | [Hiro Shimono](https://open.spotify.com/artist/5G94RvsmzC8FAA6I7i0OKH) | [We Go!](https://open.spotify.com/album/5NRbYR1pRrwF4UVckWFFkJ) | 4:03 | 2022-07-12 |  |
 | [WE GO! \-On Your Mark\-](https://open.spotify.com/track/72MZIq1tpgGSkdXBw2SehZ) | [Hiro Shimono](https://open.spotify.com/artist/5G94RvsmzC8FAA6I7i0OKH) | [WE GO!](https://open.spotify.com/album/4e8Oaxyrwq51auG19Arqfc) | 4:03 | 2022-03-08 | 2022-07-29 |
 | [あいのうた](https://open.spotify.com/track/6ut1zsOUJTRxrf2248QeRl) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [NEW GAME](https://open.spotify.com/album/2nRkRzNoquQZLmmAsVHDqS) | 4:04 | 2022-03-08 |  |
+| [あっぱれ!馬鹿騒ぎ](https://open.spotify.com/track/3gANQpw7QXUwsOq7YxlqZm) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [あっぱれ!馬鹿騒ぎ](https://open.spotify.com/album/3pYdaRaH4pvd1JXIKMW21S) | 3:46 | 2023-05-16 |  |
 | [うどん](https://open.spotify.com/track/2JHaLhD9twCy1LYzHKRla5) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [one](https://open.spotify.com/album/4FobAj4g2Pr4RXJJQRexbp) | 3:45 | 2022-03-08 |  |
 | [えびぞりダイアモンド!!](https://open.spotify.com/track/3l9lRw474hlmpgBYvz1L0B) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [エビ中の絶盤ベスト〜おわらない青春〜](https://open.spotify.com/album/1Zryn01YlILizK2SEnZsVC) | 4:28 | 2022-03-08 |  |
 | [おきたったー](https://open.spotify.com/track/1LAgk9JEXy6Mk4kufRN6a6) | [おきたらんどキッズ](https://open.spotify.com/artist/2Xt5lDM9fryAwMlI2ps1QO), [畑中香音ちゃん](https://open.spotify.com/artist/1kskfEZRyBTOXxptAu9EYw), [中田麻菜ちゃん](https://open.spotify.com/artist/4IQPj8sjJMndVdNKlNd7hm), [高木京之介くん](https://open.spotify.com/artist/128Hd6hjRTirJHRzw4DU9m) | [ABCテレビ おはよう朝日です おきたらんど 「おきたったー」](https://open.spotify.com/album/20f3Xt6wx3gdYxCQgQ8ZHH) | 1:48 | 2022-03-08 | 2022-07-29 |

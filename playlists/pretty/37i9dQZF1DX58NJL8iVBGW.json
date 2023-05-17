@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 556042,
+  "num_followers": 556215,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTdkODhlM2I2ZDFkZTMzODUzZjE1M2FlNTFiMzhmNTRkMWM5NmNk",
+  "snapshot_id": "MCxkMjQ3YWY0ZmUyM2JlODI2ZmRjMDg5ZDI0ZTZjM2Q4NzcxMzI5YzIw",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
+        "name": "Common Faults",
+        "url": "https://open.spotify.com/album/74McnqPMPwUWBBHZvhaEmr"
       },
       "artists": [
         {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+          "name": "The Silent Comedy",
+          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
         }
       ],
-      "duration_ms": 197560,
-      "name": "Ebb and Flow",
-      "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
+      "duration_ms": 187558,
+      "name": "Bartholomew",
+      "url": "https://open.spotify.com/track/4WDEbyUuc701Yn9jQ9srgR"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Common Faults",
-        "url": "https://open.spotify.com/album/74McnqPMPwUWBBHZvhaEmr"
+        "name": "Unsung Passage",
+        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
       "artists": [
         {
-          "name": "The Silent Comedy",
-          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
         }
       ],
-      "duration_ms": 187558,
-      "name": "Bartholomew",
-      "url": "https://open.spotify.com/track/4WDEbyUuc701Yn9jQ9srgR"
+      "duration_ms": 197560,
+      "name": "Ebb and Flow",
+      "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT"
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
       "artists": [
         {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
         }
       ],
-      "duration_ms": 177306,
-      "name": "Fault Line",
-      "url": "https://open.spotify.com/track/1mLlfRGoI7a6qbvyH0Bh2A"
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -927,6 +911,22 @@
       "duration_ms": 279733,
       "name": "Too Dry To Cry",
       "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Fault Line",
+      "url": "https://open.spotify.com/track/1mLlfRGoI7a6qbvyH0Bh2A"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "27 Ways",
+        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
+      },
+      "artists": [
+        {
+          "name": "Desert Noises",
+          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
+        }
+      ],
+      "duration_ms": 108361,
+      "name": "Dime in My Pocket",
+      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Billy Jack",
         "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 170985,
       "name": "Devil Don't You Fool Me",
       "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "27 Ways",
-        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
-      },
-      "artists": [
-        {
-          "name": "Desert Noises",
-          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
-        }
-      ],
-      "duration_ms": 108361,
-      "name": "Dime in My Pocket",
-      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Out Of Hands We Go",
+        "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
+      },
+      "artists": [
+        {
+          "name": "O'Death",
+          "url": "https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O"
+        }
+      ],
+      "duration_ms": 233873,
+      "name": "Herd",
+      "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Put Your Needle Down",
         "url": "https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 158533,
       "name": "Boy Got It Bad",
       "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Out Of Hands We Go",
-        "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
-      },
-      "artists": [
-        {
-          "name": "O'Death",
-          "url": "https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O"
-        }
-      ],
-      "duration_ms": 233873,
-      "name": "Herd",
-      "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "By The Rule",
-        "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Get What You Give",
-      "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "My Church Is Black",
         "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 178080,
       "name": "My Church Is Black",
       "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "By The Rule",
+        "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Get What You Give",
+      "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Beyond The Bloodhounds",
-        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Stuck In The South",
-      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Digging Up Birds: A Collection of Rarities & Others",
         "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 188660,
       "name": "No Way Out but Down (Alternate Version)",
       "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Beyond The Bloodhounds",
+        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Stuck In The South",
+      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "The Ghost Who Walks",
         "url": "https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 187146,
       "name": "Stolen Roses",
       "url": "https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     },
     {
       "added_at": "2023-04-28 04:00:00",

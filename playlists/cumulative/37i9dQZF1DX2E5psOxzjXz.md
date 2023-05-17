@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-185 songs - 10 hr 39 min
+186 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Home](https://open.spotify.com/track/0uork4GhvL9OIsdpL7kMe1) | [Wooly and the Uke](https://open.spotify.com/artist/1FykDoCf7IfkRKARKdnNV6) | [Home](https://open.spotify.com/album/7LVamrPcjzGNIYOAgC4pWq) | 2:00 | 2021-12-06 | 2022-01-29 |
 | [How](https://open.spotify.com/track/3ELZoXfv1YZzfm7V4saBmi) | [Wooly and the Uke](https://open.spotify.com/artist/1FykDoCf7IfkRKARKdnNV6), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [How](https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4) | 2:38 | 2022-02-17 | 2022-06-11 |
 | [Hum Kahan](https://open.spotify.com/track/4lU9mJtD01KknelD2W2jX8) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Hum Kahan](https://open.spotify.com/album/6de2uubuc6Oi51s8A7PPkV) | 3:09 | 2022-02-17 | 2023-04-09 |
-| [Ijazat](https://open.spotify.com/track/0wNyBPr6W8JSC9f39FCYbT) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Ijazat](https://open.spotify.com/album/4EwUuN903KFiw9IZmWlos6) | 1:30 | 2023-04-07 |  |
+| [Ijazat](https://open.spotify.com/track/0wNyBPr6W8JSC9f39FCYbT) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Ijazat](https://open.spotify.com/album/4EwUuN903KFiw9IZmWlos6) | 1:30 | 2023-04-07 | 2023-05-17 |
+| [Ijazat](https://open.spotify.com/track/1XMXEyJbj8qvHtuqLbOIq6) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Ijazat](https://open.spotify.com/album/1VLL0I0Y1hG0nQThZ0seJy) | 1:30 | 2023-04-07 |  |
 | [Ijazat Cover](https://open.spotify.com/track/18XICD9QHduuxiewBjFZga) | [Arnob Khan Akib](https://open.spotify.com/artist/6MmkwDpS1JUxr05xRBx5Tu) | [Ijazat Cover](https://open.spotify.com/album/58Ri6HbF07OMoYoE41Qfs9) | 1:30 | 2023-04-07 | 2023-04-27 |
 | [Iltija](https://open.spotify.com/track/2gDJV55SsEtTp1apEe8k0r) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [Iltija](https://open.spotify.com/album/5HElAOajKG6Tw39pANxWFi) | 5:17 | 2021-12-06 | 2022-01-29 |
 | [Intezaar](https://open.spotify.com/track/7mtFv7sJst6tUNFEYycB81) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Kamil Mahmood Kiani](https://open.spotify.com/artist/6KS7D3edmUKtWbWQ99KjY6) | [Intezaar](https://open.spotify.com/album/0iU1spYHEzzdlAW5Pftwdg) | 2:39 | 2022-10-03 | 2023-04-09 |

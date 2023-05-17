@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-748 songs - 1 day 16 hr 34 min
+749 songs - 1 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,8 @@
 | [Nakhre](https://open.spotify.com/track/0hqCAsa7naJaaF7F680i5Q) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Nakhre](https://open.spotify.com/album/0HtBqzjXxKaw9RxJYjR9gi) | 3:20 | 2022-07-13 | 2022-09-23 |
 | [Nasheyan Ch Patteya Peya](https://open.spotify.com/track/5ARAj182la0NfRuTKVZiBJ) | [Nav Sandhu](https://open.spotify.com/artist/7s8fmhe8tVbA8cxnDAPExg), [Gur Chahal](https://open.spotify.com/artist/1rt19qkEViw6JnmrDzm4A7) | [Nasheyan Ch Patteya Peya](https://open.spotify.com/album/5KH4LRxPaSvWaMJSWRMSgR) | 3:32 | 2022-03-03 | 2022-03-11 |
 | [Nawa Nawa Dil Tuteya](https://open.spotify.com/track/0ZFsqEVqApPnuIGuQJIscw) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx) | [Nawa Nawa Dil Tuteya](https://open.spotify.com/album/45Mgbj1LeFXPnnktnpvsiD) | 3:39 | 2022-03-18 | 2022-04-06 |
-| [Nawa Nawa Pyaar](https://open.spotify.com/track/50DyjmQxDUAygFT31rD1kT) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Tanu Grewal](https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47) | [Nawa Nawa Pyaar \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/2UbFUgSQy4u09v1jzah7qy) | 2:19 | 2022-08-19 |  |
+| [Nawa Nawa Pyaar](https://open.spotify.com/track/50DyjmQxDUAygFT31rD1kT) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Tanu Grewal](https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47) | [Nawa Nawa Pyaar \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/2UbFUgSQy4u09v1jzah7qy) | 2:19 | 2022-08-19 | 2023-05-17 |
+| [Nawa Nawa Pyaar](https://open.spotify.com/track/6BJEyDIOQf7pi3jKIbC34p) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Tanu Grewal](https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47) | [Nawa Nawa Pyaar \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/7vZ8AFILMwRsTFHB8SoxuS) | 2:19 | 2023-05-12 |  |
 | [Nede Nede](https://open.spotify.com/track/4WcaWNHa7BoPvQ0tfe0jAo) | [Parry Mounn](https://open.spotify.com/artist/5wa8fZAQdhMMvKBu1iKGKM), [Ruhani Sharma](https://open.spotify.com/artist/2qREfft7wnYiWRLk8y6EDg) | [Nede Nede](https://open.spotify.com/album/6IKMeqAZrVaRM3jUk8YmfN) | 3:07 | 2022-02-15 | 2022-03-11 |
 | [NEED YA](https://open.spotify.com/track/4XHd1IEB9waIcG2NOAzYQU) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [RHYMEDY](https://open.spotify.com/album/6s4xBpX7RxzGvZYVn7bZCX) | 2:02 | 2023-03-08 | 2023-05-06 |
 | [Never Leave Me](https://open.spotify.com/track/3ADSlfZRKzY1C9mXue8YiD) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC) | [Hop & Folk](https://open.spotify.com/album/1Lvs59XUDFgvbeSAXMwtBs) | 4:04 | 2022-01-28 | 2022-02-01 |

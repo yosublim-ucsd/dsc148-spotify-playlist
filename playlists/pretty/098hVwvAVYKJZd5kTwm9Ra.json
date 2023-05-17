@@ -1,13 +1,29 @@
 {
-  "description": "Listen to Summer BBQ essentials featuring Classic Rock, Yacht Rock, and Country favorites from AC/DC, Kenny Loggins, Rick Springfield, TOTO, Van Morrison + more!",
-  "num_followers": 76870,
+  "description": "Listen to Summer Barbeque grilling essentials featuring Classic Rock, Yacht Rock, and Country favorites from AC/DC, Kenny Loggins, Rick Springfield, TOTO, Van Morrison + more!",
+  "num_followers": 77170,
   "original_name": "BBQ 2023: Summer Party Classics",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "ODMxLDBjNDQ3ODM5ZDU1YTQzNDUxMjE3YzkwNjllMzZhYzc2MjRiMmY1YWM=",
+  "snapshot_id": "ODM1LDIxMWEyMTQyNWQzNjUzNTVhMTc4Yjk4ZDNlZGQ3NmIzZTk2ZjljYTU=",
   "tracks": [
+    {
+      "added_at": "2023-05-16 15:41:07",
+      "album": {
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+      },
+      "artists": [
+        {
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+    },
     {
       "added_at": "2023-05-15 19:16:42",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: slipmami, Maru2D",
-  "num_followers": 35205,
+  "num_followers": 35251,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzYzODU0NGU3NGMwZTE1NGYyZTY5ZTdlMWRiMDE2ODE4NzY0ODcx",
+  "snapshot_id": "MCxlMWIxODlkNzE5YWU2OTI2ZDY2OGYwZTk3ZDVlZGIyMmRjNDc1OGJl",
   "tracks": [
     {
       "added_at": "2023-05-05 03:01:00",
@@ -275,6 +275,26 @@
     {
       "added_at": "2023-05-05 03:01:00",
       "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+        }
+      ],
+      "duration_ms": 196165,
+      "name": "Rotina",
+      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
+    },
+    {
+      "added_at": "2023-05-05 03:01:00",
+      "album": {
         "name": "Tropa do Mant\u00e9m",
         "url": "https://open.spotify.com/album/68wHxRNVAr8OqV9ZiyoCDQ"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 164000,
       "name": "Tropa do Mant\u00e9m",
       "url": "https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD"
-    },
-    {
-      "added_at": "2023-05-05 03:01:00",
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marcos Beatman",
-          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
-        }
-      ],
-      "duration_ms": 196165,
-      "name": "Rotina",
-      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
     },
     {
       "added_at": "2023-05-05 03:01:00",
@@ -431,6 +431,26 @@
     {
       "added_at": "2023-05-05 03:01:00",
       "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "Seu Particular",
+      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
+    },
+    {
+      "added_at": "2023-05-05 03:01:00",
+      "album": {
         "name": "Faixa Rosa",
         "url": "https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 217142,
       "name": "Filhas do Improv\u00e1vel",
       "url": "https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd"
-    },
-    {
-      "added_at": "2023-05-05 03:01:00",
-      "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Seu Particular",
-      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
     },
     {
       "added_at": "2023-05-05 03:01:00",
@@ -635,42 +635,42 @@
     {
       "added_at": "2023-05-05 03:01:00",
       "album": {
-        "name": "De F\u00e9",
-        "url": "https://open.spotify.com/album/7yvEzXsMNAIGBQtd0luLDZ"
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
       "artists": [
         {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Ikinya",
-          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 144000,
-      "name": "De F\u00e9",
-      "url": "https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72"
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
     },
     {
       "added_at": "2023-05-05 03:01:00",
       "album": {
-        "name": "Air Force",
-        "url": "https://open.spotify.com/album/4aW8csEPx6r1p4CFnlPpFD"
+        "name": "Aquecimento",
+        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
       },
       "artists": [
         {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
         },
         {
-          "name": "Black Queen",
-          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Air Force",
-      "url": "https://open.spotify.com/track/2YxwuexC6MmXq1MzLrGMNR"
+      "duration_ms": 123444,
+      "name": "Aquecimento",
+      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
     },
     {
       "added_at": "2023-05-05 03:01:00",
@@ -699,22 +699,22 @@
     {
       "added_at": "2023-05-05 03:01:00",
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+        "name": "Tukikis",
+        "url": "https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n"
       },
       "artists": [
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
         },
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
         }
       ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
+      "duration_ms": 174083,
+      "name": "Tukikis",
+      "url": "https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7"
     },
     {
       "added_at": "2023-05-05 03:01:00",
@@ -759,42 +759,58 @@
     {
       "added_at": "2023-05-05 03:01:00",
       "album": {
-        "name": "Tukikis",
-        "url": "https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n"
+        "name": "First",
+        "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
       },
       "artists": [
         {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        },
-        {
-          "name": "MDN Beatz",
-          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         }
       ],
-      "duration_ms": 174083,
-      "name": "Tukikis",
-      "url": "https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7"
+      "duration_ms": 132923,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
     },
     {
       "added_at": "2023-05-05 03:01:00",
       "album": {
-        "name": "Aquecimento",
-        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
+        "name": "Air Force",
+        "url": "https://open.spotify.com/album/4aW8csEPx6r1p4CFnlPpFD"
       },
       "artists": [
         {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
         },
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Air Force",
+      "url": "https://open.spotify.com/track/2YxwuexC6MmXq1MzLrGMNR"
+    },
+    {
+      "added_at": "2023-05-05 03:01:00",
+      "album": {
+        "name": "De F\u00e9",
+        "url": "https://open.spotify.com/album/7yvEzXsMNAIGBQtd0luLDZ"
+      },
+      "artists": [
         {
           "name": "LARINHX",
           "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ikinya",
+          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
         }
       ],
-      "duration_ms": 123444,
-      "name": "Aquecimento",
-      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
+      "duration_ms": 144000,
+      "name": "De F\u00e9",
+      "url": "https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72"
     },
     {
       "added_at": "2023-05-05 03:01:00",
@@ -871,22 +887,6 @@
       "duration_ms": 122000,
       "name": "Drip do Gaza",
       "url": "https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp"
-    },
-    {
-      "added_at": "2023-05-05 03:01:00",
-      "album": {
-        "name": "First",
-        "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "First",
-      "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
     },
     {
       "added_at": "2023-05-05 03:01:00",

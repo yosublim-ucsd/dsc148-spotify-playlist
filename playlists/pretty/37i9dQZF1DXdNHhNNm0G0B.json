@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70819,
+  "num_followers": 70837,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWNlMTc0YTljMzM4MDcyN2Y5OGYzYTUzOTBmNmFjZTljODdjNTk0",
+  "snapshot_id": "MCwyMzRlNDhiNzk0NWJmMzQyNTAxM2E3NGVlZWMzMDQ5ZGZlNWY0NmVl",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -389,22 +389,6 @@
       "url": "https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN"
     },
     {
-      "added_at": "2023-05-16 01:41:02",
-      "album": {
-        "name": "Blues Jumped a Rabbit",
-        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 235040,
-      "name": "Blues Jumped a Rabbit",
-      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
-    },
-    {
       "added_at": "2023-04-07 00:01:00",
       "album": {
         "name": "New Orleans Street Singer",
@@ -435,6 +419,22 @@
       "duration_ms": 188373,
       "name": "Let Your Light Shine on Me",
       "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
+    },
+    {
+      "added_at": "2023-05-17 01:43:38",
+      "album": {
+        "name": "Blues Jumped a Rabbit",
+        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 235040,
+      "name": "Blues Jumped a Rabbit",
+      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "God Moves On the Water",
+      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Shake It for Me",
         "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
       },
@@ -535,38 +551,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Lonely Days",
-      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "God Moves On the Water",
-      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 154924,
       "name": "New Anthem",
       "url": "https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "Lonely Days",
+      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Detroit Blues",
-        "url": "https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70"
-      },
-      "artists": [
-        {
-          "name": "Danny Kroha",
-          "url": "https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb"
-        }
-      ],
-      "duration_ms": 169039,
-      "name": "Detroit Blues",
-      "url": "https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Fountain",
         "url": "https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 303946,
       "name": "Natural West",
       "url": "https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Detroit Blues",
+        "url": "https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70"
+      },
+      "artists": [
+        {
+          "name": "Danny Kroha",
+          "url": "https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb"
+        }
+      ],
+      "duration_ms": 169039,
+      "name": "Detroit Blues",
+      "url": "https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Imaginational Anthem",
-        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
-      },
-      "artists": [
-        {
-          "name": "Harris Newman",
-          "url": "https://open.spotify.com/artist/5A54A8MxavFfaTSxOxfvWt"
-        }
-      ],
-      "duration_ms": 264386,
-      "name": "Lake Shore Drive (Slight Return)",
-      "url": "https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Bootleg USA",
         "url": "https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p"
       },
@@ -987,18 +971,34 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Bottom's Up",
-        "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
+        "name": "Imaginational Anthem",
+        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
       },
       "artists": [
         {
-          "name": "Will Harrison",
-          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+          "name": "Harris Newman",
+          "url": "https://open.spotify.com/artist/5A54A8MxavFfaTSxOxfvWt"
         }
       ],
-      "duration_ms": 172383,
-      "name": "Good Timin'",
-      "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
+      "duration_ms": 264386,
+      "name": "Lake Shore Drive (Slight Return)",
+      "url": "https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Imaginational Anthem Vol. 5",
+        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+      },
+      "artists": [
+        {
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+        }
+      ],
+      "duration_ms": 288626,
+      "name": "There Is a Place in This Old Town",
+      "url": "https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Imaginational Anthem Vol. 5",
-        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+        "name": "Bottom's Up",
+        "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
       },
       "artists": [
         {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
         }
       ],
-      "duration_ms": 288626,
-      "name": "There Is a Place in This Old Town",
-      "url": "https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7"
+      "duration_ms": 172383,
+      "name": "Good Timin'",
+      "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Nickel for Your Troubles",
-        "url": "https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY"
-      },
-      "artists": [
-        {
-          "name": "Will Harrison",
-          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
-        }
-      ],
-      "duration_ms": 168254,
-      "name": "Keepin On",
-      "url": "https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Landscape and People",
         "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 379453,
       "name": "A Real State of Independence",
       "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Nickel for Your Troubles",
+        "url": "https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "duration_ms": 168254,
+      "name": "Keepin On",
+      "url": "https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Landscape and People",
-        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
       "artists": [
         {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
         }
       ],
-      "duration_ms": 245066,
-      "name": "Long River (Allegheny)",
-      "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
+      "duration_ms": 316048,
+      "name": "Dodge City",
+      "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
     }
   ],
   "unique_name": "Rockin' Chair Blues",

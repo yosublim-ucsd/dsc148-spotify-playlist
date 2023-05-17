@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 261356,
+  "num_followers": 261403,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDY3N2NlOTViMDk0Yzk0YWQxODBhZjNmZDg3ZmFlMTMxNjEyMDFk",
+  "snapshot_id": "MCw0MjUxNDBmMDlmNTc1MzBkMDg5MTE5YmYwMDIxMWJkNDk1YWIzYzRm",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -655,8 +655,8 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Maldita Vocaci\u00f3n",
-        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
+        "name": "S\u00f3lo, Ni Tan S\u00f3lo, Vol. 2 (Acoustic Live Version)",
+        "url": "https://open.spotify.com/album/0J37bveorWwGLl1fSn7ZqJ"
       },
       "artists": [
         {
@@ -664,13 +664,13 @@
           "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         },
         {
-          "name": "Diego Ojeda",
-          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
+          "name": "Ra\u00fal Ornelas",
+          "url": "https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845"
         }
       ],
-      "duration_ms": 285341,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
+      "duration_ms": 245413,
+      "name": "El Manual de Lo Prohibido - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/126lK16xw9pZo9N1xTf8Oy"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -775,8 +775,8 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "S\u00f3lo, Ni Tan S\u00f3lo, Vol. 2 (Acoustic Live Version)",
-        "url": "https://open.spotify.com/album/0J37bveorWwGLl1fSn7ZqJ"
+        "name": "Maldita Vocaci\u00f3n",
+        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
       },
       "artists": [
         {
@@ -784,13 +784,13 @@
           "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         },
         {
-          "name": "Ra\u00fal Ornelas",
-          "url": "https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845"
+          "name": "Diego Ojeda",
+          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
         }
       ],
-      "duration_ms": 245413,
-      "name": "El Manual de Lo Prohibido - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/126lK16xw9pZo9N1xTf8Oy"
+      "duration_ms": 285341,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
-        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
-      },
-      "artists": [
-        {
-          "name": "Juan Salvador",
-          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Alfonsina Y El Mar",
         "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 279333,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
+        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
+      },
+      "artists": [
+        {
+          "name": "Juan Salvador",
+          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
+        }
+      ],
+      "duration_ms": 194680,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/6GmdNYTVg5B38w4kAAcj0n"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
-        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
-      },
-      "artists": [
-        {
-          "name": "Juan Salvador",
-          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Al Doblar la Esquina",
-      "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "De Vez en Cuando",
         "url": "https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 253190,
       "name": "De Vez en Cuando - Ac\u00fastica",
       "url": "https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
+        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
+      },
+      "artists": [
+        {
+          "name": "Juan Salvador",
+          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Al Doblar la Esquina",
+      "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
     },
     {
       "added_at": "2021-07-29 16:46:05",

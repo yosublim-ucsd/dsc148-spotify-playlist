@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Chico da Tina e tripsyhell entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,760 likes - 74 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,786 likes - 74 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 2 | [DIAMANTE](https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [ANTI$$OCIAL](https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI) | 3:24 |
 | 3 | [Minha Terra](https://open.spotify.com/track/2EtBqr037rsEcUHlaSTcT6) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Minha Terra](https://open.spotify.com/album/05rD9jNxOYPOIZu6cNPdL3) | 4:19 |
 | 4 | [México](https://open.spotify.com/track/0pDYDKL7Gsd333bEcEgtLO) | [Lake](https://open.spotify.com/artist/7yFz46AJxXLmMGwyHKcJ1p), [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl) | [México](https://open.spotify.com/album/4p8i8HdR8Sk2cM3l5F7q01) | 3:05 |
-| 5 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 |
+| 5 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [Vano1337](https://open.spotify.com/artist/1dFSERIYIjXxFaMQi9Mf5q) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 |
 | 6 | [Visão Noturna](https://open.spotify.com/track/3UCqd9sT0C9qDayjFHBQjd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Gorilleyez](https://open.spotify.com/album/686H1mlR6VMgl0wqijQFrf) | 4:41 |
 | 7 | [TA TUDO BEM](https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 4:32 |
 | 8 | [Alcatraz](https://open.spotify.com/track/1Hc0zt33FVHdi4DWtUAa0s) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Alcatraz](https://open.spotify.com/album/7aFKsnwLJ7fMY90k4yVXiz) | 3:25 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 73 | [Energy](https://open.spotify.com/track/0OuWQsF76w2jXQxOpvWfxn) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF) | [Energy](https://open.spotify.com/album/5h9LXGGTR6RiAGRbeY8PI7) | 3:58 |
 | 74 | [Sou Bem](https://open.spotify.com/track/7Ac5IGdhLqTzplHidnip3v) | [Johnny Virtus](https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt) | [Sou Bem](https://open.spotify.com/album/0V6k1ZXRZcWVtfziRleho3) | 3:44 |
 
-Snapshot ID: `MCxiMzQ1MWRmYWM5MmE1M2I4ZWY3ZmU3MjRlZjY0NDUwOGI3N2E3NjEw`
+Snapshot ID: `MCw5MmEyMTVlMGE3N2ZkNmY3MzBkZmNjNjc0ZjE5MjI3MTJlZWEzZTE0`

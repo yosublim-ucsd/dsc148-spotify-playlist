@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Dominik Hartz
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,169 likes - 74 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,238 likes - 74 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 73 | [Fluch](https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Fluch](https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh) | 2:07 |
 | 74 | [Nach Hause](https://open.spotify.com/track/0CFOyN2HD6gqCo7RY2YK6n) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Euphorie und Panik!](https://open.spotify.com/album/1nwCWEMNJs3XYhC8XS3KBO) | 3:00 |
 
-Snapshot ID: `MCwzNDc5YTM3ODdmMGNiMTBkMGE1ZjM4MjUyYjVkZDkyZDcxNjQ5NDcz`
+Snapshot ID: `MCxhYzU4ZGMwOWQwYzY5MjczOTE4NDg0OTY4NWY0MDU0MjRiZWI5NTA4`

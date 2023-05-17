@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Reblah
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,447 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,482 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 79 | [Congratulations](https://open.spotify.com/track/2lxAUhTqw3phdpVHJSHTMJ) | [Jumabee](https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv) | [Congratulations](https://open.spotify.com/album/6Y7LaoeSXPsarZXQtD49xk) | 3:02 |
 | 80 | [Now](https://open.spotify.com/track/7MuaxCreOLw1Gu6rgvQi1S) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS) | [Now](https://open.spotify.com/album/1WzR4KS2GYPKpJJ6Lg6uiO) | 3:45 |
 
-Snapshot ID: `MCw5NjE4ZjE5MDU5MjgzZDRlMDlhMDUyN2UyYmRiOTZmYTQxZjY2M2E3`
+Snapshot ID: `MCxjODcwMTJjMzVlYTgyODhmZmY3NTA2ZWY0ZjQ4MmI5ZGVhMTkwYjBk`

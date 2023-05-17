@@ -4455,6 +4455,24 @@
     },
     {
       "album": {
+        "name": "Spend It All",
+        "url": "https://open.spotify.com/album/3H4sajgFpoIlEzSHVLvxRJ"
+      },
+      "artists": [
+        {
+          "name": "Guy Arthur",
+          "url": "https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Spend It All",
+      "url": "https://open.spotify.com/track/0RD2pGHqPMJ3RBfCRhHUSK"
+    },
+    {
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/2egaLUBXUvyDbUBgi5iLzh"
       },

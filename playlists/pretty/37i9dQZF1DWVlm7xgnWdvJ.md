@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,910 likes - 99 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,928 likes - 100 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 97 | [Into The Sun](https://open.spotify.com/track/5xUomxrzkIr0MAP9YQur24) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Flourish](https://open.spotify.com/album/6f1xUyLnfRELUNufnypE3Z) | 4:03 |
 | 98 | [Matrix \- Sofia Kourtesis Remix](https://open.spotify.com/track/5hjiRNGMYjihPgvNl12W0A) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Matrix \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/3GWAJo3AAQVbQjaBVgEVcn) | 6:44 |
 | 99 | [Shikiria \- Day Mix](https://open.spotify.com/track/5tNmUCoZuBY4z2oPxENNHJ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 3:59 |
+| 100 | [Oasis](https://open.spotify.com/track/1q8Mv29O7xbvR7Spdn5gM2) | [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz) | [Oasis](https://open.spotify.com/album/6PC0oDvNSGnPzrpFL2viNI) | 10:22 |
 
-Snapshot ID: `MCwwY2MxM2U2YmZmZTFjZTY1MGUxNjQ1ODQ5YTRhZWY0OTRiMWEzYjM2`
+Snapshot ID: `MCw2OWU1OGRhYzM4YzFlM2M5OTY0NGU4NDI2NmVlYzhiOWM4NTRiYzM4`

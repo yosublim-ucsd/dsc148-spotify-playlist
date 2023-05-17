@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 43898,
+  "num_followers": 44001,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGZiYzMxZDJiYWY0ZWVjMWY5ZDMyMmFkOGY2NDcyNDk3OWNiMTc5",
+  "snapshot_id": "MCw4ZDdjNDZhZDc5N2E5NWI2NGRkYmI1OTA2ZGIwOWVkMjVmYTA5MzNh",
   "tracks": [
     {
       "added_at": "2023-05-15 06:36:17",
@@ -415,22 +415,22 @@
     {
       "added_at": "2023-05-15 06:36:17",
       "album": {
-        "name": "Cryexgenic",
-        "url": "https://open.spotify.com/album/1wVCfLLSlUP2zprjVCYKR9"
+        "name": "The Ultimate Killing Machine",
+        "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
       },
       "artists": [
         {
-          "name": "Cryex",
-          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         },
         {
-          "name": "Cryogenic",
-          "url": "https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN"
+          "name": "Serouj Guidanian",
+          "url": "https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU"
         }
       ],
-      "duration_ms": 223215,
-      "name": "Cryexgenic",
-      "url": "https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv"
+      "duration_ms": 205846,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
     },
     {
       "added_at": "2023-05-15 06:36:17",
@@ -475,22 +475,22 @@
     {
       "added_at": "2023-05-15 06:36:17",
       "album": {
-        "name": "The Ultimate Killing Machine",
-        "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
+        "name": "Cryexgenic",
+        "url": "https://open.spotify.com/album/1wVCfLLSlUP2zprjVCYKR9"
       },
       "artists": [
         {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
         },
         {
-          "name": "Serouj Guidanian",
-          "url": "https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU"
+          "name": "Cryogenic",
+          "url": "https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN"
         }
       ],
-      "duration_ms": 205846,
-      "name": "Here To Stay",
-      "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
+      "duration_ms": 223215,
+      "name": "Cryexgenic",
+      "url": "https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv"
     },
     {
       "added_at": "2023-05-15 06:36:17",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-05-15 06:36:17",
       "album": {
-        "name": "DEQUINOX 100",
-        "url": "https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 222272,
-      "name": "DEQUINOX 100",
-      "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
-    },
-    {
-      "added_at": "2023-05-15 06:36:17",
-      "album": {
         "name": "STRUGGLE TO SURVIVE",
         "url": "https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 175151,
       "name": "PartyRockerz",
       "url": "https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX"
+    },
+    {
+      "added_at": "2023-05-15 06:36:17",
+      "album": {
+        "name": "DEQUINOX 100",
+        "url": "https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 222272,
+      "name": "DEQUINOX 100",
+      "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
     },
     {
       "added_at": "2023-05-15 06:36:17",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-05-15 06:36:17",
       "album": {
-        "name": "Fight Them All",
-        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Fight Them All",
-      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
-    },
-    {
-      "added_at": "2023-05-15 06:36:17",
-      "album": {
         "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
         "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 279157,
       "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
       "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
+    },
+    {
+      "added_at": "2023-05-15 06:36:17",
+      "album": {
+        "name": "Fight Them All",
+        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Fight Them All",
+      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
     },
     {
       "added_at": "2023-05-15 06:36:17",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-05-15 06:36:17",
       "album": {
-        "name": "Het Verbond",
-        "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
-      },
-      "artists": [
-        {
-          "name": "Furyan",
-          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
-        },
-        {
-          "name": "Da Mouth of Madness",
-          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
-        }
-      ],
-      "duration_ms": 256457,
-      "name": "Het Verbond",
-      "url": "https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8"
-    },
-    {
-      "added_at": "2023-05-15 06:36:17",
-      "album": {
         "name": "Attack",
         "url": "https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 194117,
       "name": "Attack",
       "url": "https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og"
+    },
+    {
+      "added_at": "2023-05-15 06:36:17",
+      "album": {
+        "name": "Het Verbond",
+        "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
+      },
+      "artists": [
+        {
+          "name": "Furyan",
+          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+        }
+      ],
+      "duration_ms": 256457,
+      "name": "Het Verbond",
+      "url": "https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8"
     },
     {
       "added_at": "2023-05-15 06:36:17",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2023-05-15 06:36:17",
       "album": {
+        "name": "We are Frenchcore",
+        "url": "https://open.spotify.com/album/5RYJtjJ2BCCWg5SwMSbQkz"
+      },
+      "artists": [
+        {
+          "name": "Billx",
+          "url": "https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "We are Frenchcore",
+      "url": "https://open.spotify.com/track/2m2R5CO0YORG5OWchqgjgf"
+    },
+    {
+      "added_at": "2023-05-15 06:36:17",
+      "album": {
         "name": "Not Afraid to Fall",
         "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
       },
@@ -1611,22 +1631,6 @@
       "duration_ms": 185230,
       "name": "Not Afraid to Fall",
       "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
-    },
-    {
-      "added_at": "2023-05-15 06:36:17",
-      "album": {
-        "name": "Wake Up Now",
-        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
-      },
-      "artists": [
-        {
-          "name": "Lem-X",
-          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
-        }
-      ],
-      "duration_ms": 202678,
-      "name": "Wake Up Now",
-      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
     },
     {
       "added_at": "2023-05-15 06:36:17",
@@ -1651,22 +1655,18 @@
     {
       "added_at": "2023-05-15 06:36:17",
       "album": {
-        "name": "We are Frenchcore",
-        "url": "https://open.spotify.com/album/5RYJtjJ2BCCWg5SwMSbQkz"
+        "name": "Wake Up Now",
+        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
       },
       "artists": [
         {
-          "name": "Billx",
-          "url": "https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB"
-        },
-        {
-          "name": "Da Mouth of Madness",
-          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+          "name": "Lem-X",
+          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
         }
       ],
-      "duration_ms": 204631,
-      "name": "We are Frenchcore",
-      "url": "https://open.spotify.com/track/2m2R5CO0YORG5OWchqgjgf"
+      "duration_ms": 202678,
+      "name": "Wake Up Now",
+      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
     },
     {
       "added_at": "2023-05-15 06:36:17",

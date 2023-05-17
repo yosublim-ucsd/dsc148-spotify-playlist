@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Lynda
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,597 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,687 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Pas là](https://open.spotify.com/track/5GIRSbbvKHSmY4p2pEnZke) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [Pas là](https://open.spotify.com/album/5EzYNyHB5oRjRpB1zcUdnc) | 2:27 |
 | 40 | [BB](https://open.spotify.com/track/1LuYLVEVdXwHpgnEM7BNeq) | [Dessplora](https://open.spotify.com/artist/3VZU5ip7b3Bwywo1ST9xif) | [BB](https://open.spotify.com/album/1aJnsqQzrqxCvcTxXxM50M) | 2:05 |
 
-Snapshot ID: `MCxmN2NiMDY4MjBmOTEyOGM1MDYzOTVkODI0YTcwM2Y0MzEzZGUzZWE4`
+Snapshot ID: `MCxkNmMyZDBlMWM2OWRlYWQ2MDliMDEzZjBkNGE0NWQ1YjMxN2ZlYTcz`

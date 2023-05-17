@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover, Lola Brooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,885 likes - 70 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,912 likes - 70 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 69 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 |
 | 70 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 |
 
-Snapshot ID: `MCw0NDBjNGYyOGRjY2QwM2NkZDhhNjc4YThiYTBmMDZjOTYwZGYwZTQz`
+Snapshot ID: `MCxlYzQzNWVjZmU1ZjVlYzY2MmM0ODg2MzI2OGNjNjdhMTg1MGFkMjI0`

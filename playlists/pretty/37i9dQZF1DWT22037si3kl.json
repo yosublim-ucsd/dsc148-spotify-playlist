@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Vulgo FK, Kyan",
-  "num_followers": 100802,
+  "num_followers": 101060,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Mzc5NjU5MWQ2MzIxM2NlY2JkMjk1YjlkYWVjYTY2Y2FjYjFhMDU4",
+  "snapshot_id": "MCxjMGJlMjRlNjE4MTA0YzkyN2RkNzcwOWMxODJhNTNhZWZjODI2MzU2",
   "tracks": [
     {
       "added_at": "2023-05-12 03:59:56",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2023-05-12 03:59:56",
       "album": {
+        "name": "Dama de Vermelho",
+        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Dama de Vermelho",
+      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
+    },
+    {
+      "added_at": "2023-05-12 03:59:56",
+      "album": {
         "name": "Outro Patamar",
         "url": "https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 224842,
       "name": "Outro Patamar",
       "url": "https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG"
-    },
-    {
-      "added_at": "2023-05-12 03:59:56",
-      "album": {
-        "name": "Dama de Vermelho",
-        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "Dama de Vermelho",
-      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
     },
     {
       "added_at": "2023-05-12 03:59:56",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2023-05-12 03:59:56",
       "album": {
+        "name": "SEMPRE TRAVADO",
+        "url": "https://open.spotify.com/album/1FRMcQix0gOchwfR1Y2LBF"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "TTF",
+          "url": "https://open.spotify.com/artist/7DNHbtTJPNfl3TsTCbJN56"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "SEMPRE TRAVADO",
+      "url": "https://open.spotify.com/track/3mYblXOntVWfzRccFzQemi"
+    },
+    {
+      "added_at": "2023-05-12 03:59:56",
+      "album": {
         "name": "Vim de L\u00e1",
         "url": "https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 214500,
       "name": "Hugo Boss",
       "url": "https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1"
-    },
-    {
-      "added_at": "2023-05-12 03:59:56",
-      "album": {
-        "name": "SEMPRE TRAVADO",
-        "url": "https://open.spotify.com/album/1FRMcQix0gOchwfR1Y2LBF"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "TTF",
-          "url": "https://open.spotify.com/artist/7DNHbtTJPNfl3TsTCbJN56"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "SEMPRE TRAVADO",
-      "url": "https://open.spotify.com/track/3mYblXOntVWfzRccFzQemi"
     },
     {
       "added_at": "2023-05-12 03:59:56",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2023-05-12 03:59:56",
       "album": {
+        "name": "Preto No Branco",
+        "url": "https://open.spotify.com/album/5nYvCS3VXPSO6bYLrFvQNh"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "duration_ms": 189795,
+      "name": "Nao Me Chama De Neguin",
+      "url": "https://open.spotify.com/track/1XT6MaQHcfhUpNaQW2jqy0"
+    },
+    {
+      "added_at": "2023-05-12 03:59:56",
+      "album": {
         "name": "Ouro Rose",
         "url": "https://open.spotify.com/album/7cck41bWwvuVgc20hPXgCC"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 155480,
       "name": "Ouro Rose",
       "url": "https://open.spotify.com/track/7CISV57Tvy6FeeRoUV0Mov"
-    },
-    {
-      "added_at": "2023-05-12 03:59:56",
-      "album": {
-        "name": "Preto No Branco",
-        "url": "https://open.spotify.com/album/5nYvCS3VXPSO6bYLrFvQNh"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        }
-      ],
-      "duration_ms": 189795,
-      "name": "Nao Me Chama De Neguin",
-      "url": "https://open.spotify.com/track/1XT6MaQHcfhUpNaQW2jqy0"
     }
   ],
   "unique_name": "O Drip",

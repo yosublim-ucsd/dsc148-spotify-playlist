@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2494,
+  "num_followers": 2492,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTkwZTNmZWQwYTE5M2I3NDE0YmIwY2U5ZDhkN2M0MTc3MGJmMTgw",
+  "snapshot_id": "MCwzZGE5N2VlMGFmODgyMzQ3NDkyMDY3MGQzZWU2YWI3YThiZmFhYmYy",
   "tracks": [
     {
       "added_at": "2023-05-02 09:12:26",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+        "name": "BAD BLOOD - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta"
       },
       "artists": [
         {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "SUPER JUNIOR-D&E",
+          "url": "https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI"
         }
       ],
-      "duration_ms": 116000,
-      "name": "Go Your Way",
-      "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
+      "duration_ms": 244360,
+      "name": "To you, Tomorrow",
+      "url": "https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG"
     },
     {
       "added_at": "2023-05-02 09:12:26",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-05-02 09:12:26",
       "album": {
-        "name": "BAD BLOOD - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta"
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
       "artists": [
         {
-          "name": "SUPER JUNIOR-D&E",
-          "url": "https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 244360,
-      "name": "To you, Tomorrow",
-      "url": "https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG"
+      "duration_ms": 116000,
+      "name": "Go Your Way",
+      "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
     }
   ],
   "unique_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",

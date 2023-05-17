@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Janeth Valenzuela en portada.",
-  "num_followers": 87720,
+  "num_followers": 87785,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjJkOGZmZmUxMzdjOGNjMDVlZWE5NzcyNGJiYjk3ZDQzZDdlNjA1",
+  "snapshot_id": "MCxmMzI5ZjlmYjFhNDczOGVmMDdlODg0OTg5NWEwMTA4YTYwM2FjMjZk",
   "tracks": [
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Un Amor en el Olvido",
-        "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Un Amor en el Olvido",
-      "url": "https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "\u00bfPor Qu\u00e9 No Vienes?",
         "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 215346,
       "name": "\u00bfPor Qu\u00e9 No Vienes?",
       "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Un Amor en el Olvido",
+        "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Un Amor en el Olvido",
+      "url": "https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1367,22 +1367,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Amor De Unos Botes",
-        "url": "https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe"
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/1zwouzqra6ZrjRg9qkk1gL"
       },
       "artists": [
         {
           "name": "Erika Vidrio",
           "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        },
-        {
-          "name": "Fernanda Diaz",
-          "url": "https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y"
         }
       ],
-      "duration_ms": 195500,
-      "name": "Amor De Unos Botes",
-      "url": "https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD"
+      "duration_ms": 180000,
+      "name": "40 Y 21",
+      "url": "https://open.spotify.com/track/3bPCfYzKsnzhT4YYcYC0lq"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1435,18 +1431,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA"
+        "name": "Lo Que A Usted Le Falta",
+        "url": "https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts"
       },
       "artists": [
         {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
         }
       ],
-      "duration_ms": 186475,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
+      "duration_ms": 168066,
+      "name": "Lo Que A Usted Le Falta",
+      "url": "https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1483,34 +1479,38 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/1zwouzqra6ZrjRg9qkk1gL"
+        "name": "Amor De Unos Botes",
+        "url": "https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe"
       },
       "artists": [
         {
           "name": "Erika Vidrio",
           "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "Fernanda Diaz",
+          "url": "https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y"
         }
       ],
-      "duration_ms": 180000,
-      "name": "40 Y 21",
-      "url": "https://open.spotify.com/track/3bPCfYzKsnzhT4YYcYC0lq"
+      "duration_ms": 195500,
+      "name": "Amor De Unos Botes",
+      "url": "https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD"
     },
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Lo Que A Usted Le Falta",
-        "url": "https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts"
+        "name": "Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA"
       },
       "artists": [
         {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
         }
       ],
-      "duration_ms": 168066,
-      "name": "Lo Que A Usted Le Falta",
-      "url": "https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS"
+      "duration_ms": 186475,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1543,6 +1543,22 @@
       "duration_ms": 173148,
       "name": "Una Tarde De Abril",
       "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Ya Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1591,22 +1607,6 @@
       "duration_ms": 190146,
       "name": "Mi Soldadita",
       "url": "https://open.spotify.com/track/5lpKKzuCgPqrcOscblmapl"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Ya Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
     },
     {
       "added_at": "2023-05-12 06:00:00",

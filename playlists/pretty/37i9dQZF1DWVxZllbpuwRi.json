@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 629758,
+  "num_followers": 629723,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGYzNjA0MzJmYmEzOThmMTM4MTI5Nzg1ZWQ3ZWFiMzEwNjBjMWQ0",
+  "snapshot_id": "MCxjZDY4NjM4NWUwZWY5MzNiNTg5YzJhMmNiYTI3YTFlZDE0MGRiYTky",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Beso",
+        "url": "https://open.spotify.com/album/3h1i2Oprt4fTDunTV4MRwx"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 203631,
+      "name": "Beso",
+      "url": "https://open.spotify.com/track/1L9UBn6F0iY4HZeeH4teDZ"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "All The Lies (with Felix Jaehn & The Vamps)",
         "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 179456,
       "name": "All The Lies (with Felix Jaehn & The Vamps)",
       "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Beso",
-        "url": "https://open.spotify.com/album/3h1i2Oprt4fTDunTV4MRwx"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 203631,
-      "name": "Beso",
-      "url": "https://open.spotify.com/track/1L9UBn6F0iY4HZeeH4teDZ"
     },
     {
       "added_at": "2023-02-17 03:00:00",

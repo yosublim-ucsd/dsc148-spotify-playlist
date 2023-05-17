@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-349 songs - 1 day 1 hr 24 min
+356 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dream Shift](https://open.spotify.com/track/7MoVUDJz3fMsBl6abERGL1) | [SILK](https://open.spotify.com/artist/7aBLRszK8Sn0oRvzRd452L) | [Matchless Raijin\-Oh Original Motion Picture Soundtrack 1](https://open.spotify.com/album/6rog2spF1W7ayO2PVCyRMd) | 4:08 | 2022-12-07 | 2022-12-17 |
 | [DuDi DuWa \* lalala](https://open.spotify.com/track/2kQA3NvTdYakZDF0Ev2UIN) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [覚えてていいよ/DuDi DuWa\*lalala](https://open.spotify.com/album/0rvvFZpsVFQls7ydPZyN9C) | 5:17 | 2022-06-22 | 2023-01-12 |
 | [Dust Tail](https://open.spotify.com/track/5fhThpMorWuAe09vTMQDkX) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Loud Hailer](https://open.spotify.com/album/3wXyNa8fg2M7El6ZO59hhM) | 2:40 | 2023-01-29 |  |
+| [elemental](https://open.spotify.com/track/2222XFCvYL5SNZpVK7fapQ) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [『elemental』](https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id) | 5:44 | 2023-05-16 |  |
 | [Endless Vacation](https://open.spotify.com/track/5UY0glFmqXP8ayY0guuSYQ) | [Liyuu](https://open.spotify.com/artist/3KEJMe6WtlsRJP9qR3Juqn) | [Fo\(u\)r YuU](https://open.spotify.com/album/1AEqYPpFCn63xMxMA6qhOU) | 3:17 | 2023-01-27 |  |
 | [ENISHI](https://open.spotify.com/track/4I3ovCt7gPjndiqi652tCY) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [TVアニメ「幻想三國誌 天元霊心記」オープニング・テーマ「ENISHI」](https://open.spotify.com/album/75h1b4oejd4wZHPSwu2XdX) | 4:15 | 2022-06-07 | 2022-06-23 |
 | [ETERNAL BLAZE](https://open.spotify.com/track/4xWpriGI2MYpeMXfPkTkxr) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ETERNAL BLAZE](https://open.spotify.com/album/2nvexCedsx1QDH9CuCD0cV) | 5:08 | 2022-10-12 | 2023-01-28 |
@@ -126,8 +127,10 @@
 | [MY SPIRAL](https://open.spotify.com/track/07hxrYMWc1ABLZeZahPq0n) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [ハピネス](https://open.spotify.com/album/5Bfc1BsJvJdMubPx0NZUfx) | 3:45 | 2022-06-07 | 2022-06-23 |
 | [nameless story](https://open.spotify.com/track/19v7oW2XAQjS8vEjf17jsP) | [KISIDA KYODAN & THE AKEBOSI ROCKETS](https://open.spotify.com/artist/1zPnpAM7fGFr7pl8OSNvak) | [nameless story](https://open.spotify.com/album/0CGdyb7ZUKiGeMjHmmdqVa) | 3:49 | 2023-01-28 |  |
 | [Neko Mimi Mode](https://open.spotify.com/track/5K81bTCBqBANmYANxh3tsE) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [「月詠」オープニングテーマ Neko Mimi Mode](https://open.spotify.com/album/10nFYGCAGH5gXxbR4SIoq4) | 4:15 | 2022-06-22 | 2023-01-28 |
+| [nexus \-season 02\-](https://open.spotify.com/track/7B1CWgamfChJj5FxJRVxjB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:54 | 2023-05-16 |  |
 | [No.6](https://open.spotify.com/track/5PX4xUYIxqAdrekai2B3K2) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD), [Lowland Jazz](https://open.spotify.com/artist/15YaKCW5WtV9QKQCNRbIlO) | [No.6 \(TVアニメ「戦闘員、派遣します!」オープニング・テーマ\)](https://open.spotify.com/album/0n1H1DFuxbt9E6KnwaMvH0) | 3:54 | 2023-01-28 |  |
 | [Now loading...SKY!!](https://open.spotify.com/track/05rprrC1vho2JP1RTu7GNy) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [sphere](https://open.spotify.com/album/3JCMIhHXXqsrRnNPGFfWNU) | 4:22 | 2022-11-22 | 2023-01-12 |
+| [nowhere](https://open.spotify.com/track/6fjpc5Rhhj9H0jgOMNVbzd) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『MADLAX』オープニングテーマ「瞳の欠片」](https://open.spotify.com/album/0imp9L18jxeZSdwxAG9Ke5) | 3:42 | 2023-05-16 |  |
 | [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 | 2022-06-07 | 2023-01-12 |
 | [Os\-宇宙人](https://open.spotify.com/track/7HsV5OfoVNXrGuut2ajhl7) | [エリオをかまってちゃん](https://open.spotify.com/artist/5JOZVjE1rtPOcz1pBrKk11) | [Os\-宇宙人](https://open.spotify.com/album/53YWZArR1MqUYd4OXLkujy) | 3:23 | 2022-06-07 | 2023-01-12 |
 | [Outside of Melancholy 〜憂鬱の向こう側〜](https://open.spotify.com/track/0BQwm5G9KJQDZSoP63okVg) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [Outside of Melancholy](https://open.spotify.com/album/1HLik76YX8PjzMsnhCNAnS) | 4:48 | 2022-06-07 | 2022-06-23 |
@@ -160,11 +163,13 @@
 | [Shocking Blue](https://open.spotify.com/track/145OU4a7G4LDxXHdFgYihs) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [水彩 〜aquaveil〜](https://open.spotify.com/album/3mZyjIzuaf2jygCr1CXzKc) | 3:57 | 2023-01-28 |  |
 | [SHOOT!](https://open.spotify.com/track/6elO5EQOutntcr1jvo9fAf) | [RO\-KYU\-BU!](https://open.spotify.com/artist/4wYkcNvXaicy52BVx4zWXS) | [SHOOT!](https://open.spotify.com/album/49DiKQqQHNqVtc9nAXd0ws) | 4:46 | 2022-10-27 | 2023-01-28 |
 | [sign](https://open.spotify.com/track/5w1L7Bj14oC7II12HdZP1k) | [Ray](https://open.spotify.com/artist/7cN69jaR3jtYeBaNsiVFoN) | [sign](https://open.spotify.com/album/5tuOGEA8zB2GxrUgtkzP2e) | 4:47 | 2022-08-02 | 2023-01-12 |
+| [Silly\-Go\-Round](https://open.spotify.com/track/3JAMuVi5dYoafwWsoEfF3m) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『.hack//Roots』オープニングテーマ「Silly\-Go\-Round」](https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl) | 4:52 | 2023-05-16 |  |
 | [sister's noise \(\-version 2022\-\)](https://open.spotify.com/track/4hQFJsBbZ8LLxDIObdSWCp) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [double Decades](https://open.spotify.com/album/3x99HmexDuRN1325jOdfwS) | 4:21 | 2023-01-29 |  |
 | [Sousho Innocence](https://open.spotify.com/track/0MRktElPC3UUrDC3Uwww9m) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Penki \(Standard Edition\)](https://open.spotify.com/album/1XY3l2HM92KroMo4ynFGQu) | 3:45 | 2023-01-29 |  |
 | [Starcast](https://open.spotify.com/track/1kXwbB3yb4Q1uH5qViNB6t) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Starcast](https://open.spotify.com/album/1HYwwTJGLzhoi0RajLuGhx) | 4:05 | 2022-08-16 | 2023-01-12 |
 | [Start again](https://open.spotify.com/track/0jy1lR2FiEzZj2jhfvBp0d) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Start again](https://open.spotify.com/album/26FxdbDA9iytRNYJyEriU9) | 4:08 | 2023-01-29 |  |
 | [Step by Step](https://open.spotify.com/track/1tNJsCNetfUrYgwBeOZdao) | [Yumiko Takahashi](https://open.spotify.com/artist/0FMKy2BXh6rzZiNJ1K9O2c) | [SINGLE COLLECTION Steps](https://open.spotify.com/album/6AOaqJsIUEahZ0IC5nldPj) | 4:09 | 2022-10-12 | 2023-01-12 |
+| [stone cold](https://open.spotify.com/track/0VI3E1BtH30BcD9IPWCeCF) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [『elemental』](https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id) | 5:58 | 2023-05-16 |  |
 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 | 2022-07-19 | 2023-01-12 |
 | [STONE OCEAN](https://open.spotify.com/track/538rTRGRJqV1L0P8DiSN4V) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1sbyyG5uTdaWHxcr8s85iv) | 3:29 | 2022-06-07 | 2022-07-29 |
 | [STRIKE THE BLOOD](https://open.spotify.com/track/7zLqXlnPVwv2FQFWqRbX9G) | [KISIDA KYODAN & THE AKEBOSI ROCKETS](https://open.spotify.com/artist/1zPnpAM7fGFr7pl8OSNvak) | [STRIKE THE BLOOD](https://open.spotify.com/album/3FT0nwFT8Puwh4NlP04xsb) | 4:02 | 2023-01-28 |  |
@@ -315,6 +320,7 @@
 | [明星ロケット](https://open.spotify.com/track/1QIxByZ3pAY26inShTe0le) | [KISIDA KYODAN & THE AKEBOSI ROCKETS](https://open.spotify.com/artist/1zPnpAM7fGFr7pl8OSNvak) | [きしだきょうだんのベスト!](https://open.spotify.com/album/0nMiIxVl4G7mZcf0Z83uv1) | 3:52 | 2023-01-28 |  |
 | [春擬き](https://open.spotify.com/track/79xWNLa4NozmuT7fLAGF5F) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [春擬き](https://open.spotify.com/album/0UAKLPXsB3lsfARWHHhcf5) | 4:30 | 2022-06-07 | 2022-06-23 |
 | [春擬き](https://open.spotify.com/track/29CiLtYHYgzNNd3I0hfVPw) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Follow My Tracks](https://open.spotify.com/album/6YmY9pmnhXG9dOyXTH9kOm) | 4:31 | 2022-09-27 | 2023-01-12 |
+| [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 | 2023-05-16 |  |
 | [曖昧さ、幸福論](https://open.spotify.com/track/1edKn3R1mo4Rc6VxsYW2DY) | [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU) | [曖昧さ、幸福論](https://open.spotify.com/album/3YstONyN5CKjAxoDQbTfeJ) | 4:21 | 2022-09-14 | 2023-01-12 |
 | [月を追う真夜中](https://open.spotify.com/track/44nPRe9D8i3BJiTcxYyfp3) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [月を追う真夜中](https://open.spotify.com/album/54WirG6n1l8Vg0uF26R0yJ) | 4:16 | 2022-06-07 | 2022-06-23 |
 | [月下儚美](https://open.spotify.com/track/7uD3et1fCPTMLLq4ubEtIv) | [月のテンペスト](https://open.spotify.com/artist/38BEPonA0AsFtTG9FefT9o) | [月下儚美](https://open.spotify.com/album/0mqQVZJDiT71kGWpTxUDKe) | 4:53 | 2022-06-07 | 2022-06-23 |
@@ -325,6 +331,7 @@
 | [決意の朝に](https://open.spotify.com/track/7hCrZjwlauy8LMU9z1XcO7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Null](https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC) | 5:11 | 2022-06-07 | 2022-06-23 |
 | [流星](https://open.spotify.com/track/65nY6YE6AezagJqG3EUPua) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [流星 / 約束](https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG) | 4:13 | 2022-06-07 | 2022-06-23 |
 | [涙流るるまま](https://open.spotify.com/track/70WeiLPmlq7PBGvH0Ytymq) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [涙流るるまま](https://open.spotify.com/album/014A0rDXmnO3AcsVC5B0yp) | 3:29 | 2022-06-07 | 2022-06-23 |
+| [淋しい熱帯魚](https://open.spotify.com/track/1oNBmN9FfWYE94BRiIGeBM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [淋しい熱帯魚](https://open.spotify.com/album/1hyaup1uQPsURjo4Eja3Lj) | 4:26 | 2023-05-16 |  |
 | [深愛](https://open.spotify.com/track/2pNFtjqbgGaM8VKzgf5KAB) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [深愛](https://open.spotify.com/album/2vsgFj7x7y6VRxVq3W7TlU) | 4:53 | 2022-10-12 | 2023-01-12 |
 | [灯火のまにまに](https://open.spotify.com/track/7BdksHQzYFh2bO0XTf68jN) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [灯火のまにまに](https://open.spotify.com/album/40Hj5hTsMnPsVPegUCvQ23) | 4:20 | 2022-06-07 | 2022-06-23 |
 | [熾火](https://open.spotify.com/track/7pVWR7ycO3qmu1gPvIbTnR) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [narrow](https://open.spotify.com/album/7jwJgkGWSepDEsapqf1E3h) | 4:16 | 2023-01-27 |  |

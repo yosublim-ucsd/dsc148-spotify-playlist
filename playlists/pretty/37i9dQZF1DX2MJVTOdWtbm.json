@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Corina Smith \n",
-  "num_followers": 107084,
+  "num_followers": 107116,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2M5YWFiNmQ2NTZmM2EyY2VlMThiMmEyMDJiNDg2MWIxYTZjYzdk",
+  "snapshot_id": "MCxkMGYyYTdlNTM3YjExYzlhMGEzYzc3OTcwOTkxOWQ0Mjk3ODI5NGNi",
   "tracks": [
     {
       "added_at": "2023-05-12 19:50:05",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Ruido",
+      "url": "https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
         "name": "La Ideal",
         "url": "https://open.spotify.com/album/1vpLbc8biisCe1T3LrE2TB"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Ruido",
-      "url": "https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
         "name": "Makin Money",
         "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
       },
@@ -1083,26 +1083,6 @@
       "duration_ms": 188737,
       "name": "Makin Money",
       "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
-        "name": "JOLIGUD",
-        "url": "https://open.spotify.com/album/5tohi7LtQi206ZtOm7Zr15"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "JOLIGUD",
-      "url": "https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -1135,6 +1115,26 @@
       "duration_ms": 206000,
       "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
       "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
+        "name": "JOLIGUD",
+        "url": "https://open.spotify.com/album/5tohi7LtQi206ZtOm7Zr15"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "JOLIGUD",
+      "url": "https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
+        "name": "EST\u00c1 CABR\u00d3N",
+        "url": "https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl"
+      },
+      "artists": [
+        {
+          "name": "Juan Fe Pulido",
+          "url": "https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8"
+        },
+        {
+          "name": "Belmar",
+          "url": "https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af"
+        }
+      ],
+      "duration_ms": 184585,
+      "name": "EST\u00c1 CABR\u00d3N",
+      "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
         "name": "RIP",
         "url": "https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 192000,
       "name": "RIP",
       "url": "https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
-        "name": "EST\u00c1 CABR\u00d3N",
-        "url": "https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl"
-      },
-      "artists": [
-        {
-          "name": "Juan Fe Pulido",
-          "url": "https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8"
-        },
-        {
-          "name": "Belmar",
-          "url": "https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af"
-        }
-      ],
-      "duration_ms": 184585,
-      "name": "EST\u00c1 CABR\u00d3N",
-      "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
+        "name": "No Me Busques Donde Mismo",
+        "url": "https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
         "name": "Ketamina",
         "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
@@ -1579,42 +1595,6 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "Quiere Volar",
-        "url": "https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm"
-      },
-      "artists": [
-        {
-          "name": "N4NO",
-          "url": "https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "Quiere Volar",
-      "url": "https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
-        "name": "No Me Busques Donde Mismo",
-        "url": "https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
         "name": "No Fui Solo Yo",
         "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
       },
@@ -1651,6 +1631,26 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
+        "name": "Quiere Volar",
+        "url": "https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm"
+      },
+      "artists": [
+        {
+          "name": "N4NO",
+          "url": "https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "Quiere Volar",
+      "url": "https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
         "name": "5 A.M.",
         "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
       },
@@ -1663,22 +1663,6 @@
       "duration_ms": 182442,
       "name": "5 A.M.",
       "url": "https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 157267,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -1767,6 +1751,22 @@
       "duration_ms": 209746,
       "name": "Gallo Pinto",
       "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 157267,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
     },
     {
       "added_at": "2023-05-12 19:50:05",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Bienvenida Generaci\u00f3n RADAR 2023! Los Aptos en portada. ",
-  "num_followers": 69760,
+  "num_followers": 69779,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzlkNzE2ZmE0MTgzOTMyOGQ0YTU1MTZlMTRhMmYwZTZmMzdmMWY4",
+  "snapshot_id": "MCxiNjViYzllOTBlNDhkNGEwYWM4ZTU4MzhiYzFiNmVlOTA3MzRiOGUw",
   "tracks": [
     {
       "added_at": "2023-04-21 21:43:27",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "Como Intento",
-        "url": "https://open.spotify.com/album/1ZTJ3I8M7jANe5qBYCU5Ee"
-      },
-      "artists": [
-        {
-          "name": "Los K-Bros",
-          "url": "https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f"
-        }
-      ],
-      "duration_ms": 163141,
-      "name": "Como Intento",
-      "url": "https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/6R2qa9DVZYEgs7fRwWYgAx"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 182229,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "Como Intento",
+        "url": "https://open.spotify.com/album/1ZTJ3I8M7jANe5qBYCU5Ee"
+      },
+      "artists": [
+        {
+          "name": "Los K-Bros",
+          "url": "https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f"
+        }
+      ],
+      "duration_ms": 163141,
+      "name": "Como Intento",
+      "url": "https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf"
     },
     {
       "added_at": "2023-04-21 21:43:27",

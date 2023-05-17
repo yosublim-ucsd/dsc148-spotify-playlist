@@ -488,7 +488,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 173973,
       "name": "Goin' To Chicago Blues - 2006 Remaster",
       "url": "https://open.spotify.com/track/4JT4LRlahM5LARTB93105T"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 170466,
       "name": "It Was A Very Good Year - Digitally Remastered 00",
       "url": "https://open.spotify.com/track/0MuK8gUKHaj9PdlOxgvygy"
@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "I'm Blessed",
+        "url": "https://open.spotify.com/album/3QzhFMsQAECe4fEeoRmVXD"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Medley: Nearer My God to Thee / Touch the Hem of His Garment / Were You There",
+      "url": "https://open.spotify.com/track/6JrftCZWM4SpeVJKFBDYGb"
+    },
+    {
+      "album": {
         "name": "Anthology-Lou Rawls",
         "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
       },
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 220933,
       "name": "Now Is The Time For Love",
       "url": "https://open.spotify.com/track/5gJrQaWzJmQI1LnUjmB2MC"
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "Scotch & Soda",
       "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 120986,
       "name": "Unforgettable - Live",
       "url": "https://open.spotify.com/track/2PtvNwBX1Bbuh7iNxDZJy8"

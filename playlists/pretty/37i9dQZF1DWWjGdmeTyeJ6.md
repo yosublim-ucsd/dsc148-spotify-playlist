@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Venus & the Flytraps\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,968 likes - 66 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,932 likes - 66 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 65 | [BLOOD](https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [BLOOD](https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7) | 2:03 |
 | 66 | [Somedays \(People in Cars\)](https://open.spotify.com/track/3XqZApOAbVXyIGpx49Z4kO) | [Kevin Klein](https://open.spotify.com/artist/0NWmpU8ggo9yQW1yswpp1C) | [Somedays \(People in Cars\)](https://open.spotify.com/album/6Q1sqH38H5fB13LynwsKEO) | 3:53 |
 
-Snapshot ID: `MCw3MGYzMTU1NWY3YWU2NjBkYjk3OTBjNDgxY2ViODAwMzI0NWJjNTQ1`
+Snapshot ID: `MCw3MTQyNzBlOTBjZDQ5OTkyNzMyYmU0MDJiMDY0MTAzNmViZGZiNTBk`

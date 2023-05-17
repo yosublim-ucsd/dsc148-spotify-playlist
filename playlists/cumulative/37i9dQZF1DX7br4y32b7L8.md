@@ -4,7 +4,7 @@
 
 > Viraal gaan is ook gaan! Cover: Heuss L'enfoiré & Jul
 
-146 songs - 7 hr 22 min
+147 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Follow Me](https://open.spotify.com/track/0y90AiV6XrXb4lvNxx8EFq) | [Amanda Lear](https://open.spotify.com/artist/0Xkd9GsWwOYETVF0kPXZIG) | [Let Me Entertain You](https://open.spotify.com/album/2WIMTvRQXRw5zeeNJXRGr6) | 4:07 | 2023-03-16 | 2023-03-25 |
 | [Ga Naar De Gym](https://open.spotify.com/track/0ILN49UubBDhmYcGiIvbQ0) | [Klaus Veen](https://open.spotify.com/artist/5hEZc6Innys0o99gLeha3K), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Ga Naar De Gym.](https://open.spotify.com/album/3SYhaoBhD7NE7dteRlCuW6) | 2:27 | 2023-02-23 | 2023-04-12 |
 | [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 | 2023-02-23 | 2023-03-04 |
+| [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-16 |  |
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2023-03-24 |  |
 | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 | 2023-04-05 | 2023-05-02 |
 | [Green Green Grass \- Sped\-Up](https://open.spotify.com/track/1gGeEcwqBNxVqjzjAWvS4N) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass \(Sped\-Up\)](https://open.spotify.com/album/147Dfr5kuQAK5bcNSuMDP0) | 2:08 | 2023-02-23 | 2023-05-10 |

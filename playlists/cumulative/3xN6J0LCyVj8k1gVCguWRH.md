@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,221 songs - 5 day 7 hr 31 min
+2,223 songs - 5 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [A Couple Runaways](https://open.spotify.com/track/57LTzLyTcGFctMw2mS6ylb) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Future Wars](https://open.spotify.com/album/1HKVUp4PyLJVpCvVdhEQI1) | 4:01 | 2022-05-29 | 2022-06-29 |
 | [A Dinner Out](https://open.spotify.com/track/2Lig6x6Wr1LsVBmMLdscz4) | [Sacramento](https://open.spotify.com/artist/0ovT4fn9cuMxfhRNGPUzON) | [Latte / The Italian Breakfast](https://open.spotify.com/album/1dO5cpEOoa2ORCwazxkFUv) | 4:27 | 2022-02-18 | 2022-03-07 |
 | [A Dreamer](https://open.spotify.com/track/2odz4s5CDDODlVh1P00H6V) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [A Dreamer](https://open.spotify.com/album/76zFj3JcVuBwRxnirC9y3r) | 4:53 | 2023-01-15 | 2023-02-12 |
+| [A Feminist March](https://open.spotify.com/track/3pCxrpxD6CAvnNBhPdUVoZ) | [RÜ](https://open.spotify.com/artist/725jZTtXKFvIYhyWaeFaQI) | [A Feminist March](https://open.spotify.com/album/50YyQdGIF32364RZ4EFWNE) | 3:09 | 2023-05-16 |  |
 | [A Kiss To Build A Dream On \- Single Version](https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:01 | 2021-07-11 | 2023-02-12 |
 | [A Little More](https://open.spotify.com/track/5zN8t1TBag3LO7d8KBFcCt) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [A Little More](https://open.spotify.com/album/08MkaEmLn6GsAcjFQ8OUfg) | 3:05 | 2021-12-04 | 2021-12-19 |
 | [A Million Doubts](https://open.spotify.com/track/0QuxL88IiyWc5Dw2wAfeW1) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [For The Very Last Time](https://open.spotify.com/album/2lfXUo4jtKlwpyZuAAm712) | 3:39 | 2020-11-03 | 2021-01-12 |
@@ -1431,7 +1432,7 @@
 | [Omolola \(Anita\)](https://open.spotify.com/track/1GCWAvSUMkjhKHmds6a4oz) | [John Alone](https://open.spotify.com/artist/2J8ER5ci3h4FcHxx4lwpvG) | [Omolola \(Anita\)](https://open.spotify.com/album/4SHUpygxuIEGkipkFclCw0) | 3:28 | 2022-08-10 | 2022-08-28 |
 | [On & On](https://open.spotify.com/track/4Gf9jMdIqSCPdyznLnoLRP) | [chae](https://open.spotify.com/artist/04bDQYNj7Aos39p2b1Vm31) | [On & On](https://open.spotify.com/album/1Sj4zN02sXNzj4oZbD6DQd) | 3:57 | 2022-03-25 | 2022-04-11 |
 | [On It Again](https://open.spotify.com/track/5pmRfgowMUROVDrDKtF0d7) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Wei](https://open.spotify.com/artist/7EQLDFZSYvzWDSHqRbEDAg), [Sjokan](https://open.spotify.com/artist/6ljLh8BZyP9a1yBmbcnEbh) | [On It Again](https://open.spotify.com/album/1MXquSUayCo2OtSeV6QrwZ) | 2:20 | 2021-02-26 | 2021-03-14 |
-| [On My Own \(Bonus\)](https://open.spotify.com/track/7M6LqIJhaQa9JOp5S5K60Y) | [Dorian Duta](https://open.spotify.com/artist/4GUv5tQjyoIGgz2TGzyO2C) | [Long Story Short](https://open.spotify.com/album/514Dff3kf8Q0vwae6otX6A) | 2:32 | 2023-04-28 |  |
+| [On My Own \(Bonus\)](https://open.spotify.com/track/7M6LqIJhaQa9JOp5S5K60Y) | [Dorian Duta](https://open.spotify.com/artist/4GUv5tQjyoIGgz2TGzyO2C) | [Long Story Short](https://open.spotify.com/album/514Dff3kf8Q0vwae6otX6A) | 2:32 | 2023-04-28 | 2023-05-17 |
 | [On the Moony Side of the Street](https://open.spotify.com/track/4d1VRHCcQhuYW3uGFZisEd) | [Frank Sinapsi](https://open.spotify.com/artist/7MddvDsOIHZiFUoV7Q5vIp), [Francesco Cusa](https://open.spotify.com/artist/5BQEqG6QjXLbNCq802Z0cO), [Enrico Merlin](https://open.spotify.com/artist/0tzkmMdex16gJIiKwi7HUa) | [That Voice from Space](https://open.spotify.com/album/0Hi388yc7wuegEknZ7SnSo) | 4:16 | 2021-06-12 | 2021-06-27 |
 | [ON&ON](https://open.spotify.com/track/2U2XZji7hJFvtejYHOSewk) | [Chrmng,](https://open.spotify.com/artist/5hNoJE5m6FoCBI0SM6lhia), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [ON&ON](https://open.spotify.com/album/3P3GHIvRjgUNFNymZCebMu) | 2:40 | 2022-12-30 | 2023-01-21 |
 | [One by One](https://open.spotify.com/track/3HJLTTtvVFq6rQBYpc5e7T) | [M\-I\-N\-O\-S](https://open.spotify.com/artist/7CTPgjLDoBPzH7t0cRsOX0) | [One by One](https://open.spotify.com/album/0nieRtMiCDLIF61oWCmETu) | 2:55 | 2023-02-24 | 2023-03-20 |
@@ -1809,6 +1810,7 @@
 | [Strings](https://open.spotify.com/track/7sUP5q7AyJlC5aLHjt6pkD) | [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [Strings](https://open.spotify.com/album/3eCzkbYqdg9kKgBJCH1Xpa) | 3:45 | 2019-12-03 | 2019-12-11 |
 | [Stronger](https://open.spotify.com/track/1IBFJqMbzTkPENRZsHzJZd) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Stronger / Love \(and everything between\)](https://open.spotify.com/album/2jyZRrw9mLqG7mjdWsHf1v) | 3:20 | 2023-05-08 |  |
 | [Stuck](https://open.spotify.com/track/74K6Vgm24ejN4aWVAb8puS) | [Mike Bauer](https://open.spotify.com/artist/6WVlhAlmeMEF5ItQOBijRC) | [Stuck](https://open.spotify.com/album/4Fb4hvBdgmtRVYfx8cMm4M) | 3:20 | 2023-05-14 |  |
+| [Stuck On You](https://open.spotify.com/track/1HeMmzT6i53MTYFiMODEBD) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Stuck On You](https://open.spotify.com/album/2q3cWrPl7r6ClccTNJwTeE) | 3:10 | 2023-05-16 |  |
 | [Stuck on You](https://open.spotify.com/track/2rDLmRfQ5ePrrI0PfDj5hT) | [Frankie Zulferino](https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC) | [Stuck on You](https://open.spotify.com/album/7cRaEgrftHeonV50MleArj) | 3:32 | 2021-10-09 | 2021-10-23 |
 | [Stupid](https://open.spotify.com/track/5tiXe9KoGmYHHBZwKHhAfD) | [Niki Kand](https://open.spotify.com/artist/2vh6QStsqt7NuA0XkUykhH) | [Stupid](https://open.spotify.com/album/1KWFdSnejE6hTtZoGV2i02) | 2:01 | 2020-10-26 | 2020-11-06 |
 | [Stupid Me](https://open.spotify.com/track/3yl0hK8awY340PpLYGuwZg) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [NIIVA](https://open.spotify.com/album/4DoVWd6Ak9O9Qo5dUs8KEx) | 3:07 | 2021-02-19 | 2021-03-06 |

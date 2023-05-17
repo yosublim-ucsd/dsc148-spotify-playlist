@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=4k9MtP1ARD\-dYt\-6PrSzVw">Myztro</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,112 likes - 50 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,642 likes - 50 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Kumanzi Phansi](https://open.spotify.com/track/4jTZSobUnKjFv8puwpaD2T) | [Ntokzin](https://open.spotify.com/artist/01n03WadoqgmHHDQ24v3kV), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza), [Moscow on Keyz](https://open.spotify.com/artist/01I6gcSeEDnISXi7eIPmHd), [Zar Keyz](https://open.spotify.com/artist/3wwJk3xpH4yCR2shjKwYu9) | [Kumanzi Phansi](https://open.spotify.com/album/3hbhBKF7ofLnSm4FfmYbzr) | 7:02 |
 | 50 | [MANZISA](https://open.spotify.com/track/2gveTjpu8rP0Peq0Qny7Q0) | [Boontle RSA](https://open.spotify.com/artist/47krblknOhmovlOAbneemK), [Al xapo](https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY), [Bhut\_manandi\_nand](https://open.spotify.com/artist/0BDl7gFAktUaHMANT7tZIM) | [MANZISA](https://open.spotify.com/album/76KSOFJpGKsYmNGOFQPYz6) | 7:30 |
 
-Snapshot ID: `MCw3YjhjNzAxZGYyMjMxODNjMGVlZWI5ZGZmN2E0ZjFkOTU4MWFiNzRi`
+Snapshot ID: `MCw0ZDcxNWRlZmY3NzE2NWIxMjYwNGEzOTI4ZWJjODNmZjk1NzVhMTcw`

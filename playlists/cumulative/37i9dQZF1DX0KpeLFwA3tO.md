@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Sorry Mom
 
-1,044 songs - 2 day 4 hr 5 min
+1,045 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,8 @@
 | [Gone to the Dogs](https://open.spotify.com/track/3UcYyAxcHJy3xMbNvSs25x) | [Frenzal Rhomb](https://open.spotify.com/artist/4cxBQR2C44tnfQ74lpFN7N) | [The Cup of Pestilence](https://open.spotify.com/album/4gGcIAdaegm6L0mK2GJuR5) | 1:27 | 2023-04-07 |  |
 | [Gonna Find You](https://open.spotify.com/track/1AYNGWNqiylVp5odrSodeu) | [The Raging Nathans](https://open.spotify.com/artist/427sLYgtKmUezNHjMZoDHG) | [Gonna Find You](https://open.spotify.com/album/3SUC9kp1xyhrH7UyG9P3lc) | 1:51 | 2023-04-07 |  |
 | [Good Advice](https://open.spotify.com/track/1IR982DHrX22WDFUaiY5ZC) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Good Advice](https://open.spotify.com/album/3on1KjM0z0VQnpSq1FA30N) | 3:29 | 2022-08-11 | 2022-09-30 |
-| [Good Good Things](https://open.spotify.com/track/1igqqJxCF40NUJsSPqKnBo) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Good Good Things](https://open.spotify.com/album/2kaF0AbiP6zYunMH3Gf7e2) | 2:10 | 2023-04-07 |  |
+| [Good Good Things](https://open.spotify.com/track/1igqqJxCF40NUJsSPqKnBo) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Good Good Things](https://open.spotify.com/album/2kaF0AbiP6zYunMH3Gf7e2) | 2:10 | 2023-04-07 | 2023-05-17 |
+| [Good Good Things](https://open.spotify.com/track/5UTCChsNnTNbhBABFTffGT) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:10 | 2023-05-11 |  |
 | [Good Person](https://open.spotify.com/track/0zokdflnTrx40zV8DqDtM8) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [The Punchline](https://open.spotify.com/album/7Ac7Kxa6wHOAu0A67w9NCB) | 3:01 | 2023-05-04 |  |
 | [GOOFY!](https://open.spotify.com/track/2ddmgkH269Ur0rIN8oqctt) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [GOOFY!](https://open.spotify.com/album/751ZLh6i3eBwqJdbVNKekz) | 2:29 | 2022-05-12 | 2022-06-24 |
 | [Gorgeous Disaster \(with Kellin Quinn\)](https://open.spotify.com/track/0ywL6WN8yfduAdpspvZ2mw) | [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Gorgeous Disaster \(with Kellin Quinn\)](https://open.spotify.com/album/7iFubPKSOGh3Eb1eqf0Qau) | 3:29 | 2022-02-18 | 2022-04-01 |

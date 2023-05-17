@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,075 likes - 78 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,135 likes - 78 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [This Is What I Mean](https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 5:25 |
+| 1 | [This Is What I Mean](https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [STORRY](https://open.spotify.com/artist/2B3DdwYxUSSrYdda9V2UL0) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 5:25 |
 | 2 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
 | 3 | [Shut Up](https://open.spotify.com/track/4P8dRfSz0LBgyWfjod6v3J) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Gang Signs & Prayer](https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW) | 2:59 |
 | 4 | [Vossi Bop](https://open.spotify.com/track/5DXKtoZLm31msT7tNGNHLG) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:16 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 | 77 | [Look Like \(feat\. JMC, Jadakiss & Stormzy\)](https://open.spotify.com/track/57CtjJsx9jwTQDiO4ShMAe) | [Charlie Sloth](https://open.spotify.com/artist/3ICo3DF8pXFJEdzph2b6gh), [JMC](https://open.spotify.com/artist/33R5xZXaJcXP5TXA3tydgO), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [The Plug](https://open.spotify.com/album/2QzCZabgxczZat17TC4x52) | 3:50 |
 | 78 | [Chains \- Stormzy Remix](https://open.spotify.com/track/3IgShuJaI7JUFK3A0ncjJf) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Chains](https://open.spotify.com/album/1gs9NA48hWHDS35qVOonZi) | 3:49 |
 
-Snapshot ID: `MCxkMGVhNjkxZTlkNTg5ODk3Nzc3ZjQ3YTRmZDQxNmM1NzU1NjJhOWRj`
+Snapshot ID: `MCwwODg1MjNiNTcxMjVmNWQ1YWFhMGM2NjAyMjkxYjM2ODVmZGUzOGE2`

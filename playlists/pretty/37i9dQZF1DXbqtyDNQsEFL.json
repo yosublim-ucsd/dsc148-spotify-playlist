@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 35225,
+  "num_followers": 35293,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzNjYjNjYzA5NWM0MTE1ZDhhNDlmZDVlZjE1M2I2YWNmOGRiMzNh",
+  "snapshot_id": "MCwzMzcyNTI3OWNiM2E0ODMzYzQ3YjBiZWZjMDg0YjI4NTU3YmM1NWM4",
   "tracks": [
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Onwanwani",
-        "url": "https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3"
+        "name": "Love in My Heart",
+        "url": "https://open.spotify.com/album/1UPfneh8tSjjNlsPhcdfPq"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Elijah Oyelade",
+          "url": "https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak"
         }
       ],
-      "duration_ms": 357236,
-      "name": "Onwanwani",
-      "url": "https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO"
+      "duration_ms": 430320,
+      "name": "Love in My Heart",
+      "url": "https://open.spotify.com/track/4i6Qzd0sZBNXH5PmMQ9qUH"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1059,50 +1059,18 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Heal Our Land (Live)",
-        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
+        "name": "Onwanwani",
+        "url": "https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3"
       },
       "artists": [
         {
-          "name": "Akesse Brempong",
-          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 461003,
-      "name": "Spontaneous Worship 1 - Live",
-      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "The Moment (Live)",
-        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "The Moment - Live",
-      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "Love in My Heart",
-        "url": "https://open.spotify.com/album/1UPfneh8tSjjNlsPhcdfPq"
-      },
-      "artists": [
-        {
-          "name": "Elijah Oyelade",
-          "url": "https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak"
-        }
-      ],
-      "duration_ms": 430320,
-      "name": "Love in My Heart",
-      "url": "https://open.spotify.com/track/4i6Qzd0sZBNXH5PmMQ9qUH"
+      "duration_ms": 357236,
+      "name": "Onwanwani",
+      "url": "https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1127,6 +1095,38 @@
       "duration_ms": 217959,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "The Moment (Live)",
+        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "The Moment - Live",
+      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "Heal Our Land (Live)",
+        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
+      },
+      "artists": [
+        {
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+        }
+      ],
+      "duration_ms": 461003,
+      "name": "Spontaneous Worship 1 - Live",
+      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
+        "name": "IBUKA",
+        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 302608,
+      "name": "IBUKA",
+      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "IBUKA",
-        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "IBUKA",
-      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Olowo Orimi (The One Who Paid For Me)",
-        "url": "https://open.spotify.com/album/6DJ1WnNNd6y2uC5gv9t3hh"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 489493,
-      "name": "Olowo Orimi (The One Who Paid For Me)",
-      "url": "https://open.spotify.com/track/2WiJV9N5IxDAvgCWxGti5Z"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "Billion Words",
         "url": "https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 464973,
       "name": "Billion Words",
       "url": "https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "Olowo Orimi (The One Who Paid For Me)",
+        "url": "https://open.spotify.com/album/6DJ1WnNNd6y2uC5gv9t3hh"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 489493,
+      "name": "Olowo Orimi (The One Who Paid For Me)",
+      "url": "https://open.spotify.com/track/2WiJV9N5IxDAvgCWxGti5Z"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/1sc4DA0c5sY2Pr0EZxX2p6"
-      },
-      "artists": [
-        {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6OLL50q31uu23zvlCc4MtY"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "Unstoppable (Live)",
         "url": "https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 283013,
       "name": "God My God - Radio Edit/Live",
       "url": "https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1sc4DA0c5sY2Pr0EZxX2p6"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6OLL50q31uu23zvlCc4MtY"
     }
   ],
   "unique_name": "Be Lifted ",

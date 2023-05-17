@@ -28,6 +28,24 @@
     {
       "album": {
         "name": "Aao Phir Se",
+        "url": "https://open.spotify.com/album/05zQVq7VECKbmpyyBBXhPj"
+      },
+      "artists": [
+        {
+          "name": "Ali Alvi",
+          "url": "https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170318,
+      "name": "Aao Phir Se",
+      "url": "https://open.spotify.com/track/1wgC0hW1abXgmgoASyieVw"
+    },
+    {
+      "album": {
+        "name": "Aao Phir Se",
         "url": "https://open.spotify.com/album/2HRLg9LdgbjvWCnw6OOJRh"
       },
       "artists": [
@@ -38,7 +56,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 170318,
       "name": "Aao Phir Se",
       "url": "https://open.spotify.com/track/7Bu6dexQvuVz5LRuzjLYOX"

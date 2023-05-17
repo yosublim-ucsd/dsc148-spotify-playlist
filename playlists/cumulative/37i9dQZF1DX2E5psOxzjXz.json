@@ -1484,10 +1484,28 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 90070,
       "name": "Ijazat",
       "url": "https://open.spotify.com/track/0wNyBPr6W8JSC9f39FCYbT"
+    },
+    {
+      "album": {
+        "name": "Ijazat",
+        "url": "https://open.spotify.com/album/1VLL0I0Y1hG0nQThZ0seJy"
+      },
+      "artists": [
+        {
+          "name": "Nehaal Naseem",
+          "url": "https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90070,
+      "name": "Ijazat",
+      "url": "https://open.spotify.com/track/1XMXEyJbj8qvHtuqLbOIq6"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "The soundtrack to the internet. Cover: Kanii",
-  "num_followers": 1350787,
+  "num_followers": 1350518,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWUwOTMyZjIxNTNmM2E3NWQwMzFiMDQ5MThhOTYyNWJlYjUzZDI1",
+  "snapshot_id": "MCwxZTIxNjVjNjEwNjEwNTdiNmZhNTllZWZlZDdhZWNiMWIzNGJiODlk",
   "tracks": [
+    {
+      "added_at": "2023-05-16 13:27:10",
+      "album": {
+        "name": "GOOD LOYAL THOTS",
+        "url": "https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 102556,
+      "name": "GOOD LOYAL THOTS",
+      "url": "https://open.spotify.com/track/6PadQidABni2peo3kYKW0M"
+    },
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
@@ -107,6 +123,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "I love freaks",
+        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        }
+      ],
+      "duration_ms": 101198,
+      "name": "I love freaks",
+      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Dogs",
         "url": "https://open.spotify.com/album/0aeFhCrLjwgqM1WRahtWhX"
       },
@@ -123,22 +155,6 @@
       "duration_ms": 100869,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/2sR6a3qfX3yHU03pyC2zqA"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "I love freaks",
-        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
-      },
-      "artists": [
-        {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
-        }
-      ],
-      "duration_ms": 101198,
-      "name": "I love freaks",
-      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
     },
     {
       "added_at": "2023-04-12 21:15:31",
@@ -1443,22 +1459,6 @@
       "duration_ms": 145152,
       "name": "Wake That Thang Up",
       "url": "https://open.spotify.com/track/3BP4jOOvZgrBkaHo1Jcx7T"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "1-800-Bad-Bxtch",
-        "url": "https://open.spotify.com/album/5O7UiT5zB3iC2gqbQGpUUP"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        }
-      ],
-      "duration_ms": 154691,
-      "name": "1-800-Bad-Bxtch",
-      "url": "https://open.spotify.com/track/3AzmPUPk59zgO3XURjGJ8R"
     },
     {
       "added_at": "2023-03-24 04:00:00",

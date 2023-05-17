@@ -1217,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "EIS O HOMEM",
+        "url": "https://open.spotify.com/album/59Jgu2vo7q0qw4o93oU8wC"
+      },
+      "artists": [
+        {
+          "name": "Matty",
+          "url": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216892,
+      "name": "EIS O HOMEM",
+      "url": "https://open.spotify.com/track/684bq3L70SYnS4W7nJDEtF"
+    },
+    {
+      "album": {
         "name": "El Momento",
         "url": "https://open.spotify.com/album/2Qx4zobEOV9BRW3wL1IbRI"
       },
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 156201,
       "name": "Passing Lights - Cinematic Version",
       "url": "https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr"

@@ -1,12 +1,12 @@
 {
   "description": "70s rock to fuel your ride. Cover: Aerosmith",
-  "num_followers": 157126,
+  "num_followers": 157350,
   "original_name": "70s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjUzMWQ1OTRhZGMzY2E2Y2UwNzZkMzViZDczYTBhZjY5NWVlMDgx",
+  "snapshot_id": "MCxiYTRlMTE4ZGIyMTljOTM4MGVlOGUxYjAyZjYzYjU5NzFlNDY1Nzhk",
   "tracks": [
     {
       "added_at": "2021-03-16 22:29:33",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
-      "added_at": "2022-06-29 16:21:03",
-      "album": {
-        "name": "Not Fragile",
-        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "You Ain't Seen Nothing Yet",
-      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
-    },
-    {
       "added_at": "2021-03-16 22:29:33",
       "album": {
         "name": "Climbing!",
@@ -375,6 +359,22 @@
       "duration_ms": 151293,
       "name": "Mississippi Queen",
       "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
+    },
+    {
+      "added_at": "2022-06-29 16:21:03",
+      "album": {
+        "name": "Not Fragile",
+        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "You Ain't Seen Nothing Yet",
+      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Me and Bobby McGee",
-      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "Heaven Tonight",
         "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 253733,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "In Color",
-        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "I Want You to Want Me",
-      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 193880,
       "name": "Ziggy Stardust - 2012 Remaster",
       "url": "https://open.spotify.com/track/5IyL3XOaRPpTgxVjRIAxXU"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
+        "name": "In Color",
+        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "I Want You to Want Me",
+      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -827,18 +827,18 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "The Roaring Silence",
-        "url": "https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV"
+        "name": "Rides Again",
+        "url": "https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0"
       },
       "artists": [
         {
-          "name": "Manfred Mann's Earth Band",
-          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
+          "name": "James Gang",
+          "url": "https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF"
         }
       ],
-      "duration_ms": 428133,
-      "name": "Blinded By The Light",
-      "url": "https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE"
+      "duration_ms": 246293,
+      "name": "Funk #49",
+      "url": "https://open.spotify.com/track/5h6SovHOYpIMlAkafxcbq3"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -859,18 +859,18 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "Rides Again",
-        "url": "https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0"
+        "name": "The Roaring Silence",
+        "url": "https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV"
       },
       "artists": [
         {
-          "name": "James Gang",
-          "url": "https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF"
+          "name": "Manfred Mann's Earth Band",
+          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
         }
       ],
-      "duration_ms": 246293,
-      "name": "Funk #49",
-      "url": "https://open.spotify.com/track/5h6SovHOYpIMlAkafxcbq3"
+      "duration_ms": 428133,
+      "name": "Blinded By The Light",
+      "url": "https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE"
     },
     {
       "added_at": "2021-03-16 22:29:33",

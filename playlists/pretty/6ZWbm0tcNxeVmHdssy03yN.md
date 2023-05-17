@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,135 likes - 96 songs - 4 hr 50 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,140 likes - 96 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 22 | [MOP](https://open.spotify.com/track/6vKzxT4FXGHECZEw3tIIge) | [Squeeks](https://open.spotify.com/artist/52jwaLGrYTCFAEwDW0rI52), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [MOP](https://open.spotify.com/album/5KZLDvg135ffnDcl6IRaja) | 3:32 |
 | 23 | [More Than You May Ever Know \(MTYMEK\)](https://open.spotify.com/track/05MLTDagXnFSJqfkUL6ZxT) | [Blackchords](https://open.spotify.com/artist/0ctvlzF3Z2VnG3b4DMYXAP) | [More Than You May Ever Know \(MTYMEK\)](https://open.spotify.com/album/36Nfa2o7VWm9trRkYyyRyk) | 6:33 |
 | 24 | [Dreams \(Acoustic\)](https://open.spotify.com/track/08BXdvvQvskdlNG3wqP0xG) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Dreams \(Acoustic\)](https://open.spotify.com/album/6k7noNM7JH16eZiwQEFj1V) | 2:26 |
-| 25 | [Dog food](https://open.spotify.com/track/6pHxg0eyXdMhizrVv2kyPM) | [MAMMOTH.](https://open.spotify.com/artist/7tdBqb3aekf8FbdIUKEMM1), [chub.e](https://open.spotify.com/artist/2I0enPORehTwnQLXx33rjl) | [Dog food](https://open.spotify.com/album/2sDStg3QB5NkyX7bWepuWH) | 2:09 |
+| 25 | [Dog Food](https://open.spotify.com/track/6pHxg0eyXdMhizrVv2kyPM) | [MAMMOTH.](https://open.spotify.com/artist/7tdBqb3aekf8FbdIUKEMM1), [chub.e](https://open.spotify.com/artist/2I0enPORehTwnQLXx33rjl) | [Dog Food](https://open.spotify.com/album/2sDStg3QB5NkyX7bWepuWH) | 2:09 |
 | 26 | [Buck Wild](https://open.spotify.com/track/4kZ0zcKMCvwBFL5cpMkRzT) | [KVKA](https://open.spotify.com/artist/3I3u66kAsoZs18i3CYAc98), [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d) | [Buck Wild](https://open.spotify.com/album/4n9r0f71xKL7drOKPOZMEW) | 2:22 |
 | 27 | [EVIL TWIN](https://open.spotify.com/track/6tlhV7i25zUTd5vNl0n38z) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh), [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P) | [EVIL TWIN](https://open.spotify.com/album/5zez6SLcw0z4ZwV7qy1wJh) | 2:38 |
 | 28 | [Cráter](https://open.spotify.com/track/5zepDq6ASazrc5Hge6Qh6s) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Cráter](https://open.spotify.com/album/7h6AxlqkgMXdv5MZlCHYIB) | 3:02 |

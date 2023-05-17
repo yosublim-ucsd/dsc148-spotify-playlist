@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest songs from LGBTQIA+ artists. Cover: Sycco",
+  "description": "The hottest songs from LGBTQIA+ artists. Cover: MUNA",
   "name": "GLOW",
   "tracks": [
     {
@@ -534,7 +534,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 174258,
       "name": "Always Get This Way",
       "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
@@ -2057,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
+        "url": "https://open.spotify.com/album/6mgn507pXtwFXRcEGcg4bA"
+      },
+      "artists": [
+        {
+          "name": "Lynk Lee",
+          "url": "https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222314,
+      "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
+      "url": "https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx"
+    },
+    {
+      "album": {
         "name": "Bronco",
         "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
       },
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 185973,
       "name": "Cheap Love",
       "url": "https://open.spotify.com/track/6wXeopx3eNpkqZMNDR0B8P"
@@ -2620,7 +2638,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 201413,
       "name": "Colors",
       "url": "https://open.spotify.com/track/0teLBWYL3h5ALqRWvxKAiw"
@@ -3285,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "Diss and Disappoint",
+        "url": "https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk"
+      },
+      "artists": [
+        {
+          "name": "flowerkid",
+          "url": "https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177867,
+      "name": "Diss and Disappoint",
+      "url": "https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu"
+    },
+    {
+      "album": {
         "name": "Do I Ever Cross Your Mind?",
         "url": "https://open.spotify.com/album/6qkX5pBH2OE4ebSA7B9jKn"
       },
@@ -3586,7 +3622,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 231682,
       "name": "Escondidos",
       "url": "https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO"
@@ -4024,7 +4060,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 197302,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U"
@@ -4887,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/3WJD6ovCS7AwmYRmYQp8wa"
+      },
+      "artists": [
+        {
+          "name": "Reinaeiry",
+          "url": "https://open.spotify.com/artist/0CSvPQ4Atj6NEcmymnbx7B"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/3ehnMYjZdSlQNiacOr1rPM"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/2MMXRYeLPtmnPNPAYc8C4o"
       },
@@ -5632,7 +5686,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 185026,
       "name": "Hold",
       "url": "https://open.spotify.com/track/6gHSghdESsKPS80t5DDYxb"
@@ -5762,7 +5816,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 166925,
       "name": "Hostage (Lover Boy)",
       "url": "https://open.spotify.com/track/5TfL0X0j4BnKHpDdqjuMc4"
@@ -6680,7 +6734,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 206011,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/2Coxhwa6oQfrM03g6U57vw"
@@ -7525,6 +7579,24 @@
     },
     {
       "album": {
+        "name": "Los Charcos",
+        "url": "https://open.spotify.com/album/6O9Nhul88hoXwV0Pkx7lvc"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182764,
+      "name": "Los Charcos",
+      "url": "https://open.spotify.com/track/5d5ZopLQDvsYYcTngpbMNI"
+    },
+    {
+      "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/31uaGLLLoSZcNLRjFviWfk"
       },
@@ -8030,7 +8102,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 169083,
       "name": "me acostumbro",
       "url": "https://open.spotify.com/track/5DiyXD2xRkeYmR7oUA4eFD"
@@ -8114,6 +8186,28 @@
       "duration_ms": 127272,
       "name": "Mi cama huele a ti",
       "url": "https://open.spotify.com/track/4s5kWwIvjdGROkGS2kQ38V"
+    },
+    {
+      "album": {
+        "name": "Mi vida en llamas (feat. Buscabulla)",
+        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288624,
+      "name": "Mi vida en llamas (feat. Buscabulla)",
+      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
     },
     {
       "album": {
@@ -8258,6 +8352,24 @@
       "duration_ms": 203869,
       "name": "Montana",
       "url": "https://open.spotify.com/track/4Di9q4hZf7Qt0xpudHjfXi"
+    },
+    {
+      "album": {
+        "name": "Moonroad",
+        "url": "https://open.spotify.com/album/4xFCdfW6KlgtUZGHWx6suJ"
+      },
+      "artists": [
+        {
+          "name": "Goodbye Karelle",
+          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206906,
+      "name": "Moonroad",
+      "url": "https://open.spotify.com/track/3WsMHj0S0HKxOK4daW6xOb"
     },
     {
       "album": {
@@ -8913,6 +9025,24 @@
     },
     {
       "album": {
+        "name": "OJALA",
+        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "OJALA",
+      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/06l4Kfsm6hDRVGbHseECRv"
       },
@@ -9398,6 +9528,24 @@
       "duration_ms": 186471,
       "name": "Pintas de punki",
       "url": "https://open.spotify.com/track/3pYacQzqMUP25Tz1UuJzFL"
+    },
+    {
+      "album": {
+        "name": "Play It Cool",
+        "url": "https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa"
+      },
+      "artists": [
+        {
+          "name": "Miss Sxvage",
+          "url": "https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Play It Cool",
+      "url": "https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3"
     },
     {
       "album": {
@@ -10733,6 +10881,24 @@
     },
     {
       "album": {
+        "name": "So Clear",
+        "url": "https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212064,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
+    },
+    {
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf"
       },
@@ -11196,7 +11362,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 215426,
       "name": "Suburbia",
       "url": "https://open.spotify.com/track/5DWOiHkE0DzIQqmzCR5UGe"
@@ -11905,6 +12071,24 @@
     },
     {
       "album": {
+        "name": "Time (is a healer)",
+        "url": "https://open.spotify.com/album/1QEkyXwkvhixkw92ndXONV"
+      },
+      "artists": [
+        {
+          "name": "Keir",
+          "url": "https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228064,
+      "name": "Time (is a healer)",
+      "url": "https://open.spotify.com/track/5YhHGpCRsvIx4ytZKKlkf8"
+    },
+    {
+      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/1z9DkBF5iZZl26UdbgOrKN"
       },
@@ -12254,7 +12438,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 142500,
       "name": "Turned Heads",
       "url": "https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG"
@@ -12388,7 +12572,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 160746,
       "name": "villain",
       "url": "https://open.spotify.com/track/1TsVdMwnyuZ4jhlX703XZf"
@@ -12721,6 +12905,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153069,
+      "name": "Whisky Vagabund0 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0AXfTPzrAMfHchWf2aOVfA"
+    },
+    {
+      "album": {
         "name": "White Dress",
         "url": "https://open.spotify.com/album/3cMim0qTXPRZtY4edlnfyR"
       },
@@ -12956,7 +13158,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 209115,
       "name": "XY",
       "url": "https://open.spotify.com/track/0SWutMMPzxvXjEOWE4k7hG"
@@ -13230,7 +13432,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 172544,
       "name": "Your Funeral",
       "url": "https://open.spotify.com/track/3y9K5sfxBscaZDgAJvaBhP"
@@ -13422,6 +13624,24 @@
       "duration_ms": 152727,
       "name": "\u0e2a\u0e01\u0e34\u0e19\u0e0a\u0e34\u0e1e - Skinship",
       "url": "https://open.spotify.com/track/1MOHPTfRJN7a1lFvz6OvnA"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e27\u0e48\u0e32\u0e16\u0e49\u0e32\u0e40\u0e02\u0e32\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32 (What If...)",
+        "url": "https://open.spotify.com/album/7e7txprR6FsDISL2b7VtF0"
+      },
+      "artists": [
+        {
+          "name": "fluffypak",
+          "url": "https://open.spotify.com/artist/3plsvhYJrLQJrpwwwPWMkT"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273750,
+      "name": "\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e27\u0e48\u0e32\u0e16\u0e49\u0e32\u0e40\u0e02\u0e32\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32 - What If...",
+      "url": "https://open.spotify.com/track/0LRbCbdhcUoVUuWaK49RZP"
     },
     {
       "album": {

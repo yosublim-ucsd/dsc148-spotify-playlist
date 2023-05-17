@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190626,
+      "name": "Going Kokomo",
+      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
+      "album": {
         "name": "The Bones of What You Believe",
         "url": "https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD"
       },
@@ -3118,7 +3136,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 169456,
       "name": "Talk Your Mind",
       "url": "https://open.spotify.com/track/3yfI1O9gzffOZdfkVfZ5uC"

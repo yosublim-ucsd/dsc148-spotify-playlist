@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Any Way the Wind is Blowin'",
+        "url": "https://open.spotify.com/album/0Ps14un90C59agy4SSC3wT"
+      },
+      "artists": [
+        {
+          "name": "Jack Klatt",
+          "url": "https://open.spotify.com/artist/0dyRnxoc84B2sVSy4qGV9q"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Any Way the Wind is Blowin'",
+      "url": "https://open.spotify.com/track/4wQOxa8MH66PzNEMhipAmS"
+    },
+    {
+      "album": {
         "name": "Edge of the End",
         "url": "https://open.spotify.com/album/1rj6HjqRg0kkStKgSA5MR9"
       },
@@ -1060,6 +1078,28 @@
       "duration_ms": 225280,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/0nJADeq2fcC8ZPGRhwDOad"
+    },
+    {
+      "album": {
+        "name": "Again, Again, Again",
+        "url": "https://open.spotify.com/album/6tcCkWyZORolSI3Sq03wWE"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Rose",
+          "url": "https://open.spotify.com/artist/4dfQKSoof43hD5f7CzWvnr"
+        },
+        {
+          "name": "Anh Phung",
+          "url": "https://open.spotify.com/artist/3qvtiF1U8FpBA76eLDDeTw"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180160,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/1Uyk4zHwR6B9StqEIndZcW"
     },
     {
       "album": {
@@ -4298,7 +4338,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 211280,
       "name": "Keep Your Lamps Trimmed and Burning",
       "url": "https://open.spotify.com/track/1P48SL7KyyVQbcLPoW0AvV"
@@ -9420,7 +9460,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-17",
       "duration_ms": 183080,
       "name": "Yesterday Lied",
       "url": "https://open.spotify.com/track/7GI8zkrEocXmA9taeIL7mH"

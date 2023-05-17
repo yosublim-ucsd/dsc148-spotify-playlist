@@ -795,6 +795,28 @@
     },
     {
       "album": {
+        "name": "Firebuds Let's Roll (Firebuds Theme) [From \"Disney Junior Music: Firebuds\"]",
+        "url": "https://open.spotify.com/album/4e3h1OM3KWI73x8MhBW1mE"
+      },
+      "artists": [
+        {
+          "name": "Firebuds - Cast",
+          "url": "https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60755,
+      "name": "Firebuds Let's Roll (Firebuds Theme) - From \"Disney Junior Music: Firebuds\"",
+      "url": "https://open.spotify.com/track/7oM2qilEgQZWmLYmqFNUbx"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Elena of Avalor - A Royal Celebration",
         "url": "https://open.spotify.com/album/1KIyVsSMujyeSL8CROmi9I"
       },
@@ -2706,6 +2728,28 @@
       "duration_ms": 113466,
       "name": "Start Up Your Imagination",
       "url": "https://open.spotify.com/track/6fSFUHhbjQbll71Yj98x68"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Firebuds",
+        "url": "https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u"
+      },
+      "artists": [
+        {
+          "name": "Firebuds - Cast",
+          "url": "https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77417,
+      "name": "Stop, Look, and Listen",
+      "url": "https://open.spotify.com/track/4jXzMMIhNu7ZlJ8KGGZjmB"
     },
     {
       "album": {

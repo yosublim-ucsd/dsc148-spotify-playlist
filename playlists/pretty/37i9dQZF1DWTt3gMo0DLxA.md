@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,720 likes - 52 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,738 likes - 52 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 37 | [Alludu Adhurs](https://open.spotify.com/track/5nP5Y7qkiiWi70QueS3qF8) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Vaishnavi](https://open.spotify.com/artist/6EvZzYQvYz8M9s2JOXpe9e) | [Alludu Adhurs](https://open.spotify.com/album/3kus7s3pIDVtyckV59gkKs) | 4:01 |
 | 38 | [Most Wanted Abbayi](https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI) | [Yazin Nizar, Ramya Behara](https://open.spotify.com/artist/10dw6nWjLtZ1RQoaCaERBL) | [MLA](https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7) | 4:34 |
 | 39 | [Ninnu Chudakunda Undalekapothunnanu](https://open.spotify.com/track/52753ylTtO0sbDo6Is2Pxu) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Check](https://open.spotify.com/album/0MdbUcs1RFozb1oEXgh0kA) | 3:35 |
-| 40 | [Netha Cheera](https://open.spotify.com/track/0jYdNiFwjhzye1Ga5W1vaT) | [Sai Charan, Sahithi, Simha](https://open.spotify.com/artist/329RdTVXR2VaMnvAnLsk9X) | [Katamarayudu](https://open.spotify.com/album/1cvxkGMF3C9R9DmJiyTzBc) | 4:00 |
-| 41 | [Ammakutti Ammakutti Andhamantha Ompake](https://open.spotify.com/track/7EW27HIQrlFLpyCBtOodF4) | [Jaspreeth Jasz, Geetha Madhuri](https://open.spotify.com/artist/3YUBfCMOTG5Nbn0dxlX4Un) | [Jai Simha](https://open.spotify.com/album/7Ge2S3SjYoZ0uTZBM8HMqi) | 4:41 |
+| 40 | [Ammakutti Ammakutti Andhamantha Ompake](https://open.spotify.com/track/7EW27HIQrlFLpyCBtOodF4) | [Jaspreeth Jasz, Geetha Madhuri](https://open.spotify.com/artist/3YUBfCMOTG5Nbn0dxlX4Un) | [Jai Simha](https://open.spotify.com/album/7Ge2S3SjYoZ0uTZBM8HMqi) | 4:41 |
+| 41 | [Netha Cheera](https://open.spotify.com/track/0jYdNiFwjhzye1Ga5W1vaT) | [Sai Charan, Sahithi, Simha](https://open.spotify.com/artist/329RdTVXR2VaMnvAnLsk9X) | [Katamarayudu](https://open.spotify.com/album/1cvxkGMF3C9R9DmJiyTzBc) | 4:00 |
 | 42 | [](https://open.spotify.com/track/3RasaEUueHNTzBM2JB3qxK) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2rB63Sy0Lbll94LSvqo0gE) | 0:00 |
 | 43 | [Hey Abbayi](https://open.spotify.com/track/0IDhvvZHORFGPDh0fWqPbk) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H), [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV) | [Sreekaram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72FQPRyqPBYcuJcYriY56P) | 3:42 |
 | 44 | [Balega Tagilavey Bangaram \(From "Krack"\)](https://open.spotify.com/track/3ZArIoBa7G4RoQbzWCBgkD) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Balega Tagilavey Bangaram \(From "Krack"\)](https://open.spotify.com/album/21nM2vkOGhGpMoFL3PRm63) | 3:43 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [](https://open.spotify.com/track/3Y7Dt0uszkNBMBTdxyckaV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6kooJUFnkhm3RBIfr9PgtS) | 0:00 |
 | 52 | [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 |
 
-Snapshot ID: `MCw2NmFmYmMyMDZiY2M3NjNhNmNlYzlhNGNhOTI2OTQ1NzllYjFhODM1`
+Snapshot ID: `MCxiMjQ4YjNiNzc3Y2NhM2EyNmMyYTE1ZDlmNmRmNzkxMWNiNjQwNDAy`

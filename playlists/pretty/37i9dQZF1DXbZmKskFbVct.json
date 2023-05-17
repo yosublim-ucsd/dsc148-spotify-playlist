@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 31651,
+  "num_followers": 31655,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjZiMGU0MmIzY2ZiZThkOGNmNTRlNGM2ZGE4OTlhZDk3MDUzZjkz",
+  "snapshot_id": "MCxkNzNjN2Y2OTE0ODY5YzNjZmFhYzg0YzUwZWEyYjI4MWE1MjgyN2M3",
   "tracks": [
     {
       "added_at": "2023-02-02 13:48:42",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Super sleepy attention, close positive whispers, inaudible whispers",
-        "url": "https://open.spotify.com/album/4IwFZL7tcaocPJlicCyNIH"
-      },
-      "artists": [
-        {
-          "name": "RoseASMR",
-          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
-        }
-      ],
-      "duration_ms": 279875,
-      "name": "Super sleepy attention, close positive whispers, inaudible whispers Pt.1",
-      "url": "https://open.spotify.com/track/0fU7os8IzBtcblVO0YeIsR"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "ASMR Whispers (Binaural)",
         "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 182682,
       "name": "Unintelligble Sleep Whisper Dee Kaa",
       "url": "https://open.spotify.com/track/7rAyhoQ18VOFt9DLgzM0n2"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "Super sleepy attention, close positive whispers, inaudible whispers",
+        "url": "https://open.spotify.com/album/4IwFZL7tcaocPJlicCyNIH"
+      },
+      "artists": [
+        {
+          "name": "RoseASMR",
+          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
+        }
+      ],
+      "duration_ms": 279875,
+      "name": "Super sleepy attention, close positive whispers, inaudible whispers Pt.1",
+      "url": "https://open.spotify.com/track/0fU7os8IzBtcblVO0YeIsR"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ASMR Egyptian Spa | Bathing You, Skin Treatment, Makeup, Pampering - ASMR Roleplay Soft Spoken",
-        "url": "https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip"
-      },
-      "artists": [
-        {
-          "name": "The Healing Room ASMR",
-          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
-        }
-      ],
-      "duration_ms": 74000,
-      "name": "Painting Your Lips",
-      "url": "https://open.spotify.com/track/7JncmWmBHWrLXWtMkLWqCx"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Binaural ASMR Descriptions",
         "url": "https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 166335,
       "name": "Red Candle Whisper Description",
       "url": "https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "ASMR Egyptian Spa | Bathing You, Skin Treatment, Makeup, Pampering - ASMR Roleplay Soft Spoken",
+        "url": "https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip"
+      },
+      "artists": [
+        {
+          "name": "The Healing Room ASMR",
+          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+        }
+      ],
+      "duration_ms": 74000,
+      "name": "Painting Your Lips",
+      "url": "https://open.spotify.com/track/7JncmWmBHWrLXWtMkLWqCx"
     },
     {
       "added_at": "2023-02-02 13:48:42",

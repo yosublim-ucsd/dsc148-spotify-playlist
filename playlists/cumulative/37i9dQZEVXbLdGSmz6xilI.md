@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-755 songs - 1 day 20 hr 11 min
+756 songs - 1 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-25 |  |
 | [Like This](https://open.spotify.com/track/4OXtP0DpAoBW5iqiWPqKd8) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq) | [Like This](https://open.spotify.com/album/7nGWgyDCDbNLpL00j0dIup) | 2:57 | 2022-01-10 | 2022-04-18 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-03-27 | 2021-04-10 |
-| [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-02-25 |  |
+| [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-02-25 | 2023-05-17 |
 | [Liệu Giờ](https://open.spotify.com/track/2EZtTS76x5M6hK96CLclPd) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/1aRGbHftmJqclyoYJT8q6c) | 4:18 | 2022-08-12 | 2023-01-14 |
 | [LOCO](https://open.spotify.com/track/59c0HrzmHfyQs6LgDw5cHe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/3Pr7XlWzWnX9enSVZXuPKh) | 3:11 | 2021-09-27 | 2021-10-08 |
 | [LOCO \- English Ver.](https://open.spotify.com/track/01QhKtUc12FGw2wX7dMYvv) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Crazy in Love](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-26 | 2021-09-27 |
@@ -480,6 +480,7 @@
 | [Nàng Thơ](https://open.spotify.com/track/1w3eUC89GPspKpi62tPwjt) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [25](https://open.spotify.com/album/0v7y0tr3mKZ4kZXFVRhTMS) | 4:14 | 2021-09-20 | 2022-09-15 |
 | [Ném Câu Yêu Vào Không Trung](https://open.spotify.com/track/4RwQ5UUOgphhjBM8zF62RQ) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Yên](https://open.spotify.com/album/5NGMQL0k9iQim4fcGjMnUv) | 3:56 | 2022-08-26 | 2022-09-12 |
 | [Năm Qua Đã Làm Gì](https://open.spotify.com/track/3c8uiVApPGVchcLqP2vlwf) | [Noo Phước Thịnh](https://open.spotify.com/artist/3mibIJiduF0MVLLAvHZAxw) | [Gala Nhạc Việt 15 \- Năm Mới Bình An](https://open.spotify.com/album/37EcXFEyVloL7CK79dEVmF) | 3:56 | 2023-01-22 | 2023-01-25 |
+| [Nấu ăn cho em](https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54) | [Nấu ăn cho em](https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t) | 4:01 | 2023-05-16 |  |
 | [NẮM ĐÔI BÀN TAY](https://open.spotify.com/track/3kwS7WlPS6NconVfVs6tTZ) | [Kay Trần](https://open.spotify.com/artist/3EPkqJFzEGSJWtGsu1Xwqt) | [NẮM ĐÔI BÀN TAY](https://open.spotify.com/album/3vxerF8w0m4rHFrFeZtVNl) | 3:08 | 2021-07-06 | 2021-07-16 |
 | [Nắng Lên \(feat\. GONZO & Bwine\)](https://open.spotify.com/track/3I024mr4TcQb8W9cNVe0ze) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw), [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [Gonzo](https://open.spotify.com/artist/3Ib80uqrBka6P4ncx6vJRF), [B\-Wine](https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K) | [Space Jam, Vol\. 1](https://open.spotify.com/album/7ahqMhfibWJT33LPuPlvK6) | 3:23 | 2023-05-12 |  |
 | [Nắng Ấm Ngang Qua](https://open.spotify.com/track/6UdpjBhLNMFl3dH46iXlGi) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [SKY DECADE](https://open.spotify.com/album/7r2UDe86W9yNHVymWu02xG) | 3:15 | 2022-10-09 | 2022-10-13 |
