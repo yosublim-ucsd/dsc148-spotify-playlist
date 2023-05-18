@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 154804,
       "name": "17. Mai er vi s\u00e5 glad i",
       "url": "https://open.spotify.com/track/0OdiUIuHz3W2178hAdC6rt"
@@ -240,6 +240,24 @@
       "duration_ms": 57250,
       "name": "17. mai-sang (Tenk at n\u00e5 er dagen her)",
       "url": "https://open.spotify.com/track/37Clr7ZJJIkWNjFu9l3pBJ"
+    },
+    {
+      "album": {
+        "name": "S\u00c5 KLART DET GJ\u00d8R VONDT",
+        "url": "https://open.spotify.com/album/2oumu4rB71r7F0KwVc8WEj"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "17.mai",
+      "url": "https://open.spotify.com/track/7oodjYvd9RYhRjUufF2QTW"
     },
     {
       "album": {
@@ -6952,7 +6970,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 156913,
       "name": "Fy Faen S\u00e5 Deilig",
       "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
@@ -14780,7 +14798,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 201720,
       "name": "Norge i r\u00f8dt, hvitt og bl\u00e5tt - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/4S1De6Tx74tNuxyRODRLXY"
@@ -21154,7 +21172,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 172555,
       "name": "Watergun",
       "url": "https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw"
@@ -22060,7 +22078,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 181000,
       "name": "\u00c9videmment",
       "url": "https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM"

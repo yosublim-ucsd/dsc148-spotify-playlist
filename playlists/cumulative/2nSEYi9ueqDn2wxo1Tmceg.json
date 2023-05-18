@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "changer",
+        "url": "https://open.spotify.com/album/21aXm7ct1WdqEoOd1Ss5fW"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208912,
+      "name": "changer",
+      "url": "https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1"
+    },
+    {
+      "album": {
         "name": "CHEERUP",
         "url": "https://open.spotify.com/album/5uf7XZKZtqj2WerN21gyWJ"
       },
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 400493,
       "name": "CHEERUP",
       "url": "https://open.spotify.com/track/2jLdiWEo2nqLonVcOmnngv"
@@ -1596,6 +1614,24 @@
       "duration_ms": 282349,
       "name": "Cold",
       "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+    },
+    {
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217369,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
     },
     {
       "album": {
@@ -2054,7 +2090,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 360432,
       "name": "Dawn in the Adan - live at Milton Court, London, 2022",
       "url": "https://open.spotify.com/track/6opCAf3NTAozLeYnz5psUr"
@@ -2748,6 +2784,24 @@
       "duration_ms": 194353,
       "name": "Everybody's Saying That",
       "url": "https://open.spotify.com/track/55jFlmJxprZ7qLyBR9pfKi"
+    },
+    {
+      "album": {
+        "name": "Everything I Ever Wanted",
+        "url": "https://open.spotify.com/album/0gR1MDfkp0uo2vbP6z83ZT"
+      },
+      "artists": [
+        {
+          "name": "Delilah Holliday",
+          "url": "https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176975,
+      "name": "Everything I Ever Wanted",
+      "url": "https://open.spotify.com/track/3gCbQbsMbm1Z7g2rzfMiNH"
     },
     {
       "album": {
@@ -3736,7 +3790,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 235430,
       "name": "High and Away",
       "url": "https://open.spotify.com/track/3jkxvUypqXWjfV8rVu0Pt8"
@@ -4616,7 +4670,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 221493,
       "name": "It\u2019s Euphoric",
       "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
@@ -6254,7 +6308,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 475845,
       "name": "Picture This!",
       "url": "https://open.spotify.com/track/515VZ0TZNIe0n7G0qvBc7C"
@@ -6478,7 +6532,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 247520,
       "name": "Quarry",
       "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
@@ -6963,6 +7017,24 @@
     },
     {
       "album": {
+        "name": "Transatlantic Sugar",
+        "url": "https://open.spotify.com/album/4ClmdvEMhHebxxwB7EbJta"
+      },
+      "artists": [
+        {
+          "name": "Alice Low",
+          "url": "https://open.spotify.com/artist/3mSS5RJRziMAKk5aeSyPSI"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188427,
+      "name": "Show Business",
+      "url": "https://open.spotify.com/track/1ZLJWfXNfCQ8Vh3AvwIYcW"
+    },
+    {
+      "album": {
         "name": "Sickworld",
         "url": "https://open.spotify.com/album/3J1gp2Jd47E7bb5JeQZojv"
       },
@@ -7272,7 +7344,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 165264,
       "name": "Spalarkling",
       "url": "https://open.spotify.com/track/0aUCqmtpFYCLmGsgdVZiJu"
@@ -7492,7 +7564,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 205306,
       "name": "Submerge FM",
       "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
@@ -7518,6 +7590,24 @@
       "duration_ms": 457000,
       "name": "Suicide Dream 1 - Claire Rousay presents 'Suicide Dreams'",
       "url": "https://open.spotify.com/track/1eQYk19nwftc74b9OE4DMX"
+    },
+    {
+      "album": {
+        "name": "Suit Yourself",
+        "url": "https://open.spotify.com/album/0O2VP9QHV32YbBNEniaexT"
+      },
+      "artists": [
+        {
+          "name": "Simonie",
+          "url": "https://open.spotify.com/artist/1HdUIqSdQPZdTdO8oEHRRm"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183076,
+      "name": "Suit Yourself",
+      "url": "https://open.spotify.com/track/65PmREU4kDjDV3C40fWWKs"
     },
     {
       "album": {
@@ -7550,7 +7640,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 288618,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/3CGv4it1VeiRX7OaCjBmhW"
@@ -7716,6 +7806,24 @@
       "duration_ms": 277160,
       "name": "Terror's Pillow",
       "url": "https://open.spotify.com/track/10dQcJmvC6HQv0DHrr1iIt"
+    },
+    {
+      "album": {
+        "name": "That Morning",
+        "url": "https://open.spotify.com/album/5FpiRAw729INQkIasKrZMK"
+      },
+      "artists": [
+        {
+          "name": "Skydaddy",
+          "url": "https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405018,
+      "name": "That Morning",
+      "url": "https://open.spotify.com/track/4OeasQDporLHIOWDzj8hXl"
     },
     {
       "album": {
@@ -8727,6 +8835,24 @@
     },
     {
       "album": {
+        "name": "Venera",
+        "url": "https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227804,
+      "name": "Venera",
+      "url": "https://open.spotify.com/track/6U9rAS28uOHyf5NZCYyt0J"
+    },
+    {
+      "album": {
         "name": "Veronica Lake",
         "url": "https://open.spotify.com/album/4ytG8sSNbEyrNuwtaQHtLN"
       },
@@ -8742,6 +8868,24 @@
       "duration_ms": 182800,
       "name": "Veronica Lake",
       "url": "https://open.spotify.com/track/7HIuf2VMlU5SURlsrXggWz"
+    },
+    {
+      "album": {
+        "name": "Very High",
+        "url": "https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114872,
+      "name": "Very High",
+      "url": "https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR"
     },
     {
       "album": {

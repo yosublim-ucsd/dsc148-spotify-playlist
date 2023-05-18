@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,745 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,753 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 9 | [眼淚記得你 \- 電影《想見你》主題曲](https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [眼淚記得你](https://open.spotify.com/album/34b13gZHKmAMzg1uqviOxg) | 4:04 |
 | 10 | [Morning Kiss](https://open.spotify.com/track/7kSsIt7dEp8KtXy30QG6vJ) | [Tay Kexin](https://open.spotify.com/artist/6DoKqXp5G59UVhKTzgv6xe), [Bernard Wee Shen](https://open.spotify.com/artist/7l4OMGKEU8DGCOCHnLKhhE) | [Morning Kiss](https://open.spotify.com/album/1EhqcOqa3XJWANpxseAZ6A) | 3:34 |
 | 11 | [岑靜の世界](https://open.spotify.com/track/05iyNA2bA0vSLKNWCryg0o) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [岑靜の世界](https://open.spotify.com/album/5kRJD8ESPIOuXj9v4wuN4C) | 4:03 |
-| 12 | [对的时候](https://open.spotify.com/track/5J23h3gU0zDexGuH1iV7XR) | [Corey Koh](https://open.spotify.com/artist/1XteATl9GzdXKckVhv78S9) | [对的时候](https://open.spotify.com/album/0RUxyyChLar4nupdVXnRs5) | 3:55 |
+| 12 | [对的时候](https://open.spotify.com/track/5J23h3gU0zDexGuH1iV7XR) | [Corey Koh 高雍虔](https://open.spotify.com/artist/1XteATl9GzdXKckVhv78S9) | [对的时候](https://open.spotify.com/album/0RUxyyChLar4nupdVXnRs5) | 3:55 |
 | 13 | [倆人 \(《第9節課》插曲\)](https://open.spotify.com/track/21DC233fhKEBRa2L3Pfjdj) | [Bae Lin](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [倆人 \(《第9節課》插曲\)](https://open.spotify.com/album/2miYO5t02RgDLm0YBhmBrt) | 3:09 |
 | 14 | [去有風的地方 \(電視劇《去有風的地方》主題曲\)](https://open.spotify.com/track/5mivWWWtw7x1H7TCBTDS5g) | [郁可唯](https://open.spotify.com/artist/4XOgZBMcpRQqKHbE8L9zW1) | [去有風的地方 \(電視劇《去有風的地方》主題曲\)](https://open.spotify.com/album/0adwWPry7ob0mHUSNJyobe) | 3:51 |
 | 15 | [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [親愛的朋友](https://open.spotify.com/track/4YFa1sSvE0ICKake8b6mMq) | [Queen Suitcase](https://open.spotify.com/artist/0UaZ2BhteWRHOjZo7lEDXj) | [親愛的朋友](https://open.spotify.com/album/5ZIzQbjxu09CZlXs86ORbL) | 6:12 |
 | 100 | [我還是為你哭了 \(影視劇《破事精英2》插曲\)](https://open.spotify.com/track/02MfvZCcsVUQcMgVOQ6lUu) | [李佳薇](https://open.spotify.com/artist/2cLZXI0xYG8HYdNXgnWNep) | [我還是為你哭了 \(影視劇《破事精英2》插曲\)](https://open.spotify.com/album/1iVpY8OUcbbyQ8PoX3Fgob) | 3:18 |
 
-Snapshot ID: `MCxmZTQyZWQ5YTc4MzNmNDRhNmY4M2VkYTE0YjRiZTA3ZmVjZWUwNzhm`
+Snapshot ID: `MCxmYzM2NzEzNWYyNzU2M2M0MmIwZDM1ZmMwYjcwMjFmODgxYmMxNGJm`

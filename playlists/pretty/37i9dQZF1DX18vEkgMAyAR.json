@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 57205,
+  "num_followers": 57249,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTQxNGMyMWJkN2ViZTEwMWJjM2FjNDFmNWMwYjVmYWFkZTdhYjYy",
+  "snapshot_id": "MCw1MGEyY2MyNWZhN2JhMzQ5MjU3YzQ2OTE5NTNjNTUwNWY2YmYyMjk5",
   "tracks": [
     {
       "added_at": "2023-04-21 11:39:07",
@@ -863,6 +863,26 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
+        "name": "Vergeet De Tijd",
+        "url": "https://open.spotify.com/album/7B8rmxIjhAODSsLOvcJtLM"
+      },
+      "artists": [
+        {
+          "name": "Regi",
+          "url": "https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd"
+        },
+        {
+          "name": "Jake Reese",
+          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
+        }
+      ],
+      "duration_ms": 164928,
+      "name": "Ellie",
+      "url": "https://open.spotify.com/track/5KNLAnH7BBtoRxDqYP58h6"
+    },
+    {
+      "added_at": "2023-04-21 11:39:07",
+      "album": {
         "name": "The Woods (Evida Remix)",
         "url": "https://open.spotify.com/album/16Im37aeKNeMDeTxWb5OYc"
       },
@@ -903,26 +923,6 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "Life Without Fantasies (Radio Edit)",
-        "url": "https://open.spotify.com/album/2CbKkBdhAHKiKkZ8MrkdGf"
-      },
-      "artists": [
-        {
-          "name": "Neon Dreams",
-          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
-        },
-        {
-          "name": "Max Hurrell",
-          "url": "https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd"
-        }
-      ],
-      "duration_ms": 161456,
-      "name": "Life Without Fantasies - Radio Edit",
-      "url": "https://open.spotify.com/track/2Q9QrDU4LUDot1mpYcntiC"
-    },
-    {
-      "added_at": "2023-04-21 11:39:07",
-      "album": {
         "name": "Critical As Water",
         "url": "https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll"
       },
@@ -959,18 +959,22 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
+        "name": "Life Without Fantasies (Radio Edit)",
+        "url": "https://open.spotify.com/album/2CbKkBdhAHKiKkZ8MrkdGf"
       },
       "artists": [
         {
-          "name": "Majozi",
-          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+          "name": "Neon Dreams",
+          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
+        },
+        {
+          "name": "Max Hurrell",
+          "url": "https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd"
         }
       ],
-      "duration_ms": 203093,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
+      "duration_ms": 161456,
+      "name": "Life Without Fantasies - Radio Edit",
+      "url": "https://open.spotify.com/track/2Q9QrDU4LUDot1mpYcntiC"
     },
     {
       "added_at": "2023-04-21 11:39:07",
@@ -1051,18 +1055,18 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "Fine Little Rhythm",
-        "url": "https://open.spotify.com/album/05VHHbajKoryAVCTSZDDkb"
+        "name": "The Hanging Gardens Of Beatenberg",
+        "url": "https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ"
       },
       "artists": [
         {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
         }
       ],
-      "duration_ms": 211306,
-      "name": "Fine Little Rhythm",
-      "url": "https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA"
+      "duration_ms": 352493,
+      "name": "Pluto - Live",
+      "url": "https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz"
     },
     {
       "added_at": "2023-04-21 11:39:07",
@@ -1087,24 +1091,8 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "The Hanging Gardens Of Beatenberg",
-        "url": "https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ"
-      },
-      "artists": [
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
-        }
-      ],
-      "duration_ms": 352493,
-      "name": "Pluto - Live",
-      "url": "https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz"
-    },
-    {
-      "added_at": "2023-04-21 11:39:07",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/7ziJdl59dI4sSnp5M3AIPc"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
       },
       "artists": [
         {
@@ -1112,9 +1100,25 @@
           "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/4v9nRXzGgTFc2GuxWpG0Mg"
+      "duration_ms": 203093,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
+    },
+    {
+      "added_at": "2023-04-21 11:39:07",
+      "album": {
+        "name": "Fine Little Rhythm",
+        "url": "https://open.spotify.com/album/05VHHbajKoryAVCTSZDDkb"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "duration_ms": 211306,
+      "name": "Fine Little Rhythm",
+      "url": "https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA"
     },
     {
       "added_at": "2023-04-21 11:39:07",

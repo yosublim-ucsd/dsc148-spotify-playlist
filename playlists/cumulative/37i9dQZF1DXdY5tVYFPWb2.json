@@ -498,8 +498,8 @@
           "url": "https://open.spotify.com/artist/0h1BKDiSM47e0dNBoExa5N"
         },
         {
-          "name": "\u3055\u3089\u3055",
-          "url": "https://open.spotify.com/artist/70Zjrk75IWb125KyOdgMYk"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
       "date_added": "2023-05-16",
@@ -6156,7 +6156,7 @@
     {
       "album": {
         "name": "Time is Over",
-        "url": "https://open.spotify.com/album/71M79kQeKxgOCS7zNLOsR7"
+        "url": "https://open.spotify.com/album/5CXHvXpRQlU0h0smVuJUpc"
       },
       "artists": [
         {
@@ -6167,6 +6167,24 @@
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204480,
+      "name": "Time is Over",
+      "url": "https://open.spotify.com/track/0wSJH37VmqSMJdh1ns6dCI"
+    },
+    {
+      "album": {
+        "name": "Time is Over",
+        "url": "https://open.spotify.com/album/71M79kQeKxgOCS7zNLOsR7"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
       "duration_ms": 204480,
       "name": "Time is Over",
       "url": "https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa"
@@ -6800,6 +6818,24 @@
       "duration_ms": 201617,
       "name": "yugi",
       "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
+    },
+    {
+      "album": {
+        "name": "Yume de Aetara",
+        "url": "https://open.spotify.com/album/3FMoztMSsW5rYtyWEPq82q"
+      },
+      "artists": [
+        {
+          "name": "kim taehoon",
+          "url": "https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211636,
+      "name": "Yume de Aetara",
+      "url": "https://open.spotify.com/track/3NWzlQGyXmsVeGkY7OHFDy"
     },
     {
       "album": {
@@ -8792,7 +8828,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 211636,
       "name": "\u5922\u3067\u9022\u3048\u305f\u3089",
       "url": "https://open.spotify.com/track/5FutWWD7OviEyQnwPUCzGB"

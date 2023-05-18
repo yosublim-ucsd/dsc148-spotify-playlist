@@ -4,7 +4,7 @@
 
 > Uplifting and energetic music that helps you stay motivated.
 
-627 songs - 1 day 7 hr 18 min
+628 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [I Got A Feeling](https://open.spotify.com/track/67khZBWjxlHg85xcwdySjS) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [I Got A Feeling](https://open.spotify.com/album/1RQIpbfwNYLalU8PKNysqt) | 2:24 | 2021-11-14 | 2022-12-02 |
 | [I Got You \- SNBRN Remix](https://open.spotify.com/track/085czg1ZYAzX9R9PQqSMLe) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI) | [I Got You: The Remixes](https://open.spotify.com/album/1moWdD9yi0Ij3YqpHNUGLf) | 3:18 | 2021-03-08 | 2021-03-18 |
 | [I Should Have Walked Away](https://open.spotify.com/track/4jJpQvBp06QjtcJsSCexQZ) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [I Should Have Walked Away](https://open.spotify.com/album/5NePvMjsDLVZFX1Qwt4Iqa) | 3:22 | 2021-03-14 | 2021-10-16 |
-| [I Want You](https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [I Want You](https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ) | 2:26 | 2023-02-16 |  |
+| [I Want You](https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [I Want You](https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ) | 2:26 | 2023-02-16 | 2023-05-18 |
 | [I Will Survive](https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD) | 2:30 | 2022-06-09 | 2023-05-12 |
 | [I'm Going Like](https://open.spotify.com/track/4o7zeDjEoPALOH9ZN483Oj) | [Hallman](https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5) | [I'm Going Like](https://open.spotify.com/album/0ltxBiyZK4kQ8NoGqRyIlA) | 3:05 | 2021-01-15 | 2022-04-19 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-29 |  |
@@ -483,6 +483,7 @@
 | [Shake That](https://open.spotify.com/track/1BrIZsDXewY03c9BUY4Rn9) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/2SYED5j8wPKjVW5cviH4qN) | 2:59 | 2022-11-17 | 2023-04-14 |
 | [Shed a Light](https://open.spotify.com/track/1cG0umU5TKStygKsPFZ9pY) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Shed a Light](https://open.spotify.com/album/6yKhjUoOsHa60DSqpugerw) | 3:11 | 2021-03-06 | 2021-03-19 |
 | [Shine](https://open.spotify.com/track/6YbVddGFPcfOVJrxhUusbV) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [David Shane](https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV), [Greencoast](https://open.spotify.com/artist/3ivoRNc4HZk5HzPTVOlKgs) | [Shine](https://open.spotify.com/album/3A9frE6rgx6Ov78D9L6yee) | 2:43 | 2020-08-14\* | 2021-12-21 |
+| [Shit We Do For Love](https://open.spotify.com/track/2bIxNWvnynGGNq87gMbNcn) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Shit We Do For Love](https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7) | 2:47 | 2023-05-11 |  |
 | [Shivers \- Ofenbach Remix](https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Shivers \(Ofenbach Remix\)](https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl) | 3:07 | 2021-11-13 | 2023-05-05 |
 | [Shower](https://open.spotify.com/track/0G7uY9QSPlMDZvYTiPnPte) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [FYLOW](https://open.spotify.com/artist/7uQZyFwAdkSIDS969dWIie) | [Shower](https://open.spotify.com/album/5u4YQni1yOgCTMSRIXlZnq) | 2:36 | 2021-11-12 | 2022-07-29 |
 | [Shuttin It Down](https://open.spotify.com/track/0lTIMAG4gTMux3zh5RvMKZ) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Shuttin It Down](https://open.spotify.com/album/6OO3C04YfPWkfUNmfwoQWm) | 2:44 | 2021-03-06 | 2021-03-19 |

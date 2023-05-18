@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。
 
-488 songs - 1 day 4 hr 2 min
+489 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Online Game Addicts Sprechchor feat.Hatsune Miku](https://open.spotify.com/track/5UX2XYxGf9s10kmkSObPpA) | [satuki ga tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Jinchikumugai Satsuki ga Tenkomori feat.Hatsune Miku](https://open.spotify.com/album/4ChriIFZHY2BtIjzyTU1Jq) | 4:51 | 2022-06-09 | 2022-07-26 |
 | [Party×Party](https://open.spotify.com/track/0ZmoP8er16GcUglbOdSgoY) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [Polkadodge](https://open.spotify.com/album/40XC0a7Qa96B9LqpwUVkSw) | 3:39 | 2022-07-10 | 2022-07-12 |
 | [Philosophia](https://open.spotify.com/track/2YNNwEliMwd8LeCyFTCo2S) | [Fty](https://open.spotify.com/artist/2eLKdQdoCJK5wmiMwVrsc7), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Philosophia](https://open.spotify.com/album/23vJKxqQjqOh0SP8NuF2m5) | 3:01 | 2022-06-14 | 2022-06-22 |
+| [Please Play\-Bite](https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:22 | 2023-05-16 |  |
 | [Q](https://open.spotify.com/track/2WgDt1Kuh0boQmwytT840h) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [アルターワー・セツナポップ](https://open.spotify.com/album/7DoSwfUqVHcgLtuh2MIR46) | 4:18 | 2022-06-09 | 2022-07-11 |
 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 | 2022-08-18 |  |
 | [quiet room](https://open.spotify.com/track/5cAn0MCLfizdk0v7qVlPXx) | [ewe](https://open.spotify.com/artist/1CjBPbIrY2V0MK7LZnz4rv) | [troy](https://open.spotify.com/album/3a1HOc9H3mko6rhStgCjws) | 3:39 | 2022-06-09 | 2022-07-22 |
@@ -457,7 +458,7 @@
 | [猛独が襲う](https://open.spotify.com/track/1GscTZDRIVR7st9ntNH668) | [一二三](https://open.spotify.com/artist/5vItHKjQjXHkIpgt4MEchO) | [猛独が襲う](https://open.spotify.com/album/6CFOcvUYRnXqjogbRX9A1a) | 4:12 | 2022-06-28 | 2022-07-29 |
 | [猫猫的宇宙論](https://open.spotify.com/track/2hsATi9mUl4j6G5iVVAdrN) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [猫猫的宇宙論](https://open.spotify.com/album/1uufPNiunn3LXxeLigViIP) | 3:36 | 2022-06-09 | 2022-06-11 |
 | [珈琲メモリア](https://open.spotify.com/track/42HHocSogPnphZvWptRKRz) | [大江カルシー](https://open.spotify.com/artist/658uG2eg1MYI6RCG7UsGKo) | [珈琲メモリア](https://open.spotify.com/album/0LlIkhL2JWxakcF1ctmuGo) | 2:52 | 2022-06-14 | 2022-06-19 |
-| [甘噛みでおねがい](https://open.spotify.com/track/6kR2jpVbk0e7uBVjWkGuTC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/574wcOE5FGFbHlkEzgio8j) | 3:22 | 2023-05-16 |  |
+| [甘噛みでおねがい](https://open.spotify.com/track/6kR2jpVbk0e7uBVjWkGuTC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/574wcOE5FGFbHlkEzgio8j) | 3:22 | 2023-05-16 | 2023-05-18 |
 | [異世界クエスチョン \- 市瀬るぽ Remix](https://open.spotify.com/track/4BFBM9rjayfcwot7lDCt95) | [市瀬るぽ](https://open.spotify.com/artist/4JPnxsMo1F3QOkh9KGDWz1), [victream](https://open.spotify.com/artist/0RVrUXnfBslojFb2n8RQ53) | [異世界クエスチョン \(市瀬るぽ Remix\)](https://open.spotify.com/album/6uD56k2JjXreQgPGqcHgPh) | 3:53 | 2022-06-09 | 2022-06-11 |
 | [白い雪のプリンセスは](https://open.spotify.com/track/0WqE9VjtUmgohp92X7xiq9) | [Noboru](https://open.spotify.com/artist/2GKOMrDQ4GrdZjoQncM7w1) | [EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice](https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q) | 4:22 | 2022-06-14 | 2022-07-25 |
 | [百倍返し](https://open.spotify.com/track/2Y27T6eJuQgu32Hvr8Y4k9) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [百倍返し](https://open.spotify.com/album/0ivS9ZqIvLqJfJiUjj36m8) | 2:54 | 2022-07-24 | 2022-07-27 |

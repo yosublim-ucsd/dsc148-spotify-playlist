@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> Emerging Indie artists on the rise, updated every Wednesday\. Cover: Rukhsar Bandhukia , Artwork: Isu Kim
+> Emerging Indie artists on the rise, updated every Wednesday\. Cover: Judy on the run , Artwork: Isu Kim
 
-772 songs - 1 day 21 hr 58 min
+773 songs - 1 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Girl in the City](https://open.spotify.com/track/3AG3IcmabO1TNW6v5vqiyn) | [Wazim\-Murali](https://open.spotify.com/artist/4mGz7upzehumcuJIY4Yz1i), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Girl in the City](https://open.spotify.com/album/2ab7W7MqAdrD9lr6eA5WKY) | 4:11 | 2021-12-01 | 2022-01-13 |
 | [Good Way to Die \(Quarantine Edition\)](https://open.spotify.com/track/0CwM0Rek5A9NITdnvl6iZv) | [Ankit Dayal](https://open.spotify.com/artist/1LYqnlhjJsY9LwtjZ9FG4F) | [Good Way to Die \(Quarantine Edition\)](https://open.spotify.com/album/6OqPgKLSXTgAkQOrWQJNDB) | 3:07 | 2022-02-23 | 2022-03-03 |
 | [Gulaab](https://open.spotify.com/track/7MGBVRDJQ6zxx18FhvqzSP) | [Raya](https://open.spotify.com/artist/1l6dTow5Y8NYBGUAKExdOF) | [Gulaab](https://open.spotify.com/album/06emcAOErjaBVkKqChRTF2) | 4:32 | 2022-07-06 | 2022-09-29 |
+| [Gulmohar](https://open.spotify.com/track/0ijqrMfgYv1ZczeEHi8JnM) | [Judy on the run](https://open.spotify.com/artist/2Q40QosdAX9Ov9mlFO6oOB) | [Gulmohar](https://open.spotify.com/album/4gmhqZSrMlGL2hTFoT1Lyg) | 2:09 | 2023-05-17 |  |
 | [Gum Kahin](https://open.spotify.com/track/5asHox5iMFgGorPBifx6CC) | [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Gum Kahin](https://open.spotify.com/album/6h57I8dl2U4CWttokWEakz) | 2:51 | 2022-05-18 | 2023-01-12 |
 | [Gumshuda ki Talaash](https://open.spotify.com/track/2sqinCkMH0s95saWmrvQo0) | [Madmast](https://open.spotify.com/artist/33hUZqYtLAw9aOqExpKSOY) | [Gumshuda Ki Talaash](https://open.spotify.com/album/3W6OaxRNKgmqkpb9rSoayR) | 4:46 | 2022-10-19 | 2023-03-23 |
 | [Guzarish](https://open.spotify.com/track/524ovLWFCWeMbMlMQWp5Zf) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Guzarish](https://open.spotify.com/album/5KH94qpVVG6IEMrkJvJmSJ) | 4:18 | 2022-03-23 | 2023-01-12 |
@@ -258,7 +259,7 @@
 | [Hurricane](https://open.spotify.com/track/3Wl2Wum1ilUlbf3ZIrJclB) | [Aira](https://open.spotify.com/artist/3F1naOWGoduDoKSksZNyOI) | [Hurricane](https://open.spotify.com/album/1GZEWfnH5QEckY9ocOiUAA) | 2:43 | 2022-02-16 | 2023-01-12 |
 | [Hurt You](https://open.spotify.com/track/1sLNFiBDPcjjykYgeLRnZ1) | [SMX](https://open.spotify.com/artist/5wC07MWlGa5uaLaeY2TKKB) | [Hurt You](https://open.spotify.com/album/5Nne7JgYVLB7UyBbFM6SeC) | 4:02 | 2022-02-23 | 2022-03-03 |
 | [I Believe In You](https://open.spotify.com/track/5sz7xhu6LxJnRjomGlosZb) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Stan Johnson](https://open.spotify.com/artist/6L0Xr7bS6AlPTdd9EGCjfY) | [I Believe In You](https://open.spotify.com/album/72dxPaWwKAdV8UALIB1Ib7) | 4:15 | 2023-03-22 | 2023-05-04 |
-| [I Can't Find Myself](https://open.spotify.com/track/1R3LOBi9EUDaKEguImGzKw) | [Aishu Rittika](https://open.spotify.com/artist/6SCNcYxmoMtoZwlwl2rmWq) | [I Can't Find Myself](https://open.spotify.com/album/50LzagZpAgf7G1DT6ye2OX) | 2:25 | 2023-03-08 |  |
+| [I Can't Find Myself](https://open.spotify.com/track/1R3LOBi9EUDaKEguImGzKw) | [Aishu Rittika](https://open.spotify.com/artist/6SCNcYxmoMtoZwlwl2rmWq) | [I Can't Find Myself](https://open.spotify.com/album/50LzagZpAgf7G1DT6ye2OX) | 2:25 | 2023-03-08 | 2023-05-18 |
 | [i don't sleep enough](https://open.spotify.com/track/1KvSW4tCk5EfQi8JKyQi7d) | [Anubha Kaul](https://open.spotify.com/artist/6Uc6gvNu6F0FOnnwU8M0pS), [Aman Jagwani](https://open.spotify.com/artist/1tPPcb50f30mPgZdBq4hWx) | [i don't sleep enough](https://open.spotify.com/album/5lx2QfBvJRdxYpqqnVupgg) | 3:17 | 2022-05-25 | 2022-09-09 |
 | [I Hate U](https://open.spotify.com/track/6jEtt7vITwg5BlAYrVUWHe) | [Seerat Malhotra](https://open.spotify.com/artist/16O4go27A6cL6QMHhSbvm5), [Darren D'souza](https://open.spotify.com/artist/5uD7qjF1oIKHgaWFkZOmxs) | [I Hate U](https://open.spotify.com/album/05Y9BXv79TD21cxlinbxkS) | 3:01 | 2022-03-02 | 2022-03-17 |
 | [I Just Wish That](https://open.spotify.com/track/5IJG4G9UTdHxkiY1GyM0KS) | [Aary](https://open.spotify.com/artist/2wo8VCzhPjs1ofWeIQ7fkM) | [I Just Wish That](https://open.spotify.com/album/4knc7szD7YKinOCTiFn4uM) | 3:24 | 2022-10-19 | 2023-01-26 |

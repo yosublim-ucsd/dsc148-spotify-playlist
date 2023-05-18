@@ -11913,6 +11913,24 @@
     },
     {
       "album": {
+        "name": "Pieces (Acoustic Version)",
+        "url": "https://open.spotify.com/album/7jbL8QMpqsZ3BaC2VM9HK1"
+      },
+      "artists": [
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230194,
+      "name": "Pieces (Acoustic Version)",
+      "url": "https://open.spotify.com/track/71Jj8XItBthCRvls73F7lm"
+    },
+    {
+      "album": {
         "name": "Pieces (The Remixes)",
         "url": "https://open.spotify.com/album/25r4xCO22Xg4WmRmqJX98c"
       },

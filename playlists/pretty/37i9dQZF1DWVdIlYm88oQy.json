@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 38680,
+  "num_followers": 38720,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTlhNjM1ZDZiNjVjZjNhOTc0MmU3ZGM1OGQ2ZGM1OGZkNjlkNmJm",
+  "snapshot_id": "MCxjODZhM2Q5ZDdiOTk1MjM4ZDRhMmQ2YmIzODMzZGFlYjQ1Mjk0ZWZj",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
+        "name": "S\u00faper Exitos",
+        "url": "https://open.spotify.com/album/2wbgFbyfAty8Wgt7aUzMO7"
+      },
+      "artists": [
+        {
+          "name": "Basilio",
+          "url": "https://open.spotify.com/artist/6h8tckbGautdVT00tAzTNX"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Cisne Cuello Negro",
+      "url": "https://open.spotify.com/track/5YjxeOP6VKBnSvQYcPjDDj"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
         "name": "Aqui Esta el Reencuentro",
         "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 290456,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
-        "name": "S\u00faper Exitos",
-        "url": "https://open.spotify.com/album/2wbgFbyfAty8Wgt7aUzMO7"
-      },
-      "artists": [
-        {
-          "name": "Basilio",
-          "url": "https://open.spotify.com/artist/6h8tckbGautdVT00tAzTNX"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Cisne Cuello Negro",
-      "url": "https://open.spotify.com/track/5YjxeOP6VKBnSvQYcPjDDj"
     },
     {
       "added_at": "2023-02-17 20:59:31",

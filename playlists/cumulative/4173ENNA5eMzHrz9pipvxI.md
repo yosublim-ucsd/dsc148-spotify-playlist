@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  LUM!X &amp; LAWRENT
 
-782 songs - 1 day 13 hr 26 min
+783 songs - 1 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,6 +548,7 @@
 | [Phonky Halloween](https://open.spotify.com/track/2n0oz5PcFsGWUYjcx1Uzz5) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O), [MXRCVRY](https://open.spotify.com/artist/7fcxzGqZfSRGOZp2KyCxpf) | [Phonky Halloween](https://open.spotify.com/album/7340hFLceufUfJ96Lr6w3d) | 1:48 | 2022-10-28 | 2022-11-11 |
 | [PHØNKY DR3AM$](https://open.spotify.com/track/08AMou5UO617XrWMVBXgRi) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PHØNKY DR3AM$](https://open.spotify.com/album/3ZJb4QWWl0yUWEx94X449a) | 2:20 | 2023-04-13 | 2023-04-28 |
 | [Pieces](https://open.spotify.com/track/1bQeHzGMsZFQx9WRARaBJq) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Pieces](https://open.spotify.com/album/7pcxmOlHPAFeJEXJWF3ZqS) | 2:44 | 2022-11-10 | 2022-11-25 |
+| [Pieces \(Acoustic Version\)](https://open.spotify.com/track/71Jj8XItBthCRvls73F7lm) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Pieces \(Acoustic Version\)](https://open.spotify.com/album/7jbL8QMpqsZ3BaC2VM9HK1) | 3:50 | 2023-05-17 |  |
 | [Pieces \(Mind Electric Remix\)](https://open.spotify.com/track/1xNk84L6jyZ1SvQu4Mi4WG) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Mind Electric](https://open.spotify.com/artist/69980mQFGok7v7sniw1zgL) | [Pieces \(The Remixes\)](https://open.spotify.com/album/25r4xCO22Xg4WmRmqJX98c) | 3:21 | 2023-03-17 | 2023-03-25 |
 | [Pills](https://open.spotify.com/track/5arYn3Yofxkw0CCM3XkiCE) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Pills](https://open.spotify.com/album/7mWEltJZJ16efLQawS02y0) | 3:17 | 2023-05-11 |  |
 | [Play My Jam](https://open.spotify.com/track/4qxbNQHezyDhsVtoQmnPrw) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [Play My Jam](https://open.spotify.com/album/5P7ZetKznBwKsFdCpkrNWR) | 2:55 | 2022-07-22 | 2022-08-06 |

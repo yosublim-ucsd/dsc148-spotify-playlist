@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 79880,
+  "num_followers": 79925,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWQ5NGEwN2VkNmNlOWJmMjFmZGVmMGFiNzg5NDZhN2MzMDg4NTBi",
+  "snapshot_id": "MCw2MzQ0NThiOWIzNDI4NGRmOWM2NDgzNjg5NGY0MGUyYzljNjRjNDJj",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "The Legendary Adventures Of A Filter King",
+        "url": "https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO"
+      },
+      "artists": [
+        {
+          "name": "69",
+          "url": "https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg"
+        }
+      ],
+      "duration_ms": 387371,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
         "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 367500,
       "name": "Lightyears",
       "url": "https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "The Legendary Adventures Of A Filter King",
-        "url": "https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO"
-      },
-      "artists": [
-        {
-          "name": "69",
-          "url": "https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg"
-        }
-      ],
-      "duration_ms": 387371,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U"
     },
     {
       "added_at": "2023-04-28 04:00:00",

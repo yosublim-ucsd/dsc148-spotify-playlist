@@ -1,12 +1,12 @@
 {
   "description": "Finally, the perfect roadtrip playlist is here. Sing along to these classics and new hits, and discover new favorites!",
-  "num_followers": 318633,
+  "num_followers": 318621,
   "original_name": "Road Trip Songs",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MTU5NixiN2JjOGRkZTM2N2NlNDE4YjZkNGQxN2I4N2Y3NDBjOTY5OTdjNWQx",
+  "snapshot_id": "MTU5NywyYmFmMDVkZjYyMGJlMzAxOWU1YWQzZTBkYTE4NDc3MjNjZWMyM2M4",
   "tracks": [
     {
       "added_at": "2023-05-15 06:00:18",
@@ -807,6 +807,26 @@
       "duration_ms": 202733,
       "name": "Some Kind Of Wonderful - Remastered 1999",
       "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
+    },
+    {
+      "added_at": "2023-05-17 18:01:41",
+      "album": {
+        "name": "Beautiful Life",
+        "url": "https://open.spotify.com/album/7M43VUPqhb8hoV1E0W4SN5"
+      },
+      "artists": [
+        {
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "SN\u00c4RE",
+          "url": "https://open.spotify.com/artist/6b60kfB436FyoRJfBxLxzh"
+        }
+      ],
+      "duration_ms": 158101,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/2PrPHFSqYQFjl4JabUKhbY"
     },
     {
       "added_at": "2023-05-15 06:00:18",

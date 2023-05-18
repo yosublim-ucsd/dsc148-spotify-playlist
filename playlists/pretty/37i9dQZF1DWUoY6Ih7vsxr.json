@@ -1,12 +1,12 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 201773,
+  "num_followers": 202001,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjllZDE2MTVhMDcwODQzNjc2YzBlYTNmMzM3M2U2MTNhZDRkOGQy",
+  "snapshot_id": "MCwxOGFmZjExZmFmYmEyZGI3Mjg4MGFhYmViZGM4ZGQ4OTZlNzJlZmNk",
   "tracks": [
     {
       "added_at": "2022-04-19 07:27:57",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "No.1",
-        "url": "https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb"
-      },
-      "artists": [
-        {
-          "name": "TEEN TOP",
-          "url": "https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Miss Right",
-      "url": "https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 218566,
       "name": "Beautiful Night",
       "url": "https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
+        "name": "No.1",
+        "url": "https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb"
+      },
+      "artists": [
+        {
+          "name": "TEEN TOP",
+          "url": "https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Miss Right",
+      "url": "https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau"
     },
     {
       "added_at": "2022-04-19 07:27:57",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "GD&TOP",
-        "url": "https://open.spotify.com/album/6M11igFHxA92s2ks2uqu6F"
-      },
-      "artists": [
-        {
-          "name": "GD&TOP",
-          "url": "https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn"
-        }
-      ],
-      "duration_ms": 186174,
-      "name": "High High",
-      "url": "https://open.spotify.com/track/00Luoss7SGaxzTEy94cfia"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
         "name": "Shock Of The New Era",
         "url": "https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 225594,
       "name": "Shock",
       "url": "https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
+        "name": "GD&TOP",
+        "url": "https://open.spotify.com/album/6M11igFHxA92s2ks2uqu6F"
+      },
+      "artists": [
+        {
+          "name": "GD&TOP",
+          "url": "https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn"
+        }
+      ],
+      "duration_ms": 186174,
+      "name": "High High",
+      "url": "https://open.spotify.com/track/00Luoss7SGaxzTEy94cfia"
     },
     {
       "added_at": "2022-04-19 07:27:57",

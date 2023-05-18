@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Ship Wrek
 
-1,061 songs - 2 day 14 hr 15 min
+1,062 songs - 2 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Hot For You](https://open.spotify.com/track/6Ve7bYSnaFZgKiRw6w4jj7) | [Seolo](https://open.spotify.com/artist/0cYQPenhK6K02oHR5Wb0R1), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Hot For You](https://open.spotify.com/album/354JnCoMwfkCyoS0lVJ9jk) | 3:23 | 2021-11-26 | 2022-04-23 |
 | [Hot In Here](https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ) | [Hot In Here](https://open.spotify.com/album/2MrCpTiC2GIarhN5FrTGHV) | 2:31 | 2022-01-14 | 2022-03-12 |
 | [House All The Time](https://open.spotify.com/track/3K3asUF88k0nKWtkm4eqLr) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [House All The Time](https://open.spotify.com/album/5qtlIlnuhHC3puaGDNYjVc) | 2:44 | 2023-02-03 |  |
+| [House Party](https://open.spotify.com/track/0WgaK1uxupCdKjCfwdJizy) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus) | [House Party](https://open.spotify.com/album/6KV9kA8AtLOo5OLfY8gXLL) | 2:20 | 2023-05-12 |  |
 | [House Stepper](https://open.spotify.com/track/0IfBdyCaCfLtXaSWtvOlk5) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [House Stepper](https://open.spotify.com/album/4vw7tuqc50NmnBTU0eOeqh) | 5:47 | 2021-11-26 | 2022-01-06 |
 | [Housemusic](https://open.spotify.com/track/6bBSlQDNFusI4R7yMdSBfB) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O), [Jess Kidd](https://open.spotify.com/artist/00PPjSt954K0mT5tDgfOan) | [Housemusic](https://open.spotify.com/album/4zx3amdm3TIskVdAzKKc4q) | 2:41 | 2022-04-29 | 2022-09-10 |
 | [How I Do It](https://open.spotify.com/track/04CaVDsZeXRVJIENZrHRbf) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v) | [How I Do It](https://open.spotify.com/album/3hjCc1QNHF48YAioBKAKwD) | 2:35 | 2023-02-24 | 2023-03-25 |
@@ -833,7 +834,7 @@
 | [Smack](https://open.spotify.com/track/2hHy4cKWVnOTgj9Cw22zQf) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Smack](https://open.spotify.com/album/34xztdsAM3OQdpQBblZU7y) | 2:33 | 2023-04-14 |  |
 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 | 2022-09-30 | 2023-04-15 |
 | [Smoke](https://open.spotify.com/track/5oAdBATu5QbXvBrtpCe0Mk) | [Mikey Barreneche](https://open.spotify.com/artist/7qGy8DUTeuBqoyN6gUf3gd) | [Smoke](https://open.spotify.com/album/52Bf1M1i2VhaV7izP9piKg) | 2:57 | 2023-03-31 | 2023-05-15 |
-| [Snatch](https://open.spotify.com/track/2WnWl10jDfmFHFFsQNAiAD) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Snatch](https://open.spotify.com/album/3NBR8469FQQ4tq3idiztto) | 4:18 | 2023-04-14 |  |
+| [Snatch](https://open.spotify.com/track/2WnWl10jDfmFHFFsQNAiAD) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Snatch](https://open.spotify.com/album/3NBR8469FQQ4tq3idiztto) | 4:18 | 2023-04-14 | 2023-05-18 |
 | [So High](https://open.spotify.com/track/3umj4Hoq8uG2aXpuV01WCA) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [So High](https://open.spotify.com/album/6JODn5MLAj2RfrFjPusWCJ) | 3:39 | 2022-04-22 | 2022-05-14 |
 | [So Hot](https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [So Hot EP](https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV) | 3:32 | 2022-05-13 | 2022-05-28 |
 | [So Right](https://open.spotify.com/track/21NMfPtUAyJAeiv0gbfGzC) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [So Right](https://open.spotify.com/album/46TOL7GUSFrRMMzzduhkG3) | 3:21 | 2022-10-14 | 2022-12-29 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 03 (2023 Ver.)",
+        "url": "https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
+          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291546,
+      "name": "Black Reverie - 2023 Version",
+      "url": "https://open.spotify.com/track/2wpG1jlGLA1WFFRENepGV5"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 05",
         "url": "https://open.spotify.com/album/5TiyTimNcQobXp7T8aT5EH"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 230933,
       "name": "Damascus Cocktail",
       "url": "https://open.spotify.com/track/5XkAwhmHyr3u9mrQEs1HlP"
@@ -1097,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Luna- (2022 Version)",
+        "url": "https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u5cf0\u7d50\u83ef (CV.\u5e0c\u6c34\u3057\u304a)",
+          "url": "https://open.spotify.com/artist/0dQIFp0S9pK2pAZF4MkxhN"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262386,
+      "name": "\u30d7\u30e9\u30b9\u30c1\u30c3\u30af\u30fb\u30a2\u30f3\u30d6\u30ec\u30e9 - 2022 Version",
+      "url": "https://open.spotify.com/track/4k7LuTHIsMdZNlhGPDRoC0"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 03 (2023 Version)",
         "url": "https://open.spotify.com/album/3U2w2LF7VOu4U0JwDwwDoN"
       },
@@ -1108,7 +1144,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 217826,
       "name": "\u30e9\u30d3\u30ea\u30f3\u30b9\u30fb\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9 - 2023 Version",
       "url": "https://open.spotify.com/track/38KKysXvXOTjmLSBzNkAG1"

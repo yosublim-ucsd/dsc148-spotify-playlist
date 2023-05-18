@@ -9650,10 +9650,28 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 184829,
       "name": "Hundred Acre Heartbreaker",
       "url": "https://open.spotify.com/track/4OQpW6rJ3pJqp9mRK9kD4M"
+    },
+    {
+      "album": {
+        "name": "Hundred Acre Heartbreaker",
+        "url": "https://open.spotify.com/album/6QGuoA9HEPR1h37SmsuK8G"
+      },
+      "artists": [
+        {
+          "name": "Dusty Black",
+          "url": "https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184829,
+      "name": "Hundred Acre Heartbreaker",
+      "url": "https://open.spotify.com/track/5920vpHuU5wzkL6bgJfbat"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Parker McCollum, Bailey Zimmerman, Jason Aldean and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,259 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,511 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 74 | [Medals For Mothers](https://open.spotify.com/track/4G7vWcAoCZzjldPtXmyBmD) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [Medals For Mothers](https://open.spotify.com/album/45VghDmrR2mKGhxTJnELoE) | 2:45 |
 | 75 | [Taking It Home](https://open.spotify.com/track/6aCTLq9usgavp0SN0Db7SW) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [Taking It Home](https://open.spotify.com/album/3r1xaAbNVjQIjjmmBcGFO3) | 2:49 |
 
-Snapshot ID: `MCw0OTY0YTM2NzEzZGY4ZjE5MDM2MGJjY2EzMTk4ZTljMjUyOGY0MDI2`
+Snapshot ID: `MCw0MDI4ODEwNWU5NmY3YzhmZDExOWIyNDIyZjNhZjczNWU1NjM4MTUz`

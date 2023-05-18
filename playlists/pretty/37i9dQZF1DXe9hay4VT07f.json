@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Alkaline",
-  "num_followers": 389431,
+  "num_followers": 389662,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjJjODhkMjFhOWY1OGYyMjEwOTA0YzkzYTE1ODQ2MzQ0ODI3OTA3",
+  "snapshot_id": "MCwwMDEzMWFjOWQ0ODYyMzZiN2JmOGI2MTBmODdiMDkzMjAyMWQ5Mzc0",
   "tracks": [
     {
       "added_at": "2023-05-14 20:18:19",
@@ -443,22 +443,18 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
       },
       "artists": [
         {
           "name": "Popcaan",
           "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 166801,
-      "name": "Aboboyaa (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+      "duration_ms": 215776,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -523,58 +519,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Mr Vegas: The Hits",
-        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Heads High",
-      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Speed Off",
-        "url": "https://open.spotify.com/album/4VGPlCegWF5KHqOmYn8cXp"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "DJ MAC",
-          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
-        }
-      ],
-      "duration_ms": 174001,
-      "name": "Speed Off",
-      "url": "https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "No Games",
-        "url": "https://open.spotify.com/album/6GCvpB2OEXJfXRQYc4Ti42"
-      },
-      "artists": [
-        {
-          "name": "Serani",
-          "url": "https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "No Games",
-      "url": "https://open.spotify.com/track/2zRR41MU5nXB1LeBkyjgtV"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/6Yf1LMB9zCa79a7rwJ5ZCH"
       },
@@ -599,6 +543,58 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "Speed Off",
+        "url": "https://open.spotify.com/album/4VGPlCegWF5KHqOmYn8cXp"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        }
+      ],
+      "duration_ms": 174001,
+      "name": "Speed Off",
+      "url": "https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Mr Vegas: The Hits",
+        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 211333,
+      "name": "Heads High",
+      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "No Games",
+        "url": "https://open.spotify.com/album/6GCvpB2OEXJfXRQYc4Ti42"
+      },
+      "artists": [
+        {
+          "name": "Serani",
+          "url": "https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "No Games",
+      "url": "https://open.spotify.com/track/2zRR41MU5nXB1LeBkyjgtV"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Good Comfort",
         "url": "https://open.spotify.com/album/6RF60O8kXnv9Ik21vLEOem"
       },
@@ -619,18 +615,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
       "artists": [
         {
           "name": "Popcaan",
           "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 215776,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Maestro",
-        "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Romie",
-      "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "In The Morning (Let Your Love Come In)",
         "url": "https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 134785,
       "name": "In The Morning (Let Your Love Come In) - Original Radio Edit",
       "url": "https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Maestro",
+        "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Romie",
+      "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Good 2 Go",
         "url": "https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 190119,
       "name": "Pon Di Cocky",
       "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "Vibes Weekend",
+        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Vibes Weekend",
+      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Needle Eye - Single",
         "url": "https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 222222,
       "name": "Yeah Yeah",
       "url": "https://open.spotify.com/track/5I6zA18QlsgGLwdcS0OKZI"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Vibes Weekend",
-        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Vibes Weekend",
-      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Riddim Driven: Gully Slime",
-        "url": "https://open.spotify.com/album/0kpVC3GfFWpsgwQOE1dXH8"
-      },
-      "artists": [
-        {
-          "name": "Tony Matterhorn",
-          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
-        }
-      ],
-      "duration_ms": 224880,
-      "name": "Goodas Mi Back Mi Back",
-      "url": "https://open.spotify.com/track/0vPBj8SXXsIdBwz4FIzcT8"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Fling",
         "url": "https://open.spotify.com/album/4XDwOg42iBKH7lx6dg33OC"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 168045,
       "name": "Fling",
       "url": "https://open.spotify.com/track/0Ocz4RqsoxmtwcZjWnjYlp"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Riddim Driven: Gully Slime",
+        "url": "https://open.spotify.com/album/0kpVC3GfFWpsgwQOE1dXH8"
+      },
+      "artists": [
+        {
+          "name": "Tony Matterhorn",
+          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+        }
+      ],
+      "duration_ms": 224880,
+      "name": "Goodas Mi Back Mi Back",
+      "url": "https://open.spotify.com/track/0vPBj8SXXsIdBwz4FIzcT8"
     },
     {
       "added_at": "2023-05-14 20:18:19",

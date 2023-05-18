@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1327,
+  "num_followers": 1331,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmI5OTZiMDg5M2E1MzgyOTI0YTlmYWU4NDAyMjg4MzE0ZDAzZDA2",
+  "snapshot_id": "MCxhM2RlNDM0OTA3MzAyMmUzMzBiNzk4ZjY1NDdlNGI3NmVlOWE4YWM5",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
-        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
-      },
-      "artists": [
-        {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "La Merienda - Remasterizado",
-      "url": "https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Algo Que Decirte",
         "url": "https://open.spotify.com/album/2wXtS4ELgf5cab27G8Yqqf"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 165666,
       "name": "Bate Con La Cucharita",
       "url": "https://open.spotify.com/track/7H3ELsx12mCquQRYs4v7YP"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "La Merienda - Remasterizado",
+      "url": "https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -459,8 +459,8 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Bailar\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh"
-      },
-      "artists": [
-        {
-          "name": "Cantando con Adriana",
-          "url": "https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk"
-        }
-      ],
-      "duration_ms": 101040,
-      "name": "Aguita Y Jabon",
-      "url": "https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 131600,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Bailar\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh"
+      },
+      "artists": [
+        {
+          "name": "Cantando con Adriana",
+          "url": "https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk"
+        }
+      ],
+      "duration_ms": 101040,
+      "name": "Aguita Y Jabon",
+      "url": "https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -599,8 +599,8 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
     },
     {
       "added_at": "2023-03-17 09:43:03",

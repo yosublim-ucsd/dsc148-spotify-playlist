@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 433472,
+  "num_followers": 433548,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTZiY2Y1ZjMyOTdmMmMyZjEwNzhkZjY0NjI5NGQ5OGVjMGEzZjFi",
+  "snapshot_id": "MCwzZWZlZDljOTIxNDJkYzZhNDg5MjU4NDY5ODMzNGNiMWQwMmYwOTM3",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Tennis Court",
+        "url": "https://open.spotify.com/album/7EUGqK1EQw2k02BFR1hu47"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 222362,
+      "name": "Swingin Party",
+      "url": "https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Giralunas, Un Homenaje a L.E.Aute",
         "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Tennis Court",
-        "url": "https://open.spotify.com/album/7EUGqK1EQw2k02BFR1hu47"
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 222362,
-      "name": "Swingin Party",
-      "url": "https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6"
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -531,22 +547,6 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -595,6 +595,22 @@
       "duration_ms": 191813,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 165309,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -679,22 +695,6 @@
       "duration_ms": 176497,
       "name": "It's Not Living (If It's Not with You)",
       "url": "https://open.spotify.com/track/0rZLcXPM6ozJK7BF28F9mK"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Come As You Are",
-        "url": "https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 165309,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Creep",
         "url": "https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 177143,
       "name": "Creep",
       "url": "https://open.spotify.com/track/7fu3lFEf8dVfFuvKxhTPwP"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Robyn Sherwell",
+        "url": "https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO"
+      },
+      "artists": [
+        {
+          "name": "Robyn Sherwell",
+          "url": "https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs"
+        }
+      ],
+      "duration_ms": 170399,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Late Night Tales: \u00d3lafur Arnalds",
         "url": "https://open.spotify.com/album/7tS1qpuzGoArfIPnmXkPad"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Robyn Sherwell",
-        "url": "https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO"
-      },
-      "artists": [
-        {
-          "name": "Robyn Sherwell",
-          "url": "https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs"
-        }
-      ],
-      "duration_ms": 170399,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "The Fifth",
         "url": "https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Transfiguration of Vincent",
-        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Let\u2019s Dance",
-      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Sound Of A Woman",
         "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 188346,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Transfiguration of Vincent",
+        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Let\u2019s Dance",
+      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Black Hole Sun",
-        "url": "https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm"
-      },
-      "artists": [
-        {
-          "name": "Nouela",
-          "url": "https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30"
-        }
-      ],
-      "duration_ms": 275966,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Cats On Trees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 181786,
       "name": "Love You Like a Love Song",
       "url": "https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Black Hole Sun",
+        "url": "https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm"
+      },
+      "artists": [
+        {
+          "name": "Nouela",
+          "url": "https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30"
+        }
+      ],
+      "duration_ms": 275966,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Nocturnes",
-        "url": "https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH"
-      },
-      "artists": [
-        {
-          "name": "Meadowlark",
-          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
-        }
-      ],
-      "duration_ms": 227064,
-      "name": "About You Now",
-      "url": "https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "It Must Have Been Love",
         "url": "https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 247426,
       "name": "It Must Have Been Love",
       "url": "https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH"
+      },
+      "artists": [
+        {
+          "name": "Meadowlark",
+          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+        }
+      ],
+      "duration_ms": 227064,
+      "name": "About You Now",
+      "url": "https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Bang Bang (My Baby Shot Me Down)",
+        "url": "https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 235418,
       "name": "Sunflower, Vol. 6",
       "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Bang Bang (My Baby Shot Me Down)",
-        "url": "https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 153500,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk"
     },
     {
       "added_at": "2022-03-22 14:40:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY?si=B\-gkqPYAQ3CDQqrj40ZpDQ"> Kwesi Arthur</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,413 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,434 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 24 | [Digits \- Remix](https://open.spotify.com/track/5Bnp61rdlcjT26aQ7fCBsG) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Digits \(Remix\)](https://open.spotify.com/album/1lAUxhieMI4j2gjhOAq1OT) | 3:26 |
 | 25 | [Zombie](https://open.spotify.com/track/3L2kpYSJnXqqz9vKnpQ6Xw) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Zombie](https://open.spotify.com/album/0r8KRuOOKTuiDnjsZw0rYn) | 2:44 |
 | 26 | [We Outside](https://open.spotify.com/track/2dpRceExYaJlY1kiWJazgm) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [Cityboy](https://open.spotify.com/artist/7nvcEfeWUdqDgE0SDvaULw), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [We Outside](https://open.spotify.com/album/0bUBa3JTaOIJvjBWLbrzCT) | 3:45 |
-| 27 | [Fire](https://open.spotify.com/track/75PVJ4G4p6lBGSIOn1jhoc) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fire](https://open.spotify.com/album/2hlL9lYpRlJrjtlUeazYz4) | 4:07 |
+| 27 | [Fire](https://open.spotify.com/track/75PVJ4G4p6lBGSIOn1jhoc) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fire](https://open.spotify.com/album/2hlL9lYpRlJrjtlUeazYz4) | 4:04 |
 | 28 | [Feelingx](https://open.spotify.com/track/5xYLT71o8zWLyyiwIraq9v) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [2 TIMES A GUY](https://open.spotify.com/album/5rpbWF8MqB3At9rdJN9ZUs) | 2:02 |
 | 29 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 |
 | 30 | [Accra](https://open.spotify.com/track/07IGm3D3QJrZkrpqWovJi6) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Akan](https://open.spotify.com/artist/3GBEpfWyKBlONW7DO4Y0ks) | [The Unbroken](https://open.spotify.com/album/2j44U6xDDXZtlQQ6UUhkpY) | 4:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Call My Name \(Odoyewu\)](https://open.spotify.com/track/661N1vOxyokH5dQwNqlryC) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [Trig Triga](https://open.spotify.com/artist/1B9BzKM9kFTw5vjRsXUdff) | [BEEN ONE](https://open.spotify.com/album/3nhemfoUj5gWPmzAwg6nHg) | 3:12 |
 | 80 | [SUV](https://open.spotify.com/track/2PeErwVrlNWQe9rUuNH7CN) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [SUV](https://open.spotify.com/album/54RojlSYjybyjnpiwy18tE) | 2:58 |
 
-Snapshot ID: `MCw2MzIyY2MyZGY5ZWRkMjFlODU5MDZhMzhkNGFlNGQ5ODFhNjNmZjIz`
+Snapshot ID: `MCxkNTEwMjM2ZWNkODAxZmJjZjc0MzQyYjdiMzAxYzA3Y2E3ZTVmM2Vl`

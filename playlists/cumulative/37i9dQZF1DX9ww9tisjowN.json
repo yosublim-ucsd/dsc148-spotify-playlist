@@ -382,10 +382,28 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 216093,
       "name": "GOLD",
       "url": "https://open.spotify.com/track/1ZsZk1y1FF25JXT0ojTz2X"
+    },
+    {
+      "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/2nxVvU7LqydShGwRUuto85"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/5VTYSiBAkyZ4DCqilSU40y"
     },
     {
       "album": {
@@ -800,6 +818,24 @@
       "duration_ms": 196120,
       "name": "PING PONG! (feat. YMCK)",
       "url": "https://open.spotify.com/track/3J7aROvcIXinMbZd2LzL3B"
+    },
+    {
+      "album": {
+        "name": "META",
+        "url": "https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a"
+      },
+      "artists": [
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202858,
+      "name": "Please Play-Bite",
+      "url": "https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny"
     },
     {
       "album": {
@@ -1492,7 +1528,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 202858,
       "name": "\u7518\u565b\u307f\u3067\u304a\u306d\u304c\u3044",
       "url": "https://open.spotify.com/track/6kR2jpVbk0e7uBVjWkGuTC"

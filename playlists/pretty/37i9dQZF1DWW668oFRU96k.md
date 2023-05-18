@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x Sasha Alex Sloan
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,380 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,421 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 10 | [THE LIGHT \(Official Spring Break Island 2023 Anthem\)](https://open.spotify.com/track/3zDmS5klPfvRphlDa2wvqR) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D), [Toby Dean](https://open.spotify.com/artist/33EcsCbCUpUptoUsdhj7JS) | [THE LIGHT \(Official Spring Break Island 2023 Anthem\)](https://open.spotify.com/album/08x3atROBkY9JREXTOD3G4) | 3:04 |
 | 11 | [Direction](https://open.spotify.com/track/1Ey4xZ7DQywyL5LshrK9e4) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [KEYTO](https://open.spotify.com/artist/5PsU7pGqDwfuI7RWNblSGz) | [Direction](https://open.spotify.com/album/4tmUzN1n52w8S8kl76VelO) | 2:23 |
 | 12 | [Love Brought Us Here](https://open.spotify.com/track/4KEMo0qapAy84Y7bH1cd2V) | [James Stikå](https://open.spotify.com/artist/1cktEjwmtAVqn8tJj5fQcT), [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [Love Brought Us Here](https://open.spotify.com/album/0i63QR3bUnXSNv9rLS5Mit) | 2:22 |
-| 13 | [Lonely in Tokyo \(Phonk House Remix\)](https://open.spotify.com/track/6bB7b5MDbc49MvGg9F5mrn) | [MIREI](https://open.spotify.com/artist/7pZ9s793JnnIIJj4eZHpZW), [BENXNI](https://open.spotify.com/artist/6XH0kHK5G7kGgDGu2Id6a2) | [Lonely In Tokyo EP \(JPN\)](https://open.spotify.com/album/7pwSjRT1WP2wMNbQqU0lQd) | 2:54 |
+| 13 | [Lonely in Tokyo \(Phonk House Remix\)](https://open.spotify.com/track/6bB7b5MDbc49MvGg9F5mrn) | [MIREI](https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw), [BENXNI](https://open.spotify.com/artist/6XH0kHK5G7kGgDGu2Id6a2) | [Lonely In Tokyo EP \(JPN\)](https://open.spotify.com/album/7pwSjRT1WP2wMNbQqU0lQd) | 2:54 |
 | 14 | [TA HI HO](https://open.spotify.com/track/5lnSFlLBnwNmJ2gI03mWtn) | [Mawang](https://open.spotify.com/artist/5xM0GaEgdDWgYowzLLAQbn), [Ezzarush](https://open.spotify.com/artist/58CMaU0486iJ6bUqRigG5P), [Mita Kulsum](https://open.spotify.com/artist/03iOD011SEtI8v6Kj7Wmeq) | [TA HI HO](https://open.spotify.com/album/5lGU4IUpz1eVr3pFkBNwOy) | 2:35 |
 | 15 | [Never Let Me Go](https://open.spotify.com/track/7rSFf5LyMWCF2lMZJWhnOY) | [Brian Rian Rehan](https://open.spotify.com/artist/5CTKQxuMX0Vto97Ofqn2KN) | [Never Let Me Go](https://open.spotify.com/album/6BgmEI778jzHSmZy0ajIZY) | 3:14 |
 | 16 | [With You](https://open.spotify.com/track/4n9IOFYOaPNkt5Jn6ocqDq) | [Danzzle](https://open.spotify.com/artist/2D6URq5N3RhihiS3Onoe8r), [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [With You](https://open.spotify.com/album/1YdkvMC3fW7qbP7xofDfOd) | 3:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 79 | [Samsara](https://open.spotify.com/track/4U91micKPBG76g9oKoICVk) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Samsara / Hangover](https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo) | 2:58 |
 | 80 | [Hideaway \(feat\. Dominique\)](https://open.spotify.com/track/5N9b7r6gMdyTF6bT0xcftS) | [Maison Ware](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA), [Dominique](https://open.spotify.com/artist/7fjxC1mJmxy7IQgtAFHMAc) | [Hideaway \(feat\. Dominique\)](https://open.spotify.com/album/37VPSyKKW5PgbBk3d9YKfw) | 4:27 |
 
-Snapshot ID: `MCw1YTI3ZGY0YTQ5MDYzODU5ODQ1ZWI2OWExZGJkNDliNDY2NTE4ZWI3`
+Snapshot ID: `MCw1NWEzNzRjM2U0ZTQyNWZjYjEyMjQ0MjMxMzJiYTljOTJlMDc3NWNk`

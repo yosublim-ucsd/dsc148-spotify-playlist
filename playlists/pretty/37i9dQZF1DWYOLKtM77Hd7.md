@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 | 56 | [What Christmas Means To Me](https://open.spotify.com/track/1jSi8wHEny7WwvBeA7KMpA) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Holiday 2020](https://open.spotify.com/album/23UAHj0aCS6hTsEcV2hDaW) | 2:27 |
 | 57 | [Mele Kalikimaka \(Merry Christmas\)](https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 |
 
-Snapshot ID: `MCwxMDE1ZTljNTJjMDM3NWQzZTM3Mzk0MzIxNzRjYjI4MmQxZWI1ZmM2`
+Snapshot ID: `MCw4ZWNiNDgxY2IzNzdhYTM3OTkyMGJlZTJiNDBkNDBlYjYwZWViYWFi`

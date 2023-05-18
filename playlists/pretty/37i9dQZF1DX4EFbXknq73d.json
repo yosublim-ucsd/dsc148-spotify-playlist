@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 26594,
+  "num_followers": 26755,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWJlYmM1MmM2ZjkyY2NiZDM5NWFjZmFhNjVhODNhYTVlYjY2MDM5",
+  "snapshot_id": "MCxmZmY2N2QxYmUzYTMzMmI0YjgxNTAwYTgzZmM0OGFiNWMyNWNiZTI0",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "The Waterfall II",
-        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 277093,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "End Of The World Party (Just In Case)",
         "url": "https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 299066,
       "name": "Shine It",
       "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "The Waterfall II",
+        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 277093,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "There and Back Again",
-        "url": "https://open.spotify.com/album/5iiVRYSRpc2DIU1efD3prj"
-      },
-      "artists": [
-        {
-          "name": "Phil Lesh & Friends",
-          "url": "https://open.spotify.com/artist/0cYoU0s24ehE9gPplU6v7J"
-        },
-        {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
-        }
-      ],
-      "duration_ms": 540893,
-      "name": "St Stephen (feat. The Derek Trucks Band) - Live Version",
-      "url": "https://open.spotify.com/track/2a4lOXRcvctlj5cis3SD7U"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "GarciaLive Volume Two: August 5th, 1990 Greek Theatre",
         "url": "https://open.spotify.com/album/2zJpfHiO3VNEt2AcKtEoDs"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 645680,
       "name": "The Harder They Come (feat. B\u00e9la Fleck) - Live",
       "url": "https://open.spotify.com/track/7LKpi9pOnm3m89jTO8MhJu"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "There and Back Again",
+        "url": "https://open.spotify.com/album/5iiVRYSRpc2DIU1efD3prj"
+      },
+      "artists": [
+        {
+          "name": "Phil Lesh & Friends",
+          "url": "https://open.spotify.com/artist/0cYoU0s24ehE9gPplU6v7J"
+        },
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "duration_ms": 540893,
+      "name": "St Stephen (feat. The Derek Trucks Band) - Live Version",
+      "url": "https://open.spotify.com/track/2a4lOXRcvctlj5cis3SD7U"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Fillmore West '71",
-        "url": "https://open.spotify.com/album/7huOtG6twsFgvIp4zggKie"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 258482,
-      "name": "Statesboro Blues - Live at Fillmore West, San Francisco, CA 1/30/71",
-      "url": "https://open.spotify.com/track/5FkHxsvK4jSlElTMQVbte5"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "GarciaLive Volume 13: September 16th, 1989 Poplar Creek Music Theatre",
         "url": "https://open.spotify.com/album/2IdUG7HdcLqDZ9uqvVErb9"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 665397,
       "name": "Dear Prudence - Live",
       "url": "https://open.spotify.com/track/0rcgCac3uojjlX5DS13rTM"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Fillmore West '71",
+        "url": "https://open.spotify.com/album/7huOtG6twsFgvIp4zggKie"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 258482,
+      "name": "Statesboro Blues - Live at Fillmore West, San Francisco, CA 1/30/71",
+      "url": "https://open.spotify.com/track/5FkHxsvK4jSlElTMQVbte5"
     },
     {
       "added_at": "2023-04-06 15:04:32",

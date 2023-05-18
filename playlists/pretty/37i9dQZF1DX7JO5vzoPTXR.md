@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:5OoHiZhOXBrB73x6TixINe">Kerstin Ljungstrom</a>,  <a href="spotify:playlist:37i9dQZF1EFFaNIqhJxmrd">Fanny Hultman</a> + <a href="spotify:artist:7eCmccnRwPmRnWPw61x6jM">Shy Martin</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,735 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,758 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Hope It's You](https://open.spotify.com/track/6GUmRZHRsO47xusCW7k9Fk) | [India Parkman](https://open.spotify.com/artist/11kHBGgTdLbqPjfn8FDurP) | [Hope It's You](https://open.spotify.com/album/5XzARNCSH3bft8GQFYwcAn) | 3:24 |
 | 40 | [you up?](https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Things I Can't Take With Me](https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ) | 1:14 |
 
-Snapshot ID: `MCwzNTg5MGU1NDQwNzBlNWMxYjI3NWIyODg4YThhZDBlZmIxYTA3OTFi`
+Snapshot ID: `MCw1YTZjMzQwMWM2NjQ0Yjg4NmExMDk2ZDYyZGQ3Nzc3MmNkOTQzYzMy`

@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Blood Orange",
+        "url": "https://open.spotify.com/album/64eviP6LXgFk5o9gdYWpF6"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193950,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/3gLl5qXcNS3GnYnW2MrFlN"
+    },
+    {
+      "album": {
         "name": "i want you",
         "url": "https://open.spotify.com/album/1GkdIe9m5cwcXx8ophbqqD"
       },

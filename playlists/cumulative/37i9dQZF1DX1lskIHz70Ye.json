@@ -663,6 +663,24 @@
     },
     {
       "album": {
+        "name": "De Mim Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/6ZkloKdM5BBskDbqI5NNft"
+      },
+      "artists": [
+        {
+          "name": "Pen\u00e9lope Diaz",
+          "url": "https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161731,
+      "name": "De Mim Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/5ZBFyNfRUzYpHB6y2I2YC7"
+    },
+    {
+      "album": {
         "name": "De Tu Mano",
         "url": "https://open.spotify.com/album/4zNO2HO1luGa0Goo6TxQuf"
       },

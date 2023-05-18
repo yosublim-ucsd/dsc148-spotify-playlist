@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "The Best of Shirley Caesar With the Caravans",
+        "url": "https://open.spotify.com/album/1215964Ip4LoprUC8ZwQ65"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105533,
+      "name": "Lord Do Something for Me",
+      "url": "https://open.spotify.com/track/7A0ZOMn3Dfygl3Vy4dHJrO"
+    },
+    {
+      "album": {
         "name": "A Miracle In Harlem",
         "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
       },
@@ -630,7 +648,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 234893,
       "name": "One More Battle to Fight",
       "url": "https://open.spotify.com/track/2Eo3KpOd2i4yY05IYRSwcP"

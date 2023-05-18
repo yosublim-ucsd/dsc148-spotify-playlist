@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Bollywood crooner's essential songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,188 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,371 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 49 | [Mareez \- E \- Ishq](https://open.spotify.com/track/2HqSND303T7sT0wOPj3K3C) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Zid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3uzoMn32aI8ZGlAUo0s7tM) | 4:51 |
 | 50 | [Phir Le Aya Dil \- Reprise](https://open.spotify.com/track/7fpWJr5shT90KiCHXKHxch) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 5:05 |
 
-Snapshot ID: `MCxhMzlhMjM4YTliYWIwNDQ1NTA4Zjg4MjE0YTgzNDM0MTMzNzhjYzhl`
+Snapshot ID: `MCw1YzViM2I0NDVjMjZiYTI2YzQ1NDNmZWM4ODc3YzRlZTE0MTg1YTkz`

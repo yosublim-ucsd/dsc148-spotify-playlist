@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,048,724 likes - 131 songs - 7 hr 27 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,048,915 likes - 131 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 130 | [I Know](https://open.spotify.com/track/6OXeQE9fGrNEDXZZjqWG3k) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Love Is Blind](https://open.spotify.com/album/423gOrx1KMJG9XxFScREUx) | 3:44 |
 | 131 | [The One](https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k) | 3:06 |
 
-Snapshot ID: `MTM0MDQsOWY4YjFjNDYzY2NiYWFiY2NkZTg1MDVkYmQzMWRhYjE3NGRjNzMxYg==`
+Snapshot ID: `MTM0MDYsZmI4N2I5YzVkMTRkNmVkYmQxZmMzMTIzN2E4ZmRhZDBhMDZkZDhmNA==`

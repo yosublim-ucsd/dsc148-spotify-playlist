@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-526 songs - 1 day 10 hr 53 min
+528 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-05-24 |  |
 | [Amber Bare Skin](https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3) | 3:25 | 2022-09-13 |  |
 | [Aoyama Killer Story \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX) | 5:02 | 2022-10-06 |  |
-| [April is a lie \(feat\. salasa\)](https://open.spotify.com/track/0jxdad1Loq437CrfU4jX59) | [sunny after rain](https://open.spotify.com/artist/0h1BKDiSM47e0dNBoExa5N), [さらさ](https://open.spotify.com/artist/70Zjrk75IWb125KyOdgMYk) | [April is a lie](https://open.spotify.com/album/7qzfjQmPpba2duIBdYu9u0) | 3:39 | 2023-05-16 |  |
+| [April is a lie \(feat\. salasa\)](https://open.spotify.com/track/0jxdad1Loq437CrfU4jX59) | [sunny after rain](https://open.spotify.com/artist/0h1BKDiSM47e0dNBoExa5N), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [April is a lie](https://open.spotify.com/album/7qzfjQmPpba2duIBdYu9u0) | 3:39 | 2023-05-16 |  |
 | [Aquarium Summer](https://open.spotify.com/track/5A4zrqYxmkTCHR4rVecd4w) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ヨシカワミノリ](https://open.spotify.com/artist/5JnrRCxGkwDPN8LKxVfn4e) | [Summer Deja Vu](https://open.spotify.com/album/4Vk77i4FhPszz6f2Pf52zq) | 3:16 | 2022-08-02 | 2022-08-10 |
 | [Atami](https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 3:58 | 2022-07-27 | 2022-09-28 |
 | [Atami](https://open.spotify.com/track/63EQJKpCgUk3eKmOnT9H9L) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Atami](https://open.spotify.com/album/3zZVCf9z9XMDmTSLXhTMNX) | 3:58 | 2022-07-27 | 2022-07-30 |
@@ -329,7 +329,8 @@
 | [Think of you \- Extend](https://open.spotify.com/track/5mcPHPMbRKk8mwXMI2Bcrk) | [ami saiki](https://open.spotify.com/artist/14IjfkwpMFu8639eLZOR0z) | [Think of you](https://open.spotify.com/album/6Pv4mFUNnZHZoBmV6BFOsd) | 5:53 | 2022-08-16 | 2022-08-31 |
 | [Thinking](https://open.spotify.com/track/5ZuVfW3iyz4AUA7aSDwNtp) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Thinking](https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt) | 4:02 | 2022-08-02 | 2023-05-10 |
 | [Time](https://open.spotify.com/track/2eldS7v8v6ai0GZNsoAvHu) | [Koki Okamoto](https://open.spotify.com/artist/6feb6ezsQcTkzVJoZKkK7i) | [時のぬけがら](https://open.spotify.com/album/3r9hLVBAU1UWKUcFVQl6Jv) | 4:03 | 2022-06-07 | 2022-06-15 |
-| [Time is Over](https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Time is Over](https://open.spotify.com/album/71M79kQeKxgOCS7zNLOsR7) | 3:24 | 2023-05-16 |  |
+| [Time is Over](https://open.spotify.com/track/0wSJH37VmqSMJdh1ns6dCI) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Time is Over](https://open.spotify.com/album/5CXHvXpRQlU0h0smVuJUpc) | 3:24 | 2023-05-16 |  |
+| [Time is Over](https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Time is Over](https://open.spotify.com/album/71M79kQeKxgOCS7zNLOsR7) | 3:24 | 2023-05-16 | 2023-05-18 |
 | [Time of adult](https://open.spotify.com/track/52BmVOetghDJzb1LtVYx3n) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [Time of adult](https://open.spotify.com/album/6729vNYmT495Qsn8IQuE83) | 3:27 | 2023-02-28 | 2023-03-08 |
 | [Tokyo Neon](https://open.spotify.com/track/77tBV0ZvVfY5bMQjTCJOqs) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [宏実](https://open.spotify.com/artist/6xG6CoJ4QmGXNCakdnnGio) | [Tokyo Neon](https://open.spotify.com/album/2BkZ8nhcWrn281nU0cJauO) | 3:31 | 2023-04-11 | 2023-04-26 |
 | [Tokyo Rouge](https://open.spotify.com/track/2mM4gR1CITXWMx5eRp0oem) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [Ladies In The City](https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7) | 3:43 | 2022-06-16 | 2022-12-27 |
@@ -361,6 +362,7 @@
 | [your room](https://open.spotify.com/track/1SQyaGfArVFSknUxwXzn80) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/7khBUxZhpj2K9019INmwGe) | 3:35 | 2022-10-25 | 2022-10-27 |
 | [Your Song On The Radio](https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Your Song On The Radio](https://open.spotify.com/album/03Epz45tqENNY3BS4uP1V3) | 3:01 | 2023-04-20 | 2023-05-16 |
 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-07-07 |  |
+| [Yume de Aetara](https://open.spotify.com/track/3NWzlQGyXmsVeGkY7OHFDy) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [Yume de Aetara](https://open.spotify.com/album/3FMoztMSsW5rYtyWEPq82q) | 3:31 | 2023-05-16 |  |
 | [Zurukunai?](https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Zurukunai?](https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA) | 3:28 | 2022-08-02 |  |
 | [「あの娘は誰?」とか言わせたい](https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:39 | 2022-07-27 |  |
 | [「サイレント、幻」](https://open.spotify.com/track/4b26gcDNgvu042KWwCEw2D) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [「サイレント、幻」](https://open.spotify.com/album/41ifT8WylRVmPJ8R91TeCR) | 4:37 | 2023-02-07 | 2023-03-08 |
@@ -464,7 +466,7 @@
 | [夜の流れ](https://open.spotify.com/track/4QL8gzhgrPMsEjnSO76Yfp) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 4:36 | 2023-04-27 | 2023-05-17 |
 | [夜明けのドリーミング](https://open.spotify.com/track/0sE2Q9DEMty9ouWkbSXchz) | [DEBBIE'S ALLY](https://open.spotify.com/artist/4Tb0oGNjX4I1SPAtsYjGer) | [夜明けのDREAMING](https://open.spotify.com/album/33PYC7lNRrCcCU9vfJrFZB) | 4:46 | 2022-11-03 | 2022-11-09 |
 | [夜行性 feat\. 蔡忠浩](https://open.spotify.com/track/3NCWb3k382tplUsQdHUz6Y) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [蔡忠浩](https://open.spotify.com/artist/5dzlMx9O5K2bhXxIrB2Ut3) | [夜行性 feat\. 蔡忠浩](https://open.spotify.com/album/4HoFcdT9HoxRtv8iG2LfJO) | 4:11 | 2022-05-24 | 2022-07-28 |
-| [夢で逢えたら](https://open.spotify.com/track/5FutWWD7OviEyQnwPUCzGB) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [夢で逢えたら](https://open.spotify.com/album/2dPU5rTeBuzX7T1ztEpEvP) | 3:31 | 2023-05-16 |  |
+| [夢で逢えたら](https://open.spotify.com/track/5FutWWD7OviEyQnwPUCzGB) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [夢で逢えたら](https://open.spotify.com/album/2dPU5rTeBuzX7T1ztEpEvP) | 3:31 | 2023-05-16 | 2023-05-18 |
 | [夢のつづき \- remix](https://open.spotify.com/track/3Xn7sv9uUNyuov2NjEkCSx) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z), [hamma](https://open.spotify.com/artist/7sz6bDQFBV3wCdidLrfev1) | [夢のつづき \(remix\)](https://open.spotify.com/album/2AbseLdkg3tmPmyZMZIZor) | 3:10 | 2022-07-12 | 2022-07-20 |
 | [夢中](https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [夢中](https://open.spotify.com/album/0YPwMGNvyNwXlp1W3Ug6T1) | 3:59 | 2022-05-24 | 2022-11-05 |
 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 | 2022-10-04 |  |

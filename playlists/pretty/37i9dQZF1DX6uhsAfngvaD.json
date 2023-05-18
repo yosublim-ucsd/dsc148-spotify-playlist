@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 281657,
+  "num_followers": 281721,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGU4MDJlMzJhYjBmMjUxMTMyNTc5NGFkODg1OWNlNzI4N2M3NDE0",
+  "snapshot_id": "MCw3ZmVkNTZmZTljZWNjYjAxNDM3ZTQyMmRiYmNkNGJjMDg0YjBlOTgx",
   "tracks": [
     {
       "added_at": "2023-03-24 00:00:00",
@@ -589,6 +589,22 @@
       "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
     },
     {
+      "added_at": "2023-05-10 14:00:57",
+      "album": {
+        "name": "Falling Apart Without You",
+        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Falling Apart Without You",
+      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
+    },
+    {
       "added_at": "2023-03-24 00:00:00",
       "album": {
         "name": "Ways To Get Out",
@@ -607,22 +623,6 @@
       "duration_ms": 225848,
       "name": "Our Past Lives",
       "url": "https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr"
-    },
-    {
-      "added_at": "2023-05-10 14:00:57",
-      "album": {
-        "name": "Falling Apart Without You",
-        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Falling Apart Without You",
-      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "All Under the Sky",
-        "url": "https://open.spotify.com/album/0Ma0kcvPUWsIdXwao0oFCM"
-      },
-      "artists": [
-        {
-          "name": "Cathedral Bells",
-          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
-        }
-      ],
-      "duration_ms": 277058,
-      "name": "All Under the Sky",
-      "url": "https://open.spotify.com/track/6w0HWYMtuqgOVlo5geMZiJ"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "French Movie",
         "url": "https://open.spotify.com/album/2QssHYT1JHXe84cDGPgXDb"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 214137,
       "name": "27 Club",
       "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "All Under the Sky",
+        "url": "https://open.spotify.com/album/0Ma0kcvPUWsIdXwao0oFCM"
+      },
+      "artists": [
+        {
+          "name": "Cathedral Bells",
+          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
+        }
+      ],
+      "duration_ms": 277058,
+      "name": "All Under the Sky",
+      "url": "https://open.spotify.com/track/6w0HWYMtuqgOVlo5geMZiJ"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Gloomy Girl",
-        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 186410,
-      "name": "Gloomy Girl",
-      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 202026,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Gloomy Girl",
+        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Gloomy Girl",
+      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
+      },
+      "artists": [
+        {
+          "name": "trentem\u00f8ller",
+          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
+        },
+        {
+          "name": "Lisbet Fritze",
+          "url": "https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod"
+        }
+      ],
+      "duration_ms": 259642,
+      "name": "No More Kissing In The Rain",
+      "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
       },
@@ -1179,22 +1199,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Memoria",
-        "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
+        "name": "Twin Heavy",
+        "url": "https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC"
       },
       "artists": [
         {
-          "name": "trentem\u00f8ller",
-          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
-        },
-        {
-          "name": "Lisbet Fritze",
-          "url": "https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod"
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
         }
       ],
-      "duration_ms": 259642,
-      "name": "No More Kissing In The Rain",
-      "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+      "duration_ms": 227681,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 166000,
       "name": "Bubblegum",
       "url": "https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Twin Heavy",
-        "url": "https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC"
-      },
-      "artists": [
-        {
-          "name": "Willie J Healey",
-          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
-        }
-      ],
-      "duration_ms": 227681,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Your Type",
-        "url": "https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3"
+        "name": "Jay II",
+        "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
       },
       "artists": [
         {
-          "name": "bb sway",
-          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
-        },
-        {
-          "name": "Basile Petite",
-          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
+          "name": "Jay Arner",
+          "url": "https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4"
         }
       ],
-      "duration_ms": 241560,
-      "name": "Your Type",
-      "url": "https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX"
+      "duration_ms": 240426,
+      "name": "Earth to Jay",
+      "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1323,18 +1319,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Jay II",
-        "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
+        "name": "Your Type",
+        "url": "https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3"
       },
       "artists": [
         {
-          "name": "Jay Arner",
-          "url": "https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4"
+          "name": "bb sway",
+          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
+        },
+        {
+          "name": "Basile Petite",
+          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
         }
       ],
-      "duration_ms": 240426,
-      "name": "Earth to Jay",
-      "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
+      "duration_ms": 241560,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX"
     }
   ],
   "unique_name": "Dreampop",

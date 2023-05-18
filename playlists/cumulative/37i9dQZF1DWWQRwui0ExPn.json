@@ -17641,6 +17641,28 @@
     },
     {
       "album": {
+        "name": "Chuamato",
+        "url": "https://open.spotify.com/album/3MB8w0vbAw19SP2kC30ENh"
+      },
+      "artists": [
+        {
+          "name": "damaa.beats",
+          "url": "https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY"
+        },
+        {
+          "name": "Tonion",
+          "url": "https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152432,
+      "name": "Chuamato",
+      "url": "https://open.spotify.com/track/3LZAhVqKtFYh17qqCbWwho"
+    },
+    {
+      "album": {
         "name": "ch\u1ea1y tr\u1ed1n",
         "url": "https://open.spotify.com/album/1lWx3rPdvhE7QO8kP1G8nD"
       },
@@ -32474,7 +32496,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 140230,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/1yhJ91ZV3HHHeyMh6PWdWb"
@@ -48228,7 +48250,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 147256,
       "name": "Jinbe",
       "url": "https://open.spotify.com/track/4REpI6N3D4rQ1yEXAY1B0s"
@@ -77152,6 +77174,24 @@
       "duration_ms": 155526,
       "name": "Reality Dream",
       "url": "https://open.spotify.com/track/5zU18WEUuFOMZGX5BOVWXu"
+    },
+    {
+      "album": {
+        "name": "realluv",
+        "url": "https://open.spotify.com/album/3Na8szxGY31AxArOkkDwam"
+      },
+      "artists": [
+        {
+          "name": "Flughand",
+          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136880,
+      "name": "realluv",
+      "url": "https://open.spotify.com/track/4eNhaOV4UyCKe0lHIarqSb"
     },
     {
       "album": {

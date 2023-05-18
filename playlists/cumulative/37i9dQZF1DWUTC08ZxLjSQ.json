@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Mazyn. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Kali-B. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
+    {
+      "album": {
+        "name": "101",
+        "url": "https://open.spotify.com/album/3BbCwU3PJTypB5bTQm20Y5"
+      },
+      "artists": [
+        {
+          "name": "Fairdose",
+          "url": "https://open.spotify.com/artist/4Z9F1x2vbrOwFahUqqxThs"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163760,
+      "name": "101",
+      "url": "https://open.spotify.com/track/2aaa4A0g1XurnQfFC0dpoE"
+    },
     {
       "album": {
         "name": "103",
@@ -431,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Catch Your Drift",
+        "url": "https://open.spotify.com/album/3QGq5ih3bbRk0QJarBwNq3"
+      },
+      "artists": [
+        {
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180604,
+      "name": "Catch Your Drift",
+      "url": "https://open.spotify.com/track/2tyvEHHMM9cop4ZDTOCQKi"
+    },
+    {
+      "album": {
         "name": "Change Tomorrow",
         "url": "https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn"
       },
@@ -784,6 +820,24 @@
       "duration_ms": 240000,
       "name": "Flight of Time",
       "url": "https://open.spotify.com/track/6jNFBaCURvVWBncn0GrZD2"
+    },
+    {
+      "album": {
+        "name": "Fo2 Ya 3bit",
+        "url": "https://open.spotify.com/album/6WJ6VxCzDUMbI2tWxoBA4C"
+      },
+      "artists": [
+        {
+          "name": "ZIG ZVG",
+          "url": "https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159660,
+      "name": "Fo2 Ya 3bit",
+      "url": "https://open.spotify.com/track/4IWoZNeHfnfG0ebqoxCRiu"
     },
     {
       "album": {
@@ -2334,6 +2388,28 @@
       "duration_ms": 168000,
       "name": "RAS L'KHEIT",
       "url": "https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo"
+    },
+    {
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy"
+      },
+      "artists": [
+        {
+          "name": "Mazyn",
+          "url": "https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA"
+        },
+        {
+          "name": "Kar33m",
+          "url": "https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217731,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko"
     },
     {
       "album": {

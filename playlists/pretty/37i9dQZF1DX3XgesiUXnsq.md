@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Armani White
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,315 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,456 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 8 | [Let The Sample Work](https://open.spotify.com/track/385wQo6gChfl9xP0umt2qu) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4PwgJiNQDvSubRoDF1o9x5) | 2:31 |
 | 9 | [Ambiance](https://open.spotify.com/track/4E6ywa4T4jflnXe6KeB54G) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Ambiance](https://open.spotify.com/album/4ZxWW2tTsVcDqk4TkuEINf) | 2:17 |
 | 10 | [The Tide](https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [SURF OR DROWN](https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ) | 3:56 |
-| 11 | [Mob Business](https://open.spotify.com/track/6VsVdAOO0AfJo9za71hQsd) | [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [From The Cradle To The Game](https://open.spotify.com/album/3KfXv2pCUXIoz9bt8tJKiu) | 3:55 |
+| 11 | [Mob Business](https://open.spotify.com/track/6VsVdAOO0AfJo9za71hQsd) | [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [From The Cradle To The Game](https://open.spotify.com/album/3KfXv2pCUXIoz9bt8tJKiu) | 3:55 |
 | 12 | [Fortfied Live](https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [Mr Man](https://open.spotify.com/artist/0g0fNhGsKbfFuNlaHK9e43) | [Train of Thought: Lost Lyrics, Rare Releases & Beautiful B\-Sides, Vol\. 1](https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo) | 5:11 |
 | 13 | [Terpalation](https://open.spotify.com/track/2ItI24yglCAAnbiVCclgEp) | [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Love Without Conditions](https://open.spotify.com/album/3pKvcDR1KlZ2uxRDVegJej) | 3:36 |
 | 14 | [Back In Office](https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No I.D.](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [Back In Office](https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 |
 | 100 | [Sriracha](https://open.spotify.com/track/1ytLhTM7p87C4eWPRWqAC9) | [Naturally Born Strangers](https://open.spotify.com/artist/5gZQxOh12bhrAS9ioHB2qc) | [Sriracha](https://open.spotify.com/album/380OfomX0FAj25skGNBOiK) | 3:28 |
 
-Snapshot ID: `MCxmYTgwY2EyOWE2YTA4YjAxNGFmYjVhZTZkN2RhMDgzYzlkZDFjMzhj`
+Snapshot ID: `MCxhNWMyYzY4YTVkYjU4N2Y2OThlZTY1N2IzNzQyYTMyNDA0MDZlODA3`

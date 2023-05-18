@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:0digr9CIDd0VatlphDu3rO\">Zack</a>",
+  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:1SMNrh8qrsRR3ufDamWNFh\">Spacehippiez</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
+    {
+      "album": {
+        "name": "lonely hearts club (demo tape)",
+        "url": "https://open.spotify.com/album/0uZJe8jxczfIKalunELIQC"
+      },
+      "artists": [
+        {
+          "name": "Boisi\u00e9",
+          "url": "https://open.spotify.com/artist/4aYFx0nZk91epacdJub6Ti"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164651,
+      "name": "! (demo)",
+      "url": "https://open.spotify.com/track/3TsAhSlSD7riJAbVixnz6c"
+    },
     {
       "album": {
         "name": "... per chi non muore",
@@ -392,7 +410,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 142807,
       "name": "5 Anni",
       "url": "https://open.spotify.com/track/2fHhXXcaG6vuIgSNNgaxZR"
@@ -2949,6 +2967,28 @@
     },
     {
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1ZnbZLBhdfXxiiqeOSadNg"
+      },
+      "artists": [
+        {
+          "name": "Anfysia",
+          "url": "https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll"
+        },
+        {
+          "name": "Erba",
+          "url": "https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148907,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/3dZxdF4oBB0zayJuvQ01oN"
+    },
+    {
+      "album": {
         "name": "Coastal",
         "url": "https://open.spotify.com/album/1jcbSFBD1tEXYfIqtcp2Pi"
       },
@@ -3412,7 +3452,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 265663,
       "name": "Desiderio",
       "url": "https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01"
@@ -3956,7 +3996,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 188520,
       "name": "Effetto Placebo",
       "url": "https://open.spotify.com/track/4puSpnMkS08ALgnrAXepSU"
@@ -4180,6 +4220,24 @@
       "duration_ms": 120500,
       "name": "Falcon",
       "url": "https://open.spotify.com/track/0JPKecNKt1bqpupwW6Y5sv"
+    },
+    {
+      "album": {
+        "name": "FALLO CON ME",
+        "url": "https://open.spotify.com/album/1IZCGIy2qJc5bPXgm4Qhj3"
+      },
+      "artists": [
+        {
+          "name": "Luca Re",
+          "url": "https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146965,
+      "name": "FALLO CON ME",
+      "url": "https://open.spotify.com/track/0QRtjJJnYPoObj5GuCCNuT"
     },
     {
       "album": {
@@ -4779,6 +4837,24 @@
     },
     {
       "album": {
+        "name": "Frutta Fresca",
+        "url": "https://open.spotify.com/album/6TZOp9BjKB4bPthgRxMyZc"
+      },
+      "artists": [
+        {
+          "name": "Macadamia",
+          "url": "https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Frutta Fresca",
+      "url": "https://open.spotify.com/track/0rNP0DmIwhD3Uj0d05V0rV"
+    },
+    {
+      "album": {
         "name": "Fuggono i ricordi",
         "url": "https://open.spotify.com/album/0rsnHpU7uwstUG26omnC6b"
       },
@@ -5270,6 +5346,28 @@
       "duration_ms": 163628,
       "name": "Home to Me",
       "url": "https://open.spotify.com/track/1WY8mEupCbjNIZp4q3jmhk"
+    },
+    {
+      "album": {
+        "name": "Hope_Speranza",
+        "url": "https://open.spotify.com/album/69PmOAa2XV20ANWLgo2VK8"
+      },
+      "artists": [
+        {
+          "name": "MERAVIGLIOSA",
+          "url": "https://open.spotify.com/artist/11RqURAdJgo7Ex9GTuN9wQ"
+        },
+        {
+          "name": "sonogiove",
+          "url": "https://open.spotify.com/artist/2kPbYiHkT1Txa19RSkZrQ7"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151376,
+      "name": "Hope_Speranza",
+      "url": "https://open.spotify.com/track/4vix550F5bf2Cy9AHT0tUC"
     },
     {
       "album": {
@@ -5831,6 +5929,24 @@
     },
     {
       "album": {
+        "name": "Janara",
+        "url": "https://open.spotify.com/album/0swEfPxCi3RN3unHRXUMJf"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5RA",
+          "url": "https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175667,
+      "name": "Janara",
+      "url": "https://open.spotify.com/track/6c2To2ELFZ6MEPQCPHZLiq"
+    },
+    {
+      "album": {
         "name": "Stegosauro",
         "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
       },
@@ -5860,7 +5976,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 158912,
       "name": "Jeans",
       "url": "https://open.spotify.com/track/5uDfwhjhSyBRR3OZFVnsbn"
@@ -7467,6 +7583,24 @@
     },
     {
       "album": {
+        "name": "Milano sei tossica",
+        "url": "https://open.spotify.com/album/06dgmOUyGPUAgt1dvcdzZn"
+      },
+      "artists": [
+        {
+          "name": "Kate Klein",
+          "url": "https://open.spotify.com/artist/67DWV4ny2wOneRM4QoLfLO"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128906,
+      "name": "Milano sei tossica",
+      "url": "https://open.spotify.com/track/1jxdBO6W0M7L9AcGfM5ZeL"
+    },
+    {
+      "album": {
         "name": "Mille e una notte",
         "url": "https://open.spotify.com/album/4vuUOvFv8AKUaYSQEzFD3E"
       },
@@ -7500,6 +7634,24 @@
       "duration_ms": 211664,
       "name": "Millemila",
       "url": "https://open.spotify.com/track/4tyoo2wP3HsSPudxdOgEJS"
+    },
+    {
+      "album": {
+        "name": "mindmybusiness",
+        "url": "https://open.spotify.com/album/2OoSo1q8RnsBbA1AxoC4iM"
+      },
+      "artists": [
+        {
+          "name": "INVERNO",
+          "url": "https://open.spotify.com/artist/7Ao4PRYc1rFAZVkr0FKnrt"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166998,
+      "name": "mindmybusiness",
+      "url": "https://open.spotify.com/track/5aQBC2XnvAsZuxhBgF5bIy"
     },
     {
       "album": {
@@ -8116,6 +8268,28 @@
       "duration_ms": 197438,
       "name": "Nervosa",
       "url": "https://open.spotify.com/track/76YfuESrceGIpXf4jbrsW2"
+    },
+    {
+      "album": {
+        "name": "Neutral",
+        "url": "https://open.spotify.com/album/0ttuVceBAwebMuKCaDwyCQ"
+      },
+      "artists": [
+        {
+          "name": "SAMI",
+          "url": "https://open.spotify.com/artist/6wVT2CEFalop28vEC7y726"
+        },
+        {
+          "name": "Ge Oh",
+          "url": "https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168791,
+      "name": "Neutral",
+      "url": "https://open.spotify.com/track/690oGzYVBsc4Wb28GuhWB9"
     },
     {
       "album": {
@@ -8765,6 +8939,28 @@
     },
     {
       "album": {
+        "name": "Nuove strade",
+        "url": "https://open.spotify.com/album/01d189ZaRUz1AYdof4RygQ"
+      },
+      "artists": [
+        {
+          "name": "Volpe",
+          "url": "https://open.spotify.com/artist/7GuHTwsqMwtZXGjBjGIeCP"
+        },
+        {
+          "name": "Ama Dee",
+          "url": "https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177295,
+      "name": "Nuove strade",
+      "url": "https://open.spotify.com/track/6F5jyYks66HsPyNd97Hx3W"
+    },
+    {
+      "album": {
         "name": "Nuvole",
         "url": "https://open.spotify.com/album/3knbhLaL2d9JLMxUDpC1Ez"
       },
@@ -8906,6 +9102,24 @@
       "duration_ms": 212769,
       "name": "Odissea / Astronave",
       "url": "https://open.spotify.com/track/2kSB0Pf0oNF9HZq1YOYBdY"
+    },
+    {
+      "album": {
+        "name": "Feed",
+        "url": "https://open.spotify.com/album/5hUOgH5AtrnMIwxVvgPqZE"
+      },
+      "artists": [
+        {
+          "name": "Ters\u00f8",
+          "url": "https://open.spotify.com/artist/6dPkQ9H6GSNXJFe7ZnukoU"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193780,
+      "name": "Ogni Cosa",
+      "url": "https://open.spotify.com/track/1EBjCmN5vhMuPbotGOKQDp"
     },
     {
       "album": {
@@ -9156,7 +9370,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 161379,
       "name": "Panach\u00e9",
       "url": "https://open.spotify.com/track/3FejuqsbLobgO49NE0BsQD"
@@ -9336,7 +9550,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 178093,
       "name": "Pazzi",
       "url": "https://open.spotify.com/track/1ZSot2wwzAA9fGHLj9WXC5"
@@ -9604,7 +9818,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 157362,
       "name": "piano song",
       "url": "https://open.spotify.com/track/7JJvXMvPZ4MwiixlsvW8yt"
@@ -9716,7 +9930,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 142153,
       "name": "Pills",
       "url": "https://open.spotify.com/track/6OruzcGEXkyGfTgCKEJOyC"
@@ -10920,7 +11134,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 160804,
       "name": "Saint-\u00c9tienne",
       "url": "https://open.spotify.com/track/1oPwQPjExcQkJndFtVBLSk"
@@ -11140,7 +11354,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 185952,
       "name": "Scusa se ti amo (ma)",
       "url": "https://open.spotify.com/track/5T3GUt6ef0QCE598DPwt41"
@@ -13994,7 +14208,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 213540,
       "name": "\u2125.33",
       "url": "https://open.spotify.com/track/3PqaZ6RsFO0zlzA2nzXokm"

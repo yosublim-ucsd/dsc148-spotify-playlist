@@ -1,12 +1,12 @@
 {
   "description": "If it's buzzing, it's here. The hottest new songs of the week. Cover: Becky Hill",
-  "num_followers": 867186,
+  "num_followers": 867218,
   "original_name": "Singled Out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmQ5ZDJmNDcxYTM1MTU0YTYyZWExOWZiYmYyZmYxOWU0YmFhNjhh",
+  "snapshot_id": "MCwwOGIyMDg5OGYyZjI5ZjI5NmVlZjE1MjQ4ZGIzNWM1ZTJlNzZlZGJk",
   "tracks": [
     {
       "added_at": "2023-05-15 21:19:10",
@@ -280,16 +280,16 @@
       },
       "artists": [
         {
-          "name": "BABY GRAVY",
-          "url": "https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do"
-        },
-        {
           "name": "Yung Gravy",
           "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
         },
         {
           "name": "bbno$",
           "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "BABY GRAVY",
+          "url": "https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do"
         }
       ],
       "duration_ms": 144207,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,111 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,250 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 28 | [Avião](https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Avião](https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf) | 2:19 |
 | 29 | [A Cunhada](https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [A Cunhada](https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf) | 2:47 |
 | 30 | [Bailão](https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Mestre B](https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bailão](https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp) | 3:30 |
-| 31 | [Menino Ney](https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dazz](https://open.spotify.com/artist/0mabpBrWkBHo7UHcyOclit) | [Menino Ney](https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU) | 2:19 |
+| 31 | [Oi Né](https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Oi Né](https://open.spotify.com/album/5KSCMOcGXILOqcIO1YhiKk) | 2:50 |
 | 32 | [Manha](https://open.spotify.com/track/3ow7zYRhbIO7f4yyHI4ZaD) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 2:57 |
-| 33 | [Oi Né](https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Oi Né](https://open.spotify.com/album/5KSCMOcGXILOqcIO1YhiKk) | 2:50 |
+| 33 | [Menino Ney](https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dazz](https://open.spotify.com/artist/0mabpBrWkBHo7UHcyOclit) | [Menino Ney](https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU) | 2:19 |
 | 34 | [Love And Choppa](https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Love And Choppa](https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF) | 2:20 |
 | 35 | [Chega de Falar de Ice](https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V) | [Chega de Falar de Ice](https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg) | 2:57 |
 | 36 | [Maleta](https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Maleta](https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD) | 4:07 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 47 | [Como a chuva cai](https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Como a chuva cai](https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R) | 2:32 |
 | 48 | [Ferveção](https://open.spotify.com/track/5R1h9ssiMJIDFAeEzGj9G0) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Para todas as mulheres que já rimei](https://open.spotify.com/album/3UQLzEpN117dUBLbe2W2gD) | 3:02 |
 | 49 | [Probleminha](https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Apoteose](https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ) | 2:56 |
-| 50 | [Olha Pro Oclin](https://open.spotify.com/track/7BWjPllXbBJu4BMNAOJSSw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Doka Language](https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH) | 3:41 |
+| 50 | [Trap de Cria](https://open.spotify.com/track/4UWCqKIWKAmdahy3X4xDkA) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Trap de Cria](https://open.spotify.com/album/2GzS8QreFNrXifx59Jh8Ww) | 1:57 |
 | 51 | [Dejavu](https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [Dejavu](https://open.spotify.com/album/1HyDJJWmrJjfz1txHR17UF) | 2:26 |
-| 52 | [Trap de Cria](https://open.spotify.com/track/4UWCqKIWKAmdahy3X4xDkA) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Trap de Cria](https://open.spotify.com/album/2GzS8QreFNrXifx59Jh8Ww) | 1:57 |
+| 52 | [Olha Pro Oclin](https://open.spotify.com/track/7BWjPllXbBJu4BMNAOJSSw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Doka Language](https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH) | 3:41 |
 | 53 | [Clima Diferente](https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Clima Diferente](https://open.spotify.com/album/6U49HmBuI0HTotwONu75ig) | 3:30 |
 | 54 | [Gatinha](https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Gatinha](https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW) | 3:15 |
 | 55 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Vírgula](https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:11 |
 | 60 | [212 Vip](https://open.spotify.com/track/5jRaYDCcftXSc4a0eXJaz6) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Cita](https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv) | [212 Vip](https://open.spotify.com/album/0RmoblwYMgWfsr6DlNiIms) | 2:12 |
 
-Snapshot ID: `MCw4MTcxZTA0NzFlZTQzYWUzM2Y3M2RmNmEyY2M4YmQ0MWJmNGMyZWUz`
+Snapshot ID: `MCwyZWVkNzg3OWU0MzRlOTc4ODJlYmIzMjhmNGJiNTczZjQwZWVhNzI3`

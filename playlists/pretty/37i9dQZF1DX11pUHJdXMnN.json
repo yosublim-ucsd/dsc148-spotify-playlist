@@ -1,49 +1,13 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 58093,
+  "num_followers": 58117,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2RmZjJlMjE2OGUwZjlkZTFiOThmMDY1MmM0YjY5NmRlZGZhYTdm",
+  "snapshot_id": "MCwxZDZhYTU5NjRjMTlmNGJhZmQxMDRkYmZkNDI2Y2U0YzFkZWE3ZTU3",
   "tracks": [
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Picture: Adana Twins",
-        "url": "https://open.spotify.com/album/6EmW2P6OZMqtGyuYXs53X0"
-      },
-      "artists": [
-        {
-          "name": "Adana Twins",
-          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
-        },
-        {
-          "name": "Glowal",
-          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
-        }
-      ],
-      "duration_ms": 515086,
-      "name": "My Computer",
-      "url": "https://open.spotify.com/track/43dypLxBZqo8KlPdsJOmwy"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Divine Reality",
-        "url": "https://open.spotify.com/album/15eAEjJ4qWNLbtTACrb0oK"
-      },
-      "artists": [
-        {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
-        }
-      ],
-      "duration_ms": 459250,
-      "name": "Divine Reality",
-      "url": "https://open.spotify.com/track/45ITwtPzk2n7XBWGD32NZb"
-    },
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
@@ -71,6 +35,42 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Divine Reality",
+        "url": "https://open.spotify.com/album/15eAEjJ4qWNLbtTACrb0oK"
+      },
+      "artists": [
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        }
+      ],
+      "duration_ms": 459250,
+      "name": "Divine Reality",
+      "url": "https://open.spotify.com/track/45ITwtPzk2n7XBWGD32NZb"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Picture: Adana Twins",
+        "url": "https://open.spotify.com/album/6EmW2P6OZMqtGyuYXs53X0"
+      },
+      "artists": [
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Glowal",
+          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
+        }
+      ],
+      "duration_ms": 515086,
+      "name": "My Computer",
+      "url": "https://open.spotify.com/track/43dypLxBZqo8KlPdsJOmwy"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "ANIITIME003",
         "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
       },
@@ -83,26 +83,6 @@
       "duration_ms": 444150,
       "name": "Silver Machine",
       "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "You And I (Late Nite Tuff Guy Remix)",
-        "url": "https://open.spotify.com/album/1KwHWoSdaV3d9Xs8tgxkFl"
-      },
-      "artists": [
-        {
-          "name": "Owl Eyes",
-          "url": "https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f"
-        },
-        {
-          "name": "Late Nite Tuff Guy",
-          "url": "https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK"
-        }
-      ],
-      "duration_ms": 384517,
-      "name": "You And I - Late Nite Tuff Guy Dub Remix",
-      "url": "https://open.spotify.com/track/2BQgYWhMidgerKZGm12xax"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -123,6 +103,26 @@
       "duration_ms": 214049,
       "name": "Modern Romance",
       "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "You And I (Late Nite Tuff Guy Remix)",
+        "url": "https://open.spotify.com/album/1KwHWoSdaV3d9Xs8tgxkFl"
+      },
+      "artists": [
+        {
+          "name": "Owl Eyes",
+          "url": "https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f"
+        },
+        {
+          "name": "Late Nite Tuff Guy",
+          "url": "https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK"
+        }
+      ],
+      "duration_ms": 384517,
+      "name": "You And I - Late Nite Tuff Guy Dub Remix",
+      "url": "https://open.spotify.com/track/2BQgYWhMidgerKZGm12xax"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -699,26 +699,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Faccia a faccia (Remixes)",
-        "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
-      },
-      "artists": [
-        {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
-        },
-        {
-          "name": "Italoconnection",
-          "url": "https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et"
-        }
-      ],
-      "duration_ms": 227019,
-      "name": "Faccia a faccia - Italoconnection Remix Radio",
-      "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Solar Nights - The Remixes",
         "url": "https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 358841,
       "name": "Mirage - Anoraak Extended Remix",
       "url": "https://open.spotify.com/track/35iuuDX0wvxdOwwRVg84UX"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Faccia a faccia (Remixes)",
+        "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
+      },
+      "artists": [
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Italoconnection",
+          "url": "https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et"
+        }
+      ],
+      "duration_ms": 227019,
+      "name": "Faccia a faccia - Italoconnection Remix Radio",
+      "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
     },
     {
       "added_at": "2021-08-27 15:45:01",

@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 130372,
+  "num_followers": 130551,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjhlYjRmOWM1MTZjMGFhYzZiMzZkNDU0OWNmNzkxMDlmYzFkZDgw",
+  "snapshot_id": "MCw3MDY2NTJmMTZlNTA5MGU3ZDk0OWNhZTY3Yzc4NDlhNjRiN2E1MzYx",
   "tracks": [
     {
       "added_at": "2023-04-09 08:31:46",
@@ -763,18 +763,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Sin Ti No Vivo (En Vivo)",
-        "url": "https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy"
+        "name": "La Bondad de Dios",
+        "url": "https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7"
       },
       "artists": [
         {
-          "name": "Alejandro Del Bosque",
-          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
         }
       ],
-      "duration_ms": 299773,
-      "name": "Me Entrego a Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw"
+      "duration_ms": 263731,
+      "name": "Rey de Reyes",
+      "url": "https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -799,22 +803,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "La Bondad de Dios",
-        "url": "https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7"
+        "name": "Sin Ti No Vivo (En Vivo)",
+        "url": "https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy"
       },
       "artists": [
         {
-          "name": "Essential Worship",
-          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
-        },
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+          "name": "Alejandro Del Bosque",
+          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
         }
       ],
-      "duration_ms": 263731,
-      "name": "Rey de Reyes",
-      "url": "https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2"
+      "duration_ms": 299773,
+      "name": "Me Entrego a Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -913,28 +913,12 @@
       "artists": [
         {
           "name": "Vino Nuevo",
-          "url": "https://open.spotify.com/artist/2YKt5eNpMKkJ5i7hi1sAib"
+          "url": "https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX"
         }
       ],
       "duration_ms": 300040,
       "name": "Por Las Llagas",
       "url": "https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 528800,
-      "name": "Digno Y Santo",
-      "url": "https://open.spotify.com/track/1vsA02g4fNXwTAy9BooYbX"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -951,6 +935,22 @@
       "duration_ms": 213446,
       "name": "Te Amo Jes\u00fas",
       "url": "https://open.spotify.com/track/1G7lUahhD2iJZd8DTwkG9d"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 528800,
+      "name": "Digno Y Santo",
+      "url": "https://open.spotify.com/track/1vsA02g4fNXwTAy9BooYbX"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 393769,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "El Eco De Su Voz",
         "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 327146,
       "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
       "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 393769,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "De Vuelta En Casa",
-        "url": "https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S"
+        "name": "Nunca para de Llover",
+        "url": "https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk"
       },
       "artists": [
         {
-          "name": "Samuel Adri\u00e1n",
-          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
         }
       ],
-      "duration_ms": 295862,
-      "name": "Su Vida Me Dio",
-      "url": "https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth"
+      "duration_ms": 222613,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN"
     }
   ],
   "unique_name": "Jes\u00fas Vive",

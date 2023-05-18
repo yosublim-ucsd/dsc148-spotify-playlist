@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -10436,7 +10436,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 165151,
       "name": "I Wrote A Song",
       "url": "https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn"
@@ -11242,6 +11242,28 @@
       "duration_ms": 137151,
       "name": "Jumbotron Shit Poppin",
       "url": "https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ"
+    },
+    {
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/1KjyWIhJTqNSwIpeg1bGuw"
+      },
+      "artists": [
+        {
+          "name": "Why Cue",
+          "url": "https://open.spotify.com/artist/5PLUeP0AXBzIb4yrN7rQh6"
+        },
+        {
+          "name": "Doggi Krazy",
+          "url": "https://open.spotify.com/artist/5ks8VVKn8CD9U2hp8Jl5KI"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166635,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/287wLomHWpbllx9eIcVIWz"
     },
     {
       "album": {
@@ -21748,7 +21770,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 208160,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/4FsNmBiGkFaER6xzY3MfDL"

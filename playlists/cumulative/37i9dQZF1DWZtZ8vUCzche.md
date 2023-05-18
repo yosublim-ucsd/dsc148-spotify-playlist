@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-326 songs - 1 day 2 hr 49 min
+327 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Mai Nozipo \("Mother Nozipo"\)](https://open.spotify.com/track/18OhfSqbz9oDBlUORhLQDH) | [Dumisani Maraire](https://open.spotify.com/artist/3MsIhuE6FMukz5f1I9DLVL), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Pieces of Africa](https://open.spotify.com/album/0T9WDIzvGkYW3kfWxKK5YV) | 6:59 | 2021-10-15 | 2022-07-29 |
 | [Man in the Long Black Coat](https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 4:33 | 2021-10-15 |  |
 | [Marble House](https://open.spotify.com/track/45v6WEuLFyiKfXsbqzmAru) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Silent Shout](https://open.spotify.com/album/2Y0lDoAMSSHpGuDD0ybwqm) | 5:18 | 2021-10-15 | 2022-07-29 |
-| [Marble House](https://open.spotify.com/track/5iwxuNxMzFXFVVsxWz7gQI) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Silent Shout](https://open.spotify.com/album/6rdNbdV3T4muFFFSjGdOj9) | 5:18 | 2022-10-14 |  |
+| [Marble House](https://open.spotify.com/track/5iwxuNxMzFXFVVsxWz7gQI) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Silent Shout](https://open.spotify.com/album/6rdNbdV3T4muFFFSjGdOj9) | 5:18 | 2022-10-14 | 2023-05-18 |
+| [Marble House](https://open.spotify.com/track/7LFx31p9LQSHI4cMBmEVSM) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Silent Shout](https://open.spotify.com/album/1UdCT7t0rfNPu5Bn957U8r) | 5:18 | 2023-05-04 |  |
 | [Marilyn](https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 4:11 | 2023-02-05 |  |
 | [Messaien's Gumbo](https://open.spotify.com/track/54Eu6NFDAiTccwbyAPhiif) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Remembrance](https://open.spotify.com/album/5TRo5Z26zJvw9CcWwOZI4h) | 5:28 | 2021-10-15 | 2022-07-29 |
 | [Metronomic Underground](https://open.spotify.com/track/1VYoRIkm4yC4OwGcfq9Tjm) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup \(Expanded Edition\)](https://open.spotify.com/album/2AJqzRQltkneduxKsqmgYJ) | 7:54 | 2023-01-19 |  |

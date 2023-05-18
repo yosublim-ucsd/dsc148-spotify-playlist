@@ -330,6 +330,28 @@
     {
       "album": {
         "name": "Camouflage Mirage",
+        "url": "https://open.spotify.com/album/53udTpX2SfxakQYpqKLTrg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Ray Holbrook",
+          "url": "https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI"
+        },
+        {
+          "name": "Demun Jones",
+          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Camouflage Mirage",
+      "url": "https://open.spotify.com/track/0JZDs9Jw1p77pLUhY2S2Nq"
+    },
+    {
+      "album": {
+        "name": "Camouflage Mirage",
         "url": "https://open.spotify.com/album/1WYwT6dIGsV25ZvyQRk27z"
       },
       "artists": [
@@ -502,7 +524,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 209058,
       "name": "Country Made",
       "url": "https://open.spotify.com/track/2dzQTTYxfcKpH8PncC3SkE"
@@ -680,7 +702,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Deep Creek",
       "url": "https://open.spotify.com/track/5rsNlCqnnuu89icdMkO1Rb"
@@ -778,7 +800,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 278493,
       "name": "Dirt Road Anthem (Revisited)",
       "url": "https://open.spotify.com/track/13KyJdVV5uKFdwwkJiK7Vc"
@@ -796,7 +818,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 229664,
       "name": "Dirt Road Code",
       "url": "https://open.spotify.com/track/1GTj920e9eMA0NPgGQePjZ"
@@ -1018,7 +1040,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 188056,
       "name": "Get Her Done (feat. Bottleneck)",
       "url": "https://open.spotify.com/track/1bePzEP477kCICdIjzxHZ6"
@@ -1246,7 +1268,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 189253,
       "name": "Hood",
       "url": "https://open.spotify.com/track/4QJpdcOcFubTS0VEWu5Guj"
@@ -1588,7 +1610,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 210425,
       "name": "Live for Today",
       "url": "https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK"
@@ -1628,7 +1650,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-06",
+      "date_removed": null,
       "duration_ms": 220595,
       "name": "Mustang on Mud Tires",
       "url": "https://open.spotify.com/track/3QkxCzzUXEGjqNlXeB0fMy"
@@ -1650,7 +1672,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 177485,
       "name": "My Town",
       "url": "https://open.spotify.com/track/6auBQyfcdFBG4IZvdXBkdr"
@@ -1668,7 +1690,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 279880,
       "name": "Out Here",
       "url": "https://open.spotify.com/track/4BPhl5ZzoT61iWIZ3fSy9n"
@@ -1736,7 +1758,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 489360,
       "name": "Outback (Extended Remix)",
       "url": "https://open.spotify.com/track/5ycmDZVfvCFRIwALkTFwbb"
@@ -1960,7 +1982,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 184058,
       "name": "Remember My Name",
       "url": "https://open.spotify.com/track/7eE8qUTi5in1pkshmphRec"
@@ -2012,7 +2034,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 175786,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/66il80iAlMZqtGDRaHkg1n"
@@ -2116,7 +2138,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 273501,
       "name": "Shawty In The Truck",
       "url": "https://open.spotify.com/track/0gvThRb8Wfo7Lotup0uVTg"
@@ -2142,6 +2164,28 @@
     {
       "album": {
         "name": "We The People, Vol. 1",
+        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174634,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/4C6wFHj4l4an2UCVGXR6c5"
+    },
+    {
+      "album": {
+        "name": "We The People, Vol. 1",
         "url": "https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x"
       },
       "artists": [
@@ -2156,7 +2200,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 174634,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/6OEX8FPaHyUyftZJWsve3Y"
@@ -2312,7 +2356,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 194064,
       "name": "Southern Boy",
       "url": "https://open.spotify.com/track/27cntMbTvzUyvklZB6bSXP"
@@ -2518,7 +2562,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 192101,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/5TKsfF1CEzUOWe4GDhKKKh"
@@ -2540,7 +2584,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 350003,
       "name": "The Plane",
       "url": "https://open.spotify.com/track/38HqbvZgTBA7ZDWrzoVdVM"
@@ -2718,7 +2762,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 225578,
       "name": "Way of Life",
       "url": "https://open.spotify.com/track/772E0ETHUfEwT5gJJOXW0C"
@@ -2828,7 +2872,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 167392,
       "name": "White Trash",
       "url": "https://open.spotify.com/track/2RYTHqaNac6IoCVmXBiR9A"
@@ -2952,10 +2996,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 197666,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/2VhHhttQgFrD64SR4XHG2z"
+    },
+    {
+      "album": {
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/0McuDEqJtphpfw6hgEk5JN"
+      },
+      "artists": [
+        {
+          "name": "Austin Tolliver",
+          "url": "https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb"
     },
     {
       "album": {

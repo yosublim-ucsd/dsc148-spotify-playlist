@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 40772,
+  "num_followers": 40787,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjEwODc5ZTAxMDZlYTI3NTM4MDk4NWM3OTUxMjgxNWZmNDI5NzEz",
+  "snapshot_id": "MCw1MzU1OWVkMmM2OWJhZGI5MTNjNGUzMDA3ZTRjMzIzMjA5YmZkZDA4",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Presenting Shirley & Lee",
+        "url": "https://open.spotify.com/album/4T6NwKh1p05O73CfdEcA5R"
+      },
+      "artists": [
+        {
+          "name": "Shirley & Lee",
+          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
+        }
+      ],
+      "duration_ms": 119720,
+      "name": "The Flirt",
+      "url": "https://open.spotify.com/track/00HLlbvcSU4Cu5Zm9EG2Kv"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Walk That Mess!",
         "url": "https://open.spotify.com/album/1f6YAwaB3PeBuUZtB9V0v3"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 160186,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Presenting Shirley & Lee",
-        "url": "https://open.spotify.com/album/4T6NwKh1p05O73CfdEcA5R"
-      },
-      "artists": [
-        {
-          "name": "Shirley & Lee",
-          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
-        }
-      ],
-      "duration_ms": 119720,
-      "name": "The Flirt",
-      "url": "https://open.spotify.com/track/00HLlbvcSU4Cu5Zm9EG2Kv"
     },
     {
       "added_at": "2022-03-28 19:44:25",

@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 219000,
       "name": "All But A Dream",
       "url": "https://open.spotify.com/track/4OGWWzeMDVVW0D1dqQCS2t"
@@ -1865,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Crashing",
+        "url": "https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Crashing",
+      "url": "https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a"
+    },
+    {
+      "album": {
         "name": "CRY",
         "url": "https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct"
       },
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 229161,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/6ay07MXOmggaJyMoLT1fqC"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 320853,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore"
@@ -5713,6 +5731,24 @@
     },
     {
       "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4M5eI9WILJTXNeAxhdsgqZ"
+      },
+      "artists": [
+        {
+          "name": "Mr FijiWiji",
+          "url": "https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/2eex5KqwwPLtPJY8mxeSxd"
+    },
+    {
+      "album": {
         "name": "Nevada (Vicetone Lofi Mix)",
         "url": "https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA"
       },
@@ -8080,7 +8116,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 212000,
       "name": "Sunflowers",
       "url": "https://open.spotify.com/track/5R5oXUlnzXfQZUnbNZz2Dm"

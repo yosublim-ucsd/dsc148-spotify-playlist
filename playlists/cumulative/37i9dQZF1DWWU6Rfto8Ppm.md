@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-381 songs - 23 hr 0 min
+382 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Calentamiento](https://open.spotify.com/track/6bKLzIH6wdyX4y1cl0O2fN) | [Jadiel](https://open.spotify.com/artist/1K0lOPFlbPF3Volp5qIYNw), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Calentamiento](https://open.spotify.com/album/50P9Kc9hBUuyNiozCKMDTo) | 3:38 | 2022-12-16 |  |
 | [Cantinero](https://open.spotify.com/track/2bJVNlb6SsjseSti5jnxqc) | [Fusion Perreo](https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI) | [Cantinero](https://open.spotify.com/album/5COfnmgB3zAma9C2PSFWS1) | 3:41 | 2022-05-13 | 2022-06-09 |
 | [Carita Bonita](https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4) | [Erre XI](https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed), [PeeWee](https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp) | [Luny Tunes Presents ERRE XI](https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl) | 4:14 | 2022-10-12 |  |
+| [Chambonea](https://open.spotify.com/track/3SESZ1maRpb7b12VpbgRWN) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Vida Escante](https://open.spotify.com/album/4zdEAfhZ9PymOasYqNK6uZ) | 2:51 | 2023-04-20 |  |
 | [Chica 10](https://open.spotify.com/track/0UJapEivI95Bl2CU8OYKNh) | [Fusion Perreo](https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI) | [Chica 10](https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG) | 3:49 | 2022-05-13 |  |
 | [Chica Plastica](https://open.spotify.com/track/3sVpw06XTctdLcq1lnc3Cu) | [Johnny Prez](https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw), [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7) | [El Dragon](https://open.spotify.com/album/6d5MGIEbLpHEOaBtZeR5pO) | 4:14 | 2022-10-12 | 2023-05-10 |
 | [Chica Ven Pa' Aca](https://open.spotify.com/track/5mmh6YyxJeS34vAe4M447R) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Los Matadores del Genero](https://open.spotify.com/album/5csCMnX1VNrZmzz1saqakQ) | 3:24 | 2021-12-17 | 2022-07-29 |
@@ -211,7 +212,7 @@
 | [Na De Na](https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Showtime](https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw) | 3:22 | 2022-07-27 |  |
 | [Na De Na](https://open.spotify.com/track/5QgJjttIrNUiHCnpqlb05J) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Reyes del perreo](https://open.spotify.com/album/2yxCIICjEi443hROXHvwWa) | 3:22 | 2022-10-12 | 2022-11-14 |
 | [Na De Na](https://open.spotify.com/track/5oQDYIpN3ieXNHwXAr8TXf) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Showtime](https://open.spotify.com/album/03UcnEB1GF99BGjNWbybrN) | 3:22 | 2021-12-17 | 2022-07-29 |
-| [Nada Va Pasar](https://open.spotify.com/track/75X53FdflurNxPYB0pvOmW) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Los Mackieavelikos 2055](https://open.spotify.com/album/65mWBdR3c3ueYBJggBIXKC) | 4:04 | 2022-07-27 |  |
+| [Nada Va Pasar](https://open.spotify.com/track/75X53FdflurNxPYB0pvOmW) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Los Mackieavelikos 2055](https://open.spotify.com/album/65mWBdR3c3ueYBJggBIXKC) | 4:04 | 2022-07-27 | 2023-05-18 |
 | [Nada Va Pasar](https://open.spotify.com/track/1FTTvjvgX2Qd9ZJqo36m1C) | [Yaga Y Mackie](https://open.spotify.com/artist/4TOUZfR63IZfrh0lfRZ0rf), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Los Mackieavelikos'](https://open.spotify.com/album/1y7wpOi7VVJfibGmDEwMn6) | 4:04 | 2021-12-17 | 2022-07-28 |
 | [Nadie Como Tu](https://open.spotify.com/track/3E2jVBZU7fjRNB0m3PrrhF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Wisin Y Yandel Presentan: Los Vaqueros](https://open.spotify.com/album/5gHKtewt6CtuGLiAj2m3XC) | 3:42 | 2021-12-17 | 2022-07-29 |
 | [Nadie Sabe](https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR) | [Cheka](https://open.spotify.com/artist/68KZ4vm3B5yAZutdy2RvIE), [Michael Stuart](https://open.spotify.com/artist/5iaO1NHFcaQigDtuJi0mhe) | [La Pelicula](https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME) | 3:24 | 2021-12-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > ⚔️👑 battle of the north 👑⚔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,187 likes - 698 songs - 1 day 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,364 likes - 698 songs - 1 day 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -707,4 +707,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 697 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 698 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MCxhMjRmOTEwMWExYjg5ZGQ5MjhiZDI1ZWM3MzhiMmMzYjUwMGE0NTVk`
+Snapshot ID: `MCwyMzkzNzI1ZmZkODk2ZDFhNWY1ZmQ0NmUzZTZhN2EwOGRlNzUyMWM5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Issac Stuart",
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Isabel Dumaa",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 177157,
       "name": "ALL ABOUT YOU",
       "url": "https://open.spotify.com/track/6QBEphkFQ4yrZfBUaDbzhb"
@@ -3190,7 +3190,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 111986,
       "name": "Attention",
       "url": "https://open.spotify.com/track/7wU4q6Axt5ST67cs86H7HP"
@@ -5050,6 +5050,24 @@
       "duration_ms": 200689,
       "name": "Big City",
       "url": "https://open.spotify.com/track/71yvYjIXolclpnJjNsLLrb"
+    },
+    {
+      "album": {
+        "name": "Big Star",
+        "url": "https://open.spotify.com/album/5M1Y1ppNc7NFFq5b6U0s5K"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180421,
+      "name": "Big Star",
+      "url": "https://open.spotify.com/track/3lnfzmGxaOSBLc2Hh4M5NT"
     },
     {
       "album": {
@@ -7989,6 +8007,24 @@
     },
     {
       "album": {
+        "name": "Care If You Could",
+        "url": "https://open.spotify.com/album/2J7HnYrnGj0f5uiUTumZ05"
+      },
+      "artists": [
+        {
+          "name": "Cola Morgan",
+          "url": "https://open.spotify.com/artist/6fb5hF60hiic4JbKIfDBYp"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "Care If You Could",
+      "url": "https://open.spotify.com/track/00lGR7sA2Thb5W1I4rP0W7"
+    },
+    {
+      "album": {
         "name": "Care Less",
         "url": "https://open.spotify.com/album/1633cgED1abzbBKxDIxyor"
       },
@@ -9166,6 +9202,24 @@
       "duration_ms": 166685,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4lVBd8J6mLr1hIv94wRcQh"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/7oxgzFBrKobdBo9NeKX4Tl"
+      },
+      "artists": [
+        {
+          "name": "Medhanit",
+          "url": "https://open.spotify.com/artist/6d47pDeW16qbk4CiGFkmW7"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173375,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/2d5orsE02tsi1j0a0zHpxr"
     },
     {
       "album": {
@@ -12128,7 +12182,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 213149,
       "name": "Does She Know",
       "url": "https://open.spotify.com/track/7gRTDxpQ1paYETKq92pxa6"
@@ -19154,7 +19208,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 171815,
       "name": "Guts",
       "url": "https://open.spotify.com/track/7HvKjHSbLk8WVdD0CdEoiZ"
@@ -24418,7 +24472,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 144545,
       "name": "Imma Star!",
       "url": "https://open.spotify.com/track/6MnEibAZ0nBdTbQSFtiqde"
@@ -25695,6 +25749,24 @@
     },
     {
       "album": {
+        "name": "Karaoke Star",
+        "url": "https://open.spotify.com/album/15L21J2wHKkjcKBMtkBzFG"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "Karaoke Star",
+      "url": "https://open.spotify.com/track/6vPIhvt1PC7ZBO1QyEvv2I"
+    },
+    {
+      "album": {
         "name": "S.T. (Pictured Resort, Work Drugs)",
         "url": "https://open.spotify.com/album/5alj6mttfNn2gDlFyNsn4A"
       },
@@ -25970,6 +26042,24 @@
       "duration_ms": 273000,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/23VBqsCg1rXpiDYsZ8qtDB"
+    },
+    {
+      "album": {
+        "name": "King of Disappointment",
+        "url": "https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251265,
+      "name": "King of Disappointment",
+      "url": "https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse"
     },
     {
       "album": {
@@ -29830,7 +29920,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 166696,
       "name": "Luvsakilla",
       "url": "https://open.spotify.com/track/7iYWOoYPV5b6PWSsQq2hef"
@@ -31870,7 +31960,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 195995,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/6DMYmNWSMNz75b0nsKC8SO"
@@ -34502,7 +34592,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 155538,
       "name": "off a few",
       "url": "https://open.spotify.com/track/3uquVUpmjDwTsLvbg8YtmK"
@@ -37287,6 +37377,24 @@
     },
     {
       "album": {
+        "name": "Popsicle",
+        "url": "https://open.spotify.com/album/6LsfxTZih135bUPoObrD81"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Popsicle",
+      "url": "https://open.spotify.com/track/74NL5Ie5ggLQBIqJK1l1MF"
+    },
+    {
+      "album": {
         "name": "Poster Girl",
         "url": "https://open.spotify.com/album/6nYZQLpRbZRxZpNLVZgDhu"
       },
@@ -38124,6 +38232,24 @@
       "duration_ms": 138816,
       "name": "Pyrite Heart",
       "url": "https://open.spotify.com/track/4ZtFdFa9kTE3Qtg0gTWz0G"
+    },
+    {
+      "album": {
+        "name": "Quarter Life Crisis",
+        "url": "https://open.spotify.com/album/0bgl9yFKMZsMh6jc0WpavY"
+      },
+      "artists": [
+        {
+          "name": "Isabel Dumaa",
+          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "Quarter Life Crisis",
+      "url": "https://open.spotify.com/track/7HGd3eYorrvkbVMRLhodLD"
     },
     {
       "album": {
@@ -41234,7 +41360,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 142258,
       "name": "Sex",
       "url": "https://open.spotify.com/track/3UA1fLIL2yMKB5HWwEAsrv"
@@ -45387,6 +45513,24 @@
     },
     {
       "album": {
+        "name": "Super Mall Mannequin",
+        "url": "https://open.spotify.com/album/0LYUDQdolDvnzps2eaKVCv"
+      },
+      "artists": [
+        {
+          "name": "Quotes From Movies",
+          "url": "https://open.spotify.com/artist/5WR0cJ1JElYsi0mmC7AJ4t"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200080,
+      "name": "Super Mall Mannequin",
+      "url": "https://open.spotify.com/track/4IaTh1fIDJ7NYjbK85sIYQ"
+    },
+    {
+      "album": {
         "name": "Superficial",
         "url": "https://open.spotify.com/album/5N9KBw4M6P9lRPYrzQJ8XF"
       },
@@ -45398,7 +45542,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 146110,
       "name": "Superficial",
       "url": "https://open.spotify.com/track/6xShwxe9hzJuKOsjVyoSSQ"
@@ -46490,7 +46634,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 170666,
       "name": "Teddy Bears",
       "url": "https://open.spotify.com/track/2eG51v3kPUsGEp2LDpEZAx"
@@ -47154,7 +47298,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 199267,
       "name": "The Cut",
       "url": "https://open.spotify.com/track/6AO3YHxtUwTjoKfhZYtvLT"
@@ -47638,6 +47782,24 @@
       "duration_ms": 237022,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/1UTjHykpF9EJgohsG166DA"
+    },
+    {
+      "album": {
+        "name": "the youth, emotions and everything in between (deluxe)",
+        "url": "https://open.spotify.com/album/2xW2KnET2GG2xHpgKXPcq8"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237022,
+      "name": "The Silence",
+      "url": "https://open.spotify.com/track/2ydJqqTWwGVlNiixaL9yxu"
     },
     {
       "album": {
@@ -48593,6 +48755,24 @@
     },
     {
       "album": {
+        "name": "to the girls i never dated",
+        "url": "https://open.spotify.com/album/7avqJFWYLytle38Syv3LmS"
+      },
+      "artists": [
+        {
+          "name": "ehren",
+          "url": "https://open.spotify.com/artist/4Rl5fXjUzKsp4dQQsvUYAw"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "to the girls i never dated",
+      "url": "https://open.spotify.com/track/6hEa65kTf0RLC1Yqj5w72S"
+    },
+    {
+      "album": {
         "name": "TOGAF (Tired Of Giving A Fuck)",
         "url": "https://open.spotify.com/album/2inGUUMkCRM4J1Rc8yuHyK"
       },
@@ -49044,6 +49224,24 @@
       "duration_ms": 145750,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/0w0ppqrsKf2O42rAXAH3o1"
+    },
+    {
+      "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/2EpAFTGVuWWnbdw3Z1mgcS"
+      },
+      "artists": [
+        {
+          "name": "Sierra Carson",
+          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187160,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/3gwcexbPVeKJQ8cN8f3Ner"
     },
     {
       "album": {
@@ -51314,7 +51512,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 137647,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU"
@@ -52378,6 +52576,24 @@
       "duration_ms": 176346,
       "name": "When It Was Chaotic",
       "url": "https://open.spotify.com/track/71bWY61oEPXCsyVOR49Lpt"
+    },
+    {
+      "album": {
+        "name": "When Nobody's Left",
+        "url": "https://open.spotify.com/album/4cKkPZIQQIzCJwobDkKi0A"
+      },
+      "artists": [
+        {
+          "name": "Keir Gibson",
+          "url": "https://open.spotify.com/artist/7ey2WoBWg8ibvFA69UNy0M"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211133,
+      "name": "When Nobody's Left",
+      "url": "https://open.spotify.com/track/2FfmRe2nnFCNncEucJobL0"
     },
     {
       "album": {
@@ -54354,6 +54570,24 @@
       "duration_ms": 205965,
       "name": "Your World",
       "url": "https://open.spotify.com/track/2AzvFMlNwqNyOsu581XkBO"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/7audZAXHAdxmRD3YJErUVm"
+      },
+      "artists": [
+        {
+          "name": "Danielle Apicella",
+          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213846,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/6IWcLsZ9h2Kde0Qjyt8BdS"
     },
     {
       "album": {

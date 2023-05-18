@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 600576,
+  "num_followers": 600784,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWJlOGQ0OGM1OWQ1OGYxMDI3NGIwMzk4MjIwMzAwYmVmY2M2NzQz",
+  "snapshot_id": "MCxlZThjZDJhMzdiNGU2YmYzNmI4ZWJjY2IxOGRiOWVmODk4OTRjZjFl",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "Sense",
+        "url": "https://open.spotify.com/album/2COAzXF28KyjaOaxr901X0"
+      },
+      "artists": [
+        {
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "The Life of Riley",
+      "url": "https://open.spotify.com/track/5fB91ioIvFnr6QEgXLCf3V"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "Kollected - The Best Of Kula Shaker",
         "url": "https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 224626,
       "name": "Tattva",
       "url": "https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "This Is How It Feels",
-        "url": "https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54"
-      },
-      "artists": [
-        {
-          "name": "Inspiral Carpets",
-          "url": "https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "This Is How It Feels - Radio Mix",
-      "url": "https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Sense",
-        "url": "https://open.spotify.com/album/2COAzXF28KyjaOaxr901X0"
+        "name": "This Is How It Feels",
+        "url": "https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54"
       },
       "artists": [
         {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+          "name": "Inspiral Carpets",
+          "url": "https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP"
         }
       ],
-      "duration_ms": 245000,
-      "name": "The Life of Riley",
-      "url": "https://open.spotify.com/track/5fB91ioIvFnr6QEgXLCf3V"
+      "duration_ms": 194000,
+      "name": "This Is How It Feels - Radio Mix",
+      "url": "https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb"
     },
     {
       "added_at": "2022-05-04 17:11:49",

@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 137773,
       "name": "Whatever (Folk Song In C)",
       "url": "https://open.spotify.com/track/4B0ev59DimAmNoBNTQ0NGd"
@@ -1554,6 +1554,24 @@
       "duration_ms": 137800,
       "name": "Whatever (Folk Song In C)",
       "url": "https://open.spotify.com/track/1YbZab5h60Tr89DZp5Tdr2"
+    },
+    {
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137800,
+      "name": "Whatever (Folk Song In C)",
+      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1u2tEI"

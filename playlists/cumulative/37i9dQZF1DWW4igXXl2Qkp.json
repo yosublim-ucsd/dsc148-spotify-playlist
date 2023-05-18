@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Devmaccc",
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Bizzy Crook",
   "name": "Fresh Finds: Hip-Hop",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 158249,
       "name": "100 Flowers (Freestyle)",
       "url": "https://open.spotify.com/track/0tLosCQJpNoOUKlstKU1pq"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 120000,
       "name": "Action Man / Mama",
       "url": "https://open.spotify.com/track/2vVIRY8PIi8lGtwBwXcBYX"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 113317,
       "name": "apathy",
       "url": "https://open.spotify.com/track/0FbvZWH5U89TSqtbSMo39N"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 168421,
       "name": "Backend",
       "url": "https://open.spotify.com/track/2RIZZjL7hmpOxY3glK7ukT"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 151543,
       "name": "before the sunset",
       "url": "https://open.spotify.com/track/6Sl8ZFkYXI2oYXHeHjo0gy"
@@ -1662,6 +1662,24 @@
       "duration_ms": 171232,
       "name": "Ben10",
       "url": "https://open.spotify.com/track/7KBZKRX0WpvB5Wkqb7TcvD"
+    },
+    {
+      "album": {
+        "name": "BENIHANAS",
+        "url": "https://open.spotify.com/album/3UNsv3I6ei272tlnjYX8Gv"
+      },
+      "artists": [
+        {
+          "name": "Lil Benny",
+          "url": "https://open.spotify.com/artist/3V5erRwkViNiYbgKqXjrF0"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157492,
+      "name": "BENIHANAS",
+      "url": "https://open.spotify.com/track/0zHIzLEmeCCKUHyoSp3FiP"
     },
     {
       "album": {
@@ -2354,6 +2372,24 @@
       "duration_ms": 168190,
       "name": "Bounty",
       "url": "https://open.spotify.com/track/49ZSE92nSaGofTlhMQJvkX"
+    },
+    {
+      "album": {
+        "name": "BOW!",
+        "url": "https://open.spotify.com/album/5GODCHNDM2cbQnTcBkSQrP"
+      },
+      "artists": [
+        {
+          "name": "Ninioh",
+          "url": "https://open.spotify.com/artist/5VTVgxlzNmUztDhglHqIEL"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124545,
+      "name": "BOW!",
+      "url": "https://open.spotify.com/track/6oa7Q3TrzGPHC9Xv0xVTQQ"
     },
     {
       "album": {
@@ -4557,6 +4593,24 @@
     },
     {
       "album": {
+        "name": "Feel Myself",
+        "url": "https://open.spotify.com/album/4aCOfAqQzqJCGIcB0M2y7f"
+      },
+      "artists": [
+        {
+          "name": "C Stunna",
+          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124712,
+      "name": "Feel Myself",
+      "url": "https://open.spotify.com/track/5UZDa68agfhGslaVVOKphN"
+    },
+    {
+      "album": {
         "name": "Feelin Like Rylo",
         "url": "https://open.spotify.com/album/6SnxOflet3jdrMvcmbhNKl"
       },
@@ -5020,7 +5074,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 118588,
       "name": "GAME ON LOCK",
       "url": "https://open.spotify.com/track/1gK93HaJnBsIGtWp2H1nsw"
@@ -5924,6 +5978,32 @@
       "duration_ms": 164943,
       "name": "Herringbone",
       "url": "https://open.spotify.com/track/0ekkYaWO7OR9RBWtOcGPKM"
+    },
+    {
+      "album": {
+        "name": "EMOTIONAL CREATURE",
+        "url": "https://open.spotify.com/album/7qcZanCG2hCGTWwz5NIC4q"
+      },
+      "artists": [
+        {
+          "name": "Realbleeda",
+          "url": "https://open.spotify.com/artist/0DNZpdaIrwHQAknPciWiU7"
+        },
+        {
+          "name": "AiA LITT",
+          "url": "https://open.spotify.com/artist/59zWs0FraqkYOKclVavFqd"
+        },
+        {
+          "name": "BabyDelly",
+          "url": "https://open.spotify.com/artist/7BpTn8a1VBhR1hzfk9WYCW"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "HI SPEED (with AiA LITT & BabyDelly)",
+      "url": "https://open.spotify.com/track/5CsFSfyl4ujmTKi8s1mHeg"
     },
     {
       "album": {
@@ -7845,6 +7925,24 @@
     },
     {
       "album": {
+        "name": "Makin It Sound",
+        "url": "https://open.spotify.com/album/0JUVW9JVy1ZMpLzOrh8opj"
+      },
+      "artists": [
+        {
+          "name": "Da Crook",
+          "url": "https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Makin It Sound",
+      "url": "https://open.spotify.com/track/7m86xBkIzjSNxbaqA0rIcJ"
+    },
+    {
+      "album": {
         "name": "Manners",
         "url": "https://open.spotify.com/album/3GEPdmo8XO5lHdbc9QQHOk"
       },
@@ -8342,7 +8440,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 157664,
       "name": "MONKE ON ROOFTOP",
       "url": "https://open.spotify.com/track/0VqY3F40vX8CiC9qjsBgqF"
@@ -11337,6 +11435,24 @@
     },
     {
       "album": {
+        "name": "Sex For Breakfast",
+        "url": "https://open.spotify.com/album/5VDKGBeuR8JL94hmeAX91D"
+      },
+      "artists": [
+        {
+          "name": "Asoh Black!",
+          "url": "https://open.spotify.com/artist/50KItow1zdTmMTAVX3FKIg"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92400,
+      "name": "Sex For Breakfast",
+      "url": "https://open.spotify.com/track/6FdwRsOEOYBDPwdMyCK1LF"
+    },
+    {
+      "album": {
         "name": "Shake (Valliefunk)",
         "url": "https://open.spotify.com/album/3emrFFrO5EFBdqiytF45Id"
       },
@@ -11432,7 +11548,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 223820,
       "name": "Show Me Different",
       "url": "https://open.spotify.com/track/3O5pKSTofn7QyXR0izGUNj"
@@ -11768,7 +11884,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 140739,
       "name": "SMD",
       "url": "https://open.spotify.com/track/5GXj0baJ9aN2ZxoxxaYrRQ"
@@ -12365,6 +12481,24 @@
     },
     {
       "album": {
+        "name": "summer heat",
+        "url": "https://open.spotify.com/album/7en0cUmmNysiD3saoVNHKK"
+      },
+      "artists": [
+        {
+          "name": "SSJ Daki",
+          "url": "https://open.spotify.com/artist/3LQGKxbHBSjkqT11IpByEb"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130619,
+      "name": "summer heat",
+      "url": "https://open.spotify.com/track/7lQiTriCtJYEXaK3Lz1foK"
+    },
+    {
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/2m7woQW8imyUenD0BQyoyn"
       },
@@ -12631,6 +12765,24 @@
     },
     {
       "album": {
+        "name": "The Last Dance",
+        "url": "https://open.spotify.com/album/66U307HBY3iMZk6afuh0Rr"
+      },
+      "artists": [
+        {
+          "name": "Pyrex Pryce",
+          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189496,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/6pZMDwkmvrqt2ubqpLGRQy"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/0vdxQXOTw5nxaSZxad64jY"
       },
@@ -12740,7 +12892,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 141956,
       "name": "THERAPY",
       "url": "https://open.spotify.com/track/0LbxKVuswds6Vj63WgEkcB"
@@ -13130,6 +13282,24 @@
       "duration_ms": 163310,
       "name": "Touch\u00e9",
       "url": "https://open.spotify.com/track/3kjBpFB5bLhWWC1OTJhMMU"
+    },
+    {
+      "album": {
+        "name": "TRACKHAWK",
+        "url": "https://open.spotify.com/album/1ItLOxHON2RHBRTl6GP3bY"
+      },
+      "artists": [
+        {
+          "name": "Wiardon",
+          "url": "https://open.spotify.com/artist/7DNWAdCPicuaw9vhjudRlS"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160494,
+      "name": "TRACKHAWK",
+      "url": "https://open.spotify.com/track/1tOnsspmCml7fdSC4TsI77"
     },
     {
       "album": {

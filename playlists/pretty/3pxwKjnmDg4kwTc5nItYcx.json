@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTY0Niw2ZWVlYWRhZGU1YzU0NGNiZWM1ZDRjY2RhNTRmOTI2MDI0MjVjNzM5",
+  "snapshot_id": "MTY0Nyw0ZmMxZWY1ODIwYTg3ZGY4NjI0ZDczMzFhMzhhNmYzMmZhOTFjOGVl",
   "tracks": [
     {
       "added_at": "2023-05-12 03:41:02",
@@ -91,6 +91,22 @@
       "duration_ms": 138687,
       "name": "Hello Goodbye",
       "url": "https://open.spotify.com/track/6upGcdwvci1n9wyQHGVX1m"
+    },
+    {
+      "added_at": "2023-05-17 05:22:53",
+      "album": {
+        "name": "ALL MINE",
+        "url": "https://open.spotify.com/album/5MVN44ryoa6sLFsv42BoCb"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2"
     },
     {
       "added_at": "2023-05-12 03:41:02",

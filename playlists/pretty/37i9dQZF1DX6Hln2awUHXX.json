@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 88138,
+  "num_followers": 88179,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWE4ZGU3ZDE4NWMyZjE4NmNhZDJhYTJmYzY1YzczNDU2MDQxZmU2",
+  "snapshot_id": "MCxmYThlNDBkYTgyY2ZkMGFmMTY0ZTkwNWZkNTViMTBhMWMzMzQ5ZWRi",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1211,6 +1211,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Siegfried, WWV 86C",
+        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 318266,
+      "name": "Siegfried, WWV 86C, Act II: Prelude",
+      "url": "https://open.spotify.com/track/0Ta5BZyrvDF1IUSSuMDIYR"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Die Walk\u00fcre",
         "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
       },
@@ -1239,30 +1263,6 @@
       "duration_ms": 383706,
       "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Schl\u00e4fst du, Gast?...Der M\u00e4nner Sippe sa\u00df hier\"",
       "url": "https://open.spotify.com/track/5BDIQEtnvYf4A2VJvt3TP7"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Siegfried, WWV 86C",
-        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 318266,
-      "name": "Siegfried, WWV 86C, Act II: Prelude",
-      "url": "https://open.spotify.com/track/0Ta5BZyrvDF1IUSSuMDIYR"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1800,9 +1800,9 @@
           "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
         }
       ],
-      "duration_ms": 238106,
-      "name": "Die Meistersinger von N\u00fcrnberg, Act 2, Scene 1: Johannistag! Hohannistag!",
-      "url": "https://open.spotify.com/track/4WuubL0pYhkgFKqNG9wHmI"
+      "duration_ms": 435106,
+      "name": "Die Meistersinger von N\u00fcrnberg, Act 1, Scene 2: Der Meister T\u00f6n' und Weisen",
+      "url": "https://open.spotify.com/track/4opFhqVqx53vQnVgK3oIic"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1832,9 +1832,9 @@
           "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
         }
       ],
-      "duration_ms": 435106,
-      "name": "Die Meistersinger von N\u00fcrnberg, Act 1, Scene 2: Der Meister T\u00f6n' und Weisen",
-      "url": "https://open.spotify.com/track/4opFhqVqx53vQnVgK3oIic"
+      "duration_ms": 238106,
+      "name": "Die Meistersinger von N\u00fcrnberg, Act 2, Scene 1: Johannistag! Hohannistag!",
+      "url": "https://open.spotify.com/track/4WuubL0pYhkgFKqNG9wHmI"
     },
     {
       "added_at": "2022-06-28 08:58:25",

@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: DevilDriver
 
-724 songs - 2 day 5 hr 52 min
+725 songs - 2 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [Into The Storm](https://open.spotify.com/track/0FcbEF2c45mID7o7IJ0qM6) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Into The Storm](https://open.spotify.com/album/7GcDYQFIVJ6W3IkzIfFiia) | 5:02 | 2021-12-17 | 2022-07-29 |
 | [Into the Void](https://open.spotify.com/track/62AlQhD90S7973EkbBT0Xj) | [Knights of the Realm](https://open.spotify.com/artist/7drZpVrfcqFcFdX3of49Uo) | [Knights of the Realm](https://open.spotify.com/album/4vqFFMxNsElDirSMoJjwoG) | 4:32 | 2022-03-22 | 2022-04-01 |
 | [Invaders](https://open.spotify.com/track/4bKdrTctrZRcfsY2nSv1Kc) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Invaders](https://open.spotify.com/album/3BEw4TA7gQa6rmOAYOmkkN) | 4:32 | 2022-04-08 | 2022-04-20 |
-| [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 | 2022-05-13 |  |
+| [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 | 2022-05-13 | 2023-05-18 |
 | [It’s Electric](https://open.spotify.com/track/7mvQXgyVwWr9fYMVDoCMkY) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [It’s Electric](https://open.spotify.com/album/1OkYZGeYAH4wbHRcTrkQrS) | 3:18 | 2021-12-17 | 2022-07-29 |
 | [Jenseits der Welt](https://open.spotify.com/track/5CrW7UPOqpdZYHSPZN4UyE) | [Unzucht](https://open.spotify.com/artist/2hfInImCCmb7zXIuCE15IN) | [Jenseits der Welt](https://open.spotify.com/album/5oVBjXFAwdU5WUiu3Rwo6S) | 4:32 | 2021-12-17 | 2022-07-26 |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-14 |  |
@@ -608,6 +608,7 @@
 | [The Fairies Dance](https://open.spotify.com/track/4z4ZxpLwW5iw34kPLFk9BD) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [We Will Rise](https://open.spotify.com/album/3dy0hZ8sr2ixQwDyhgI5lZ) | 3:57 | 2022-07-08 |  |
 | [The Final Sacrifice](https://open.spotify.com/track/4cScKIcfk0H7Awz0Yugsa2) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA) | [The Final Sacrifice](https://open.spotify.com/album/2xJzhdiI0vskP79u3CYHMR) | 5:03 | 2021-12-17 | 2022-07-28 |
 | [The God Machine](https://open.spotify.com/track/0s9tecYETp3GUGQkVqOcwf) | [Steel Prophet](https://open.spotify.com/artist/4v1a1bQxKeJh5afZEJAzjg) | [The God Machine](https://open.spotify.com/album/2OgISomK2lsnOSvyGP0Cpt) | 3:21 | 2021-12-17 | 2022-05-19 |
+| [The Golden Trail](https://open.spotify.com/track/1rBYsCI24Fw07Hg4e1Dwlh) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf) | [The Golden Trail](https://open.spotify.com/album/4ns2AZUzWlGWgMk2MUYHdP) | 4:40 | 2023-05-12 |  |
 | [The Great Heathen Army](https://open.spotify.com/track/15rzwcnr5ZRaRF7xQjg9Wd) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Great Heathen Army](https://open.spotify.com/album/2Ge7U7lz8QrfTEI9RmBEhc) | 4:04 | 2022-07-08 | 2022-10-02 |
 | [The Hammer of Witches](https://open.spotify.com/track/54Zpik1kydPmySK4dnQARZ) | [Sorcerer](https://open.spotify.com/artist/2O1JmZHgbLq9ttqx0AqjVm) | [The Hammer of Witches](https://open.spotify.com/album/5yNMvmRUiuKnvzA16MuRNA) | 5:17 | 2021-12-17 | 2022-07-20 |
 | [The Heist](https://open.spotify.com/track/5eEvLYyyDHWqz4QYIhmnf6) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [The Heist](https://open.spotify.com/album/36CPcyqm6fMthJLOVX56sH) | 5:45 | 2022-03-22 | 2022-04-16 |

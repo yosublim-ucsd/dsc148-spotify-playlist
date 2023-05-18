@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 140897,
+  "num_followers": 140965,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTE0YTkxNGRjOGE3NDA4NmZiY2RmZDlkZGU0NzE0N2ExMjNiODQ3",
+  "snapshot_id": "MCw1YjQ4ODAyMWJjNDQ1NzkzMmM5NzkyODAxMTYwYTQ1ZjYyYTNiMmYx",
   "tracks": [
     {
       "added_at": "2023-05-16 15:00:00",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-05-16 15:00:00",
       "album": {
-        "name": "DOCUMENT (2023)",
-        "url": "https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69"
+        "name": "DAILY BOP",
+        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
       },
       "artists": [
         {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 278403,
-      "name": "DOCUMENT - 2023",
-      "url": "https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg"
+      "duration_ms": 145384,
+      "name": "\u30a8\u30e2\u3081\u306e\u590f",
+      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
     },
     {
       "added_at": "2023-05-16 15:00:00",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-05-16 15:00:00",
       "album": {
-        "name": "DAILY BOP",
-        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
+        "name": "DOCUMENT (2023)",
+        "url": "https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
         }
       ],
-      "duration_ms": 145384,
-      "name": "\u30a8\u30e2\u3081\u306e\u590f",
-      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
+      "duration_ms": 278403,
+      "name": "DOCUMENT - 2023",
+      "url": "https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg"
     },
     {
       "added_at": "2023-05-16 15:00:00",
@@ -407,18 +407,22 @@
     {
       "added_at": "2023-05-16 15:00:00",
       "album": {
-        "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
-        "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
+        "name": "Zurukunai?",
+        "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
         }
       ],
-      "duration_ms": 176919,
-      "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
-      "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
+      "duration_ms": 208981,
+      "name": "Zurukunai?",
+      "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
     },
     {
       "added_at": "2023-05-16 15:00:00",
@@ -439,22 +443,18 @@
     {
       "added_at": "2023-05-16 15:00:00",
       "album": {
-        "name": "Zurukunai?",
-        "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
+        "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
+        "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
       },
       "artists": [
         {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 208981,
-      "name": "Zurukunai?",
-      "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
+      "duration_ms": 176919,
+      "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
+      "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
     },
     {
       "added_at": "2023-05-16 15:00:00",
@@ -916,8 +916,8 @@
           "url": "https://open.spotify.com/artist/0h1BKDiSM47e0dNBoExa5N"
         },
         {
-          "name": "\u3055\u3089\u3055",
-          "url": "https://open.spotify.com/artist/70Zjrk75IWb125KyOdgMYk"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
       "duration_ms": 219786,
@@ -975,8 +975,8 @@
     {
       "added_at": "2023-05-16 15:00:00",
       "album": {
-        "name": "\u5922\u3067\u9022\u3048\u305f\u3089",
-        "url": "https://open.spotify.com/album/2dPU5rTeBuzX7T1ztEpEvP"
+        "name": "Yume de Aetara",
+        "url": "https://open.spotify.com/album/3FMoztMSsW5rYtyWEPq82q"
       },
       "artists": [
         {
@@ -985,8 +985,8 @@
         }
       ],
       "duration_ms": 211636,
-      "name": "\u5922\u3067\u9022\u3048\u305f\u3089",
-      "url": "https://open.spotify.com/track/5FutWWD7OviEyQnwPUCzGB"
+      "name": "Yume de Aetara",
+      "url": "https://open.spotify.com/track/3NWzlQGyXmsVeGkY7OHFDy"
     },
     {
       "added_at": "2023-05-16 15:00:00",
@@ -1008,7 +1008,7 @@
       "added_at": "2023-05-16 15:00:00",
       "album": {
         "name": "Time is Over",
-        "url": "https://open.spotify.com/album/71M79kQeKxgOCS7zNLOsR7"
+        "url": "https://open.spotify.com/album/5CXHvXpRQlU0h0smVuJUpc"
       },
       "artists": [
         {
@@ -1018,7 +1018,7 @@
       ],
       "duration_ms": 204480,
       "name": "Time is Over",
-      "url": "https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa"
+      "url": "https://open.spotify.com/track/0wSJH37VmqSMJdh1ns6dCI"
     },
     {
       "added_at": "2023-05-16 15:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-05-16 15:00:00",
       "album": {
+        "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
+        "url": "https://open.spotify.com/album/0oZLf6DhoyHhtDMGrybbCb"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a3\u30f3\u30da\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1"
+        }
+      ],
+      "duration_ms": 226432,
+      "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
+      "url": "https://open.spotify.com/track/6aAOQW6aYVfb1RZTpseu5K"
+    },
+    {
+      "added_at": "2023-05-16 15:00:00",
+      "album": {
         "name": "TICKETS",
         "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
       },
@@ -1219,26 +1235,6 @@
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
-    },
-    {
-      "added_at": "2023-05-16 15:00:00",
-      "album": {
-        "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
-        "url": "https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J"
-      },
-      "artists": [
-        {
-          "name": "\u4f36",
-          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
-        },
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
-      "url": "https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU"
     },
     {
       "added_at": "2023-05-16 15:00:00",
@@ -1259,18 +1255,22 @@
     {
       "added_at": "2023-05-16 15:00:00",
       "album": {
-        "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
-        "url": "https://open.spotify.com/album/0oZLf6DhoyHhtDMGrybbCb"
+        "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
+        "url": "https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J"
       },
       "artists": [
         {
-          "name": "\u30c6\u30a3\u30f3\u30da\u30c3\u30c4",
-          "url": "https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1"
+          "name": "\u4f36",
+          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
+        },
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
         }
       ],
-      "duration_ms": 226432,
-      "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
-      "url": "https://open.spotify.com/track/6aAOQW6aYVfb1RZTpseu5K"
+      "duration_ms": 227253,
+      "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
+      "url": "https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU"
     },
     {
       "added_at": "2023-05-16 15:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-05-16 15:00:00",
       "album": {
-        "name": "TWO",
-        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
-    },
-    {
-      "added_at": "2023-05-16 15:00:00",
-      "album": {
         "name": "PLASMA",
         "url": "https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 376533,
       "name": "Drive\u2019n The Rain",
       "url": "https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e"
+    },
+    {
+      "added_at": "2023-05-16 15:00:00",
+      "album": {
+        "name": "TWO",
+        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
     },
     {
       "added_at": "2023-05-16 15:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-05-16 15:00:00",
       "album": {
-        "name": "\u3053\u306e\u4e2d\u3067",
-        "url": "https://open.spotify.com/album/4tE6yGPwcQ93uWrrF70GN3"
-      },
-      "artists": [
-        {
-          "name": "Miyake Ken",
-          "url": "https://open.spotify.com/artist/6jxv5njEC0TQ7R6zYvcmHb"
-        }
-      ],
-      "duration_ms": 248280,
-      "name": "\u3053\u306e\u4e2d\u3067",
-      "url": "https://open.spotify.com/track/3l9fQYoLOqtuT9VKrNSkW0"
-    },
-    {
-      "added_at": "2023-05-16 15:00:00",
-      "album": {
         "name": "A.Y.A e.p",
         "url": "https://open.spotify.com/album/0DqIJCwOCkKi4HLuxuSbn3"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2023-05-16 15:00:00",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/6BNkiD2XOV1g2BZGHSOKQJ"
+        "name": "\u3053\u306e\u4e2d\u3067",
+        "url": "https://open.spotify.com/album/4tE6yGPwcQ93uWrrF70GN3"
       },
       "artists": [
         {
-          "name": "Kiyotaka Sugiyama",
-          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
+          "name": "Miyake Ken",
+          "url": "https://open.spotify.com/artist/6jxv5njEC0TQ7R6zYvcmHb"
         }
       ],
-      "duration_ms": 337573,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO"
+      "duration_ms": 248280,
+      "name": "\u3053\u306e\u4e2d\u3067",
+      "url": "https://open.spotify.com/track/3l9fQYoLOqtuT9VKrNSkW0"
     },
     {
       "added_at": "2023-05-16 15:00:00",
@@ -1671,6 +1655,22 @@
       "duration_ms": 217000,
       "name": "Last Train",
       "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
+    },
+    {
+      "added_at": "2023-05-16 15:00:00",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/6BNkiD2XOV1g2BZGHSOKQJ"
+      },
+      "artists": [
+        {
+          "name": "Kiyotaka Sugiyama",
+          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
+        }
+      ],
+      "duration_ms": 337573,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO"
     },
     {
       "added_at": "2023-05-16 15:00:00",

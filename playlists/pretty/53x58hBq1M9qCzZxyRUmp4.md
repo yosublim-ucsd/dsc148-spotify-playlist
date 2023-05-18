@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 
 > 50 of each week's best new rock and metal tracks\. New updates every Friday!  🔊 🤘🏿🤘🤘🏽
 
-[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 12,909 likes - 50 songs - 3 hr 23 min
+[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 12,908 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 | 37 | [New Horizons](https://open.spotify.com/track/2sHZTVXbyiz38DIFZYgxdQ) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm), [Fabienne Erni](https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR) | [New Horizons](https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK) | 4:25 |
 | 38 | [One More Day](https://open.spotify.com/track/6KkGp1FbJ2iyK8s9PNfqxa) | [Arrival Of Autumn](https://open.spotify.com/artist/6OLm78czd7Y80yrzwAb7FK) | [One More Day](https://open.spotify.com/album/2cxNtNyWEmjAsDnAZOIzAX) | 4:25 |
 | 39 | [Strong Heart](https://open.spotify.com/track/1y8CHkBXgjcmj64TwHrmjN) | [Wytch Hazel](https://open.spotify.com/artist/4EwBNQKEzshM5Yxs6cyzpt) | [Strong Heart](https://open.spotify.com/album/6QmVviopUbE30XEyBSwpxs) | 3:58 |
-| 40 | [The Low Life Anthem](https://open.spotify.com/track/5NeuLMXLNROMGPJ5Q96wPD) | [Low Like You](https://open.spotify.com/artist/0mZfJOO1PYKjBRVSopuIFR) | [The Low Life Anthem](https://open.spotify.com/album/09ItmjWGb41OArXmo1HRdV) | 3:03 |
-| 41 | [Love's Not Your Thing \- Acoustic](https://open.spotify.com/track/0J4iw5gUJ9ichsKiTFUZUd) | [Cherie Amour](https://open.spotify.com/artist/1AEA7WXbSHrGKKD7P0Jj52) | [Love's Not Your Thing \(Acoustic\)](https://open.spotify.com/album/26hWNGOP10gDBMO8n5haTy) | 2:51 |
-| 42 | [Plastic](https://open.spotify.com/track/6HiBjDRQapX1hsMRT7smAJ) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Over My Dead Body EP](https://open.spotify.com/album/1d5UIg8hyEyIi7olXI9nbT) | 2:43 |
-| 43 | [Mor](https://open.spotify.com/track/3XDqmlpUCvZs0GxSkQrxRN) | [Arkona](https://open.spotify.com/artist/6AJ9HQ2Ptp1WWEfBFvR5fF) | [Mor](https://open.spotify.com/album/4RXdY48Mjz205dTqY4Toun) | 9:41 |
-| 44 | [Dead on the Inside](https://open.spotify.com/track/7xogFaBweOxQSNh2LlelCC) | [Don't Sleep](https://open.spotify.com/artist/6GF8XNcOJKguRrkcFqqxf2) | [Dead on the Inside](https://open.spotify.com/album/4LMJp1jIzXYtUooAM178k7) | 2:48 |
-| 45 | [Who Likes To Deal With Death?](https://open.spotify.com/track/7ExylbLvluoZNEQAQ1Cjiz) | [The Intersphere](https://open.spotify.com/artist/7GGtuvcBdHQYVbXi9B8YnY) | [Who Likes To Deal With Death?](https://open.spotify.com/album/4a7GTZUWRn5NUElbJAK869) | 3:51 |
-| 46 | [The Fix is In](https://open.spotify.com/track/2qomvQ7wDDJk3tBu1pOeEN) | [Geld](https://open.spotify.com/artist/2I57IxnW6Ee0lhtQTcwNrn) | [The Fix is In](https://open.spotify.com/album/3ZWi4sn3TBkIBgh9nFaj8r) | 3:27 |
-| 47 | [Armageddon](https://open.spotify.com/track/7Cn0v7wlAVtbpUU74aC9L6) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Armageddon](https://open.spotify.com/album/0gwWF9vQcV1YdcAHVk5mML) | 3:07 |
-| 48 | [This Hell is Mine](https://open.spotify.com/track/5IKeZmP1pZ7i9NNM4gndZ5) | [Vulture Industries](https://open.spotify.com/artist/2ZkCq3NiRMh8QkAWzQWXnp) | [This Hell is Mine](https://open.spotify.com/album/0yxBDxzHIVE6vhqUqXIbgf) | 4:05 |
+| 40 | [This Hell is Mine](https://open.spotify.com/track/5IKeZmP1pZ7i9NNM4gndZ5) | [Vulture Industries](https://open.spotify.com/artist/2ZkCq3NiRMh8QkAWzQWXnp) | [This Hell is Mine](https://open.spotify.com/album/0yxBDxzHIVE6vhqUqXIbgf) | 4:05 |
+| 41 | [The Low Life Anthem](https://open.spotify.com/track/5NeuLMXLNROMGPJ5Q96wPD) | [Low Like You](https://open.spotify.com/artist/0mZfJOO1PYKjBRVSopuIFR) | [The Low Life Anthem](https://open.spotify.com/album/09ItmjWGb41OArXmo1HRdV) | 3:03 |
+| 42 | [Love's Not Your Thing \- Acoustic](https://open.spotify.com/track/0J4iw5gUJ9ichsKiTFUZUd) | [Cherie Amour](https://open.spotify.com/artist/1AEA7WXbSHrGKKD7P0Jj52) | [Love's Not Your Thing \(Acoustic\)](https://open.spotify.com/album/26hWNGOP10gDBMO8n5haTy) | 2:51 |
+| 43 | [Plastic](https://open.spotify.com/track/6HiBjDRQapX1hsMRT7smAJ) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Over My Dead Body EP](https://open.spotify.com/album/1d5UIg8hyEyIi7olXI9nbT) | 2:43 |
+| 44 | [Mor](https://open.spotify.com/track/3XDqmlpUCvZs0GxSkQrxRN) | [Arkona](https://open.spotify.com/artist/6AJ9HQ2Ptp1WWEfBFvR5fF) | [Mor](https://open.spotify.com/album/4RXdY48Mjz205dTqY4Toun) | 9:41 |
+| 45 | [Dead on the Inside](https://open.spotify.com/track/7xogFaBweOxQSNh2LlelCC) | [Don't Sleep](https://open.spotify.com/artist/6GF8XNcOJKguRrkcFqqxf2) | [Dead on the Inside](https://open.spotify.com/album/4LMJp1jIzXYtUooAM178k7) | 2:48 |
+| 46 | [Who Likes To Deal With Death?](https://open.spotify.com/track/7ExylbLvluoZNEQAQ1Cjiz) | [The Intersphere](https://open.spotify.com/artist/7GGtuvcBdHQYVbXi9B8YnY) | [Who Likes To Deal With Death?](https://open.spotify.com/album/4a7GTZUWRn5NUElbJAK869) | 3:51 |
+| 47 | [The Fix is In](https://open.spotify.com/track/2qomvQ7wDDJk3tBu1pOeEN) | [Geld](https://open.spotify.com/artist/2I57IxnW6Ee0lhtQTcwNrn) | [The Fix is In](https://open.spotify.com/album/3ZWi4sn3TBkIBgh9nFaj8r) | 3:27 |
+| 48 | [Armageddon](https://open.spotify.com/track/7Cn0v7wlAVtbpUU74aC9L6) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Armageddon](https://open.spotify.com/album/0gwWF9vQcV1YdcAHVk5mML) | 3:07 |
 | 49 | [Broken Soul](https://open.spotify.com/track/7o2jvAAwCgNQCHFeQqHAlM) | [Robledo](https://open.spotify.com/artist/6Y6kfRuslh8spqmZIengYY) | [Broken Soul](https://open.spotify.com/album/1PcD7CGkD2sM6cPfKSLyQ1) | 3:52 |
 | 50 | [Truth is Futility](https://open.spotify.com/track/2XCVOWTot4XSpMOHRY4h4Z) | [Fen](https://open.spotify.com/artist/1MlFNDlH2naWutA9C0nNVB) | [Truth is Futility](https://open.spotify.com/album/01K8xNFno2nzd4tQUpQ8nU) | 9:35 |
 
-Snapshot ID: `MzY0NSxkYTczYTE0NWNlMDQ1ZGM0MTM4YjRmZmVmMTgyMTg1MjMwNzUwYmFh`
+Snapshot ID: `MzY0NixmMGYxNjAzODEyOWE1MGQ0YjYwNGQ3ZDM0NGRkYjcxMTU5Njc5OTJh`

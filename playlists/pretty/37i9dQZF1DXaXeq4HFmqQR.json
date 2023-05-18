@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Catana. \nDales play, dales power.",
-  "num_followers": 11936,
+  "num_followers": 11935,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDExMjdkZWFmYWRjOGJhNjA3MDVmNzM0ZmVhNzlkNjBhM2QxOWM5",
+  "snapshot_id": "MCxkODk0ODk5OTlkZTI4N2Y2ZjRhODk4NjcwYWZkOGQ3NDkyNzk5MTZk",
   "tracks": [
     {
       "added_at": "2023-05-03 03:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY"
-      },
-      "artists": [
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        }
-      ],
-      "duration_ms": 191857,
-      "name": "Siempre Nice",
-      "url": "https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "No Le Bajes",
         "url": "https://open.spotify.com/album/2IJhnQ4zhnRG11pEbz3wFT"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 177272,
       "name": "No Le Bajes",
       "url": "https://open.spotify.com/track/4lfJ1o9QFUhqULepgZdlD8"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Back to Basics",
+        "url": "https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "duration_ms": 191857,
+      "name": "Siempre Nice",
+      "url": "https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Br\u00edgida",
-        "url": "https://open.spotify.com/album/4Mn1APLhJYZNRpqEmUphgp"
-      },
-      "artists": [
-        {
-          "name": "Vesta Lugg",
-          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
-        }
-      ],
-      "duration_ms": 162834,
-      "name": "Br\u00edgida",
-      "url": "https://open.spotify.com/track/4YlYsqejhE3xBb0XfWXXjE"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "KTM",
         "url": "https://open.spotify.com/album/1K4MCwzabYrHKStunPKVmR"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 157377,
       "name": "KTM",
       "url": "https://open.spotify.com/track/3rA2LeNavJ9MyyG1SFhwcD"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Br\u00edgida",
+        "url": "https://open.spotify.com/album/4Mn1APLhJYZNRpqEmUphgp"
+      },
+      "artists": [
+        {
+          "name": "Vesta Lugg",
+          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
+        }
+      ],
+      "duration_ms": 162834,
+      "name": "Br\u00edgida",
+      "url": "https://open.spotify.com/track/4YlYsqejhE3xBb0XfWXXjE"
     },
     {
       "added_at": "2023-05-03 03:00:00",

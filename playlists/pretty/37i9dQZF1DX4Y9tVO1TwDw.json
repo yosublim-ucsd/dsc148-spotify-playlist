@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: DannyLux",
-  "num_followers": 19767,
+  "num_followers": 19769,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjliMDUwMTQ5OTFkMGNiNjU3NWY1MjlkYzBkZTcwNjIxNjU2NDU4",
+  "snapshot_id": "MCwxMGUzYmM1ZmM3OWZkZTJlNGRjM2VkMDFlZTdjYWIzNWJlOWU2Mzcw",
   "tracks": [
     {
       "added_at": "2023-04-21 05:16:07",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Make it Norte\u00f1o Vol. 1",
-        "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
-      },
-      "artists": [
-        {
-          "name": "EZ Band",
-          "url": "https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 185252,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "Make it Norte\u00f1o Vol. 1",
+        "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
+      },
+      "artists": [
+        {
+          "name": "EZ Band",
+          "url": "https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "No Fuimos Nada",
-        "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 182981,
-      "name": "No Fuimos Nada",
-      "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "amigos con beneficios",
         "url": "https://open.spotify.com/album/5GIg36pmqOUTW5SlAAqqnh"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 241141,
       "name": "amigos con beneficios",
       "url": "https://open.spotify.com/track/5z7CdPON2afBSONCdIMniG"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "No Fuimos Nada",
+        "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 182981,
+      "name": "No Fuimos Nada",
+      "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/73B3LmWNzzyZTVb7GOfWpK"
+      },
+      "artists": [
+        {
+          "name": "Bella Dose",
+          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+        }
+      ],
+      "duration_ms": 186403,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/5ye1NS6HQQjQ2PDUGm4EzE"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "\u00bfD\u00f3nde?",
         "url": "https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/73B3LmWNzzyZTVb7GOfWpK"
+        "name": "Olvidar De Ti",
+        "url": "https://open.spotify.com/album/2pQx1F9ehl2E8V88HuHhlb"
       },
       "artists": [
         {
-          "name": "Bella Dose",
-          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
         }
       ],
-      "duration_ms": 186403,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/5ye1NS6HQQjQ2PDUGm4EzE"
+      "duration_ms": 133060,
+      "name": "Olvidar De Ti",
+      "url": "https://open.spotify.com/track/4FAyJudwDRGLZyXsYPxRRI"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -743,22 +759,6 @@
       "duration_ms": 168994,
       "name": "OH NO",
       "url": "https://open.spotify.com/track/7dJD8JAMAZmPZRimGYfCwe"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "Olvidar De Ti",
-        "url": "https://open.spotify.com/album/2pQx1F9ehl2E8V88HuHhlb"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 133060,
-      "name": "Olvidar De Ti",
-      "url": "https://open.spotify.com/track/4FAyJudwDRGLZyXsYPxRRI"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "ALERGICA",
-        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
+        "name": "Flexa",
+        "url": "https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR"
       },
       "artists": [
         {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+          "name": "Sessi",
+          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
         }
       ],
-      "duration_ms": 185389,
-      "name": "ALERGICA",
-      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
+      "duration_ms": 198320,
+      "name": "Flexa",
+      "url": "https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Flexa",
-        "url": "https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR"
-      },
-      "artists": [
-        {
-          "name": "Sessi",
-          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "Flexa",
-      "url": "https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "ANYWAY",
         "url": "https://open.spotify.com/album/2OTJpqiKPctZPSOJcKwmUB"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 210480,
       "name": "ANYWAY",
       "url": "https://open.spotify.com/track/6GY2FCfIwuY0tlmk0HE9t2"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "ALERGICA",
+        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 185389,
+      "name": "ALERGICA",
+      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "La Ingenua",
-        "url": "https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5"
-      },
-      "artists": [
-        {
-          "name": "La Cassandra",
-          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
-        }
-      ],
-      "duration_ms": 217072,
-      "name": "La Ingenua",
-      "url": "https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "overflow",
         "url": "https://open.spotify.com/album/4Npxh394iWsnecaWncrvJU"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 175850,
       "name": "overflow",
       "url": "https://open.spotify.com/track/54Emsvj9A1qPH6zXOafruV"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "La Ingenua",
+        "url": "https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5"
+      },
+      "artists": [
+        {
+          "name": "La Cassandra",
+          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
+        }
+      ],
+      "duration_ms": 217072,
+      "name": "La Ingenua",
+      "url": "https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "DE CERO A 100",
-        "url": "https://open.spotify.com/album/7wTSAIHdVtcLa3scZsipuI"
-      },
-      "artists": [
-        {
-          "name": "Yeiow",
-          "url": "https://open.spotify.com/artist/55l4u3fRNiOaM00eZjw5yl"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "DE CERO A 100",
-      "url": "https://open.spotify.com/track/6Pg2ciFoNsARurxQWm6KlN"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "FASES",
         "url": "https://open.spotify.com/album/4cCKSr1kDU2hYecgmMmHBn"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 190976,
       "name": "Ya No Eres Igual",
       "url": "https://open.spotify.com/track/56XRdqcXlIquG1BZuirDel"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "DE CERO A 100",
+        "url": "https://open.spotify.com/album/7wTSAIHdVtcLa3scZsipuI"
+      },
+      "artists": [
+        {
+          "name": "Yeiow",
+          "url": "https://open.spotify.com/artist/55l4u3fRNiOaM00eZjw5yl"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "DE CERO A 100",
+      "url": "https://open.spotify.com/track/6Pg2ciFoNsARurxQWm6KlN"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "Que Vuelvas / Bebe Dame",
+        "url": "https://open.spotify.com/album/4ogxUO5T4YutKJlGSfDiq3"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 176592,
+      "name": "Que Vuelvas / Bebe Dame",
+      "url": "https://open.spotify.com/track/4anE0W56Z8NKjAwAuMZA1o"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "El Raulito",
         "url": "https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 237737,
       "name": "Atmosf\u00e9rica",
       "url": "https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH"
-      },
-      "artists": [
-        {
-          "name": "Calista Del Toro",
-          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
-        }
-      ],
-      "duration_ms": 155439,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S"
     }
   ],
   "unique_name": "MADE",

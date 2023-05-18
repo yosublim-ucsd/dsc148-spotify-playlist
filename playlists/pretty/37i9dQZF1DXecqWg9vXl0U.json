@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Cuco y The Marias.",
-  "num_followers": 43898,
+  "num_followers": 43953,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTdhYTRmOWM2ZWU0ZTViNjExOGVlNjJjNTdlMTg0NzdkYTAwMjZi",
+  "snapshot_id": "MCwyMjU3N2FmMDdkNjJmNDk5NTYyYTg2YzFiMzlmMjM1MDY1ODhlMGFl",
   "tracks": [
     {
       "added_at": "2023-05-05 23:35:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-05-05 23:35:00",
       "album": {
+        "name": "No drama",
+        "url": "https://open.spotify.com/album/0YHmhz8znqPuHULSAzAS9f"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "No drama",
+      "url": "https://open.spotify.com/track/7GSO4ELAP08oZs3VtIJPZa"
+    },
+    {
+      "added_at": "2023-05-05 23:35:00",
+      "album": {
         "name": "Quiero Quedarme para Siempre",
         "url": "https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 189310,
       "name": "Quiero Quedarme para Siempre",
       "url": "https://open.spotify.com/track/3du9ocej65TycajaDfw8j9"
-    },
-    {
-      "added_at": "2023-05-05 23:35:00",
-      "album": {
-        "name": "No drama",
-        "url": "https://open.spotify.com/album/0YHmhz8znqPuHULSAzAS9f"
-      },
-      "artists": [
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "No drama",
-      "url": "https://open.spotify.com/track/7GSO4ELAP08oZs3VtIJPZa"
     },
     {
       "added_at": "2023-05-05 23:35:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-05-05 23:35:00",
       "album": {
-        "name": "D\u00f3nde Se Fue",
-        "url": "https://open.spotify.com/album/5hyqHil6N94D39opduIeCB"
-      },
-      "artists": [
-        {
-          "name": "Mike Soto",
-          "url": "https://open.spotify.com/artist/0QuTRSu03o1Z4rmnyme9YV"
-        },
-        {
-          "name": "Exale",
-          "url": "https://open.spotify.com/artist/476zvM4wDdcOOrDWKP9Wu7"
-        }
-      ],
-      "duration_ms": 166367,
-      "name": "D\u00f3nde Se Fue",
-      "url": "https://open.spotify.com/track/32ACpno0pKll8JsMywSpsG"
-    },
-    {
-      "added_at": "2023-05-05 23:35:00",
-      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 203076,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
+    },
+    {
+      "added_at": "2023-05-05 23:35:00",
+      "album": {
+        "name": "D\u00f3nde Se Fue",
+        "url": "https://open.spotify.com/album/5hyqHil6N94D39opduIeCB"
+      },
+      "artists": [
+        {
+          "name": "Mike Soto",
+          "url": "https://open.spotify.com/artist/0QuTRSu03o1Z4rmnyme9YV"
+        },
+        {
+          "name": "Exale",
+          "url": "https://open.spotify.com/artist/476zvM4wDdcOOrDWKP9Wu7"
+        }
+      ],
+      "duration_ms": 166367,
+      "name": "D\u00f3nde Se Fue",
+      "url": "https://open.spotify.com/track/32ACpno0pKll8JsMywSpsG"
     },
     {
       "added_at": "2023-05-05 23:35:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-05-05 23:35:00",
       "album": {
-        "name": "Chill",
-        "url": "https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0"
+        "name": "me pongo un poco sad",
+        "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
       },
       "artists": [
         {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+          "name": "tom\u00e1sss",
+          "url": "https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw"
         }
       ],
-      "duration_ms": 163095,
-      "name": "Chill",
-      "url": "https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf"
+      "duration_ms": 199357,
+      "name": "me pongo un poco sad",
+      "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
     },
     {
       "added_at": "2023-05-05 23:35:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-05-05 23:35:00",
       "album": {
+        "name": "Chill",
+        "url": "https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 163095,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf"
+    },
+    {
+      "added_at": "2023-05-05 23:35:00",
+      "album": {
         "name": "Ojos",
         "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 222099,
       "name": "Ojos",
       "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
-    },
-    {
-      "added_at": "2023-05-05 23:35:00",
-      "album": {
-        "name": "me pongo un poco sad",
-        "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
-      },
-      "artists": [
-        {
-          "name": "tom\u00e1sss",
-          "url": "https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw"
-        }
-      ],
-      "duration_ms": 199357,
-      "name": "me pongo un poco sad",
-      "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
     },
     {
       "added_at": "2023-05-05 23:35:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-05 23:35:00",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
-      },
-      "artists": [
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        }
-      ],
-      "duration_ms": 242407,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
-    },
-    {
-      "added_at": "2023-05-05 23:35:00",
-      "album": {
         "name": "Siempre Hago Lo Que Quiero",
         "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 224000,
       "name": "Siempre Hago Lo Que Quiero",
       "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
+    },
+    {
+      "added_at": "2023-05-05 23:35:00",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
+      },
+      "artists": [
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        }
+      ],
+      "duration_ms": 242407,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
     },
     {
       "added_at": "2023-05-05 23:35:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-05-05 23:35:00",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5"
-      },
-      "artists": [
-        {
-          "name": "Norwayy",
-          "url": "https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
-    },
-    {
-      "added_at": "2023-05-05 23:35:00",
-      "album": {
         "name": "Hola Lola",
         "url": "https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 237142,
       "name": "Hola Lola",
       "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
+    },
+    {
+      "added_at": "2023-05-05 23:35:00",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5"
+      },
+      "artists": [
+        {
+          "name": "Norwayy",
+          "url": "https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
     },
     {
       "added_at": "2023-05-05 23:35:00",

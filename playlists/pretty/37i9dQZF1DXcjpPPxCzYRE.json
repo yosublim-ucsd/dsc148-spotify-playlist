@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 365200,
+  "num_followers": 365251,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTE4NmE4MzYxZGVjNGI1MGQ4Njg3Y2Y4MDZkZGU1NGZhYTEyOWY2",
+  "snapshot_id": "MCw0NzBlYWE0ZjRmNjM4MzJlYWUxMjU3MWRiNTM3ZWY2OTdjNTc5OTNk",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "All in Time",
-        "url": "https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW"
-      },
-      "artists": [
-        {
-          "name": "Shake Shake Go",
-          "url": "https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk"
-        }
-      ],
-      "duration_ms": 235043,
-      "name": "England Skies",
-      "url": "https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "ojitos caramelo",
         "url": "https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 147761,
       "name": "ojitos caramelo",
       "url": "https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "All in Time",
+        "url": "https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW"
+      },
+      "artists": [
+        {
+          "name": "Shake Shake Go",
+          "url": "https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk"
+        }
+      ],
+      "duration_ms": 235043,
+      "name": "England Skies",
+      "url": "https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "In Deepest Blue (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "The Spark",
-      "url": "https://open.spotify.com/track/1jkBuvWI9IGEz9thXiKOlP"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Borneo",
         "url": "https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 172965,
       "name": "Rayito",
       "url": "https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "In Deepest Blue (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/1jkBuvWI9IGEz9thXiKOlP"
     },
     {
       "added_at": "2023-04-20 22:00:00",

@@ -2,7 +2,7 @@
 
 ### [Legendary Labels: Alligator](https://open.spotify.com/playlist/37i9dQZF1DX1BcGDqSxiaP)
 
-> Releases from the legendary label.
+> Releases from the legendary Blues label.
 
 57 songs - 4 hr 9 min
 

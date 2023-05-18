@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Sukha, AR Paisley, Prodgk, Sunny Malton
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,533 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,556 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 19 | [Hold Out](https://open.spotify.com/track/4E2wIuFOblfmOxZburqG4d) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Hold Out](https://open.spotify.com/album/2OX9IracC1Uxe5Uwv9Bty9) | 2:01 |
 | 20 | [Red Ruby Da Sleeze \(Freestyle\)](https://open.spotify.com/track/1q8yXt5d908LOVoiUaztNl) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU) | [Red Ruby Da Sleeze \(Freestyle\)](https://open.spotify.com/album/1LhvBa4dgVvspCYdFZpbwY) | 2:45 |
 | 21 | [Been Here Before](https://open.spotify.com/track/3oSh9cXjrOqKcGXDpWCndn) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Been Here Before](https://open.spotify.com/album/7eXL8w60EH5cpkW4LpqjAM) | 3:52 |
-| 22 | [Solid 16s, Pt\. 1](https://open.spotify.com/track/2gZUr6VGa9Wu7IZoHMcMxg) | [Keep6ixSolid](https://open.spotify.com/artist/18fTLyEDn8zNWaZg4ooYT6) | [Casper TNG x Solid 16s](https://open.spotify.com/album/0lAj4kG10zNMwVJrgoZuVK) | 2:14 |
+| 22 | [Casper TNG Solid 16s, Pt\. 1](https://open.spotify.com/track/2gZUr6VGa9Wu7IZoHMcMxg) | [Keep6ixSolid](https://open.spotify.com/artist/18fTLyEDn8zNWaZg4ooYT6) | [Casper TNG x Solid 16s](https://open.spotify.com/album/0lAj4kG10zNMwVJrgoZuVK) | 2:14 |
 | 23 | [Un seul roi](https://open.spotify.com/track/5DUEh6jFq13rek2tknux7u) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Un seul roi](https://open.spotify.com/album/4iFVf4c8xU9LcI82lW127E) | 2:04 |
 | 24 | [Dem Dead Freestyle](https://open.spotify.com/track/5OC2lRBDNEJOxqWvsqijRk) | [Golde London](https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb) | [Dem Dead Freestyle](https://open.spotify.com/album/1WJZ4TdjmpUzgtmzWvKI6h) | 1:50 |
 | 25 | [EYE LANGUAGE](https://open.spotify.com/track/5dPZWdcXMbUFu6wNUZMyVX) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [EYE LANGUAGE](https://open.spotify.com/album/13JpN9rflHdSwWGvSw284v) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [B.G.A](https://open.spotify.com/track/3d0Q8lgAV5eBdLm6P2Mu4k) | [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [B.G.A](https://open.spotify.com/album/6Z3PqPEQsp7bWiFGr0gtNf) | 1:47 |
 | 100 | [Finesse Demons](https://open.spotify.com/track/4aG1LGfEqZh5UQmtyAogoU) | [Jimmy Yitty](https://open.spotify.com/artist/2oOPVizPrUkoNmnqo7wdBx) | [Finesse Demons](https://open.spotify.com/album/1nV2gt4a6uNV2U9GLES9Wt) | 2:30 |
 
-Snapshot ID: `MCwwNDhmMTMzNzdiYzU3ZjQ3OWJhMzMxYzA2YWExZTllNGQ5ZjYyOTg3`
+Snapshot ID: `MCxjYWNlNzhmZDUxYmRlZDEwOGZkNjQyNmJlN2JkZWU2MDM4MGMzMmMy`

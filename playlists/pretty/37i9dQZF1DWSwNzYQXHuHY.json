@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7436,
+  "num_followers": 7444,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzYyYjUyYWU3NDQzMzgwNWFkZmJjNGU5ZmE5YWZkMWJiOTBjODUz",
+  "snapshot_id": "MCwxNTYyY2E4OTI5ZmU4MDNjZWFmZjRkOGU1MjlhYzViNDA2MDMzMzA5",
   "tracks": [
     {
       "added_at": "2023-05-05 08:18:09",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-05-05 08:18:09",
       "album": {
-        "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
-        "url": "https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q"
-      },
-      "artists": [
-        {
-          "name": "LAS",
-          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
-        },
-        {
-          "name": "MIYEON",
-          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
-      "url": "https://open.spotify.com/track/0gmBVi8J2Sk18uaNFBtOel"
-    },
-    {
-      "added_at": "2023-05-05 08:18:09",
-      "album": {
         "name": "HONEY",
         "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 227506,
       "name": "HONEY (Feat. Crucial Star)",
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
+    },
+    {
+      "added_at": "2023-05-05 08:18:09",
+      "album": {
+        "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
+        "url": "https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q"
+      },
+      "artists": [
+        {
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+        },
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
+      "url": "https://open.spotify.com/track/0gmBVi8J2Sk18uaNFBtOel"
     },
     {
       "added_at": "2023-05-05 08:18:09",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-05-05 08:18:09",
       "album": {
-        "name": "Let's Love",
-        "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
-      },
-      "artists": [
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        },
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Let's Love",
-      "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
-    },
-    {
-      "added_at": "2023-05-05 08:18:09",
-      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 233456,
       "name": "A midsummer night's sweetness",
       "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+    },
+    {
+      "added_at": "2023-05-05 08:18:09",
+      "album": {
+        "name": "Let's Love",
+        "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
+      },
+      "artists": [
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        },
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Let's Love",
+      "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
     },
     {
       "added_at": "2023-05-05 08:18:09",

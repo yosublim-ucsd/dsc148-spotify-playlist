@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,895 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 12 | [GMM](https://open.spotify.com/track/11k61hv8iYNiOORNBR1AlH) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [GMM](https://open.spotify.com/album/533UTz0dq2rUvEXVjNMOhs) | 2:26 |
 | 13 | [STILL HUMBLE](https://open.spotify.com/track/3GKQZZoHZ2MrfvQtipT5f9) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [STILL HUMBLE](https://open.spotify.com/album/6wO8JOuEelcIK5XVju4hm2) | 3:25 |
 | 14 | [Hood Baby](https://open.spotify.com/track/3uDCm6yZcY84XJ5Do8LBHZ) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Gorilla Zoe](https://open.spotify.com/artist/3Y365ZqTf6fJ4ZcRnLKPGt) | [Hood Baby](https://open.spotify.com/album/6on7qgC5JQBXncKAkXoQRQ) | 2:43 |
-| 15 | [Solid 16s, Pt\. 1](https://open.spotify.com/track/2gZUr6VGa9Wu7IZoHMcMxg) | [Keep6ixSolid](https://open.spotify.com/artist/18fTLyEDn8zNWaZg4ooYT6) | [Casper TNG x Solid 16s](https://open.spotify.com/album/0lAj4kG10zNMwVJrgoZuVK) | 2:14 |
+| 15 | [Casper TNG Solid 16s, Pt\. 1](https://open.spotify.com/track/2gZUr6VGa9Wu7IZoHMcMxg) | [Keep6ixSolid](https://open.spotify.com/artist/18fTLyEDn8zNWaZg4ooYT6) | [Casper TNG x Solid 16s](https://open.spotify.com/album/0lAj4kG10zNMwVJrgoZuVK) | 2:14 |
 | 16 | [Do It Again](https://open.spotify.com/track/5x4YAw8bHOuKdn5mSuYQg1) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Do It Again](https://open.spotify.com/album/3vwGL87DCDLdXsYSlsTrA7) | 3:51 |
 | 17 | [Sunset Marquis Suite](https://open.spotify.com/track/270tDuROaRsJ5jOSfSXhnH) | [Futuristiks: Mike & Keys](https://open.spotify.com/artist/5NqhwJ4INtrBjbepKh9hru), [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Jake One](https://open.spotify.com/artist/3uKU7PMJ1n14NcZ131I6wd) | [Ten Toes Down](https://open.spotify.com/album/65slp6V2GyiCyOsBQDW2HN) | 3:10 |
 | 18 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 |
 | 19 | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 |
 | 20 | [The Basement](https://open.spotify.com/track/5AiS9AoF7ONfTcNdXjWPNi) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [The Basement](https://open.spotify.com/album/3vBiOLOfxBGyxc6rhVsjK2) | 3:22 |
 | 21 | [Sweet Dreams](https://open.spotify.com/track/6PuxCrw3vrb84baTpIrDHr) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw) | [Sweet Dreams](https://open.spotify.com/album/0uGKd9BuGvcCN0Vg7TKxMY) | 3:12 |
-| 22 | [Mob Business](https://open.spotify.com/track/6VsVdAOO0AfJo9za71hQsd) | [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [From The Cradle To The Game](https://open.spotify.com/album/3KfXv2pCUXIoz9bt8tJKiu) | 3:55 |
+| 22 | [Mob Business](https://open.spotify.com/track/6VsVdAOO0AfJo9za71hQsd) | [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [From The Cradle To The Game](https://open.spotify.com/album/3KfXv2pCUXIoz9bt8tJKiu) | 3:55 |
 | 23 | [ZOOM](https://open.spotify.com/track/4Srrjc22zSJ0pGWgvaFe73) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [ZOOM](https://open.spotify.com/album/6IBuIlVNDk8OfIrtxS790q) | 2:24 |
 | 24 | [No Problems](https://open.spotify.com/track/4D2vt3fDELk1gNQpUGucZ1) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [No Problems](https://open.spotify.com/album/7ELvTvraPPFmhn5540Zyc5) | 1:19 |
 | 25 | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [SOUL2SOUL](https://open.spotify.com/track/3oPxQpdUb4WsW9C9nK1Yzi) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [The Oracle](https://open.spotify.com/album/0uFLe5OZIuPbh5f22ouEs6) | 3:30 |
 | 50 | [Perfect like this?](https://open.spotify.com/track/3cUStytoluiZ1H2ZCAvWQk) | [Mosez Jones](https://open.spotify.com/artist/3v2UncvXxZIIh1d0xiTyNp) | [Perfect like this?](https://open.spotify.com/album/7yyrbi05SAlX1okS4hxE2W) | 3:15 |
 
-Snapshot ID: `MCxkN2E4YzIyODE1ZWNjZTRmNjk2MDBhZjM0M2U2ZjYyMDk3MzAxNTAw`
+Snapshot ID: `MCxlNDcxNDU0ZDQ0YTU3MTM4ZTQ0YjEzY2NkOTQwNmRkY2M1M2ZhMTgz`

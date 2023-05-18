@@ -698,6 +698,28 @@
     {
       "album": {
         "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265939,
+      "name": "Growing Up (Feat. ELO)",
+      "url": "https://open.spotify.com/track/5welAhPGLmQek8nhhY1816"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
         "url": "https://open.spotify.com/album/6K59hSvoc9Y4CAB63TLqbz"
       },
       "artists": [
@@ -734,7 +756,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 265939,
       "name": "Growing up (feat.ELO)",
       "url": "https://open.spotify.com/track/1CiEPH5HuqXLxWouWIMX5s"
@@ -910,7 +932,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 230106,
       "name": "Hold Me Tight (Feat. Crush)",
       "url": "https://open.spotify.com/track/0w0GIaU1kfFSpc5vTwwkjT"
@@ -936,6 +958,28 @@
       "duration_ms": 230111,
       "name": "Hold Me Tight (Feat. Crush)",
       "url": "https://open.spotify.com/track/1VIw8MdNK5BDSStNx1WQ2a"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230111,
+      "name": "Hold Me Tight (Feat. Crush)",
+      "url": "https://open.spotify.com/track/1dteYDjCFppP33ANUGfKFF"
     },
     {
       "album": {
@@ -1816,10 +1860,32 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 217689,
       "name": "No Manners (Feat. GRAY)",
       "url": "https://open.spotify.com/track/3eYq62suZcEx5wSVlEEvbl"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218568,
+      "name": "No Manners (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/6sDUnutYACkOoQJWDoUhWi"
     },
     {
       "album": {

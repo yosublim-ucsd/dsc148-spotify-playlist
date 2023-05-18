@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Bîdar Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,151 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,445 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Kuşat İçimi](https://open.spotify.com/track/3A5Rfhp00HX4r4RiMgkhCp) | [Gökhan Bayındır](https://open.spotify.com/artist/0JKjrjf9BmI7a5hI1ckUg0) | [Kuşat İçimi](https://open.spotify.com/album/6rVsYZmaZ6yOarutpHaTTw) | 4:18 |
 | 75 | [Son Perde](https://open.spotify.com/track/6ixXTrGqmgluADrd9EJxxa) | [Ben Ölünce](https://open.spotify.com/artist/3aM81T2G7hGpcGGuspkI8l) | [Son Perde](https://open.spotify.com/album/7HN9KD3pQXoo5O3v2wslKO) | 3:48 |
 
-Snapshot ID: `MCxkZDljMzY3MjY4MTNhNTVjNzIzOGE2M2JkZDZiN2IwYjllODA2NGQz`
+Snapshot ID: `MCwwYTI4ZjY2YjkzOTNjODMwZWUwNTRiMzhiOWQ2NDZlOTBhMWNkNDBi`

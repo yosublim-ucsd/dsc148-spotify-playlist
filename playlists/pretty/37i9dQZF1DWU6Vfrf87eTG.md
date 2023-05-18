@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,349 likes - 116 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,334 likes - 116 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 67 | [All Along the Watchtower \(feat\. Gabe Witcher\) \- From Sons of Anarchy \(Instrumental\)](https://open.spotify.com/track/7gP40cgwzUeDkypRwpSNrf) | [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV), [Gabe Witcher](https://open.spotify.com/artist/3MjRrLK3oWzDniKxjbKPYm) | [All Along the Watchtower \(feat\. Gabe Witcher\) \[From Sons of Anarchy \(Instrumental\)\]](https://open.spotify.com/album/2NkTkCkwPwGrljRyMZnA2q) | 2:52 |
 | 68 | [Angi](https://open.spotify.com/track/24mF7MHU2S7NfkvyhKbHHZ) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/7dyUtGBLV46N0MpFIHTd67) | 2:27 |
 | 69 | [Si No Te Vas \(Instrumental\)](https://open.spotify.com/track/3dRkBf8fXhph6yQtQR7uBL) | [Carrie Rodriguez](https://open.spotify.com/artist/4bMTBaNiudO7K7Tz8jzNRF) | [Lola](https://open.spotify.com/album/58hQMhoiyYayFc1pLHwnEa) | 4:21 |
-| 70 | [Ocean](https://open.spotify.com/track/59tcQJiHwApzE4h6yVnL9i) | [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR) | [Ocean](https://open.spotify.com/album/0GeL4qG8LeNZU2yyHNpP1h) | 11:39 |
+| 70 | [Ocean](https://open.spotify.com/track/59tcQJiHwApzE4h6yVnL9i) | [John Butler](https://open.spotify.com/artist/1FIje2VOv6BhbGKCYbM8C0) | [Ocean](https://open.spotify.com/album/0GeL4qG8LeNZU2yyHNpP1h) | 11:39 |
 | 71 | [Dance of Death](https://open.spotify.com/track/5Mq9nSMTjHzhiVuB5jxQtw) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Fingerlings 4](https://open.spotify.com/album/5hjvdBMM2fat8FJ4H6EL5R) | 3:47 |
 | 72 | [The Cascades](https://open.spotify.com/track/0doAllpYP3hnusnTwFqmdG) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 2:07 |
 | 73 | [Budhvaar Raga](https://open.spotify.com/track/53wIyztwFrKjjHMo7IiLQm) | [Kyle Tuttle](https://open.spotify.com/artist/4TA1bJ58eUSl5Qn8DP1L86) | [Bobcat](https://open.spotify.com/album/4JGaZ0yry5gocDPGJjlZcy) | 5:14 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 115 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 116 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MCxkNjIwZWE1NTFlMzNmMGUyMWIzYTk0ZTIyNzRlN2YzMjVhNTk5OGIz`
+Snapshot ID: `MCxjZTdkZTdhNmQ2MDFlYTQ1YzI3MDdjMzNhNTdjZmUyOTc4MTg3YjI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > 日本でもおなじみの映画からの大ヒット曲から隠れた名曲まで、ディズニーミュージックの豊富なカタログからセレクトした公式プレイリスト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,126 likes - 125 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,155 likes - 125 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 42 | [When You Wish Upon A Star](https://open.spotify.com/track/3J6ZqwIQXQs925Omn0hrXC) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/2brEMZ0YlBCWGAU3ucYjlI) | 1:57 |
 | 43 | [Soaring: Fantastic Flight \- Ride\-Through Mix](https://open.spotify.com/track/7LcHJfJ5BhiO4w7LWPc2uM) | [Tokyo DisneySea](https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV) | [Tokyo DisneySea 20th Anniversary "Time to Shine!" Music Album](https://open.spotify.com/album/4iNUiMYiK9iZwP77Wttdgp) | 4:42 |
 | 44 | [Compass of Your Heart](https://open.spotify.com/track/59LmCrnhtWgWwKQvno6yAe) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [BE BRAVE](https://open.spotify.com/album/0MWFaihYS8wtvFTe6B7ReV) | 5:05 |
-| 45 | [It's Your Song](https://open.spotify.com/track/4MTm9d6gbIlTCksLC9WE8e) | [Tokyo Disneyland](https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2) | [Tokyo Disneyland Mickey's Magical Music World](https://open.spotify.com/album/0USSw01d6Y44HVowPhrAcD) | 2:45 |
+| 45 | [It's Your Song \- from “Mickey’s Magical Music World”](https://open.spotify.com/track/4MTm9d6gbIlTCksLC9WE8e) | [Tokyo Disneyland](https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2) | [Tokyo Disneyland Mickey's Magical Music World](https://open.spotify.com/album/0USSw01d6Y44HVowPhrAcD) | 2:45 |
 | 46 | [Lost in the Woods](https://open.spotify.com/track/4InaqdMLtGw9yDiSSHkRrI) | [Shinichiro Hara](https://open.spotify.com/artist/3PSbRPCWzdxwJciy0M0Z4Y) | [Frozen 2 \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/1OPAOaZk9VXEh6oYGYmw3q) | 3:00 |
 | 47 | [Beauty and the Beast](https://open.spotify.com/track/7wMPhUSe6CZga1vOMpLTJP) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 3:47 |
 | 48 | [Two Oruguitas](https://open.spotify.com/track/1sEaewPCEzD98sy2cdD8eA) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [Encanto \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT) | 3:34 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 124 | [Unbirthday Song](https://open.spotify.com/track/0W8jtYipop2puuuLaoRQbn) | [Camarata Chorus and Orchestra](https://open.spotify.com/artist/0iwhPeDYMRoXZYNvY8c4C9) | [Alice in Wonderland: Music from the Score, Conducted by Camarata](https://open.spotify.com/album/2gVjsjlMIrC4iXyRJF5IZj) | 2:12 |
 | 125 | [Ducky, Bunny & Tea](https://open.spotify.com/track/0SsRIXMqwZBRHlp1PdbXXn) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eKxK3GqHexeJvi8XLE2xD) | 2:16 |
 
-Snapshot ID: `MCw5NWY5MGQ3MTU4YTk1ZGY0ZGIyN2VjYThhNWQwZjhiODEzMGY2Zjg1`
+Snapshot ID: `MCxmNjA1NmQwOTgyYmY2YzdhMzdmNDhlMWU3YjU4ZGEwM2JiNzZiMDk5`

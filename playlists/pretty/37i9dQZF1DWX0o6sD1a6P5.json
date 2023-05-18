@@ -1,12 +1,12 @@
 {
   "description": "Feel-good Afropop from Europe and Africa. Cover: CKay",
-  "num_followers": 757181,
+  "num_followers": 757772,
   "original_name": "Afro Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmZhNWM4ODc4MzkwYjhiYTFkOWZiNjE2MWYwOGMxNmE1ZmQwOGU3",
+  "snapshot_id": "MCw1MWI3OGY0NzQxMTU1OTEwZDZjNDY5MDM2NTRhMDhhZTJiNTM1YTVh",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -863,26 +863,6 @@
       "duration_ms": 192000,
       "name": "How Many Times",
       "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Prends \u00e7a",
-        "url": "https://open.spotify.com/album/5mbn5HLQFzfnluNW4f5GUh"
-      },
-      "artists": [
-        {
-          "name": "Driks",
-          "url": "https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Prends \u00e7a",
-      "url": "https://open.spotify.com/track/4OY6TT0DO2LqzGkl4iV41T"
     }
   ],
   "unique_name": "Afro Hits",

@@ -4388,6 +4388,24 @@
     {
       "album": {
         "name": "Til The Neon's Gone",
+        "url": "https://open.spotify.com/album/1amWR5XgywGuP59BTGMJ8E"
+      },
+      "artists": [
+        {
+          "name": "Josh Mirenda",
+          "url": "https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221674,
+      "name": "Til The Neon's Gone",
+      "url": "https://open.spotify.com/track/54wAUMBMpdhfhZSQawogbw"
+    },
+    {
+      "album": {
+        "name": "Til The Neon's Gone",
         "url": "https://open.spotify.com/album/4JuzjUqJKslBTQdY7t6iDC"
       },
       "artists": [
@@ -4398,7 +4416,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 221674,
       "name": "Til The Neon's Gone",
       "url": "https://open.spotify.com/track/7CJgt8v2iQ4ZxFFoBgHnGI"

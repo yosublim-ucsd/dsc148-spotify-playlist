@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-499 songs - 1 day 18 hr 16 min
+500 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Dreamers](https://open.spotify.com/track/6Sqz4CWXYDwOq0Opsh40ow) | [Mark Lockheart](https://open.spotify.com/artist/4VulWjL9yvdpHbTIZhjgic) | [Dreamers](https://open.spotify.com/album/3eLkBnP846iLeo9rIZc5JN) | 5:28 | 2021-12-21 | 2022-07-29 |
 | [Dreaming In Lions: How I Love](https://open.spotify.com/track/5vSwti4CRQjSPlTN3C1AWr) | [Arturo O'Farrill](https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV), [The Afro Latin Jazz Ensemble](https://open.spotify.com/artist/2K3sn0NdY2mQcrkzMoVCsn) | [Dreaming In Lions: How I Love](https://open.spotify.com/album/3nsOSgcutEzfzjUNKjsdoL) | 4:31 | 2021-12-16 | 2022-07-29 |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2021-12-21 |  |
-| [Durban Poison 19](https://open.spotify.com/track/7h757UHOqWOei8OunNrnQc) | [Bobby Rausch](https://open.spotify.com/artist/7Ac3BjcxFq01tJlrdx0Neh) | [Durban Poison 19](https://open.spotify.com/album/4G63XNZEeBFcBC88fQfvPq) | 3:34 | 2021-12-16 |  |
+| [Durban Poison 19](https://open.spotify.com/track/7h757UHOqWOei8OunNrnQc) | [Bobby Rausch](https://open.spotify.com/artist/7Ac3BjcxFq01tJlrdx0Neh) | [Durban Poison 19](https://open.spotify.com/album/4G63XNZEeBFcBC88fQfvPq) | 3:34 | 2021-12-16 | 2023-05-18 |
 | [Dusk](https://open.spotify.com/track/55z90vMs98qGROIPgzYFn6) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Dusk](https://open.spotify.com/album/7lw1w4ErqC5qob1cbXTLEp) | 12:05 | 2022-04-01 | 2022-07-20 |
 | [Dédalo De Concreto \- Single Version](https://open.spotify.com/track/6PfUV08i2dfwa5FYsTkZiT) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo De Concreto \(Single Version\)](https://open.spotify.com/album/5EL379oEpD5fBdlU8xydPb) | 4:01 | 2022-02-03 | 2022-09-12 |
 | [EAST CROYDON feat\. James Maddren](https://open.spotify.com/track/350BnjEWhEBFeY5djjWmXq) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw) | [Projekt Drums Vol\. 1](https://open.spotify.com/album/7y71YM77RqFPGtgIrrLcGH) | 6:22 | 2021-12-16 |  |
@@ -436,6 +436,7 @@
 | [The Mental Traveller Theme \- Triorität Session](https://open.spotify.com/track/7uNIT7WRvGYveZgGfediBL) | [Triorität](https://open.spotify.com/artist/4Q9lS5h0MBIJGE5SqXoj2C), [Noa Erni](https://open.spotify.com/artist/3UAIcRXORdauo0s55wNdCU) | [The Mental Traveller \(Triorität Session\)](https://open.spotify.com/album/3ftYtVKXqPUONIPbBjtL2S) | 5:50 | 2021-12-16 |  |
 | [The Message](https://open.spotify.com/track/1L6cVfyVnlkd3Heg8Ylb0M) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [The Message](https://open.spotify.com/album/6eYurS4v6bT0aOsnXwYnVa) | 4:10 | 2021-12-16 | 2022-07-29 |
 | [The Message](https://open.spotify.com/track/4coCk3GIa2lYd2y5uySZja) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Gary Bartz JID006](https://open.spotify.com/album/1XN0Mj1xIRhvTStoqlsCXZ) | 4:10 | 2022-02-10 | 2023-04-30 |
+| [The Message](https://open.spotify.com/track/5lm0BUsUy19giySX88VGTE) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Gary Bartz JID006](https://open.spotify.com/album/0T1a9YKLmxsu7MwituMMqP) | 4:10 | 2022-02-10 |  |
 | [The Message Continues](https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [SOURCE](https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6) | 6:44 | 2021-12-16 |  |
 | [The Movement](https://open.spotify.com/track/2gOl35EUQ2OYDFM4NnF3OV) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Feast](https://open.spotify.com/album/6a5xPqtVimRZdZBtHZqw81) | 3:38 | 2021-12-16 |  |
 | [The New Heritage](https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Kosie](https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [David James](https://open.spotify.com/artist/3IuaZcLJ7Y43k5rF4EtP5U) | [The New Heritage](https://open.spotify.com/album/2wybYLaccS7y16e0bqr1zK) | 2:25 | 2021-12-16 |  |

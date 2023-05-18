@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas para voc\u00ea curtir com seu amor.",
-  "num_followers": 769509,
+  "num_followers": 769629,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZThkOTAyODc3ODhjNzlhOGY5OGVkZDViOTY3MzEwZTMzNWExNmJh",
+  "snapshot_id": "MCxmNmVhYmI2OGU1ZWYzOGMyYWNiNTJhZmFmZWI5MGI4Y2NkOWE2Y2M2",
   "tracks": [
     {
       "added_at": "2021-09-03 03:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
+        "name": "Juliette",
+        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 217258,
+      "name": "Vixe Que Gostoso",
+      "url": "https://open.spotify.com/track/2JMOMpspSaGua3VK2EFcGZ"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
         "name": "UM44K Ac\u00fastico",
         "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 217384,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
-        "name": "Juliette",
-        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 217258,
-      "name": "Vixe Que Gostoso",
-      "url": "https://open.spotify.com/track/2JMOMpspSaGua3VK2EFcGZ"
     },
     {
       "added_at": "2021-09-03 03:00:00",

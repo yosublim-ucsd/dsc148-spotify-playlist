@@ -1,12 +1,12 @@
 {
-  "description": "The soundtrack to the internet. Cover: Kanii",
-  "num_followers": 1350518,
+  "description": "The soundtrack to the internet. Cover: Lil Mabu",
+  "num_followers": 1353847,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTIxNjVjNjEwNjEwNTdiNmZhNTllZWZlZDdhZWNiMWIzNGJiODlk",
+  "snapshot_id": "MCwyOWY3OTNkMWVmZGUyODM0NjhkMWZjM2MxNjcyZDM0ZGMzYzI5ZTZi",
   "tracks": [
     {
       "added_at": "2023-05-16 13:27:10",
@@ -23,6 +23,22 @@
       "duration_ms": 102556,
       "name": "GOOD LOYAL THOTS",
       "url": "https://open.spotify.com/track/6PadQidABni2peo3kYKW0M"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "MATHEMATICAL DISRESPECT",
+        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "duration_ms": 88304,
+      "name": "MATHEMATICAL DISRESPECT",
+      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -61,22 +77,6 @@
       "url": "https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5"
     },
     {
-      "added_at": "2023-05-12 03:41:51",
-      "album": {
-        "name": "KANEKI",
-        "url": "https://open.spotify.com/album/0tYYMkbcXUErm8czzBZInY"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "KANEKI",
-      "url": "https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky"
-    },
-    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "Mazel Tron",
@@ -95,6 +95,22 @@
       "duration_ms": 208000,
       "name": "Mazel Tron",
       "url": "https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre"
+    },
+    {
+      "added_at": "2022-12-13 15:48:23",
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 150241,
+      "name": "Out th\u00eb way",
+      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
     },
     {
       "added_at": "2023-05-12 03:41:51",
@@ -177,6 +193,22 @@
       "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
     },
     {
+      "added_at": "2022-11-21 20:50:38",
+      "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 134322,
+      "name": "FreakyT",
+      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "rockhardt",
@@ -209,6 +241,38 @@
       "url": "https://open.spotify.com/track/2eJSp2cHMegpyQpddwnB3o"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "added_at": "2023-05-12 03:41:51",
+      "album": {
+        "name": "KANEKI",
+        "url": "https://open.spotify.com/album/0tYYMkbcXUErm8czzBZInY"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "KANEKI",
+      "url": "https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky"
+    },
+    {
       "added_at": "2023-02-14 16:35:41",
       "album": {
         "name": "5LBS OF PRESSURE",
@@ -225,20 +289,24 @@
       "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-05-17 21:03:28",
       "album": {
-        "name": "MATHEMATICAL DISRESPECT",
-        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
       },
       "artists": [
         {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 88304,
-      "name": "MATHEMATICAL DISRESPECT",
-      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
+      "duration_ms": 151232,
+      "name": "It's A Dream (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -255,6 +323,38 @@
       "duration_ms": 136050,
       "name": "Split",
       "url": "https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "if looks could kill",
+        "url": "https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 194213,
+      "name": "if looks could kill",
+      "url": "https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6"
+    },
+    {
+      "added_at": "2023-02-10 18:26:46",
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -289,58 +389,6 @@
       "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "if looks could kill",
-        "url": "https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 194213,
-      "name": "if looks could kill",
-      "url": "https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6"
-    },
-    {
-      "added_at": "2022-11-21 20:50:38",
-      "album": {
-        "name": "I Can't Wait",
-        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        }
-      ],
-      "duration_ms": 134322,
-      "name": "FreakyT",
-      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
-    },
-    {
-      "added_at": "2023-05-12 04:30:26",
-      "album": {
-        "name": "Burnt Out (feat. Famous Dex)",
-        "url": "https://open.spotify.com/album/6yVQ3KNcs5fT0UOMkXTRcK"
-      },
-      "artists": [
-        {
-          "name": "Ghostluvme",
-          "url": "https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W"
-        },
-        {
-          "name": "Famous Dex",
-          "url": "https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W"
-        }
-      ],
-      "duration_ms": 213386,
-      "name": "Burnt Out (feat. Famous Dex)",
-      "url": "https://open.spotify.com/track/2GBSHo9elAhxPAth48W5zL"
-    },
-    {
       "added_at": "2023-04-17 20:18:19",
       "album": {
         "name": "Vito, Pt. 2",
@@ -373,22 +421,6 @@
       "url": "https://open.spotify.com/track/1H9WjQBIXGw05iJ5Ju3wPY"
     },
     {
-      "added_at": "2023-01-04 15:02:53",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "5 O'Clock",
@@ -405,6 +437,22 @@
       "url": "https://open.spotify.com/track/0N1GBe2yFs6rl9K2EwYVZu"
     },
     {
+      "added_at": "2023-01-04 15:02:53",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
       "added_at": "2023-05-01 13:35:03",
       "album": {
         "name": "Keep Dat Nigga",
@@ -419,6 +467,42 @@
       "duration_ms": 138945,
       "name": "Keep Dat Nigga",
       "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
+    },
+    {
+      "added_at": "2023-05-12 04:30:26",
+      "album": {
+        "name": "Burnt Out (feat. Famous Dex)",
+        "url": "https://open.spotify.com/album/6yVQ3KNcs5fT0UOMkXTRcK"
+      },
+      "artists": [
+        {
+          "name": "Ghostluvme",
+          "url": "https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W"
+        },
+        {
+          "name": "Famous Dex",
+          "url": "https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W"
+        }
+      ],
+      "duration_ms": 213386,
+      "name": "Burnt Out (feat. Famous Dex)",
+      "url": "https://open.spotify.com/track/2GBSHo9elAhxPAth48W5zL"
+    },
+    {
+      "added_at": "2023-04-26 17:45:45",
+      "album": {
+        "name": "Tomioka",
+        "url": "https://open.spotify.com/album/3vNlLvYPKCWU3NTHZj4CU7"
+      },
+      "artists": [
+        {
+          "name": "Jay Eazy",
+          "url": "https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV"
+        }
+      ],
+      "duration_ms": 137586,
+      "name": "Tomioka",
+      "url": "https://open.spotify.com/track/66MBHbC0oesKfPlg01jSAc"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -505,6 +589,22 @@
       "url": "https://open.spotify.com/track/4lJEAyZDt8m7vXREjEXS6q"
     },
     {
+      "added_at": "2022-10-25 15:07:57",
+      "album": {
+        "name": "OOGA BOOGA!",
+        "url": "https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 139038,
+      "name": "OOGA BOOGA!",
+      "url": "https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Aft\u00ebrLyfe",
@@ -555,22 +655,6 @@
       "duration_ms": 302799,
       "name": "FED UP",
       "url": "https://open.spotify.com/track/0ZZgCLtt6QvRIKIWjeByaO"
-    },
-    {
-      "added_at": "2023-04-26 17:45:45",
-      "album": {
-        "name": "Tomioka",
-        "url": "https://open.spotify.com/album/3vNlLvYPKCWU3NTHZj4CU7"
-      },
-      "artists": [
-        {
-          "name": "Jay Eazy",
-          "url": "https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV"
-        }
-      ],
-      "duration_ms": 137586,
-      "name": "Tomioka",
-      "url": "https://open.spotify.com/track/66MBHbC0oesKfPlg01jSAc"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -883,22 +967,6 @@
       "duration_ms": 149538,
       "name": "Rolling Dice",
       "url": "https://open.spotify.com/track/1NMpvFmtQTyvlP9mOIdZHv"
-    },
-    {
-      "added_at": "2023-02-10 18:26:46",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1329,22 +1397,6 @@
       "url": "https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "I Can't",
-        "url": "https://open.spotify.com/album/4DZWXg7CmxlSFgIt83wTYr"
-      },
-      "artists": [
-        {
-          "name": "Montana99",
-          "url": "https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj"
-        }
-      ],
-      "duration_ms": 149563,
-      "name": "I Can't",
-      "url": "https://open.spotify.com/track/0Zo8a2oMdEKCBPFszXtxqN"
-    },
-    {
       "added_at": "2023-02-09 20:50:09",
       "album": {
         "name": "The D.O.A. Tape",
@@ -1359,22 +1411,6 @@
       "duration_ms": 113600,
       "name": "PSA",
       "url": "https://open.spotify.com/track/6T5i0o62ZyfHRRHHihYJ1n"
-    },
-    {
-      "added_at": "2022-12-13 15:48:23",
-      "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 150241,
-      "name": "Out th\u00eb way",
-      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
     },
     {
       "added_at": "2022-12-19 15:09:33",
@@ -1645,22 +1681,6 @@
       "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
       "added_at": "2023-03-22 03:09:44",
       "album": {
         "name": "We Don't Matter (Remastered)",
@@ -1675,22 +1695,6 @@
       "duration_ms": 287545,
       "name": "Macintosh Plus 2k17",
       "url": "https://open.spotify.com/track/3bMO8vLuKlFFH9uvVO036u"
-    },
-    {
-      "added_at": "2022-10-25 15:07:57",
-      "album": {
-        "name": "OOGA BOOGA!",
-        "url": "https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt"
-      },
-      "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 139038,
-      "name": "OOGA BOOGA!",
-      "url": "https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G"
     },
     {
       "added_at": "2023-02-24 05:00:00",

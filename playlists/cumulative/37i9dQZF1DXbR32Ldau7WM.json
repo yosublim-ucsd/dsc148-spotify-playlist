@@ -2730,10 +2730,28 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 256459,
       "name": "LAST FOREVER",
       "url": "https://open.spotify.com/track/1v8PMncTxjuhu0n6Lr15dX"
+    },
+    {
+      "album": {
+        "name": "LAST FOREVER",
+        "url": "https://open.spotify.com/album/73tNOaqid3GTZjHaQx7lQ4"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256459,
+      "name": "LAST FOREVER",
+      "url": "https://open.spotify.com/track/3LGrZHuqKCts17QUjaOPm8"
     },
     {
       "album": {

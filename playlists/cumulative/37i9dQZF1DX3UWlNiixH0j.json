@@ -1154,10 +1154,32 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 141555,
       "name": "DOMBIESS",
       "url": "https://open.spotify.com/track/2U5932H4qdMDFegfvZ6RhS"
+    },
+    {
+      "album": {
+        "name": "DOMBIESS",
+        "url": "https://open.spotify.com/album/6pBewdnRD0pDVNYFRrIcl8"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        },
+        {
+          "name": "Neibiss",
+          "url": "https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141555,
+      "name": "DOMBIESS",
+      "url": "https://open.spotify.com/track/7DCN3bFIPq3Z51fis90DDr"
     },
     {
       "album": {
@@ -3220,7 +3242,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 155600,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4gcA5iPJh6mPAJ0rHkBgpV"
@@ -3920,7 +3942,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 184224,
       "name": "Pentatonic \u7269\u8a9e",
       "url": "https://open.spotify.com/track/7f1ZL67EshqrNwoqBvFlWl"

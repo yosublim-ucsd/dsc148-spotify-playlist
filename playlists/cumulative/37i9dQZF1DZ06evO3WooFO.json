@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 30213,
       "name": "Brohemian Rhapsody",
       "url": "https://open.spotify.com/track/62Cv4CoAPLMkzduuenkP6K"
@@ -424,6 +424,24 @@
       "duration_ms": 185466,
       "name": "Every Time I Look For You",
       "url": "https://open.spotify.com/track/0V7Wn8Fry7KBO5stYqpFvM"
+    },
+    {
+      "album": {
+        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
+        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51306,
+      "name": "Family Reunion - Live/1999",
+      "url": "https://open.spotify.com/track/5TyHeZpXFaweWQxaihvmwH"
     },
     {
       "album": {

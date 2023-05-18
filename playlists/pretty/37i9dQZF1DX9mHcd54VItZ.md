@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD?si=Jh0Glls2SRCboWgloRfa3g">Cindy\-Louise</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,016 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,026 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [STUPID](https://open.spotify.com/track/5BQUqHbrXfVOkxPXk8wOA5) | [Rachel Ralphs](https://open.spotify.com/artist/45AKtfze9DRVc86JgbtMT6) | [STUPID](https://open.spotify.com/album/33aejrX5zsSzKJTvNyMqvR) | 2:55 |
 | 50 | [Kopskud Revolusie \(feat\. Spoegwolf\)](https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Aansteeklik](https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G) | 2:55 |
 
-Snapshot ID: `MCxhNGFmMDlhODUxNTEwZjZiYTc4NzM5Zjg2NTBkOTI0ZWRmOTU0NGZm`
+Snapshot ID: `MCw5YzAyNWNiNjVmZTA0Njc4MjU4YmNjMTJlMTA1MThlNmUwMzQxNzhi`

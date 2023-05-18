@@ -1,12 +1,12 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002BTS, Jonas Brothers, Daft Punk, \u7dd1\u9ec4\u8272\u793e\u4f1a, Becky Hill and more! cover: BTS",
-  "num_followers": 90069,
+  "num_followers": 90088,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDliMzg5YWMzNTYxYTdiZjJkMDdmZDI3ZGU1ODY3ZDE0YTliNGVk",
+  "snapshot_id": "MCxjOTg2NDZmZDk2NzY4NjFiZmQ5YTkyYjYxMjlhNDViNzFjNjdmNWIz",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1032,16 +1032,16 @@
       },
       "artists": [
         {
-          "name": "BABY GRAVY",
-          "url": "https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do"
-        },
-        {
           "name": "Yung Gravy",
           "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
         },
         {
           "name": "bbno$",
           "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "BABY GRAVY",
+          "url": "https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do"
         }
       ],
       "duration_ms": 144207,

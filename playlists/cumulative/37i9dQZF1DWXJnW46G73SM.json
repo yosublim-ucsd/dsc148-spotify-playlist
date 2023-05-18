@@ -2157,7 +2157,7 @@
         },
         {
           "name": "Maher El Mallakh",
-          "url": "https://open.spotify.com/artist/48RWA9yeD1Pt3C7M9SECpI"
+          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
         }
       ],
       "date_added": "2023-05-04",
@@ -4633,7 +4633,7 @@
         },
         {
           "name": "Maher El Mallakh",
-          "url": "https://open.spotify.com/artist/48RWA9yeD1Pt3C7M9SECpI"
+          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
         }
       ],
       "date_added": "2023-05-11",
@@ -5708,6 +5708,28 @@
       "duration_ms": 285371,
       "name": "W lessa Yama",
       "url": "https://open.spotify.com/track/795CQEQ8mgrrEXMwazznQ7"
+    },
+    {
+      "album": {
+        "name": "W Salam",
+        "url": "https://open.spotify.com/album/6lyIuHI9vEHxNRexISseEP"
+      },
+      "artists": [
+        {
+          "name": "Islam Farouk",
+          "url": "https://open.spotify.com/artist/0jlFw8aeyMYHCmvxwNFOpS"
+        },
+        {
+          "name": "Karim Heraje",
+          "url": "https://open.spotify.com/artist/24PZ8fjUktJhu10XJ7PphZ"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189384,
+      "name": "W Salam",
+      "url": "https://open.spotify.com/track/1Drqj4zr00olmRv1wCxMMF"
     },
     {
       "album": {

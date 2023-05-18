@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going w/ Designer, Christopher John Rogers for the \#MetGala
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,376 likes - 85 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,439 likes - 85 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 84 | [DAMN DANIEL \(with Yung Baby Tate\)](https://open.spotify.com/track/0gmsPeb0es7Xp5H48FK62H) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Damn Daniel \(with Yung Baby Tate\)](https://open.spotify.com/album/5KA3afnIYBwzSssNJU0V8e) | 2:52 |
 | 85 | [ICU \(feat\. Nomi Ruiz\)](https://open.spotify.com/track/2qT5wU3DiOItGKaLK0EHWT) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S), [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Muvaland](https://open.spotify.com/album/0dJgQS7Aj49uuvGMZTvF14) | 3:08 |
 
-Snapshot ID: `MCwzOTU2OTBjMmE1NDYzYjg0M2M3Y2IzMTY1ZTljOTcxY2YyYjBiOGM0`
+Snapshot ID: `MCw3NTc1ODJhNDE1MzgzMjhhNThhN2I0ZTg4YmU0Yjk4NjA3NDE5OTY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: RL Grime
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,601 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,581 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 71 | [Wobble](https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Wobble](https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb) | 3:08 |
 | 72 | [People I Know](https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [People I Know](https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS) | 3:36 |
 | 73 | [Trailblazer](https://open.spotify.com/track/3CLYGFWX1kUFMSXbpC5Qa5) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Trailblazer](https://open.spotify.com/album/7AtoANo3rq2VChRB98SPfR) | 5:14 |
-| 74 | [Interstellar](https://open.spotify.com/track/1sm3F0f494JeVkPp4ilpIt) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Say Less](https://open.spotify.com/album/0zjiaN2MHgT0OVHE1DRRFK) | 2:53 |
-| 75 | [The Drop](https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp) | [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [The Drop EP](https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg) | 3:49 |
+| 74 | [The Drop](https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp) | [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [The Drop EP](https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg) | 3:49 |
+| 75 | [Interstellar](https://open.spotify.com/track/1sm3F0f494JeVkPp4ilpIt) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Say Less](https://open.spotify.com/album/0zjiaN2MHgT0OVHE1DRRFK) | 2:53 |
 | 76 | [Like That](https://open.spotify.com/track/7MFahU9vl5TWlei936k7n6) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Like That](https://open.spotify.com/album/3f3XdsftL1mF8LBTduqECp) | 4:20 |
 | 77 | [Hmu \(feat\. Clay Parnell & Rory "Sweet Boy" Dolan\)](https://open.spotify.com/track/5F3t5WgLyBX2W7un8IXiLD) | [Space Jesus](https://open.spotify.com/artist/5AoXSiM511L4To0AN5oZVB), [Clay Parnell](https://open.spotify.com/artist/3QCySVIxDrxxBRITtPf4ZV), [Rory "Sweet Boy" Dolan](https://open.spotify.com/artist/4SNudQnjJBnBUZhJk606HC) | [Atom + Eve](https://open.spotify.com/album/2VbJQEfwTnFLzFL3WQ8coK) | 4:06 |
 | 78 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 97 | [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 |
 | 98 | [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 |
 | 99 | [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 |
-| 100 | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe) | 4:00 |
+| 100 | [MINDDD](https://open.spotify.com/track/0nSP6p4IfCI6vIy2KJy13m) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [MINDDD](https://open.spotify.com/album/0cvKa2bC4q7tRP5refuzxq) | 2:01 |
 
-Snapshot ID: `MCxkYzNlM2Q3NWY2ODcxMDdhMzI1MWZlZmZlZmU0MTRkYTJjMTgxNGNl`
+Snapshot ID: `MCxjNWRiYzY1MTI0NWFhMTkzOWE3OWIzNzE4MTUwN2ZhMTgwNjg0ZDQ3`

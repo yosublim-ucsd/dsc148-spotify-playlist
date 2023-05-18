@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Becky Hill \(pictured\), Jorja Smith, Joel Corry and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,064 likes - 138 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,110 likes - 138 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 137 | [Let the Sun Come In](https://open.spotify.com/track/2uopLAXm05NAxUnjIZ3Lbl) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Let the Sun Come In](https://open.spotify.com/album/17kNNfn5Ke37yZC0dtRk1g) | 3:53 |
 | 138 | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN) | 4:03 |
 
-Snapshot ID: `MCwyNTIwM2YxZGFhZjJmODI1ODI3ZmFhMmI1OTBjMDg3ZTVlNWRlMjQ0`
+Snapshot ID: `MCwzZTRlYmY0YTcyYmU4MDY1YzdkZTNhNTVmNWJkYTVjOTBhZGM3NWFh`

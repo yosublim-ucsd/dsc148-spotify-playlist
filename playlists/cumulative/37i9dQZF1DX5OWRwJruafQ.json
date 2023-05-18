@@ -479,6 +479,32 @@
     },
     {
       "album": {
+        "name": "Case",
+        "url": "https://open.spotify.com/album/3U4DrXSmQRhFQGU7NYvaBs"
+      },
+      "artists": [
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Himmat Sandhu",
+          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        },
+        {
+          "name": "Jayy Randhawa",
+          "url": "https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124421,
+      "name": "Case",
+      "url": "https://open.spotify.com/track/2fRHKT0pS5NyKW32fhLIUb"
+    },
+    {
+      "album": {
         "name": "Keep It Gangsta",
         "url": "https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW"
       },
@@ -1422,8 +1448,8 @@
           "url": "https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm"
         },
         {
-          "name": "Jay B Singh",
-          "url": "https://open.spotify.com/artist/1MYShn4X7JAW6JfTsFQUWt"
+          "name": "JayB Singh",
+          "url": "https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM"
         }
       ],
       "date_added": "2023-05-11",

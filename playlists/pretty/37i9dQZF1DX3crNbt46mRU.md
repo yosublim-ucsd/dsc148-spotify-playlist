@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Loi
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,814 likes - 115 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,818 likes - 115 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 53 | [Won't Sleep Tonight](https://open.spotify.com/track/6mkzd3GcwAfAy87eQPhIEW) | [Wann](https://open.spotify.com/artist/4kgQogj3xhCBH68HbDZFuK), [Tim Riehm](https://open.spotify.com/artist/45X4AMSctwwyeizTASGlwX) | [Won't Sleep Tonight](https://open.spotify.com/album/4hywYY7FOIpYiG83a6G0f2) | 3:23 |
 | 54 | [Ipanema](https://open.spotify.com/track/1JCQBstFdEqihwKhh8QVUV) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Ipanema](https://open.spotify.com/album/7CFLwNNtjoMqGoig3DYiRF) | 1:50 |
 | 55 | [Renascence](https://open.spotify.com/track/15rcRND7PZnQfia24fbWRo) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Renascence](https://open.spotify.com/album/0ElaeNFgbDqntjwm9RO8ge) | 3:45 |
-| 56 | [Goodness Gracious](https://open.spotify.com/track/4z5G0VxaTklm6eLFtmYhJa) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Goodness Gracious](https://open.spotify.com/album/0Y5roMQHdFdabO2gHAUETL) | 2:24 |
+| 56 | [Goodness Gracious](https://open.spotify.com/track/4z5G0VxaTklm6eLFtmYhJa) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do) | [Goodness Gracious](https://open.spotify.com/album/0Y5roMQHdFdabO2gHAUETL) | 2:24 |
 | 57 | [Help Me](https://open.spotify.com/track/1Ae6Xdsytj6SOYreL6grYE) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Help Me](https://open.spotify.com/album/4FNQ5hNiRUSijPc1NEB7yR) | 2:04 |
 | 58 | [Wenn ich mal Kinder hab](https://open.spotify.com/track/2uPQKiYAGy5th6mnJYjI26) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Wenn ich mal Kinder hab](https://open.spotify.com/album/2PaaxZrYkVSKbyqrpuKhPO) | 3:18 |
 | 59 | [Leave It All](https://open.spotify.com/track/1ssTaPIamTYiMHN2zIB6xr) | [DAENS](https://open.spotify.com/artist/5HuxIPrc5s7LnbuAYNRQYK) | [Leave It All](https://open.spotify.com/album/0hPx2bloIGKFNLaZYgO7PX) | 2:50 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 114 | [Lauf](https://open.spotify.com/track/7d8mo4A255IToerZNguieR) | [CARY](https://open.spotify.com/artist/0AHMHf89EpUmUPHY1dXBRv) | [Lauf](https://open.spotify.com/album/6xYlmcdkzu7vopLPtjdxxE) | 2:23 |
 | 115 | [The Curtain Falls](https://open.spotify.com/track/3cesghNhbiVhxpYdiWbn3h) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Blood & Glitter \(Deluxe Version\)](https://open.spotify.com/album/2VvSKrtQLQ0mNUXCodbKfE) | 3:01 |
 
-Snapshot ID: `MCw1ZDhiNzI5YzhlOTFiZWYyNzczMzM2ZDM5MmVhZjk5YTc1NzBmNDhh`
+Snapshot ID: `MCwxYmYwZjM2NjQyYzFkYmJlZjM3ZmI1YWY4YzE5MDZjNjQ4NmUxZDA0`

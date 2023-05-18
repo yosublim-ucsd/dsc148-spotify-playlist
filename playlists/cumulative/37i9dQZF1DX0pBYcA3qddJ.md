@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-394 songs - 1 day 2 hr 20 min
+395 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Glimpse of Us](https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:53 | 2022-11-25 |  |
 | [Gluck: 妖精の踊り](https://open.spotify.com/track/3KCH3uAbvDwaEKdswsspgX) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Hitomi Niikura](https://open.spotify.com/artist/1JFGO7YoBFo4lzQGLXy1CR) | [鳥の歌](https://open.spotify.com/album/2WrUZcTKVmFZdbatMmx9oB) | 2:37 | 2022-10-20 | 2022-12-02 |
 | [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 | 2023-04-13 | 2023-04-19 |
+| [Gnossiennes No.1](https://open.spotify.com/track/21xgZ4HM2fPswMVvVahr2D) | [E.サティ](https://open.spotify.com/artist/7MO19zTKkzsSwb0SLa8cxj), [武本京子](https://open.spotify.com/artist/2Q3iL2IV5ndSSof6FLdP5l) | [Full of Love](https://open.spotify.com/album/2Ape8tfPX4BpDqFyy2OGyU) | 3:26 | 2023-05-16 |  |
 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 | 2022-10-20 | 2023-04-19 |
 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 | 2023-03-09 | 2023-04-26 |
 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 | 2022-10-20 |  |
@@ -348,7 +349,7 @@
 | [エトピリカ](https://open.spotify.com/track/28F2FyLu4pZNLdoWuFZ57Y) | [Taro Hakase](https://open.spotify.com/artist/6vJFQLD25Df5uZW77gVv0k), [NH&K TRIO](https://open.spotify.com/artist/42P4Cf7kljp1XjLtkGcN2H) | [Adagio](https://open.spotify.com/album/24eONPwMnnsH5mny2o3AvQ) | 3:42 | 2023-03-07 |  |
 | [エリーゼのために, WoO.59](https://open.spotify.com/track/7w2WJmfMigMYyQMe2xJ9LH) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Rika Miyatani](https://open.spotify.com/artist/5EA6C7SnqfKFFAimI60cq1) | [音楽の玉手箱 Vol\. 1 \- カンタービレ \-](https://open.spotify.com/album/5xChfBf6JMus8YKm0rbioS) | 3:14 | 2022-10-20 | 2022-10-28 |
 | [カッチーニのアヴェ・マリア](https://open.spotify.com/track/5hAVhz6ksyTExsgbxGe07e) | [カッチーニ・ジュリオ](https://open.spotify.com/artist/3r74od2bke9JO6JRZfaw9F), [Shoko Ikeda](https://open.spotify.com/artist/1GzO6918uAAGHPN3uExNoj), [Miwako Ishida](https://open.spotify.com/artist/6xpoC2CNmTq2GXMbwWcJuO) | [アヴェ・マリア 〜オーボエ作品集〜](https://open.spotify.com/album/1zQg6ITPmT6O6DU2V13OFx) | 2:44 | 2022-10-20 | 2022-12-02 |
-| [グノシエンヌ 第1番](https://open.spotify.com/track/4T34d1GrClJBKvSFSDiULv) | [E.サティ](https://open.spotify.com/artist/7MO19zTKkzsSwb0SLa8cxj), [武本京子](https://open.spotify.com/artist/2Q3iL2IV5ndSSof6FLdP5l) | [Full of Love\~愛と光に包まれて〜](https://open.spotify.com/album/10ZN5ZNea5ThZdOyiqX7t7) | 3:26 | 2023-05-16 |  |
+| [グノシエンヌ 第1番](https://open.spotify.com/track/4T34d1GrClJBKvSFSDiULv) | [E.サティ](https://open.spotify.com/artist/7MO19zTKkzsSwb0SLa8cxj), [武本京子](https://open.spotify.com/artist/2Q3iL2IV5ndSSof6FLdP5l) | [Full of Love\~愛と光に包まれて〜](https://open.spotify.com/album/10ZN5ZNea5ThZdOyiqX7t7) | 3:26 | 2023-05-16 | 2023-05-18 |
 | [グラス・ハーモニカのためのアダージョ K.356\(K.617a\)](https://open.spotify.com/track/0bo4tFu6glJJ3synMdz6Vx) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Ikuyo Nakamichi](https://open.spotify.com/artist/1Ie9ADna4vfkFA5lBfjGyd) | [モーツァルト:ピアノ・ソナタ全集](https://open.spotify.com/album/4r9qv03kgEh1KT0FEBDhyL) | 4:06 | 2022-10-20 | 2022-11-11 |
 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 | 2022-11-22 | 2022-12-02 |
 | [コルドバの午後](https://open.spotify.com/track/6BRJqVR4Ss91JApYNKYtUo) | [Mine Kawakami](https://open.spotify.com/artist/27AI6gU3hQimMQ2ywqFiGb) | [Nostalghia\~Kiyomizu\~](https://open.spotify.com/album/6kmGx5WxG7VQugcjdozNVL) | 4:18 | 2022-10-20 | 2022-12-02 |

@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 201106,
       "name": "1Trago",
       "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
@@ -184,7 +184,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 116625,
       "name": "2 AM IN JERSEY",
       "url": "https://open.spotify.com/track/5xEmtPgdehqwAip24XhjjL"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 182500,
       "name": "A Nossa Dan\u00e7a",
       "url": "https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf"
@@ -2252,6 +2252,24 @@
       "duration_ms": 179556,
       "name": "BARABAN",
       "url": "https://open.spotify.com/track/3ZZ7RdVU2heNutXc5GZrJO"
+    },
+    {
+      "album": {
+        "name": "Jumping Higher",
+        "url": "https://open.spotify.com/album/5XMld6OoblH3drPgyAXb31"
+      },
+      "artists": [
+        {
+          "name": "SingTrece",
+          "url": "https://open.spotify.com/artist/1aEpXtDYsW2HaAuxNLFvde"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Be Confident",
+      "url": "https://open.spotify.com/track/2sTmAMbeIJ66kNUpph6Swg"
     },
     {
       "album": {
@@ -5562,7 +5580,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 189064,
       "name": "Des Gat\u00e9s",
       "url": "https://open.spotify.com/track/09zGqQ1SxcVOYhIU6st444"
@@ -5772,7 +5790,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -9586,7 +9604,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 129802,
       "name": "I AM HiM",
       "url": "https://open.spotify.com/track/2J4n7gDyygM33Y9QAzY0Fh"
@@ -13670,7 +13688,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 152546,
       "name": "Meuda",
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
@@ -13696,7 +13714,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 153109,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/1tqMPmPZoI5wwFd7e6QweY"
@@ -14044,7 +14062,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 165228,
       "name": "Monnaie",
       "url": "https://open.spotify.com/track/0e8IllbADU52iwcCLlkS7F"
@@ -18334,7 +18352,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -22526,7 +22544,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 169130,
       "name": "You",
       "url": "https://open.spotify.com/track/0BpQQPRcsANJXekANH4tcn"

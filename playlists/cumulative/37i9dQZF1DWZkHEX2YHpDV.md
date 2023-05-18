@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-968 songs - 2 day 3 hr 17 min
+969 songs - 2 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,7 +516,7 @@
 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-01-28 |  |
 | [Losing My Mind](https://open.spotify.com/track/35buHwHyHsY5RoCLJop93u) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Losing My Mind](https://open.spotify.com/album/6ec5cJUJCEvEN95fkPDCwz) | 3:52 | 2021-12-10 | 2022-07-29 |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-12 |  |
-| [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2022-12-02 | 2023-04-12 |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2022-12-02 |  |
 | [Love Letter](https://open.spotify.com/track/3wIMmFNL5hdqUBpAO0Ogpu) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Love Letter](https://open.spotify.com/album/3w1dvrYzb7K4yRGjpULCPo) | 2:38 | 2023-04-28 |  |
 | [Love Me or Hate Me](https://open.spotify.com/track/0Uhx8dVUqIrlrVVdo2hHKa) | [Kelsy Karter](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Love Me or Hate Me](https://open.spotify.com/album/2ncqvPvPyJtLIdvYVxmF5E) | 3:16 | 2021-12-10 | 2022-07-27 |
 | [Love Needs an Encore](https://open.spotify.com/track/0lK2E4HR64nfoi3vOBXt03) | [Incase We Crash](https://open.spotify.com/artist/60BV8AYHelvsX7RpjQXlBA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Love Needs an Encore](https://open.spotify.com/album/6Hp1StiHyODpHgVPWeNUqB) | 3:33 | 2022-06-24 | 2022-07-24 |
@@ -783,7 +783,7 @@
 | [Stay](https://open.spotify.com/track/6SfqGtR8Nqe6AMflic4bqp) | [Before Their Eyes](https://open.spotify.com/artist/7BewtLSaxtzJjRzPUPnSxp) | [Stay](https://open.spotify.com/album/0yha82gwicvzXeVXKBTBc1) | 4:14 | 2021-12-10 | 2022-04-21 |
 | [Steady Glow](https://open.spotify.com/track/7z0BWWSUAfK2nq59IAHAyf) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Steady Glow](https://open.spotify.com/album/7xXGabh3KEE6qt7pk9iro3) | 4:13 | 2022-01-14 | 2022-05-19 |
 | [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 | 2022-07-08 | 2023-04-11 |
-| [Stick Up](https://open.spotify.com/track/3k9gh7zRCItcTo363Re0DR) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Stick Up](https://open.spotify.com/album/6YmNTDXbkcrhFqrswdyLxp) | 2:38 | 2023-05-12 |  |
+| [Stick Up](https://open.spotify.com/track/3k9gh7zRCItcTo363Re0DR) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Stick Up](https://open.spotify.com/album/6YmNTDXbkcrhFqrswdyLxp) | 2:38 | 2023-05-12 | 2023-05-18 |
 | [Sticky](https://open.spotify.com/track/33cJ7PEcgnh5d9JPgJNmkn) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Sticky](https://open.spotify.com/album/0LYIyWUQ1m492tDC2K9AT0) | 2:58 | 2021-12-10 | 2022-08-03 |
 | [Still Not Dead](https://open.spotify.com/track/0zxrihF0euIJ8ewDXrPN3A) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Still Not Dead](https://open.spotify.com/album/40ThFvWq7GBsTdo4q374Tb) | 3:19 | 2021-12-10 | 2022-05-20 |
 | [Stop it](https://open.spotify.com/track/21K4Irg91lZvVifnBxVdVZ) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Stop it](https://open.spotify.com/album/3us1VOBUhYMEdUcHVeoM71) | 3:48 | 2022-04-08 | 2022-05-21 |
@@ -887,10 +887,11 @@
 | [Twisted Tongues](https://open.spotify.com/track/3WEerYUbUTVFCWE3gcADiz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Twisted Tongues / Escape From Los Angeles](https://open.spotify.com/album/4VSk5cWQF6BfFOLkaJB7kE) | 4:01 | 2021-12-10 | 2022-07-29 |
 | [Two Graves](https://open.spotify.com/track/35XPeKsKcUuaEivFOasq0l) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Two Graves](https://open.spotify.com/album/4YHtQbxkr0JwuSwonHWN7E) | 3:52 | 2021-12-10 | 2022-07-22 |
 | [U 2](https://open.spotify.com/track/25akoaDy47WRQSHccLHzMf) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [U 2](https://open.spotify.com/album/67hXDTDFQJQFnG9BXtnOLW) | 3:31 | 2022-05-20 | 2022-07-25 |
-| [U Broke My Heart](https://open.spotify.com/track/4D6gu0quKMNiMzJJTkDjk0) | [Bryce Savage](https://open.spotify.com/artist/3BKu8LEdOvfIVWXZlmJAGI) | [U Broke My Heart](https://open.spotify.com/album/1Q9rmTAir7ROqvD0Kjtxt2) | 2:27 | 2023-04-23 |  |
+| [U Broke My Heart](https://open.spotify.com/track/4D6gu0quKMNiMzJJTkDjk0) | [Bryce Savage](https://open.spotify.com/artist/3BKu8LEdOvfIVWXZlmJAGI) | [U Broke My Heart](https://open.spotify.com/album/1Q9rmTAir7ROqvD0Kjtxt2) | 2:27 | 2023-04-23 | 2023-05-18 |
 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 | 2022-08-22 | 2023-04-11 |
 | [ultimatum](https://open.spotify.com/track/5hZnL59ovt3isPLAhPaLa0) | [Wolf Culture](https://open.spotify.com/artist/7tWnzObEKAJDApTe0OKs7X), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [ultimatum](https://open.spotify.com/album/1BhMfSlvy4ItxtoS2G8J2y) | 4:01 | 2022-02-04 | 2022-04-19 |
 | [Ultraviolet](https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 2:53 | 2022-05-20 |  |
+| [UNAPOLOGETIC](https://open.spotify.com/track/0smlyjWAaTNHlwKHnYGBVF) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [WAKE UP](https://open.spotify.com/album/29sE5WjE8QbAkioiZYkOUi) | 2:01 | 2023-05-12 |  |
 | [UNCOMPLICATED](https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [UNCOMPLICATED](https://open.spotify.com/album/1bY6MJZFiRStXOHnIolIhn) | 2:29 | 2021-12-10 | 2023-04-11 |
 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 | 2023-04-10 |  |
 | [Under The Weather](https://open.spotify.com/track/6Dj5XM1Jp2s0oPmXMLh563) | [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm) | [Under The Weather](https://open.spotify.com/album/5cKqIyzwYGsdwMn7CYY6yW) | 3:54 | 2021-12-10 | 2022-05-23 |

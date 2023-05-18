@@ -1,12 +1,12 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 159256,
+  "num_followers": 159349,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTRiMGRkZTQ1NjRjMTI0NjEwYmU0ODY5MmEzZWVkOGU1N2NmNWFl",
+  "snapshot_id": "MCw4ZTY1MzY2NDkzZGE4ZjM4MzJkNzJjYTFlZTFkZWQ3MDVkNTU0NzZj",
   "tracks": [
     {
       "added_at": "2023-01-09 10:53:54",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-01-09 10:53:54",
       "album": {
+        "name": "Late Nights",
+        "url": "https://open.spotify.com/album/6SOPHFF7NQR6x5FguplrrL"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 178664,
+      "name": "Late Nights",
+      "url": "https://open.spotify.com/track/2NWW0Y8DSLJyXN3NzjSnLh"
+    },
+    {
+      "added_at": "2023-01-09 10:53:54",
+      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
-    },
-    {
-      "added_at": "2023-01-09 10:53:54",
-      "album": {
-        "name": "Late Nights",
-        "url": "https://open.spotify.com/album/6SOPHFF7NQR6x5FguplrrL"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 178664,
-      "name": "Late Nights",
-      "url": "https://open.spotify.com/track/2NWW0Y8DSLJyXN3NzjSnLh"
     },
     {
       "added_at": "2023-01-09 10:53:54",
@@ -859,18 +859,22 @@
     {
       "added_at": "2023-01-09 10:53:54",
       "album": {
-        "name": "Rosewood",
-        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+      "duration_ms": 301933,
+      "name": "better",
+      "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
     }
   ],
   "unique_name": "4AM Chillout",

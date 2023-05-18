@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new Experimental by independent artists and labels, with Isabel Do Diego on cover. Artwork Thami Nabil. Updates every Wednesday.",
+  "description": "The best new Experimental by independent artists and labels, with Fuensanta on cover. Artwork Thami Nabil. Updates every Wednesday.",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -1903,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "The End of All Physical Form",
+        "url": "https://open.spotify.com/album/2fPxjnQQGRvHDfHysHSL2a"
+      },
+      "artists": [
+        {
+          "name": "J-Shadow",
+          "url": "https://open.spotify.com/artist/312swN3NcDOZMlEM8LVUah"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237609,
+      "name": "Arsu",
+      "url": "https://open.spotify.com/track/4XI2kOrj1rHEO3GBjEkObS"
+    },
+    {
+      "album": {
         "name": "Artificial Authentic",
         "url": "https://open.spotify.com/album/1hNq0oYtTHuTotskwcBFq1"
       },
@@ -3389,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "On Garudan Wing",
+        "url": "https://open.spotify.com/album/4fwN78TBOSz6CkhXnVsEq6"
+      },
+      "artists": [
+        {
+          "name": "Matt LaJoie",
+          "url": "https://open.spotify.com/artist/56VvcTr0tIhh0jinmqK35j"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384890,
+      "name": "Brushstroke",
+      "url": "https://open.spotify.com/track/6zpDAl2ljLUfUzb1zworYB"
+    },
+    {
+      "album": {
         "name": "Bubbles",
         "url": "https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb"
       },
@@ -4312,6 +4348,24 @@
       "duration_ms": 139867,
       "name": "clarity",
       "url": "https://open.spotify.com/track/7smjNSQAciZfQHDyF1Nxp2"
+    },
+    {
+      "album": {
+        "name": "Last Life on Earth",
+        "url": "https://open.spotify.com/album/0YIcp4aNEQ5RTstU20DSUr"
+      },
+      "artists": [
+        {
+          "name": "Dimming",
+          "url": "https://open.spotify.com/artist/3lrzKcVGLrWEbA5VFUMIsY"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255986,
+      "name": "Clean Slate",
+      "url": "https://open.spotify.com/track/1qjMM7qlmDnucsa5UoOCZ9"
     },
     {
       "album": {
@@ -5986,7 +6040,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 265160,
       "name": "dub",
       "url": "https://open.spotify.com/track/42TYk7Yq6CRXxdxfbX9RPn"
@@ -6868,6 +6922,24 @@
       "duration_ms": 155705,
       "name": "Et quart",
       "url": "https://open.spotify.com/track/0qDsMkTla75n5Drd78ERc5"
+    },
+    {
+      "album": {
+        "name": "Lone Memory",
+        "url": "https://open.spotify.com/album/6g6FwKH02JkWomYFdVZnno"
+      },
+      "artists": [
+        {
+          "name": "C O N T X T",
+          "url": "https://open.spotify.com/artist/0HCS1dsUZDmjB8lSAMaYjW"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279375,
+      "name": "Eternal Whisper",
+      "url": "https://open.spotify.com/track/5s0F9AmiXVvzqMpFP4XaTI"
     },
     {
       "album": {
@@ -7812,7 +7884,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 290526,
       "name": "Flooding Meadow",
       "url": "https://open.spotify.com/track/428DFLv5RFkHz841SQuc6h"
@@ -10008,7 +10080,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 297931,
       "name": "Hyrule City",
       "url": "https://open.spotify.com/track/7guMblzcJsgdHeWBTshWx1"
@@ -10550,7 +10622,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 268509,
       "name": "in a specific room",
       "url": "https://open.spotify.com/track/0FkRqHKhrfvpj7miTVQVRs"
@@ -11772,7 +11844,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 150500,
       "name": "KONTAKT",
       "url": "https://open.spotify.com/track/7Ixw00M1UtpDdVWLMYdMkJ"
@@ -12300,7 +12372,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 275323,
       "name": "LESSONS GET LEARNT",
       "url": "https://open.spotify.com/track/6XkW9Z6ildf6owFb090vfJ"
@@ -12648,6 +12720,24 @@
       "duration_ms": 255579,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/6GyOUBtRy4VUzy0JZ2Ekii"
+    },
+    {
+      "album": {
+        "name": "Weird backwards path",
+        "url": "https://open.spotify.com/album/4huzCVylGlCi5lxI29dlp1"
+      },
+      "artists": [
+        {
+          "name": "Tek lintowe",
+          "url": "https://open.spotify.com/artist/1Cx17z7wDPieSSRovl6Etx"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161776,
+      "name": "Look",
+      "url": "https://open.spotify.com/track/1MtQHHR98b9oq9yYcon0RB"
     },
     {
       "album": {
@@ -13388,7 +13478,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 355293,
       "name": "Meditation III",
       "url": "https://open.spotify.com/track/0JHgNrW1AHnjR9ncWNIQSw"
@@ -13428,6 +13518,24 @@
       "duration_ms": 401977,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J"
+    },
+    {
+      "album": {
+        "name": "Standers",
+        "url": "https://open.spotify.com/album/7e4iStcq2b2gQLwfxa3qtI"
+      },
+      "artists": [
+        {
+          "name": "Craven Faults",
+          "url": "https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 748320,
+      "name": "Meers & Hushes",
+      "url": "https://open.spotify.com/track/5x1L1dceyEz8LQ4xW86um6"
     },
     {
       "album": {
@@ -14510,7 +14618,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 362620,
       "name": "Murmurs:Fireflies P2",
       "url": "https://open.spotify.com/track/4lKfmCT10PHYjhBt7Gt9Sv"
@@ -14967,6 +15075,24 @@
     },
     {
       "album": {
+        "name": "Onwards",
+        "url": "https://open.spotify.com/album/376lSzakQ49opuRjoAhLig"
+      },
+      "artists": [
+        {
+          "name": "Nu Shaydz",
+          "url": "https://open.spotify.com/artist/01z2FdyqeO53hdivv1qWIm"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99428,
+      "name": "New Challenges",
+      "url": "https://open.spotify.com/track/5dJZ45VpKjXE6McWZSqFnh"
+    },
+    {
+      "album": {
         "name": "Nie lubi\u0119 si\u0119 k\u0142a\u015b\u0107 / w nocy",
         "url": "https://open.spotify.com/album/13lERACDVnjplqyhzQGlLM"
       },
@@ -15322,6 +15448,24 @@
       "duration_ms": 186654,
       "name": "Nobus",
       "url": "https://open.spotify.com/track/6fRhbXk6Q8VdlluKQoBB0v"
+    },
+    {
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
+      },
+      "artists": [
+        {
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "album": {
@@ -16488,7 +16632,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 322570,
       "name": "Penance",
       "url": "https://open.spotify.com/track/5KhXlSbrNF3MgP4SkzgDL7"
@@ -16842,6 +16986,24 @@
       "duration_ms": 225882,
       "name": "Pluriverso",
       "url": "https://open.spotify.com/track/0Vs7xPxAoc4zgZM3SHnBaJ"
+    },
+    {
+      "album": {
+        "name": "tromba d'aria",
+        "url": "https://open.spotify.com/album/1f51X3eaY2UgbOPirSMYlV"
+      },
+      "artists": [
+        {
+          "name": "Pa Blo",
+          "url": "https://open.spotify.com/artist/3W82aqFFhcY4UMvSa2xEHX"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115844,
+      "name": "plusadea",
+      "url": "https://open.spotify.com/track/3qxG1irZ76FC4Qs0koRt1k"
     },
     {
       "album": {
@@ -19036,7 +19198,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 486439,
       "name": "Show Me The Shoes / In A Sea of Grifters",
       "url": "https://open.spotify.com/track/3ciMlkzAPI1foefduTNXCB"
@@ -19742,6 +19904,24 @@
       "duration_ms": 320052,
       "name": "Sound of Time Passing",
       "url": "https://open.spotify.com/track/47vbsKovGoXnwZIkLgRDCf"
+    },
+    {
+      "album": {
+        "name": "as we once were",
+        "url": "https://open.spotify.com/album/6OAvCoDlYGxpgWMeKaHU0Q"
+      },
+      "artists": [
+        {
+          "name": "Inflake",
+          "url": "https://open.spotify.com/artist/2ePcWiaPCxh8F6aX4TBnLs"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156625,
+      "name": "Soundtrack to a Life",
+      "url": "https://open.spotify.com/track/6T4HaZ7XBQkaoUnYg6KUdI"
     },
     {
       "album": {
@@ -22177,6 +22357,24 @@
     },
     {
       "album": {
+        "name": "Trama EP",
+        "url": "https://open.spotify.com/album/2GbymWEmHDAOff10l882Iq"
+      },
+      "artists": [
+        {
+          "name": "Tiello",
+          "url": "https://open.spotify.com/artist/5gBy60kmVrcEHyaSqt81Wl"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328440,
+      "name": "Though",
+      "url": "https://open.spotify.com/track/2A1j7HEHpSqNXYDL0d3rps"
+    },
+    {
+      "album": {
         "name": "Thurs Jung Yout",
         "url": "https://open.spotify.com/album/00wPi6Nswwcpr7oZTcj5gQ"
       },
@@ -23760,10 +23958,28 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 303970,
       "name": "Valley Fog",
       "url": "https://open.spotify.com/track/102lV2Y3osSKUxA7XpTrhF"
+    },
+    {
+      "album": {
+        "name": "Vandringsl\u00e5t",
+        "url": "https://open.spotify.com/album/2NwI0JzRzPktixthWHtgJ5"
+      },
+      "artists": [
+        {
+          "name": "Golden Ivy",
+          "url": "https://open.spotify.com/artist/3EfjEHtmoYHv9maqn43IvQ"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203644,
+      "name": "Vandringsl\u00e5t",
+      "url": "https://open.spotify.com/track/1VydlGC5gQSv379kzZT5h8"
     },
     {
       "album": {
@@ -24552,7 +24768,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 270891,
       "name": "What are you running towards?",
       "url": "https://open.spotify.com/track/7vzetKouwT6eP3rE0VdUFW"

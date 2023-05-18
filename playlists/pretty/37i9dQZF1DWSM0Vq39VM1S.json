@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 139484,
+  "num_followers": 139569,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTQ4NDFhYzcxNjc3MzExNjJkZWNiNWJlNWUzYjAyZTM4NjcxZGFh",
+  "snapshot_id": "MCw4YTg5ZmMwMDFlMWQ0ZWExMTRhN2ZiM2Q3MDU2NDYzYWIwNTZlNTVk",
   "tracks": [
     {
       "added_at": "2023-03-16 19:02:33",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
-      "added_at": "2023-05-17 00:11:11",
+      "added_at": "2023-05-18 00:01:56",
       "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-03-16 19:02:33",
       "album": {
-        "name": "The Sweet Sound of You",
-        "url": "https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 297720,
-      "name": "The Sweet Sound of You",
-      "url": "https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot"
-    },
-    {
-      "added_at": "2023-03-16 19:02:33",
-      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2023-03-16 19:02:33",
       "album": {
-        "name": "Troubadour",
-        "url": "https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183"
+        "name": "The Sweet Sound of You",
+        "url": "https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF"
       },
       "artists": [
         {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 201906,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS"
+      "duration_ms": 297720,
+      "name": "The Sweet Sound of You",
+      "url": "https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot"
+    },
+    {
+      "added_at": "2023-03-16 19:02:33",
+      "album": {
+        "name": "les failles",
+        "url": "https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "anxi\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/1HYiZbH7QTKfOUe9AmvbJr"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

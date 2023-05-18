@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,032 likes - 675 songs - 1 day 21 hr 32 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,031 likes - 678 songs - 1 day 21 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -683,5 +683,8 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 673 | [Love Kills](https://open.spotify.com/track/6TjVKGblxw2G1EnwfQrcTk) | [Joe Strummer](https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba) | [Joe Strummer 001](https://open.spotify.com/album/2IPHxchyGFrtYqKrVHwRFr) | 3:59 |
 | 674 | [Chrome Sitar](https://open.spotify.com/track/1OYxUYMyW9LZLIXer4IeZm) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Futuristic Dragon](https://open.spotify.com/album/7bxgqrql5oDIr4SVFB1bYN) | 3:14 |
 | 675 | [Coming Right Along](https://open.spotify.com/track/1zcDDZPQLQiwXOq3hojxfk) | [The Posies](https://open.spotify.com/artist/5ZOh5D4MKLhU3GekPzNFam) | [Frosting On The Beater](https://open.spotify.com/album/72rfhFLb2C6Zo500hgoKq3) | 6:19 |
+| 676 | [Atlantic 19 De Agosto](https://open.spotify.com/track/4NJrPhkfFapfJ56vGQ8XbU) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Moonlust Demos](https://open.spotify.com/album/3SC1up17l1zGlOtZbrPkvv) | 1:49 |
+| 677 | [Virgin Criminal](https://open.spotify.com/track/4mwBVQNJik7lTrVojAuPzj) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Rapscallion](https://open.spotify.com/album/5gu3kzCRkyPUHVpnBTeNR1) | 2:59 |
+| 678 | [Fem Chem](https://open.spotify.com/track/3LSgfks1lxTGo54G8wo9oX) | [Nice Biscuit](https://open.spotify.com/artist/1HDNxhUcc8y6JukY45KHyv) | [Fem Chem](https://open.spotify.com/album/7AZwW12LpYy3y4vA5GLjna) | 3:21 |
 
-Snapshot ID: `MTY5OCw2MzFiZTdiNjcyMzNlYzhlMTA2ZGMyNjk3ZWM0OWVlOTg1OTZmNzY3`
+Snapshot ID: `MTcwMSxjOTgwNTI1NzRkYjA3NTZhMGQyOWU2ZjdkYjRlODhlNjk1MzQ1N2Vm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 
 > Float away to the weightless sound of breakbeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,142 likes - 73 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,153 likes - 73 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 9 | [Lovin U](https://open.spotify.com/track/5NS2mvyyimFo4GStYcjrL1) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Falling In Love](https://open.spotify.com/album/2ZXNASZ0miJJPHZMRzrRLh) | 5:08 |
 | 10 | [Skylab District](https://open.spotify.com/track/5N9ORjMVySSfAbW3NbEHeX) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Skylab District](https://open.spotify.com/album/4F4MP8Ifyv38AiLHPeKHUw) | 3:37 |
 | 11 | [Sapphire Eyes](https://open.spotify.com/track/1AuKIQy8e7ifqsSAbPSJ10) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Sapphire Eyes](https://open.spotify.com/album/1NiKOW5Z6EdvWPe7y5BIUd) | 4:05 |
-| 12 | [Let’s Just](https://open.spotify.com/track/1WcNMJDbf4LkWa5bFNNOUw) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Let's Just / Can't Explain](https://open.spotify.com/album/18DGzL6akFFZw13Ey5M6oc) | 2:58 |
+| 12 | [Let's Just](https://open.spotify.com/track/7Hhh4rWZsmxkjPSwy1rZy8) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Let's Just / Can't Explain](https://open.spotify.com/album/5ee6SpqyfbCulNqfhgWdu4) | 2:58 |
 | 13 | [Test Flight](https://open.spotify.com/track/5b9ifBWB1LQFNwnpwN7Tj5) | [Adam Fielding](https://open.spotify.com/artist/2COKeWJbqMc39mh0sFwnvE) | [Nocturnal Transmission](https://open.spotify.com/album/6ZHilzMuJjTaQTKN1HPk48) | 6:14 |
 | 14 | [Beach Simulator 3D](https://open.spotify.com/track/0NEti7J191QYOcYfVD9FfF) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Beach Simulator 3D](https://open.spotify.com/album/6T2Q6fg164JmYS99JbJNxO) | 4:56 |
 | 15 | [Lovin U](https://open.spotify.com/track/5NS2mvyyimFo4GStYcjrL1) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Falling In Love](https://open.spotify.com/album/2ZXNASZ0miJJPHZMRzrRLh) | 5:08 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 72 | [VTOPIA](https://open.spotify.com/track/5sV6YuXW0Cherbpb6PEpTo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [VTOPIA](https://open.spotify.com/album/50iCpCLAmZjZIZAdobVL5H) | 6:22 |
 | 73 | [Time](https://open.spotify.com/track/5CdnchxvwLJUonYfcDbgB0) | [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R) | [Time](https://open.spotify.com/album/2JQtRaELiP5PODbtSBa31y) | 4:07 |
 
-Snapshot ID: `MCw4M2ZmN2ZlYjQ4MDk4NDQxNDIxY2NkMTRiMzI1YjA1YjY0ZWJjYTRj`
+Snapshot ID: `MCxlOTczNzZjMGJkNWE3Nzc2Njk2NTkxMDMyNTU5MmE3MmZmZjE0ZDdm`

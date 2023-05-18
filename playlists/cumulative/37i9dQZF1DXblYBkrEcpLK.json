@@ -2949,6 +2949,24 @@
     },
     {
       "album": {
+        "name": "Senko - From CrosSing",
+        "url": "https://open.spotify.com/album/2DMWOvhu0Q4EL4nJWA6XyK"
+      },
+      "artists": [
+        {
+          "name": "Aiba Aina",
+          "url": "https://open.spotify.com/artist/5OEms8XfqmrL4IwzxYdHo0"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263613,
+      "name": "Senko - From CrosSing",
+      "url": "https://open.spotify.com/track/2ua31MC3Ke9ZTD4aS1WfGL"
+    },
+    {
+      "album": {
         "name": "Sense",
         "url": "https://open.spotify.com/album/6X7WGh9omm3GVTmJIDBUbU"
       },
@@ -7758,7 +7776,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 263613,
       "name": "\u9583\u5149 - from CrosSing",
       "url": "https://open.spotify.com/track/728QeC4NdjDKTThzVxxEHu"

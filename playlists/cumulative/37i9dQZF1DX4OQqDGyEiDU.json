@@ -1875,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "META",
+        "url": "https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a"
+      },
+      "artists": [
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202858,
+      "name": "Please Play-Bite",
+      "url": "https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30eb\u30bf\u30fc\u30ef\u30fc\u30fb\u30bb\u30c4\u30ca\u30dd\u30c3\u30d7",
         "url": "https://open.spotify.com/album/7DoSwfUqVHcgLtuh2MIR46"
       },
@@ -8466,7 +8484,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 202858,
       "name": "\u7518\u565b\u307f\u3067\u304a\u306d\u304c\u3044",
       "url": "https://open.spotify.com/track/6kR2jpVbk0e7uBVjWkGuTC"

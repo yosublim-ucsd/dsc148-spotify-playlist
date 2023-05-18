@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Riley Green
 
-1,690 songs - 3 day 19 hr 28 min
+1,691 songs - 3 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1156,7 +1156,8 @@
 | [red \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:25 | 2023-01-20 | 2023-04-22 |
 | [Red Dirt Cursed](https://open.spotify.com/track/71UT0ooGTviqmCfpdClNoY) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/64evxUin5gboW74Ko8TFef) | 3:56 | 2022-05-27 | 2022-09-03 |
 | [Red Flags](https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Red Flags](https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56) | 2:52 | 2023-05-05 |  |
-| [Red Lights](https://open.spotify.com/track/27J3bSJSg3Ph1ouTOexhoe) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Red Lights](https://open.spotify.com/album/5Enbth38qf3E9uHyOXs2HO) | 3:10 | 2023-04-07 |  |
+| [Red Lights](https://open.spotify.com/track/1dptRKR1TfZR7vgSehupIB) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Red Lights](https://open.spotify.com/album/6lYP23lxQPK3aNBfhr8RuH) | 3:10 | 2023-05-12 |  |
+| [Red Lights](https://open.spotify.com/track/27J3bSJSg3Ph1ouTOexhoe) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Red Lights](https://open.spotify.com/album/5Enbth38qf3E9uHyOXs2HO) | 3:10 | 2023-04-07 | 2023-05-18 |
 | [Red Roses & Red Flags](https://open.spotify.com/track/3w1FQLKbeoZ5FD3Y4B5RJF) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Greatest Show On Dirt](https://open.spotify.com/album/54phHp2BG1tg3SuLdiWqio) | 4:24 | 2023-05-05 |  |
 | [Red White Blue Jean American Dream](https://open.spotify.com/track/2qedTjoZqUAnlJB9QFwrin) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Red White Blue Jean American Dream](https://open.spotify.com/album/1GI7yqGCQsn2awYVYf1nl8) | 3:00 | 2020-05-23 | 2020-06-21 |
 | [Redhead](https://open.spotify.com/track/3zAnuUCPKbRBsOsllYCmFC) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Redhead](https://open.spotify.com/album/7hCl3yuH8JK5vRR0iSQpwF) | 2:43 | 2020-06-29 | 2020-08-01 |

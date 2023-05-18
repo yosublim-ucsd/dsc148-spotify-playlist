@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 454989,
+  "num_followers": 455152,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGFlMGNhOGFmMjlhMzkzZTQ0OWYxZDE5MGYxMzkyMWJiYjAzMGYz",
+  "snapshot_id": "MCwxMTQxNmQyNmUyZTAwYjBiNmZlNTc5NTFkMzEyZGYwN2RkNTdkNmRl",
   "tracks": [
     {
       "added_at": "2023-04-28 15:41:26",
@@ -67,6 +67,22 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
+        "name": "Stay There",
+        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 233562,
+      "name": "Stay There",
+      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
         "name": "All Equal",
         "url": "https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 222992,
       "name": "All Equal",
       "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Stay There",
-        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "Stay There",
-      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
+        "name": "Owls (Edit)",
+        "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 226014,
+      "name": "Owls - Edit",
+      "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 364918,
       "name": "Crescendo",
       "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Owls (Edit)",
-        "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 226014,
-      "name": "Owls - Edit",
-      "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "June (Mees Salom\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ"
-      },
-      "artists": [
-        {
-          "name": "Amy Root",
-          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
-        },
-        {
-          "name": "Mees Salom\u00e9",
-          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
-        }
-      ],
-      "duration_ms": 448770,
-      "name": "June - Mees Salom\u00e9 Remix",
-      "url": "https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Hailstorm (Ann Clue Remix)",
         "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "June (Mees Salom\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ"
+      },
+      "artists": [
+        {
+          "name": "Amy Root",
+          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
+        },
+        {
+          "name": "Mees Salom\u00e9",
+          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
+        }
+      ],
+      "duration_ms": 448770,
+      "name": "June - Mees Salom\u00e9 Remix",
+      "url": "https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Infinity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv"
+        "name": "Gratitude (Extended Mixes)",
+        "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
       },
       "artists": [
         {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 329032,
-      "name": "Find You Again",
-      "url": "https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB"
+      "duration_ms": 356188,
+      "name": "Forsaken Dream - Extended Mix",
+      "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
+        "name": "Infinity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 329032,
+      "name": "Find You Again",
+      "url": "https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
         "name": "Pure Love EP",
         "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 393495,
       "name": "Life",
       "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Gratitude (Extended Mixes)",
-        "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 356188,
-      "name": "Forsaken Dream - Extended Mix",
-      "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
+        "name": "Resurrect EP",
+        "url": "https://open.spotify.com/album/2oPWTDFuxa9zguoGsPOYck"
+      },
+      "artists": [
+        {
+          "name": "Forgotten Notes",
+          "url": "https://open.spotify.com/artist/0UoDyIWlKQdUukk9f7snZx"
+        }
+      ],
+      "duration_ms": 450595,
+      "name": "Resurrect",
+      "url": "https://open.spotify.com/track/2lV0ovLujswvwAquxjXw4D"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
         "name": "Planet Earth | March of the Giants",
         "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 249120,
       "name": "Landing in Halifax",
       "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Resurrect EP",
-        "url": "https://open.spotify.com/album/2oPWTDFuxa9zguoGsPOYck"
-      },
-      "artists": [
-        {
-          "name": "Forgotten Notes",
-          "url": "https://open.spotify.com/artist/0UoDyIWlKQdUukk9f7snZx"
-        }
-      ],
-      "duration_ms": 450595,
-      "name": "Resurrect",
-      "url": "https://open.spotify.com/track/2lV0ovLujswvwAquxjXw4D"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 570543,
-      "name": "Red Planet",
-      "url": "https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Panslinger",
         "url": "https://open.spotify.com/album/0v0fAOkiJ7PoFNVCTrWSFn"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 437479,
       "name": "Panama - Original Mix",
       "url": "https://open.spotify.com/track/2i1MnwRKlEKjAXiT6IwmTJ"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "duration_ms": 570543,
+      "name": "Red Planet",
+      "url": "https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3"
     },
     {
       "added_at": "2023-04-28 15:41:26",

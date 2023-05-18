@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Katherine Li",
-  "num_followers": 896177,
+  "num_followers": 896175,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTZiOThjNDljZTljOTFhNmU2NWI0OTgwNmJmYjkwMmVlMWYwNWY5",
+  "snapshot_id": "MCwzMTdkZTkxNTc5NWJhNGExMzBhZTA1NWQ3MTJiMDkyMTg2NjU3NjBh",
   "tracks": [
     {
       "added_at": "2023-05-09 04:50:36",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "Masum",
-        "url": "https://open.spotify.com/album/7Hfxj65Qt4s9jbtM8CK3kT"
-      },
-      "artists": [
-        {
-          "name": "Ece Se\u00e7kin",
-          "url": "https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5"
-        }
-      ],
-      "duration_ms": 165859,
-      "name": "Masum",
-      "url": "https://open.spotify.com/track/3YpghzU44ZtBF1m1vM6jnw"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "Ni Main Jaana",
         "url": "https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
+        "name": "Masum",
+        "url": "https://open.spotify.com/album/7Hfxj65Qt4s9jbtM8CK3kT"
+      },
+      "artists": [
+        {
+          "name": "Ece Se\u00e7kin",
+          "url": "https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5"
+        }
+      ],
+      "duration_ms": 165859,
+      "name": "Masum",
+      "url": "https://open.spotify.com/track/3YpghzU44ZtBF1m1vM6jnw"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "S\u00f3 N\u00f3s 2",
+        "url": "https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 229347,
+      "name": "S\u00f3 N\u00f3s 2",
+      "url": "https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -451,22 +467,6 @@
       "duration_ms": 149514,
       "name": "Barbie (feat. Danny Bond)",
       "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
-        "name": "S\u00f3 N\u00f3s 2",
-        "url": "https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 229347,
-      "name": "S\u00f3 N\u00f3s 2",
-      "url": "https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
+        "name": "Coraz\u00f3n Delator",
+        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 261153,
+      "name": "Coraz\u00f3n Delator",
+      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
         "name": "Born Digital",
         "url": "https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "Paranoje",
-        "url": "https://open.spotify.com/album/2CxrNr8fIO0axRTxVdQqxz"
-      },
-      "artists": [
-        {
-          "name": "KIWI",
-          "url": "https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Paranoje",
-      "url": "https://open.spotify.com/track/6GTPiI6jzm8rrITO1bq0bj"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "\u6211\u7684\u89aa\u4eba",
         "url": "https://open.spotify.com/album/4ZDixbvO20xlgjEixcOw0a"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 282021,
       "name": "\u6211\u7684\u89aa\u4eba",
       "url": "https://open.spotify.com/track/0rYgIOQsdZVKgOHLTate7q"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "Paranoje",
+        "url": "https://open.spotify.com/album/2CxrNr8fIO0axRTxVdQqxz"
+      },
+      "artists": [
+        {
+          "name": "KIWI",
+          "url": "https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Paranoje",
+      "url": "https://open.spotify.com/track/6GTPiI6jzm8rrITO1bq0bj"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -951,22 +967,6 @@
       "duration_ms": 175082,
       "name": "N\u00e3o Mente pra Ela",
       "url": "https://open.spotify.com/track/0HQV32PeVc2tSDb5tEa5Pe"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
-        "name": "Coraz\u00f3n Delator",
-        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 261153,
-      "name": "Coraz\u00f3n Delator",
-      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/6dEQBEdT4avjltf11NlwjJ"
-      },
-      "artists": [
-        {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
-        }
-      ],
-      "duration_ms": 196198,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/6ucB0hgH5zcJFfjz4ZjHzX"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "\u611b\u5947\u85dd\u539f\u5275\u83ef\u5287\u300a\u4e0d\u826f\u57f7\u5ff5\u6e05\u9664\u5e2b\u300b\u539f\u8072\u5e36",
         "url": "https://open.spotify.com/album/4lQN080kPobeTivUu7G96A"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 226500,
       "name": "\u4e0d\u51e1 - \u611b\u5947\u85dd\u539f\u5275\u83ef\u5287\u300a\u4e0d\u826f\u57f7\u5ff5\u6e05\u9664\u5e2b\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/7MJswc6nLJeHZVeZgx3mMX"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6dEQBEdT4avjltf11NlwjJ"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "duration_ms": 196198,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/6ucB0hgH5zcJFfjz4ZjHzX"
     },
     {
       "added_at": "2023-05-09 04:50:36",

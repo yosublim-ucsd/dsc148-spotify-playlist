@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Negisa, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,035 likes - 79 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,042 likes - 79 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 78 | [Die Gefahr](https://open.spotify.com/track/0QsG6331LyC4bNlwlrR37b) | [Die Gefahr](https://open.spotify.com/artist/72PcBih0TelN6vxG4EmRLk) | [Die Gefahr](https://open.spotify.com/album/3qFp36bFh4oIoINKUsF1T8) | 5:24 |
 | 79 | [another lack](https://open.spotify.com/track/4G7jSPQjcH6ZS32geffcb9) | [youcallmecarla](https://open.spotify.com/artist/5rBtac9khS0CB8eUW0kFQd) | [another lack](https://open.spotify.com/album/2uxIP0orL1rmRY9j3q19Ju) | 3:03 |
 
-Snapshot ID: `MCwxZTBkZjQ1NDJlZTA1MzYwNjU1YzY0MGI2YzBkZTVlMTFiMjhhYjgx`
+Snapshot ID: `MCxhMDkyZDU1MjY1OTM0OTU4ODVhZjNhMTFjNTIwOWU2NGE1ZDhhNTNh`

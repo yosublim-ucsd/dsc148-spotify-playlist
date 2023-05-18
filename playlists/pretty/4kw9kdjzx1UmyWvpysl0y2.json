@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127128,
+  "num_followers": 127136,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDE5NCxkZjEyYzUxNGJjYWNkNjQzMjE4OTI2NDAzZDkwMzQyNzBmZWMzYzFi",
+  "snapshot_id": "NDIwMiwyNTcxZjY4NWM2OTUyOWJhZDg2NmRlZWU5Zjg5YzA4N2Y3YjhlOGQx",
   "tracks": [
+    {
+      "added_at": "2023-05-17 16:50:20",
+      "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4M5eI9WILJTXNeAxhdsgqZ"
+      },
+      "artists": [
+        {
+          "name": "Mr FijiWiji",
+          "url": "https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/2eex5KqwwPLtPJY8mxeSxd"
+    },
+    {
+      "added_at": "2023-05-17 16:49:37",
+      "album": {
+        "name": "Crashing",
+        "url": "https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Crashing",
+      "url": "https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a"
+    },
     {
       "added_at": "2023-05-15 11:39:27",
       "album": {
@@ -1055,82 +1087,6 @@
       "duration_ms": 237931,
       "name": "Valhalla",
       "url": "https://open.spotify.com/track/4nQAwNLKpcn0g54dPedQBi"
-    },
-    {
-      "added_at": "2023-02-24 17:22:35",
-      "album": {
-        "name": "Sunflowers",
-        "url": "https://open.spotify.com/album/5Fv4WJupGWoHOMEJZddOR4"
-      },
-      "artists": [
-        {
-          "name": "Seawayz",
-          "url": "https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Sunflowers",
-      "url": "https://open.spotify.com/track/5R5oXUlnzXfQZUnbNZz2Dm"
-    },
-    {
-      "added_at": "2023-02-24 17:17:34",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/7lJSmMbApjYTvZaU72KZTo"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Heleen",
-          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
-        }
-      ],
-      "duration_ms": 229161,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/6ay07MXOmggaJyMoLT1fqC"
-    },
-    {
-      "added_at": "2023-02-23 23:00:26",
-      "album": {
-        "name": "Fall Apart",
-        "url": "https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        }
-      ],
-      "duration_ms": 320853,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore"
-    },
-    {
-      "added_at": "2023-02-22 17:33:49",
-      "album": {
-        "name": "All But A Dream",
-        "url": "https://open.spotify.com/album/3hoLLHytifFVosoaxST1fz"
-      },
-      "artists": [
-        {
-          "name": "TOMB",
-          "url": "https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "All But A Dream",
-      "url": "https://open.spotify.com/track/4OGWWzeMDVVW0D1dqQCS2t"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -5329,6 +5329,24 @@
     },
     {
       "album": {
+        "name": "Hirune no Kuni",
+        "url": "https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Hirune no Kuni",
+      "url": "https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG"
+    },
+    {
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/0WSFViphXCkNPkHwSiTuO3"
       },
@@ -6728,7 +6746,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 190026,
       "name": "Kokorone",
       "url": "https://open.spotify.com/track/43nVvwOh89GG7LXWhmZFkd"
@@ -7105,6 +7123,24 @@
     },
     {
       "album": {
+        "name": "AIRPORT",
+        "url": "https://open.spotify.com/album/5jqEIUbpQr9ywGJkPKQhpv"
+      },
+      "artists": [
+        {
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281800,
+      "name": "Let's talk",
+      "url": "https://open.spotify.com/track/6N5yfPuFkzY0e3A52gbQO4"
+    },
+    {
+      "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/7zAoGrrJwpEd16ACo1SLiF"
       },
@@ -7371,7 +7407,7 @@
       "artists": [
         {
           "name": "MIREI",
-          "url": "https://open.spotify.com/artist/7pZ9s793JnnIIJj4eZHpZW"
+          "url": "https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw"
         }
       ],
       "date_added": "2023-05-09",
@@ -7964,6 +8000,24 @@
       "duration_ms": 283268,
       "name": "Massara",
       "url": "https://open.spotify.com/track/756KPtuYRjTJWastqEEn3g"
+    },
+    {
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/3IjA3ElHjDD9KaEnc4a9MU"
+      },
+      "artists": [
+        {
+          "name": "BURNABLE/UNBURNABLE",
+          "url": "https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192383,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/3gBg30QamRN5DftFNK5EKf"
     },
     {
       "album": {
@@ -13536,7 +13590,7 @@
     {
       "album": {
         "name": "U-MOON",
-        "url": "https://open.spotify.com/album/4q1GYQTdlSGDyQvsEipDeL"
+        "url": "https://open.spotify.com/album/0IfWDO93sKFJEVKJedmFiD"
       },
       "artists": [
         {
@@ -13547,6 +13601,24 @@
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189368,
+      "name": "U-MOON",
+      "url": "https://open.spotify.com/track/059v50NTXGedmpeuzdcASD"
+    },
+    {
+      "album": {
+        "name": "U-MOON",
+        "url": "https://open.spotify.com/album/4q1GYQTdlSGDyQvsEipDeL"
+      },
+      "artists": [
+        {
+          "name": "um-hum",
+          "url": "https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
       "duration_ms": 189368,
       "name": "U-MOON",
       "url": "https://open.spotify.com/track/1LX8QiHAc6QslLCNpuQhkB"
@@ -16370,7 +16442,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 186666,
       "name": "\u3072\u308b\u306d\u306e\u56fd",
       "url": "https://open.spotify.com/track/7x0x7RjQ0xQEKsfds73MGW"
@@ -19176,7 +19248,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 192383,
       "name": "\u30e1\u30fc\u30c7\u30fc",
       "url": "https://open.spotify.com/track/5u7rRP2f0OI7M4CM8IyExu"
@@ -22736,7 +22808,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 303627,
       "name": "\u661f\u306e\u30af\u30ba \u03b1",
       "url": "https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf"
@@ -25006,7 +25078,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 281800,
       "name": "\u8a71\u305d\u3046\u3088",
       "url": "https://open.spotify.com/track/5krzanEBYGoaU8uB7BhRmU"

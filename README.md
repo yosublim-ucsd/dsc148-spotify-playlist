@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6031\)
+## Playlists \(6034\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -835,6 +835,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Bosque Místico](/playlists/pretty/37i9dQZF1DX5GSGPU4E3Sq.md)
 - [Bossa Chill](/playlists/pretty/37i9dQZF1DX2m4xSMtooam.md)
 - [Bossa Nova](/playlists/pretty/4LmOnbOmtMUyQQjo6L9mct.md)
+- [Bossa Nova Classics](/playlists/pretty/37i9dQZF1DWWgccrbg3zbJ.md)
 - [Bossa Nova Covers](/playlists/pretty/37i9dQZF1DXardnHdSkglX.md)
 - [Bossa Nova Dinner](/playlists/pretty/37i9dQZF1DWVleyMkaelTd.md)
 - [Bossa in the Background](/playlists/pretty/37i9dQZF1DWUN87b7HRrCS.md)
@@ -1057,6 +1058,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Classic Blues Guitar](/playlists/pretty/37i9dQZF1DWWhiW4fdIska.md)
 - [Classic Country Drive](/playlists/pretty/37i9dQZF1DWZQIRdXaBqdE.md)
 - [Classic Covers](/playlists/pretty/37i9dQZF1DWTVIaV4KJYuq.md)
+- [Classic Easy Listening](/playlists/pretty/37i9dQZF1DX7oopxKf8qJx.md)
 - [Classic Family Flicks](/playlists/pretty/37i9dQZF1DWSKqMj3d8wqM.md)
 - [Classic Hardcore](/playlists/pretty/37i9dQZF1DXaGNG7NmtmZv.md)
 - [Classic Honky Tonk](/playlists/pretty/0NfjMqrzcGKVsbYZmhf4Md.md)
@@ -2021,7 +2023,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [HBO Rap Sh!t's Taste](/playlists/pretty/37i9dQZF1DWYzh3WlsCZMx.md)
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
 - [HIPHOPPLAYA FESTIVAL 2023](/playlists/pretty/37i9dQZF1DWUAivYWxeKnI.md)
-- [HOT NOW \- León Larregui](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HOT NOW \- Nicki Nicole](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [Haitian Heat](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md)
 - [Halftime Hits](/playlists/pretty/37i9dQZF1DWWNQEmXRHxVe.md)
 - [Halftime Official Playlist](/playlists/pretty/37i9dQZF1DWTHhW4hDVUUi.md)
@@ -5965,6 +5967,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [viendo llover desde la ventana](/playlists/pretty/37i9dQZF1DXbzlMz4hwU9T.md)
 - [viral lofi](/playlists/pretty/37i9dQZF1DX3SNr5BeQZSd.md)
 - [virales viejitas](/playlists/pretty/37i9dQZF1DXcuJfJUfXtde.md)
+- [voltage](/playlists/pretty/37i9dQZF1DXdJqnaw1s7iq.md)
 - [wanderlust](/playlists/pretty/37i9dQZF1DWWpO97CaFM3p.md)
 - [webcore](/playlists/pretty/37i9dQZF1DX9D5dmCM8Lo3.md)
 - [windows down](/playlists/pretty/37i9dQZF1DWVRCxkZCaEUc.md)

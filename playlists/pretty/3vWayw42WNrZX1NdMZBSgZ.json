@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Shakira",
-  "num_followers": 56430,
+  "num_followers": 56426,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzgzNCwxMTI2ZDJiOWNiZTI3NTQ3MGViYjIxNjEwODAyNjA2NDU3Y2QwMDA5",
+  "snapshot_id": "MzgzNSxjYjU0NWU4NmEzZjk4NjI5ZjhjZmRlOGY4NmZjZjYxNmE1ZGE1NTgw",
   "tracks": [
     {
       "added_at": "2023-05-12 00:05:43",
@@ -127,6 +127,22 @@
       "duration_ms": 91371,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
+    },
+    {
+      "added_at": "2023-05-17 13:43:50",
+      "album": {
+        "name": "Lo Que No Te Dije",
+        "url": "https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 172397,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/5Gbhyq8vK0aO4iogHPcKXX"
     },
     {
       "added_at": "2023-05-12 19:09:04",

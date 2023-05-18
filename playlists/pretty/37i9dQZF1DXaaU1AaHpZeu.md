@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Juan Pablo Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,052 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,061 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [La Monogamia](https://open.spotify.com/track/2Q4ysVnSa2XtoDN1i0ch5v) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML), [Celia Becks](https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1) | [La Monogamia](https://open.spotify.com/album/4P15qCuwHfsvrK2CZbR5r2) | 3:57 |
 | 50 | [Que Venís](https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u) | [Juli Gervasoni](https://open.spotify.com/artist/70QkZI7RFWVIDcRG69SdYb), [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Que Venís](https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2) | 3:50 |
 
-Snapshot ID: `MCwzMGJkZGZjYjA5OGRiMTM5ZmE1OTY2ZmEzZWY3ZTU2Mzg4YWNlYmI5`
+Snapshot ID: `MCw1MzA0MWVjMzM3YTkxMGIxYjI5NGViM2Y1NzAzZjgzMTIxYjkwYmQw`

@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-689 songs - 1 day 13 hr 9 min
+690 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Against The Water](https://open.spotify.com/track/2sklRaFgfN1YdB687RIGgi) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Against The Water](https://open.spotify.com/album/1RsQtWgxryiFLtckF3Fasd) | 3:37 | 2020-02-21 | 2021-05-12 |
 | [Ain't My Fault](https://open.spotify.com/track/6lcepxLWU2sbLVXaJL46qS) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [Things I Never Said](https://open.spotify.com/album/1NptmZZTnGyDq1ZKQZEcVj) | 2:25 | 2020-05-22 | 2021-05-12 |
 | [All Falls Down \(feat\. Moelogo\)](https://open.spotify.com/track/5cCrpNniPn2ao1BEuAsl6P) | [Reece](https://open.spotify.com/artist/3WGVmCEiJc8xYBZWZWAg5b), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [All Falls Down \(feat\. Moelogo\)](https://open.spotify.com/album/78LmdhDljkaQVUAqBSHU5r) | 3:45 | 2019-12-18 | 2020-04-06 |
+| [ALL MINE](https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [ALL MINE](https://open.spotify.com/album/5MVN44ryoa6sLFsv42BoCb) | 2:59 | 2023-05-17 |  |
 | [All My Friends](https://open.spotify.com/track/0XKeX2a57RKZrYikf5tmPa) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [All My Friends](https://open.spotify.com/album/2vIpHxPa1g5KQvIlrR1FGK) | 2:48 | 2020-05-22 | 2021-05-12 |
 | [And It Breaks My Heart](https://open.spotify.com/track/658x3phIzux5VYryVBOET4) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [And It Breaks My Heart / Who You Lovin / In a Stranger's Arms](https://open.spotify.com/album/5aTeJSdirpRjxl9IIpWx8v) | 4:06 | 2020-07-01 | 2021-05-12 |
 | [Another Falling Star](https://open.spotify.com/track/6ie3zhD4Yyrz35wCouSk8T) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 3:39 | 2022-03-10 |  |

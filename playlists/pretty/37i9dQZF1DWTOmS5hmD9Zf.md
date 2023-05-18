@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 
 > Cause I'm a person just like you but I got better things to do.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,802 likes - 105 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,825 likes - 105 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 | 65 | [Bringin' It Down](https://open.spotify.com/track/24yPzgx1eYl1xmhpKw5Wbf) | [Judge](https://open.spotify.com/artist/2FjHrXsNltj2EKpHqXgkq9) | [Bringin' It Down](https://open.spotify.com/album/3atpwAbNVlrCE6VaqxKBCa) | 1:49 |
 | 66 | [Once and for all](https://open.spotify.com/track/2PNbQPRtT0KpFua7ySslay) | [Up Front](https://open.spotify.com/artist/1a7OFogVYYbn7YUtSAxaUN) | [Spirit](https://open.spotify.com/album/7ibrZDaOn9EGLzBhjIWlQb) | 2:18 |
 | 67 | [Last Straw](https://open.spotify.com/track/4zMmCujsSetUmf8vivqty0) | [Wide Awake](https://open.spotify.com/artist/3RjPJRaqACpVw1Ds12ADcI) | [25 Song Discography](https://open.spotify.com/album/70wPuYuX1drOOZkVXQGrL5) | 3:46 |
-| 68 | [Straight On View](https://open.spotify.com/track/3Zc9QjyghTIteHLfcTWr6e) | [Unity](https://open.spotify.com/artist/0zOGaL3FZZGm6y1XXCHE9U) | [You Are One](https://open.spotify.com/album/2QIqsCiUP3lZj9O6vKvoej) | 1:07 |
+| 68 | [Straight On View](https://open.spotify.com/track/3Zc9QjyghTIteHLfcTWr6e) | [Unity](https://open.spotify.com/artist/1CsBJA1RqXHUNkEfDWhjKv) | [You Are One](https://open.spotify.com/album/2QIqsCiUP3lZj9O6vKvoej) | 1:07 |
 | 69 | [Not For Me](https://open.spotify.com/track/4ClWDMg91Y68ApgudaBFfo) | [Insted](https://open.spotify.com/artist/3122FeGvz8tC7SRIcVN7sp) | [What We Believe](https://open.spotify.com/album/65BpyWxH8OcTi608WXbuBn) | 2:01 |
 | 70 | [The Few and the Proud](https://open.spotify.com/track/4iQ1eroBuAdL8hlNp69Xrw) | [Turning Point](https://open.spotify.com/artist/3pRJxwgJFHnAplmCEHBtNu) | [Turning Point](https://open.spotify.com/album/0XvmjyHaqPXaoQ3OizFbwS) | 1:34 |
 | 71 | [Till Death](https://open.spotify.com/track/5IK5L8TNxeHuUHKmLTjTBB) | [Brotherhood](https://open.spotify.com/artist/2JfhRIELhGXkNM0MFIbAVQ) | [Till Death...](https://open.spotify.com/album/5wCsD2wpaNXH05KEHtOdjE) | 2:07 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 | 104 | [C.M.F.](https://open.spotify.com/track/5Z8dVMeWUaatSXb42imEgC) | [Minority Unit](https://open.spotify.com/artist/4zr6dHfZKuO0HvwuqexH9y) | [Demo 2011](https://open.spotify.com/album/0fYJXgU3koIgD7MwnkPbsz) | 0:57 |
 | 105 | [First Offense](https://open.spotify.com/track/0erCLOl8aSItDjv57l6PNN) | [Boston Strangler](https://open.spotify.com/artist/0jcLanwiSXfVgAcsY2mPd4) | [Primitive](https://open.spotify.com/album/5WYYfUoh9Gskv6IZ3ownam) | 1:19 |
 
-Snapshot ID: `MCxkN2U0NGIyNTJlMmQ4NzAzODRlM2QxMDRiYjhmYTQ4OWMxYzVhOWJj`
+Snapshot ID: `MCw2YjJiN2RhZDAyODM4OGRhOWY0NTVmZDhiM2JiYjFhOWVjZjYyZGM3`

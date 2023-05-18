@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: CKay
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,181 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,772 likes - 48 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 46 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 |
 | 47 | [Want me](https://open.spotify.com/track/7LgIhhfi7JJD6RfbyM6c8p) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Want me](https://open.spotify.com/album/1PfnjM06cDq83Z4GOZZI9r) | 2:48 |
 | 48 | [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 |
-| 49 | [Prends ça](https://open.spotify.com/track/4OY6TT0DO2LqzGkl4iV41T) | [Driks](https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Prends ça](https://open.spotify.com/album/5mbn5HLQFzfnluNW4f5GUh) | 2:45 |
 
-Snapshot ID: `MCxhYmZhNWM4ODc4MzkwYjhiYTFkOWZiNjE2MWYwOGMxNmE1ZmQwOGU3`
+Snapshot ID: `MCw1MWI3OGY0NzQxMTU1OTEwZDZjNDY5MDM2NTRhMDhhZTJiNTM1YTVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,902 likes - 52 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,921 likes - 52 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 51 | [Kalemba \(Wegue Wegue\)](https://open.spotify.com/track/7e7hxfWxycrp5e0rHpFD4v) | [Buraka Som Sistema](https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam), [Pongolove](https://open.spotify.com/artist/5hY9FWUpym7RjAz84ykh8V) | [Black Diamond](https://open.spotify.com/album/2enDmVMxNqo2jqw9hwFp3V) | 3:53 |
 | 52 | [Bicstan](https://open.spotify.com/track/2xye1raSO8KLUD6DiX8DEW) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5J2NqsDqtVGCqb0bqQf3RU) | 4:45 |
 
-Snapshot ID: `MCwwZTJhZTU5MGMwMWNlMGM4MzA1ZjJhMWI4NWMyMmNkYTdlNWE5YTUy`
+Snapshot ID: `MCw1YWZlZWRkOTMxOWJiN2U0MjQ5YzBlODJlZjJlZjhiMDY1ZjdhZTFk`

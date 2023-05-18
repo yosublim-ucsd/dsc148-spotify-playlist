@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-154 songs - 7 hr 46 min
+155 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Commitments](https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 3:14 | 2022-03-03 |  |
 | [Como Han Pasado los Anos](https://open.spotify.com/track/56MEvjcsopnXjg0beoQiJU) | [Juan Carlos Allende](https://open.spotify.com/artist/1Ra3B3zt4TA4fzXpSW4oAR) | [Internacional New Age Guitarra, Vol.2](https://open.spotify.com/album/34tsTHoNwA80agPtrj5JhL) | 3:55 | 2022-03-03 | 2022-07-09 |
 | [Con Calma](https://open.spotify.com/track/3FVjQ0xvY0egkX73XwR5KF) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Rumba De Rambla](https://open.spotify.com/album/10pjbovsMmRO6b4YjSrqKR) | 3:11 | 2022-03-03 |  |
+| [De Mim Pra Você](https://open.spotify.com/track/5ZBFyNfRUzYpHB6y2I2YC7) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [De Mim Pra Você](https://open.spotify.com/album/6ZkloKdM5BBskDbqI5NNft) | 2:41 | 2023-05-17 |  |
 | [De Tu Mano](https://open.spotify.com/track/0dDo9FPktLTFMxQ5h1JdIP) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [De Tu Mano](https://open.spotify.com/album/4zNO2HO1luGa0Goo6TxQuf) | 2:41 | 2022-03-03 |  |
 | [Dicen](https://open.spotify.com/track/16Lmm7ei1syfXTZIYj5FpY) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [A Veces](https://open.spotify.com/album/1SfElzQ1tIOxyXZmXjLuX9) | 2:58 | 2022-03-03 |  |
 | [Die Donau](https://open.spotify.com/track/2cZMVymCXBcY4KDr0Qag2f) | [Sylvia Warren](https://open.spotify.com/artist/0Jvjt5h5TJPxU0hsoTljL7) | [Die Donau](https://open.spotify.com/album/1hcqmGoCbBo79hyTfMLnl9) | 2:42 | 2022-03-03 | 2022-10-29 |

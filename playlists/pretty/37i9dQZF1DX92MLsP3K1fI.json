@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! LAGOS y Reik en portada.",
-  "num_followers": 67176,
+  "num_followers": 67227,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzdiNWRhYmMyZmVhNGVlNzM4MDVlZDRmNzQ3ZmZiNGFkYWFlM2E1",
+  "snapshot_id": "MCxlZWVhNDJlZTc3ODE1MzViZTU1OTkzNmM4NTVmMDRmMTM5YzE3NDhm",
   "tracks": [
     {
       "added_at": "2023-05-06 00:56:17",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-06 00:56:17",
       "album": {
-        "name": "No Es Mi Culpa",
-        "url": "https://open.spotify.com/album/0MXBGzxk5jZZH4yYWY1O37"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 127016,
-      "name": "No Es Mi Culpa",
-      "url": "https://open.spotify.com/track/0c8RjV0vfQ7z1ZpdfaQ61d"
-    },
-    {
-      "added_at": "2023-05-06 00:56:17",
-      "album": {
         "name": "La Noche",
         "url": "https://open.spotify.com/album/4LZmupArVMH708EjwPECO3"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-05-06 00:56:17",
       "album": {
-        "name": "Dementes",
-        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
+        "name": "No Es Mi Culpa",
+        "url": "https://open.spotify.com/album/0MXBGzxk5jZZH4yYWY1O37"
       },
       "artists": [
         {
-          "name": "Alex Hoyer",
-          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 176207,
-      "name": "Dementes",
-      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
+      "duration_ms": 127016,
+      "name": "No Es Mi Culpa",
+      "url": "https://open.spotify.com/track/0c8RjV0vfQ7z1ZpdfaQ61d"
     },
     {
       "added_at": "2023-05-06 00:56:17",
@@ -887,6 +871,22 @@
       "duration_ms": 217973,
       "name": "Me Liber\u00e9",
       "url": "https://open.spotify.com/track/54o97glZqjfQambK2yyNCG"
+    },
+    {
+      "added_at": "2023-05-06 00:56:17",
+      "album": {
+        "name": "Dementes",
+        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
+      },
+      "artists": [
+        {
+          "name": "Alex Hoyer",
+          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
+        }
+      ],
+      "duration_ms": 176207,
+      "name": "Dementes",
+      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
     },
     {
       "added_at": "2023-05-06 00:56:17",

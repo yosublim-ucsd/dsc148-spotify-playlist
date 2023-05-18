@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. New Candys e Bugo in cover!
 
-427 songs - 23 hr 39 min
+428 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [LA PESTE](https://open.spotify.com/track/1Yn1JtWWc7193IHkHe9kUV) | [LUK](https://open.spotify.com/artist/2yAYxQNQD9CJQqCiGYrka7) | [LA PESTE](https://open.spotify.com/album/0b9iFdSpeJdXkXN7x84oua) | 3:19 | 2023-04-27 |  |
 | [La stessa parte della luna](https://open.spotify.com/track/5uNUAUBFwmKESymGQND6VB) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [La stessa parte della luna](https://open.spotify.com/album/0AxuaJx5LvpAl59UyPmUUG) | 4:17 | 2022-09-08 | 2022-10-14 |
 | [La vita fa schifo](https://open.spotify.com/track/38OPZDQmw8dhrl63CafT14) | [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [La vita fa schifo](https://open.spotify.com/album/0yzB3qbjWR5nybthxPp772) | 4:44 | 2022-07-21 | 2022-09-02 |
+| [Lack Of Attention](https://open.spotify.com/track/4RAGyLQOh2pEbJESFCtQcp) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Lack Of Attention](https://open.spotify.com/album/3LScXcitw1L8DrzZIfbUzN) | 3:07 | 2023-05-17 |  |
 | [Le Foglie](https://open.spotify.com/track/6EZXfB8BRZZRidwYKNBUpg) | [Iride](https://open.spotify.com/artist/3jyLpt1a005jd7VU9m6F5w) | [Quello Che Resta](https://open.spotify.com/album/5feykjYw08wshzlOPemXj9) | 4:41 | 2023-03-02 | 2023-03-18 |
 | [Lento](https://open.spotify.com/track/1Zf7qzYqsGk9SSWRxerDF0) | [Labissodeigiorniavenire](https://open.spotify.com/artist/6mSVh5QjIeIt1FajKzINZd) | [Lento](https://open.spotify.com/album/3578E1xDOOkKh9mVWCHXAP) | 3:01 | 2022-08-04 | 2022-09-23 |
 | [Libellula](https://open.spotify.com/track/0XbO1VbFRlFlycqvnaNuYn) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY) | [Libellula](https://open.spotify.com/album/4xo1lo7z4A2sawH7WI7Eev) | 3:06 | 2022-06-30 | 2022-10-14 |

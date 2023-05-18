@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Sebastián Yatra, Manuel Turizo y Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,702 likes - 72 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,736 likes - 72 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 8 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 |
 | 9 | [Tiempo](https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Tiempo](https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft) | 1:31 |
 | 10 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 |
-| 11 | [ANGOLA](https://open.spotify.com/track/59N9V0HT0lnopU5bLL9NI8) | [Blackthoven](https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [ANGOLA](https://open.spotify.com/album/3n0U3Rlyjpd9OOgsLzdFO0) | 2:15 |
+| 11 | [ANGOLA](https://open.spotify.com/track/59N9V0HT0lnopU5bLL9NI8) | [Blackthoven](https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Purps On The Beat](https://open.spotify.com/artist/5Ti1bgVXlEFiheTsdiHhRd) | [ANGOLA](https://open.spotify.com/album/3n0U3Rlyjpd9OOgsLzdFO0) | 2:15 |
 | 12 | [Una Noche Loca](https://open.spotify.com/track/6aYJlGgl6BFH2ZOmse7wpG) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [Una Noche Loca](https://open.spotify.com/album/28YLk4yInrLrxXPlsjqMN1) | 3:14 |
 | 13 | [Soledad](https://open.spotify.com/track/3kxXMYZKZka5g4SyqNsk09) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:48 |
 | 14 | [A llorar a otra parte](https://open.spotify.com/track/7wB5JU6RIcUZCoymczsCFN) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [A llorar a otra parte](https://open.spotify.com/album/3WIlRYCiQJ67h9gkRnAhBH) | 2:36 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 71 | [Esquece de Mim \(Rap\) \- Ao Vivo](https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Diferentão \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 3:29 |
 | 72 | [Posição de Ataque](https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Posição de Ataque](https://open.spotify.com/album/3koR16KYlMIRIzWUxNREXs) | 2:29 |
 
-Snapshot ID: `MCwwNjJmYTY4OTljMDlhMmI4NGQyZGEyZTY3MjFmNTc0ZDkwNjExZjE0`
+Snapshot ID: `MCw1YjcyZmQzNjFmODViYTcyZTMzYWI1YTQxYjM4MWQzZjNjNGMyYjRh`

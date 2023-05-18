@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 64426,
+  "num_followers": 64521,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTQzYWExNTljNzQ4NzNjYzhiOTUyNDZiNGUyOWM5MmVkZTExOTY4",
+  "snapshot_id": "MCw4ZjkyYzhjMzllNzM4ZDMwOTNiMjUzYjg3NGRiMDAxZjJiMjg4Zjk5",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Bucks Fizz",
-        "url": "https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb"
-      },
-      "artists": [
-        {
-          "name": "Bucks Fizz",
-          "url": "https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX"
-        }
-      ],
-      "duration_ms": 158440,
-      "name": "Making Your Mind Up",
-      "url": "https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Rise Like A Phoenix",
         "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 183240,
       "name": "Only Teardrops",
       "url": "https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Bucks Fizz",
+        "url": "https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb"
+      },
+      "artists": [
+        {
+          "name": "Bucks Fizz",
+          "url": "https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX"
+        }
+      ],
+      "duration_ms": 158440,
+      "name": "Making Your Mind Up",
+      "url": "https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -363,22 +363,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
+        "name": "Trenule\u021bul",
+        "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
       },
       "artists": [
         {
-          "name": "Will Ferrell",
-          "url": "https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0"
+          "name": "Zdob si Zdub",
+          "url": "https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu"
         },
         {
-          "name": "My Marianne",
-          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
+          "name": "Fratii Advahov",
+          "url": "https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC"
         }
       ],
-      "duration_ms": 97896,
-      "name": "Jaja Ding Dong",
-      "url": "https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY"
+      "duration_ms": 180030,
+      "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
+      "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -399,22 +399,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Trenule\u021bul",
-        "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
+        "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
       },
       "artists": [
         {
-          "name": "Zdob si Zdub",
-          "url": "https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu"
+          "name": "Will Ferrell",
+          "url": "https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0"
         },
         {
-          "name": "Fratii Advahov",
-          "url": "https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC"
+          "name": "My Marianne",
+          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
         }
       ],
-      "duration_ms": 180030,
-      "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
-      "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
+      "duration_ms": 97896,
+      "name": "Jaja Ding Dong",
+      "url": "https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Saade, Vol. 1",
-        "url": "https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7"
-      },
-      "artists": [
-        {
-          "name": "Eric Saade",
-          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Nadav Guedj",
         "url": "https://open.spotify.com/album/6LKtYHQmNgH8woDwwG1dVE"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 180608,
       "name": "Golden Boy",
       "url": "https://open.spotify.com/track/76SQ1MeAThYnjO9U9v6zZp"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Saade, Vol. 1",
+        "url": "https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7"
+      },
+      "artists": [
+        {
+          "name": "Eric Saade",
+          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+        }
+      ],
+      "duration_ms": 180813,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Dance You Off",
+        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 182134,
+      "name": "Dance You Off",
+      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 174626,
       "name": "Always - Single Version",
       "url": "https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Dance You Off",
-        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 182134,
-      "name": "Dance You Off",
-      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "The New Seekers",
-        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
-      },
-      "artists": [
-        {
-          "name": "The New Seekers",
-          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Beg, Steal Or Borrow",
-      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Essential",
         "url": "https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 182000,
       "name": "Je t'adore - Eurovision Mix",
       "url": "https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "The New Seekers",
+        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "No Boundaries",
-        "url": "https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu"
-      },
-      "artists": [
-        {
-          "name": "Sertab Erener",
-          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Every Way That I Can - Philippe Laurent from Galleon Radio Edit",
-      "url": "https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Vive la vie (Edition sp\u00e9ciale)",
         "url": "https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 169181,
       "name": "Moustache",
       "url": "https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "No Boundaries",
+        "url": "https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu"
+      },
+      "artists": [
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Every Way That I Can - Philippe Laurent from Galleon Radio Edit",
+      "url": "https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Cliche Love Song",
+        "url": "https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq"
+      },
+      "artists": [
+        {
+          "name": "Basim",
+          "url": "https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "Cliche Love Song - Another Version",
+      "url": "https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "La voix du nord",
         "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 177013,
       "name": "La Voix",
       "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Cliche Love Song",
-        "url": "https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq"
-      },
-      "artists": [
-        {
-          "name": "Basim",
-          "url": "https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "Cliche Love Song - Another Version",
-      "url": "https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Walk On Water",
-        "url": "https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV"
-      },
-      "artists": [
-        {
-          "name": "Ira Losco",
-          "url": "https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV"
-        }
-      ],
-      "duration_ms": 185720,
-      "name": "Walk On Water",
-      "url": "https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Requiem (Eurovision version)",
         "url": "https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 180538,
       "name": "Requiem - Eurovision Version",
       "url": "https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Walk On Water",
+        "url": "https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV"
+      },
+      "artists": [
+        {
+          "name": "Ira Losco",
+          "url": "https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV"
+        }
+      ],
+      "duration_ms": 185720,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h"
     }
   ],
   "unique_name": "Eurovision Party",

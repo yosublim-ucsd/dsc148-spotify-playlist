@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,979 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,092 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Doors](https://open.spotify.com/track/1zbrYYbhDViJBkFb690t7f) | [SKIES](https://open.spotify.com/artist/6ibOZLYvvJ6y2LcUekrZKK) | [Doors](https://open.spotify.com/album/0gm3W3EauTWxh4ZRGP7Gom) | 3:54 |
 | 50 | [Cassie of the Dead](https://open.spotify.com/track/3KD5jeFJm2KYZ3k02Z5xc5) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Cassie of the Dead](https://open.spotify.com/album/2roYlUsSAh7z2cbx4NE6F8) | 2:47 |
 
-Snapshot ID: `MCw5NjM2NGI1MzM1NzkzYjYyMjk3OTZkZTI3MWViMzY4MjlmMWQ4YzQ1`
+Snapshot ID: `MCxiMWRhNGMzMjMxOGY1MmVlYzg3MDcwMTMwZDdlN2ZlYmU1MWNhZjBj`

@@ -9616,7 +9616,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 187460,
       "name": "Love Abuser (Save Me)",
       "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
@@ -14718,7 +14718,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 158480,
       "name": "Stick Up",
       "url": "https://open.spotify.com/track/3k9gh7zRCItcTo363Re0DR"
@@ -16658,7 +16658,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 147200,
       "name": "U Broke My Heart",
       "url": "https://open.spotify.com/track/4D6gu0quKMNiMzJJTkDjk0"
@@ -16720,6 +16720,24 @@
       "duration_ms": 173600,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
+    },
+    {
+      "album": {
+        "name": "WAKE UP",
+        "url": "https://open.spotify.com/album/29sE5WjE8QbAkioiZYkOUi"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121318,
+      "name": "UNAPOLOGETIC",
+      "url": "https://open.spotify.com/track/0smlyjWAaTNHlwKHnYGBVF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:6W1NclX9rP93bkhQEOQtm4">Frank Leen</a>,  <a href="spotify:artist:5kH7ZateqBrrUv6u6snhnp">ta Ukrainka</a>,  <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>,  <a href="spotify:artist:5RwiBwEEW5dOXGUlEVA0LT">stickxr</a>,  <a href="spotify:artist:4ccurDUZ48cXNrcrLsA9ub">IGNACY</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,605 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,121 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 59 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 | 60 | [Zero Calorie Cookie](https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Zero Calorie Cookie](https://open.spotify.com/album/1oafWfr6hOnwcGAkrRI63K) | 2:52 |
 
-Snapshot ID: `MCw3NTlhY2Q0ZWM1NjRhNTVjM2ZkOWVmNGFkZjM4YzJiOTFjMzUxZTIx`
+Snapshot ID: `MCxmYjBiMTY2NGQ0YTNiNzQ4ZTc5ZjlkMzY2NDBhMTc3MzkwY2ExMWQ0`

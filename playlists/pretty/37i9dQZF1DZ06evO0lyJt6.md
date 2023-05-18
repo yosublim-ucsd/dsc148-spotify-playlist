@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,536 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,546 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 2 | [Mi Meta Contigo](https://open.spotify.com/track/1j13xqtQ20UWMWE3bm5Tsz) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Dany, Te Dedico Esta Canción Con Todo Mi Corazón](https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL) | 3:08 |
 | 3 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/7wZ0uqWZy6pg2rGKQcJNzC) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/2dTrANm5pKsuEtiWcKd6Wy) | 3:39 |
 | 4 | [Tri Triki Tri Traka](https://open.spotify.com/track/6KxYnrxjHGJOcklCMGdGZP) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Tri Triki Tri Traka](https://open.spotify.com/album/5yEaa4RbJ8h03YmyxmHQgA) | 2:49 |
-| 5 | [Osito Pu](https://open.spotify.com/track/0riPu3oKutl1EpD8ge9i6b) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Para Bailar y Gozar A Ritmo De La Banda](https://open.spotify.com/album/6VpYf0aTGWv2Zh0TqqXFPq) | 3:18 |
+| 5 | [La Cinturita](https://open.spotify.com/track/2qHuYHOVh2tqoPXD1wsaKf) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Para Bailar y Gozar A Ritmo De La Banda](https://open.spotify.com/album/6VpYf0aTGWv2Zh0TqqXFPq) | 2:24 |
 | 6 | [Ojalá que te Mueras](https://open.spotify.com/track/4Fpbt4tJjGpgU2Bz9OnD3j) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pesado \- 20 Aniversario](https://open.spotify.com/album/6gah070CdKzGiOrhsFuw34) | 3:17 |
 | 7 | [A Través Del Vaso](https://open.spotify.com/track/5OQvLiHBVzGVbFpJmv64U0) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [My Favorite Playlist "Banda"](https://open.spotify.com/album/77PWuEssu12c1h5Ts64VE9) | 3:02 |
 | 8 | [Cuánto A Que Te Olvido](https://open.spotify.com/track/5vHZr5AeWmDSZqxqrcNaGO) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Apasiónate Con La Música De Banda](https://open.spotify.com/album/5Hk5ohNgggzRTff774ZjW2) | 3:23 |
-| 9 | [La Cinturita](https://open.spotify.com/track/2qHuYHOVh2tqoPXD1wsaKf) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Para Bailar y Gozar A Ritmo De La Banda](https://open.spotify.com/album/6VpYf0aTGWv2Zh0TqqXFPq) | 2:24 |
+| 9 | [Osito Pu](https://open.spotify.com/track/0riPu3oKutl1EpD8ge9i6b) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Para Bailar y Gozar A Ritmo De La Banda](https://open.spotify.com/album/6VpYf0aTGWv2Zh0TqqXFPq) | 3:18 |
 | 10 | [El Cuento Perfecto](https://open.spotify.com/track/6LIINqR584TQZdvGR9tys4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [El Cuento Perfecto](https://open.spotify.com/album/27rcKQ0nQfHtyPSmGkj6gX) | 3:12 |
 | 11 | [Por Si No Recuerdas](https://open.spotify.com/track/3E4WabtIxRxKlfxdgMCNhj) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Por Si No Recuerdas](https://open.spotify.com/album/09OFAEd1JZcbvqWcT2Atz4) | 3:14 |
 | 12 | [En Eso No Quedamos](https://open.spotify.com/track/3r4x4zyA3mL5xuHKOU2EV5) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Y Nos Quedamos En La Playa A Pachanguear](https://open.spotify.com/album/0dJIfcwUk2Km3QTVkjRRiy) | 3:10 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 50 | [La Idea](https://open.spotify.com/track/5r5AWI5KdhZyOBM9pJlPyV) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/5HbJLezRG8myDEdC7SN8Ep) | 2:56 |
 | 51 | [No Es La Primera Vez](https://open.spotify.com/track/0utba0v9M6e8sqoNIyard9) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/2PKsmaDxBIeXWvC85ZUxRJ) | 3:20 |
 
-Snapshot ID: `MjgwNzA2MjksMDAwMDAwMDBjYzNiNWIwMDY3YTdkOTQ4NDI5MmMyMWI5Mjc5OGY1YQ==`
+Snapshot ID: `MjgwNzIyMDYsMDAwMDAwMDAzZjNiNWFkMjI3MTMyMDUzMGIzMmRlMWJiOGNkNjcxOQ==`

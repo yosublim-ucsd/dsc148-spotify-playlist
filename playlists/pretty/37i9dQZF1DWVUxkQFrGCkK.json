@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 168348,
+  "num_followers": 168523,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2E0MzM5Y2U1NmU0ZjUzYjU5MjM3NmQ3ZjRkOGJiODIwNjZlNzli",
+  "snapshot_id": "MCw1YjQ2MDk4MWRiMTViMDY2NDdmYTBjN2ViMmZlZGZmMWU1MGNhZDdj",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Vanille fraise",
-        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 238183,
-      "name": "Vanille fraise",
-      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 271240,
       "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Vanille fraise",
+        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 238183,
+      "name": "Vanille fraise",
+      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "hei",
-        "url": "https://open.spotify.com/album/12ogBUIRgbSu6v4O6S7zDR"
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG"
       },
       "artists": [
         {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Jodie Knight",
+          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
         }
       ],
-      "duration_ms": 240674,
-      "name": "hei",
-      "url": "https://open.spotify.com/track/30wTNGjHpvAI9fspMsUpIo"
+      "duration_ms": 243477,
+      "name": "Fragments",
+      "url": "https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1095,38 +1099,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG"
+        "name": "hei",
+        "url": "https://open.spotify.com/album/12ogBUIRgbSu6v4O6S7zDR"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Jodie Knight",
-          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
         }
       ],
-      "duration_ms": 243477,
-      "name": "Fragments",
-      "url": "https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 226620,
-      "name": "Everything Is Going To Be Alright",
-      "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
+      "duration_ms": 240674,
+      "name": "hei",
+      "url": "https://open.spotify.com/track/30wTNGjHpvAI9fspMsUpIo"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 223738,
       "name": "One of Those Nights",
       "url": "https://open.spotify.com/track/5bYSqdcyJ74rLL299UJAcC"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 226620,
+      "name": "Everything Is Going To Be Alright",
+      "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Fashion Week (with Channel Tres)",
-        "url": "https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB"
-      },
-      "artists": [
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 214575,
-      "name": "Fashion Week (with Channel Tres)",
-      "url": "https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "GOOD TIMES (Sofia Kourtesis Remix)",
         "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 269711,
       "name": "GOOD TIMES - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Fashion Week (with Channel Tres)",
+        "url": "https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB"
+      },
+      "artists": [
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 214575,
+      "name": "Fashion Week (with Channel Tres)",
+      "url": "https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 228734,
-      "name": "Interior - Edit",
-      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "The Reset",
         "url": "https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo"
       },
@@ -1379,22 +1363,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Welcome To Dinna",
-        "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Black Uhuru",
-          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
         }
       ],
-      "duration_ms": 231840,
-      "name": "Welcome To Dinna",
-      "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
+      "duration_ms": 228734,
+      "name": "Interior - Edit",
+      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1411,6 +1391,26 @@
       "duration_ms": 295230,
       "name": "Alright",
       "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Welcome To Dinna",
+        "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Black Uhuru",
+          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Welcome To Dinna",
+      "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "JOY (Easy To Improve)",
-        "url": "https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 206892,
-      "name": "JOY (Easy To Improve)",
-      "url": "https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Crave You (Hush Hush Bootleg)",
         "url": "https://open.spotify.com/album/5nG8aFW3BVsXFg8w9oPHE4"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 341370,
       "name": "Crave You - Hush Hush Bootleg",
       "url": "https://open.spotify.com/track/07gf6qIWA6yt58pR7uBDSw"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "JOY (Easy To Improve)",
+        "url": "https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 206892,
+      "name": "JOY (Easy To Improve)",
+      "url": "https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56"
-      },
-      "artists": [
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        }
-      ],
-      "duration_ms": 276367,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Step By Step (Axel Boman\u2019s In The Air Version)",
         "url": "https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9"
       },
@@ -1827,6 +1811,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "duration_ms": 276367,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Pick Up",
         "url": "https://open.spotify.com/album/1jIpoJDNdPF0LPM11T402r"
       },
@@ -1843,42 +1843,38 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Organic Cold Brewed Hipster Funk EP",
-        "url": "https://open.spotify.com/album/1o7PXwcPMX6o3JELys9le2"
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
       },
       "artists": [
         {
-          "name": "Martin Roth",
-          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Le Chev",
+          "url": "https://open.spotify.com/artist/1oEH4JTWyTSulZ2xqxLw4N"
         }
       ],
-      "duration_ms": 235132,
-      "name": "Organic Cold Brewed Hipster Funk",
-      "url": "https://open.spotify.com/track/3phBxj9avtQDkWblVg7s02"
+      "duration_ms": 232000,
+      "name": "Follow the Loop",
+      "url": "https://open.spotify.com/track/1kU0GLegMoRFeDQQGHtKAY"
     },
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Stay Inside (feat. Liv.e) [Remixes]",
-        "url": "https://open.spotify.com/album/3KCWwGUT2EPhzHQ3t2ouEP"
+        "name": "La Fille aux Cheveux de Lin (Model Man Rework)",
+        "url": "https://open.spotify.com/album/6gydvdUe3QkrhxPG2Uf7QB"
       },
       "artists": [
         {
-          "name": "JT Donaldson",
-          "url": "https://open.spotify.com/artist/4sg0H3qltIBMe0G25XjwUN"
-        },
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        },
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
         }
       ],
-      "duration_ms": 231912,
-      "name": "Stay Inside (feat. Liv.e) - Sandy Rivera Remix",
-      "url": "https://open.spotify.com/track/5oFNZCGG0BX6EF2pGKsiQ1"
+      "duration_ms": 230605,
+      "name": "La Fille aux Cheveux de Lin - Model Man Rework",
+      "url": "https://open.spotify.com/track/4mjcIL4i2NnwPKt7OxfNSd"
     }
   ],
   "unique_name": "Umami",

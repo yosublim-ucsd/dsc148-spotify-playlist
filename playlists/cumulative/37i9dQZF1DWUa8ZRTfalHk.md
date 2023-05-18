@@ -2,7 +2,7 @@
 
 ### [Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk)
 
-> Who's now and next in pop\. Cover: FIFTY FIFTY
+> Who's now and next in pop\. Cover: Sabrina Carpenter
 
 1,690 songs - 3 day 15 hr 35 min
 

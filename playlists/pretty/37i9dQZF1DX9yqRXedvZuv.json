@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1626,
+  "num_followers": 1630,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmFmMGZiZGZjYTc3N2Y0MWYzYzMyNGI5ZDg0NjU5MTkxMjk4YzBh",
+  "snapshot_id": "MCwxMzU5NzJiYjhkZjNiYzc0MDQ2YjMzMTEyZGNkNDgyYWQyNWQwNWIz",
   "tracks": [
     {
       "added_at": "2022-10-01 17:37:57",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 148453,
+      "name": "The Percocet & Stripper Joint",
+      "url": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 213214,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "DS2 (Deluxe)",
-        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 148453,
-      "name": "The Percocet & Stripper Joint",
-      "url": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
     },
     {
       "added_at": "2022-10-01 17:37:57",

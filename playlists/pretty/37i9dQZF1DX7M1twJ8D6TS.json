@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 2999,
+  "num_followers": 3095,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzM4OTk5OGM0NzNlYWM4YzM5OTkwYjg1YTU0NTNhZTdlMWRjOTBl",
+  "snapshot_id": "MCxlOWFlZTNiY2JjMDc1ZjU0YjM5MDk1NjJhZGIzNDlmNTlkZGIxOTI4",
   "tracks": [
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Burn Down EP",
-        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
-      },
-      "artists": [
-        {
-          "name": "Cade Holliday",
-          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "Picture",
-      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Abstract Art of an Unstable Mind",
         "url": "https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 192800,
       "name": "Loser Mentality",
       "url": "https://open.spotify.com/track/0kh5IPMmmY2LUPDij2H3T6"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Burn Down EP",
+        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
+      },
+      "artists": [
+        {
+          "name": "Cade Holliday",
+          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/4IsdUibNLOGR1LymaBwf2I"
+      },
+      "artists": [
+        {
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        }
+      ],
+      "duration_ms": 212235,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/3cvaQWdVaipVYqat8mF6GB"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 216084,
       "name": "What It Doesn\u2019t Do",
       "url": "https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/4IsdUibNLOGR1LymaBwf2I"
-      },
-      "artists": [
-        {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
-        }
-      ],
-      "duration_ms": 212235,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/3cvaQWdVaipVYqat8mF6GB"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Lightning Fast",
-        "url": "https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS"
+        "name": "When You're Coming Down",
+        "url": "https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
         }
       ],
-      "duration_ms": 190853,
-      "name": "Lightning Fast",
-      "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
+      "duration_ms": 260000,
+      "name": "When You're Coming Down",
+      "url": "https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt"
     }
   ],
   "unique_name": "Texas Country Rewind",

@@ -1,12 +1,12 @@
 {
   "description": "New music from Jonas Brothers, Lil Durk & J. Cole, Charlotte Cardin, and BABY GRAVY.",
-  "num_followers": 343252,
+  "num_followers": 343261,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmQ4MzI3N2YyYWIyOGZjZWNkYWFhZGI4NGRmMjFmZDA3NGJiZmMz",
+  "snapshot_id": "MCwyNTNlOGMzMjI2MjE1YzI0YjkxMDM4MTEzMDJiNjMwMTk1MGVlMGEx",
   "tracks": [
     {
       "added_at": "2023-05-12 04:09:58",
@@ -132,16 +132,16 @@
       },
       "artists": [
         {
-          "name": "BABY GRAVY",
-          "url": "https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do"
-        },
-        {
           "name": "Yung Gravy",
           "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
         },
         {
           "name": "bbno$",
           "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "BABY GRAVY",
+          "url": "https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do"
         }
       ],
       "duration_ms": 144207,
@@ -841,7 +841,7 @@
         },
         {
           "name": "Vida",
-          "url": "https://open.spotify.com/artist/6jrVSDxSNd77imwfIfVxZD"
+          "url": "https://open.spotify.com/artist/6PBpD9zihZR2vfwGJITQTt"
         }
       ],
       "duration_ms": 213102,

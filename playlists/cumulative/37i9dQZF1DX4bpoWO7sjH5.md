@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-172 songs - 11 hr 31 min
+174 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,9 @@
 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 | 2021-12-24 | 2022-07-29 |
 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2021-12-24 |  |
 | [Creo En Ti \- Live](https://open.spotify.com/track/4iHlCejE0feD1XEXJRxmAI) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Top Música Cristiana](https://open.spotify.com/album/7jugx6QZ4k8hvkeHCiRftl) | 7:03 | 2021-12-24 | 2022-11-13 |
-| [De Belén a Jerusalén](https://open.spotify.com/track/3EZasVLqN6bkIp4xDkUXpT) | [Jesus Worship Center](https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI) | [De Belén a Jerusalén](https://open.spotify.com/album/0Hp4uKftPNw2I1C2hjCWCL) | 4:09 | 2022-11-26 |  |
+| [Cristianos Vayamos](https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Cristianos Vayamos](https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj) | 3:47 | 2022-12-10 |  |
+| [De Belén a Jerusalén](https://open.spotify.com/track/1RVrCARf52ZUmHg3ou5Qpw) | [Jesus Worship Center](https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI) | [De Belén a Jerusalén](https://open.spotify.com/album/07lWzo5gngjVzM5BNhVrzy) | 4:09 | 2022-12-10 |  |
+| [De Belén a Jerusalén](https://open.spotify.com/track/3EZasVLqN6bkIp4xDkUXpT) | [Jesus Worship Center](https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI) | [De Belén a Jerusalén](https://open.spotify.com/album/0Hp4uKftPNw2I1C2hjCWCL) | 4:09 | 2022-11-26 | 2023-05-18 |
 | [Desde Que Nació](https://open.spotify.com/track/0toi8eAeMiWlQNScNbYHDn) | [Lourdes Toledo](https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3) | [Emanuel](https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45) | 3:34 | 2021-12-24 | 2023-02-01 |
 | [Dios Con Nosotros](https://open.spotify.com/track/1kAgFs3ytaMAE2SMuEucK1) | [Damaris Fraire](https://open.spotify.com/artist/7zgMLLbT4cYJ46Yos8gUQC) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 4:23 | 2021-12-24 | 2022-07-29 |
 | [Dios Con Nosotros](https://open.spotify.com/track/6ouy9GxN9kxSMGtWbCSEbn) | [Damaris Fraire](https://open.spotify.com/artist/7zgMLLbT4cYJ46Yos8gUQC) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 4:23 | 2021-12-24 |  |
@@ -110,7 +112,7 @@
 | [Nadie Se Lo Imaginó](https://open.spotify.com/track/6ag9XT4JrxCEbiw4fwOgGG) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:23 | 2021-12-24 | 2022-07-29 |
 | [Nattyvidad](https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Nattyvidad](https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss) | 4:24 | 2021-12-24 |  |
 | [Navidad](https://open.spotify.com/track/25bGGqQUGbY6odUbPYtoZ7) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe) | [Navidad](https://open.spotify.com/album/4M3g8HcYnCJmA99uh2456G) | 3:07 | 2021-12-24 | 2022-12-11 |
-| [Navidad](https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA) | [Riosquad](https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS) | [Navidad](https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw) | 3:48 | 2021-12-24 |  |
+| [Navidad](https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA) | [Riosquad](https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS) | [Navidad](https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw) | 3:48 | 2021-12-24 | 2023-05-18 |
 | [Navidad En Mi País](https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2) | [Lourdes Toledo](https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3) | [Emanuel](https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45) | 4:10 | 2021-12-24 |  |
 | [Navidad en Miami](https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk) | [Navidad en Miami](https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK) | 2:40 | 2022-12-10 | 2023-03-11 |
 | [Navidad Es Jesús](https://open.spotify.com/track/4uHZzqsTVrcs1Ob47Q5pr2) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Esta Navidad](https://open.spotify.com/album/0THHB0bxRAaw33N6Q7pEEc) | 5:26 | 2021-12-24 |  |

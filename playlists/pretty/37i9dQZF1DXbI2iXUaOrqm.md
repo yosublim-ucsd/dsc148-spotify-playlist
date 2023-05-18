@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 
 > Una mezcla de rock y punk para motivarte\. Get pumped!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,963 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,015 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbI2iXUaOrqm.md) - [plain]
 | 43 | [Cien Inviernos](https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Monumentos](https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK) | 3:07 |
 | 44 | [Puto](https://open.spotify.com/track/5OWF7n0zX8kyTJvv1jTvZX) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 2:07 |
 | 45 | [Melodramática](https://open.spotify.com/track/4e1OGHYFnVowWFkooMEITy) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Melodramática](https://open.spotify.com/album/6z8ejwfGzRxuDNCBdMSPiV) | 4:30 |
-| 46 | [PLAYBOY](https://open.spotify.com/track/5sJ92rb60DbHLOY91y2NoU) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [PLAYBOY](https://open.spotify.com/album/7tGoCupmv66uD6hFI451P7) | 1:52 |
+| 46 | [Entre la Guerra y el Amor](https://open.spotify.com/track/79Sp4LFJY57wDTh8mEmn7l) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Entre La Guerra Y El Amor](https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV) | 3:14 |
 | 47 | [A Dios Le Pido \- Remastered 2022](https://open.spotify.com/track/1qLtWgyXlpEgAstbyksv4V) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal \(20th Anniversary Remastered\)](https://open.spotify.com/album/1u6LVowYLLPQVSS2o67YyW) | 3:25 |
-| 48 | [Entre la Guerra y el Amor](https://open.spotify.com/track/79Sp4LFJY57wDTh8mEmn7l) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Entre La Guerra Y El Amor](https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV) | 3:14 |
+| 48 | [PLAYBOY](https://open.spotify.com/track/5sJ92rb60DbHLOY91y2NoU) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [PLAYBOY](https://open.spotify.com/album/7tGoCupmv66uD6hFI451P7) | 1:52 |
 | 49 | [Vamos Otra Vez](https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [120 Km/Hr.](https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM) | 3:41 |
-| 50 | [Infierno Frío](https://open.spotify.com/track/1sI4YBO3bbctccXYNUaam0) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt) | [Infierno Frío](https://open.spotify.com/album/6YB76Lunmrai7yjMiQDbCj) | 2:18 |
+| 50 | [Sácame De Aquí](https://open.spotify.com/track/1DyXEc9SaU8hGJ4cWk7cMq) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:15 |
 
-Snapshot ID: `MCwyMmI5YTg4MDc5Mzk2MGRmMGI1MWFkMmYxZTIwNjg3MTA1ZTlmZmFm`
+Snapshot ID: `MCw3OTJhZDNkNjUzMjFiZTIyMWNmNWViNjU1NDhlMjE4YTkxNjQ0ZTdk`

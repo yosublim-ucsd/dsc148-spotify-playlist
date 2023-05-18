@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 65034,
+  "num_followers": 65067,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDE2NjU2NjcyZWRkZjFhNDdiMzcyMTZiMzVlNzEyNzBhMGY0MjFk",
+  "snapshot_id": "MCw5YzIwZWQyOTcyMmIxNTc3YTkxMjEzMjIyN2ZiNmJkOThmYjUwMDhm",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Ese Bolero Es M\u00edo",
-      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "El Rey de las Cantinas",
         "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 335533,
       "name": "Y Despu\u00e9s Del Amor",
       "url": "https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Ese Bolero Es M\u00edo",
+      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
-      },
-      "artists": [
-        {
-          "name": "Tito Cortes",
-          "url": "https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa"
-        }
-      ],
-      "duration_ms": 168829,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "\u00c9poca de Oro",
         "url": "https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 194351,
       "name": "Sendas Distintas",
       "url": "https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
+      },
+      "artists": [
+        {
+          "name": "Tito Cortes",
+          "url": "https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa"
+        }
+      ],
+      "duration_ms": 168829,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd"
     },
     {
       "added_at": "2021-12-17 05:01:00",

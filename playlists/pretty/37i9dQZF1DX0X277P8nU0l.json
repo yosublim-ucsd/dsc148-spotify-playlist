@@ -1,123 +1,51 @@
 {
   "description": "Un caf\u00e9, un croissant et c\u2018est parti pour une bonne journ\u00e9e.",
-  "num_followers": 209403,
+  "num_followers": 209449,
   "original_name": "Caf\u00e9 Croissant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2MwNWM5ZDhlOTRmOGUxNmQ4MzNjNWQ4MjJlZGY4ZjUyNWM2MzA3",
+  "snapshot_id": "MCw5ZGRiOGVhNTM4YmM4YzNiMjUzZWMyMGYzNWFlMmNiZDI2Yjg3ZWE4",
   "tracks": [
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
-        "name": "Good Morning (feat. Susan Carol)",
-        "url": "https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Susan Carol",
-          "url": "https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP"
-        }
-      ],
-      "duration_ms": 162038,
-      "name": "Good Morning (feat. Susan Carol)",
-      "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Wondrous Place",
-        "url": "https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        }
-      ],
-      "duration_ms": 133249,
-      "name": "Wondrous Place",
-      "url": "https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Young Hearts",
-        "url": "https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa"
+        "name": "Pyjamas (feat. Remi Wolf)",
+        "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
       },
       "artists": [
         {
           "name": "Benny Sings",
           "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 174573,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/2qKbdyJ0WKLWJv3yBj1RPs"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Mystical Magical Rhythmical Radical Ride",
-        "url": "https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Pancakes & Butter",
-      "url": "https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Stockholmsvy",
-        "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
         },
         {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 161396,
-      "name": "Stockholmsvy",
-      "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
+      "duration_ms": 168240,
+      "name": "Pyjamas (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
-        "name": "Glue Song (feat. Clairo)",
-        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
         }
       ],
-      "duration_ms": 135066,
-      "name": "Glue Song (feat. Clairo)",
-      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
+      "duration_ms": 166440,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Sign Out",
         "url": "https://open.spotify.com/album/6zk2wMyaFUHRkoxRNDL1Ds"
@@ -133,59 +61,7 @@
       "url": "https://open.spotify.com/track/7xR9nZWkuINxV2jcbCplu9"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "When We Are Together",
-      "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Drunk On A Flight",
-        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 161091,
-      "name": "Therapist",
-      "url": "https://open.spotify.com/track/75YBkVdPNyqa1gLCK9SZaK"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "angeleyes",
-        "url": "https://open.spotify.com/album/75iHw0qBQ8xJWpkwlOMafE"
-      },
-      "artists": [
-        {
-          "name": "Scoobert Doobert",
-          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
-        },
-        {
-          "name": "Lou Roy",
-          "url": "https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H"
-        }
-      ],
-      "duration_ms": 234750,
-      "name": "angeleyes",
-      "url": "https://open.spotify.com/track/0OFsazXhclEqk8JVNE12xl"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Out on the weekend",
         "url": "https://open.spotify.com/album/4Tj6Wk4DXEZxHUz2B9xOzW"
@@ -205,7 +81,47 @@
       "url": "https://open.spotify.com/track/0Gb9R3sEf8QQSQSLAkKpGQ"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
+      "album": {
+        "name": "Loving You is All I Want to Do",
+        "url": "https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf"
+      },
+      "artists": [
+        {
+          "name": "Roseaux",
+          "url": "https://open.spotify.com/artist/3JUUs8oZ6MRA1f2ahfusYu"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "Loving You Is All I Want To Do",
+      "url": "https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV"
+    },
+    {
+      "added_at": "2023-05-17 22:00:00",
+      "album": {
+        "name": "Pegasus (ft. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 186836,
+      "name": "Pegasus (ft. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
+    },
+    {
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Sleep Well",
         "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
@@ -221,7 +137,27 @@
       "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
+      "album": {
+        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
+        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 233391,
+      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
+      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
+    },
+    {
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Coffee Excess feat. Orono (Superorganism) & Lennon",
         "url": "https://open.spotify.com/album/1sdMAIlIq8yc3pU8eixDI1"
@@ -245,27 +181,7 @@
       "url": "https://open.spotify.com/track/66lOGYNWhKurI1s4izrkdw"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
-        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 233391,
-      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
-      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Coffee in the Morning",
         "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
@@ -281,7 +197,167 @@
       "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
+      "album": {
+        "name": "Good Morning (feat. Susan Carol)",
+        "url": "https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Susan Carol",
+          "url": "https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP"
+        }
+      ],
+      "duration_ms": 162038,
+      "name": "Good Morning (feat. Susan Carol)",
+      "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
+    },
+    {
+      "added_at": "2023-05-17 22:00:00",
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 161091,
+      "name": "Therapist",
+      "url": "https://open.spotify.com/track/75YBkVdPNyqa1gLCK9SZaK"
+    },
+    {
+      "added_at": "2023-05-17 22:00:00",
+      "album": {
+        "name": "Wondrous Place",
+        "url": "https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 133249,
+      "name": "Wondrous Place",
+      "url": "https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa"
+    },
+    {
+      "added_at": "2023-05-17 22:00:00",
+      "album": {
+        "name": "Mystical Magical Rhythmical Radical Ride",
+        "url": "https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Pancakes & Butter",
+      "url": "https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4"
+    },
+    {
+      "added_at": "2023-05-17 22:00:00",
+      "album": {
+        "name": "Glue Song (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "Glue Song (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
+    },
+    {
+      "added_at": "2023-05-17 22:00:00",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "When We Are Together",
+      "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z"
+    },
+    {
+      "added_at": "2023-05-17 22:00:00",
+      "album": {
+        "name": "angeleyes",
+        "url": "https://open.spotify.com/album/75iHw0qBQ8xJWpkwlOMafE"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        },
+        {
+          "name": "Lou Roy",
+          "url": "https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H"
+        }
+      ],
+      "duration_ms": 234750,
+      "name": "angeleyes",
+      "url": "https://open.spotify.com/track/0OFsazXhclEqk8JVNE12xl"
+    },
+    {
+      "added_at": "2023-05-17 22:00:00",
+      "album": {
+        "name": "Young Hearts",
+        "url": "https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/2qKbdyJ0WKLWJv3yBj1RPs"
+    },
+    {
+      "added_at": "2023-05-17 22:00:00",
+      "album": {
+        "name": "Stockholmsvy",
+        "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 161396,
+      "name": "Stockholmsvy",
+      "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
+    },
+    {
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "LOST IN SPACE",
         "url": "https://open.spotify.com/album/3uU3DdiyrUrGjOEparOAfZ"
@@ -301,7 +377,7 @@
       "url": "https://open.spotify.com/track/3vPeIA6cFEdv1opegsgQ2E"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Us Without Me",
         "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
@@ -317,27 +393,7 @@
       "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Loving You is All I Want to Do",
-        "url": "https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf"
-      },
-      "artists": [
-        {
-          "name": "Roseaux",
-          "url": "https://open.spotify.com/artist/3JUUs8oZ6MRA1f2ahfusYu"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "Loving You Is All I Want To Do",
-      "url": "https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
@@ -353,7 +409,7 @@
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
@@ -381,7 +437,7 @@
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Brand New Life",
         "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
@@ -401,7 +457,7 @@
       "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Love 2",
         "url": "https://open.spotify.com/album/7vfCAXD0bK0i2r3LZa8zVg"
@@ -417,7 +473,7 @@
       "url": "https://open.spotify.com/track/1TTz7vRGZEQgpL6HJOEhWo"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
@@ -437,7 +493,7 @@
       "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
@@ -453,7 +509,7 @@
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Place In My Heart",
         "url": "https://open.spotify.com/album/45HotUb1B7Z2AcUIlQfjJG"
@@ -473,7 +529,7 @@
       "url": "https://open.spotify.com/track/4ClvCYyyljs7oHfvDdcvFX"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Bird's Eye View",
         "url": "https://open.spotify.com/album/6qaYS8r1JJ33nK9rAB59ie"
@@ -489,7 +545,7 @@
       "url": "https://open.spotify.com/track/2gJBqHbjSuyjP1LAHU93eU"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/3tob4xK2ghAVtEgTm7L7MQ"
@@ -505,7 +561,7 @@
       "url": "https://open.spotify.com/track/08DHfDUaD0UH7INX02dbYf"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
@@ -521,23 +577,7 @@
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Something New",
-        "url": "https://open.spotify.com/album/4XWeyoqL8oLXPIuuyFkm9Y"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/3vs3XiQGucSykqp8AbfYY7"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Horsepower For The Streets (Deluxe Version)",
         "url": "https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP"
@@ -553,7 +593,7 @@
       "url": "https://open.spotify.com/track/1mhnGQK4fRlAJBcrftDlwV"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/1YXLlJ5eyfCkXt8JPAekn2"
@@ -569,7 +609,7 @@
       "url": "https://open.spotify.com/track/0SBvvCsgPoS6gu1Z4XmIHd"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Si Me Voy (with The Mar\u00edas)",
         "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
@@ -589,7 +629,7 @@
       "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "late night thoughts",
         "url": "https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN"
@@ -605,7 +645,7 @@
       "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Narukanaga",
         "url": "https://open.spotify.com/album/68nJKYnPFSOwPY5XLqGdDO"
@@ -621,7 +661,7 @@
       "url": "https://open.spotify.com/track/7G1TpbKIxOcgjyXqstZsQ9"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Elevation",
         "url": "https://open.spotify.com/album/5JREjQEjOHhHEreuSIGSud"
@@ -649,7 +689,7 @@
       "url": "https://open.spotify.com/track/0vTkJkiYQriLDzdmSt0zHr"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Skylight (with Zeeba)",
         "url": "https://open.spotify.com/album/3PmqmVZehRxWfaNzWfNmdA"
@@ -669,7 +709,7 @@
       "url": "https://open.spotify.com/track/6N2MzhCp2fvu7sJhSaHFnw"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/1nPz4khN5zBQQRWQ7ClIXX"
@@ -685,27 +725,7 @@
       "url": "https://open.spotify.com/track/4fLWpuB8IHI0Z8UecU4p9R"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Pyjamas (feat. Remi Wolf)",
-        "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 168240,
-      "name": "Pyjamas (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
@@ -721,7 +741,7 @@
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Lay It Down",
         "url": "https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "For A While",
         "url": "https://open.spotify.com/album/1UJ8kecGU2PQlYDCicEyUk"
@@ -789,7 +809,7 @@
       "url": "https://open.spotify.com/track/7JM4b9VZVDD83l7f2F1ykf"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Right Here (feat. Benny Sings)",
         "url": "https://open.spotify.com/album/1FONSSx47AfEC6DBTumU2W"
@@ -809,7 +829,7 @@
       "url": "https://open.spotify.com/track/0pceDOsozyHPaki99kCSJQ"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Corner Of The Sky",
         "url": "https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH"
@@ -825,7 +845,7 @@
       "url": "https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Drunk On A Flight",
         "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
@@ -841,7 +861,7 @@
       "url": "https://open.spotify.com/track/7wCFToKO63HYn4oP6xZMHh"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Fighting for Peace",
         "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
@@ -857,7 +877,7 @@
       "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Multitudes",
         "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
@@ -873,7 +893,7 @@
       "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
     },
     {
-      "added_at": "2023-05-04 22:00:00",
+      "added_at": "2023-05-17 22:00:00",
       "album": {
         "name": "Hydranism",
         "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
@@ -887,26 +907,6 @@
       "duration_ms": 324959,
       "name": "Tramp Like You",
       "url": "https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Get On The Otherside",
-        "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Oroza",
-          "url": "https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ"
-        },
-        {
-          "name": "Cold Diamond & Mink",
-          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Otherside",
-      "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
     }
   ],
   "unique_name": "Caf\u00e9 Croissant",

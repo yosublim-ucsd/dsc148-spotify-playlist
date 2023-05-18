@@ -4,7 +4,7 @@
 
 > 
 
-675 songs - 1 day 21 hr 32 min
+678 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Arrow Through Me \- Remastered 1993](https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Back To The Egg](https://open.spotify.com/album/3zMRSD0zUqopFPaoER2ODc) | 3:36 | 2022-11-11 |  |
 | [Astral Plane](https://open.spotify.com/track/4z9o4sijfni4kGSos3VEDB) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8) | 3:00 | 2018-11-16 |  |
 | [Astro](https://open.spotify.com/track/0RV162B2VcpBREw04VfkLa) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/22TLQXdBF2zfA0hK48deec) | 2:42 | 2019-11-22 |  |
+| [Atlantic 19 De Agosto](https://open.spotify.com/track/4NJrPhkfFapfJ56vGQ8XbU) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Moonlust Demos](https://open.spotify.com/album/3SC1up17l1zGlOtZbrPkvv) | 1:49 | 2023-05-18 |  |
 | [Automation](https://open.spotify.com/track/057TdsO5gPUkMVRaMcbjmG) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Automation](https://open.spotify.com/album/18OxH7RFLaF2klqvwPWg92) | 3:29 | 2020-10-22 |  |
 | [Awaiting On You All \- Remastered 2014](https://open.spotify.com/track/2VXjgueoSOIxAEswR3uRsp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 2:48 | 2019-11-29 |  |
 | [Baby](https://open.spotify.com/track/1ISckPYj9zSrjGv3oES9iw) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 3:25 | 2018-11-28 |  |
@@ -177,6 +178,7 @@
 | [Fear Of The Dawn](https://open.spotify.com/track/3FOcAGYwW2lKkqO6ffuJdX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 2:02 | 2022-04-11 |  |
 | [Feet Don't Fail Me](https://open.spotify.com/track/2JB7PvDV0R3Vwbq0iy1WPe) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/6JdX9MGiEMypqYLMKyIE8a) | 5:41 | 2020-07-30 |  |
 | [Fell On Black Days](https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 4:43 | 2020-04-19 |  |
+| [Fem Chem](https://open.spotify.com/track/3LSgfks1lxTGo54G8wo9oX) | [Nice Biscuit](https://open.spotify.com/artist/1HDNxhUcc8y6JukY45KHyv) | [Fem Chem](https://open.spotify.com/album/7AZwW12LpYy3y4vA5GLjna) | 3:21 | 2023-05-18 |  |
 | [Find My Way \(feat\. Beck\)](https://open.spotify.com/track/4c8smavpayWzKMgLze3m7w) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 4:53 | 2021-08-10 |  |
 | [Finest Worksong \- Remastered](https://open.spotify.com/track/0D4lZI5jBVVB1PUqkkZuNa) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \- 25th Anniversary Edition](https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7) | 3:50 | 2019-11-10 |  |
 | [First It Giveth](https://open.spotify.com/track/5yprGKAwV1GSJSiATa50Ni) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:18 | 2019-06-14 |  |
@@ -637,6 +639,7 @@
 | [Vad Hände Med Dem?](https://open.spotify.com/track/1hTXo2iVw4fMyAwt9nzA51) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Revelation](https://open.spotify.com/album/708s2EewEVFy0FZeOQYY3Y) | 4:41 | 2018-12-03 |  |
 | [Venus](https://open.spotify.com/track/3x0iCzjgf0v9lnwvAhU9P2) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 3:49 | 2020-03-10 |  |
 | [Village Green \- 2018 Stereo Remaster](https://open.spotify.com/track/3dDN8YRmBb9Y9zUSZpcBu2) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Kinks Are The Village Green Preservation Society \(2018 Deluxe\)](https://open.spotify.com/album/6KSNUajJsQNXyp26fyE4Jf) | 2:11 | 2019-02-28 |  |
+| [Virgin Criminal](https://open.spotify.com/track/4mwBVQNJik7lTrVojAuPzj) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Rapscallion](https://open.spotify.com/album/5gu3kzCRkyPUHVpnBTeNR1) | 2:59 | 2023-05-18 |  |
 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/47W6YR93MPCGLEUReLMyDm) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006 \(Remastered\)](https://open.spotify.com/album/6bxhCuuhyD3zQOGZwrBduo) | 3:49 | 2020-03-22 |  |
 | [Vomit Coffin](https://open.spotify.com/track/1TLdXhTw99Zusm1FFCDnYg) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Murder of the Universe](https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS) | 2:19 | 2020-10-06 |  |
 | [Vomit Coffin](https://open.spotify.com/track/7qV1Ta9J25fSyKIm096REp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Murder Of The Universe](https://open.spotify.com/album/61ZDWEphPwgz6Hzmt6ZK8y) | 2:19 | 2018-11-29 |  |

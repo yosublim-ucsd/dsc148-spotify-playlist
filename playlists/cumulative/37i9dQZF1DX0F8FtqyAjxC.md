@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-110 songs - 10 hr 4 min
+111 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Don't Go Lose It Baby](https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Pure Sounds of Africa](https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab) | 6:53 | 2022-07-07 |  |
 | [Don't It Drive You Crazy](https://open.spotify.com/track/7HT8rn9DzwGuyQ7oTTibx9) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Having A Party](https://open.spotify.com/album/7pJn7BX7jPrWWFoEmAuWE7) | 6:19 | 2022-07-07 |  |
 | [Don't Let Love Get You Down](https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Where Will You Go When The Party's Over](https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ) | 4:19 | 2022-07-07 |  |
-| [Dubai](https://open.spotify.com/track/7n84TEpYXSGeu7XlvtOHGi) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Sandy MRD](https://open.spotify.com/artist/4wg9ZreHYBKfOFvmg2h0oJ) | [Scorpion Kings](https://open.spotify.com/album/2DLpZOdmIA3uvM4EqM67hd) | 7:32 | 2022-11-21 |  |
+| [Dubai](https://open.spotify.com/track/7n84TEpYXSGeu7XlvtOHGi) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Sandy MRD](https://open.spotify.com/artist/4wg9ZreHYBKfOFvmg2h0oJ) | [Scorpion Kings](https://open.spotify.com/album/2DLpZOdmIA3uvM4EqM67hd) | 7:32 | 2022-11-21 | 2023-05-18 |
+| [Dubai \(feat\. Sandy Mrd & Vigro Deep\)](https://open.spotify.com/track/4tgbaO3hqCb3FG3xvnER7D) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Sandy Mrd](https://open.spotify.com/artist/23NABY8ecriN9cQ7fpp0Id), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Scorpion Kings](https://open.spotify.com/album/21td70TWIUTT7DTHcltTZF) | 7:32 | 2023-04-11 |  |
 | [Echoes In My Mind](https://open.spotify.com/track/3VU2rPWk2Nyd2amSKbJSHw) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Fencewalk: The Anthology](https://open.spotify.com/album/6yy1bbnruEzaoaG7CKGzYd) | 6:10 | 2022-10-14 | 2022-11-22 |
 | [Erykah’s Gun](https://open.spotify.com/track/7JqXZgtuqIFwzREMFAJOOS) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Stashboxxx](https://open.spotify.com/album/4hJRgwMWIVe3Vyd3qLivRY) | 1:01 | 2023-03-08 |  |
 | [Everybody Get Dancin'](https://open.spotify.com/track/3ZQcIJ9p2FW1f60tQarbOG) | [Bombers](https://open.spotify.com/artist/0B8DukBzbrLO5yDtRp8fBP) | [Bombers 2](https://open.spotify.com/album/4uSDBHHQ4OiRTExvzQXXks) | 9:28 | 2022-11-21 |  |

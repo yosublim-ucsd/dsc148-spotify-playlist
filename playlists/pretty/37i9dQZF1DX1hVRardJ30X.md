@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,473 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,642 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 12 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 |
 | 13 | [I Ain't Worried \(feat\. Becky G\) \- Latin Version](https://open.spotify.com/track/0kljJKo5ibiYiLQkzEXKsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [I Ain’t Worried \(Versions\)](https://open.spotify.com/album/5Xl3sLXOwckPLzoBYIte7O) | 2:16 |
 | 14 | [MENÚ \- Radio Edit](https://open.spotify.com/track/2IHEDJAnIppmhNtkTdXItU) | [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [MENÚ \(Radio Edit\)](https://open.spotify.com/album/49Jwg3DkeFDsXFNLltho36) | 2:34 |
-| 15 | [ANGOLA](https://open.spotify.com/track/59N9V0HT0lnopU5bLL9NI8) | [Blackthoven](https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [ANGOLA](https://open.spotify.com/album/3n0U3Rlyjpd9OOgsLzdFO0) | 2:15 |
+| 15 | [ANGOLA](https://open.spotify.com/track/59N9V0HT0lnopU5bLL9NI8) | [Blackthoven](https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Purps On The Beat](https://open.spotify.com/artist/5Ti1bgVXlEFiheTsdiHhRd) | [ANGOLA](https://open.spotify.com/album/3n0U3Rlyjpd9OOgsLzdFO0) | 2:15 |
 | 16 | [DESAFIANDO EL DESTINO \(Live Version\)](https://open.spotify.com/track/2jq4WtL6KfoED5a5hKxFNf) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DESAFIANDO EL DESTINO \(Live Version\)](https://open.spotify.com/album/3CDM4XQS50I1LidXOYvnhW) | 4:10 |
 | 17 | [Parece Mentira](https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Parece Mentira](https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm) | 3:33 |
 | 18 | [Orgullo](https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Orgullo](https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3) | 3:43 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 53 | [Déjame Tranquila](https://open.spotify.com/track/2cXJ2LUkGAezPOMgg8vbnp) | [Sofia Delfino](https://open.spotify.com/artist/11fsAXlakhmo0Mc29073Ud) | [Déjame Tranquila](https://open.spotify.com/album/4ss8ie0nv0C2W2OzJzR5Jl) | 2:27 |
 | 54 | [Señorita](https://open.spotify.com/track/2yhTD6Qtlbg0MvHYTyTptj) | [Jean Pi](https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK) | [Señorita](https://open.spotify.com/album/1aHjkGt542li9rMCCtEN9Y) | 2:36 |
 
-Snapshot ID: `MCw0Y2MxMTliNjUwNzI1ODQ1YWJmNTBhNzY0NzFiMDdjY2Y0ZGJkNzQ2`
+Snapshot ID: `MCwzYzFjNDFiOWM1NjY2ODljZmJjNjJkYmMyYTIzYjY3YTk2YTA5MWRi`

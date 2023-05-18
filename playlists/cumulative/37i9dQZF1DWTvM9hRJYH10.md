@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Greylan James
 
-266 songs - 14 hr 4 min
+267 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [Think You Know Someone](https://open.spotify.com/track/3NChyBhQpbHKzIHeyfZT5w) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Think You Know Someone](https://open.spotify.com/album/73AKWFQnLqG0Yo9e9PP1he) | 3:12 | 2021-12-31 | 2022-02-12 |
 | [Thirties](https://open.spotify.com/track/5VA8tNItVojrbxLVYxrhjJ) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [Thirties](https://open.spotify.com/album/32CSNCbnIaystWrhGeG2Ia) | 3:23 | 2021-12-31 | 2022-02-12 |
 | [this is goodbye](https://open.spotify.com/track/16Wj6oiTegofc7alCWLptD) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc), [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [this is goodbye](https://open.spotify.com/album/5efHmri1QTWTg23YmbCQSf) | 2:50 | 2021-12-31 | 2023-02-25 |
-| [Til The Neon's Gone](https://open.spotify.com/track/7CJgt8v2iQ4ZxFFoBgHnGI) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Til The Neon's Gone](https://open.spotify.com/album/4JuzjUqJKslBTQdY7t6iDC) | 3:41 | 2022-02-25 |  |
+| [Til The Neon's Gone](https://open.spotify.com/track/54wAUMBMpdhfhZSQawogbw) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Til The Neon's Gone](https://open.spotify.com/album/1amWR5XgywGuP59BTGMJ8E) | 3:41 | 2023-05-03 |  |
+| [Til The Neon's Gone](https://open.spotify.com/track/7CJgt8v2iQ4ZxFFoBgHnGI) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Til The Neon's Gone](https://open.spotify.com/album/4JuzjUqJKslBTQdY7t6iDC) | 3:41 | 2022-02-25 | 2023-05-18 |
 | [Tired of Moving On](https://open.spotify.com/track/0kdAMIHdcQMAxL6b8DQS3D) | [Carson Janik](https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM) | [Songs About You](https://open.spotify.com/album/3xmyOVok0ZLFHy0xMVkY1V) | 3:12 | 2021-12-31 |  |
 | [Trucks Ain't for Breaking Down In](https://open.spotify.com/track/0u02cFSDCRq5l6z5SIpPAX) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Trucks Ain't for Breaking Down In](https://open.spotify.com/album/3cpsCXBD4sD1FDWCEybqrf) | 3:18 | 2021-12-31 |  |
 | [Truth Is](https://open.spotify.com/track/583ttvNmwL6fX30F5VYlc0) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Truth Is](https://open.spotify.com/album/1IF0OBglPImicWSoaPyESK) | 2:58 | 2022-10-14 |  |

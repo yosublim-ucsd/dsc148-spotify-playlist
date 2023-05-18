@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Self Inflicted Scars",
+        "url": "https://open.spotify.com/album/2MiSaUtCnkqNRK2BZx2TZt"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152510,
+      "name": "Beauty in the Struggle",
+      "url": "https://open.spotify.com/track/55bN4rlBZGJJPPt6I9MDsw"
+    },
+    {
+      "album": {
         "name": "Beauty in the Struggle",
         "url": "https://open.spotify.com/album/6e0TQuKQWNnq7SKxC0JpWx"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 152510,
       "name": "Beauty in the Struggle",
       "url": "https://open.spotify.com/track/6BoxSb788sdA54JFfIjKuh"

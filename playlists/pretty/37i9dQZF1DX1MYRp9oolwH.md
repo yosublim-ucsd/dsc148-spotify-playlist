@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kushi
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,525 likes - 51 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,729 likes - 51 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 4 | [Gaalullona](https://open.spotify.com/track/6GcpFFSkEUgBObU8CVNLTW) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Maama Mascheendra](https://open.spotify.com/album/7KqrXZm8p26oMzjVC2QxoO) | 4:39 |
 | 5 | [Nachavule Nachavule \(From "Virupaksha"\)](https://open.spotify.com/track/1baeO9R7AdFjcb03pJYjay) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nachavule Nachavule \(From "Virupaksha"\)](https://open.spotify.com/album/698JO1ewdhmDLUKr09hY3V) | 3:42 |
 | 6 | [Nuvve Nuvve \(From "Ramabanam"\)](https://open.spotify.com/track/1HyygLm7t1sxgihCXcZUxr) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz) | [Nuvve Nuvve \(From "Ramabanam"\)](https://open.spotify.com/album/2yKdUMH1MO1smCKe0Rmkz5) | 3:05 |
-| 7 | [Nalo Nena Natho Nena](https://open.spotify.com/track/4dmhYSIOZcJoP50bqQuDWf) | [Elisha Praveen G](https://open.spotify.com/artist/54lR2AS080rX9Pfv05qqeQ), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Nalo Nena Natho Nena \(From "Men Too"\)](https://open.spotify.com/album/1DMlx7TGHBUPuUTqWXRV7p) | 2:29 |
+| 7 | [Nalo Nena Natho Nena \(From "Men Too"\)](https://open.spotify.com/track/6qDgzlheGhzLWVOgPIl2QG) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Elisha Praveen G](https://open.spotify.com/artist/54lR2AS080rX9Pfv05qqeQ) | [Nalo Nena Natho Nena \(From "Men Too"\) \- Single](https://open.spotify.com/album/3Wr3YjX3t5HtehdRow7joC) | 2:29 |
 | 8 | [Chamkeela Angeelesi \(From "Dasara"\)](https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Chamkeela Angeelesi \(From "Dasara"\) \- Single](https://open.spotify.com/album/35UNTC9xxXUCYSjwDbmBYb) | 3:23 |
 | 9 | [Malli Malli \(From "Agent"\)](https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Malli Malli \(From "Agent"\)](https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx) | 3:27 |
 | 10 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 50 | [Vennela Vennela](https://open.spotify.com/track/2pZPSfj0EPZVHVlf42NTVB) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Top Gear](https://open.spotify.com/album/7k4EcT3DDGPd2j73OgB6lR) | 4:54 |
 | 51 | [Kalalo Kooda](https://open.spotify.com/track/5Tn2aBp45QypSmCpmhKtJN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Liger \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0bI7C4I6FzlNlZZDqJOfDJ) | 4:06 |
 
-Snapshot ID: `MCw5MWQ5Y2NhYjkzNWRmZGIxMjMwYmJlNDU5MTAzMmY4NjljNTFjN2Rj`
+Snapshot ID: `MCwyYjdmYzA2YTBmODQwM2ViZGUzYzhiMzg5NzM2M2UyMTU4NzZjODg4`

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Pedro Martins Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Aja Monet Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
+    {
+      "album": {
+        "name": "Here and Other Stories",
+        "url": "https://open.spotify.com/album/5ku4fbYNEKFnqiGgZg9xIP"
+      },
+      "artists": [
+        {
+          "name": "Learn to Draw",
+          "url": "https://open.spotify.com/artist/6qw50ftzvTsAvxzYy9jfhU"
+        },
+        {
+          "name": "Matt Holborn",
+          "url": "https://open.spotify.com/artist/7zwGSuVBTIsCaz0Bme3oHx"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487207,
+      "name": "\"Here\" Suite: East Through Fields",
+      "url": "https://open.spotify.com/track/5yOyDGdWo0kQ2SxhbJuyQb"
+    },
     {
       "album": {
         "name": "#jazzhop",
@@ -1536,7 +1558,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 322560,
       "name": "At the Red Room",
       "url": "https://open.spotify.com/track/2F2wYdadNaJTK4Bzr65XWf"
@@ -1852,6 +1874,24 @@
       "duration_ms": 141333,
       "name": "Bald",
       "url": "https://open.spotify.com/track/15NxxtxCbctEpZCkDKKaC2"
+    },
+    {
+      "album": {
+        "name": "Ballade",
+        "url": "https://open.spotify.com/album/3RSKY05f7foURdIh9uLcxA"
+      },
+      "artists": [
+        {
+          "name": "Flash Pig",
+          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182587,
+      "name": "Ballade",
+      "url": "https://open.spotify.com/track/1jsvElBBPNPlTHR4RDi1Tj"
     },
     {
       "album": {
@@ -4663,6 +4703,28 @@
     },
     {
       "album": {
+        "name": "Dancing in the Dusk (Clap! Clap! Remix)",
+        "url": "https://open.spotify.com/album/3Of6o8tJrzGCHNhmfLLDvc"
+      },
+      "artists": [
+        {
+          "name": "Sunb\u00f6rn",
+          "url": "https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt"
+        },
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431664,
+      "name": "Dancing in the Dusk - Clap! Clap! Remix",
+      "url": "https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq"
+    },
+    {
+      "album": {
         "name": "Darkness in the Light (feat. Ava Joseph & Giacomo Smith)",
         "url": "https://open.spotify.com/album/2io2HM1ouTpTFq2tm24Ruy"
       },
@@ -6258,7 +6320,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 324056,
       "name": "Faithful One",
       "url": "https://open.spotify.com/track/7txFk79SOUTPlfpckag3Wf"
@@ -6502,7 +6564,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 222938,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/0iSowMxJqhNn89D6aM3UQ8"
@@ -7020,7 +7082,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 424734,
       "name": "for sonia",
       "url": "https://open.spotify.com/track/41t6vNfGWscDYdKDay4ryc"
@@ -7332,7 +7394,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 297345,
       "name": "Fri",
       "url": "https://open.spotify.com/track/7hobbyK1Esg7WF5LoDPlLT"
@@ -7800,7 +7862,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 245141,
       "name": "Groovy Stairs",
       "url": "https://open.spotify.com/track/43DlYTHjeb4T6RVWDmbh5w"
@@ -7978,6 +8040,24 @@
       "duration_ms": 178285,
       "name": "HEARTFELT",
       "url": "https://open.spotify.com/track/167HFUcBFU5yREOAwmDjDF"
+    },
+    {
+      "album": {
+        "name": "Helium Three",
+        "url": "https://open.spotify.com/album/0lzwhp9BZluxxthqClcJWS"
+      },
+      "artists": [
+        {
+          "name": "slowstoop",
+          "url": "https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Helium Three",
+      "url": "https://open.spotify.com/track/5M3GMHe1p5kgrba3OSF6gz"
     },
     {
       "album": {
@@ -10393,6 +10473,24 @@
     },
     {
       "album": {
+        "name": "Kinmok-Sailor",
+        "url": "https://open.spotify.com/album/4Ja4GcGXBRqS66A7yJmiPO"
+      },
+      "artists": [
+        {
+          "name": "Martha Kato",
+          "url": "https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500146,
+      "name": "Kinmok-Sailor",
+      "url": "https://open.spotify.com/track/0PJ0VgnKdcgWwopfX1wns8"
+    },
+    {
+      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/1BQd8y82jz4Hv1mG103c3L"
       },
@@ -10844,7 +10942,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 173793,
       "name": "Lead The Way",
       "url": "https://open.spotify.com/track/6RD9FQH71PQE8ymbYALeI5"
@@ -11058,7 +11156,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 368015,
       "name": "Life Express",
       "url": "https://open.spotify.com/track/3CLssHFLxEnYgYWWR0LRlC"
@@ -11938,7 +12036,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 269301,
       "name": "Medina Montoya",
       "url": "https://open.spotify.com/track/4bJKcfWS69uxgQEkILEpdv"
@@ -13906,7 +14004,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 218973,
       "name": "Oltreoceano",
       "url": "https://open.spotify.com/track/4khRKh7R69nDYiTRQvTvOq"
@@ -14505,6 +14603,36 @@
     },
     {
       "album": {
+        "name": "Passing Ships",
+        "url": "https://open.spotify.com/album/5NvH7wDWdquHnbsA6VflQM"
+      },
+      "artists": [
+        {
+          "name": "Tom Ollendorff",
+          "url": "https://open.spotify.com/artist/5Tfm4B2wKmcUOF5jVo06jf"
+        },
+        {
+          "name": "Ben Wendel",
+          "url": "https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca"
+        },
+        {
+          "name": "Marc Michel",
+          "url": "https://open.spotify.com/artist/3swHWgK1FgkuXGZPb45LTc"
+        },
+        {
+          "name": "Conor Chaplin",
+          "url": "https://open.spotify.com/artist/4OL6krKLt3oWc2PA0MTSui"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331816,
+      "name": "Passing Ships",
+      "url": "https://open.spotify.com/track/25c4UscBivyuBVyZ7SYCAx"
+    },
+    {
+      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/5iFfYT7tGBZivFrlT3tEh5"
       },
@@ -14886,7 +15014,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 335329,
       "name": "Polder",
       "url": "https://open.spotify.com/track/4XZ8K11KnsFFEMhHSQe3Ip"
@@ -15157,6 +15285,24 @@
     },
     {
       "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/7424QyIbYun7pe8Fw1xRpx"
+      },
+      "artists": [
+        {
+          "name": "Noah Rosen",
+          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Psic\u00f3tico",
+      "url": "https://open.spotify.com/track/0tgW4mrNhIvYjAQrlyYsLt"
+    },
+    {
+      "album": {
         "name": "Pure Lured",
         "url": "https://open.spotify.com/album/4zng8qefoLy6SOZhkbolM6"
       },
@@ -15256,6 +15402,24 @@
       "duration_ms": 262824,
       "name": "Quarantine Dream",
       "url": "https://open.spotify.com/track/5iS6JrmKABuiCT0TgmdV0c"
+    },
+    {
+      "album": {
+        "name": "Speech of Species",
+        "url": "https://open.spotify.com/album/2tAb4BGrTnwx8i3SJnhucF"
+      },
+      "artists": [
+        {
+          "name": "Echoes of Zoo",
+          "url": "https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231440,
+      "name": "Quarter Tone Starlings",
+      "url": "https://open.spotify.com/track/4Kou33jl3KK0KrpPN2hQ94"
     },
     {
       "album": {
@@ -16878,7 +17042,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 229000,
       "name": "Simple Rhyme",
       "url": "https://open.spotify.com/track/1QAvqAGnEgoDI30Jylgk1I"
@@ -17626,6 +17790,28 @@
       "duration_ms": 321000,
       "name": "SPIT FIRE - REBUILD",
       "url": "https://open.spotify.com/track/6v5EOrOsnMUVeTaqrsUc0P"
+    },
+    {
+      "album": {
+        "name": "Ugh (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0jVCHki8NXJ2nK22ZDGDhO"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        },
+        {
+          "name": "Ash Walker",
+          "url": "https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202119,
+      "name": "Spooki - Ash Walker Dub",
+      "url": "https://open.spotify.com/track/5agzILYRN43kgVHhGzIftY"
     },
     {
       "album": {
@@ -18966,6 +19152,24 @@
       "duration_ms": 219764,
       "name": "The Beat Goes On - Don Blake Remix",
       "url": "https://open.spotify.com/track/1c0rMtzD1jojR7bNob56Wc"
+    },
+    {
+      "album": {
+        "name": "The Ben-Dhlamini Stomp",
+        "url": "https://open.spotify.com/album/2X9oJX8nIdhwKoCHPZ6n1W"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Jephta",
+          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318333,
+      "name": "The Ben-Dhlamini Stomp",
+      "url": "https://open.spotify.com/track/1l4HECJVkUC6SPyGXp9mJP"
     },
     {
       "album": {
@@ -21221,6 +21425,24 @@
     },
     {
       "album": {
+        "name": "Move Your feet",
+        "url": "https://open.spotify.com/album/1mn5we144aTJIGloiqqHom"
+      },
+      "artists": [
+        {
+          "name": "Michael Valeanu",
+          "url": "https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329042,
+      "name": "Virginia",
+      "url": "https://open.spotify.com/track/5lgoMrd7B6pusfMlwzGcYO"
+    },
+    {
+      "album": {
         "name": "World Painter",
         "url": "https://open.spotify.com/album/11QDwaxB2Z5Tmp6sqzQPnC"
       },
@@ -21943,6 +22165,24 @@
     },
     {
       "album": {
+        "name": "why my love?",
+        "url": "https://open.spotify.com/album/5L9Xd70CE9nb8suM5BGdQQ"
+      },
+      "artists": [
+        {
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277283,
+      "name": "why my love?",
+      "url": "https://open.spotify.com/track/1FKQyGD0UVL5gAiNOGZ1YW"
+    },
+    {
+      "album": {
         "name": "Why Should We Care",
         "url": "https://open.spotify.com/album/4ofn3FiF0xyUOT96Kgrp8E"
       },
@@ -22264,6 +22504,28 @@
       "duration_ms": 185914,
       "name": "Y Y Y",
       "url": "https://open.spotify.com/track/0Uu75qt9N2yFrsB00ToVuL"
+    },
+    {
+      "album": {
+        "name": "Yanagi Ni Kaze (rework)",
+        "url": "https://open.spotify.com/album/6iE2nDaKH19GhJKugJsqcs"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        },
+        {
+          "name": "m.s.t.",
+          "url": "https://open.spotify.com/artist/4tJncS5iiaOS9brNCL589G"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274572,
+      "name": "Yanagi Ni Kaze - rework",
+      "url": "https://open.spotify.com/track/4klOGFqYxDPRj7Q0mShllc"
     },
     {
       "album": {
@@ -22742,7 +23004,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 294594,
       "name": "\u3042(A)",
       "url": "https://open.spotify.com/track/17o9I84MQ9uUkTR3L3RbL9"

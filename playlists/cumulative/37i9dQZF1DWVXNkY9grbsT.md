@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-326 songs - 1 day 3 hr 34 min
+327 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Sonic Womb Pt\. 5](https://open.spotify.com/track/2x9RGyqDyptzddFiRUQ7ao) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/7rQaMkOwhuHZqAM30JvSfY) | 2:54 | 2021-12-26 | 2022-01-12 |
 | [A1](https://open.spotify.com/track/1V99GNtTBLk3OrDmFYVz4C) | [Reinartz](https://open.spotify.com/artist/2NkrL5Vs3OZtvckPD0vPbg) | [Dances](https://open.spotify.com/album/6rtwIMPDxFz8xPwMOBUYoE) | 7:29 | 2022-03-18 | 2023-01-18 |
 | [ABBA/Mary \- Christina Vantzou Remix](https://open.spotify.com/track/4qdXA8vkqzhmyV4PaHXOt4) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [ABBA/Mary \(Christina Vantzou Remix\)](https://open.spotify.com/album/3lvfmwUA0Ob9kNOshN5bEi) | 3:26 | 2021-12-26 | 2023-04-30 |
+| [ABBA/Mary \- Christina Vantzou Remix](https://open.spotify.com/track/6fWrGJifl4VPOdW49BNlnD) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [ABBA/Mary \(Christina Vantzou Remix\)](https://open.spotify.com/album/2JWnRnBhaHiuhcMx7phjmQ) | 3:26 | 2023-05-05 |  |
 | [Adagio I \- Mut](https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Nothing Lasts Forever](https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC) | 4:46 | 2022-02-11 |  |
 | [Affiliate](https://open.spotify.com/track/3ibSQOkXDoVtr5o5izWwC9) | [Tangent](https://open.spotify.com/artist/1Ad0cOIi5d9YkVsRMLWegv), [Dryft](https://open.spotify.com/artist/15XyOjcwHR1BLzZDpcja9f) | [Acquiesce](https://open.spotify.com/album/7brmSCmB5orSsJgGJULcqx) | 4:08 | 2021-12-26 | 2023-04-30 |
 | [Afterglow](https://open.spotify.com/track/1tvrdTMUPrL5QAAUu2mBpL) | [Tim Angrave](https://open.spotify.com/artist/6y9JXfBjqfOAql3YYLaNJm) | [Afterglow](https://open.spotify.com/album/0Bp2qglhyUtYpSwCII3ayZ) | 5:52 | 2022-03-25 | 2023-03-18 |
@@ -264,7 +265,7 @@
 | [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 | 2022-05-06 |  |
 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 | 2022-04-01 |  |
 | [Stapler](https://open.spotify.com/track/54ZttkOfyEW4JVZblFopLt) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Stapler](https://open.spotify.com/album/2lvi6nRKSPfzIVlRw5fyb3) | 3:41 | 2021-12-26 | 2022-01-25 |
-| [Steam Machine](https://open.spotify.com/track/3wMa3Zt1aK9uynJBMVIIWo) | [Smoke Point](https://open.spotify.com/artist/43QzahjuqHEMX4s0vRtTlE) | [Smoke Point](https://open.spotify.com/album/6uVf3kSn0dpX0hH9DGf6iu) | 8:07 | 2022-11-22 |  |
+| [Steam Machine](https://open.spotify.com/track/3wMa3Zt1aK9uynJBMVIIWo) | [Smoke Point](https://open.spotify.com/artist/43QzahjuqHEMX4s0vRtTlE) | [Smoke Point](https://open.spotify.com/album/6uVf3kSn0dpX0hH9DGf6iu) | 8:07 | 2022-11-22 | 2023-05-18 |
 | [Streets](https://open.spotify.com/track/2Hok9clWBUGlbA3GbFpb0n) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:59 | 2023-03-16 |  |
 | [Strength \(feat\. LA Timpa\)](https://open.spotify.com/track/3D5wpeCGulAoD7L0n3i2Sn) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [LA Timpa](https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 3:10 | 2021-12-26 |  |
 | [Struggle for Pleasure \- Hüma Utku Version](https://open.spotify.com/track/3pwrgiSqJbrw3bNYiTrHPb) | [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0), [Hüma Utku](https://open.spotify.com/artist/6FkocGSMDJrbTxsoJxLrMT) | [Inland Versions](https://open.spotify.com/album/206s4UEdUN6KW2tcHZJyiU) | 5:23 | 2021-12-26 |  |

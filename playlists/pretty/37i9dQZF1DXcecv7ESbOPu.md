@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,158 likes - 117 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,168 likes - 117 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 92 | [Daughter](https://open.spotify.com/track/1k0jHIxxPJPY2zeYfrNVlL) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Daughter](https://open.spotify.com/album/6rWCgYa0cS3f5TTq83aYw7) | 2:42 |
 | 93 | [Always You \(From Maybe I Do\)](https://open.spotify.com/track/2IIdKO24UTVMWKyzAIRtjr) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Always You \(From Maybe I Do\)](https://open.spotify.com/album/1QXhbO4oVO36DmwPkiIvlE) | 2:57 |
 | 94 | [Thunder in my heart \(music from the series\)](https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Thunder in my heart \(music from the series\)](https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B) | 2:49 |
-| 95 | [Goodness Gracious](https://open.spotify.com/track/4z5G0VxaTklm6eLFtmYhJa) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Goodness Gracious](https://open.spotify.com/album/0Y5roMQHdFdabO2gHAUETL) | 2:24 |
+| 95 | [Goodness Gracious](https://open.spotify.com/track/4z5G0VxaTklm6eLFtmYhJa) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do) | [Goodness Gracious](https://open.spotify.com/album/0Y5roMQHdFdabO2gHAUETL) | 2:24 |
 | 96 | [ZOOM](https://open.spotify.com/track/4Srrjc22zSJ0pGWgvaFe73) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [ZOOM](https://open.spotify.com/album/6IBuIlVNDk8OfIrtxS790q) | 2:24 |
 | 97 | [SPÖKALAND](https://open.spotify.com/track/4e680sIdxeCZaQKX5NB2ls) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [SPÖKALAND](https://open.spotify.com/album/4V0XFxjMRWIMWVSAGCoWHu) | 2:36 |
 | 98 | [Bakom kulisserna](https://open.spotify.com/track/5KQuFht8RqgECvi2LbF6WP) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv), [Ahdam](https://open.spotify.com/artist/7sc53ILf25bAriqrCMgYTt) | [Bakom kulisserna](https://open.spotify.com/album/3i6r96nl9ottiXvcmhhh0H) | 2:38 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 116 | [HAPPY DOOMSDAY](https://open.spotify.com/track/1S4YtFEbKHda2byazJ2Jr8) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [HAPPY DOOMSDAY](https://open.spotify.com/album/2NorUBquYHC1J7MHuWUPtj) | 2:50 |
 | 117 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
 
-Snapshot ID: `MCxhYWE2YzhlNzAzODAwOTY1M2FhOTllMmJkZjk0ZjlhYzk3NjQ0NTlm`
+Snapshot ID: `MCwyYjlkYzQwZjgwY2YwMWFmODNhN2I5OTBjYWFmYmQ5NDJiNjQ2OWY4`

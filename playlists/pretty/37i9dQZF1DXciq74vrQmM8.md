@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. girli
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,786 likes - 90 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,165 likes - 90 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 89 | [LET IT GO](https://open.spotify.com/track/3EsHPsCsmjav3XcqBibcMM) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [LET IT GO](https://open.spotify.com/album/0pyPK2kPiSxG4KrBmWsGQt) | 2:07 |
 | 90 | [Don't Wait](https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Don't Wait](https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO) | 2:08 |
 
-Snapshot ID: `MCw0Y2ZiN2M1NjlkYjA3NTc5NjhkNTRjYTQyOTg0MzZhZjczZjgzZGY0`
+Snapshot ID: `MCw2MmQyOTFjNDc4ZjZmZjhjYWI0Nzc5YmJiMzlhZWQ3YzI2NDliN2E5`

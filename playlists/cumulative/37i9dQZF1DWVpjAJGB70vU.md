@@ -2,7 +2,7 @@
 
 ### [90s Country](https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU)
 
-> We're celebrating 30 years of Brooks & Dunn's iconic album "Hard Workin' Man" on 90s Country!
+> We're celebrating 30 years of Alan Jackson's classic hit "Chattahoochee" on 90s Country!
 
 185 songs - 10 hr 44 min
 

@@ -1138,7 +1138,7 @@
     {
       "album": {
         "name": "Silent Shout",
-        "url": "https://open.spotify.com/album/6rdNbdV3T4muFFFSjGdOj9"
+        "url": "https://open.spotify.com/album/1UdCT7t0rfNPu5Bn957U8r"
       },
       "artists": [
         {
@@ -1149,6 +1149,24 @@
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 293626,
+      "name": "Silent Shout",
+      "url": "https://open.spotify.com/track/2i9eB71UxhOzy9tDjHoQ0f"
+    },
+    {
+      "album": {
+        "name": "Silent Shout",
+        "url": "https://open.spotify.com/album/6rdNbdV3T4muFFFSjGdOj9"
+      },
+      "artists": [
+        {
+          "name": "The Knife",
+          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
       "duration_ms": 293626,
       "name": "Silent Shout",
       "url": "https://open.spotify.com/track/6JQFuxLwhvtHRmRMebgiLB"

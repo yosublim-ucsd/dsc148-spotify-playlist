@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 184426,
       "name": "Anthem For The Underdog",
       "url": "https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 176621,
       "name": "Ashtray",
       "url": "https://open.spotify.com/track/1AmVWLPhCqTMt4y5t0cB8T"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 261760,
       "name": "Astounded",
       "url": "https://open.spotify.com/track/0WBL72ulf4mkcflIO0W5cq"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 265106,
       "name": "Bulletproof Skin",
       "url": "https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 210093,
       "name": "Caught In The Rain",
       "url": "https://open.spotify.com/track/1aWjCUq4KU7wCdQ2AuGeB7"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 362200,
       "name": "Cumbersome",
       "url": "https://open.spotify.com/track/6XmpvInnm4EgCUgXMTqIRR"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 236573,
       "name": "Die Born",
       "url": "https://open.spotify.com/track/5yA7AoyGWSUoxALn0RxCfb"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 228960,
       "name": "Down",
       "url": "https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw"
@@ -830,10 +830,28 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 225149,
       "name": "Flowers On A Grave",
       "url": "https://open.spotify.com/track/4TcYGnt7qcBuDoGTWHJ36E"
+    },
+    {
+      "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8"
     },
     {
       "album": {
@@ -902,7 +920,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 194120,
       "name": "Gone Away (A Song For Starr)",
       "url": "https://open.spotify.com/track/3Vxib4vvhfLPyphsln3of2"
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 281226,
       "name": "Heroin",
       "url": "https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm"
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 340106,
       "name": "In Loving Memory",
       "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 318320,
       "name": "Israel's Son",
       "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 222706,
       "name": "It Only Hurts",
       "url": "https://open.spotify.com/track/1k0FCgVwb1jZR57ESOWUVa"
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 290013,
       "name": "Just Go",
       "url": "https://open.spotify.com/track/45chhYFgWlUNobpEMq7PxP"
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 222207,
       "name": "Life In A Jar",
       "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 197333,
       "name": "No One",
       "url": "https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa"
@@ -1698,7 +1716,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 288183,
       "name": "Not An Addict",
       "url": "https://open.spotify.com/track/38TozZBUSqO5HA4ya6OxZr"
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 298600,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 267284,
       "name": "Poor Aileen",
       "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 340666,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/00WXjbcR195RztyuAQ90ub"
@@ -1975,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219320,
+      "name": "Savin' Me",
+      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
+    },
+    {
+      "album": {
         "name": "Awake The Best Of Live",
         "url": "https://open.spotify.com/album/4rSabzYGjgwZ04581fcBhV"
       },
@@ -2004,7 +2040,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 205693,
       "name": "Selling The Drama",
       "url": "https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5"
@@ -2148,7 +2184,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 273040,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/3xXKwkmkrpZmGpIof83xbE"
@@ -2166,7 +2202,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 201920,
       "name": "So Far so Good",
       "url": "https://open.spotify.com/track/2RDfjb9H56uk2NPgzcgMyn"
@@ -2202,7 +2238,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 251840,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/796KVmeIoTOek76YwNduEL"
@@ -2238,7 +2274,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 256440,
       "name": "Stacked Actors",
       "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
@@ -2256,7 +2292,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 244040,
       "name": "Starseed",
       "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
@@ -2274,7 +2310,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 189363,
       "name": "Stoned, Alone",
       "url": "https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB"
@@ -2400,7 +2436,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 216106,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/2HLaosNtdbGMZ1pmOBwFeS"
@@ -2454,7 +2490,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 228852,
       "name": "The Rift",
       "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
@@ -2706,7 +2742,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 460400,
       "name": "Welcome To The Fold",
       "url": "https://open.spotify.com/track/0oPcNTwHKpYnDZfkcdOsiA"
@@ -2814,7 +2850,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 238093,
       "name": "Why I'm Here",
       "url": "https://open.spotify.com/track/0hgOGzUYKKQbQcWDoJpM6H"

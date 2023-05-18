@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 71222,
+  "num_followers": 71297,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjlhMjlhOTJjNzQxYTFlYWQ4ZjU2NDFhMDA1ODM1YTA0YzUzZDMx",
+  "snapshot_id": "MCxlM2VlYTJlNzkyNDg5ZDEyYzZiN2FmYWMwYTdmOWRiOTM5ODI1NzVl",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -439,22 +439,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "An Anthology",
-        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
+        "name": "Fantastic Negrito Deluxe EP",
+        "url": "https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Duane Allman",
-          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 232507,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
+      "duration_ms": 160453,
+      "name": "Night Has Turned to Day",
+      "url": "https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -475,18 +471,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Fantastic Negrito Deluxe EP",
-        "url": "https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn"
+        "name": "An Anthology",
+        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Duane Allman",
+          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
         }
       ],
-      "duration_ms": 160453,
-      "name": "Night Has Turned to Day",
-      "url": "https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K"
+      "duration_ms": 232507,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
     },
     {
       "added_at": "2023-01-16 21:05:55",

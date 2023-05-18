@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,952 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,954 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 54 | [Indigo](https://open.spotify.com/track/6nH085xLjZhrZpqlgs46M4) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Adelaide James](https://open.spotify.com/artist/0eJBq3ElOoz7tEajRNQvl5) | [Indigo](https://open.spotify.com/album/5cTN6SQ69OMyNawUc2Copy) | 2:37 |
 | 55 | [Exodus \- Amane Uyama REMIX](https://open.spotify.com/track/2qqTeEXmc3VTXRQZtDxKwm) | [バスクのスポーツ](https://open.spotify.com/artist/0yaofYMMvhsv6741FK76zU), [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [Exodus \(Amane Uyama REMIX\)](https://open.spotify.com/album/4CFG433FO1ts4GsjHFo8Bm) | 4:17 |
 | 56 | [Made me](https://open.spotify.com/track/0Rt02VFbb0A0Ilq2VZqe9h) | [Baku](https://open.spotify.com/artist/5m3CibdsoEKP2HxjyRBuGZ), [lileffort](https://open.spotify.com/artist/62iH9nkR17OazJiSRhiAMR) | [Made me](https://open.spotify.com/album/5jJyFgY9w0PMxyJInnJJoA) | 2:33 |
-| 57 | [Lonely in Tokyo \(Phonk House Remix\)](https://open.spotify.com/track/6bB7b5MDbc49MvGg9F5mrn) | [MIREI](https://open.spotify.com/artist/7pZ9s793JnnIIJj4eZHpZW), [BENXNI](https://open.spotify.com/artist/6XH0kHK5G7kGgDGu2Id6a2) | [Lonely In Tokyo EP \(JPN\)](https://open.spotify.com/album/7pwSjRT1WP2wMNbQqU0lQd) | 2:54 |
+| 57 | [Lonely in Tokyo \(Phonk House Remix\)](https://open.spotify.com/track/6bB7b5MDbc49MvGg9F5mrn) | [MIREI](https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw), [BENXNI](https://open.spotify.com/artist/6XH0kHK5G7kGgDGu2Id6a2) | [Lonely In Tokyo EP \(JPN\)](https://open.spotify.com/album/7pwSjRT1WP2wMNbQqU0lQd) | 2:54 |
 | 58 | [Vetta \- gato Remix](https://open.spotify.com/track/7JbOu9vbNB5S8aadfMqSvb) | [Coldhot](https://open.spotify.com/artist/178wLpflQu05EwRZZVg18E), [gato](https://open.spotify.com/artist/4BFHLUOkM2GdeJXy0K0WiN) | [Vetta \(gato Remix\)](https://open.spotify.com/album/7fVnx1ZmCjgiPVBYPwyqWe) | 5:00 |
 | 59 | [last order \- Takashi Ichi’s House Remix](https://open.spotify.com/track/3ARdcxgVnuXmRX5sO2aVM5) | [ゆっきゅん](https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA), [壱タカシ](https://open.spotify.com/artist/75w4lawNVJ0Kfp4JnJn5KQ) | [隕石でごめんなさい](https://open.spotify.com/album/43fcVYCIZPWJ0gGv1nixs0) | 5:43 |
 | 60 | [Lifetime \- Dimitri From Paris 'Cruising Attitude' Remix](https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Call On Me & Lifetime \(Remixes\)](https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18) | 3:13 |
 
-Snapshot ID: `MCw0ODFjYmFiZjg3MjdhYjk0YmFiMzg4ZTFlODc5ZDNhNGU1YmIzYWQ2`
+Snapshot ID: `MCxhMWVhYjUwMGQzMTc2MGE0NTI0MThlYzQ0NjU2YzkzY2I1Y2E4ZTZl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Groove to the rhythm of OPM's R&B tunes. Cover: Denise Julia",
+  "description": "Groove to the rhythm of OPM's R&B tunes. Cover: James Reid",
   "name": "Pinas Vibes",
   "tracks": [
     {
@@ -390,7 +390,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 297952,
       "name": "DESPERADO",
       "url": "https://open.spotify.com/track/5OhOlK3n9t6vCsDjNQvdOc"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 197052,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/3oF6MdGHiwi1okqanYETU8"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 257165,
       "name": "Labis",
       "url": "https://open.spotify.com/track/3sDoNhKtVJvUnkZMK51MAN"
@@ -1091,6 +1091,28 @@
     },
     {
       "album": {
+        "name": "Langit, Mundo",
+        "url": "https://open.spotify.com/album/3gvxmxAFCY9gypFJ0RUW3A"
+      },
+      "artists": [
+        {
+          "name": "MMONN",
+          "url": "https://open.spotify.com/artist/57wPsYZkEErG0C2ntgqNTe"
+        },
+        {
+          "name": "Calvin De Leon",
+          "url": "https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204694,
+      "name": "Langit, Mundo",
+      "url": "https://open.spotify.com/track/7pB8BnZyVdgiomsOnOzmp1"
+    },
+    {
+      "album": {
         "name": "Late Night Drive",
         "url": "https://open.spotify.com/album/5bOLs8MfFRAvnZxQiHTYoy"
       },
@@ -1106,6 +1128,24 @@
       "duration_ms": 147073,
       "name": "Late Night Drive",
       "url": "https://open.spotify.com/track/5jwMDxDZ6ZgGIk2rHPwbsR"
+    },
+    {
+      "album": {
+        "name": "LDR",
+        "url": "https://open.spotify.com/album/1aqCc4Bq1WFTUFeDlgtfDK"
+      },
+      "artists": [
+        {
+          "name": "Shoti",
+          "url": "https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211206,
+      "name": "LDR",
+      "url": "https://open.spotify.com/track/6Hc5L8x8AbFkFwwqdTvfoj"
     },
     {
       "album": {
@@ -1142,7 +1182,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 177989,
       "name": "Love Or Lust",
       "url": "https://open.spotify.com/track/4Nmo5m5ZBiPWDGqLuCTk23"
@@ -1236,7 +1276,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 218769,
       "name": "MRPK",
       "url": "https://open.spotify.com/track/0UdYNs08ZTqibIfnymqYPp"
@@ -1258,7 +1298,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 225581,
       "name": "Nakilala",
       "url": "https://open.spotify.com/track/5Qx8sgxnDQgMxJ3y2vStcU"
@@ -1388,7 +1428,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 216000,
       "name": "PABORITO",
       "url": "https://open.spotify.com/track/3IXhldrCfWEMBu11FLPRZa"
@@ -1414,7 +1454,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 483009,
       "name": "Pahalik",
       "url": "https://open.spotify.com/track/7ibgKml0Zy5M4kU9zBdsvY"
@@ -1436,7 +1476,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 247118,
       "name": "PAHIMAKAS",
       "url": "https://open.spotify.com/track/4a4leAJpcU9fH2sFJs0jgn"
@@ -1494,7 +1534,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 267389,
       "name": "Palindrome",
       "url": "https://open.spotify.com/track/5GUzt0gFvANYwkD2NCEPrq"
@@ -1548,7 +1588,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 276050,
       "name": "Paramdam",
       "url": "https://open.spotify.com/track/35LQPNNntn1AOa3SExFVxz"
@@ -1891,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "so fire",
+        "url": "https://open.spotify.com/album/3fSD8ylQNPfUx1fGEAZLb8"
+      },
+      "artists": [
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155479,
+      "name": "so fire",
+      "url": "https://open.spotify.com/track/48laemm4yRLl6OAAUoAPiJ"
+    },
+    {
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/1YFp4JQZ2cAUREbNQna9d7"
       },
@@ -1902,7 +1960,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 237857,
       "name": "Stay",
       "url": "https://open.spotify.com/track/7iHFyFiyd2Iebl1Cle2AFi"
@@ -2124,7 +2182,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 202274,
       "name": "Yessir",
       "url": "https://open.spotify.com/track/6yeWtDU4R8atpM1bbK6iA0"

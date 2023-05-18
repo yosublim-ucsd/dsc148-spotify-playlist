@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT?si=Io9oZOUzRbmk\_VlXGU8duQ">Anmily Brown</a>
 
-953 songs - 2 day 19 hr 49 min
+954 songs - 2 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [3AM](https://open.spotify.com/track/1DUmxJkbPnMaCUHiechFwP) | [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Vital](https://open.spotify.com/album/1hNnHKX0Wc13SoBckomh5r) | 2:29 | 2023-01-13 | 2023-02-25 |
 | [A Ciegas](https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 3:56 | 2022-02-25 | 2022-04-09 |
 | [A Dios Sea la Gloria](https://open.spotify.com/track/1UNIH3HEljFd6PsP8lViVD) | [Franco Figueroa](https://open.spotify.com/artist/3hFMWAFgMRV3IHZHvcKQ4V) | [Tu Casa Se Llena de Paz](https://open.spotify.com/album/5zedYQbSbBuAdGX4yj2uLQ) | 5:00 | 2022-06-17 | 2022-08-20 |
-| [A Donde Vaya](https://open.spotify.com/track/27cjwySKuJc7JNTGGsuRpS) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E) | [FIDEM](https://open.spotify.com/album/2OwBPAS14cnGr9LekDSgO8) | 3:04 | 2023-05-12 |  |
+| [A Donde Vaya](https://open.spotify.com/track/27cjwySKuJc7JNTGGsuRpS) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E) | [FIDEM](https://open.spotify.com/album/2OwBPAS14cnGr9LekDSgO8) | 3:04 | 2023-05-12 | 2023-05-18 |
 | [A El Alto y Sublime](https://open.spotify.com/track/3sO9EvbB4oRxmmkyj4uOof) | [Adoración](https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [A El Alto y Sublime](https://open.spotify.com/album/6GkqmaXAL7drZrOFJizWAM) | 5:56 | 2022-10-21 | 2023-01-06 |
 | [A Mi Lado Estarás](https://open.spotify.com/track/2KKbdH0CPLqyUFaaooSGOz) | [La Catedral](https://open.spotify.com/artist/028xpD94ojZ0WraOcCTkEe) | [A Mi Lado Estarás](https://open.spotify.com/album/56S7frIAZmL4JsIxxE69Yi) | 6:42 | 2022-02-25 | 2022-03-26 |
 | [A Puerta Cerrada](https://open.spotify.com/track/0HzcNtVVpTB3IdrzHhfrTO) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [A Puerta Cerrada](https://open.spotify.com/album/42XTtNruyb9nf3KAihCEG9) | 3:05 | 2022-07-22 | 2022-09-24 |
@@ -345,7 +345,8 @@
 | [Gloria, Honor, Poder](https://open.spotify.com/track/32mOZgW0bDqy5wUxmjpSVy) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Gloria, Honor, Poder](https://open.spotify.com/album/0UDgu2Qz5fKzEepSZxFjGH) | 5:01 | 2022-03-04 | 2022-04-29 |
 | [Glory](https://open.spotify.com/track/4cNUbTFJ1WnVLPu4j8qRHR) | [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Glory](https://open.spotify.com/album/3bNF1FxN1oofpgzJjq8LeT) | 3:01 | 2022-08-12 | 2022-10-15 |
 | [God Gift](https://open.spotify.com/track/0gjDLeXEcdyPAydw9jPPl4) | [Kid Munni](https://open.spotify.com/artist/2HBcNkdZk8JzGkqlc7RsIL) | [God Gift](https://open.spotify.com/album/4Uxeon5urt0yNSp9VAriUR) | 2:16 | 2022-09-30 | 2022-12-03 |
-| [Gozo](https://open.spotify.com/track/2HN1LWeY8GEQxQ9YIkUcxi) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Gozo](https://open.spotify.com/album/1mF4jR4zloStYJCaEYFpcz) | 3:23 | 2023-05-12 |  |
+| [Gozo](https://open.spotify.com/track/2HN1LWeY8GEQxQ9YIkUcxi) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Gozo](https://open.spotify.com/album/1mF4jR4zloStYJCaEYFpcz) | 3:23 | 2023-05-12 | 2023-05-18 |
+| [Gozo](https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Gozo](https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw) | 3:23 | 2023-05-12 |  |
 | [Gozo](https://open.spotify.com/track/6FGhI4d8FgLeAf1QG8k7Re) | [Josh Lopez](https://open.spotify.com/artist/0qSGHbYMTrls3ruaGGemBE), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Gozo](https://open.spotify.com/album/2i0mONvYiLsguOLI409PTj) | 3:45 | 2022-07-08 | 2022-09-10 |
 | [Gozo](https://open.spotify.com/track/3T3VI5YfOaxkPtg6MICIdi) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Gozo](https://open.spotify.com/album/0utPSrLh8vfADbb7CwWES9) | 3:10 | 2023-04-21 |  |
 | [Gozo Al Rendirme](https://open.spotify.com/track/2NG9McpkxMNhMTNBWdFEc5) | [Jaz Jacob](https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh) | [Gozo Al Rendirme](https://open.spotify.com/album/73hjO8YctVumTZltXB5Z2T) | 6:01 | 2022-02-25 | 2022-04-09 |

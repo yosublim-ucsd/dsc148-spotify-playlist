@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 212071,
+  "num_followers": 212069,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWRkYjZjN2FjODIxN2JiMzBiOGM0MzVmNTBmMjA3MTRjZDMxMjEz",
+  "snapshot_id": "MCxlYmE0NzNhOWI4Y2Q0N2M2OTE5ZjA2YmZlMjhkOTFmZTQzMDI1MWJi",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Javhe Karma",
-        "url": "https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1"
-      },
-      "artists": [
-        {
-          "name": "Kilcrops",
-          "url": "https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw"
-        }
-      ],
-      "duration_ms": 460813,
-      "name": "Infiel a Dos Mentiras \"Vida\"",
-      "url": "https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Satanico-Dramatico",
         "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 71000,
       "name": "Sigo Siendo El Rey",
       "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Javhe Karma",
+        "url": "https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1"
+      },
+      "artists": [
+        {
+          "name": "Kilcrops",
+          "url": "https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw"
+        }
+      ],
+      "duration_ms": 460813,
+      "name": "Infiel a Dos Mentiras \"Vida\"",
+      "url": "https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "No Anesthesia",
-        "url": "https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6"
-      },
-      "artists": [
-        {
-          "name": "Witchtrap",
-          "url": "https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW"
-        }
-      ],
-      "duration_ms": 275600,
-      "name": "Heavy Drinker",
-      "url": "https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -739,22 +723,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Apatrida",
-        "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
-      },
-      "artists": [
-        {
-          "name": "Nuclear",
-          "url": "https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt"
-        }
-      ],
-      "duration_ms": 225312,
-      "name": "Apatrida",
-      "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Nulo",
         "url": "https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq"
       },
@@ -767,6 +735,38 @@
       "duration_ms": 150600,
       "name": "\u00a1Qu\u00e9menlos!",
       "url": "https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "No Anesthesia",
+        "url": "https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6"
+      },
+      "artists": [
+        {
+          "name": "Witchtrap",
+          "url": "https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW"
+        }
+      ],
+      "duration_ms": 275600,
+      "name": "Heavy Drinker",
+      "url": "https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Apatrida",
+        "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
+      },
+      "artists": [
+        {
+          "name": "Nuclear",
+          "url": "https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Apatrida",
+      "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Tierras Muertas",
-        "url": "https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q"
-      },
-      "artists": [
-        {
-          "name": "Lethal Creation",
-          "url": "https://open.spotify.com/artist/4AhluimFPLNnran1jD354B"
-        }
-      ],
-      "duration_ms": 309054,
-      "name": "O\u00eddos Sordos",
-      "url": "https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Los Cantipuercos",
         "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 180693,
       "name": "La Caperuputa y el Lobo Culi\u00f3n",
       "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Tierras Muertas",
+        "url": "https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q"
+      },
+      "artists": [
+        {
+          "name": "Lethal Creation",
+          "url": "https://open.spotify.com/artist/4AhluimFPLNnran1jD354B"
+        }
+      ],
+      "duration_ms": 309054,
+      "name": "O\u00eddos Sordos",
+      "url": "https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL"
     }
   ],
   "unique_name": "Metal del Nuestro",

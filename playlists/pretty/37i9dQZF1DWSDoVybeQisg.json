@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1086695,
+  "num_followers": 1086995,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmM2MDJmYTk5NTJiN2JjZjU0NWRhYjFmZWM3NmMyYjE3NTI1MTdi",
+  "snapshot_id": "MCw5NTk3OTJmMjgzODgwNDM5NjBiYzdiOGMwZGM0MDM0MzU2MDY4YjFk",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Psychedelic Drugstore - Remastered",
-        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
-      },
-      "artists": [
-        {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
-        }
-      ],
-      "duration_ms": 341786,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Shapes of Things (2015 Remaster)",
         "url": "https://open.spotify.com/album/3meFfjNEebexMTZOqT0Dx5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 145960,
       "name": "Shapes of Things - 2015 Remaster",
       "url": "https://open.spotify.com/track/4OjqrdD3QILzxkGwNoMk0c"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Psychedelic Drugstore - Remastered",
+        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
+      },
+      "artists": [
+        {
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+        }
+      ],
+      "duration_ms": 341786,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Roger the Engineer",
-        "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Lost Women - The Mono Album",
-      "url": "https://open.spotify.com/track/2Ajtl0ro60h3VN3rD3Y1IF"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "The Best of the Lemon Pipers",
         "url": "https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg"
       },
@@ -999,6 +983,38 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Fifth Dimension",
+        "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 153426,
+      "name": "5D (Fifth Dimension)",
+      "url": "https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Roger the Engineer",
+        "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Lost Women - The Mono Album",
+      "url": "https://open.spotify.com/track/2Ajtl0ro60h3VN3rD3Y1IF"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Gris Gris",
         "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 184453,
       "name": "Rainy Day Mushroom Pillow",
       "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Fifth Dimension",
-        "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 153426,
-      "name": "5D (Fifth Dimension)",
-      "url": "https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Wake Up...It's Tomorrow",
+        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Sit With The Guru",
+      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Fever Tree",
         "url": "https://open.spotify.com/album/5ra0kPeGkxFlRTY0Lchce6"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 122666,
       "name": "Flight of the Psychedelic Bumble Bee",
       "url": "https://open.spotify.com/track/27aeWRq1h65omUnS16hciN"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Wake Up...It's Tomorrow",
-        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Sit With The Guru",
-      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
     },
     {
       "added_at": "2023-01-18 16:20:47",

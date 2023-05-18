@@ -1,12 +1,12 @@
 {
   "description": "The newest Hip-Hop, refreshed weekly. Cover: Lil Tecca",
-  "num_followers": 1895,
+  "num_followers": 1931,
   "original_name": "All New Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2E4YzIyODE1ZWNjZTRmNjk2MDBhZjM0M2U2ZjYyMDk3MzAxNTAw",
+  "snapshot_id": "MCxlNDcxNDU0ZDQ0YTU3MTM4ZTQ0YjEzY2NkOTQwNmRkY2M1M2ZhMTgz",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -309,7 +309,7 @@
         }
       ],
       "duration_ms": 134452,
-      "name": "Solid 16s, Pt. 1",
+      "name": "Casper TNG Solid 16s, Pt. 1",
       "url": "https://open.spotify.com/track/2gZUr6VGa9Wu7IZoHMcMxg"
     },
     {
@@ -452,12 +452,12 @@
           "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
         },
         {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        },
-        {
           "name": "Benny The Butcher",
           "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
         }
       ],
       "duration_ms": 235914,

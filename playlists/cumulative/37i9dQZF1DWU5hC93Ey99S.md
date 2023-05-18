@@ -4,7 +4,7 @@
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-71 songs - 3 hr 56 min
+72 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [what we had was real](https://open.spotify.com/track/7lPVC3ppoIixU2PH2KcvTK) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [what we had was real](https://open.spotify.com/album/0mAxfupLpuSvfiHeaerkBV) | 2:16 | 2023-04-13 |  |
 | [What You Do To Me](https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [What You Do To Me](https://open.spotify.com/album/35Mc0p9KECg2XVfy1287pR) | 2:34 | 2023-04-13 |  |
 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-04-27 |  |
-| [yes 2 heaven](https://open.spotify.com/track/2SFvNyfzLs7sv40WLqn5xE) | [Sokrat](https://open.spotify.com/artist/3Gxx3Kl9GqBPyKoUNHMxuB), [simOne](https://open.spotify.com/artist/0THaJJT8yNpEdMs4vpJEYR) | [yes 2 heaven](https://open.spotify.com/album/7cOYMlDXp28Bg5KpoFWSOB) | 4:15 | 2023-05-12 |  |
+| [Yes 2 Heaven](https://open.spotify.com/track/7lhxChF5caswo1nHxcIgyp) | [REDDFLEXX](https://open.spotify.com/artist/1oEC3n8mPtfx1o1011rTHK), [Sim0ne](https://open.spotify.com/artist/5y8pW8KEQ9L0n7bh1b08bj), [Melo Nada](https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI) | [Yes 2 Heaven](https://open.spotify.com/album/2FXQNXwUJLYjiggs4QeqoC) | 4:15 | 2023-05-12 |  |
+| [yes 2 heaven](https://open.spotify.com/track/2SFvNyfzLs7sv40WLqn5xE) | [Sokrat](https://open.spotify.com/artist/3Gxx3Kl9GqBPyKoUNHMxuB), [simOne](https://open.spotify.com/artist/0THaJJT8yNpEdMs4vpJEYR) | [yes 2 heaven](https://open.spotify.com/album/7cOYMlDXp28Bg5KpoFWSOB) | 4:15 | 2023-05-12 | 2023-05-18 |
 | [Youthful Kids](https://open.spotify.com/track/1YBvhB1094Q5Niw1GDSRY3) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Youthful Kids](https://open.spotify.com/album/6PcXHDSWeTupdzdabiuYZj) | 2:59 | 2023-04-20 |  |
 
 \*This playlist was first scraped on 2023-04-15. Prior content cannot be recovered.

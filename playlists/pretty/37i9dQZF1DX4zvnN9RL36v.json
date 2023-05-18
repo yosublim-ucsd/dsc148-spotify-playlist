@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5168,
+  "num_followers": 5176,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2FmM2FiYTU1YWIwNDM5NGRiMWVhY2E3YTAwYWU4OGJlMGUwZmM4",
+  "snapshot_id": "MCwwNjgwZjFlMDNmNTQ2ODNkMWU1MDhhOTVjNDQzMDUzNmRhZDQ3ZjFi",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 239674,
+      "name": "\uc9dd\uc0ac\ub791 Crush",
+      "url": "https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "Chocolate, Pt. 8 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5NkL3gOmdX8HxFUrDNFJFE"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 267640,
       "name": "She Said (With Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 239674,
-      "name": "\uc9dd\uc0ac\ub791 Crush",
-      "url": "https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t"
-      },
-      "artists": [
-        {
-          "name": "CherryB",
-          "url": "https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd"
-        }
-      ],
-      "duration_ms": 249438,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "\ud654\ubd84",
         "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 270680,
       "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
       "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t"
+      },
+      "artists": [
+        {
+          "name": "CherryB",
+          "url": "https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd"
+        }
+      ],
+      "duration_ms": 249438,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0"
     },
     {
       "added_at": "2023-05-02 09:09:27",

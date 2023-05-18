@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Ryu, the Runner, Mateca",
-  "num_followers": 107954,
+  "num_followers": 108166,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTk1YjFhOTIyNDc2NmU1ODZjNWNkNzRmNDU3YTYzZmMwZDZiYTAz",
+  "snapshot_id": "MCwxMmM2MzFiYzIzOTFkZmZjODA4NjAxZjJjNmMwY2ZjZWZiNjFmYWY5",
   "tracks": [
     {
       "added_at": "2023-05-15 19:59:10",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-05-15 19:59:10",
       "album": {
+        "name": "Passado & Presente",
+        "url": "https://open.spotify.com/album/5hwK2P6q7pjxahdDEobHIb"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Jun\u00e7\u00e3o Venenosa",
+      "url": "https://open.spotify.com/track/2FSuhtOSQo1MUn8bNZmxYq"
+    },
+    {
+      "added_at": "2023-05-15 19:59:10",
+      "album": {
         "name": "Mds",
         "url": "https://open.spotify.com/album/2x3FO0DZC61UwKBFNsnkzX"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 125142,
       "name": "Mds",
       "url": "https://open.spotify.com/track/0QglpM23kl9ldvVdoYNZwF"
-    },
-    {
-      "added_at": "2023-05-15 19:59:10",
-      "album": {
-        "name": "Passado & Presente",
-        "url": "https://open.spotify.com/album/5hwK2P6q7pjxahdDEobHIb"
-      },
-      "artists": [
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Jun\u00e7\u00e3o Venenosa",
-      "url": "https://open.spotify.com/track/2FSuhtOSQo1MUn8bNZmxYq"
     },
     {
       "added_at": "2023-05-15 19:59:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Riley Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,087,544 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090,650 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 60 | [For My Dawgs \(feat\. Willie Jones & Blanco Brown\)](https://open.spotify.com/track/40jq22x0xSlHJ81KWZ1Hhm) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For My Dawgs \(feat\. Willie Jones & Blanco Brown\)](https://open.spotify.com/album/2gbGuVrSjTMmPZ30HpPAC7) | 3:11 |
 | 61 | [Sad in the Summer \(feat\. Lily Rose\)](https://open.spotify.com/track/29Zod043iIX27WBv0duEDn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:21 |
 | 62 | [I Still Love You](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 |
-| 63 | [Red Lights](https://open.spotify.com/track/27J3bSJSg3Ph1ouTOexhoe) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Red Lights](https://open.spotify.com/album/5Enbth38qf3E9uHyOXs2HO) | 3:10 |
+| 63 | [Red Lights](https://open.spotify.com/track/1dptRKR1TfZR7vgSehupIB) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Red Lights](https://open.spotify.com/album/6lYP23lxQPK3aNBfhr8RuH) | 3:10 |
 | 64 | [Sounds Like Something I'd Do](https://open.spotify.com/track/5QAwDaUIcFOEYfsepGk0Fd) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Drake Milligan \- EP](https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u) | 2:26 |
 | 65 | [Last Time Last](https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Last Time Last](https://open.spotify.com/album/0N4b2e4iIY4uIKUI7kikks) | 3:03 |
 | 66 | [Strawberry Wine And A Cheap Six Pack](https://open.spotify.com/track/2rHH4cQyxEhJwvr0zmMVZV) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Strawberry Wine And A Cheap Six Pack](https://open.spotify.com/album/5yvBAGPbj3Hu0vxLu8jDoR) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Lately](https://open.spotify.com/track/6rPR4M9uJHrYYJ9a1xLDjv) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Lately](https://open.spotify.com/album/1VegrzMvhwSOTupozMQnkj) | 3:27 |
 | 100 | [Gettin' There](https://open.spotify.com/track/6EgRugCFo1htCTkFsBmQRc) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gettin' There](https://open.spotify.com/album/0D5Nrth5H6dVompoJ0hV2h) | 3:08 |
 
-Snapshot ID: `MCxmMmFhYzRlMTcyMzEyOGZlMTZhMTYwZDg3Yzk4ZDI4MGM0ZDRjY2Vl`
+Snapshot ID: `MCw4ZjQxMjJlOGVjOWUzMDk1Mzc0MjllN2MwNGE2YTExMzZkYmE3NWI4`

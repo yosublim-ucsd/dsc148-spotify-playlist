@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: MC Cabelinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,471 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,697 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 71 | [não te amo mais](https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko) | [Isa Guerra](https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [não te amo mais](https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj) | 2:13 |
 | 72 | [Aquelas Coisas](https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT) | [Aquelas Coisas](https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm) | 3:16 |
 | 73 | [Te Fazer Vibrar](https://open.spotify.com/track/2ht1UBPNgDM0WMpgxKC7Zy) | [Megabaile Do Areias](https://open.spotify.com/artist/6EHs7rGH4jgLSNezIy9i3F), [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g) | [Te Fazer Vibrar](https://open.spotify.com/album/21v5Ucht2tu6yF0WmnjcFu) | 3:07 |
-| 74 | [Não Faz Marra](https://open.spotify.com/track/349VMk1uZmX0wL1CoA3izr) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Não Faz Marra](https://open.spotify.com/album/0TWc3pDitFPl02iYysyPp8) | 2:50 |
-| 75 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 |
+| 74 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 |
+| 75 | [Não Faz Marra](https://open.spotify.com/track/349VMk1uZmX0wL1CoA3izr) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Não Faz Marra](https://open.spotify.com/album/0TWc3pDitFPl02iYysyPp8) | 2:50 |
 | 76 | [Sentir Saudade](https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Sentir Saudade](https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO) | 3:26 |
 | 77 | [Contramão](https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT) | [João Zoli](https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Contramão](https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr) | 2:50 |
 | 78 | [Baby](https://open.spotify.com/track/1R1Og3MKiYJGUFUpudLklx) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx) | [Baby](https://open.spotify.com/album/2aohzSz5kigRkQZ5lagVaM) | 2:58 |
 | 79 | [Ora Pois](https://open.spotify.com/track/5zSpPU4hNair2ajJ9b1hTy) | [O Juh](https://open.spotify.com/artist/0aFWyfehCefW4rvOYycBUd) | [Ora Pois](https://open.spotify.com/album/1MrQZLRzZWMgUGYBRXqrxI) | 2:22 |
 | 80 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 |
 
-Snapshot ID: `MCw3MDViZWViYmYxZDA1ZjIzMGZkY2JkNTI1OWU1NWU5MmRlNTMyMWIz`
+Snapshot ID: `MCxiNzMwMjc0Yjg4ZDJjMGJmMWY1YjEwNDRlODhiMTdmMTlmZDVlNmZh`

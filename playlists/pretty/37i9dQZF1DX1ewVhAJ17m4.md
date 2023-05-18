@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,139 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,264 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 40 | [Get Over It](https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Get Over It](https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR) | 2:55 |
 | 41 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
 | 42 | [Down](https://open.spotify.com/track/3V7D3sAnk5KBNBBWPL7REL) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Francis \(Deluxe Edition\)](https://open.spotify.com/album/0iz5oln8o2AseYOfy7WBal) | 2:40 |
-| 43 | [Shhhh! Golf is On](https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Shhhh! Golf is On](https://open.spotify.com/album/5IDAHjsSQvZr1bzQHb7QrD) | 2:44 |
+| 43 | [Shhhh! Golf is On](https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 2:44 |
 | 44 | [Everything Else Can Wait](https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Everything Else Can Wait](https://open.spotify.com/album/32m8WHzsazOVcVLTL6IKiN) | 3:38 |
 | 45 | [NO SLEEP](https://open.spotify.com/track/4cb4AJPCtXRswCG4wzT5kU) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [NO SLEEP](https://open.spotify.com/album/5wE0ZI8nXIDqrkBu9hTDaE) | 2:56 |
 | 46 | [Save Me](https://open.spotify.com/track/69y3ZcUaNs1nyfBF1szfkz) | [Rocket Pengwin](https://open.spotify.com/artist/0hBZ45qYES73gIuo5YkjOn) | [Save Me](https://open.spotify.com/album/2Ds4gf1vyDEdrqqLMjVJMa) | 2:21 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 84 | [Juice](https://open.spotify.com/track/4EAEKqmrkfA7WFfeBAvDZi) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG), [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo), [Oliver Baxxter](https://open.spotify.com/artist/1C3ukvfqNRUyRVi8Vvrz1b) | [Juice](https://open.spotify.com/album/0BZ62pEv3lsqAAl8Cx1WsA) | 3:11 |
 | 85 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 |
 
-Snapshot ID: `MCwxNzliYzlkMDdmYTBiMDNmNmU4NzEzMmIwMjM0OTNjOTYyNTA5NzRl`
+Snapshot ID: `MCwxYTM5NWY0NzI5ZWZiMjc2MWEyYTY5YWE1NTc1NTc5N2YxZDZmZGIy`

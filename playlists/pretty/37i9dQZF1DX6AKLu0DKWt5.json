@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzc3YzU1NDgxMjZkZTZhZGE5YmM1Njg4Y2M5NzM0YzA0NzU4M2Rl",
+  "snapshot_id": "MCw5OTAyNzA2NzE5NjI3MWY0ZWNlNzk5MTcyMDE1ZjUyMmE3MDkzYzIy",
   "tracks": [
     {
       "added_at": "2022-12-21 17:45:34",
@@ -347,18 +347,18 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
-        "name": "Empire of Light (Original Score)",
-        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+        "name": "Mrs. Harris Goes to Paris (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vjxJ2lyiNrKuV00JL5HRx"
       },
       "artists": [
         {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+          "name": "Rael Jones",
+          "url": "https://open.spotify.com/artist/6gmWKEK7HKvYBas0CWXdlW"
         }
       ],
-      "duration_ms": 317026,
-      "name": "Empire Of Light",
-      "url": "https://open.spotify.com/track/6O22GpPxzXC3lnaiGZsGXa"
+      "duration_ms": 119393,
+      "name": "Mrs. Harris",
+      "url": "https://open.spotify.com/track/4Chlib7xjLWRsCU4A2uGCo"
     },
     {
       "added_at": "2022-12-21 17:45:34",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
-        "name": "Mrs. Harris Goes to Paris (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5vjxJ2lyiNrKuV00JL5HRx"
+        "name": "Empire of Light (Original Score)",
+        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
       },
       "artists": [
         {
-          "name": "Rael Jones",
-          "url": "https://open.spotify.com/artist/6gmWKEK7HKvYBas0CWXdlW"
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
         }
       ],
-      "duration_ms": 119393,
-      "name": "Mrs. Harris",
-      "url": "https://open.spotify.com/track/4Chlib7xjLWRsCU4A2uGCo"
+      "duration_ms": 317026,
+      "name": "Empire Of Light",
+      "url": "https://open.spotify.com/track/6O22GpPxzXC3lnaiGZsGXa"
     },
     {
       "added_at": "2022-12-21 17:45:34",

@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 87044,
+  "num_followers": 87084,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjgyYjg3ZjczZjg5ZjhlMjE3NmFjOTI0YWIxMWY3ZDAxNmFkOGFk",
+  "snapshot_id": "MCwzZWRmODdmNzYxNTRkMWM0YTY2ZjM0NzYwMDRiOWNhN2E2ZGZiY2Ji",
   "tracks": [
     {
       "added_at": "2023-05-05 08:06:40",
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
-        "name": "wandering (feat. george)",
-        "url": "https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP"
+        "name": "Track 03",
+        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
       },
       "artists": [
         {
-          "name": "basecamp",
-          "url": "https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
         }
       ],
-      "duration_ms": 204000,
-      "name": "wandering (feat. george)",
-      "url": "https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2"
+      "duration_ms": 171866,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
     },
     {
       "added_at": "2023-05-05 08:06:40",
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
-        "name": "Track 03",
-        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
+        "name": "wandering (feat. george)",
+        "url": "https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP"
       },
       "artists": [
         {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+          "name": "basecamp",
+          "url": "https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 171866,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
+      "duration_ms": 204000,
+      "name": "wandering (feat. george)",
+      "url": "https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2"
     },
     {
       "added_at": "2023-05-05 08:06:40",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 227320,
-      "name": "Free (I'm Gonna Be)",
-      "url": "https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd"
-    },
-    {
-      "added_at": "2023-05-05 08:06:40",
-      "album": {
         "name": "idealism",
         "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 198000,
       "name": "Blue Candle",
       "url": "https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n"
+    },
+    {
+      "added_at": "2023-05-05 08:06:40",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 227320,
+      "name": "Free (I'm Gonna Be)",
+      "url": "https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd"
     },
     {
       "added_at": "2023-05-05 08:06:40",

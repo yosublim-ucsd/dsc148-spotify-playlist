@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,405 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,415 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 44 | [A Carta / Franqueza / Intriga da Oposição](https://open.spotify.com/track/5aiD6hpNmFSB3rfGCBpCJW) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Salgadinho](https://open.spotify.com/artist/1zZcaxPgRLMHbHmas2c8hR), [Binho Simões](https://open.spotify.com/artist/3YYITXjPoYKyWyssTc4X12), [Swing & Simpatia](https://open.spotify.com/artist/07o97MiFEobUUwiIYcspmj) | [Respeita Minha História 2](https://open.spotify.com/album/5nEWrZ8zyD5omIMxwhIFPZ) | 4:55 |
 | 45 | [Surpresa \- Ao Vivo](https://open.spotify.com/track/5r0joYZubrPxZtOn4a7PRc) | [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q), [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Surpresa \(Ao Vivo\)](https://open.spotify.com/album/26dgAm1sWE8Pt5X1JWwNYP) | 3:44 |
 | 46 | [TUA INDECISÃO](https://open.spotify.com/track/00Ofee5Bbfstz49RfSL0oM) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 3:50 |
-| 47 | [Fortaleza / Mô / Fernando de Noronha / Acende o Celular / O Pai Tá On \- Ao Vivo](https://open.spotify.com/track/2HxKNgDtFGJMd4BSGRNn9V) | [Fala Comigo](https://open.spotify.com/artist/12Crqy29kQcqbkELcZaEVq), [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Roda de Samba Tiee e Fala Comigo no Complexo Fora do Eixo \(Ao Vivo\)](https://open.spotify.com/album/2bTSjpycK0HsuVZwHAcqqJ) | 9:55 |
+| 47 | [Fortaleza / Mô / Fernando de Noronha / Acende o Celular / O Pai Tá On \- Ao Vivo](https://open.spotify.com/track/2HxKNgDtFGJMd4BSGRNn9V) | [Grupo Fala Comigo](https://open.spotify.com/artist/12Crqy29kQcqbkELcZaEVq), [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Roda de Samba Tiee e Fala Comigo no Complexo Fora do Eixo \(Ao Vivo\)](https://open.spotify.com/album/2bTSjpycK0HsuVZwHAcqqJ) | 9:55 |
 | 48 | [A Longo Prazo \- Ao Vivo](https://open.spotify.com/track/3SsKY5ErjmuWMAl0WJH5IH) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [A Longo Prazo \(Ao Vivo\)](https://open.spotify.com/album/7zrhF0dK9Cv2I44CZTvPvm) | 3:15 |
 | 49 | [Metade Vai, Metade Fica \- Ao Vivo](https://open.spotify.com/track/2wjPolk9weQkKhsNtjaTSs) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Close Friends \(Ao Vivo\)](https://open.spotify.com/album/0JDiWK0YzOeg45K86BLY8S) | 2:43 |
 | 50 | [Não Vai Ter Fim \- Ao Vivo](https://open.spotify.com/track/4Iza3iQfmkWrY1dVEa51Sv) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Oi, Prazer BG! Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0ev4mqX85Oa3g2TnNYN4LO) | 3:07 |
 
-Snapshot ID: `MCwwMjFmNGEwY2UyYTI3NWE3NmZlZWFiNWRjZjhhMGI0ZTQ5NTQ3ZjEz`
+Snapshot ID: `MCwyMWNiODJhMWU5NzVlZjNjZDdjMzU4MDYxNTNmODc1MzliYjgwZDIz`

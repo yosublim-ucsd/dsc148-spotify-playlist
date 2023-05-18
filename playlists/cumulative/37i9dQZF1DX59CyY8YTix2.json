@@ -972,10 +972,28 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 125750,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/2VWFENMWsS4dJNbzto8DB8"
+    },
+    {
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/1GtBPVV99IEUhqdoJRCds8"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEON LIME WHOOPIEPIE",
+          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125750,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/6y3rK3sNUy5jCaJ6UogkU4"
     },
     {
       "album": {

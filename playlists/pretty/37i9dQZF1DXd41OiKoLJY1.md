@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Reanne Borela Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,038 likes - 73 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,055 likes - 73 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 72 | [What love means](https://open.spotify.com/track/4oJc9URichwu3J2VmdfRg4) | [Th1rt3en Yuzora](https://open.spotify.com/artist/0ZsV5LjbQKkSE6zkQbGQgc) | [What love means](https://open.spotify.com/album/6TjeAz8xbrlPwbiuY2BYXO) | 2:50 |
 | 73 | [BAD LIKE THAT](https://open.spotify.com/track/0KDEUYP1vKY21bCANzJhL4) | [Reybones](https://open.spotify.com/artist/6lvOqMW970QG4KjXhiWMuA), [Xavier P.](https://open.spotify.com/artist/3P73xAkfQh0NAKKzUGEuGI) | [BAD LIKE THAT](https://open.spotify.com/album/6BQzdY8ZnTVwbYJR456L0q) | 1:55 |
 
-Snapshot ID: `MCw1MTY3MjI5ZjIzMDg1OGRkMjFlMmQ5NGNhNGEwNGM0Njc5NDBhN2Mx`
+Snapshot ID: `MCw5ZWJmODA4MDNkZmE2YmJlYWM5NTE5M2FkODlkMWJlNDgwYTUxMGI5`

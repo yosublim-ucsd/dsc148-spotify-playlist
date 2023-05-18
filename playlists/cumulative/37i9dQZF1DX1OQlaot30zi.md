@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Néza, Luchè, Dylan, Kid Yugi e tanti altri.
 
-1,745 songs - 3 day 7 hr 48 min
+1,746 songs - 3 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1708,6 +1708,7 @@
 | [Walkie Talkie](https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Walkie Talkie](https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B) | 2:20 | 2022-09-22 | 2022-10-25 |
 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 | 2023-04-20 |  |
 | [Wawa](https://open.spotify.com/track/3OwMlRnyiwe69rAdBSNEOe) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Wawa](https://open.spotify.com/album/0A3SICVCsWnKv5riQ9PqPv) | 2:33 | 2022-06-16 | 2022-06-29 |
+| [WE ON EM \(feat\. NLE Choppa\)](https://open.spotify.com/track/4dxGWEYW7UBxG1piCzVH6F) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE ON EM \(feat\. NLE Choppa\)](https://open.spotify.com/album/7udyn4k5NezxJxkmogAuxK) | 3:12 | 2023-05-17 |  |
 | [Weakness](https://open.spotify.com/track/7MJR2ENLQvUiMrXH60FH8b) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt) | [Weakness](https://open.spotify.com/album/27WwvhtKuplSMhdvIehcZl) | 2:55 | 2023-02-16 | 2023-03-10 |
 | [WEED, SOLDI, SESSO \(feat\. Gemitaiz\)](https://open.spotify.com/track/0WBYASmM4kt2hRv02zQCyJ) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [FAIV](https://open.spotify.com/album/4xpmdTSoa2iKkBnxrsTWzK) | 3:13 | 2022-06-02 | 2022-06-24 |
 | [Weekend](https://open.spotify.com/track/7oYCiboI026ncV3CSybd3e) | [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6), [Ceckpoint](https://open.spotify.com/artist/7bD9c1YU0jcI2dH2hpijwI) | [Weekend](https://open.spotify.com/album/09KdEwiYucvMPrrEDfM1An) | 3:10 | 2022-12-09 | 2023-01-06 |

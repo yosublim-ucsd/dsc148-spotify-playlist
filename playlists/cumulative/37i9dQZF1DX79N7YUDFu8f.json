@@ -640,10 +640,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 257487,
       "name": "Everything Grows",
       "url": "https://open.spotify.com/track/1SjWBuWiOuEWyZQJZI7aLZ"
+    },
+    {
+      "album": {
+        "name": "Everything Grows",
+        "url": "https://open.spotify.com/album/2aUUlYum6c8SSwLEdj0f1M"
+      },
+      "artists": [
+        {
+          "name": "Nagasaki Swim",
+          "url": "https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257487,
+      "name": "Everything Grows",
+      "url": "https://open.spotify.com/track/7dTGW4xLjjkpEMGWdvGf4V"
     },
     {
       "album": {

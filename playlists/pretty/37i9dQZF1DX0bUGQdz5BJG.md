@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,846 likes - 197 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,990 likes - 197 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 12 | [Getting Over You Thing](https://open.spotify.com/track/5d4XxTOHmSthjo6GekM4k5) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp), [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Getting Over You Thing](https://open.spotify.com/album/4EyTPFZ8N9mXkue3R7iU5e) | 3:32 |
 | 13 | [Didn't Wanna Settle Down](https://open.spotify.com/track/4CTG5JqMiVZ10nNBucvLX7) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Didn't Wanna Settle Down](https://open.spotify.com/album/3OeuZjVa0OazEv49zQbd5H) | 2:58 |
 | 14 | [I Wouldn't Be Here](https://open.spotify.com/track/38WqfgTFqCoWBiYQxXd4HK) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [I Wouldn't Be Here](https://open.spotify.com/album/0G59cqGnT1vweYoTlD5hlR) | 3:15 |
-| 15 | [Hundred Acre Heartbreaker](https://open.spotify.com/track/4OQpW6rJ3pJqp9mRK9kD4M) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Hundred Acre Heartbreaker](https://open.spotify.com/album/5MTJDFO4CELxsqldDXXWOG) | 3:04 |
+| 15 | [Hundred Acre Heartbreaker](https://open.spotify.com/track/5920vpHuU5wzkL6bgJfbat) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Hundred Acre Heartbreaker](https://open.spotify.com/album/6QGuoA9HEPR1h37SmsuK8G) | 3:04 |
 | 16 | [Last Call Last](https://open.spotify.com/track/6kayGg0oExDfXnFkTqp97B) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Last Call Last](https://open.spotify.com/album/3RBNJV4pLA6DVP1xNlqL8t) | 3:04 |
 | 17 | [Hands on the Wheel](https://open.spotify.com/track/0wgpdRjaFPJcMDk4k2inkV) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Hands on the Wheel](https://open.spotify.com/album/77RBLFvpxWT32x78lQ0m14) | 3:21 |
 | 18 | [Wild](https://open.spotify.com/track/6l3bRfHOeki9Qvwtto6gvJ) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Wild](https://open.spotify.com/album/1ySXth9CvYhao5POMImYYL) | 3:36 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 196 | [Missed the Boat](https://open.spotify.com/track/3DQi4r0z82AD5cQgVQYkTP) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Missed the Boat](https://open.spotify.com/album/358todtduHcbUf6KOKzvma) | 3:19 |
 | 197 | [Stoned](https://open.spotify.com/track/1E0MQXTmFHJnaOGIMqq5LF) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Stoned](https://open.spotify.com/album/7fzDWt3ZsttqHdjr0bugrz) | 2:42 |
 
-Snapshot ID: `MCw1MWJjNTYxOTYzNzBiNWFlZDg0ZWJjNzMwZDAyZDczMjFkMzcxMzI3`
+Snapshot ID: `MCwwZmM5OWNlNTM2NWEwMDg0NmQ4ZjBiMGU2Y2ZmMGFkOWI5MzQ1Y2Yy`

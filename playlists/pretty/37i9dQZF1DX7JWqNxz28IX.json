@@ -1,12 +1,12 @@
 {
   "description": "un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 38557,
+  "num_followers": 38562,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGNmMjEzZWM1MTMyNmQ3NzQyYjcyZTgxY2M1Yzc1ZjA5MDFkOTll",
+  "snapshot_id": "MCw2NzJhMjA2ZWZmNjJhMTFkZmVlMWZlYjY0MGU2ZWU4MjJmZTNjMjg5",
   "tracks": [
     {
       "added_at": "2023-04-18 07:22:02",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "Due anni fa",
+        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 160247,
+      "name": "Due anni fa",
+      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "ALESSIA",
         "url": "https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 144187,
       "name": "ALESSIA",
       "url": "https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "Due anni fa",
-        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 160247,
-      "name": "Due anni fa",
-      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Winston Blue",
-        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
+        "name": "OSIRIDE",
+        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
       },
       "artists": [
         {
-          "name": "WECH PUTO",
-          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
         }
       ],
-      "duration_ms": 151013,
-      "name": "Winston Blue",
-      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
+      "duration_ms": 200571,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "OSIRIDE",
-        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+        "name": "Winston Blue",
+        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
       },
       "artists": [
         {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+          "name": "WECH PUTO",
+          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
         }
       ],
-      "duration_ms": 200571,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
+      "duration_ms": 151013,
+      "name": "Winston Blue",
+      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "Io non voglio pi\u00f9 soffrire",
+        "url": "https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1"
+      },
+      "artists": [
+        {
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
+        },
+        {
+          "name": "Gaglia",
+          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
+        }
+      ],
+      "duration_ms": 156378,
+      "name": "Io non voglio pi\u00f9 soffrire",
+      "url": "https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "Mille Gatti",
         "url": "https://open.spotify.com/album/3lul0L0dQhpxFrgA4oudMB"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 164000,
       "name": "Mille Gatti",
       "url": "https://open.spotify.com/track/23hjyl5BiuPM5brnFrxIL5"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "Io non voglio pi\u00f9 soffrire",
-        "url": "https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1"
-      },
-      "artists": [
-        {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
-        },
-        {
-          "name": "Gaglia",
-          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
-        }
-      ],
-      "duration_ms": 156378,
-      "name": "Io non voglio pi\u00f9 soffrire",
-      "url": "https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Vita Di Plastica",
-        "url": "https://open.spotify.com/album/6Egb7BNm1RZzjKpvFwHPVU"
+        "name": "sai che...",
+        "url": "https://open.spotify.com/album/6rSIRykSXswYGYZA0YFg9b"
       },
       "artists": [
         {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+          "name": "Kid Vice",
+          "url": "https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo"
+        },
+        {
+          "name": "maxwell da costa",
+          "url": "https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT"
         }
       ],
-      "duration_ms": 180937,
-      "name": "Vita Di Plastica",
-      "url": "https://open.spotify.com/track/6tMepxI7gnLijhWoU65HYR"
+      "duration_ms": 160434,
+      "name": "sai che...",
+      "url": "https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1775,22 +1779,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "sai che...",
-        "url": "https://open.spotify.com/album/6rSIRykSXswYGYZA0YFg9b"
+        "name": "Rottami",
+        "url": "https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U"
       },
       "artists": [
         {
-          "name": "Kid Vice",
-          "url": "https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo"
+          "name": "Coron",
+          "url": "https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax"
         },
         {
-          "name": "maxwell da costa",
-          "url": "https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT"
+          "name": "Redys",
+          "url": "https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1"
         }
       ],
-      "duration_ms": 160434,
-      "name": "sai che...",
-      "url": "https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH"
+      "duration_ms": 199053,
+      "name": "Rottami",
+      "url": "https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau"
     }
   ],
   "unique_name": "ragazzo triste",

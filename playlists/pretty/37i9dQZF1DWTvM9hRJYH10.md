@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Greylan James
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,839 likes - 143 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,872 likes - 143 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 33 | [Had To Be There](https://open.spotify.com/track/6zXVzaFPSe2X5LMkRHeN5x) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Had To Be There](https://open.spotify.com/album/5vY6uG0RmX4F9wHeUDpTRt) | 2:22 |
 | 34 | [BREAK IT IN A BAR](https://open.spotify.com/track/28dwWN6sZQGBSZuMdCbbQY) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BREAK IT IN A BAR](https://open.spotify.com/album/7d2E2k2Sr1Lcw86XdIHNRd) | 3:39 |
 | 35 | [25 To Life](https://open.spotify.com/track/4EeowIiHBakhTYerquNYwk) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ) | [25 To Life](https://open.spotify.com/album/6NAaVXozJrH4OcL79VASRV) | 3:26 |
-| 36 | [Til The Neon's Gone](https://open.spotify.com/track/7CJgt8v2iQ4ZxFFoBgHnGI) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Til The Neon's Gone](https://open.spotify.com/album/4JuzjUqJKslBTQdY7t6iDC) | 3:41 |
+| 36 | [Til The Neon's Gone](https://open.spotify.com/track/54wAUMBMpdhfhZSQawogbw) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Til The Neon's Gone](https://open.spotify.com/album/1amWR5XgywGuP59BTGMJ8E) | 3:41 |
 | 37 | [Skip This Part](https://open.spotify.com/track/4vBRaWNRt12NOFFLmekoou) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Skip This Part](https://open.spotify.com/album/1fzHdD4hckwMiVn1YD6Q30) | 3:19 |
 | 38 | [King Of The World](https://open.spotify.com/track/6yK2aEEVtYTmQ2ca3wja3S) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [King Of The World](https://open.spotify.com/album/2YP4ubZ2u87XOAkeRaKwlU) | 3:19 |
 | 39 | [ex\-whatever](https://open.spotify.com/track/3QiZU9S88JfHq8WID313Cj) | [Casey Cattie](https://open.spotify.com/artist/5TjQHpwFAlIEKv5piFHm2S) | [ex\-whatever](https://open.spotify.com/album/26YhLLOsTQU1WurV9L2OEu) | 2:51 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 142 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
 | 143 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCwyM2VlNGY4NzFkODVlNjBiOWZkOTQ0MmZmODI0MWZmZjgzZDA1Nzc3`
+Snapshot ID: `MCwwZGI1NDA1ZDBiMGIyMzQ3YjU4MmM4N2YzZGQzOGFmOGUxZDMwOGM1`

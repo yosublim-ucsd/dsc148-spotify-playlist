@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Mambolosco, Rondodasosa
 
-285 songs - 13 hr 17 min
+286 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 | 2023-04-21 |  |
 | [MARADONA](https://open.spotify.com/track/1Bf3WnU7Y6YGP0k4RbbErB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:42 | 2023-01-05 | 2023-04-07 |
 | [Marciapiede \(con Tony Effe, Ernia & Rkomi\)](https://open.spotify.com/track/7nz7IQI6XfGLbpLB2ZLfXr) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:36 | 2022-09-15 | 2022-09-23 |
-| [MARE D'INVERNO](https://open.spotify.com/track/4Swgi2Bhc5tOItkVV6kRWD) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [MARE D'INVERNO](https://open.spotify.com/album/4loYrn68GcsB61ERQMaG2J) | 3:06 | 2023-04-27 |  |
+| [MARE D'INVERNO](https://open.spotify.com/track/4Swgi2Bhc5tOItkVV6kRWD) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [MARE D'INVERNO](https://open.spotify.com/album/4loYrn68GcsB61ERQMaG2J) | 3:06 | 2023-04-27 | 2023-05-18 |
 | [Mariè \(feat\. Kassimi\)](https://open.spotify.com/track/5MfWyat51dW4EnIAl3HL3j) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Mariè \(feat\. Kassimi\)](https://open.spotify.com/album/47yhTU5uScGBADR14wgyC3) | 2:54 | 2022-10-27 |  |
 | [MASK](https://open.spotify.com/track/6P8OzV6alsFX9tBKNQ6c9s) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [MASK](https://open.spotify.com/album/2SD92ubkmpy5cnEy1Xfmpt) | 2:21 | 2022-05-11 | 2022-06-10 |
 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2022-06-16 | 2023-03-31 |
@@ -285,6 +285,7 @@
 | [WAKANDA](https://open.spotify.com/track/4ApTJO5GLmci7uNivte6mE) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [WAKANDA](https://open.spotify.com/album/65snFdLpTuZB0dYzHscNpg) | 2:16 | 2022-05-12 | 2022-06-03 |
 | [Walkie Talkie](https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Walkie Talkie](https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B) | 2:20 | 2022-09-22 | 2022-10-28 |
 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 | 2023-04-20 |  |
+| [WE ON EM \(feat\. NLE Choppa\)](https://open.spotify.com/track/4dxGWEYW7UBxG1piCzVH6F) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE ON EM \(feat\. NLE Choppa\)](https://open.spotify.com/album/7udyn4k5NezxJxkmogAuxK) | 3:12 | 2023-05-17 |  |
 | [Welcome To Favelas](https://open.spotify.com/track/0m0usigRxg1cvBo0ezr0ts) | [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ) | [Welcome To Favelas](https://open.spotify.com/album/1VPtdhsrRbB0hjfmU7yYHa) | 2:52 | 2023-01-19 | 2023-02-03 |
 | [Wroom Wroom](https://open.spotify.com/track/4xtSgGX5CQgVXTCRhagLf1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Wroom Wroom](https://open.spotify.com/album/1jVXH8SRRkuLIgLXn9JsD1) | 2:28 | 2022-08-23 | 2022-12-02 |
 | [X Sempre](https://open.spotify.com/track/5Vw9le6wrmCUwmrYnu56Gl) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 3:25 | 2022-06-23 | 2022-08-31 |

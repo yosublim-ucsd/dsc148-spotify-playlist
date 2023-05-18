@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 133275,
+  "num_followers": 133669,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmNjNDJlZGM5OWEyNWM0NmI2Y2Q0MTU4ZjExOGE4NmNkMTAxZjdk",
+  "snapshot_id": "MCw1MmE3MDEzOTBlYjJlNTc0YWI4Y2VlZTZmYTcxYTQ2YmQzNDBhYzQw",
   "tracks": [
     {
       "added_at": "2023-05-16 04:21:46",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
-        "name": "Yellow Flower",
-        "url": "https://open.spotify.com/album/7zIvhrdl7dvtucNw4tSd62"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 211236,
-      "name": "Starry Night",
-      "url": "https://open.spotify.com/track/3qUJ0kC9YdBO5qRFdYXeXX"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
         "name": "WIND AND WISH",
         "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 221466,
       "name": "Wind And Wish",
       "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
+        "name": "Yellow Flower",
+        "url": "https://open.spotify.com/album/7zIvhrdl7dvtucNw4tSd62"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 211236,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/3qUJ0kC9YdBO5qRFdYXeXX"
     },
     {
       "added_at": "2023-05-16 04:21:46",

@@ -154,7 +154,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-18",
       "duration_ms": 202946,
       "name": "Annyit ittam / Drunk of Sorrow",
       "url": "https://open.spotify.com/track/447rNejHz3QNftrTtEcxtF"
@@ -2094,6 +2094,24 @@
       "duration_ms": 138146,
       "name": "One Step Beyond - 2009 - Remaster",
       "url": "https://open.spotify.com/track/0bAYJxEe6ate8gL0G2qj1B"
+    },
+    {
+      "album": {
+        "name": "BalkanBeats",
+        "url": "https://open.spotify.com/album/5MjkNUydPIUTg8EW4bXOsi"
+      },
+      "artists": [
+        {
+          "name": "Slavic Soul Party!",
+          "url": "https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280066,
+      "name": "Opa Cupa",
+      "url": "https://open.spotify.com/track/1ramTBkEuNstQWIP6hIgDv"
     },
     {
       "album": {
